@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T016
-- Title: Finish open-source docs and GitHub automation
-- Acceptance: README, licenses, notices, original-content and trademark boundaries, contributing rules, PR template, CI, Pages deployment and content reports are complete; workflows perform no local remote action.
-- Verification: workflow YAML structure checks, generated coverage/copyright report, tracked-file audit and documentation link inspection.
-- Intended file scope: repository documentation, GitHub workflows/templates, validation reports and delivery scripts.
+- ID: T017
+- Title: Run full verification, visual QA and acceptance reporting
+- Acceptance: all automated gates pass; desktop, tablet and mobile layouts plus keyboard/offline flows are exercised in a real browser; final report maps each observed result and external limitation without overstating GitHub or live AI status.
+- Verification: `npm run verify`, Playwright multi-viewport/offline tests, screenshot inspection, Git tracked-file audit, GitHub authentication status.
+- Intended file scope: Playwright configuration/tests, small defects found by QA, final Ralph evidence and release documentation.

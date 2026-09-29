@@ -14,13 +14,16 @@
     "typecheck": "tsc -b --pretty false && tsc -p worker/tsconfig.json --pretty false",
     "content:validate": "node scripts/validate-content.mjs",
     "content:validate:draft": "node scripts/validate-content.mjs --allow-incomplete",
+    "content:report": "node scripts/generate-content-report.mjs",
+    "content:report:check": "node scripts/generate-content-report.mjs --check",
     "test": "vitest",
     "test:run": "vitest run",
     "test:worker": "vitest run worker",
     "test:pwa": "node scripts/verify-pwa.mjs",
     "test:secrets": "node scripts/scan-secrets.mjs",
+    "test:repository": "node scripts/validate-repository.mjs",
     "test:e2e": "playwright test",
-    "verify": "npm run content:validate && npm run typecheck && npm run test:run && npm run build && npm run test:pwa && npm run test:secrets"
+    "verify": "npm run content:validate && npm run content:report:check && npm run test:repository && npm run typecheck && npm run test:run && npm run build && npm run test:pwa && npm run test:secrets"
   },
   "dependencies": {
     "fuse.js": "^7.5.0",

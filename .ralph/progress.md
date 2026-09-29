@@ -23,3 +23,11 @@
 - Files changed: `src/types`, `content/manifest.yaml`, representative scarcity content and quizzes, `scripts`, and generated bundles.
 - Remaining risk: only one knowledge point is authored; the current UI is still the foundation placeholder.
 - Next task: T004 - build and hand off the first meaningful study-workspace preview.
+
+## 2026-09-30 - T016
+
+- What changed: completed bilingual project documentation, contributor and security rules, privacy/publishing/AI deployment guides, PR and Dependabot configuration, CI and Pages workflows, and deterministic content-coverage and copyright-boundary reports.
+- Verification: PASS - `npm run verify`; workflow YAML and eight documentation files were structurally checked, 43/43 content validation passed, 38 tests passed, the PWA built, and 266 candidate files passed the secret scan.
+- Files changed: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `docs/`, `.github/`, `reports/`, repository/report validators and package scripts.
+- Remaining risk: responsive, keyboard and post-install offline behavior still require real-browser evidence; remote GitHub/Pages and live AI remain unobserved.
+- Next task: T017 - full browser QA and final acceptance reporting.

@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 15,
+  "current_iteration": 16,
   "status": "running",
   "tasks": [
     {
@@ -226,7 +226,7 @@
       "id": "T016",
       "title": "Finish open-source docs and GitHub automation",
       "type": "delivery",
-      "status": "in_progress",
+      "status": "done",
       "priority": "medium",
       "dependencies": ["T015"],
       "acceptance": ["README, contribution rules, notices, CI and Pages workflow are complete", "No remote action runs locally"],
@@ -234,13 +234,13 @@
       "files_expected": ["README.md", "CONTRIBUTING.md", ".github/workflows"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "Bilingual README and contributor/security/privacy/publishing/Worker docs, PR/Dependabot configuration, CI/Pages workflows, deterministic content/copyright reports and repository validation pass the full verification gate."
     },
     {
       "id": "T017",
       "title": "Run full verification, visual QA and acceptance reporting",
       "type": "verification",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T016"],
       "acceptance": ["All automated gates pass", "Desktop and mobile visuals inspected", "Final report maps evidence and limitations"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T015",
+  "last_successful_task": "T016",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T01:20:00+08:00"
+  "updated_at": "2026-09-30T01:50:00+08:00"
 }
