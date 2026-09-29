@@ -9,8 +9,8 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 16,
-  "status": "running",
+  "current_iteration": 17,
+  "status": "blocked",
   "tasks": [
     {
       "id": "T001",
@@ -240,7 +240,7 @@
       "id": "T017",
       "title": "Run full verification, visual QA and acceptance reporting",
       "type": "verification",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T016"],
       "acceptance": ["All automated gates pass", "Desktop and mobile visuals inspected", "Final report maps evidence and limitations"],
@@ -248,13 +248,15 @@
       "files_expected": [".ralph/final_report.md"],
       "attempts": 0,
       "last_error": "",
-      "notes": "Remote GitHub and Pages evidence may remain a documented external blocker, not a local product failure."
+      "notes": "Full verify, 10 applicable Playwright checks across three viewports, manual headed-browser inspection, copyright audit, and both verify plus Playwright from a fresh local clone pass. Visual QA found and fixed a PPC icon selector regression."
     }
   ],
-  "blockers": [],
-  "last_successful_task": "T016",
+  "blockers": [
+    "GitHub CLI authentication for louisjia2008-ux is invalid; no remote repository, branch push, PR, hosted CI, or Pages deployment can be truthfully verified until the user re-authenticates and authorises that external publication step."
+  ],
+  "last_successful_task": "T017",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T01:50:00+08:00"
+  "updated_at": "2026-09-30T00:18:06+08:00"
 }

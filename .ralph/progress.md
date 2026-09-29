@@ -31,3 +31,11 @@
 - Files changed: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `docs/`, `.github/`, `reports/`, repository/report validators and package scripts.
 - Remaining risk: responsive, keyboard and post-install offline behavior still require real-browser evidence; remote GitHub/Pages and live AI remain unobserved.
 - Next task: T017 - full browser QA and final acceptance reporting.
+
+## 2026-09-30 - T017
+
+- What changed: added repeatable 1440/768/390 Playwright acceptance, offline PWA and 200% text-scale checks, mobile directory and settings navigation, live mastery/scope statistics, search mastery labels, and responsive/PPC visual fixes; completed the final acceptance report.
+- Verification: PASS locally and from a fresh no-hardlinks clone of `417c604` — `npm ci`, `npm run verify`, and `npm run test:e2e`; 38 Vitest checks and 10 applicable Playwright checks pass.
+- Visual evidence: headed Chromium screenshots inspected desktop, tablet, mobile, drawer, review centre, and PPC. An over-broad PPC SVG selector was found, fixed, and regression-tested.
+- Remaining risk: Vite reports a non-fatal ~999 kB minified (~271 kB gzip) entry chunk; public GitHub, Pages, Safari/Firefox/physical-device and live-model operation remain unobserved.
+- External blocker: GitHub CLI has an invalid `louisjia2008-ux` credential and the repository has no remote. Stop without push, PR, merge, deployment, or credential creation until the user re-authenticates and resumes.

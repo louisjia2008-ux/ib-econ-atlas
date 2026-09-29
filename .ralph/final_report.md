@@ -30,7 +30,7 @@ Status: local implementation complete; remote publication blocked by GitHub auth
 | Responsive viewports | PASS — Chromium at 1440×1000, 768×1024, and 390×844 |
 | Offline workflow | PASS — installed service worker reload, study, and bilingual search work offline |
 | 200% text scaling | PASS — narrow viewport has no horizontal document overflow |
-| Fresh-clone reproduction | PENDING — run after the local acceptance commit |
+| Fresh-clone reproduction | PASS — `npm ci`, `npm run verify`, and `npm run test:e2e` from a no-hardlinks clone of `417c604` |
 
 The Playwright suite also covers Hash deep links, bilingual fuzzy search, dual directories, session scope, scoped progress, short-answer scoring and override, persisted progress, backup credential exclusions, PPC keyboard/growth/static alternatives, mobile drawer Escape handling, and language switching without route or scroll loss.
 
@@ -50,7 +50,7 @@ Manual headed-Chromium screenshots were inspected at the three release widths. A
 
 - No Git remote exists yet. `gh auth status` reports the intended `louisjia2008-ux` login token as invalid, so the public repository, feature-branch push, unmerged PR, GitHub-hosted CI, and Pages URL are not created or verified.
 - The optional AI runtime is **not configured and not live-verified**. Only its local mock/contract boundary is verified.
-- Public Pages behavior, a fresh GitHub clone, Safari, Firefox, and physical touch devices remain unobserved. The current browser acceptance is Chromium-based.
+- Public Pages behavior, a fresh clone from GitHub, Safari, Firefox, and physical touch devices remain unobserved. A fresh local Git clone is verified; current browser acceptance is Chromium-based.
 - The production JavaScript bundle is about 999 kB minified / 271 kB gzip. It passes the functional gate, but Vite emits a non-fatal chunk-size warning; later units should introduce content-level code splitting before the full-course corpus grows.
 
 ## Publication gate

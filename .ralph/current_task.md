@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T017
-- Title: Run full verification, visual QA and acceptance reporting
-- Acceptance: all automated gates pass; desktop, tablet and mobile layouts plus keyboard/offline flows are exercised in a real browser; final report maps each observed result and external limitation without overstating GitHub or live AI status.
-- Verification: `npm run verify`, Playwright multi-viewport/offline tests, screenshot inspection, Git tracked-file audit, GitHub authentication status.
-- Intended file scope: Playwright configuration/tests, small defects found by QA, final Ralph evidence and release documentation.
+- Local task queue: complete through T017.
+- Completion state: `RALPH_BLOCKED` only on the external publication step.
+- Blocking condition: `gh auth status` reports an invalid token for `louisjia2008-ux`; no Git remote exists.
+- User action required: re-authenticate GitHub CLI, then explicitly resume the public repository / PR / Pages phase.
+- Preserved state: local branch `codex/unit-1-mvp`, complete commit history, ignored source PDF, no live AI credentials.
