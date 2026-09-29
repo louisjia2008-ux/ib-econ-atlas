@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 2,
+  "current_iteration": 3,
   "status": "running",
   "tasks": [
     {
@@ -44,7 +44,7 @@
       "id": "T003",
       "title": "Define content contracts, manifest and validation pipeline",
       "type": "content-infrastructure",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T002"],
       "acceptance": ["Schemas cover localized content and quiz types", "Validator fails invalid references and wrong count"],
@@ -52,13 +52,13 @@
       "files_expected": ["src/types", "scripts/validate-content.mjs", "content"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "43-entry manifest, localized Markdown contract, quiz contract, strict/draft validator and compiler verified."
     },
     {
       "id": "T004",
       "title": "Build the first meaningful study-workspace preview",
       "type": "ui-slice",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T003"],
       "acceptance": ["Three-column workspace renders representative bilingual content", "Search entry and primary navigation are visible", "Preview compiles"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T002",
+  "last_successful_task": "T003",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T22:29:00+08:00"
+  "updated_at": "2026-09-29T22:39:00+08:00"
 }

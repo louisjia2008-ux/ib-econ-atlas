@@ -1,0 +1,36 @@
+- id: u1-04-scarcity-flash-1
+  knowledgePointId: u1-04-scarcity
+  type: flashcard
+  prompt:
+    zh-CN: 用一句完整的话定义经济学中的稀缺性。
+    en: Define scarcity in economics in one complete sentence.
+  answer:
+    zh-CN: 稀缺性是有限资源无法满足相对无限的需求和欲望，因此必须作出选择。
+    en: Scarcity exists because limited resources cannot satisfy relatively unlimited needs and wants, so choices must be made.
+  explanation:
+    zh-CN: 高质量定义必须同时包含资源有限、欲望相对无限和选择不可避免。
+    en: A strong definition connects limited resources, relatively unlimited wants and unavoidable choice.
+- id: u1-04-scarcity-mcq-1
+  knowledgePointId: u1-04-scarcity
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一种情境最准确地体现了稀缺性？
+    en: Which situation most accurately illustrates scarcity?
+  options:
+    - id: a
+      zh-CN: 商店暂时卖完一种饮料
+      en: A shop temporarily runs out of one drink
+    - id: b
+      zh-CN: 政府必须在医院和公共交通之间分配有限预算
+      en: A government must divide a limited budget between hospitals and public transport
+    - id: c
+      zh-CN: 一件商品的价格下降
+      en: The price of a product falls
+    - id: d
+      zh-CN: 企业拥有未使用的仓库
+      en: A firm owns an unused warehouse
+  correctOptionId: b
+  explanation:
+    zh-CN: 有限预算存在相互竞争的用途，选择一种用途会减少另一种用途可获得的资源。
+    en: The limited budget has competing uses, so choosing one use reduces the resources available to the other.
+

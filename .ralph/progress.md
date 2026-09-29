@@ -15,3 +15,11 @@
 - Files changed: package/tooling configuration, initial `src/`, `public/favicon.svg`, legal files, and `package-lock.json`.
 - Remaining risk: the placeholder is not yet a meaningful preview and no content schema exists.
 - Next task: T003 - define content contracts, manifest and validation pipeline.
+
+## 2026-09-29 - T003
+
+- What changed: defined the public content/progress/AI types, fixed the exact 43-entry Unit 1 manifest, added structured bilingual Markdown and quiz contracts, and implemented draft/strict validation plus generated frontend/Worker bundles.
+- Verification: PASS - draft validation, explicit strict-rejection test, compilation, and typecheck.
+- Files changed: `src/types`, `content/manifest.yaml`, representative scarcity content and quizzes, `scripts`, and generated bundles.
+- Remaining risk: only one knowledge point is authored; the current UI is still the foundation placeholder.
+- Next task: T004 - build and hand off the first meaningful study-workspace preview.
