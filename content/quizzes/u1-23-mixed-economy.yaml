@@ -43,3 +43,62 @@
     en: A mixed economy is a system in which private markets and the public sector
       both own resources and share responsibility for production, allocation,
       and distribution.
+- id: u1-23-mixed-economy-short-1
+  knowledgePointId: u1-23-mixed-economy
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“混合经济”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The mixed economy”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。
+      多数日常选择由价格和私人主体协调；法律与监管设定市场边界；政府通过税收、转移和公共服务改变结果；制度组合随政策目标和证据调整
+      现实经济体通常同时使用市场和政府。
+    en: A mixed economy is a system in which private markets and the public sector
+      both own resources and share responsibility for production, allocation,
+      and distribution. Prices and private agents coordinate many daily choices;
+      Law and regulation set market boundaries; Taxes, transfers, and public
+      services alter outcomes; The institutional mix changes with objectives and
+      evidence Most actual economies use both markets and government.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 混合经济
+          - 混合市场经济
+          - 公私混合制度
+          - mixed system
+        en:
+          - The mixed economy
+          - mixed-market economy
+          - public-private system
+          - mixed system
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 多数日常选择由价格和私人主体协调
+          - 法律与监管设定市场边界
+        en:
+          - Prices and private agents coordinate many daily choices
+          - Law and regulation set market boundaries
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 现实经济体通常同时使用市场和政府。
+          - 组合在行业和时期之间不同。
+        en:
+          - Most actual economies use both markets and government.
+          - The mix differs across sectors and over time.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

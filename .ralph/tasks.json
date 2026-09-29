@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 11,
+  "current_iteration": 12,
   "status": "running",
   "tasks": [
     {
@@ -170,7 +170,7 @@
       "id": "T012",
       "title": "Implement review modes, answer scoring and scheduling",
       "type": "feature",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T011"],
       "acceptance": ["All four review modes work", "Keyword coverage and override are visible", "Mastery transitions are deterministic"],
@@ -178,13 +178,13 @@
       "files_expected": ["src/features/review"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "All 43 points now have flashcard, MCQ and short-answer items. Bilingual keyword scoring, manual override, four modes and deterministic FSRS mastery/rollback pass seven tests."
     },
     {
       "id": "T013",
       "title": "Implement accessible interactive PPC and responsive layouts",
       "type": "feature",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "medium",
       "dependencies": ["T012"],
       "acceptance": ["PPC supports pointer/keyboard/reset/shift", "Table alternative exists", "Desktop/mobile layouts do not overflow"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T011",
+  "last_successful_task": "T012",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T00:26:00+08:00"
+  "updated_at": "2026-09-30T00:40:00+08:00"
 }

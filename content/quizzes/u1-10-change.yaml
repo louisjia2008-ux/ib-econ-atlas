@@ -43,3 +43,61 @@
     en: Change refers to adjustment over time in agents, resources, technology,
       institutions, or the external environment and to the resulting shifts in
       production, distribution, and well-being.
+- id: u1-10-change-short-1
+  knowledgePointId: u1-10-change
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“变化”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Change”, including one causal mechanism and one important
+      implication.
+  modelAnswer:
+    zh-CN: 变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。
+      技术、政策或偏好发生变化；相对成本和激励随之改变；家庭与企业调整行为；市场结构、产出和分配出现新结果 经济环境不是静止的。
+    en: Change refers to adjustment over time in agents, resources, technology,
+      institutions, or the external environment and to the resulting shifts in
+      production, distribution, and well-being. Technology, policy, or
+      preferences change; Relative costs and incentives move; Households and
+      firms adjust behaviour; Market structure, output, and distribution reach
+      new outcomes The economic environment is not static.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 变化
+          - 经济变化
+          - 动态调整
+          - 结构转型
+        en:
+          - Change
+          - economic change
+          - dynamic adjustment
+          - structural transition
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 技术、政策或偏好发生变化
+          - 相对成本和激励随之改变
+        en:
+          - Technology, policy, or preferences change
+          - Relative costs and incentives move
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 经济环境不是静止的。
+          - 激励变化通过行为调整影响结果。
+        en:
+          - The economic environment is not static.
+          - Changing incentives work through behavioural adjustment.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 11,
-  "current_task_id": "T012",
-  "last_task_id": "T011",
+  "current_iteration": 12,
+  "current_task_id": "T013",
+  "last_task_id": "T012",
   "last_verification": {
     "status": "PASS",
-    "command": "npm run typecheck && npm run test:run -- backup && npm run build",
-    "summary": "Five IndexedDB backup/import tests and the strict build pass; invalid imports are atomic and sensitive/session values are excluded."
+    "command": "npm run typecheck && npm run test:run -- review && npm run build",
+    "summary": "Seven scoring, rating, queue and frozen-time FSRS tests pass; the strict build includes 129 practice items."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-30T00:26:00+08:00"
+  "updated_at": "2026-09-30T00:40:00+08:00"
 }

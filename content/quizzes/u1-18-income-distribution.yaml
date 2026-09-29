@@ -45,3 +45,63 @@
       services are divided among people, households, or factors of production.
       Redistribution is a deliberate policy-induced change to the initial
       distribution.
+- id: u1-18-income-distribution-short-1
+  knowledgePointId: u1-18-income-distribution
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“收入与产出分配”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Income and output distribution”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。
+      生产要素所有权与市场回报形成初次收入；收入决定大部分市场购买力；税收、现金转移和公共服务介入；可支配收入与实际获得的产出重新分布
+      要素回报影响初次收入分配。
+    en: Income and output distribution describes how national income and goods or
+      services are divided among people, households, or factors of production.
+      Redistribution is a deliberate policy-induced change to the initial
+      distribution. Factor ownership and market returns generate original
+      income; Income determines most market purchasing power; Taxes, cash
+      transfers, and public services intervene; Disposable income and effective
+      access to output are redistributed Factor returns shape original income.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 收入与产出分配
+          - 收入分配
+          - 产出分配
+          - 收入再分配
+        en:
+          - Income and output distribution
+          - income distribution
+          - distribution of output
+          - redistribution
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 生产要素所有权与市场回报形成初次收入
+          - 收入决定大部分市场购买力
+        en:
+          - Factor ownership and market returns generate original income
+          - Income determines most market purchasing power
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 要素回报影响初次收入分配。
+          - 购买力影响市场产出的获得。
+        en:
+          - Factor returns shape original income.
+          - Purchasing power affects access to market output.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

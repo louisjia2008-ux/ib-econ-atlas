@@ -43,3 +43,62 @@
     en: The market mechanism is the process through which supply and demand interact
       so that price signals, incentives, and rationing coordinate buying and
       selling decisions and allocate resources.
+- id: u1-19-market-mechanism-short-1
+  knowledgePointId: u1-19-market-mechanism
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“市场机制”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The market mechanism”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+      买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources. Desired purchases and sales do
+      not initially match; Shortage or surplus puts pressure on price; Price
+      changes consumer and producer incentives; Quantities and resources adjust
+      toward a new market outcome Price aggregates information about supply and
+      demand.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 市场机制
+          - 价格机制
+          - 供需机制
+          - 市场配置
+        en:
+          - The market mechanism
+          - price mechanism
+          - supply-demand mechanism
+          - market allocation
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 买方需求与卖方供给不一致
+          - 短缺或剩余推动价格变化
+        en:
+          - Desired purchases and sales do not initially match
+          - Shortage or surplus puts pressure on price
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 价格汇集供需信息。
+          - 价格改变买卖双方的激励。
+        en:
+          - Price aggregates information about supply and demand.
+          - Price changes incentives on both sides of a market.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

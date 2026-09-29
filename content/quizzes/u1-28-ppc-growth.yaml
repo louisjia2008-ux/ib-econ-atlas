@@ -45,3 +45,64 @@
       Growth in production possibilities is an outward shift of the maximum
       feasible boundary caused by more or better resources or improved
       technology.
+- id: u1-28-ppc-growth-short-1
+  knowledgePointId: u1-28-ppc-growth
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“实际增长与生产潜力增长”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Actual and potential growth”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。
+      经济体可能先在边界以内运行；更高资源利用率使实际点靠近边界；投资、教育、资源发现或技术进步扩大能力；PPC 向外移动并允许更高长期产出
+      边界内向边界移动表示利用率提高。
+    en: Actual growth is an increase in current output within existing capacity.
+      Growth in production possibilities is an outward shift of the maximum
+      feasible boundary caused by more or better resources or improved
+      technology. The economy may initially operate inside its frontier; Higher
+      utilisation moves actual output toward the line; Investment, education,
+      resource discovery, or technology expands capacity; The PPC shifts outward
+      and permits greater long-run output Movement from inside toward the
+      frontier raises utilisation.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 实际增长与生产潜力增长
+          - 实际产出增长
+          - 潜在增长
+          - PPC外移
+        en:
+          - Actual and potential growth
+          - growth in actual output
+          - potential growth
+          - outward PPC shift
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 经济体可能先在边界以内运行
+          - 更高资源利用率使实际点靠近边界
+        en:
+          - The economy may initially operate inside its frontier
+          - Higher utilisation moves actual output toward the line
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 边界内向边界移动表示利用率提高。
+          - 边界外移表示最大能力扩大。
+        en:
+          - Movement from inside toward the frontier raises utilisation.
+          - An outward shift expands maximum capacity.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

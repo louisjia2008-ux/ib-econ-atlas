@@ -53,6 +53,7 @@ function markdownDocument(topic, locale) {
 function buildPractice(topic) {
   const flashId = `${topic.id}-flash-1`;
   const mcqId = `${topic.id}-mcq-1`;
+  const shortId = `${topic.id}-short-1`;
   const number = Number(topic.id.slice(3, 5));
   const correctIndex = Number.isFinite(number) ? number % 4 : 0;
   const optionIds = ["a", "b", "c", "d"];
@@ -97,6 +98,49 @@ function buildPractice(topic) {
       explanation: {
         "zh-CN": topic["zh-CN"].definition,
         en: topic.en.definition,
+      },
+    },
+    {
+      id: shortId,
+      knowledgePointId: topic.id,
+      type: "short-answer",
+      prompt: {
+        "zh-CN": `简要解释“${topic["zh-CN"].title}”，并写出一条因果机制和一个重要含义。`,
+        en: `Briefly explain “${topic.en.title}”, including one causal mechanism and one important implication.`,
+      },
+      modelAnswer: {
+        "zh-CN": `${topic["zh-CN"].definition} ${topic["zh-CN"].causalChain.join("；")} ${topic["zh-CN"].summary[0]}`,
+        en: `${topic.en.definition} ${topic.en.causalChain.join("; ")} ${topic.en.summary[0]}`,
+      },
+      keywordGroups: [
+        {
+          id: "concept",
+          label: { "zh-CN": "核心概念", en: "Core concept" },
+          alternatives: {
+            "zh-CN": [topic["zh-CN"].title, ...topic["zh-CN"].synonyms],
+            en: [topic.en.title, ...topic.en.synonyms],
+          },
+        },
+        {
+          id: "mechanism",
+          label: { "zh-CN": "因果机制", en: "Causal mechanism" },
+          alternatives: {
+            "zh-CN": topic["zh-CN"].causalChain.slice(0, 2),
+            en: topic.en.causalChain.slice(0, 2),
+          },
+        },
+        {
+          id: "implication",
+          label: { "zh-CN": "重要含义", en: "Important implication" },
+          alternatives: {
+            "zh-CN": topic["zh-CN"].summary.slice(0, 2),
+            en: topic.en.summary.slice(0, 2),
+          },
+        },
+      ],
+      explanation: {
+        "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+        en: "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement.",
       },
     },
   ];

@@ -43,3 +43,62 @@
       privately owned and production and consumption are coordinated mainly
       through competitive markets and the price mechanism, with a comparatively
       limited state role.
+- id: u1-21-free-market-economy-short-1
+  knowledgePointId: u1-21-free-market-economy
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“自由市场经济”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The free-market economy”, including one causal mechanism
+      and one important implication.
+  modelAnswer:
+    zh-CN: 自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
+      私人产权赋予使用和收益权；消费者支出表达有效需求；利润与亏损引导企业进入或退出；价格协调资源和产出 私人产权和价格是主要协调机制。
+    en: A free-market economy is a system in which resources are predominantly
+      privately owned and production and consumption are coordinated mainly
+      through competitive markets and the price mechanism, with a comparatively
+      limited state role. Private property grants rights to use assets and
+      receive returns; Consumer spending expresses effective demand; Profit and
+      loss encourage entry or exit; Prices coordinate resources and output
+      Private property and prices are primary coordinating institutions.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 自由市场经济
+          - 市场经济
+          - 资本主义市场制度
+          - laissez-faire economy
+        en:
+          - The free-market economy
+          - market economy
+          - capitalist market system
+          - laissez-faire economy
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 私人产权赋予使用和收益权
+          - 消费者支出表达有效需求
+        en:
+          - Private property grants rights to use assets and receive returns
+          - Consumer spending expresses effective demand
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 私人产权和价格是主要协调机制。
+          - 利润提供生产激励。
+        en:
+          - Private property and prices are primary coordinating institutions.
+          - Profit creates an incentive for production and adaptation.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

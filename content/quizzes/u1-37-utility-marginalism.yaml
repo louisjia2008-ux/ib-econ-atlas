@@ -43,3 +43,62 @@
     en: Utility theory treats satisfaction from consumption as a basis for choice.
       Marginalism studies the extra utility, output, or cost created by a small
       increase and explains decisions through marginal comparison.
+- id: u1-37-utility-marginalism-short-1
+  knowledgePointId: u1-37-utility-marginalism
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“效用理论与边际主义”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Utility theory and marginalism”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。
+      经济主体已经拥有一定数量；额外一单位带来边际收益或效用；获得该单位也产生边际成本；主体比较两者并调整直到继续改变不再有利 选择发生在边际。
+    en: Utility theory treats satisfaction from consumption as a basis for choice.
+      Marginalism studies the extra utility, output, or cost created by a small
+      increase and explains decisions through marginal comparison. An agent
+      already holds or produces some quantity; One more unit creates a marginal
+      benefit or utility; Obtaining that unit also creates marginal cost; The
+      agent adjusts until a further change no longer improves the objective
+      Choice takes place at the margin.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 效用理论与边际主义
+          - 边际革命
+          - 边际效用
+          - marginal analysis
+        en:
+          - Utility theory and marginalism
+          - marginal revolution
+          - marginal utility
+          - marginal analysis
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 经济主体已经拥有一定数量
+          - 额外一单位带来边际收益或效用
+        en:
+          - An agent already holds or produces some quantity
+          - One more unit creates a marginal benefit or utility
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 选择发生在边际。
+          - 边际效用通常随消费增加而下降。
+        en:
+          - Choice takes place at the margin.
+          - Marginal utility commonly falls as consumption rises.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

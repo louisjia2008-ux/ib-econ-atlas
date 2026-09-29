@@ -43,3 +43,62 @@
     en: A free good is a good or resource so abundant relative to demand that an
       additional unit has no significant opportunity cost under the conditions
       being considered.
+- id: u1-15-free-goods-short-1
+  knowledgePointId: u1-15-free-goods
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“免费物品”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Free goods”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。
+      资源在特定条件下非常充裕；额外使用不排挤其他人的可行用途；边际机会成本接近零；无需通过价格配置该边际单位 免费物品的边际机会成本接近零。
+    en: A free good is a good or resource so abundant relative to demand that an
+      additional unit has no significant opportunity cost under the conditions
+      being considered. A resource is highly abundant in a specific context;
+      Extra use does not exclude a feasible use by someone else; Marginal
+      opportunity cost is approximately zero; No price mechanism is needed to
+      allocate that marginal unit A free good has approximately zero marginal
+      opportunity cost.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 免费物品
+          - 非稀缺物品
+          - 无机会成本物品
+          - free resource
+        en:
+          - Free goods
+          - non-scarce good
+          - zero-opportunity-cost good
+          - free resource
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 资源在特定条件下非常充裕
+          - 额外使用不排挤其他人的可行用途
+        en:
+          - A resource is highly abundant in a specific context
+          - Extra use does not exclude a feasible use by someone else
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 免费物品的边际机会成本接近零。
+          - 零价格不等于没有资源成本。
+        en:
+          - A free good has approximately zero marginal opportunity cost.
+          - Zero price does not mean zero resource cost.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

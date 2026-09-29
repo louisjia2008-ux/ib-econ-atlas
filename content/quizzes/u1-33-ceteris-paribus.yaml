@@ -43,3 +43,61 @@
     en: Ceteris paribus means assuming that relevant influences other than the
       variable under study remain unchanged so that one relationship can be
       analysed separately.
+- id: u1-33-ceteris-paribus-short-1
+  knowledgePointId: u1-33-ceteris-paribus
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“其他条件不变”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Ceteris paribus”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
+      结果同时受到多个因素影响；分析者选择一个关注变量；暂时固定其他影响因素；推导该变量变化的独立方向性影响 该假设用于隔离单一关系。
+    en: Ceteris paribus means assuming that relevant influences other than the
+      variable under study remain unchanged so that one relationship can be
+      analysed separately. An outcome is influenced by several factors; The
+      analyst selects one variable of interest; Other influences are temporarily
+      held constant; The variable's independent directional effect is derived
+      The assumption isolates one relationship.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 其他条件不变
+          - 其余条件相同
+          - 控制变量
+          - all else equal
+        en:
+          - Ceteris paribus
+          - all else equal
+          - other things constant
+          - controlled-variable assumption
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 结果同时受到多个因素影响
+          - 分析者选择一个关注变量
+        en:
+          - An outcome is influenced by several factors
+          - The analyst selects one variable of interest
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 该假设用于隔离单一关系。
+          - 它是分析工具而非现实描述。
+        en:
+          - The assumption isolates one relationship.
+          - It is an analytical device, not a description of reality.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

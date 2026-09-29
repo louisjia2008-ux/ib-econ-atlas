@@ -43,3 +43,62 @@
       land (natural resources), labour (human effort and skill), capital
       (produced means of production), and entrepreneurship (organisation,
       innovation, and risk-bearing)."
+- id: u1-13-factors-of-production-short-1
+  knowledgePointId: u1-13-factors-of-production
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“四类生产要素”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Factors of production”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。
+      自然资源提供物质与空间；劳动投入时间、技能和判断；资本提高劳动与资源的生产能力；企业家组合要素并承担不确定性 土地包括自然资源。
+    en: "Factors of production are the inputs used to create goods and services:
+      land (natural resources), labour (human effort and skill), capital
+      (produced means of production), and entrepreneurship (organisation,
+      innovation, and risk-bearing). Natural resources provide materials and
+      location; Labour contributes time, skill, and judgement; Capital raises
+      the productive capacity of labour and resources; Entrepreneurship combines
+      inputs under uncertainty Land includes natural resources."
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 四类生产要素
+          - 生产投入
+          - 土地劳动资本企业家
+          - 资源要素
+        en:
+          - Factors of production
+          - productive inputs
+          - land labour capital entrepreneurship
+          - economic resources
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 自然资源提供物质与空间
+          - 劳动投入时间、技能和判断
+        en:
+          - Natural resources provide materials and location
+          - Labour contributes time, skill, and judgement
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 土地包括自然资源。
+          - 劳动包括人的体力、技能和时间。
+        en:
+          - Land includes natural resources.
+          - Labour includes human time, effort, and skill.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

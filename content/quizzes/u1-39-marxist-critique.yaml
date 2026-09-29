@@ -43,3 +43,64 @@
     en: The Marxist critique uses ownership of the means of production, class
       relations between labour and capital, surplus value, and accumulation to
       analyse distribution, power, and tendencies toward crisis in capitalism.
+- id: u1-39-marxist-critique-short-1
+  knowledgePointId: u1-39-marxist-critique
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“马克思主义批判”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The Marxist critique”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。
+      生产资料集中在资本所有者手中；无产者出售劳动力获得工资；产出价值与工资之间形成剩余并被积累；积累改变权力、技术、分配并可能加剧冲突
+      所有权结构影响生产与分配权力。
+    en: The Marxist critique uses ownership of the means of production, class
+      relations between labour and capital, surplus value, and accumulation to
+      analyse distribution, power, and tendencies toward crisis in capitalism.
+      Ownership of productive assets is concentrated among capital owners;
+      Workers sell labour power for wages; A surplus between output and labour
+      compensation is accumulated; Accumulation changes power, technology,
+      distribution, and potential conflict Ownership structures influence power
+      in production and distribution.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 马克思主义批判
+          - 马克思经济学
+          - 阶级分析
+          - 剩余价值理论
+        en:
+          - The Marxist critique
+          - Marxian economics
+          - class analysis
+          - surplus value theory
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 生产资料集中在资本所有者手中
+          - 无产者出售劳动力获得工资
+        en:
+          - Ownership of productive assets is concentrated among capital owners
+          - Workers sell labour power for wages
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 所有权结构影响生产与分配权力。
+          - 剩余和积累是分析核心。
+        en:
+          - Ownership structures influence power in production and distribution.
+          - Surplus and accumulation are central analytical ideas.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

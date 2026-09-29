@@ -46,3 +46,62 @@
       system of relationships that explains phenomena; a model is a simplified
       representation of theory; and logic makes inference from premises to
       conclusions internally consistent.
+- id: u1-32-logic-hypotheses-theories-short-1
+  knowledgePointId: u1-32-logic-hypotheses-theories
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“逻辑、假设、理论与模型”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Logic, hypotheses, theories, and models”, including one
+      causal mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
+      观察现象并提出问题；形成假设和机制解释；把关键关系表达为模型并推导预测；用证据检验后保留、修正或替代理论 逻辑连接前提与结论。
+    en: A hypothesis is a provisional testable proposition; a theory is a coherent
+      system of relationships that explains phenomena; a model is a simplified
+      representation of theory; and logic makes inference from premises to
+      conclusions internally consistent. Observe a pattern and pose a question;
+      Form a hypothesis and proposed mechanism; Represent key relationships in a
+      model and derive predictions; Use evidence to retain, revise, or replace
+      the theory Logic links premises to conclusions.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 逻辑、假设、理论与模型
+          - 经济方法论
+          - 假说与理论
+          - model reasoning
+        en:
+          - Logic, hypotheses, theories, and models
+          - economic methodology
+          - hypothesis and theory
+          - model reasoning
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 观察现象并提出问题
+          - 形成假设和机制解释
+        en:
+          - Observe a pattern and pose a question
+          - Form a hypothesis and proposed mechanism
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 逻辑连接前提与结论。
+          - 假设提出可检验命题。
+        en:
+          - Logic links premises to conclusions.
+          - A hypothesis states a testable proposition.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

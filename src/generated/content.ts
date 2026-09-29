@@ -581,7 +581,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-01-economics-social-science-flash-1",
-        "u1-01-economics-social-science-mcq-1"
+        "u1-01-economics-social-science-mcq-1",
+        "u1-01-economics-social-science-short-1"
       ]
     },
     "content": {
@@ -705,6 +706,80 @@ export const knowledgePoints = [
           "zh-CN": "经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。",
           "en": "Economics is a social science concerned with how households, firms, governments, and other agents allocate scarce resources, and with the consequences for distribution, efficiency, and well-being."
         }
+      },
+      {
+        "id": "u1-01-economics-social-science-short-1",
+        "knowledgePointId": "u1-01-economics-social-science",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“经济学作为社会科学”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Economics as a social science”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。 资源和时间有限；经济主体在制度约束下选择；选择汇聚为市场或政策结果；经济学用证据检验对这些结果的解释 经济学分析稀缺资源的配置。",
+          "en": "Economics is a social science concerned with how households, firms, governments, and other agents allocate scarce resources, and with the consequences for distribution, efficiency, and well-being. Time and resources are constrained; Agents choose within institutions and incentives; Individual decisions combine into market or policy outcomes; Evidence is used to test economic explanations Economics examines the allocation of scarce resources."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济学作为社会科学",
+                "社会科学",
+                "资源配置研究",
+                "经济选择"
+              ],
+              "en": [
+                "Economics as a social science",
+                "social science",
+                "study of allocation",
+                "economic choice"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源和时间有限",
+                "经济主体在制度约束下选择"
+              ],
+              "en": [
+                "Time and resources are constrained",
+                "Agents choose within institutions and incentives"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济学分析稀缺资源的配置。",
+                "人的选择受到激励、制度与信息影响。"
+              ],
+              "en": [
+                "Economics examines the allocation of scarce resources.",
+                "Choice responds to incentives, institutions, and information."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -753,7 +828,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-02-microeconomics-flash-1",
-        "u1-02-microeconomics-mcq-1"
+        "u1-02-microeconomics-mcq-1",
+        "u1-02-microeconomics-short-1"
       ]
     },
     "content": {
@@ -877,6 +953,80 @@ export const knowledgePoints = [
           "zh-CN": "微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。",
           "en": "Microeconomics studies the choices and interactions of individual economic agents and particular markets, including their effects on prices, quantities, efficiency, and equity."
         }
+      },
+      {
+        "id": "u1-02-microeconomics-short-1",
+        "knowledgePointId": "u1-02-microeconomics",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“微观经济学”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Microeconomics”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。 消费者和企业面对约束；他们对价格与激励作出选择；供给和需求在具体市场相遇；形成价格、数量与福利结果 微观分析关注主体和具体市场。",
+          "en": "Microeconomics studies the choices and interactions of individual economic agents and particular markets, including their effects on prices, quantities, efficiency, and equity. Consumers and firms face constraints; They respond to prices and incentives; Supply and demand interact in a particular market; Price, quantity, and welfare outcomes emerge Microeconomics focuses on agents and particular markets."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "微观经济学",
+                "个体经济分析",
+                "市场层面",
+                "micro"
+              ],
+              "en": [
+                "Microeconomics",
+                "individual-market analysis",
+                "market-level economics",
+                "micro"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "消费者和企业面对约束",
+                "他们对价格与激励作出选择"
+              ],
+              "en": [
+                "Consumers and firms face constraints",
+                "They respond to prices and incentives"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "微观分析关注主体和具体市场。",
+                "价格与激励连接个体决定。"
+              ],
+              "en": [
+                "Microeconomics focuses on agents and particular markets.",
+                "Prices and incentives connect individual decisions."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -925,7 +1075,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-03-macroeconomics-flash-1",
-        "u1-03-macroeconomics-mcq-1"
+        "u1-03-macroeconomics-mcq-1",
+        "u1-03-macroeconomics-short-1"
       ]
     },
     "content": {
@@ -1049,6 +1200,80 @@ export const knowledgePoints = [
           "zh-CN": "宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。",
           "en": "Macroeconomics treats the economy as a whole and studies aggregate output, growth, unemployment, inflation, income distribution, and the balance of payments, together with the links among them."
         }
+      },
+      {
+        "id": "u1-03-macroeconomics-short-1",
+        "knowledgePointId": "u1-03-macroeconomics",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“宏观经济学”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Macroeconomics”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。 家庭、企业和政府作出大量决定；这些决定汇总为总需求和总供给；经济体出现增长、就业与物价变化；财政与货币政策尝试稳定或改变结果 宏观研究经济体整体。",
+          "en": "Macroeconomics treats the economy as a whole and studies aggregate output, growth, unemployment, inflation, income distribution, and the balance of payments, together with the links among them. Households, firms, and governments make many decisions; Those decisions aggregate into economy-wide demand and supply; Growth, employment, and the price level change; Fiscal and monetary policy seek to stabilise or redirect outcomes Macroeconomics studies the economy as a whole."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "宏观经济学",
+                "总体经济",
+                "经济总量",
+                "macro"
+              ],
+              "en": [
+                "Macroeconomics",
+                "economy-wide analysis",
+                "aggregate economics",
+                "macro"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "家庭、企业和政府作出大量决定",
+                "这些决定汇总为总需求和总供给"
+              ],
+              "en": [
+                "Households, firms, and governments make many decisions",
+                "Those decisions aggregate into economy-wide demand and supply"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "宏观研究经济体整体。",
+                "核心指标包括增长、就业与物价稳定。"
+              ],
+              "en": [
+                "Macroeconomics studies the economy as a whole.",
+                "Growth, employment, and price stability are central indicators."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -1095,7 +1320,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-04-scarcity-flash-1",
-        "u1-04-scarcity-mcq-1"
+        "u1-04-scarcity-mcq-1",
+        "u1-04-scarcity-short-1"
       ]
     },
     "content": {
@@ -1223,6 +1449,82 @@ export const knowledgePoints = [
           "zh-CN": "有限预算存在相互竞争的用途，选择一种用途会减少另一种用途可获得的资源。",
           "en": "The limited budget has competing uses, so choosing one use reduces the resources available to the other."
         }
+      },
+      {
+        "id": "u1-04-scarcity-short-1",
+        "knowledgePointId": "u1-04-scarcity",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释稀缺性，并说明它为什么会导致选择和机会成本。",
+          "en": "Explain scarcity and why it gives rise to choice and opportunity cost."
+        },
+        "modelAnswer": {
+          "zh-CN": "资源有限而需求和欲望相对无限，所以所有目标不能同时实现。经济主体必须选择，放弃的最佳可行替代方案就是机会成本。",
+          "en": "Resources are limited while needs and wants are relatively unlimited, so not every objective can be achieved. Agents must choose, and the best feasible alternative forgone is the opportunity cost."
+        },
+        "keywordGroups": [
+          {
+            "id": "resource-constraint",
+            "label": {
+              "zh-CN": "资源限制",
+              "en": "Resource constraint"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源有限",
+                "有限资源",
+                "资源约束"
+              ],
+              "en": [
+                "limited resources",
+                "resource constraint",
+                "resources are finite"
+              ]
+            }
+          },
+          {
+            "id": "wants",
+            "label": {
+              "zh-CN": "欲望与目标",
+              "en": "Wants and objectives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "欲望无限",
+                "需求无限",
+                "不能满足所有目标"
+              ],
+              "en": [
+                "unlimited wants",
+                "wants exceed resources",
+                "cannot satisfy every objective"
+              ]
+            }
+          },
+          {
+            "id": "choice-cost",
+            "label": {
+              "zh-CN": "选择与机会成本",
+              "en": "Choice and opportunity cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "必须选择",
+                "机会成本",
+                "放弃最佳替代方案"
+              ],
+              "en": [
+                "must choose",
+                "opportunity cost",
+                "best alternative forgone"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "完整回答应覆盖资源限制、相对无限的欲望，以及选择产生机会成本三部分。",
+          "en": "A complete answer covers the resource constraint, relatively unlimited wants, and the opportunity cost created by choice."
+        }
       }
     ]
   },
@@ -1270,7 +1572,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-05-choice-flash-1",
-        "u1-05-choice-mcq-1"
+        "u1-05-choice-mcq-1",
+        "u1-05-choice-short-1"
       ]
     },
     "content": {
@@ -1394,6 +1697,80 @@ export const knowledgePoints = [
           "zh-CN": "选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。",
           "en": "Choice is the selection of one option, or a combination of options, from two or more feasible alternatives that cannot all be achieved under the available resource constraint."
         }
+      },
+      {
+        "id": "u1-05-choice-short-1",
+        "knowledgePointId": "u1-05-choice",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“选择”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Choice”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。 目标多于可用资源；经济主体识别可行方案；比较预期收益、成本与价值；采用一个方案并放弃其他用途 选择源于稀缺。",
+          "en": "Choice is the selection of one option, or a combination of options, from two or more feasible alternatives that cannot all be achieved under the available resource constraint. Objectives exceed available resources; The agent identifies feasible alternatives; Expected benefits, costs, and values are compared; One course is selected and other uses are forgone Choice follows from scarcity."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "选择",
+                "取舍",
+                "决策",
+                "经济选择"
+              ],
+              "en": [
+                "Choice",
+                "trade-off",
+                "decision",
+                "economic choice"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "目标多于可用资源",
+                "经济主体识别可行方案"
+              ],
+              "en": [
+                "Objectives exceed available resources",
+                "The agent identifies feasible alternatives"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "选择源于稀缺。",
+                "比较需要同时考虑成本、收益和价值。"
+              ],
+              "en": [
+                "Choice follows from scarcity.",
+                "Comparison involves costs, benefits, and values."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -1441,7 +1818,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-06-efficiency-flash-1",
-        "u1-06-efficiency-mcq-1"
+        "u1-06-efficiency-mcq-1",
+        "u1-06-efficiency-short-1"
       ]
     },
     "content": {
@@ -1565,6 +1943,80 @@ export const knowledgePoints = [
           "zh-CN": "经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。",
           "en": "Economic efficiency describes a situation in which resources are not wasted and, as far as possible, are allocated to uses that create greater value or satisfy more highly valued wants; productive and allocative efficiency are commonly distinguished."
         }
+      },
+      {
+        "id": "u1-06-efficiency-short-1",
+        "knowledgePointId": "u1-06-efficiency",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“效率”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Efficiency”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。 识别有限投入与可能产出；减少闲置和不必要的投入损耗；把生产组合调整到可行边界；再比较产出组合是否符合社会偏好 生产效率关注避免投入浪费。",
+          "en": "Economic efficiency describes a situation in which resources are not wasted and, as far as possible, are allocated to uses that create greater value or satisfy more highly valued wants; productive and allocative efficiency are commonly distinguished. Identify scarce inputs and feasible outputs; Remove idle capacity and unnecessary input loss; Move production to the feasible frontier; Ask whether the output mix reflects social preferences Productive efficiency concerns avoiding input waste."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "效率",
+                "经济效率",
+                "生产效率",
+                "配置效率"
+              ],
+              "en": [
+                "Efficiency",
+                "economic efficiency",
+                "productive efficiency",
+                "allocative efficiency"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "识别有限投入与可能产出",
+                "减少闲置和不必要的投入损耗"
+              ],
+              "en": [
+                "Identify scarce inputs and feasible outputs",
+                "Remove idle capacity and unnecessary input loss"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产效率关注避免投入浪费。",
+                "配置效率关注产出是否符合偏好。"
+              ],
+              "en": [
+                "Productive efficiency concerns avoiding input waste.",
+                "Allocative efficiency concerns the preferred output mix."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -1613,7 +2065,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-07-equity-flash-1",
-        "u1-07-equity-mcq-1"
+        "u1-07-equity-mcq-1",
+        "u1-07-equity-short-1"
       ]
     },
     "content": {
@@ -1737,6 +2190,80 @@ export const knowledgePoints = [
           "zh-CN": "公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。",
           "en": "Equity is a normative concept concerning the fairness of the distribution of economic resources, opportunities, burdens, and outcomes, assessed through principles such as need, contribution, opportunity, or rights."
         }
+      },
+      {
+        "id": "u1-07-equity-short-1",
+        "knowledgePointId": "u1-07-equity",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“公平”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Equity”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。 识别资源、机会或负担的分配；选择判断公正的标准；比较不同群体受到的待遇与结果；设计或评价改变分配的政策 公平是一种规范性判断。",
+          "en": "Equity is a normative concept concerning the fairness of the distribution of economic resources, opportunities, burdens, and outcomes, assessed through principles such as need, contribution, opportunity, or rights. Identify how resources, opportunities, or burdens are distributed; Choose a principle of fairness; Compare the treatment and outcomes of different groups; Design or evaluate a policy that changes the distribution Equity is a normative judgement."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "公平",
+                "公正",
+                "分配公平",
+                "经济公平"
+              ],
+              "en": [
+                "Equity",
+                "fairness",
+                "distributive justice",
+                "economic equity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "识别资源、机会或负担的分配",
+                "选择判断公正的标准"
+              ],
+              "en": [
+                "Identify how resources, opportunities, or burdens are distributed",
+                "Choose a principle of fairness"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "公平是一种规范性判断。",
+                "公平标准可能包括需要、机会与贡献。"
+              ],
+              "en": [
+                "Equity is a normative judgement.",
+                "Need, opportunity, and contribution are possible standards."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -1784,7 +2311,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-08-economic-wellbeing-flash-1",
-        "u1-08-economic-wellbeing-mcq-1"
+        "u1-08-economic-wellbeing-mcq-1",
+        "u1-08-economic-wellbeing-short-1"
       ]
     },
     "content": {
@@ -1908,6 +2436,80 @@ export const knowledgePoints = [
           "zh-CN": "经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。",
           "en": "Economic well-being is the extent to which people or groups can meet needs and improve quality of life through income, consumption, public services, health, education, security, and genuine opportunities."
         }
+      },
+      {
+        "id": "u1-08-economic-wellbeing-short-1",
+        "knowledgePointId": "u1-08-economic-wellbeing",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“经济福祉”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Economic well-being”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。 资源与公共服务决定可获得的机会；收入和价格影响实际购买力；健康、教育与安全改变人的能力；这些条件共同形成生活质量与主观体验 收入是福祉的手段而非全部。",
+          "en": "Economic well-being is the extent to which people or groups can meet needs and improve quality of life through income, consumption, public services, health, education, security, and genuine opportunities. Resources and public services shape available opportunities; Income and prices determine purchasing power; Health, education, and security expand or restrict capabilities; Together these conditions influence quality of life and lived experience Income is one means to well-being, not the whole of it."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济福祉",
+                "生活质量",
+                "经济福利",
+                "well-being"
+              ],
+              "en": [
+                "Economic well-being",
+                "quality of life",
+                "economic welfare",
+                "wellbeing"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源与公共服务决定可获得的机会",
+                "收入和价格影响实际购买力"
+              ],
+              "en": [
+                "Resources and public services shape available opportunities",
+                "Income and prices determine purchasing power"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入是福祉的手段而非全部。",
+                "公共服务与人的能力同样重要。"
+              ],
+              "en": [
+                "Income is one means to well-being, not the whole of it.",
+                "Public services and human capabilities matter."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -1955,7 +2557,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-09-sustainability-flash-1",
-        "u1-09-sustainability-mcq-1"
+        "u1-09-sustainability-mcq-1",
+        "u1-09-sustainability-short-1"
       ]
     },
     "content": {
@@ -2079,6 +2682,80 @@ export const knowledgePoints = [
           "zh-CN": "可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。",
           "en": "Sustainability is the ability of economic activity to continue over time without irreversibly weakening natural systems, social foundations, or the future capacity for production and well-being."
         }
+      },
+      {
+        "id": "u1-09-sustainability-short-1",
+        "knowledgePointId": "u1-09-sustainability",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“可持续性”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Sustainability”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。 生产和消费使用自然与社会资源；部分资源会耗竭或积累污染；当前选择改变未来的可行集合；政策与创新尝试把长期成本纳入决策 当前选择会改变未来的生产可能。",
+          "en": "Sustainability is the ability of economic activity to continue over time without irreversibly weakening natural systems, social foundations, or the future capacity for production and well-being. Production and consumption use natural and social resources; Some resources deplete and some pollution accumulates; Present choices alter the future feasible set; Policy and innovation try to incorporate long-run costs Present choices alter future production possibilities."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可持续性",
+                "可持续发展",
+                "长期承载力",
+                "代际可持续"
+              ],
+              "en": [
+                "Sustainability",
+                "sustainable development",
+                "long-run carrying capacity",
+                "intergenerational sustainability"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产和消费使用自然与社会资源",
+                "部分资源会耗竭或积累污染"
+              ],
+              "en": [
+                "Production and consumption use natural and social resources",
+                "Some resources deplete and some pollution accumulates"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "当前选择会改变未来的生产可能。",
+                "不可再生资源和生态承载力形成长期约束。"
+              ],
+              "en": [
+                "Present choices alter future production possibilities.",
+                "Finite resources and ecological capacity impose long-run constraints."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2126,7 +2803,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-10-change-flash-1",
-        "u1-10-change-mcq-1"
+        "u1-10-change-mcq-1",
+        "u1-10-change-short-1"
       ]
     },
     "content": {
@@ -2250,6 +2928,80 @@ export const knowledgePoints = [
           "zh-CN": "变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。",
           "en": "Change refers to adjustment over time in agents, resources, technology, institutions, or the external environment and to the resulting shifts in production, distribution, and well-being."
         }
+      },
+      {
+        "id": "u1-10-change-short-1",
+        "knowledgePointId": "u1-10-change",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“变化”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Change”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。 技术、政策或偏好发生变化；相对成本和激励随之改变；家庭与企业调整行为；市场结构、产出和分配出现新结果 经济环境不是静止的。",
+          "en": "Change refers to adjustment over time in agents, resources, technology, institutions, or the external environment and to the resulting shifts in production, distribution, and well-being. Technology, policy, or preferences change; Relative costs and incentives move; Households and firms adjust behaviour; Market structure, output, and distribution reach new outcomes The economic environment is not static."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "变化",
+                "经济变化",
+                "动态调整",
+                "结构转型"
+              ],
+              "en": [
+                "Change",
+                "economic change",
+                "dynamic adjustment",
+                "structural transition"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "技术、政策或偏好发生变化",
+                "相对成本和激励随之改变"
+              ],
+              "en": [
+                "Technology, policy, or preferences change",
+                "Relative costs and incentives move"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济环境不是静止的。",
+                "激励变化通过行为调整影响结果。"
+              ],
+              "en": [
+                "The economic environment is not static.",
+                "Changing incentives work through behavioural adjustment."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2297,7 +3049,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-11-interdependence-flash-1",
-        "u1-11-interdependence-mcq-1"
+        "u1-11-interdependence-mcq-1",
+        "u1-11-interdependence-short-1"
       ]
     },
     "content": {
@@ -2421,6 +3174,80 @@ export const knowledgePoints = [
           "zh-CN": "相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。",
           "en": "Interdependence is the two-way reliance among households, firms, governments, countries, and the natural environment created through production, exchange, finance, policy, and ecosystems."
         }
+      },
+      {
+        "id": "u1-11-interdependence-short-1",
+        "knowledgePointId": "u1-11-interdependence",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“相互依存”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Interdependence”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。 主体通过市场或制度建立联系；一方的需求、供给或规则发生变化；价格、收入或资源流动传导冲击；其他主体回应并可能产生反馈 经济主体通过多种流动相互连接。",
+          "en": "Interdependence is the two-way reliance among households, firms, governments, countries, and the natural environment created through production, exchange, finance, policy, and ecosystems. Agents become connected through markets or institutions; Demand, supply, or rules change for one participant; Prices, incomes, or resource flows transmit the shock; Other participants respond and may create feedback Economic agents are connected through several kinds of flow."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相互依存",
+                "经济联系",
+                "相互依赖",
+                "传导网络"
+              ],
+              "en": [
+                "Interdependence",
+                "economic linkage",
+                "mutual dependence",
+                "transmission network"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "主体通过市场或制度建立联系",
+                "一方的需求、供给或规则发生变化"
+              ],
+              "en": [
+                "Agents become connected through markets or institutions",
+                "Demand, supply, or rules change for one participant"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济主体通过多种流动相互连接。",
+                "冲击会跨市场和地区传导。"
+              ],
+              "en": [
+                "Economic agents are connected through several kinds of flow.",
+                "Shocks can travel across markets and places."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2468,7 +3295,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-12-intervention-flash-1",
-        "u1-12-intervention-mcq-1"
+        "u1-12-intervention-mcq-1",
+        "u1-12-intervention-short-1"
       ]
     },
     "content": {
@@ -2592,6 +3420,80 @@ export const knowledgePoints = [
           "zh-CN": "经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。",
           "en": "Economic intervention is deliberate action by a government, central bank, or other institution to alter market incentives, trading conditions, resource allocation, or income distribution."
         }
+      },
+      {
+        "id": "u1-12-intervention-short-1",
+        "knowledgePointId": "u1-12-intervention",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“干预”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Intervention”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。 识别市场结果或社会目标之间的差距；选择税收、监管、支出或信息等工具；工具改变主体面对的激励与约束；行为反应形成预期成效与非预期后果 干预有明确目标和政策工具。",
+          "en": "Economic intervention is deliberate action by a government, central bank, or other institution to alter market incentives, trading conditions, resource allocation, or income distribution. Identify a gap between a market outcome and a social objective; Select a tax, regulation, spending, information, or other instrument; The instrument changes incentives and constraints; Behavioural responses produce intended and unintended outcomes Intervention combines an objective with an instrument."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "干预",
+                "政策干预",
+                "政府介入",
+                "经济调控"
+              ],
+              "en": [
+                "Intervention",
+                "policy intervention",
+                "government action",
+                "economic regulation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "识别市场结果或社会目标之间的差距",
+                "选择税收、监管、支出或信息等工具"
+              ],
+              "en": [
+                "Identify a gap between a market outcome and a social objective",
+                "Select a tax, regulation, spending, information, or other instrument"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "干预有明确目标和政策工具。",
+                "政策通过改变激励影响行为。"
+              ],
+              "en": [
+                "Intervention combines an objective with an instrument.",
+                "Policy works by changing incentives and behaviour."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2640,7 +3542,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-13-factors-of-production-flash-1",
-        "u1-13-factors-of-production-mcq-1"
+        "u1-13-factors-of-production-mcq-1",
+        "u1-13-factors-of-production-short-1"
       ]
     },
     "content": {
@@ -2764,6 +3667,80 @@ export const knowledgePoints = [
           "zh-CN": "生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。",
           "en": "Factors of production are the inputs used to create goods and services: land (natural resources), labour (human effort and skill), capital (produced means of production), and entrepreneurship (organisation, innovation, and risk-bearing)."
         }
+      },
+      {
+        "id": "u1-13-factors-of-production-short-1",
+        "knowledgePointId": "u1-13-factors-of-production",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“四类生产要素”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Factors of production”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。 自然资源提供物质与空间；劳动投入时间、技能和判断；资本提高劳动与资源的生产能力；企业家组合要素并承担不确定性 土地包括自然资源。",
+          "en": "Factors of production are the inputs used to create goods and services: land (natural resources), labour (human effort and skill), capital (produced means of production), and entrepreneurship (organisation, innovation, and risk-bearing). Natural resources provide materials and location; Labour contributes time, skill, and judgement; Capital raises the productive capacity of labour and resources; Entrepreneurship combines inputs under uncertainty Land includes natural resources."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "四类生产要素",
+                "生产投入",
+                "土地劳动资本企业家",
+                "资源要素"
+              ],
+              "en": [
+                "Factors of production",
+                "productive inputs",
+                "land labour capital entrepreneurship",
+                "economic resources"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自然资源提供物质与空间",
+                "劳动投入时间、技能和判断"
+              ],
+              "en": [
+                "Natural resources provide materials and location",
+                "Labour contributes time, skill, and judgement"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "土地包括自然资源。",
+                "劳动包括人的体力、技能和时间。"
+              ],
+              "en": [
+                "Land includes natural resources.",
+                "Labour includes human time, effort, and skill."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2813,7 +3790,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-14-opportunity-cost-flash-1",
-        "u1-14-opportunity-cost-mcq-1"
+        "u1-14-opportunity-cost-mcq-1",
+        "u1-14-opportunity-cost-short-1"
       ]
     },
     "content": {
@@ -2937,6 +3915,80 @@ export const knowledgePoints = [
           "zh-CN": "机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。",
           "en": "Opportunity cost is the benefit or value of the next-best feasible alternative that cannot be obtained once resources are committed to a chosen use."
         }
+      },
+      {
+        "id": "u1-14-opportunity-cost-short-1",
+        "knowledgePointId": "u1-14-opportunity-cost",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“机会成本”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Opportunity cost”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。 稀缺产生多个竞争用途；按价值排列可行方案；选择排名最高的方案；排名第二且被放弃的方案构成机会成本 机会成本源于稀缺和选择。",
+          "en": "Opportunity cost is the benefit or value of the next-best feasible alternative that cannot be obtained once resources are committed to a chosen use. Scarcity creates competing uses; Feasible alternatives are ranked by value; The highest-ranked option is selected; The second-ranked forgone option is the opportunity cost Opportunity cost follows from scarcity and choice."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会成本",
+                "替代成本",
+                "次优方案价值",
+                "trade-off cost"
+              ],
+              "en": [
+                "Opportunity cost",
+                "alternative cost",
+                "value of next-best alternative",
+                "trade-off cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "稀缺产生多个竞争用途",
+                "按价值排列可行方案"
+              ],
+              "en": [
+                "Scarcity creates competing uses",
+                "Feasible alternatives are ranked by value"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会成本源于稀缺和选择。",
+                "它只对应最佳被放弃方案。"
+              ],
+              "en": [
+                "Opportunity cost follows from scarcity and choice.",
+                "Only the best forgone alternative counts."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -2984,7 +4036,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-15-free-goods-flash-1",
-        "u1-15-free-goods-mcq-1"
+        "u1-15-free-goods-mcq-1",
+        "u1-15-free-goods-short-1"
       ]
     },
     "content": {
@@ -3108,6 +4161,80 @@ export const knowledgePoints = [
           "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
           "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered."
         }
+      },
+      {
+        "id": "u1-15-free-goods-short-1",
+        "knowledgePointId": "u1-15-free-goods",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“免费物品”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Free goods”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。 资源在特定条件下非常充裕；额外使用不排挤其他人的可行用途；边际机会成本接近零；无需通过价格配置该边际单位 免费物品的边际机会成本接近零。",
+          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered. A resource is highly abundant in a specific context; Extra use does not exclude a feasible use by someone else; Marginal opportunity cost is approximately zero; No price mechanism is needed to allocate that marginal unit A free good has approximately zero marginal opportunity cost."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "免费物品",
+                "非稀缺物品",
+                "无机会成本物品",
+                "free resource"
+              ],
+              "en": [
+                "Free goods",
+                "non-scarce good",
+                "zero-opportunity-cost good",
+                "free resource"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源在特定条件下非常充裕",
+                "额外使用不排挤其他人的可行用途"
+              ],
+              "en": [
+                "A resource is highly abundant in a specific context",
+                "Extra use does not exclude a feasible use by someone else"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "免费物品的边际机会成本接近零。",
+                "零价格不等于没有资源成本。"
+              ],
+              "en": [
+                "A free good has approximately zero marginal opportunity cost.",
+                "Zero price does not mean zero resource cost."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -3157,7 +4284,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-16-basic-economic-questions-flash-1",
-        "u1-16-basic-economic-questions-mcq-1"
+        "u1-16-basic-economic-questions-mcq-1",
+        "u1-16-basic-economic-questions-short-1"
       ]
     },
     "content": {
@@ -3281,6 +4409,80 @@ export const knowledgePoints = [
           "zh-CN": "三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。",
           "en": "The three basic economic questions ask which goods and services to produce and in what quantities, which resources and techniques to use, and which people or groups ultimately receive the output."
         }
+      },
+      {
+        "id": "u1-16-basic-economic-questions-short-1",
+        "knowledgePointId": "u1-16-basic-economic-questions",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“三个基本经济问题”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The three basic economic questions”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。 稀缺资源有多个竞争用途；社会决定产品组合与数量；生产者选择投入和技术；收入与规则决定产出分配 产品组合回答生产什么及多少。",
+          "en": "The three basic economic questions ask which goods and services to produce and in what quantities, which resources and techniques to use, and which people or groups ultimately receive the output. Scarce resources have competing uses; Society determines the output mix and quantities; Producers select inputs, technology, and organisation; Income and allocation rules determine access to output The output mix answers what and how much."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "三个基本经济问题",
+                "生产什么怎样生产为谁生产",
+                "基本资源配置问题",
+                "what how for whom"
+              ],
+              "en": [
+                "The three basic economic questions",
+                "what how for whom",
+                "basic allocation questions",
+                "fundamental economic questions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "稀缺资源有多个竞争用途",
+                "社会决定产品组合与数量"
+              ],
+              "en": [
+                "Scarce resources have competing uses",
+                "Society determines the output mix and quantities"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产品组合回答生产什么及多少。",
+                "投入与技术回答怎样生产。"
+              ],
+              "en": [
+                "The output mix answers what and how much.",
+                "Inputs and technology answer how."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -3329,7 +4531,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-17-resource-allocation-flash-1",
-        "u1-17-resource-allocation-mcq-1"
+        "u1-17-resource-allocation-mcq-1",
+        "u1-17-resource-allocation-short-1"
       ]
     },
     "content": {
@@ -3453,6 +4656,80 @@ export const knowledgePoints = [
           "zh-CN": "资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。",
           "en": "Resource allocation is the assignment of productive factors to different uses. Reallocation changes those uses, while overallocation and underallocation mean that too many or too few resources are devoted to an activity relative to the social optimum."
         }
+      },
+      {
+        "id": "u1-17-resource-allocation-short-1",
+        "knowledgePointId": "u1-17-resource-allocation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“资源配置与重新配置”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Resource allocation and reallocation”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。 不同用途争夺稀缺要素；价格、收益与政策传递相对价值；资源流向预期回报较高的用途；外部成本或收益可能造成过度或不足配置 配置决定生产要素的用途。",
+          "en": "Resource allocation is the assignment of productive factors to different uses. Reallocation changes those uses, while overallocation and underallocation mean that too many or too few resources are devoted to an activity relative to the social optimum. Alternative uses compete for scarce factors; Prices, returns, and policy signal relative value; Resources move toward uses with higher expected returns; External costs or benefits can create over- or underallocation Allocation determines the uses of productive factors."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源配置与重新配置",
+                "资源分配",
+                "重新分配生产要素",
+                "过度配置不足配置"
+              ],
+              "en": [
+                "Resource allocation and reallocation",
+                "resource distribution",
+                "factor reallocation",
+                "overallocation underallocation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "不同用途争夺稀缺要素",
+                "价格、收益与政策传递相对价值"
+              ],
+              "en": [
+                "Alternative uses compete for scarce factors",
+                "Prices, returns, and policy signal relative value"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "配置决定生产要素的用途。",
+                "激励变化会推动重新配置。"
+              ],
+              "en": [
+                "Allocation determines the uses of productive factors.",
+                "Changing incentives cause reallocation."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -3501,7 +4778,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-18-income-distribution-flash-1",
-        "u1-18-income-distribution-mcq-1"
+        "u1-18-income-distribution-mcq-1",
+        "u1-18-income-distribution-short-1"
       ]
     },
     "content": {
@@ -3625,6 +4903,80 @@ export const knowledgePoints = [
           "zh-CN": "收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。",
           "en": "Income and output distribution describes how national income and goods or services are divided among people, households, or factors of production. Redistribution is a deliberate policy-induced change to the initial distribution."
         }
+      },
+      {
+        "id": "u1-18-income-distribution-short-1",
+        "knowledgePointId": "u1-18-income-distribution",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“收入与产出分配”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Income and output distribution”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。 生产要素所有权与市场回报形成初次收入；收入决定大部分市场购买力；税收、现金转移和公共服务介入；可支配收入与实际获得的产出重新分布 要素回报影响初次收入分配。",
+          "en": "Income and output distribution describes how national income and goods or services are divided among people, households, or factors of production. Redistribution is a deliberate policy-induced change to the initial distribution. Factor ownership and market returns generate original income; Income determines most market purchasing power; Taxes, cash transfers, and public services intervene; Disposable income and effective access to output are redistributed Factor returns shape original income."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入与产出分配",
+                "收入分配",
+                "产出分配",
+                "收入再分配"
+              ],
+              "en": [
+                "Income and output distribution",
+                "income distribution",
+                "distribution of output",
+                "redistribution"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产要素所有权与市场回报形成初次收入",
+                "收入决定大部分市场购买力"
+              ],
+              "en": [
+                "Factor ownership and market returns generate original income",
+                "Income determines most market purchasing power"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "要素回报影响初次收入分配。",
+                "购买力影响市场产出的获得。"
+              ],
+              "en": [
+                "Factor returns shape original income.",
+                "Purchasing power affects access to market output."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -3673,7 +5025,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-19-market-mechanism-flash-1",
-        "u1-19-market-mechanism-mcq-1"
+        "u1-19-market-mechanism-mcq-1",
+        "u1-19-market-mechanism-short-1"
       ]
     },
     "content": {
@@ -3797,6 +5150,80 @@ export const knowledgePoints = [
           "zh-CN": "市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。",
           "en": "The market mechanism is the process through which supply and demand interact so that price signals, incentives, and rationing coordinate buying and selling decisions and allocate resources."
         }
+      },
+      {
+        "id": "u1-19-market-mechanism-short-1",
+        "knowledgePointId": "u1-19-market-mechanism",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“市场机制”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The market mechanism”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。 买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。",
+          "en": "The market mechanism is the process through which supply and demand interact so that price signals, incentives, and rationing coordinate buying and selling decisions and allocate resources. Desired purchases and sales do not initially match; Shortage or surplus puts pressure on price; Price changes consumer and producer incentives; Quantities and resources adjust toward a new market outcome Price aggregates information about supply and demand."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "市场机制",
+                "价格机制",
+                "供需机制",
+                "市场配置"
+              ],
+              "en": [
+                "The market mechanism",
+                "price mechanism",
+                "supply-demand mechanism",
+                "market allocation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "买方需求与卖方供给不一致",
+                "短缺或剩余推动价格变化"
+              ],
+              "en": [
+                "Desired purchases and sales do not initially match",
+                "Shortage or surplus puts pressure on price"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格汇集供需信息。",
+                "价格改变买卖双方的激励。"
+              ],
+              "en": [
+                "Price aggregates information about supply and demand.",
+                "Price changes incentives on both sides of a market."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -3845,7 +5272,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-20-government-intervention-flash-1",
-        "u1-20-government-intervention-mcq-1"
+        "u1-20-government-intervention-mcq-1",
+        "u1-20-government-intervention-short-1"
       ]
     },
     "content": {
@@ -3969,6 +5397,80 @@ export const knowledgePoints = [
           "zh-CN": "政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。",
           "en": "Government intervention is public-sector action through taxes, subsidies, regulation, price controls, public provision, information, or macroeconomic policy to alter economic behaviour and outcomes."
         }
+      },
+      {
+        "id": "u1-20-government-intervention-short-1",
+        "knowledgePointId": "u1-20-government-intervention",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“政府干预”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Government intervention”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。 市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。",
+          "en": "Government intervention is public-sector action through taxes, subsidies, regulation, price controls, public provision, information, or macroeconomic policy to alter economic behaviour and outcomes. A market outcome diverges from a policy objective; Government selects an instrument suited to the cause; The instrument changes prices, rights, or available resources; Behavioural responses determine the net social result Intervention can change prices, rules, and public provision."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "政府干预",
+                "公共政策介入",
+                "政府调控",
+                "government action"
+              ],
+              "en": [
+                "Government intervention",
+                "public policy action",
+                "government regulation",
+                "state intervention"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "市场结果偏离政策目标",
+                "政府选择与问题相匹配的工具"
+              ],
+              "en": [
+                "A market outcome diverges from a policy objective",
+                "Government selects an instrument suited to the cause"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "干预可以改变价格、规则和公共供给。",
+                "工具必须对应问题的成因。"
+              ],
+              "en": [
+                "Intervention can change prices, rules, and public provision.",
+                "An instrument should match the source of the problem."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4016,7 +5518,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-21-free-market-economy-flash-1",
-        "u1-21-free-market-economy-mcq-1"
+        "u1-21-free-market-economy-mcq-1",
+        "u1-21-free-market-economy-short-1"
       ]
     },
     "content": {
@@ -4140,6 +5643,80 @@ export const knowledgePoints = [
           "zh-CN": "自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。",
           "en": "A free-market economy is a system in which resources are predominantly privately owned and production and consumption are coordinated mainly through competitive markets and the price mechanism, with a comparatively limited state role."
         }
+      },
+      {
+        "id": "u1-21-free-market-economy-short-1",
+        "knowledgePointId": "u1-21-free-market-economy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“自由市场经济”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The free-market economy”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。 私人产权赋予使用和收益权；消费者支出表达有效需求；利润与亏损引导企业进入或退出；价格协调资源和产出 私人产权和价格是主要协调机制。",
+          "en": "A free-market economy is a system in which resources are predominantly privately owned and production and consumption are coordinated mainly through competitive markets and the price mechanism, with a comparatively limited state role. Private property grants rights to use assets and receive returns; Consumer spending expresses effective demand; Profit and loss encourage entry or exit; Prices coordinate resources and output Private property and prices are primary coordinating institutions."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自由市场经济",
+                "市场经济",
+                "资本主义市场制度",
+                "laissez-faire economy"
+              ],
+              "en": [
+                "The free-market economy",
+                "market economy",
+                "capitalist market system",
+                "laissez-faire economy"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "私人产权赋予使用和收益权",
+                "消费者支出表达有效需求"
+              ],
+              "en": [
+                "Private property grants rights to use assets and receive returns",
+                "Consumer spending expresses effective demand"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "私人产权和价格是主要协调机制。",
+                "利润提供生产激励。"
+              ],
+              "en": [
+                "Private property and prices are primary coordinating institutions.",
+                "Profit creates an incentive for production and adaptation."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4187,7 +5764,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-22-planned-economy-flash-1",
-        "u1-22-planned-economy-mcq-1"
+        "u1-22-planned-economy-mcq-1",
+        "u1-22-planned-economy-short-1"
       ]
     },
     "content": {
@@ -4311,6 +5889,80 @@ export const knowledgePoints = [
           "zh-CN": "计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。",
           "en": "A planned economy is a system in which productive assets are largely state-owned or controlled and a central or public planning authority allocates resources through administrative targets rather than decentralised market prices."
         }
+      },
+      {
+        "id": "u1-22-planned-economy-short-1",
+        "knowledgePointId": "u1-22-planned-economy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“计划经济”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The planned economy”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。 计划机构确定社会优先目标；向企业或部门分配投入与产量指标；行政体系协调生产和分配；反馈信息用于修订后续计划 公共计划替代大部分价格协调。",
+          "en": "A planned economy is a system in which productive assets are largely state-owned or controlled and a central or public planning authority allocates resources through administrative targets rather than decentralised market prices. The planning authority establishes social priorities; Inputs and output targets are assigned to sectors or enterprises; An administrative system coordinates production and distribution; Feedback informs revisions to later plans Public planning replaces much price coordination."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "计划经济",
+                "命令经济",
+                "中央计划",
+                "command economy"
+              ],
+              "en": [
+                "The planned economy",
+                "command economy",
+                "central planning",
+                "administrative allocation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "计划机构确定社会优先目标",
+                "向企业或部门分配投入与产量指标"
+              ],
+              "en": [
+                "The planning authority establishes social priorities",
+                "Inputs and output targets are assigned to sectors or enterprises"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "公共计划替代大部分价格协调。",
+                "集中力量可服务明确的社会优先事项。"
+              ],
+              "en": [
+                "Public planning replaces much price coordination.",
+                "Concentrated resources can serve stated social priorities."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4359,7 +6011,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-23-mixed-economy-flash-1",
-        "u1-23-mixed-economy-mcq-1"
+        "u1-23-mixed-economy-mcq-1",
+        "u1-23-mixed-economy-short-1"
       ]
     },
     "content": {
@@ -4483,6 +6136,80 @@ export const knowledgePoints = [
           "zh-CN": "混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。",
           "en": "A mixed economy is a system in which private markets and the public sector both own resources and share responsibility for production, allocation, and distribution."
         }
+      },
+      {
+        "id": "u1-23-mixed-economy-short-1",
+        "knowledgePointId": "u1-23-mixed-economy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“混合经济”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The mixed economy”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。 多数日常选择由价格和私人主体协调；法律与监管设定市场边界；政府通过税收、转移和公共服务改变结果；制度组合随政策目标和证据调整 现实经济体通常同时使用市场和政府。",
+          "en": "A mixed economy is a system in which private markets and the public sector both own resources and share responsibility for production, allocation, and distribution. Prices and private agents coordinate many daily choices; Law and regulation set market boundaries; Taxes, transfers, and public services alter outcomes; The institutional mix changes with objectives and evidence Most actual economies use both markets and government."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "混合经济",
+                "混合市场经济",
+                "公私混合制度",
+                "mixed system"
+              ],
+              "en": [
+                "The mixed economy",
+                "mixed-market economy",
+                "public-private system",
+                "mixed system"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "多数日常选择由价格和私人主体协调",
+                "法律与监管设定市场边界"
+              ],
+              "en": [
+                "Prices and private agents coordinate many daily choices",
+                "Law and regulation set market boundaries"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "现实经济体通常同时使用市场和政府。",
+                "组合在行业和时期之间不同。"
+              ],
+              "en": [
+                "Most actual economies use both markets and government.",
+                "The mix differs across sectors and over time."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4530,7 +6257,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-24-economic-models-flash-1",
-        "u1-24-economic-models-mcq-1"
+        "u1-24-economic-models-mcq-1",
+        "u1-24-economic-models-short-1"
       ]
     },
     "content": {
@@ -4654,6 +6382,80 @@ export const knowledgePoints = [
           "zh-CN": "经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。",
           "en": "An economic model is a purposeful simplification of agents, constraints, and relationships, expressed verbally, graphically, or mathematically to explain a mechanism and generate testable predictions."
         }
+      },
+      {
+        "id": "u1-24-economic-models-short-1",
+        "knowledgePointId": "u1-24-economic-models",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“经济模型的作用与局限”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Purposes and limits of economic models”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。 研究者提出一个具体问题；保留被认为关键的变量和关系；用假设隔离机制并推出预测；把预测与证据比较后修正模型 模型把复杂现实压缩成关键关系。",
+          "en": "An economic model is a purposeful simplification of agents, constraints, and relationships, expressed verbally, graphically, or mathematically to explain a mechanism and generate testable predictions. A researcher specifies a focused question; Variables and relationships judged essential are retained; Assumptions isolate a mechanism and yield predictions; Predictions are compared with evidence and the model is revised Models compress complexity into selected relationships."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济模型的作用与局限",
+                "经济抽象",
+                "简化框架",
+                "economic representation"
+              ],
+              "en": [
+                "Purposes and limits of economic models",
+                "economic abstraction",
+                "simplified framework",
+                "economic representation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "研究者提出一个具体问题",
+                "保留被认为关键的变量和关系"
+              ],
+              "en": [
+                "A researcher specifies a focused question",
+                "Variables and relationships judged essential are retained"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "模型把复杂现实压缩成关键关系。",
+                "假设决定结论的适用范围。"
+              ],
+              "en": [
+                "Models compress complexity into selected relationships.",
+                "Assumptions define the range of a conclusion."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4705,7 +6507,8 @@ export const knowledgePoints = [
       ],
       "quizIds": [
         "u1-25-ppc-construction-flash-1",
-        "u1-25-ppc-construction-mcq-1"
+        "u1-25-ppc-construction-mcq-1",
+        "u1-25-ppc-construction-short-1"
       ]
     },
     "content": {
@@ -4829,6 +6632,80 @@ export const knowledgePoints = [
           "zh-CN": "生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。",
           "en": "A production possibility curve (PPC) is the boundary of maximum combinations of two goods or services that an economy can produce when resources and technology are given and resources are fully and efficiently employed."
         }
+      },
+      {
+        "id": "u1-25-ppc-construction-short-1",
+        "knowledgePointId": "u1-25-ppc-construction",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“生产可能性曲线的构造”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Constructing a PPC”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。 固定时期、资源数量与技术；把产出归纳为横纵轴两类；计算每种资源配置下的最大产出组合；连接有效组合形成生产可能性边界 PPC 是最大可行产出组合的边界。",
+          "en": "A production possibility curve (PPC) is the boundary of maximum combinations of two goods or services that an economy can produce when resources and technology are given and resources are fully and efficiently employed. Fix the period, resource stock, and technology; Aggregate output into two labelled axes; Find maximum output under alternative resource allocations; Join the efficient combinations to form the frontier The PPC is the boundary of maximum feasible output combinations."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产可能性曲线的构造",
+                "生产可能性边界",
+                "PPF",
+                "production possibility curve"
+              ],
+              "en": [
+                "Constructing a PPC",
+                "production possibility frontier",
+                "PPF",
+                "transformation curve"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "固定时期、资源数量与技术",
+                "把产出归纳为横纵轴两类"
+              ],
+              "en": [
+                "Fix the period, resource stock, and technology",
+                "Aggregate output into two labelled axes"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "PPC 是最大可行产出组合的边界。",
+                "模型把多种产出简化为两类。"
+              ],
+              "en": [
+                "The PPC is the boundary of maximum feasible output combinations.",
+                "It reduces many outputs to two categories."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -4880,7 +6757,8 @@ export const knowledgePoints = [
       ],
       "quizIds": [
         "u1-26-ppc-scarcity-choice-cost-flash-1",
-        "u1-26-ppc-scarcity-choice-cost-mcq-1"
+        "u1-26-ppc-scarcity-choice-cost-mcq-1",
+        "u1-26-ppc-scarcity-choice-cost-short-1"
       ]
     },
     "content": {
@@ -5004,6 +6882,80 @@ export const knowledgePoints = [
           "zh-CN": "在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。",
           "en": "Within the PPC model, the frontier represents scarcity, alternative feasible combinations represent choice, and the reduction in one output when moving along the curve measures the opportunity cost of more of the other."
         }
+      },
+      {
+        "id": "u1-26-ppc-scarcity-choice-cost-short-1",
+        "knowledgePointId": "u1-26-ppc-scarcity-choice-cost",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“PPC中的稀缺、选择与机会成本”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Scarcity, choice, and cost on a PPC”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。 资源限制形成生产边界；社会在边界上选择一种产出组合；增加横轴产出需要重新配置资源；纵轴产出的减少量成为横轴产出的机会成本 边界体现当前生产限制。",
+          "en": "Within the PPC model, the frontier represents scarcity, alternative feasible combinations represent choice, and the reduction in one output when moving along the curve measures the opportunity cost of more of the other. Resource constraints create a production boundary; Society selects one combination on the boundary; More horizontal-axis output requires reallocation; The lost vertical-axis output is its opportunity cost The frontier displays a current productive constraint."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "PPC中的稀缺、选择与机会成本",
+                "PPC取舍",
+                "PPC机会成本",
+                "production trade-off"
+              ],
+              "en": [
+                "Scarcity, choice, and cost on a PPC",
+                "PPC trade-off",
+                "PPC opportunity cost",
+                "production trade-off"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源限制形成生产边界",
+                "社会在边界上选择一种产出组合"
+              ],
+              "en": [
+                "Resource constraints create a production boundary",
+                "Society selects one combination on the boundary"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边界体现当前生产限制。",
+                "曲线上的多个组合迫使社会选择。"
+              ],
+              "en": [
+                "The frontier displays a current productive constraint.",
+                "Multiple combinations on the line require choice."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5054,7 +7006,8 @@ export const knowledgePoints = [
       ],
       "quizIds": [
         "u1-27-ppc-unemployment-efficiency-flash-1",
-        "u1-27-ppc-unemployment-efficiency-mcq-1"
+        "u1-27-ppc-unemployment-efficiency-mcq-1",
+        "u1-27-ppc-unemployment-efficiency-short-1"
       ]
     },
     "content": {
@@ -5178,6 +7131,80 @@ export const knowledgePoints = [
           "zh-CN": "PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。",
           "en": "A point inside a PPC represents actual output below the feasible maximum because of unemployment, idle capacity, or inefficient allocation, while a point on the curve represents productive efficiency for the given resources and technology."
         }
+      },
+      {
+        "id": "u1-27-ppc-unemployment-efficiency-short-1",
+        "knowledgePointId": "u1-27-ppc-unemployment-efficiency",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“PPC中的失业与生产效率”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Unemployment and efficiency on a PPC”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。 部分劳动或资本闲置或错配；实际产出落在生产边界以内；需求恢复、再培训或管理改善提高利用率；经济体移向边界并实现实际增长 曲线内表示未充分利用或低效。",
+          "en": "A point inside a PPC represents actual output below the feasible maximum because of unemployment, idle capacity, or inefficient allocation, while a point on the curve represents productive efficiency for the given resources and technology. Some labour or capital is idle or mismatched; Actual output lies within the production boundary; Recovery, retraining, or better management raises utilisation; The economy moves toward the frontier and actual output grows Inside the curve indicates underuse or inefficiency."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "PPC中的失业与生产效率",
+                "PPC失业",
+                "生产低效",
+                "inside the PPC"
+              ],
+              "en": [
+                "Unemployment and efficiency on a PPC",
+                "PPC unemployment",
+                "productive inefficiency",
+                "inside the PPC"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "部分劳动或资本闲置或错配",
+                "实际产出落在生产边界以内"
+              ],
+              "en": [
+                "Some labour or capital is idle or mismatched",
+                "Actual output lies within the production boundary"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "曲线内表示未充分利用或低效。",
+                "曲线上表示生产效率。"
+              ],
+              "en": [
+                "Inside the curve indicates underuse or inefficiency.",
+                "On the curve indicates productive efficiency."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5229,7 +7256,8 @@ export const knowledgePoints = [
       ],
       "quizIds": [
         "u1-28-ppc-growth-flash-1",
-        "u1-28-ppc-growth-mcq-1"
+        "u1-28-ppc-growth-mcq-1",
+        "u1-28-ppc-growth-short-1"
       ]
     },
     "content": {
@@ -5353,6 +7381,80 @@ export const knowledgePoints = [
           "zh-CN": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
           "en": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology."
         }
+      },
+      {
+        "id": "u1-28-ppc-growth-short-1",
+        "knowledgePointId": "u1-28-ppc-growth",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“实际增长与生产潜力增长”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Actual and potential growth”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。 经济体可能先在边界以内运行；更高资源利用率使实际点靠近边界；投资、教育、资源发现或技术进步扩大能力；PPC 向外移动并允许更高长期产出 边界内向边界移动表示利用率提高。",
+          "en": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology. The economy may initially operate inside its frontier; Higher utilisation moves actual output toward the line; Investment, education, resource discovery, or technology expands capacity; The PPC shifts outward and permits greater long-run output Movement from inside toward the frontier raises utilisation."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际增长与生产潜力增长",
+                "实际产出增长",
+                "潜在增长",
+                "PPC外移"
+              ],
+              "en": [
+                "Actual and potential growth",
+                "growth in actual output",
+                "potential growth",
+                "outward PPC shift"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济体可能先在边界以内运行",
+                "更高资源利用率使实际点靠近边界"
+              ],
+              "en": [
+                "The economy may initially operate inside its frontier",
+                "Higher utilisation moves actual output toward the line"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边界内向边界移动表示利用率提高。",
+                "边界外移表示最大能力扩大。"
+              ],
+              "en": [
+                "Movement from inside toward the frontier raises utilisation.",
+                "An outward shift expands maximum capacity."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5404,7 +7506,8 @@ export const knowledgePoints = [
       ],
       "quizIds": [
         "u1-29-ppc-opportunity-cost-shapes-flash-1",
-        "u1-29-ppc-opportunity-cost-shapes-mcq-1"
+        "u1-29-ppc-opportunity-cost-shapes-mcq-1",
+        "u1-29-ppc-opportunity-cost-shapes-short-1"
       ]
     },
     "content": {
@@ -5528,6 +7631,80 @@ export const knowledgePoints = [
           "zh-CN": "递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。",
           "en": "Increasing opportunity cost means that successive additions to one output require ever larger reductions in the other, while constant opportunity cost means that the trade-off ratio does not change."
         }
+      },
+      {
+        "id": "u1-29-ppc-opportunity-cost-shapes-short-1",
+        "knowledgePointId": "u1-29-ppc-opportunity-cost-shapes",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“递增与不变机会成本”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Increasing and constant opportunity cost”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。 资源对两种生产的适用程度不同；先转移最适合新增产品的资源；继续扩大时必须转移越来越不适合的资源；每个新增单位造成更大的另一种产出损失 异质和专业化资源导致递增成本。",
+          "en": "Increasing opportunity cost means that successive additions to one output require ever larger reductions in the other, while constant opportunity cost means that the trade-off ratio does not change. Resources differ in suitability for the two outputs; Resources best suited to the expanding good move first; Further expansion transfers increasingly unsuitable factors; Each extra unit requires a larger loss of the other output Heterogeneous and specialised resources generate increasing cost."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "递增与不变机会成本",
+                "递增机会成本规律",
+                "直线PPC",
+                "凹向原点PPC"
+              ],
+              "en": [
+                "Increasing and constant opportunity cost",
+                "law of increasing opportunity cost",
+                "linear PPC",
+                "bowed-out PPC"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资源对两种生产的适用程度不同",
+                "先转移最适合新增产品的资源"
+              ],
+              "en": [
+                "Resources differ in suitability for the two outputs",
+                "Resources best suited to the expanding good move first"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "异质和专业化资源导致递增成本。",
+                "同质可替代资源可产生不变成本。"
+              ],
+              "en": [
+                "Heterogeneous and specialised resources generate increasing cost.",
+                "Homogeneous transferable resources can generate constant cost."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5576,7 +7753,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-30-positive-economics-flash-1",
-        "u1-30-positive-economics-mcq-1"
+        "u1-30-positive-economics-mcq-1",
+        "u1-30-positive-economics-short-1"
       ]
     },
     "content": {
@@ -5700,6 +7878,80 @@ export const knowledgePoints = [
           "zh-CN": "实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。",
           "en": "Positive economics describes and explains economic reality through statements that can in principle be tested with observation, data, or experiments, without concluding what ought to be done from a value judgement."
         }
+      },
+      {
+        "id": "u1-30-positive-economics-short-1",
+        "knowledgePointId": "u1-30-positive-economics",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“实证经济学”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Positive economics”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。 提出对事实或因果关系的陈述；把概念转化为可观察指标；收集并分析相关证据；暂时支持、修正或反驳陈述 实证陈述涉及可观察事实或因果。",
+          "en": "Positive economics describes and explains economic reality through statements that can in principle be tested with observation, data, or experiments, without concluding what ought to be done from a value judgement. State a claim about a fact or causal relationship; Translate concepts into observable measures; Collect and analyse relevant evidence; Provisionally support, revise, or reject the claim Positive claims concern observable facts or causes."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实证经济学",
+                "事实性经济学",
+                "可检验陈述",
+                "positive statement"
+              ],
+              "en": [
+                "Positive economics",
+                "descriptive economics",
+                "testable statement",
+                "positive statement"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "提出对事实或因果关系的陈述",
+                "把概念转化为可观察指标"
+              ],
+              "en": [
+                "State a claim about a fact or causal relationship",
+                "Translate concepts into observable measures"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实证陈述涉及可观察事实或因果。",
+                "证据可以支持也可以反驳。"
+              ],
+              "en": [
+                "Positive claims concern observable facts or causes.",
+                "Evidence can support or refute them."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5748,7 +8000,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-31-normative-economics-flash-1",
-        "u1-31-normative-economics-mcq-1"
+        "u1-31-normative-economics-mcq-1",
+        "u1-31-normative-economics-short-1"
       ]
     },
     "content": {
@@ -5872,6 +8125,80 @@ export const knowledgePoints = [
           "zh-CN": "规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。",
           "en": "Normative economics evaluates policies, institutions, or outcomes as desirable, better, or required by applying value standards such as equity, freedom, efficiency, sustainability, or well-being."
         }
+      },
+      {
+        "id": "u1-31-normative-economics-short-1",
+        "knowledgePointId": "u1-31-normative-economics",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“规范经济学与价值判断”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Normative economics and value judgements”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。 社会面对多个可能目标；价值判断确定目标的相对重要性；实证证据预测各方案的后果；决策者依标准权衡并形成规范结论 规范结论回答应当怎样。",
+          "en": "Normative economics evaluates policies, institutions, or outcomes as desirable, better, or required by applying value standards such as equity, freedom, efficiency, sustainability, or well-being. Society faces several possible objectives; Value judgements assign relative importance to them; Positive evidence predicts consequences of alternatives; Decision-makers weigh outcomes and reach a normative conclusion Normative conclusions address what ought to be."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "规范经济学与价值判断",
+                "价值判断",
+                "应然经济学",
+                "normative statement"
+              ],
+              "en": [
+                "Normative economics and value judgements",
+                "value judgement",
+                "prescriptive economics",
+                "normative statement"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "社会面对多个可能目标",
+                "价值判断确定目标的相对重要性"
+              ],
+              "en": [
+                "Society faces several possible objectives",
+                "Value judgements assign relative importance to them"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "规范结论回答应当怎样。",
+                "价值判断选择和排序目标。"
+              ],
+              "en": [
+                "Normative conclusions address what ought to be.",
+                "Value judgements select and rank objectives."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -5921,7 +8248,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-32-logic-hypotheses-theories-flash-1",
-        "u1-32-logic-hypotheses-theories-mcq-1"
+        "u1-32-logic-hypotheses-theories-mcq-1",
+        "u1-32-logic-hypotheses-theories-short-1"
       ]
     },
     "content": {
@@ -6045,6 +8373,80 @@ export const knowledgePoints = [
           "zh-CN": "假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。",
           "en": "A hypothesis is a provisional testable proposition; a theory is a coherent system of relationships that explains phenomena; a model is a simplified representation of theory; and logic makes inference from premises to conclusions internally consistent."
         }
+      },
+      {
+        "id": "u1-32-logic-hypotheses-theories-short-1",
+        "knowledgePointId": "u1-32-logic-hypotheses-theories",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“逻辑、假设、理论与模型”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Logic, hypotheses, theories, and models”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。 观察现象并提出问题；形成假设和机制解释；把关键关系表达为模型并推导预测；用证据检验后保留、修正或替代理论 逻辑连接前提与结论。",
+          "en": "A hypothesis is a provisional testable proposition; a theory is a coherent system of relationships that explains phenomena; a model is a simplified representation of theory; and logic makes inference from premises to conclusions internally consistent. Observe a pattern and pose a question; Form a hypothesis and proposed mechanism; Represent key relationships in a model and derive predictions; Use evidence to retain, revise, or replace the theory Logic links premises to conclusions."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "逻辑、假设、理论与模型",
+                "经济方法论",
+                "假说与理论",
+                "model reasoning"
+              ],
+              "en": [
+                "Logic, hypotheses, theories, and models",
+                "economic methodology",
+                "hypothesis and theory",
+                "model reasoning"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "观察现象并提出问题",
+                "形成假设和机制解释"
+              ],
+              "en": [
+                "Observe a pattern and pose a question",
+                "Form a hypothesis and proposed mechanism"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "逻辑连接前提与结论。",
+                "假设提出可检验命题。"
+              ],
+              "en": [
+                "Logic links premises to conclusions.",
+                "A hypothesis states a testable proposition."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6092,7 +8494,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-33-ceteris-paribus-flash-1",
-        "u1-33-ceteris-paribus-mcq-1"
+        "u1-33-ceteris-paribus-mcq-1",
+        "u1-33-ceteris-paribus-short-1"
       ]
     },
     "content": {
@@ -6216,6 +8619,80 @@ export const knowledgePoints = [
           "zh-CN": "其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。",
           "en": "Ceteris paribus means assuming that relevant influences other than the variable under study remain unchanged so that one relationship can be analysed separately."
         }
+      },
+      {
+        "id": "u1-33-ceteris-paribus-short-1",
+        "knowledgePointId": "u1-33-ceteris-paribus",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“其他条件不变”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Ceteris paribus”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。 结果同时受到多个因素影响；分析者选择一个关注变量；暂时固定其他影响因素；推导该变量变化的独立方向性影响 该假设用于隔离单一关系。",
+          "en": "Ceteris paribus means assuming that relevant influences other than the variable under study remain unchanged so that one relationship can be analysed separately. An outcome is influenced by several factors; The analyst selects one variable of interest; Other influences are temporarily held constant; The variable's independent directional effect is derived The assumption isolates one relationship."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "其他条件不变",
+                "其余条件相同",
+                "控制变量",
+                "all else equal"
+              ],
+              "en": [
+                "Ceteris paribus",
+                "all else equal",
+                "other things constant",
+                "controlled-variable assumption"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "结果同时受到多个因素影响",
+                "分析者选择一个关注变量"
+              ],
+              "en": [
+                "An outcome is influenced by several factors",
+                "The analyst selects one variable of interest"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "该假设用于隔离单一关系。",
+                "它是分析工具而非现实描述。"
+              ],
+              "en": [
+                "The assumption isolates one relationship.",
+                "It is an analytical device, not a description of reality."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6265,7 +8742,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-34-evidence-refutation-flash-1",
-        "u1-34-evidence-refutation-mcq-1"
+        "u1-34-evidence-refutation-mcq-1",
+        "u1-34-evidence-refutation-short-1"
       ]
     },
     "content": {
@@ -6389,6 +8867,80 @@ export const knowledgePoints = [
           "zh-CN": "经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。",
           "en": "Empirical evidence comes from systematic observation, data, or experiment. Refutation occurs when credible evidence conflicts with a testable theoretical prediction, requiring that prediction to be rejected or revised."
         }
+      },
+      {
+        "id": "u1-34-evidence-refutation-short-1",
+        "knowledgePointId": "u1-34-evidence-refutation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“经验证据与证伪”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Empirical evidence and refutation”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。 理论产生明确且可观察的预测；研究设计确定数据和比较方法；证据显示预测是否得到支持；不一致促使检查测量、假设或理论机制 理论必须产生可检验预测。",
+          "en": "Empirical evidence comes from systematic observation, data, or experiment. Refutation occurs when credible evidence conflicts with a testable theoretical prediction, requiring that prediction to be rejected or revised. A theory generates a clear observable prediction; Research design defines data and comparison; Evidence indicates whether the prediction is supported; Conflict prompts review of measurement, assumptions, or mechanism Theory must yield testable predictions."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经验证据与证伪",
+                "实证检验",
+                "证伪主义",
+                "empirical testing"
+              ],
+              "en": [
+                "Empirical evidence and refutation",
+                "empirical test",
+                "falsification",
+                "evidence-based economics"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "理论产生明确且可观察的预测",
+                "研究设计确定数据和比较方法"
+              ],
+              "en": [
+                "A theory generates a clear observable prediction",
+                "Research design defines data and comparison"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "理论必须产生可检验预测。",
+                "研究设计决定证据能回答什么。"
+              ],
+              "en": [
+                "Theory must yield testable predictions.",
+                "Research design limits what evidence can answer."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6436,7 +8988,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-35-equality-equity-flash-1",
-        "u1-35-equality-equity-mcq-1"
+        "u1-35-equality-equity-mcq-1",
+        "u1-35-equality-equity-short-1"
       ]
     },
     "content": {
@@ -6560,6 +9113,80 @@ export const knowledgePoints = [
           "zh-CN": "平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。",
           "en": "Equality is a condition of sameness or smaller differences in resources, opportunities, or outcomes. Equity evaluates whether treatment and distribution are justified by an explicit principle of fairness."
         }
+      },
+      {
+        "id": "u1-35-equality-equity-short-1",
+        "knowledgePointId": "u1-35-equality-equity",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“平等与公平”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Equality and equity”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。 观察群体间资源、机会或结果差异；确定平等指标和公平原则；判断相同待遇是否能产生公正机会；选择普遍或有针对性的政策回应 平等可被描述和测量。",
+          "en": "Equality is a condition of sameness or smaller differences in resources, opportunities, or outcomes. Equity evaluates whether treatment and distribution are justified by an explicit principle of fairness. Observe differences in resources, opportunity, or outcomes; Select an equality measure and fairness principle; Ask whether identical treatment creates fair opportunity; Choose a universal or targeted policy response Equality can be described and measured."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平等与公平",
+                "机会平等",
+                "结果平等",
+                "equality versus equity"
+              ],
+              "en": [
+                "Equality and equity",
+                "equality of opportunity",
+                "equality of outcome",
+                "equality versus equity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "观察群体间资源、机会或结果差异",
+                "确定平等指标和公平原则"
+              ],
+              "en": [
+                "Observe differences in resources, opportunity, or outcomes",
+                "Select an equality measure and fairness principle"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平等可被描述和测量。",
+                "公平需要规范性标准。"
+              ],
+              "en": [
+                "Equality can be described and measured.",
+                "Equity requires a normative standard."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6609,7 +9236,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-36-adam-smith-flash-1",
-        "u1-36-adam-smith-mcq-1"
+        "u1-36-adam-smith-mcq-1",
+        "u1-36-adam-smith-short-1"
       ]
     },
     "content": {
@@ -6733,6 +9361,80 @@ export const knowledgePoints = [
           "zh-CN": "亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。",
           "en": "Adam Smith's classical economics treated specialisation, market exchange, and competition as important sources of growing wealth. Laissez-faire favours avoiding unnecessary state replacement of decentralised market decisions."
         }
+      },
+      {
+        "id": "u1-36-adam-smith-short-1",
+        "knowledgePointId": "u1-36-adam-smith",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“亚当·斯密与自由放任”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Adam Smith and laissez-faire”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。 分工提高劳动专门化和熟练度；交换使专业化产出能够互换；价格与利润协调分散选择；竞争限制部分私人权力并推动适应 分工和交换支持生产率与财富增长。",
+          "en": "Adam Smith's classical economics treated specialisation, market exchange, and competition as important sources of growing wealth. Laissez-faire favours avoiding unnecessary state replacement of decentralised market decisions. Division of labour increases specialisation and skill; Exchange allows specialised outputs to be traded; Prices and profit coordinate decentralised choices; Competition constrains some private power and encourages adaptation Specialisation and exchange support productivity and wealth."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "亚当·斯密与自由放任",
+                "古典自由主义",
+                "看不见的手",
+                "laissez-faire"
+              ],
+              "en": [
+                "Adam Smith and laissez-faire",
+                "classical liberalism",
+                "invisible hand",
+                "laissez-faire"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分工提高劳动专门化和熟练度",
+                "交换使专业化产出能够互换"
+              ],
+              "en": [
+                "Division of labour increases specialisation and skill",
+                "Exchange allows specialised outputs to be traded"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分工和交换支持生产率与财富增长。",
+                "价格和竞争协调分散决定。"
+              ],
+              "en": [
+                "Specialisation and exchange support productivity and wealth.",
+                "Price and competition coordinate decentralised choices."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6781,7 +9483,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-37-utility-marginalism-flash-1",
-        "u1-37-utility-marginalism-mcq-1"
+        "u1-37-utility-marginalism-mcq-1",
+        "u1-37-utility-marginalism-short-1"
       ]
     },
     "content": {
@@ -6905,6 +9608,80 @@ export const knowledgePoints = [
           "zh-CN": "效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。",
           "en": "Utility theory treats satisfaction from consumption as a basis for choice. Marginalism studies the extra utility, output, or cost created by a small increase and explains decisions through marginal comparison."
         }
+      },
+      {
+        "id": "u1-37-utility-marginalism-short-1",
+        "knowledgePointId": "u1-37-utility-marginalism",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“效用理论与边际主义”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Utility theory and marginalism”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。 经济主体已经拥有一定数量；额外一单位带来边际收益或效用；获得该单位也产生边际成本；主体比较两者并调整直到继续改变不再有利 选择发生在边际。",
+          "en": "Utility theory treats satisfaction from consumption as a basis for choice. Marginalism studies the extra utility, output, or cost created by a small increase and explains decisions through marginal comparison. An agent already holds or produces some quantity; One more unit creates a marginal benefit or utility; Obtaining that unit also creates marginal cost; The agent adjusts until a further change no longer improves the objective Choice takes place at the margin."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "效用理论与边际主义",
+                "边际革命",
+                "边际效用",
+                "marginal analysis"
+              ],
+              "en": [
+                "Utility theory and marginalism",
+                "marginal revolution",
+                "marginal utility",
+                "marginal analysis"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济主体已经拥有一定数量",
+                "额外一单位带来边际收益或效用"
+              ],
+              "en": [
+                "An agent already holds or produces some quantity",
+                "One more unit creates a marginal benefit or utility"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "选择发生在边际。",
+                "边际效用通常随消费增加而下降。"
+              ],
+              "en": [
+                "Choice takes place at the margin.",
+                "Marginal utility commonly falls as consumption rises."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -6952,7 +9729,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-38-says-law-flash-1",
-        "u1-38-says-law-mcq-1"
+        "u1-38-says-law-mcq-1",
+        "u1-38-says-law-short-1"
       ]
     },
     "content": {
@@ -7076,6 +9854,80 @@ export const knowledgePoints = [
           "zh-CN": "萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。",
           "en": "Say's Law is commonly summarised as supply creating corresponding demand: production generates income, giving the economy purchasing power to absorb output, so broad and lasting deficient demand should not persist in flexible markets."
         }
+      },
+      {
+        "id": "u1-38-says-law-short-1",
+        "knowledgePointId": "u1-38-says-law",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“萨伊定律”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Say's Law”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。 企业生产并支付工资、租金与利润；这些要素收入形成购买力；收入用于消费、储蓄或投资融资；价格和利率调整使总体供求重新协调 生产创造收入和潜在购买力。",
+          "en": "Say's Law is commonly summarised as supply creating corresponding demand: production generates income, giving the economy purchasing power to absorb output, so broad and lasting deficient demand should not persist in flexible markets. Firms produce and pay wages, rent, and profit; Factor incomes create purchasing power; Income funds consumption or saving that can finance investment; Price and interest-rate adjustment recoordinates aggregate supply and demand Production generates income and potential purchasing power."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "萨伊定律",
+                "供给创造需求",
+                "市场定律",
+                "Say law"
+              ],
+              "en": [
+                "Say's Law",
+                "supply creates demand",
+                "law of markets",
+                "Say law"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "企业生产并支付工资、租金与利润",
+                "这些要素收入形成购买力"
+              ],
+              "en": [
+                "Firms produce and pay wages, rent, and profit",
+                "Factor incomes create purchasing power"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产创造收入和潜在购买力。",
+                "古典框架依赖价格与利率调整。"
+              ],
+              "en": [
+                "Production generates income and potential purchasing power.",
+                "The classical account relies on price and interest-rate adjustment."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -7124,7 +9976,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-39-marxist-critique-flash-1",
-        "u1-39-marxist-critique-mcq-1"
+        "u1-39-marxist-critique-mcq-1",
+        "u1-39-marxist-critique-short-1"
       ]
     },
     "content": {
@@ -7248,6 +10101,80 @@ export const knowledgePoints = [
           "zh-CN": "马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。",
           "en": "The Marxist critique uses ownership of the means of production, class relations between labour and capital, surplus value, and accumulation to analyse distribution, power, and tendencies toward crisis in capitalism."
         }
+      },
+      {
+        "id": "u1-39-marxist-critique-short-1",
+        "knowledgePointId": "u1-39-marxist-critique",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“马克思主义批判”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The Marxist critique”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。 生产资料集中在资本所有者手中；无产者出售劳动力获得工资；产出价值与工资之间形成剩余并被积累；积累改变权力、技术、分配并可能加剧冲突 所有权结构影响生产与分配权力。",
+          "en": "The Marxist critique uses ownership of the means of production, class relations between labour and capital, surplus value, and accumulation to analyse distribution, power, and tendencies toward crisis in capitalism. Ownership of productive assets is concentrated among capital owners; Workers sell labour power for wages; A surplus between output and labour compensation is accumulated; Accumulation changes power, technology, distribution, and potential conflict Ownership structures influence power in production and distribution."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "马克思主义批判",
+                "马克思经济学",
+                "阶级分析",
+                "剩余价值理论"
+              ],
+              "en": [
+                "The Marxist critique",
+                "Marxian economics",
+                "class analysis",
+                "surplus value theory"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产资料集中在资本所有者手中",
+                "无产者出售劳动力获得工资"
+              ],
+              "en": [
+                "Ownership of productive assets is concentrated among capital owners",
+                "Workers sell labour power for wages"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "所有权结构影响生产与分配权力。",
+                "剩余和积累是分析核心。"
+              ],
+              "en": [
+                "Ownership structures influence power in production and distribution.",
+                "Surplus and accumulation are central analytical ideas."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -7296,7 +10223,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-40-keynesian-revolution-flash-1",
-        "u1-40-keynesian-revolution-mcq-1"
+        "u1-40-keynesian-revolution-mcq-1",
+        "u1-40-keynesian-revolution-short-1"
       ]
     },
     "content": {
@@ -7420,6 +10348,80 @@ export const knowledgePoints = [
           "zh-CN": "凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。",
           "en": "Keynesian economics holds that expenditure, expectations, and wage-price rigidity influence short-run output and employment, and that public policy can support aggregate demand when private demand is weak and self-correction is slow."
         }
+      },
+      {
+        "id": "u1-40-keynesian-revolution-short-1",
+        "knowledgePointId": "u1-40-keynesian-revolution",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“凯恩斯革命与宏观政策”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The Keynesian revolution and macroeconomic policy”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。 悲观预期减少消费或投资；总需求下降使企业减产和裁员；收入下降进一步压低支出；逆周期财政或货币政策尝试打破收缩循环 总需求可以持续低于充分就业水平。",
+          "en": "Keynesian economics holds that expenditure, expectations, and wage-price rigidity influence short-run output and employment, and that public policy can support aggregate demand when private demand is weak and self-correction is slow. Pessimistic expectations reduce consumption or investment; Lower aggregate demand causes firms to cut output and jobs; Falling income further reduces expenditure; Countercyclical fiscal or monetary policy seeks to interrupt the contraction Aggregate demand can remain below full-employment output."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "凯恩斯革命与宏观政策",
+                "凯恩斯主义",
+                "有效需求",
+                "需求管理"
+              ],
+              "en": [
+                "The Keynesian revolution and macroeconomic policy",
+                "Keynesianism",
+                "effective demand",
+                "demand management"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "悲观预期减少消费或投资",
+                "总需求下降使企业减产和裁员"
+              ],
+              "en": [
+                "Pessimistic expectations reduce consumption or investment",
+                "Lower aggregate demand causes firms to cut output and jobs"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求可以持续低于充分就业水平。",
+                "工资价格刚性减慢自我调整。"
+              ],
+              "en": [
+                "Aggregate demand can remain below full-employment output.",
+                "Sticky wages and prices slow self-correction."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -7468,7 +10470,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-41-monetarist-new-classical-flash-1",
-        "u1-41-monetarist-new-classical-mcq-1"
+        "u1-41-monetarist-new-classical-mcq-1",
+        "u1-41-monetarist-new-classical-short-1"
       ]
     },
     "content": {
@@ -7592,6 +10595,80 @@ export const knowledgePoints = [
           "zh-CN": "货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。",
           "en": "Monetarism stresses the long-run relationship between money growth, nominal spending, and inflation. New classical macroeconomics adds rational expectations and market clearing to examine why predictable policy may be offset by agents' responses."
         }
+      },
+      {
+        "id": "u1-41-monetarist-new-classical-short-1",
+        "knowledgePointId": "u1-41-monetarist-new-classical",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“货币主义与新古典反革命”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “The monetarist and new classical counter-revolution”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。 政策改变货币或总需求路径；家庭和企业形成对通胀与政策的预期；工资、价格和资产选择随预期调整；长期影响更多体现为物价而非持续更高实际产出 长期通胀与货币和名义需求有关。",
+          "en": "Monetarism stresses the long-run relationship between money growth, nominal spending, and inflation. New classical macroeconomics adds rational expectations and market clearing to examine why predictable policy may be offset by agents' responses. Policy changes the path of money or aggregate demand; Households and firms form expectations about inflation and policy; Wages, prices, and asset choices adjust to those expectations; Long-run effects appear more in prices than in permanently higher real output Long-run inflation is linked to money and nominal demand."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "货币主义与新古典反革命",
+                "货币主义",
+                "新古典宏观",
+                "理性预期"
+              ],
+              "en": [
+                "The monetarist and new classical counter-revolution",
+                "monetarism",
+                "new classical macroeconomics",
+                "rational expectations"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "政策改变货币或总需求路径",
+                "家庭和企业形成对通胀与政策的预期"
+              ],
+              "en": [
+                "Policy changes the path of money or aggregate demand",
+                "Households and firms form expectations about inflation and policy"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期通胀与货币和名义需求有关。",
+                "预期会改变政策传导。"
+              ],
+              "en": [
+                "Long-run inflation is linked to money and nominal demand.",
+                "Expectations alter policy transmission."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -7640,7 +10717,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-42-behavioural-economics-flash-1",
-        "u1-42-behavioural-economics-mcq-1"
+        "u1-42-behavioural-economics-mcq-1",
+        "u1-42-behavioural-economics-short-1"
       ]
     },
     "content": {
@@ -7764,6 +10842,80 @@ export const knowledgePoints = [
           "zh-CN": "行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。",
           "en": "Behavioural economics combines psychology and economics to study how heuristics, biases, limited attention, self-control problems, and social preferences shape economic decisions."
         }
+      },
+      {
+        "id": "u1-42-behavioural-economics-short-1",
+        "knowledgePointId": "u1-42-behavioural-economics",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“行为经济学”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Behavioural economics”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。 决策者面对复杂信息和认知限制；使用简化规则并受呈现方式影响；实际选择偏离标准理性模型；行为证据推动更真实的模型和政策设计 认知和自我控制限制会影响选择。",
+          "en": "Behavioural economics combines psychology and economics to study how heuristics, biases, limited attention, self-control problems, and social preferences shape economic decisions. Decision-makers face complexity and cognitive limits; They use shortcuts and respond to framing; Observed choices depart from the standard rational benchmark; Behavioural evidence informs richer models and policy design Cognitive and self-control limits affect choice."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "行为经济学",
+                "有限理性",
+                "助推",
+                "认知偏差经济学"
+              ],
+              "en": [
+                "Behavioural economics",
+                "bounded rationality",
+                "nudge",
+                "behavioural bias"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "决策者面对复杂信息和认知限制",
+                "使用简化规则并受呈现方式影响"
+              ],
+              "en": [
+                "Decision-makers face complexity and cognitive limits",
+                "They use shortcuts and respond to framing"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "认知和自我控制限制会影响选择。",
+                "框架与默认选项可改变行为。"
+              ],
+              "en": [
+                "Cognitive and self-control limits affect choice.",
+                "Framing and defaults can change behaviour."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
       }
     ]
   },
@@ -7812,7 +10964,8 @@ export const knowledgePoints = [
       "diagramIds": [],
       "quizIds": [
         "u1-43-circular-economy-flash-1",
-        "u1-43-circular-economy-mcq-1"
+        "u1-43-circular-economy-mcq-1",
+        "u1-43-circular-economy-short-1"
       ]
     },
     "content": {
@@ -7935,6 +11088,80 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。",
           "en": "A circular economy is a framework for designing and organising production and consumption to reduce extraction and waste, retain value in products, components, and materials, and support regeneration of natural systems."
+        }
+      },
+      {
+        "id": "u1-43-circular-economy-short-1",
+        "knowledgePointId": "u1-43-circular-economy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“相互依存与循环经济”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Interdependence and the circular economy”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。 线性生产开采资源并产生废弃物；设计减少材料并延长产品寿命；维修、再用、再制造和回收形成闭环；较低原生资源需求减轻生态压力并改变商业模式 经济活动依赖社会与自然系统。",
+          "en": "A circular economy is a framework for designing and organising production and consumption to reduce extraction and waste, retain value in products, components, and materials, and support regeneration of natural systems. Linear production extracts resources and generates waste; Design reduces material use and extends product life; Repair, reuse, remanufacture, and recycling create loops; Lower primary-resource demand reduces ecological pressure and changes business models Economic activity depends on social and natural systems."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相互依存与循环经济",
+                "循环性",
+                "闭环经济",
+                "经济社会环境相互依存"
+              ],
+              "en": [
+                "Interdependence and the circular economy",
+                "circularity",
+                "closed-loop economy",
+                "economy society environment interdependence"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "线性生产开采资源并产生废弃物",
+                "设计减少材料并延长产品寿命"
+              ],
+              "en": [
+                "Linear production extracts resources and generates waste",
+                "Design reduces material use and extends product life"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济活动依赖社会与自然系统。",
+                "循环策略在废弃前保留产品和材料价值。"
+              ],
+              "en": [
+                "Economic activity depends on social and natural systems.",
+                "Circular strategies preserve product and material value before disposal."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
         }
       }
     ]

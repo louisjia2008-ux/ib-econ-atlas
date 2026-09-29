@@ -8,6 +8,7 @@ import { SearchView } from "./components/SearchView";
 import { loadScope, saveScope } from "./features/navigation/scope";
 import { ProgressView } from "./features/progress/ProgressView";
 import { getPreferences, savePreferences } from "./features/progress/db";
+import { ReviewView } from "./features/review/ReviewView";
 import { KnowledgeSearchIndex, levelMatches, type LevelFilter } from "./features/search/search";
 import { SettingsView } from "./features/settings/SettingsView";
 import { knowledgePoints } from "./generated/content";
@@ -195,7 +196,7 @@ function App() {
           {isSearch ? (
             <SearchView query={query} locale={locale} hits={hits} scopeActive={scopeIds.size > 0} onOpen={openPoint} onClearQuery={() => setQuery("")} onClearScope={() => setScopeIds(new Set())} />
           ) : isReview ? (
-            <PlaceholderView title={labels.review} message={labels.comingReview} />
+            <ReviewView locale={locale} scopeIds={scopeIds} />
           ) : isProgress ? (
             <ProgressView locale={locale} onOpen={openPoint} />
           ) : isSettings ? (

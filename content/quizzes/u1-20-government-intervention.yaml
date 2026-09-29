@@ -43,3 +43,62 @@
     en: Government intervention is public-sector action through taxes, subsidies,
       regulation, price controls, public provision, information, or
       macroeconomic policy to alter economic behaviour and outcomes.
+- id: u1-20-government-intervention-short-1
+  knowledgePointId: u1-20-government-intervention
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“政府干预”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Government intervention”, including one causal mechanism
+      and one important implication.
+  modelAnswer:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+      市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes. A market
+      outcome diverges from a policy objective; Government selects an instrument
+      suited to the cause; The instrument changes prices, rights, or available
+      resources; Behavioural responses determine the net social result
+      Intervention can change prices, rules, and public provision.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 政府干预
+          - 公共政策介入
+          - 政府调控
+          - government action
+        en:
+          - Government intervention
+          - public policy action
+          - government regulation
+          - state intervention
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 市场结果偏离政策目标
+          - 政府选择与问题相匹配的工具
+        en:
+          - A market outcome diverges from a policy objective
+          - Government selects an instrument suited to the cause
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 干预可以改变价格、规则和公共供给。
+          - 工具必须对应问题的成因。
+        en:
+          - Intervention can change prices, rules, and public provision.
+          - An instrument should match the source of the problem.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

@@ -41,3 +41,61 @@
     en: Opportunity cost is the benefit or value of the next-best feasible
       alternative that cannot be obtained once resources are committed to a
       chosen use.
+- id: u1-14-opportunity-cost-short-1
+  knowledgePointId: u1-14-opportunity-cost
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“机会成本”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Opportunity cost”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
+      稀缺产生多个竞争用途；按价值排列可行方案；选择排名最高的方案；排名第二且被放弃的方案构成机会成本 机会成本源于稀缺和选择。
+    en: Opportunity cost is the benefit or value of the next-best feasible
+      alternative that cannot be obtained once resources are committed to a
+      chosen use. Scarcity creates competing uses; Feasible alternatives are
+      ranked by value; The highest-ranked option is selected; The second-ranked
+      forgone option is the opportunity cost Opportunity cost follows from
+      scarcity and choice.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 机会成本
+          - 替代成本
+          - 次优方案价值
+          - trade-off cost
+        en:
+          - Opportunity cost
+          - alternative cost
+          - value of next-best alternative
+          - trade-off cost
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 稀缺产生多个竞争用途
+          - 按价值排列可行方案
+        en:
+          - Scarcity creates competing uses
+          - Feasible alternatives are ranked by value
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 机会成本源于稀缺和选择。
+          - 它只对应最佳被放弃方案。
+        en:
+          - Opportunity cost follows from scarcity and choice.
+          - Only the best forgone alternative counts.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

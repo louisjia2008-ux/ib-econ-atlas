@@ -43,3 +43,63 @@
     en: Behavioural economics combines psychology and economics to study how
       heuristics, biases, limited attention, self-control problems, and social
       preferences shape economic decisions.
+- id: u1-42-behavioural-economics-short-1
+  knowledgePointId: u1-42-behavioural-economics
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“行为经济学”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Behavioural economics”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。
+      决策者面对复杂信息和认知限制；使用简化规则并受呈现方式影响；实际选择偏离标准理性模型；行为证据推动更真实的模型和政策设计
+      认知和自我控制限制会影响选择。
+    en: Behavioural economics combines psychology and economics to study how
+      heuristics, biases, limited attention, self-control problems, and social
+      preferences shape economic decisions. Decision-makers face complexity and
+      cognitive limits; They use shortcuts and respond to framing; Observed
+      choices depart from the standard rational benchmark; Behavioural evidence
+      informs richer models and policy design Cognitive and self-control limits
+      affect choice.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 行为经济学
+          - 有限理性
+          - 助推
+          - 认知偏差经济学
+        en:
+          - Behavioural economics
+          - bounded rationality
+          - nudge
+          - behavioural bias
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 决策者面对复杂信息和认知限制
+          - 使用简化规则并受呈现方式影响
+        en:
+          - Decision-makers face complexity and cognitive limits
+          - They use shortcuts and respond to framing
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 认知和自我控制限制会影响选择。
+          - 框架与默认选项可改变行为。
+        en:
+          - Cognitive and self-control limits affect choice.
+          - Framing and defaults can change behaviour.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

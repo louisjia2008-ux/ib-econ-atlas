@@ -42,3 +42,62 @@
     en: Normative economics evaluates policies, institutions, or outcomes as
       desirable, better, or required by applying value standards such as equity,
       freedom, efficiency, sustainability, or well-being.
+- id: u1-31-normative-economics-short-1
+  knowledgePointId: u1-31-normative-economics
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“规范经济学与价值判断”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Normative economics and value judgements”, including one
+      causal mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。
+      社会面对多个可能目标；价值判断确定目标的相对重要性；实证证据预测各方案的后果；决策者依标准权衡并形成规范结论 规范结论回答应当怎样。
+    en: Normative economics evaluates policies, institutions, or outcomes as
+      desirable, better, or required by applying value standards such as equity,
+      freedom, efficiency, sustainability, or well-being. Society faces several
+      possible objectives; Value judgements assign relative importance to them;
+      Positive evidence predicts consequences of alternatives; Decision-makers
+      weigh outcomes and reach a normative conclusion Normative conclusions
+      address what ought to be.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 规范经济学与价值判断
+          - 价值判断
+          - 应然经济学
+          - normative statement
+        en:
+          - Normative economics and value judgements
+          - value judgement
+          - prescriptive economics
+          - normative statement
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 社会面对多个可能目标
+          - 价值判断确定目标的相对重要性
+        en:
+          - Society faces several possible objectives
+          - Value judgements assign relative importance to them
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 规范结论回答应当怎样。
+          - 价值判断选择和排序目标。
+        en:
+          - Normative conclusions address what ought to be.
+          - Value judgements select and rank objectives.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

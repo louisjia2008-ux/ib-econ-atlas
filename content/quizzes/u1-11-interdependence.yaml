@@ -41,3 +41,62 @@
     en: Interdependence is the two-way reliance among households, firms,
       governments, countries, and the natural environment created through
       production, exchange, finance, policy, and ecosystems.
+- id: u1-11-interdependence-short-1
+  knowledgePointId: u1-11-interdependence
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“相互依存”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Interdependence”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。
+      主体通过市场或制度建立联系；一方的需求、供给或规则发生变化；价格、收入或资源流动传导冲击；其他主体回应并可能产生反馈 经济主体通过多种流动相互连接。
+    en: Interdependence is the two-way reliance among households, firms,
+      governments, countries, and the natural environment created through
+      production, exchange, finance, policy, and ecosystems. Agents become
+      connected through markets or institutions; Demand, supply, or rules change
+      for one participant; Prices, incomes, or resource flows transmit the
+      shock; Other participants respond and may create feedback Economic agents
+      are connected through several kinds of flow.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 相互依存
+          - 经济联系
+          - 相互依赖
+          - 传导网络
+        en:
+          - Interdependence
+          - economic linkage
+          - mutual dependence
+          - transmission network
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 主体通过市场或制度建立联系
+          - 一方的需求、供给或规则发生变化
+        en:
+          - Agents become connected through markets or institutions
+          - Demand, supply, or rules change for one participant
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 经济主体通过多种流动相互连接。
+          - 冲击会跨市场和地区传导。
+        en:
+          - Economic agents are connected through several kinds of flow.
+          - Shocks can travel across markets and places.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

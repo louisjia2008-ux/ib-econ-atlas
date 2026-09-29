@@ -43,3 +43,63 @@
     en: Economic intervention is deliberate action by a government, central bank, or
       other institution to alter market incentives, trading conditions, resource
       allocation, or income distribution.
+- id: u1-12-intervention-short-1
+  knowledgePointId: u1-12-intervention
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“干预”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Intervention”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
+      识别市场结果或社会目标之间的差距；选择税收、监管、支出或信息等工具；工具改变主体面对的激励与约束；行为反应形成预期成效与非预期后果
+      干预有明确目标和政策工具。
+    en: Economic intervention is deliberate action by a government, central bank, or
+      other institution to alter market incentives, trading conditions, resource
+      allocation, or income distribution. Identify a gap between a market
+      outcome and a social objective; Select a tax, regulation, spending,
+      information, or other instrument; The instrument changes incentives and
+      constraints; Behavioural responses produce intended and unintended
+      outcomes Intervention combines an objective with an instrument.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 干预
+          - 政策干预
+          - 政府介入
+          - 经济调控
+        en:
+          - Intervention
+          - policy intervention
+          - government action
+          - economic regulation
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 识别市场结果或社会目标之间的差距
+          - 选择税收、监管、支出或信息等工具
+        en:
+          - Identify a gap between a market outcome and a social objective
+          - Select a tax, regulation, spending, information, or other instrument
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 干预有明确目标和政策工具。
+          - 政策通过改变激励影响行为。
+        en:
+          - Intervention combines an objective with an instrument.
+          - Policy works by changing incentives and behaviour.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

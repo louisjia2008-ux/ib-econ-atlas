@@ -8,6 +8,7 @@ export interface FsrsSnapshot {
   difficulty: number;
   elapsedDays: number;
   scheduledDays: number;
+  learningSteps?: number;
   reps: number;
   lapses: number;
   state: number;
@@ -52,4 +53,3 @@ export interface BackupEnvelope {
   attempts: PracticeAttempt[];
   preferences: Omit<UserPreferences, "aiEndpoint"> & { aiEndpoint?: never };
 }
-

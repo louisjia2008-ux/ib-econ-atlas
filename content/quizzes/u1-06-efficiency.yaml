@@ -43,3 +43,62 @@
       and, as far as possible, are allocated to uses that create greater value
       or satisfy more highly valued wants; productive and allocative efficiency
       are commonly distinguished.
+- id: u1-06-efficiency-short-1
+  knowledgePointId: u1-06-efficiency
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“效率”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Efficiency”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。
+      识别有限投入与可能产出；减少闲置和不必要的投入损耗；把生产组合调整到可行边界；再比较产出组合是否符合社会偏好 生产效率关注避免投入浪费。
+    en: Economic efficiency describes a situation in which resources are not wasted
+      and, as far as possible, are allocated to uses that create greater value
+      or satisfy more highly valued wants; productive and allocative efficiency
+      are commonly distinguished. Identify scarce inputs and feasible outputs;
+      Remove idle capacity and unnecessary input loss; Move production to the
+      feasible frontier; Ask whether the output mix reflects social preferences
+      Productive efficiency concerns avoiding input waste.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 效率
+          - 经济效率
+          - 生产效率
+          - 配置效率
+        en:
+          - Efficiency
+          - economic efficiency
+          - productive efficiency
+          - allocative efficiency
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 识别有限投入与可能产出
+          - 减少闲置和不必要的投入损耗
+        en:
+          - Identify scarce inputs and feasible outputs
+          - Remove idle capacity and unnecessary input loss
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 生产效率关注避免投入浪费。
+          - 配置效率关注产出是否符合偏好。
+        en:
+          - Productive efficiency concerns avoiding input waste.
+          - Allocative efficiency concerns the preferred output mix.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

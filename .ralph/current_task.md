@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T012
-- Title: Implement review modes, answer scoring and scheduling
-- Acceptance: Flashcard, MCQ, short-answer and mixed sessions can be configured; bilingual keyword coverage and manual correction are visible; deterministic scheduling and mastery rollback match the contract.
-- Verification: frozen-time Vitest coverage for scoring thresholds, rating mapping, due intervals, consecutive success mastery and wrong-answer rollback.
-- Intended file scope: review engine, scheduler, review UI, progress integration and tests.
+- ID: T013
+- Title: Implement accessible interactive PPC and responsive layouts
+- Acceptance: The PPC supports pointer, keyboard, reset and growth shifts; inside/on/outside meaning is visible; a static SVG and data table alternative exist; responsive layouts avoid horizontal overflow.
+- Verification: focused component/unit tests plus later Playwright checks at 390, 768 and 1440 widths.
+- Intended file scope: PPC model/component/static diagram, knowledge-article integration, accessibility and responsive styles.

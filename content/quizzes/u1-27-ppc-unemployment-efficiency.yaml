@@ -46,3 +46,63 @@
       because of unemployment, idle capacity, or inefficient allocation, while a
       point on the curve represents productive efficiency for the given
       resources and technology.
+- id: u1-27-ppc-unemployment-efficiency-short-1
+  knowledgePointId: u1-27-ppc-unemployment-efficiency
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“PPC中的失业与生产效率”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Unemployment and efficiency on a PPC”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。
+      部分劳动或资本闲置或错配；实际产出落在生产边界以内；需求恢复、再培训或管理改善提高利用率；经济体移向边界并实现实际增长 曲线内表示未充分利用或低效。
+    en: A point inside a PPC represents actual output below the feasible maximum
+      because of unemployment, idle capacity, or inefficient allocation, while a
+      point on the curve represents productive efficiency for the given
+      resources and technology. Some labour or capital is idle or mismatched;
+      Actual output lies within the production boundary; Recovery, retraining,
+      or better management raises utilisation; The economy moves toward the
+      frontier and actual output grows Inside the curve indicates underuse or
+      inefficiency.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - PPC中的失业与生产效率
+          - PPC失业
+          - 生产低效
+          - inside the PPC
+        en:
+          - Unemployment and efficiency on a PPC
+          - PPC unemployment
+          - productive inefficiency
+          - inside the PPC
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 部分劳动或资本闲置或错配
+          - 实际产出落在生产边界以内
+        en:
+          - Some labour or capital is idle or mismatched
+          - Actual output lies within the production boundary
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 曲线内表示未充分利用或低效。
+          - 曲线上表示生产效率。
+        en:
+          - Inside the curve indicates underuse or inefficiency.
+          - On the curve indicates productive efficiency.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.
