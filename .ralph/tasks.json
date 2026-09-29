@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 13,
+  "current_iteration": 14,
   "status": "running",
   "tasks": [
     {
@@ -198,7 +198,7 @@
       "id": "T014",
       "title": "Add PWA offline/update behavior",
       "type": "feature",
-      "status": "in_progress",
+      "status": "done",
       "priority": "medium",
       "dependencies": ["T013"],
       "acceptance": ["Manifest and service worker build", "App shell/content work after offline reload", "Progress survives update"],
@@ -206,13 +206,13 @@
       "files_expected": ["vite.config.ts", "public/manifest assets"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "Prompt-update PWA precaches ten shell/content assets. Generated manifest/SW audit confirms no IndexedDB deletion, credential material or AI runtime caching. Offline browser reload remains for T017."
     },
     {
       "id": "T015",
       "title": "Add unconfigured AI UI and secure Worker contract",
       "type": "worker",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "medium",
       "dependencies": ["T014"],
       "acceptance": ["No credential is created or embedded", "Owner auth, CORS, limits and citation validation are tested", "UI degrades to local search"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T013",
+  "last_successful_task": "T014",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T00:53:00+08:00"
+  "updated_at": "2026-09-30T01:04:00+08:00"
 }

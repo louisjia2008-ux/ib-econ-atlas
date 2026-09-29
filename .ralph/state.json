@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 13,
-  "current_task_id": "T014",
-  "last_task_id": "T013",
+  "current_iteration": 14,
+  "current_task_id": "T015",
+  "last_task_id": "T014",
   "last_verification": {
     "status": "PASS",
-    "command": "npm run content:validate && npm run typecheck && npm run test:run -- ppc-model && npm run build",
-    "summary": "Four PPC model tests, diagram-reference validation and strict build pass; static SVG and table alternatives are present."
+    "command": "npm run typecheck && npm run build && npm run test:pwa",
+    "summary": "Manifest and generated service worker pass artifact inspection with ten precache entries and no IndexedDB deletion or AI runtime cache rule."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-30T00:53:00+08:00"
+  "updated_at": "2026-09-30T01:04:00+08:00"
 }

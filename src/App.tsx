@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
-import { BookOpen, Clock3, Database, Languages, Layers3, Menu, Search, Wifi } from "lucide-react";
+import { BookOpen, Clock3, Database, Languages, Layers3, Menu, Search, Wifi, WifiOff, X } from "lucide-react";
 import { useLocation, useMatch, useNavigate } from "react-router-dom";
+import { useRegisterSW } from "virtual:pwa-register/react";
 import { ContextRail } from "./components/ContextRail";
 import { DirectoryRail, type DirectoryMode } from "./components/DirectoryRail";
 import { KnowledgeArticle } from "./components/KnowledgeArticle";
@@ -20,6 +21,11 @@ const copy = {
     globalSearch: "搜索概念、术语或考纲代码",
     searchHint: "试试 opportunity cost、稀缺性或 1.1",
     offlineReady: "可离线使用",
+    offlineNow: "当前离线",
+    updateAvailable: "新版本已经准备好。刷新后使用最新内容。",
+    cacheReady: "应用与 Unit 1 内容已缓存，可以离线学习。",
+    refresh: "立即刷新",
+    later: "稍后",
     keyConclusion: "一句话核心结论",
     definition: "定义与概念边界",
     mechanism: "原理与因果链",
@@ -45,6 +51,11 @@ const copy = {
     globalSearch: "Search concepts, terms, or syllabus codes",
     searchHint: "Try opportunity cost, 稀缺性, or 1.1",
     offlineReady: "Offline ready",
+    offlineNow: "Offline now",
+    updateAvailable: "A new version is ready. Refresh to use the latest content.",
+    cacheReady: "The app and Unit 1 content are cached for offline study.",
+    refresh: "Refresh now",
+    later: "Later",
     keyConclusion: "Core takeaway",
     definition: "Definition and boundaries",
     mechanism: "Mechanism and causal chain",
@@ -87,12 +98,29 @@ function App() {
   const [query, setQuery] = useState("");
   const [scopeIds, setScopeIds] = useState<Set<string>>(() => loadScope());
   const [preferencesReady, setPreferencesReady] = useState(false);
+  const [isOnline, setIsOnline] = useState(() => navigator.onLine);
+  const {
+    needRefresh: [needRefresh, setNeedRefresh],
+    offlineReady: [offlineReady, setOfflineReady],
+    updateServiceWorker,
+  } = useRegisterSW({ immediate: true });
   const labels = copy[locale];
   const searchIndex = useMemo(() => new KnowledgeSearchIndex(knowledgePoints), []);
 
   useEffect(() => {
     if (location.pathname === "/") navigate("/study/u1-04-scarcity", { replace: true });
   }, [location.pathname, navigate]);
+
+  useEffect(() => {
+    const online = () => setIsOnline(true);
+    const offline = () => setIsOnline(false);
+    window.addEventListener("online", online);
+    window.addEventListener("offline", offline);
+    return () => {
+      window.removeEventListener("online", online);
+      window.removeEventListener("offline", offline);
+    };
+  }, []);
 
   useEffect(() => {
     saveScope(scopeIds);
@@ -170,7 +198,7 @@ function App() {
         </label>
 
         <div className="topbar-actions">
-          <span className="offline-pill"><Wifi size={15} /><span>{labels.offlineReady}</span></span>
+          <span className={`offline-pill ${isOnline ? "" : "is-offline"}`}>{isOnline ? <Wifi size={15} /> : <WifiOff size={15} />}<span>{isOnline ? labels.offlineReady : labels.offlineNow}</span></span>
           <button className="language-toggle" type="button" onClick={() => setLocale((value) => value === "zh-CN" ? "en" : "zh-CN")} aria-label={locale === "zh-CN" ? "Switch to English" : "切换到中文"}>
             <Languages size={17} /> {locale === "zh-CN" ? "EN" : "中文"}
           </button>
@@ -216,6 +244,16 @@ function App() {
           <ContextRail point={currentPoint} points={knowledgePoints} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
         )}
       </div>
+
+      {(needRefresh || offlineReady) && (
+        <aside className="pwa-toast" role="status">
+          <span>{needRefresh ? labels.updateAvailable : labels.cacheReady}</span>
+          <div>
+            {needRefresh && <button type="button" onClick={() => void updateServiceWorker(true)}>{labels.refresh}</button>}
+            <button type="button" aria-label={labels.later} onClick={() => { setNeedRefresh(false); setOfflineReady(false); }}>{needRefresh ? labels.later : <X size={16} />}</button>
+          </div>
+        </aside>
+      )}
 
       <nav className="mobile-nav" aria-label="Mobile navigation">
         <button type="button"><Menu size={20} /><span>{labels.panel}</span></button>

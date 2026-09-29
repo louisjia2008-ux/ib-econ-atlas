@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T014
-- Title: Add PWA offline and update behavior
-- Acceptance: A manifest and service worker precache the shell, generated knowledge, SVG and local assets; offline study/search/review/progress remain available after first load; update prompting never clears IndexedDB.
-- Verification: production build generates PWA artifacts, service-worker tests confirm no learning-database deletion, and final Playwright QA exercises offline reload.
-- Intended file scope: Vite PWA configuration, local app icons, registration/update UI, and focused tests.
+- ID: T015
+- Title: Add unconfigured AI UI and secure Worker contract
+- Acceptance: No credential is created or embedded; local search remains primary; the UI represents unconfigured/offline/401/429/timeout states; Worker auth, CORS, limits, grounding and citation validation are mock-tested.
+- Verification: Worker contract tests for 401, 403, 400, 429, 503, unsupported answers and invalid citation removal plus repository secret scan.
+- Intended file scope: AI settings/client, Cloudflare Worker source/config template, grounded knowledge bundle and contract tests.
