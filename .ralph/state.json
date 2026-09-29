@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 10,
-  "current_task_id": "T011",
-  "last_task_id": "T010",
+  "current_iteration": 11,
+  "current_task_id": "T012",
+  "last_task_id": "T011",
   "last_verification": {
     "status": "PASS",
-    "command": "npm run typecheck && npm run test:run -- search navigation && npm run build",
-    "summary": "Ten search/navigation/scope tests and the strict production build pass across all 43 points."
+    "command": "npm run typecheck && npm run test:run -- backup && npm run build",
+    "summary": "Five IndexedDB backup/import tests and the strict build pass; invalid imports are atomic and sensitive/session values are excluded."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-30T00:12:00+08:00"
+  "updated_at": "2026-09-30T00:26:00+08:00"
 }

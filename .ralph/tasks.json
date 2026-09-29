@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 10,
+  "current_iteration": 11,
   "status": "running",
   "tasks": [
     {
@@ -156,7 +156,7 @@
       "id": "T011",
       "title": "Implement progress persistence and versioned backup restore",
       "type": "feature",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T010"],
       "acceptance": ["IndexedDB persists allowed records", "Merge/replace imports are atomic", "Exports omit scope and tokens"],
@@ -164,13 +164,13 @@
       "files_expected": ["src/features/progress", "src/features/settings"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "IndexedDB persistence, progress/settings views, atomic merge/replace import, schema validation and sensitive-data exclusions pass five focused tests."
     },
     {
       "id": "T012",
       "title": "Implement review modes, answer scoring and scheduling",
       "type": "feature",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T011"],
       "acceptance": ["All four review modes work", "Keyword coverage and override are visible", "Mastery transitions are deterministic"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T010",
+  "last_successful_task": "T011",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T00:12:00+08:00"
+  "updated_at": "2026-09-30T00:26:00+08:00"
 }

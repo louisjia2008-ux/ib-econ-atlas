@@ -6,7 +6,10 @@ import { DirectoryRail, type DirectoryMode } from "./components/DirectoryRail";
 import { KnowledgeArticle } from "./components/KnowledgeArticle";
 import { SearchView } from "./components/SearchView";
 import { loadScope, saveScope } from "./features/navigation/scope";
+import { ProgressView } from "./features/progress/ProgressView";
+import { getPreferences, savePreferences } from "./features/progress/db";
 import { KnowledgeSearchIndex, levelMatches, type LevelFilter } from "./features/search/search";
+import { SettingsView } from "./features/settings/SettingsView";
 import { knowledgePoints } from "./generated/content";
 import type { Locale } from "./types/content";
 
@@ -82,6 +85,7 @@ function App() {
   const [level, setLevel] = useState<LevelFilter>("all");
   const [query, setQuery] = useState("");
   const [scopeIds, setScopeIds] = useState<Set<string>>(() => loadScope());
+  const [preferencesReady, setPreferencesReady] = useState(false);
   const labels = copy[locale];
   const searchIndex = useMemo(() => new KnowledgeSearchIndex(knowledgePoints), []);
 
@@ -92,6 +96,19 @@ function App() {
   useEffect(() => {
     saveScope(scopeIds);
   }, [scopeIds]);
+
+  useEffect(() => {
+    void getPreferences().then((preferences) => {
+      setLocale(preferences.locale);
+      setLevel(preferences.levelFilter);
+      setPreferencesReady(true);
+    });
+  }, []);
+
+  useEffect(() => {
+    if (!preferencesReady) return;
+    void getPreferences().then((preferences) => savePreferences({ ...preferences, locale, levelFilter: level }));
+  }, [level, locale, preferencesReady]);
 
   const currentPoint = useMemo(() => {
     const requestedId = studyMatch?.params.knowledgePointId;
@@ -180,9 +197,9 @@ function App() {
           ) : isReview ? (
             <PlaceholderView title={labels.review} message={labels.comingReview} />
           ) : isProgress ? (
-            <PlaceholderView title={labels.progress} message={labels.comingProgress} />
+            <ProgressView locale={locale} onOpen={openPoint} />
           ) : isSettings ? (
-            <PlaceholderView title={locale === "zh-CN" ? "设置" : "Settings"} message={labels.comingSettings} />
+            <SettingsView locale={locale} />
           ) : (
             <KnowledgeArticle
               point={currentPoint}
