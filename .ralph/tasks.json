@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 9,
+  "current_iteration": 10,
   "status": "running",
   "tasks": [
     {
@@ -142,7 +142,7 @@
       "id": "T010",
       "title": "Complete dual navigation, bilingual search and temporary scope",
       "type": "feature",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T009"],
       "acceptance": ["Syllabus/textbook directories map all points", "Bilingual fuzzy search and filters work", "Scope is session-only"],
@@ -150,13 +150,13 @@
       "files_expected": ["src/features/search", "src/features/navigation"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "Hash-routed study/search views, 43-point dual directories, weighted bilingual fuzzy search, level filters and session-only section scopes pass 10 focused tests."
     },
     {
       "id": "T011",
       "title": "Implement progress persistence and versioned backup restore",
       "type": "feature",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T010"],
       "acceptance": ["IndexedDB persists allowed records", "Merge/replace imports are atomic", "Exports omit scope and tokens"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T009",
+  "last_successful_task": "T010",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T23:58:00+08:00"
+  "updated_at": "2026-09-30T00:12:00+08:00"
 }

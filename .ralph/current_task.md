@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T010
-- Title: Complete dual navigation, bilingual search and temporary scope
-- Acceptance: Both syllabus and coursebook directories reach all 43 points; bilingual fuzzy search and SL/HL/scope filters work; scope persists only in sessionStorage.
-- Verification: focused Vitest coverage for search ranking, bilingual recall, directory mapping, and session-only scope behavior.
-- Intended file scope: navigation/search/scope feature modules, routed workspace integration, and focused tests.
+- ID: T011
+- Title: Implement progress persistence and versioned backup restore
+- Acceptance: IndexedDB persists allowed progress, attempts, preferences and backup metadata; export/import are schema-validated and atomic; merge and confirmed replace work; scope and AI token never enter backups.
+- Verification: focused Vitest coverage using fake IndexedDB for round-trip, merge, replace, unknown-point retention and invalid-import rollback.
+- Intended file scope: local database, backup service, settings/progress UI and tests.

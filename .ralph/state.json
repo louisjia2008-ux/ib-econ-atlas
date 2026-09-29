@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 9,
-  "current_task_id": "T010",
-  "last_task_id": "T009",
+  "current_iteration": 10,
+  "current_task_id": "T011",
+  "last_task_id": "T010",
   "last_verification": {
     "status": "PASS",
-    "command": "node scripts/content-data/unit-1-5.mjs && npm run content:validate && node scripts/compile-content.mjs",
-    "summary": "Strict content validation and compilation pass with exactly 43 bilingual points and 86 practice items."
+    "command": "npm run typecheck && npm run test:run -- search navigation && npm run build",
+    "summary": "Ten search/navigation/scope tests and the strict production build pass across all 43 points."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-29T23:58:00+08:00"
+  "updated_at": "2026-09-30T00:12:00+08:00"
 }
