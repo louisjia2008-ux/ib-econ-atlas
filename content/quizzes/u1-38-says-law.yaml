@@ -1,0 +1,47 @@
+- id: u1-38-says-law-flash-1
+  knowledgePointId: u1-38-says-law
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“萨伊定律”。
+    en: Without notes, explain “Say's Law” in your own words.
+  answer:
+    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+    en: "Say's Law is commonly summarised as supply creating corresponding demand:
+      production generates income, giving the economy purchasing power to absorb
+      output, so broad and lasting deficient demand should not persist in
+      flexible markets."
+  explanation:
+    zh-CN: 萨伊定律强调生产创造收入并支持需求，因而怀疑普遍长期供给过剩；凯恩斯后来挑战了这一自我调整结论。
+    en: Say's Law emphasises that production creates income and supports demand,
+      casting doubt on a persistent general glut; Keynes later challenged the
+      speed and reliability of that adjustment.
+- id: u1-38-says-law-mcq-1
+  knowledgePointId: u1-38-says-law
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“萨伊定律”？
+    en: Which statement best captures “Say's Law”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 萨伊定律强调生产创造收入并支持需求，因而怀疑普遍长期供给过剩；凯恩斯后来挑战了这一自我调整结论。
+      en: Say's Law emphasises that production creates income and supports demand,
+        casting doubt on a persistent general glut; Keynes later challenged the
+        speed and reliability of that adjustment.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+    en: "Say's Law is commonly summarised as supply creating corresponding demand:
+      production generates income, giving the economy purchasing power to absorb
+      output, so broad and lasting deficient demand should not persist in
+      flexible markets."

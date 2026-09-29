@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 8,
+  "current_iteration": 9,
   "status": "running",
   "tasks": [
     {
@@ -128,7 +128,7 @@
       "id": "T009",
       "title": "Author and validate Unit 1.5 bilingual content",
       "type": "content",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T008"],
       "acceptance": ["8 planned 1.5 points complete the exact 43-point manifest"],
@@ -136,13 +136,13 @@
       "files_expected": ["content/knowledge", "content/quizzes"],
       "attempts": 0,
       "last_error": "",
-      "notes": "The approved list has 43 total; closely related macro-policy history is grouped to keep 1.5 at eight atomic cards."
+      "notes": "All eight Unit 1.5 extension points compile; strict validation now passes exactly 43 bilingual points. The closely related Keynesian revolution and formation of macro policy remain one atomic card."
     },
     {
       "id": "T010",
       "title": "Complete dual navigation, bilingual search and temporary scope",
       "type": "feature",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T009"],
       "acceptance": ["Syllabus/textbook directories map all points", "Bilingual fuzzy search and filters work", "Scope is session-only"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T008",
+  "last_successful_task": "T009",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T23:41:00+08:00"
+  "updated_at": "2026-09-29T23:58:00+08:00"
 }

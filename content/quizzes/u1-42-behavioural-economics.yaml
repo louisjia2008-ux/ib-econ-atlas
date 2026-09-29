@@ -1,0 +1,45 @@
+- id: u1-42-behavioural-economics-flash-1
+  knowledgePointId: u1-42-behavioural-economics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“行为经济学”。
+    en: Without notes, explain “Behavioural economics” in your own words.
+  answer:
+    zh-CN: 行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。
+    en: Behavioural economics combines psychology and economics to study how
+      heuristics, biases, limited attention, self-control problems, and social
+      preferences shape economic decisions.
+  explanation:
+    zh-CN: 行为经济学把有限理性、自我控制和社会偏好纳入模型，解释现实选择为何系统性偏离完全理性基准。
+    en: Behavioural economics incorporates bounded rationality, self-control, and
+      social preferences to explain systematic departures from a fully rational
+      benchmark.
+- id: u1-42-behavioural-economics-mcq-1
+  knowledgePointId: u1-42-behavioural-economics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“行为经济学”？
+    en: Which statement best captures “Behavioural economics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 行为经济学把有限理性、自我控制和社会偏好纳入模型，解释现实选择为何系统性偏离完全理性基准。
+      en: Behavioural economics incorporates bounded rationality, self-control, and
+        social preferences to explain systematic departures from a fully
+        rational benchmark.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。
+    en: Behavioural economics combines psychology and economics to study how
+      heuristics, biases, limited attention, self-control problems, and social
+      preferences shape economic decisions.

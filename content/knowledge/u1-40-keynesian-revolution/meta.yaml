@@ -1,0 +1,33 @@
+id: u1-40-keynesian-revolution
+slug: keynesian-revolution
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 36
+      - 37
+prerequisites:
+  - u1-03-macroeconomics
+  - u1-38-says-law
+related:
+  - u1-41-monetarist-new-classical
+terms:
+  - The Keynesian revolution and macroeconomic policy
+  - 凯恩斯革命与宏观政策
+synonyms:
+  zh-CN:
+    - 凯恩斯主义
+    - 有效需求
+    - 需求管理
+  en:
+    - Keynesianism
+    - effective demand
+    - demand management
+diagramIds: []
+quizIds:
+  - u1-40-keynesian-revolution-flash-1
+  - u1-40-keynesian-revolution-mcq-1

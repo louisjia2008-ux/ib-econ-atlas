@@ -1,0 +1,49 @@
+- id: u1-40-keynesian-revolution-flash-1
+  knowledgePointId: u1-40-keynesian-revolution
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“凯恩斯革命与宏观政策”。
+    en: Without notes, explain “The Keynesian revolution and macroeconomic policy”
+      in your own words.
+  answer:
+    zh-CN: 凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。
+    en: Keynesian economics holds that expenditure, expectations, and wage-price
+      rigidity influence short-run output and employment, and that public policy
+      can support aggregate demand when private demand is weak and
+      self-correction is slow.
+  explanation:
+    zh-CN: 凯恩斯指出总需求不足可使经济长期低于充分就业，并由此奠定用财政和货币政策稳定宏观经济的框架。
+    en: Keynes argued that deficient aggregate demand can keep an economy below full
+      employment, establishing a framework for fiscal and monetary stabilisation
+      policy.
+- id: u1-40-keynesian-revolution-mcq-1
+  knowledgePointId: u1-40-keynesian-revolution
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“凯恩斯革命与宏观政策”？
+    en: Which statement best captures “The Keynesian revolution and macroeconomic
+      policy”?
+  options:
+    - id: a
+      zh-CN: 凯恩斯指出总需求不足可使经济长期低于充分就业，并由此奠定用财政和货币政策稳定宏观经济的框架。
+      en: Keynes argued that deficient aggregate demand can keep an economy below full
+        employment, establishing a framework for fiscal and monetary
+        stabilisation policy.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。
+    en: Keynesian economics holds that expenditure, expectations, and wage-price
+      rigidity influence short-run output and employment, and that public policy
+      can support aggregate demand when private demand is weak and
+      self-correction is slow.

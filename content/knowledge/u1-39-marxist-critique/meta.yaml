@@ -1,0 +1,33 @@
+id: u1-39-marxist-critique
+slug: marxist-critique
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 35
+prerequisites:
+  - u1-18-income-distribution
+  - u1-21-free-market-economy
+related:
+  - u1-36-adam-smith
+  - u1-40-keynesian-revolution
+terms:
+  - The Marxist critique
+  - 马克思主义批判
+synonyms:
+  zh-CN:
+    - 马克思经济学
+    - 阶级分析
+    - 剩余价值理论
+  en:
+    - Marxian economics
+    - class analysis
+    - surplus value theory
+diagramIds: []
+quizIds:
+  - u1-39-marxist-critique-flash-1
+  - u1-39-marxist-critique-mcq-1

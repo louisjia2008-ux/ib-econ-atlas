@@ -1,0 +1,33 @@
+id: u1-43-circular-economy
+slug: circular-economy
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 41
+prerequisites:
+  - u1-09-sustainability
+  - u1-11-interdependence
+related:
+  - u1-17-resource-allocation
+  - u1-20-government-intervention
+terms:
+  - Interdependence and the circular economy
+  - 相互依存与循环经济
+synonyms:
+  zh-CN:
+    - 循环性
+    - 闭环经济
+    - 经济社会环境相互依存
+  en:
+    - circularity
+    - closed-loop economy
+    - economy society environment interdependence
+diagramIds: []
+quizIds:
+  - u1-43-circular-economy-flash-1
+  - u1-43-circular-economy-mcq-1

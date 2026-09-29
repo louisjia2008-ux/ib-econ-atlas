@@ -1,0 +1,47 @@
+- id: u1-36-adam-smith-flash-1
+  knowledgePointId: u1-36-adam-smith
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“亚当·斯密与自由放任”。
+    en: Without notes, explain “Adam Smith and laissez-faire” in your own words.
+  answer:
+    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+    en: Adam Smith's classical economics treated specialisation, market exchange,
+      and competition as important sources of growing wealth. Laissez-faire
+      favours avoiding unnecessary state replacement of decentralised market
+      decisions.
+  explanation:
+    zh-CN: 斯密强调分工、交换和竞争如何协调自利行为，但其论述并非主张完全没有法律、公共品或道德约束。
+    en: Smith explained how specialisation, exchange, and competition can coordinate
+      self-interested action, without arguing that law, public goods, or moral
+      constraints are unnecessary.
+- id: u1-36-adam-smith-mcq-1
+  knowledgePointId: u1-36-adam-smith
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“亚当·斯密与自由放任”？
+    en: Which statement best captures “Adam Smith and laissez-faire”?
+  options:
+    - id: a
+      zh-CN: 斯密强调分工、交换和竞争如何协调自利行为，但其论述并非主张完全没有法律、公共品或道德约束。
+      en: Smith explained how specialisation, exchange, and competition can coordinate
+        self-interested action, without arguing that law, public goods, or moral
+        constraints are unnecessary.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+    en: Adam Smith's classical economics treated specialisation, market exchange,
+      and competition as important sources of growing wealth. Laissez-faire
+      favours avoiding unnecessary state replacement of decentralised market
+      decisions.

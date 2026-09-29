@@ -1,0 +1,46 @@
+- id: u1-43-circular-economy-flash-1
+  knowledgePointId: u1-43-circular-economy
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“相互依存与循环经济”。
+    en: Without notes, explain “Interdependence and the circular economy” in your
+      own words.
+  answer:
+    zh-CN: 循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。
+    en: A circular economy is a framework for designing and organising production
+      and consumption to reduce extraction and waste, retain value in products,
+      components, and materials, and support regeneration of natural systems.
+  explanation:
+    zh-CN: 循环经济把经济、社会与环境视为相互依存系统，通过减少材料投入、延长使用和回收价值来替代“开采—生产—丢弃”。
+    en: A circular economy treats the economy, society, and environment as
+      interdependent systems and replaces take-make-dispose with lower material
+      use, longer use, and retained value.
+- id: u1-43-circular-economy-mcq-1
+  knowledgePointId: u1-43-circular-economy
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“相互依存与循环经济”？
+    en: Which statement best captures “Interdependence and the circular economy”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 循环经济把经济、社会与环境视为相互依存系统，通过减少材料投入、延长使用和回收价值来替代“开采—生产—丢弃”。
+      en: A circular economy treats the economy, society, and environment as
+        interdependent systems and replaces take-make-dispose with lower
+        material use, longer use, and retained value.
+  correctOptionId: d
+  explanation:
+    zh-CN: 循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。
+    en: A circular economy is a framework for designing and organising production
+      and consumption to reduce extraction and waste, retain value in products,
+      components, and materials, and support regeneration of natural systems.

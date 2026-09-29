@@ -1,0 +1,45 @@
+- id: u1-39-marxist-critique-flash-1
+  knowledgePointId: u1-39-marxist-critique
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“马克思主义批判”。
+    en: Without notes, explain “The Marxist critique” in your own words.
+  answer:
+    zh-CN: 马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。
+    en: The Marxist critique uses ownership of the means of production, class
+      relations between labour and capital, surplus value, and accumulation to
+      analyse distribution, power, and tendencies toward crisis in capitalism.
+  explanation:
+    zh-CN: 马克思主义分析把所有权、阶级关系和资本积累置于核心，质疑市场交换表面的自由是否掩盖生产权力与分配冲突。
+    en: Marxist analysis centres ownership, class relations, and capital
+      accumulation, questioning whether formal freedom in exchange conceals
+      power and distributional conflict in production.
+- id: u1-39-marxist-critique-mcq-1
+  knowledgePointId: u1-39-marxist-critique
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“马克思主义批判”？
+    en: Which statement best captures “The Marxist critique”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 马克思主义分析把所有权、阶级关系和资本积累置于核心，质疑市场交换表面的自由是否掩盖生产权力与分配冲突。
+      en: Marxist analysis centres ownership, class relations, and capital
+        accumulation, questioning whether formal freedom in exchange conceals
+        power and distributional conflict in production.
+  correctOptionId: d
+  explanation:
+    zh-CN: 马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。
+    en: The Marxist critique uses ownership of the means of production, class
+      relations between labour and capital, surplus value, and accumulation to
+      analyse distribution, power, and tendencies toward crisis in capitalism.
