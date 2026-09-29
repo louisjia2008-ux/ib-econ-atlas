@@ -202,7 +202,8 @@ input:focus-visible {
 
 .offline-pill,
 .language-toggle,
-.avatar {
+.avatar,
+.mobile-menu-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -246,6 +247,14 @@ input:focus-visible {
   cursor: pointer;
 }
 
+.mobile-menu-button {
+  display: none;
+  width: 36px;
+  padding: 0;
+  color: white;
+  cursor: pointer;
+}
+
 .workspace-grid {
   display: grid;
   grid-template-columns: 264px minmax(540px, 1fr) 286px;
@@ -267,6 +276,11 @@ input:focus-visible {
   flex-direction: column;
   background: #f8fafc;
   border-right: 1px solid var(--line);
+}
+
+.directory-mobile-head,
+.directory-overlay {
+  display: none;
 }
 
 .directory-tabs {
@@ -1281,26 +1295,6 @@ input:focus-visible {
   min-height: calc(100vh - 68px);
 }
 
-.placeholder-view {
-  width: min(760px, 100%);
-  padding-top: clamp(5rem, 14vh, 10rem);
-  margin: 0 auto;
-}
-
-.placeholder-view h1 {
-  margin: 0.7rem 0 1rem;
-  color: #101e38;
-  font-family: "Noto Serif SC", Georgia, serif;
-  font-size: clamp(2.6rem, 6vw, 4.4rem);
-}
-
-.placeholder-view p {
-  max-width: 620px;
-  color: #647087;
-  font-size: 1rem;
-  line-height: 1.8;
-}
-
 .dashboard-view {
   width: min(820px, 100%);
   padding: clamp(3.5rem, 8vw, 6rem) 0 5rem;
@@ -1952,6 +1946,7 @@ input:focus-visible {
 }
 
 .ppc-explorer {
+  scroll-margin-top: 88px;
   padding: 1.3rem;
   margin: 2.7rem 0;
   background: #f8fafc;
@@ -2019,7 +2014,7 @@ input:focus-visible {
   margin-top: 1.2rem;
 }
 
-.ppc-stage svg {
+.ppc-stage > svg {
   width: 100%;
   min-height: 330px;
   touch-action: none;
@@ -2029,7 +2024,7 @@ input:focus-visible {
   cursor: crosshair;
 }
 
-.ppc-stage svg:focus-visible {
+.ppc-stage > svg:focus-visible {
   outline: 3px solid rgb(36 89 211 / 28%);
   outline-offset: 2px;
 }
@@ -2039,7 +2034,7 @@ input:focus-visible {
   stroke-width: 1;
 }
 
-.ppc-stage svg text {
+.ppc-stage > svg text {
   fill: #8290a4;
   font-family: "DM Sans", sans-serif;
   font-size: 10px;
@@ -2057,13 +2052,13 @@ input:focus-visible {
   stroke-linecap: round;
 }
 
-.ppc-stage svg .axis-label {
+.ppc-stage > svg .axis-label {
   fill: #536179;
   font-size: 11px;
   font-weight: 600;
 }
 
-.ppc-stage svg .curve-label {
+.ppc-stage > svg .curve-label {
   fill: var(--cobalt-deep);
   font-size: 11px;
   font-weight: 800;
@@ -2407,6 +2402,14 @@ input:focus-visible {
     display: none;
   }
 
+  .avatar {
+    display: none;
+  }
+
+  .mobile-menu-button {
+    display: inline-flex;
+  }
+
   .workspace-grid {
     display: block;
   }
@@ -2417,6 +2420,58 @@ input:focus-visible {
 
   .left-rail {
     display: none;
+  }
+
+  .directory-overlay {
+    position: fixed;
+    z-index: 70;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    background: rgb(4 13 30 / 52%);
+    border: 0;
+    backdrop-filter: blur(2px);
+  }
+
+  .left-rail.mobile-open {
+    position: fixed;
+    z-index: 80;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    width: min(88vw, 320px);
+    height: 100dvh;
+    box-shadow: 18px 0 48px rgb(4 15 36 / 24%);
+  }
+
+  .directory-mobile-head {
+    display: flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 58px;
+    padding: 0 0.9rem 0 1rem;
+    color: white;
+    background: var(--navy-950);
+  }
+
+  .directory-mobile-head strong {
+    font-size: 0.82rem;
+  }
+
+  .directory-mobile-head button {
+    display: grid;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    place-items: center;
+    color: white;
+    background: #172d53;
+    border: 1px solid #294777;
+    border-radius: 8px;
   }
 
   .reading-canvas {
@@ -2502,10 +2557,6 @@ input:focus-visible {
   }
 
   .global-search kbd {
-    display: none;
-  }
-
-  .avatar {
     display: none;
   }
 
@@ -2637,7 +2688,7 @@ input:focus-visible {
     max-width: none;
   }
 
-  .ppc-stage svg {
+  .ppc-stage > svg {
     min-height: 260px;
   }
 }

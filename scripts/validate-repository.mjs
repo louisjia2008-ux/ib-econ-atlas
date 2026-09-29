@@ -39,6 +39,8 @@ requireCondition(Object.hasOwn(ci.on ?? {}, "pull_request"), "ci.yml: pull_reque
 requireCondition((ci.on?.push?.branches ?? []).includes("main"), "ci.yml: main push trigger is required.");
 requireCondition(allStepRuns(ci).includes("npm ci"), "ci.yml: npm ci is required.");
 requireCondition(allStepRuns(ci).includes("npm run verify"), "ci.yml: npm run verify is required.");
+requireCondition(allStepRuns(ci).includes("npx playwright install --with-deps chromium"), "ci.yml: Chromium installation is required for browser acceptance.");
+requireCondition(allStepRuns(ci).includes("npm run test:e2e"), "ci.yml: Playwright acceptance is required.");
 
 const pages = readWorkflow("pages.yml");
 requireCondition((pages.on?.push?.branches ?? []).includes("main"), "pages.yml: only the main branch may trigger push deployment.");
@@ -47,6 +49,7 @@ requireCondition(pages.permissions?.contents === "read", "pages.yml: contents pe
 requireCondition(pages.permissions?.pages === "write", "pages.yml: pages write permission is required.");
 requireCondition(pages.permissions?.["id-token"] === "write", "pages.yml: id-token write permission is required.");
 requireCondition(allStepRuns(pages).includes("npm run verify"), "pages.yml: deployment must run the full verification gate.");
+requireCondition(allStepRuns(pages).includes("npm run test:e2e"), "pages.yml: deployment must pass browser acceptance.");
 requireCondition(allStepUses(pages).includes("actions/upload-pages-artifact@v3"), "pages.yml: Pages artifact upload step is required.");
 requireCondition(allStepUses(pages).includes("actions/deploy-pages@v4"), "pages.yml: official Pages deployment action is required.");
 

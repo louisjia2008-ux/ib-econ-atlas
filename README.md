@@ -50,6 +50,8 @@ npm run verify
 npm run test:e2e
 ```
 
+首次运行浏览器验收前，请安装 Chromium：`npx playwright install chromium`。测试会自行完成严格生产构建，并在 1440px、768px、390px 视口以及离线模式下运行。
+
 ## 内容结构 / Content structure
 
 ```text

@@ -37,6 +37,7 @@ npm run test:run
 npm run build
 npm run test:pwa
 npm run test:secrets
+npm run test:e2e
 ```
 
 也可以运行统一门禁：

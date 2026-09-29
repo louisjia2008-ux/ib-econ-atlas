@@ -4,7 +4,7 @@ This report is generated from the Git index by `npm run content:report`. It is a
 
 ## Result
 
-- Tracked files audited: 266
+- Tracked files audited: 268
 - Tracked PDFs: 0
 - Tracked raster or scanned-page image formats: 0
 - Tracked environment or Wrangler secret files: 0

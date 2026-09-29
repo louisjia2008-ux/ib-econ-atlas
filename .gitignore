@@ -16,6 +16,7 @@ dist/
 coverage/
 playwright-report/
 test-results/
+output/playwright/
 .vite/
 .cache/
 *.tsbuildinfo
@@ -24,4 +25,3 @@ test-results/
 .DS_Store
 *.swp
 *.swo
-

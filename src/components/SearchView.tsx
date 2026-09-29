@@ -1,19 +1,28 @@
 import { BookOpen, ChevronRight, RotateCcw, Search } from "lucide-react";
 import type { SearchHit } from "../features/search/search";
 import type { Locale } from "../types/content";
+import type { ProgressRecord } from "../types/progress";
 
 interface SearchViewProps {
   query: string;
   locale: Locale;
   hits: SearchHit[];
+  progressRecords: ProgressRecord[];
   scopeActive: boolean;
   onOpen: (id: string) => void;
   onClearQuery: () => void;
   onClearScope: () => void;
 }
 
-export function SearchView({ query, locale, hits, scopeActive, onOpen, onClearQuery, onClearScope }: SearchViewProps) {
+export function SearchView({ query, locale, hits, progressRecords, scopeActive, onOpen, onClearQuery, onClearScope }: SearchViewProps) {
   const title = query.trim() ? `“${query}”` : locale === "zh-CN" ? "浏览知识库" : "Browse the knowledge base";
+  const progressById = new Map(progressRecords.map((record) => [record.knowledgePointId, record]));
+  const stateLabels: Record<ProgressRecord["state"], Record<Locale, string>> = {
+    new: { "zh-CN": "未学", en: "New" },
+    learning: { "zh-CN": "学习中", en: "Learning" },
+    review: { "zh-CN": "复习中", en: "Review" },
+    mastered: { "zh-CN": "已掌握", en: "Mastered" },
+  };
   return (
     <section className="search-results" aria-live="polite">
       <div className="search-results-header">
@@ -32,7 +41,7 @@ export function SearchView({ query, locale, hits, scopeActive, onOpen, onClearQu
             <button className="result-card" type="button" key={point.meta.id} onClick={() => onOpen(point.meta.id)}>
               <span className="result-icon"><BookOpen size={19} /></span>
               <span>
-                <small>{point.meta.section} · {point.meta.level.toUpperCase()}</small>
+                <small>{point.meta.section} · {point.meta.level.toUpperCase()} · {stateLabels[progressById.get(point.meta.id)?.state ?? "new"][locale]}</small>
                 <strong>{point.content[locale].title}</strong>
                 <p>{snippet}</p>
               </span>

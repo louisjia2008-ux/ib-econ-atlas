@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useState } from "react";
-import { BookOpen, Clock3, Database, Languages, Layers3, Menu, Search, Wifi, WifiOff, X } from "lucide-react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { BookOpen, Clock3, Database, Languages, Layers3, Menu, Search, Settings2, Wifi, WifiOff, X } from "lucide-react";
 import { useLocation, useMatch, useNavigate } from "react-router-dom";
 import { useRegisterSW } from "virtual:pwa-register/react";
 import { ContextRail } from "./components/ContextRail";
@@ -8,12 +8,13 @@ import { KnowledgeArticle } from "./components/KnowledgeArticle";
 import { SearchView } from "./components/SearchView";
 import { loadScope, saveScope } from "./features/navigation/scope";
 import { ProgressView } from "./features/progress/ProgressView";
-import { getPreferences, savePreferences } from "./features/progress/db";
+import { getAllProgress, getPreferences, savePreferences } from "./features/progress/db";
 import { ReviewView } from "./features/review/ReviewView";
 import { KnowledgeSearchIndex, levelMatches, type LevelFilter } from "./features/search/search";
 import { SettingsView } from "./features/settings/SettingsView";
 import { knowledgePoints } from "./generated/content";
 import type { Locale } from "./types/content";
+import type { ProgressRecord } from "./types/progress";
 
 const copy = {
   "zh-CN": {
@@ -41,10 +42,8 @@ const copy = {
     search: "搜索",
     review: "复习",
     progress: "进度",
+    settings: "设置",
     panel: "目录",
-    comingReview: "复习中心将在下一阶段接入答题与调度。",
-    comingProgress: "进度中心将在下一阶段接入设备本地记录。",
-    comingSettings: "设置与数据管理将在下一阶段接入。",
   },
   en: {
     skip: "Skip to article",
@@ -71,22 +70,10 @@ const copy = {
     search: "Search",
     review: "Review",
     progress: "Progress",
+    settings: "Settings",
     panel: "Directory",
-    comingReview: "Answering and scheduling will be connected to the review centre in the next phase.",
-    comingProgress: "Device-local records will be connected to the progress centre in the next phase.",
-    comingSettings: "Settings and data management will be connected in the next phase.",
   },
 } as const;
-
-function PlaceholderView({ title, message }: { title: string; message: string }) {
-  return (
-    <section className="placeholder-view">
-      <span className="eyebrow">IB ECON ATLAS</span>
-      <h1>{title}</h1>
-      <p>{message}</p>
-    </section>
-  );
-}
 
 function App() {
   const navigate = useNavigate();
@@ -97,8 +84,11 @@ function App() {
   const [level, setLevel] = useState<LevelFilter>("all");
   const [query, setQuery] = useState("");
   const [scopeIds, setScopeIds] = useState<Set<string>>(() => loadScope());
+  const [directoryOpen, setDirectoryOpen] = useState(false);
+  const [progressRecords, setProgressRecords] = useState<ProgressRecord[]>([]);
   const [preferencesReady, setPreferencesReady] = useState(false);
   const [isOnline, setIsOnline] = useState(() => navigator.onLine);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const {
     needRefresh: [needRefresh, setNeedRefresh],
     offlineReady: [offlineReady, setOfflineReady],
@@ -123,8 +113,31 @@ function App() {
   }, []);
 
   useEffect(() => {
+    const handleKeyboard = (event: KeyboardEvent) => {
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
+        event.preventDefault();
+        searchInputRef.current?.focus();
+      }
+      if (event.key === "Escape" && directoryOpen) setDirectoryOpen(false);
+    };
+    window.addEventListener("keydown", handleKeyboard);
+    return () => window.removeEventListener("keydown", handleKeyboard);
+  }, [directoryOpen]);
+
+  useEffect(() => {
+    if (!directoryOpen) return undefined;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => { document.body.style.overflow = previousOverflow; };
+  }, [directoryOpen]);
+
+  useEffect(() => {
     saveScope(scopeIds);
   }, [scopeIds]);
+
+  useEffect(() => {
+    void getAllProgress().then(setProgressRecords);
+  }, [location.pathname]);
 
   useEffect(() => {
     void getPreferences().then((preferences) => {
@@ -160,6 +173,7 @@ function App() {
 
   const openPoint = (id: string) => {
     navigate(`/study/${id}`);
+    setDirectoryOpen(false);
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -187,6 +201,7 @@ function App() {
           <Search size={18} aria-hidden="true" />
           <span className="sr-only">{labels.globalSearch}</span>
           <input
+            ref={searchInputRef}
             type="search"
             value={query}
             onFocus={() => navigate("/search")}
@@ -203,6 +218,7 @@ function App() {
             <Languages size={17} /> {locale === "zh-CN" ? "EN" : "中文"}
           </button>
           <button className="avatar" type="button" onClick={() => navigate("/settings")} aria-label={locale === "zh-CN" ? "设置" : "Settings"}>LA</button>
+          <button className="mobile-menu-button" type="button" onClick={() => setDirectoryOpen(true)} aria-expanded={directoryOpen} aria-controls="directory-drawer" aria-label={labels.panel}><Menu size={20} /></button>
         </div>
       </header>
 
@@ -213,20 +229,25 @@ function App() {
           mode={directoryMode}
           level={level}
           scopeIds={scopeIds}
+          progressRecords={progressRecords}
           currentId={currentPoint.meta.id}
+          mobileOpen={directoryOpen}
           onModeChange={setDirectoryMode}
           onLevelChange={setLevel}
           onScopeChange={setScopeIds}
           onOpen={openPoint}
+          onRequestClose={() => setDirectoryOpen(false)}
         />
+
+        {directoryOpen && <button className="directory-overlay" type="button" onClick={() => setDirectoryOpen(false)} aria-label={locale === "zh-CN" ? "关闭目录" : "Close directory"} />}
 
         <main className="reading-canvas" id="knowledge-article">
           {isSearch ? (
-            <SearchView query={query} locale={locale} hits={hits} scopeActive={scopeIds.size > 0} onOpen={openPoint} onClearQuery={() => setQuery("")} onClearScope={() => setScopeIds(new Set())} />
+            <SearchView query={query} locale={locale} hits={hits} progressRecords={progressRecords} scopeActive={scopeIds.size > 0} onOpen={openPoint} onClearQuery={() => setQuery("")} onClearScope={() => setScopeIds(new Set())} />
           ) : isReview ? (
             <ReviewView locale={locale} scopeIds={scopeIds} />
           ) : isProgress ? (
-            <ProgressView locale={locale} onOpen={openPoint} />
+            <ProgressView locale={locale} scopeIds={scopeIds} onOpen={openPoint} />
           ) : isSettings ? (
             <SettingsView locale={locale} />
           ) : (
@@ -241,7 +262,7 @@ function App() {
         </main>
 
         {showContext && (
-          <ContextRail point={currentPoint} points={knowledgePoints} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
+          <ContextRail point={currentPoint} points={knowledgePoints} progress={progressRecords.find((record) => record.knowledgePointId === currentPoint.meta.id)} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
         )}
       </div>
 
@@ -256,11 +277,11 @@ function App() {
       )}
 
       <nav className="mobile-nav" aria-label="Mobile navigation">
-        <button type="button"><Menu size={20} /><span>{labels.panel}</span></button>
         <button className={!isSearch && !isReview && !isProgress && !isSettings ? "active" : ""} type="button" onClick={() => openPoint(currentPoint.meta.id)}><BookOpen size={20} /><span>{labels.study}</span></button>
         <button className={isSearch ? "active" : ""} type="button" onClick={() => navigate("/search")}><Search size={20} /><span>{labels.search}</span></button>
         <button className={isReview ? "active" : ""} type="button" onClick={() => navigate("/review")}><Clock3 size={20} /><span>{labels.review}</span></button>
         <button className={isProgress ? "active" : ""} type="button" onClick={() => navigate("/progress")}><Database size={20} /><span>{labels.progress}</span></button>
+        <button className={isSettings ? "active" : ""} type="button" onClick={() => navigate("/settings")}><Settings2 size={20} /><span>{labels.settings}</span></button>
       </nav>
     </div>
   );

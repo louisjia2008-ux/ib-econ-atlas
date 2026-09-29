@@ -5,22 +5,25 @@ import type { Locale } from "../../types/content";
 import type { ProgressRecord } from "../../types/progress";
 import { getAllProgress } from "./db";
 
-export function ProgressView({ locale, onOpen }: { locale: Locale; onOpen: (id: string) => void }) {
+export function ProgressView({ locale, scopeIds, onOpen }: { locale: Locale; scopeIds: ReadonlySet<string>; onOpen: (id: string) => void }) {
   const [records, setRecords] = useState<ProgressRecord[]>([]);
   useEffect(() => { void getAllProgress().then(setRecords); }, []);
-  const byId = new Map(records.map((record) => [record.knowledgePointId, record]));
+  const activePoints = scopeIds.size > 0 ? knowledgePoints.filter((point) => scopeIds.has(point.meta.id)) : knowledgePoints;
+  const activeIds = new Set(activePoints.map((point) => point.meta.id));
+  const activeRecords = records.filter((record) => activeIds.has(record.knowledgePointId));
+  const byId = new Map(activeRecords.map((record) => [record.knowledgePointId, record]));
   const counts = {
-    new: knowledgePoints.filter((point) => !byId.has(point.meta.id) || byId.get(point.meta.id)?.state === "new").length,
-    learning: records.filter((record) => record.state === "learning").length,
-    review: records.filter((record) => record.state === "review").length,
-    mastered: records.filter((record) => record.state === "mastered").length,
+    new: activePoints.filter((point) => !byId.has(point.meta.id) || byId.get(point.meta.id)?.state === "new").length,
+    learning: activeRecords.filter((record) => record.state === "learning").length,
+    review: activeRecords.filter((record) => record.state === "review").length,
+    mastered: activeRecords.filter((record) => record.state === "mastered").length,
   };
-  const due = records.filter((record) => record.dueAt && Date.parse(record.dueAt) <= Date.now());
+  const due = activeRecords.filter((record) => record.dueAt && Date.parse(record.dueAt) <= Date.now());
   return (
     <section className="dashboard-view">
       <span className="eyebrow">{locale === "zh-CN" ? "设备本地数据" : "On-device data"}</span>
       <h1>{locale === "zh-CN" ? "学习进度" : "Learning progress"}</h1>
-      <p className="dashboard-lead">{locale === "zh-CN" ? "所有掌握度和练习记录只保存在这台设备。" : "Mastery and practice records remain on this device."}</p>
+      <p className="dashboard-lead">{locale === "zh-CN" ? `所有掌握度和练习记录只保存在这台设备。${scopeIds.size > 0 ? `当前仅统计考试范围内的 ${activePoints.length} 个知识点。` : ""}` : `Mastery and practice records remain on this device.${scopeIds.size > 0 ? ` Showing the ${activePoints.length} points in the current exam scope.` : ""}`}</p>
       <div className="stat-grid">
         <article><Layers3 /><span>{locale === "zh-CN" ? "未学" : "New"}</span><strong>{counts.new}</strong></article>
         <article><Sparkles /><span>{locale === "zh-CN" ? "学习中" : "Learning"}</span><strong>{counts.learning}</strong></article>

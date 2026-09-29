@@ -16,6 +16,7 @@
 - [ ] `npm run build`
 - [ ] `npm run test:pwa`
 - [ ] `npm run test:secrets`
+- [ ] `npm run test:e2e`
 - [ ] Desktop and narrow-screen evidence attached when UI changed
 
 ## Content and copyright declaration
