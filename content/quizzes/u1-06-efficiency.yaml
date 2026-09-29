@@ -1,0 +1,45 @@
+- id: u1-06-efficiency-flash-1
+  knowledgePointId: u1-06-efficiency
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“效率”。
+    en: Without notes, explain “Efficiency” in your own words.
+  answer:
+    zh-CN: 经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。
+    en: Economic efficiency describes a situation in which resources are not wasted
+      and, as far as possible, are allocated to uses that create greater value
+      or satisfy more highly valued wants; productive and allocative efficiency
+      are commonly distinguished.
+  explanation:
+    zh-CN: 效率意味着在既定资源下避免浪费并把资源用于社会最重视的用途，但它不自动保证公平。
+    en: Efficiency avoids waste and directs scarce resources toward valued uses, but
+      an efficient outcome is not automatically equitable.
+- id: u1-06-efficiency-mcq-1
+  knowledgePointId: u1-06-efficiency
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“效率”？
+    en: Which statement best captures “Efficiency”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 效率意味着在既定资源下避免浪费并把资源用于社会最重视的用途，但它不自动保证公平。
+      en: Efficiency avoids waste and directs scarce resources toward valued uses, but
+        an efficient outcome is not automatically equitable.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。
+    en: Economic efficiency describes a situation in which resources are not wasted
+      and, as far as possible, are allocated to uses that create greater value
+      or satisfy more highly valued wants; productive and allocative efficiency
+      are commonly distinguished.

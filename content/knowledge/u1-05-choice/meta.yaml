@@ -1,0 +1,32 @@
+id: u1-05-choice
+slug: choice
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 4
+prerequisites:
+  - u1-04-scarcity
+related:
+  - u1-14-opportunity-cost
+  - u1-16-basic-economic-questions
+terms:
+  - Choice
+  - 选择
+synonyms:
+  zh-CN:
+    - 取舍
+    - 决策
+    - 经济选择
+  en:
+    - trade-off
+    - decision
+    - economic choice
+diagramIds: []
+quizIds:
+  - u1-05-choice-flash-1
+  - u1-05-choice-mcq-1

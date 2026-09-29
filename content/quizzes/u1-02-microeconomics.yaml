@@ -1,0 +1,43 @@
+- id: u1-02-microeconomics-flash-1
+  knowledgePointId: u1-02-microeconomics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“微观经济学”。
+    en: Without notes, explain “Microeconomics” in your own words.
+  answer:
+    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+    en: Microeconomics studies the choices and interactions of individual economic
+      agents and particular markets, including their effects on prices,
+      quantities, efficiency, and equity.
+  explanation:
+    zh-CN: 微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。
+    en: Microeconomics begins with consumers, workers, firms, and individual markets
+      to explain prices, output, and resource allocation.
+- id: u1-02-microeconomics-mcq-1
+  knowledgePointId: u1-02-microeconomics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“微观经济学”？
+    en: Which statement best captures “Microeconomics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。
+      en: Microeconomics begins with consumers, workers, firms, and individual markets
+        to explain prices, output, and resource allocation.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+    en: Microeconomics studies the choices and interactions of individual economic
+      agents and particular markets, including their effects on prices,
+      quantities, efficiency, and equity.

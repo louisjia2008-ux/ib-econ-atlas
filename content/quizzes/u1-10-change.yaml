@@ -1,0 +1,45 @@
+- id: u1-10-change-flash-1
+  knowledgePointId: u1-10-change
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“变化”。
+    en: Without notes, explain “Change” in your own words.
+  answer:
+    zh-CN: 变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。
+    en: Change refers to adjustment over time in agents, resources, technology,
+      institutions, or the external environment and to the resulting shifts in
+      production, distribution, and well-being.
+  explanation:
+    zh-CN: 经济结果会随技术、制度、偏好和外部冲击变化，因此模型结论必须标明时间和条件。
+    en: Economic outcomes evolve with technology, institutions, preferences, and
+      shocks, so a model's conclusion must be located in time and under stated
+      conditions.
+- id: u1-10-change-mcq-1
+  knowledgePointId: u1-10-change
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“变化”？
+    en: Which statement best captures “Change”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 经济结果会随技术、制度、偏好和外部冲击变化，因此模型结论必须标明时间和条件。
+      en: Economic outcomes evolve with technology, institutions, preferences, and
+        shocks, so a model's conclusion must be located in time and under stated
+        conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。
+    en: Change refers to adjustment over time in agents, resources, technology,
+      institutions, or the external environment and to the resulting shifts in
+      production, distribution, and well-being.

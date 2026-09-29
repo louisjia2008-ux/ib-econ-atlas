@@ -1,0 +1,45 @@
+- id: u1-07-equity-flash-1
+  knowledgePointId: u1-07-equity
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“公平”。
+    en: Without notes, explain “Equity” in your own words.
+  answer:
+    zh-CN: 公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。
+    en: Equity is a normative concept concerning the fairness of the distribution of
+      economic resources, opportunities, burdens, and outcomes, assessed through
+      principles such as need, contribution, opportunity, or rights.
+  explanation:
+    zh-CN: 公平判断结果或过程是否公正，它依赖价值标准，因此不能仅由市场数量或平均值决定。
+    en: Equity judges whether a process or outcome is fair; it depends on an
+      explicit value standard rather than on market quantities or averages
+      alone.
+- id: u1-07-equity-mcq-1
+  knowledgePointId: u1-07-equity
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“公平”？
+    en: Which statement best captures “Equity”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 公平判断结果或过程是否公正，它依赖价值标准，因此不能仅由市场数量或平均值决定。
+      en: Equity judges whether a process or outcome is fair; it depends on an
+        explicit value standard rather than on market quantities or averages
+        alone.
+  correctOptionId: d
+  explanation:
+    zh-CN: 公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。
+    en: Equity is a normative concept concerning the fairness of the distribution of
+      economic resources, opportunities, burdens, and outcomes, assessed through
+      principles such as need, contribution, opportunity, or rights.

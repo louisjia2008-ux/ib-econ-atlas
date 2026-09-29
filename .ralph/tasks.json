@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 4,
+  "current_iteration": 5,
   "status": "running",
   "tasks": [
     {
@@ -72,7 +72,7 @@
       "id": "T005",
       "title": "Author and validate Unit 1.1 bilingual content",
       "type": "content",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T004"],
       "acceptance": ["15 planned 1.1 points contain full bilingual study fields and quizzes"],
@@ -80,13 +80,13 @@
       "files_expected": ["content/knowledge", "content/quizzes"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "All 15 Unit 1.1 points now compile with bilingual study fields, sourced examples, flashcards and MCQs."
     },
     {
       "id": "T006",
       "title": "Author and validate Unit 1.2 bilingual content",
       "type": "content",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T005"],
       "acceptance": ["8 planned 1.2 points contain full bilingual study fields and quizzes"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T004",
+  "last_successful_task": "T005",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T22:45:00+08:00"
+  "updated_at": "2026-09-29T23:02:00+08:00"
 }

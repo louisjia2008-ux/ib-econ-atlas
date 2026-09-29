@@ -1,0 +1,32 @@
+id: u1-09-sustainability
+slug: sustainability
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 6
+prerequisites:
+  - u1-04-scarcity
+related:
+  - u1-08-economic-wellbeing
+  - u1-43-circular-economy
+terms:
+  - Sustainability
+  - 可持续性
+synonyms:
+  zh-CN:
+    - 可持续发展
+    - 长期承载力
+    - 代际可持续
+  en:
+    - sustainable development
+    - long-run carrying capacity
+    - intergenerational sustainability
+diagramIds: []
+quizIds:
+  - u1-09-sustainability-flash-1
+  - u1-09-sustainability-mcq-1

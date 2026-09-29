@@ -1,0 +1,43 @@
+- id: u1-14-opportunity-cost-flash-1
+  knowledgePointId: u1-14-opportunity-cost
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“机会成本”。
+    en: Without notes, explain “Opportunity cost” in your own words.
+  answer:
+    zh-CN: 机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
+    en: Opportunity cost is the benefit or value of the next-best feasible
+      alternative that cannot be obtained once resources are committed to a
+      chosen use.
+  explanation:
+    zh-CN: 机会成本是作出选择时放弃的最佳可行替代方案的价值，而不是所有放弃选项之和。
+    en: Opportunity cost is the value of the best feasible alternative forgone when
+      a choice is made, not the sum of every rejected option.
+- id: u1-14-opportunity-cost-mcq-1
+  knowledgePointId: u1-14-opportunity-cost
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“机会成本”？
+    en: Which statement best captures “Opportunity cost”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 机会成本是作出选择时放弃的最佳可行替代方案的价值，而不是所有放弃选项之和。
+      en: Opportunity cost is the value of the best feasible alternative forgone when
+        a choice is made, not the sum of every rejected option.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
+    en: Opportunity cost is the benefit or value of the next-best feasible
+      alternative that cannot be obtained once resources are committed to a
+      chosen use.

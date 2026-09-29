@@ -1,0 +1,43 @@
+- id: u1-11-interdependence-flash-1
+  knowledgePointId: u1-11-interdependence
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“相互依存”。
+    en: Without notes, explain “Interdependence” in your own words.
+  answer:
+    zh-CN: 相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。
+    en: Interdependence is the two-way reliance among households, firms,
+      governments, countries, and the natural environment created through
+      production, exchange, finance, policy, and ecosystems.
+  explanation:
+    zh-CN: 相互依存意味着一个主体的选择会通过贸易、收入、价格、环境或制度影响其他主体。
+    en: Interdependence means that one agent's choice affects others through trade,
+      income, prices, the environment, or institutions.
+- id: u1-11-interdependence-mcq-1
+  knowledgePointId: u1-11-interdependence
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“相互依存”？
+    en: Which statement best captures “Interdependence”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 相互依存意味着一个主体的选择会通过贸易、收入、价格、环境或制度影响其他主体。
+      en: Interdependence means that one agent's choice affects others through trade,
+        income, prices, the environment, or institutions.
+  correctOptionId: d
+  explanation:
+    zh-CN: 相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。
+    en: Interdependence is the two-way reliance among households, firms,
+      governments, countries, and the natural environment created through
+      production, exchange, finance, policy, and ecosystems.

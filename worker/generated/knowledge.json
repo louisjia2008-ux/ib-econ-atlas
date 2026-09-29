@@ -1,5 +1,218 @@
 [
   {
+    "id": "u1-01-economics-social-science",
+    "content": {
+      "zh-CN": {
+        "id": "u1-01-economics-social-science",
+        "locale": "zh-CN",
+        "title": "经济学作为社会科学",
+        "takeaway": "经济学研究人在稀缺条件下如何选择，并用模型与证据解释这些选择如何影响他人和社会。",
+        "definition": "经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。",
+        "causalChain": [
+          "资源和时间有限",
+          "经济主体在制度约束下选择",
+          "选择汇聚为市场或政策结果",
+          "经济学用证据检验对这些结果的解释"
+        ],
+        "realWorldExample": {
+          "title": "用跨国数据比较经济结果",
+          "sourceUrl": "https://data.oecd.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 数据库把就业、收入、价格和公共政策指标放在可比较框架中。经济学家可以提出关于制度与结果的解释，再用数据判断解释是否站得住脚。"
+        },
+        "misconceptions": [
+          "经济学不只研究金钱；时间、环境、教育与健康资源同样属于分析对象。",
+          "社会科学的结论带有条件，并不等于可以随意表达没有证据的意见。"
+        ],
+        "examApplication": [
+          "定义经济学时连接稀缺、选择和后果，而不要只写‘研究经济’。",
+          "评价经济结论时说明假设、证据和人的行为为何可能限制普遍性。"
+        ],
+        "summary": [
+          "经济学分析稀缺资源的配置。",
+          "人的选择受到激励、制度与信息影响。",
+          "模型提供解释，证据用于检验。"
+        ],
+        "explanation": "经济学把人类选择作为研究对象。家庭安排时间和收入，企业决定生产什么，政府决定如何征税和支出；这些决定都发生在资源有限、目标相互竞争的条件下。\n\n与自然科学相比，经济学较难把社会隔离成完全受控的实验环境。研究者因此会结合逻辑模型、历史比较、调查、自然实验和统计证据。结论通常应写成“在这些条件成立时，更可能出现某结果”，而不是没有边界的定律。"
+      },
+      "en": {
+        "id": "u1-01-economics-social-science",
+        "locale": "en",
+        "title": "Economics as a social science",
+        "takeaway": "Economics studies choice under scarcity and uses models and evidence to explain how those choices shape outcomes for other people and society.",
+        "definition": "Economics is a social science concerned with how households, firms, governments, and other agents allocate scarce resources, and with the consequences for distribution, efficiency, and well-being.",
+        "causalChain": [
+          "Time and resources are constrained",
+          "Agents choose within institutions and incentives",
+          "Individual decisions combine into market or policy outcomes",
+          "Evidence is used to test economic explanations"
+        ],
+        "realWorldExample": {
+          "title": "Comparing economic outcomes across countries",
+          "sourceUrl": "https://data.oecd.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "The OECD data portal brings together comparable measures of employment, income, prices, and policy. Economists can frame an explanation about institutions and then examine whether the observed patterns support it."
+        },
+        "misconceptions": [
+          "Economics is not confined to money; time, health, education, and environmental resources also involve economic choice.",
+          "A conditional social-science claim is not the same as an unsupported opinion."
+        ],
+        "examApplication": [
+          "A definition should connect scarcity, choice, and consequences rather than merely say that economics studies the economy.",
+          "When evaluating a claim, identify how assumptions, evidence, and changing human behaviour limit its reach."
+        ],
+        "summary": [
+          "Economics examines the allocation of scarce resources.",
+          "Choice responds to incentives, institutions, and information.",
+          "Models explain; evidence tests those explanations."
+        ],
+        "explanation": "Economics starts with decisions made by people and organisations. Households divide time and income, firms choose what to produce, and governments decide how to tax and spend. Each choice takes place where resources are limited and objectives compete.\n\nSocieties cannot always be placed in controlled laboratory conditions. Economists therefore combine deductive models with historical comparisons, surveys, natural experiments, and statistical evidence. A careful conclusion is usually conditional—an outcome is more likely under stated circumstances—rather than a law without boundaries."
+      }
+    }
+  },
+  {
+    "id": "u1-02-microeconomics",
+    "content": {
+      "zh-CN": {
+        "id": "u1-02-microeconomics",
+        "locale": "zh-CN",
+        "title": "微观经济学",
+        "takeaway": "微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。",
+        "definition": "微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。",
+        "causalChain": [
+          "消费者和企业面对约束",
+          "他们对价格与激励作出选择",
+          "供给和需求在具体市场相遇",
+          "形成价格、数量与福利结果"
+        ],
+        "realWorldExample": {
+          "title": "竞争机构调查具体市场",
+          "sourceUrl": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
+          "observedAt": "2026-09-29",
+          "explanation": "英国竞争与市场管理局会研究住房、数字平台或零售等具体市场中的企业行为和消费者结果。这类分析聚焦市场参与者与规则，属于典型的微观视角。"
+        },
+        "misconceptions": [
+          "“微观”表示分析单位较小，不代表问题不重要。",
+          "研究一家企业并不只看企业本身，还要看消费者、竞争者和制度环境。"
+        ],
+        "examApplication": [
+          "先明确研究对象是某个主体或市场，再解释激励如何改变选择。",
+          "涉及福利时区分消费者、生产者、政府和第三方受到的影响。"
+        ],
+        "summary": [
+          "微观分析关注主体和具体市场。",
+          "价格与激励连接个体决定。",
+          "结果可从效率与公平两个维度评价。"
+        ],
+        "explanation": "微观经济学把镜头对准组成经济体的基本单位。它研究消费者为什么购买、劳动者如何分配时间、企业为何调整产量，以及这些选择如何在某个市场中相互影响。\n\n分析通常从约束和激励开始，再追踪到均衡价格、交易数量和不同群体的得失。微观结论也为税收、补贴、价格管制和竞争政策的设计提供基础。"
+      },
+      "en": {
+        "id": "u1-02-microeconomics",
+        "locale": "en",
+        "title": "Microeconomics",
+        "takeaway": "Microeconomics begins with consumers, workers, firms, and individual markets to explain prices, output, and resource allocation.",
+        "definition": "Microeconomics studies the choices and interactions of individual economic agents and particular markets, including their effects on prices, quantities, efficiency, and equity.",
+        "causalChain": [
+          "Consumers and firms face constraints",
+          "They respond to prices and incentives",
+          "Supply and demand interact in a particular market",
+          "Price, quantity, and welfare outcomes emerge"
+        ],
+        "realWorldExample": {
+          "title": "A competition authority investigates a market",
+          "sourceUrl": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
+          "observedAt": "2026-09-29",
+          "explanation": "The UK Competition and Markets Authority examines firm conduct and consumer outcomes in particular sectors such as housing, retail, and digital platforms. Its focus on participants and market rules is distinctly microeconomic."
+        },
+        "misconceptions": [
+          "Micro refers to the unit of analysis, not to the importance of the issue.",
+          "Studying one firm still requires attention to consumers, rivals, and the institutional setting."
+        ],
+        "examApplication": [
+          "Identify the agent or specific market first, then trace how an incentive changes behaviour.",
+          "For welfare analysis, separate consequences for consumers, producers, government, and third parties."
+        ],
+        "summary": [
+          "Microeconomics focuses on agents and particular markets.",
+          "Prices and incentives connect individual decisions.",
+          "Outcomes can be judged through both efficiency and equity."
+        ],
+        "explanation": "Microeconomics places the analytical lens on the building blocks of an economy. It asks why consumers buy, how workers allocate time, why firms alter output, and how those decisions meet in a particular market.\n\nA typical argument starts from constraints and incentives and follows them to equilibrium price, traded quantity, and the gains or losses of different groups. The same reasoning supports analysis of taxes, subsidies, price controls, and competition policy."
+      }
+    }
+  },
+  {
+    "id": "u1-03-macroeconomics",
+    "content": {
+      "zh-CN": {
+        "id": "u1-03-macroeconomics",
+        "locale": "zh-CN",
+        "title": "宏观经济学",
+        "takeaway": "宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。",
+        "definition": "宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。",
+        "causalChain": [
+          "家庭、企业和政府作出大量决定",
+          "这些决定汇总为总需求和总供给",
+          "经济体出现增长、就业与物价变化",
+          "财政与货币政策尝试稳定或改变结果"
+        ],
+        "realWorldExample": {
+          "title": "世界经济展望比较宏观表现",
+          "sourceUrl": "https://www.imf.org/en/Publications/WEO",
+          "observedAt": "2026-09-29",
+          "explanation": "国际货币基金组织的《世界经济展望》汇总各经济体的增长、通胀和失业等指标，用于观察总量趋势和政策环境，而不是某一种商品的市场。"
+        },
+        "misconceptions": [
+          "宏观数据是个体结果的汇总，但不能从一个人的经历直接推断整个经济。",
+          "经济增长、低通胀和低失业可能同时成为目标，也可能产生权衡。"
+        ],
+        "examApplication": [
+          "用总量变量组织答案，并指出变量之间的传导机制。",
+          "评价宏观政策时考虑时间滞后、利益分配和短期长期差异。"
+        ],
+        "summary": [
+          "宏观研究经济体整体。",
+          "核心指标包括增长、就业与物价稳定。",
+          "政策效果取决于传导、时滞和经济环境。"
+        ],
+        "explanation": "宏观经济学把许多市场和主体的行为汇总起来，观察一个地区或国家的总产出、收入、就业和价格水平。它回答的问题包括经济为何衰退、通胀为何上升，以及长期生活水平如何提高。\n\n宏观政策不能只看目标方向，还要分析传导路径。政府增加支出或中央银行改变利率，必须经过家庭、企业和金融体系的反应才会影响总需求、产出和物价。"
+      },
+      "en": {
+        "id": "u1-03-macroeconomics",
+        "locale": "en",
+        "title": "Macroeconomics",
+        "takeaway": "Macroeconomics examines economy-wide performance and how policy influences growth, employment, prices, and external relationships.",
+        "definition": "Macroeconomics treats the economy as a whole and studies aggregate output, growth, unemployment, inflation, income distribution, and the balance of payments, together with the links among them.",
+        "causalChain": [
+          "Households, firms, and governments make many decisions",
+          "Those decisions aggregate into economy-wide demand and supply",
+          "Growth, employment, and the price level change",
+          "Fiscal and monetary policy seek to stabilise or redirect outcomes"
+        ],
+        "realWorldExample": {
+          "title": "The World Economic Outlook compares macro performance",
+          "sourceUrl": "https://www.imf.org/en/Publications/WEO",
+          "observedAt": "2026-09-29",
+          "explanation": "The IMF World Economic Outlook brings together growth, inflation, and unemployment measures across economies. It reveals aggregate trends and policy conditions rather than the market for one product."
+        },
+        "misconceptions": [
+          "Aggregate data combine individual outcomes, but one person's experience cannot establish the condition of the entire economy.",
+          "Growth, low inflation, and low unemployment can be joint objectives while still creating policy trade-offs."
+        ],
+        "examApplication": [
+          "Organise an answer around aggregate variables and make the transmission mechanism explicit.",
+          "Evaluation should consider time lags, distributional effects, and the difference between short-run and long-run outcomes."
+        ],
+        "summary": [
+          "Macroeconomics studies the economy as a whole.",
+          "Growth, employment, and price stability are central indicators.",
+          "Policy results depend on transmission, timing, and context."
+        ],
+        "explanation": "Macroeconomics combines activity across many agents and markets to examine total output, income, employment, and the general price level. It addresses why recessions occur, what drives inflation, and how living standards might rise over time.\n\nThe direction of a policy is not enough to predict its effect. A rise in government spending or a change in the policy interest rate influences the economy only through responses by households, firms, banks, and financial markets."
+      }
+    }
+  },
+  {
     "id": "u1-04-scarcity",
     "content": {
       "zh-CN": {
@@ -71,6 +284,787 @@
           "Opportunity cost expresses what a choice sacrifices."
         ],
         "explanation": "Scarcity is the starting point of the economic problem. It is not a temporary empty shelf. It is the continuing constraint that available resources, time and productive capacity cannot accomplish everything people would like to do.\n\nEconomic questions therefore compare alternative uses. Two hours spent revising economics cannot also be spent in full on another subject. Land used for a hospital cannot simultaneously provide a park on the same site. Economics studies how such choices are made, who makes them and how their consequences are distributed.\n\nTo identify scarcity in a situation, ask whether a resource has competing uses and whether at least one feasible option must be forgone. If both answers are yes, the situation contains scarcity in the economic sense."
+      }
+    }
+  },
+  {
+    "id": "u1-05-choice",
+    "content": {
+      "zh-CN": {
+        "id": "u1-05-choice",
+        "locale": "zh-CN",
+        "title": "选择",
+        "takeaway": "稀缺使选择不可避免；经济学关注选择的依据、放弃的方案和不同人承担的后果。",
+        "definition": "选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。",
+        "causalChain": [
+          "目标多于可用资源",
+          "经济主体识别可行方案",
+          "比较预期收益、成本与价值",
+          "采用一个方案并放弃其他用途"
+        ],
+        "realWorldExample": {
+          "title": "比较生活质量的不同维度",
+          "sourceUrl": "https://www.oecdbetterlifeindex.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD Better Life Index 允许使用者改变收入、住房、环境、健康和工作生活平衡的权重，直观显示“更好生活”并非只有一个目标，优先顺序会改变选择。"
+        },
+        "misconceptions": [
+          "选择并不保证得到理想结果，它只表示必须在可行方案之间取舍。",
+          "没有支付金钱的选择仍可能消耗时间、注意力或自然资源。"
+        ],
+        "examApplication": [
+          "说明约束是什么，并明确至少两个相互竞争的用途。",
+          "不要停在‘作出选择’，继续指出机会成本和利益相关者。"
+        ],
+        "summary": [
+          "选择源于稀缺。",
+          "比较需要同时考虑成本、收益和价值。",
+          "每项选择都会排除至少一个替代用途。"
+        ],
+        "explanation": "当所有目标不能同时实现时，个人和社会必须决定优先顺序。可行选择受到收入、时间、技术、法律和信息限制，因此不是所有想象中的方案都属于真正的备选项。\n\n经济分析会比较边际收益与边际成本，也会追问由谁选择、谁受益、谁承担代价。即使同样面对稀缺，不同价值判断和信息也可能带来不同选择。"
+      },
+      "en": {
+        "id": "u1-05-choice",
+        "locale": "en",
+        "title": "Choice",
+        "takeaway": "Scarcity makes choice unavoidable; economics asks what guides a choice, which alternative is forgone, and who bears the consequences.",
+        "definition": "Choice is the selection of one option, or a combination of options, from two or more feasible alternatives that cannot all be achieved under the available resource constraint.",
+        "causalChain": [
+          "Objectives exceed available resources",
+          "The agent identifies feasible alternatives",
+          "Expected benefits, costs, and values are compared",
+          "One course is selected and other uses are forgone"
+        ],
+        "realWorldExample": {
+          "title": "Comparing dimensions of a better life",
+          "sourceUrl": "https://www.oecdbetterlifeindex.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "The OECD Better Life Index lets users change the importance of income, housing, environment, health, and work-life balance. It makes clear that well-being has competing dimensions and that priorities influence choice."
+        },
+        "misconceptions": [
+          "Making a choice does not guarantee the desired result; it means a trade-off among feasible options was necessary.",
+          "An option with no monetary payment may still use scarce time, attention, or natural resources."
+        ],
+        "examApplication": [
+          "Name the constraint and identify at least two competing uses.",
+          "Do not stop at saying a choice occurs; state the opportunity cost and the affected stakeholders."
+        ],
+        "summary": [
+          "Choice follows from scarcity.",
+          "Comparison involves costs, benefits, and values.",
+          "Selecting an option rules out at least one alternative use."
+        ],
+        "explanation": "When objectives cannot all be met, people and societies must establish priorities. Feasible options are limited by income, time, technology, law, and information, so an imagined alternative is not necessarily available in practice.\n\nEconomic analysis may compare marginal benefit and marginal cost, but it also asks who chooses, who gains, and who carries the burden. Identical constraints can still produce different decisions because information and value judgements differ."
+      }
+    }
+  },
+  {
+    "id": "u1-06-efficiency",
+    "content": {
+      "zh-CN": {
+        "id": "u1-06-efficiency",
+        "locale": "zh-CN",
+        "title": "效率",
+        "takeaway": "效率意味着在既定资源下避免浪费并把资源用于社会最重视的用途，但它不自动保证公平。",
+        "definition": "经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。",
+        "causalChain": [
+          "识别有限投入与可能产出",
+          "减少闲置和不必要的投入损耗",
+          "把生产组合调整到可行边界",
+          "再比较产出组合是否符合社会偏好"
+        ],
+        "realWorldExample": {
+          "title": "提高能源使用效率",
+          "sourceUrl": "https://www.iea.org/topics/energy-efficiency",
+          "observedAt": "2026-09-29",
+          "explanation": "国际能源署追踪建筑、交通和工业的能源效率。相同服务若需要更少能源投入，就提高了生产效率，也能减少资源压力和排放。"
+        },
+        "misconceptions": [
+          "生产得更多不一定具有配置效率；社会可能并不最重视新增产出。",
+          "高效率的结果仍可能高度不平等，因此效率与公平必须分别判断。"
+        ],
+        "examApplication": [
+          "写清楚讨论的是生产效率还是配置效率。",
+          "评价政策时同时检查资源浪费、社会偏好和分配结果。"
+        ],
+        "summary": [
+          "生产效率关注避免投入浪费。",
+          "配置效率关注产出是否符合偏好。",
+          "效率不等同于公平。"
+        ],
+        "explanation": "生产效率要求在现有技术和资源下不能在不减少另一种产出的情况下增加某种产出。它关注是否充分利用资源以及是否以较低成本完成生产。\n\n配置效率更进一步，要求生产组合反映社会对不同商品和服务的相对价值。一个经济体可以在生产可能性边界上运行，却仍然生产了社会不需要的组合。"
+      },
+      "en": {
+        "id": "u1-06-efficiency",
+        "locale": "en",
+        "title": "Efficiency",
+        "takeaway": "Efficiency avoids waste and directs scarce resources toward valued uses, but an efficient outcome is not automatically equitable.",
+        "definition": "Economic efficiency describes a situation in which resources are not wasted and, as far as possible, are allocated to uses that create greater value or satisfy more highly valued wants; productive and allocative efficiency are commonly distinguished.",
+        "causalChain": [
+          "Identify scarce inputs and feasible outputs",
+          "Remove idle capacity and unnecessary input loss",
+          "Move production to the feasible frontier",
+          "Ask whether the output mix reflects social preferences"
+        ],
+        "realWorldExample": {
+          "title": "Improving energy efficiency",
+          "sourceUrl": "https://www.iea.org/topics/energy-efficiency",
+          "observedAt": "2026-09-29",
+          "explanation": "The International Energy Agency tracks energy efficiency in buildings, transport, and industry. Providing the same service with less energy raises productive efficiency and can reduce both resource pressure and emissions."
+        },
+        "misconceptions": [
+          "Producing more does not establish allocative efficiency if society places little value on the extra output.",
+          "An efficient outcome can be very unequal, so efficiency and equity need separate judgements."
+        ],
+        "examApplication": [
+          "State whether the analysis concerns productive or allocative efficiency.",
+          "Evaluation should check resource waste, social preferences, and distribution rather than output alone."
+        ],
+        "summary": [
+          "Productive efficiency concerns avoiding input waste.",
+          "Allocative efficiency concerns the preferred output mix.",
+          "Efficiency and equity are distinct criteria."
+        ],
+        "explanation": "Productive efficiency means that, given existing technology and resources, more of one output cannot be produced without reducing another. It asks whether resources are fully employed and whether output is made at low cost.\n\nAllocative efficiency adds a demand-side test: the combination of output should reflect the relative value society places on different goods and services. An economy may operate on its production possibility frontier and still produce the wrong mix."
+      }
+    }
+  },
+  {
+    "id": "u1-07-equity",
+    "content": {
+      "zh-CN": {
+        "id": "u1-07-equity",
+        "locale": "zh-CN",
+        "title": "公平",
+        "takeaway": "公平判断结果或过程是否公正，它依赖价值标准，因此不能仅由市场数量或平均值决定。",
+        "definition": "公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。",
+        "causalChain": [
+          "识别资源、机会或负担的分配",
+          "选择判断公正的标准",
+          "比较不同群体受到的待遇与结果",
+          "设计或评价改变分配的政策"
+        ],
+        "realWorldExample": {
+          "title": "比较不平等与贫困政策",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 对收入不平等、贫困和社会流动的研究展示了税收与转移支付如何改变不同群体的可支配收入，也说明公平评价需要说明采用的标准。"
+        },
+        "misconceptions": [
+          "公平不必意味着每个人获得完全相同的数量。",
+          "声称一项政策更公平时，必须说明对谁、按什么原则更公平。"
+        ],
+        "examApplication": [
+          "在评价段落中明确公平标准和受影响群体。",
+          "讨论效率—公平权衡时不要假设两者必然冲突，应说明机制。"
+        ],
+        "summary": [
+          "公平是一种规范性判断。",
+          "公平标准可能包括需要、机会与贡献。",
+          "公平分析必须识别群体和分配机制。"
+        ],
+        "explanation": "经济政策不仅改变总产出，也改变谁获得收入、服务和机会。公平分析把注意力放在这些分配上，并要求说明用什么原则判断结果。\n\n例如，按需要提供更多支持、按贡献给予回报和确保所有人拥有相同机会，都是可能的公平观。它们可能得出不同政策结论，因此答案应公开价值标准，而不是把“公平”当作无需解释的标签。"
+      },
+      "en": {
+        "id": "u1-07-equity",
+        "locale": "en",
+        "title": "Equity",
+        "takeaway": "Equity judges whether a process or outcome is fair; it depends on an explicit value standard rather than on market quantities or averages alone.",
+        "definition": "Equity is a normative concept concerning the fairness of the distribution of economic resources, opportunities, burdens, and outcomes, assessed through principles such as need, contribution, opportunity, or rights.",
+        "causalChain": [
+          "Identify how resources, opportunities, or burdens are distributed",
+          "Choose a principle of fairness",
+          "Compare the treatment and outcomes of different groups",
+          "Design or evaluate a policy that changes the distribution"
+        ],
+        "realWorldExample": {
+          "title": "Comparing inequality and poverty policies",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD work on inequality, poverty, and mobility shows how taxes and transfers alter disposable income across groups. It also demonstrates why an equity judgement must reveal the standard being applied."
+        },
+        "misconceptions": [
+          "Equity need not mean that every person receives an identical amount.",
+          "A claim that a policy is fairer is incomplete unless it specifies for whom and according to which principle."
+        ],
+        "examApplication": [
+          "Name both the fairness criterion and the affected groups in an evaluation paragraph.",
+          "Do not assume an efficiency-equity trade-off; explain the mechanism that creates or avoids one."
+        ],
+        "summary": [
+          "Equity is a normative judgement.",
+          "Need, opportunity, and contribution are possible standards.",
+          "Equity analysis identifies groups and the distribution mechanism."
+        ],
+        "explanation": "Economic policy changes not only total output but also who receives income, services, and opportunities. Equity analysis concentrates on that distribution and requires a stated principle for judging it.\n\nSupport according to need, reward according to contribution, and equal access to opportunity are all plausible ideas of fairness. Because they can point toward different policies, a strong argument makes its value standard visible rather than treating equity as a self-explanatory label."
+      }
+    }
+  },
+  {
+    "id": "u1-08-economic-wellbeing",
+    "content": {
+      "zh-CN": {
+        "id": "u1-08-economic-wellbeing",
+        "locale": "zh-CN",
+        "title": "经济福祉",
+        "takeaway": "经济福祉关心人能否过有保障、有选择的生活，收入重要但不是唯一决定因素。",
+        "definition": "经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。",
+        "causalChain": [
+          "资源与公共服务决定可获得的机会",
+          "收入和价格影响实际购买力",
+          "健康、教育与安全改变人的能力",
+          "这些条件共同形成生活质量与主观体验"
+        ],
+        "realWorldExample": {
+          "title": "人类发展指数超越收入衡量",
+          "sourceUrl": "https://hdr.undp.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "联合国开发计划署的人类发展报告把寿命、教育和收入结合起来，提醒分析者：人均收入上升可能改善福祉，但不能完整代表人的能力与生活质量。"
+        },
+        "misconceptions": [
+          "更高的 GDP 或收入不保证每个群体的福祉都提高。",
+          "福祉包含主观因素，但仍可用健康、教育和安全等可观察指标分析。"
+        ],
+        "examApplication": [
+          "评价增长时区分平均收入、收入分配和非收入生活质量。",
+          "给指标下结论前说明它捕捉了什么、遗漏了什么。"
+        ],
+        "summary": [
+          "收入是福祉的手段而非全部。",
+          "公共服务与人的能力同样重要。",
+          "平均指标可能隐藏群体差异。"
+        ],
+        "explanation": "收入让人购买住房、食品和其他商品，但生活质量也依赖公共医疗、教育、安全、环境和可支配时间。经济福祉因此比单一产出指标更广。\n\n衡量时需要同时看平均水平与分配。一个经济体的人均收入可能上升，而低收入群体的实际购买力、环境质量或工作安全却没有改善。多维指标能补充信息，但不同维度的权重也包含价值判断。"
+      },
+      "en": {
+        "id": "u1-08-economic-wellbeing",
+        "locale": "en",
+        "title": "Economic well-being",
+        "takeaway": "Economic well-being concerns whether people can live secure lives with meaningful choices; income matters, but it is not the whole outcome.",
+        "definition": "Economic well-being is the extent to which people or groups can meet needs and improve quality of life through income, consumption, public services, health, education, security, and genuine opportunities.",
+        "causalChain": [
+          "Resources and public services shape available opportunities",
+          "Income and prices determine purchasing power",
+          "Health, education, and security expand or restrict capabilities",
+          "Together these conditions influence quality of life and lived experience"
+        ],
+        "realWorldExample": {
+          "title": "Human development measurement goes beyond income",
+          "sourceUrl": "https://hdr.undp.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "UNDP Human Development Reports combine longevity, education, and income. The approach recognises that rising income per person may support well-being without fully representing human capabilities or life quality."
+        },
+        "misconceptions": [
+          "A rise in GDP or average income does not show that every group is better off.",
+          "Well-being has subjective aspects, but health, education, and security still provide observable evidence."
+        ],
+        "examApplication": [
+          "When evaluating growth, distinguish average income, its distribution, and non-income dimensions of life quality.",
+          "Before drawing a conclusion from an indicator, explain what it captures and what it omits."
+        ],
+        "summary": [
+          "Income is one means to well-being, not the whole of it.",
+          "Public services and human capabilities matter.",
+          "Average measures can conceal differences between groups."
+        ],
+        "explanation": "Income enables people to obtain housing, food, and other goods, but quality of life also depends on public health care, education, safety, the environment, and control over time. Economic well-being is therefore broader than a single output measure.\n\nMeasurement should combine averages with distribution. Income per person may rise even while a lower-income group sees no improvement in purchasing power, environmental quality, or job security. Multidimensional indices add information, although the weights assigned to their components also express values."
+      }
+    }
+  },
+  {
+    "id": "u1-09-sustainability",
+    "content": {
+      "zh-CN": {
+        "id": "u1-09-sustainability",
+        "locale": "zh-CN",
+        "title": "可持续性",
+        "takeaway": "可持续的经济选择满足当代需要，同时保留未来人满足其需要的资源和生态能力。",
+        "definition": "可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。",
+        "causalChain": [
+          "生产和消费使用自然与社会资源",
+          "部分资源会耗竭或积累污染",
+          "当前选择改变未来的可行集合",
+          "政策与创新尝试把长期成本纳入决策"
+        ],
+        "realWorldExample": {
+          "title": "负责任的消费与生产",
+          "sourceUrl": "https://sdgs.un.org/goals/goal12",
+          "observedAt": "2026-09-29",
+          "explanation": "联合国可持续发展目标 12 追踪资源效率、废弃物和可持续生产。它把当前产出与材料使用和未来环境容量联系起来。"
+        },
+        "misconceptions": [
+          "可持续不等于停止所有增长，而是关注增长的资源和环境路径。",
+          "技术进步可以缓解约束，但不能自动消除反弹效应或分配问题。"
+        ],
+        "examApplication": [
+          "区分短期收益与长期外部成本。",
+          "评价可持续政策时分析环境成效、转型成本和不同群体的负担。"
+        ],
+        "summary": [
+          "当前选择会改变未来的生产可能。",
+          "不可再生资源和生态承载力形成长期约束。",
+          "可持续性要求把跨期成本纳入决策。"
+        ],
+        "explanation": "经济活动依赖能源、材料、生态系统和社会信任。若使用速度超过再生能力，或污染积累超过环境吸收能力，当前产出会损害未来生产与福祉。\n\n可持续性是一种跨期分析。政策需要比较现在和未来的收益与成本，并处理代际公平。资源价格、监管、公共投资和技术创新都可能改变路径，但成效取决于实际行为和制度执行。"
+      },
+      "en": {
+        "id": "u1-09-sustainability",
+        "locale": "en",
+        "title": "Sustainability",
+        "takeaway": "A sustainable economic choice meets present needs while preserving resources and ecological capacity for people in the future.",
+        "definition": "Sustainability is the ability of economic activity to continue over time without irreversibly weakening natural systems, social foundations, or the future capacity for production and well-being.",
+        "causalChain": [
+          "Production and consumption use natural and social resources",
+          "Some resources deplete and some pollution accumulates",
+          "Present choices alter the future feasible set",
+          "Policy and innovation try to incorporate long-run costs"
+        ],
+        "realWorldExample": {
+          "title": "Responsible consumption and production",
+          "sourceUrl": "https://sdgs.un.org/goals/goal12",
+          "observedAt": "2026-09-29",
+          "explanation": "United Nations Sustainable Development Goal 12 tracks resource efficiency, waste, and sustainable production, linking current output to material use and future environmental capacity."
+        },
+        "misconceptions": [
+          "Sustainability does not require an end to all growth; it questions the resource and environmental path of that growth.",
+          "Technology can relax a constraint without automatically removing rebound effects or distributional problems."
+        ],
+        "examApplication": [
+          "Separate a short-run benefit from a long-run external cost.",
+          "Evaluate environmental effectiveness, transition costs, and how burdens differ across groups."
+        ],
+        "summary": [
+          "Present choices alter future production possibilities.",
+          "Finite resources and ecological capacity impose long-run constraints.",
+          "Sustainability brings intertemporal costs into decisions."
+        ],
+        "explanation": "Economic activity relies on energy, materials, ecosystems, and social trust. If use exceeds regeneration or pollution exceeds the environment's capacity to absorb it, today's output can reduce future productive capacity and well-being.\n\nSustainability is an intertemporal test. Policy compares benefits and costs across generations. Resource prices, regulation, public investment, and innovation can redirect the path, but their effect ultimately depends on behaviour and institutional enforcement."
+      }
+    }
+  },
+  {
+    "id": "u1-10-change",
+    "content": {
+      "zh-CN": {
+        "id": "u1-10-change",
+        "locale": "zh-CN",
+        "title": "变化",
+        "takeaway": "经济结果会随技术、制度、偏好和外部冲击变化，因此模型结论必须标明时间和条件。",
+        "definition": "变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。",
+        "causalChain": [
+          "技术、政策或偏好发生变化",
+          "相对成本和激励随之改变",
+          "家庭与企业调整行为",
+          "市场结构、产出和分配出现新结果"
+        ],
+        "realWorldExample": {
+          "title": "能源体系持续转型",
+          "sourceUrl": "https://www.iea.org/reports/world-energy-outlook-2025",
+          "observedAt": "2026-09-29",
+          "explanation": "国际能源署《世界能源展望》比较能源技术、投资和政策情景，显示成本、基础设施与政策变化会逐步改变能源组合和相关就业。"
+        },
+        "misconceptions": [
+          "变化不是瞬间完成；合同、技能和基础设施会造成调整滞后。",
+          "观察到前后变化并不能单独证明某一政策就是原因。"
+        ],
+        "examApplication": [
+          "用清楚的前后状态和传导链表达动态变化。",
+          "评价时讨论速度、可逆性、预期和短期长期差异。"
+        ],
+        "summary": [
+          "经济环境不是静止的。",
+          "激励变化通过行为调整影响结果。",
+          "时间路径和因果识别同样重要。"
+        ],
+        "explanation": "技术进步、人口结构、偏好、政策和外部冲击都会改变经济约束。经济主体不会机械地留在原有选择上，而会学习、预期并调整。\n\n变化有速度和路径。短期内资本设备、劳动技能或合同可能固定，长期则有更多调整空间。回答动态问题时，应区分触发因素、传导过程和最终结果，而不是只比较两个时间点。"
+      },
+      "en": {
+        "id": "u1-10-change",
+        "locale": "en",
+        "title": "Change",
+        "takeaway": "Economic outcomes evolve with technology, institutions, preferences, and shocks, so a model's conclusion must be located in time and under stated conditions.",
+        "definition": "Change refers to adjustment over time in agents, resources, technology, institutions, or the external environment and to the resulting shifts in production, distribution, and well-being.",
+        "causalChain": [
+          "Technology, policy, or preferences change",
+          "Relative costs and incentives move",
+          "Households and firms adjust behaviour",
+          "Market structure, output, and distribution reach new outcomes"
+        ],
+        "realWorldExample": {
+          "title": "A changing energy system",
+          "sourceUrl": "https://www.iea.org/reports/world-energy-outlook-2025",
+          "observedAt": "2026-09-29",
+          "explanation": "The IEA World Energy Outlook compares scenarios for energy technology, investment, and policy. It shows how costs, infrastructure, and policy gradually alter the energy mix and associated employment."
+        },
+        "misconceptions": [
+          "Adjustment is rarely instantaneous; contracts, skills, and infrastructure create lags.",
+          "A before-and-after difference does not by itself prove that one policy caused the change."
+        ],
+        "examApplication": [
+          "Describe a dynamic process with a clear initial state, transmission chain, and later state.",
+          "Evaluation can address speed, reversibility, expectations, and short-run versus long-run adjustment."
+        ],
+        "summary": [
+          "The economic environment is not static.",
+          "Changing incentives work through behavioural adjustment.",
+          "The time path and causal identification both matter."
+        ],
+        "explanation": "Technology, demography, preferences, policy, and external shocks alter economic constraints. Agents do not remain mechanically attached to previous choices; they learn, form expectations, and respond.\n\nChange has both a speed and a path. Capital equipment, worker skills, or contracts can be fixed in the short run, while the long run permits wider adaptation. A dynamic answer should separate the trigger, the transmission process, and the later outcome rather than simply comparing two dates."
+      }
+    }
+  },
+  {
+    "id": "u1-11-interdependence",
+    "content": {
+      "zh-CN": {
+        "id": "u1-11-interdependence",
+        "locale": "zh-CN",
+        "title": "相互依存",
+        "takeaway": "相互依存意味着一个主体的选择会通过贸易、收入、价格、环境或制度影响其他主体。",
+        "definition": "相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。",
+        "causalChain": [
+          "主体通过市场或制度建立联系",
+          "一方的需求、供给或规则发生变化",
+          "价格、收入或资源流动传导冲击",
+          "其他主体回应并可能产生反馈"
+        ],
+        "realWorldExample": {
+          "title": "全球贸易网络传导冲击",
+          "sourceUrl": "https://www.wto.org/english/res_e/statis_e/statis_e.htm",
+          "observedAt": "2026-09-29",
+          "explanation": "世界贸易组织的贸易统计展示中间品和最终品跨境流动。一个经济体的需求或运输条件变化，可能通过订单、价格和就业影响多地生产者。"
+        },
+        "misconceptions": [
+          "相互依存不表示各方力量相等；依赖可能高度不对称。",
+          "联系既能分散风险，也可能放大和传播冲击。"
+        ],
+        "examApplication": [
+          "至少追踪两个主体之间的双向影响。",
+          "评价开放或整合时同时分析收益、脆弱性和反馈效应。"
+        ],
+        "summary": [
+          "经济主体通过多种流动相互连接。",
+          "冲击会跨市场和地区传导。",
+          "依存关系可能带来收益与风险。"
+        ],
+        "explanation": "现代生产常由多个企业和地区共同完成，收入又把生产者与消费者连接起来。政府的政策、金融条件和环境变化也会越过单个市场边界。\n\n分析相互依存要寻找传导渠道与反馈。一地成本上升可能提高另一地价格，后者需求下降又会反馈到原生产者。网络带来专业化和风险分担，也可能使局部冲击扩散。"
+      },
+      "en": {
+        "id": "u1-11-interdependence",
+        "locale": "en",
+        "title": "Interdependence",
+        "takeaway": "Interdependence means that one agent's choice affects others through trade, income, prices, the environment, or institutions.",
+        "definition": "Interdependence is the two-way reliance among households, firms, governments, countries, and the natural environment created through production, exchange, finance, policy, and ecosystems.",
+        "causalChain": [
+          "Agents become connected through markets or institutions",
+          "Demand, supply, or rules change for one participant",
+          "Prices, incomes, or resource flows transmit the shock",
+          "Other participants respond and may create feedback"
+        ],
+        "realWorldExample": {
+          "title": "Global trade networks transmit shocks",
+          "sourceUrl": "https://www.wto.org/english/res_e/statis_e/statis_e.htm",
+          "observedAt": "2026-09-29",
+          "explanation": "World Trade Organization statistics track cross-border flows of intermediate and final goods. A change in demand or shipping conditions in one economy can influence orders, prices, and employment across many production locations."
+        },
+        "misconceptions": [
+          "Interdependence does not imply equal power; dependence may be strongly asymmetric.",
+          "Connections can diversify risk while also spreading and amplifying a shock."
+        ],
+        "examApplication": [
+          "Trace at least one two-way effect between identifiable agents.",
+          "When evaluating integration, consider benefits, vulnerabilities, and feedback effects together."
+        ],
+        "summary": [
+          "Economic agents are connected through several kinds of flow.",
+          "Shocks can travel across markets and places.",
+          "Interdependence creates both gains and risks."
+        ],
+        "explanation": "Modern production frequently spans several firms and places, while income connects producers to consumers. Government policy, financial conditions, and environmental change also cross the boundary of a single market.\n\nAnalysis should identify transmission channels and feedback. Higher costs in one location may raise prices elsewhere; the resulting fall in demand can then return to the original producer. Networks support specialisation and risk sharing but can also spread a local disturbance."
+      }
+    }
+  },
+  {
+    "id": "u1-12-intervention",
+    "content": {
+      "zh-CN": {
+        "id": "u1-12-intervention",
+        "locale": "zh-CN",
+        "title": "干预",
+        "takeaway": "干预通过改变规则、价格或资源分配来影响经济行为，其成效要与副作用和执行成本一起评价。",
+        "definition": "经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。",
+        "causalChain": [
+          "识别市场结果或社会目标之间的差距",
+          "选择税收、监管、支出或信息等工具",
+          "工具改变主体面对的激励与约束",
+          "行为反应形成预期成效与非预期后果"
+        ],
+        "realWorldExample": {
+          "title": "伦敦拥堵费改变驾车激励",
+          "sourceUrl": "https://tfl.gov.uk/modes/driving/congestion-charge",
+          "observedAt": "2026-09-29",
+          "explanation": "伦敦交通局对特定区域和时段驾车收费，把道路拥堵的部分社会成本转化为驾驶者面对的货币成本，试图改变出行方式和时段。"
+        },
+        "misconceptions": [
+          "宣布政策不等于实现目标；行为反应和执行能力决定实际结果。",
+          "干预既可能纠正市场问题，也可能产生政府失灵。"
+        ],
+        "examApplication": [
+          "按目标—工具—激励—行为—结果写出完整政策链。",
+          "评价时加入弹性、时滞、行政成本和利益相关者。"
+        ],
+        "summary": [
+          "干预有明确目标和政策工具。",
+          "政策通过改变激励影响行为。",
+          "有效性与副作用都需证据支持。"
+        ],
+        "explanation": "市场结果可能与效率、公平、稳定或可持续目标不一致，机构于是使用税收、补贴、监管、公共供给或信息政策改变条件。\n\n干预不是直接把目标变成结果。政策先改变价格或约束，再由家庭与企业回应。若反应与预期不同、执行困难或信息不足，净效果可能小于预期甚至产生新问题。"
+      },
+      "en": {
+        "id": "u1-12-intervention",
+        "locale": "en",
+        "title": "Intervention",
+        "takeaway": "Intervention changes rules, prices, or resource allocation to influence behaviour; its benefits must be assessed alongside side effects and implementation costs.",
+        "definition": "Economic intervention is deliberate action by a government, central bank, or other institution to alter market incentives, trading conditions, resource allocation, or income distribution.",
+        "causalChain": [
+          "Identify a gap between a market outcome and a social objective",
+          "Select a tax, regulation, spending, information, or other instrument",
+          "The instrument changes incentives and constraints",
+          "Behavioural responses produce intended and unintended outcomes"
+        ],
+        "realWorldExample": {
+          "title": "London's congestion charge changes driving incentives",
+          "sourceUrl": "https://tfl.gov.uk/modes/driving/congestion-charge",
+          "observedAt": "2026-09-29",
+          "explanation": "Transport for London charges for driving in a defined area and period. The policy turns part of congestion's social cost into a monetary cost faced by drivers and aims to change routes, modes, or travel times."
+        },
+        "misconceptions": [
+          "Announcing a policy does not achieve its objective; behaviour and implementation determine the result.",
+          "Intervention can correct a market problem while also creating government failure."
+        ],
+        "examApplication": [
+          "Build the full chain: objective, instrument, incentive, behavioural response, and outcome.",
+          "Evaluation should consider elasticity, time lags, administrative cost, and affected stakeholders."
+        ],
+        "summary": [
+          "Intervention combines an objective with an instrument.",
+          "Policy works by changing incentives and behaviour.",
+          "Both effectiveness and side effects require evidence."
+        ],
+        "explanation": "Market outcomes may conflict with objectives for efficiency, equity, stability, or sustainability. Institutions then use taxes, subsidies, regulation, public provision, or information to change economic conditions.\n\nA policy does not turn an objective directly into an outcome. It first changes a price or constraint and agents respond. Unexpected behaviour, weak implementation, or poor information can reduce the net benefit or create a new problem."
+      }
+    }
+  },
+  {
+    "id": "u1-13-factors-of-production",
+    "content": {
+      "zh-CN": {
+        "id": "u1-13-factors-of-production",
+        "locale": "zh-CN",
+        "title": "四类生产要素",
+        "takeaway": "生产把土地、劳动、资本与企业家才能组合起来；每类要素的数量和质量都会限制产出。",
+        "definition": "生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。",
+        "causalChain": [
+          "自然资源提供物质与空间",
+          "劳动投入时间、技能和判断",
+          "资本提高劳动与资源的生产能力",
+          "企业家组合要素并承担不确定性"
+        ],
+        "realWorldExample": {
+          "title": "劳动技能影响生产能力",
+          "sourceUrl": "https://www.ilo.org/topics-and-sectors",
+          "observedAt": "2026-09-29",
+          "explanation": "国际劳工组织关于技能与就业的工作展示教育、培训和劳动条件如何影响劳动要素的质量，而不仅是劳动人数。"
+        },
+        "misconceptions": [
+          "经济学中的资本主要指机器、建筑和工具，不等同于金融资金。",
+          "企业家才能不是企业规模，而是组织资源、创新和承担风险的功能。"
+        ],
+        "examApplication": [
+          "案例中逐一识别实际投入，不要只背四个名称。",
+          "解释增长时区分要素数量增加与要素生产率提高。"
+        ],
+        "summary": [
+          "土地包括自然资源。",
+          "劳动包括人的体力、技能和时间。",
+          "资本与企业家才能帮助组合并提高其他投入的产出。"
+        ],
+        "explanation": "任何生产过程都需要投入。土地涵盖位置、矿产、水和生态服务；劳动涵盖人的时间、体力和知识；资本是为进一步生产而制造的工具与设施；企业家才能负责发现机会并组织其他要素。\n\n分类帮助解释收入来源和增长。工资通常与劳动相关，租金与土地相关，利息或回报与资本相关，利润则补偿企业家承担的不确定性。现实投入可能同时具有多种特征。"
+      },
+      "en": {
+        "id": "u1-13-factors-of-production",
+        "locale": "en",
+        "title": "Factors of production",
+        "takeaway": "Production combines land, labour, capital, and entrepreneurship; both the quantity and quality of each factor constrain output.",
+        "definition": "Factors of production are the inputs used to create goods and services: land (natural resources), labour (human effort and skill), capital (produced means of production), and entrepreneurship (organisation, innovation, and risk-bearing).",
+        "causalChain": [
+          "Natural resources provide materials and location",
+          "Labour contributes time, skill, and judgement",
+          "Capital raises the productive capacity of labour and resources",
+          "Entrepreneurship combines inputs under uncertainty"
+        ],
+        "realWorldExample": {
+          "title": "Workforce skills affect productive capacity",
+          "sourceUrl": "https://www.ilo.org/topics-and-sectors",
+          "observedAt": "2026-09-29",
+          "explanation": "International Labour Organization work on skills and employment demonstrates how education, training, and working conditions influence the quality of labour, not merely the number of workers."
+        },
+        "misconceptions": [
+          "Capital in this classification means machinery, buildings, and tools rather than money itself.",
+          "Entrepreneurship is a function—organising, innovating, and taking risk—not the size of a business."
+        ],
+        "examApplication": [
+          "Identify concrete inputs in the case rather than only listing four labels.",
+          "When explaining growth, distinguish a larger quantity of a factor from higher factor productivity."
+        ],
+        "summary": [
+          "Land includes natural resources.",
+          "Labour includes human time, effort, and skill.",
+          "Capital and entrepreneurship organise and raise the productivity of other inputs."
+        ],
+        "explanation": "Every production process requires inputs. Land includes location, minerals, water, and ecosystem services; labour includes human time, effort, and knowledge; capital consists of tools and facilities made for further production; entrepreneurship identifies opportunities and organises the other factors.\n\nThe classification also helps explain income and growth. Wages are associated with labour, rent with land, returns with capital, and profit with bearing entrepreneurial uncertainty. A real input can contain characteristics of more than one category."
+      }
+    }
+  },
+  {
+    "id": "u1-14-opportunity-cost",
+    "content": {
+      "zh-CN": {
+        "id": "u1-14-opportunity-cost",
+        "locale": "zh-CN",
+        "title": "机会成本",
+        "takeaway": "机会成本是作出选择时放弃的最佳可行替代方案的价值，而不是所有放弃选项之和。",
+        "definition": "机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。",
+        "causalChain": [
+          "稀缺产生多个竞争用途",
+          "按价值排列可行方案",
+          "选择排名最高的方案",
+          "排名第二且被放弃的方案构成机会成本"
+        ],
+        "realWorldExample": {
+          "title": "公共预算的替代用途",
+          "sourceUrl": "https://www.imf.org/en/Publications/FM",
+          "observedAt": "2026-09-29",
+          "explanation": "IMF《财政监测》讨论政府支出与财政空间。新增一项支出会占用资金和执行能力，其机会成本是同一资源原本可以支持的最佳替代政策。"
+        },
+        "misconceptions": [
+          "机会成本不是所有被放弃方案的总和，只取最佳替代方案。",
+          "沉没成本已经无法收回，不应与当前选择的机会成本混淆。"
+        ],
+        "examApplication": [
+          "用“选择 A 的机会成本是放弃的最佳方案 B”完整表达。",
+          "PPC 题中用另一种产品减少的数量衡量机会成本。"
+        ],
+        "summary": [
+          "机会成本源于稀缺和选择。",
+          "它只对应最佳被放弃方案。",
+          "成本可用金钱、时间、产出或福祉表示。"
+        ],
+        "explanation": "选择一个用途意味着同一资源不能同时完整用于其他用途。经济学把最有价值的被放弃方案称为机会成本，以此显示决策的真实取舍。\n\n机会成本取决于当时可行的方案和决策者的目标，所以并非固定金额。它可以是失去的收入、时间、产出或环境质量。若替代方案不可行，就不应计入机会成本。"
+      },
+      "en": {
+        "id": "u1-14-opportunity-cost",
+        "locale": "en",
+        "title": "Opportunity cost",
+        "takeaway": "Opportunity cost is the value of the best feasible alternative forgone when a choice is made, not the sum of every rejected option.",
+        "definition": "Opportunity cost is the benefit or value of the next-best feasible alternative that cannot be obtained once resources are committed to a chosen use.",
+        "causalChain": [
+          "Scarcity creates competing uses",
+          "Feasible alternatives are ranked by value",
+          "The highest-ranked option is selected",
+          "The second-ranked forgone option is the opportunity cost"
+        ],
+        "realWorldExample": {
+          "title": "Alternative uses of a public budget",
+          "sourceUrl": "https://www.imf.org/en/Publications/FM",
+          "observedAt": "2026-09-29",
+          "explanation": "The IMF Fiscal Monitor discusses government spending and fiscal space. A new programme uses finance and administrative capacity; its opportunity cost is the best alternative policy that those resources could have supported."
+        },
+        "misconceptions": [
+          "Opportunity cost is not the total of all forgone options; it is the best one.",
+          "A sunk cost that cannot be recovered is not the opportunity cost of a decision made now."
+        ],
+        "examApplication": [
+          "Use the complete statement: the opportunity cost of choosing A is the best forgone alternative B.",
+          "On a PPC, measure the cost by the reduction in output of the other good."
+        ],
+        "summary": [
+          "Opportunity cost follows from scarcity and choice.",
+          "Only the best forgone alternative counts.",
+          "Cost may be expressed in money, time, output, or well-being."
+        ],
+        "explanation": "Selecting one use prevents the same resource from being devoted fully to another. Economics calls the most valuable rejected option the opportunity cost, making the true trade-off in a decision visible.\n\nThe cost depends on the feasible alternatives and the decision-maker's objectives at that moment, so it is not a fixed cash amount. It can take the form of lost income, time, output, or environmental quality. An impossible alternative should not be counted."
+      }
+    }
+  },
+  {
+    "id": "u1-15-free-goods",
+    "content": {
+      "zh-CN": {
+        "id": "u1-15-free-goods",
+        "locale": "zh-CN",
+        "title": "免费物品",
+        "takeaway": "免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。",
+        "definition": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
+        "causalChain": [
+          "资源在特定条件下非常充裕",
+          "额外使用不排挤其他人的可行用途",
+          "边际机会成本接近零",
+          "无需通过价格配置该边际单位"
+        ],
+        "realWorldExample": {
+          "title": "清洁空气可能从免费物品变得稀缺",
+          "sourceUrl": "https://www.who.int/health-topics/air-pollution",
+          "observedAt": "2026-09-29",
+          "explanation": "世界卫生组织记录空气污染带来的健康风险。空气本身没有市场价格，但当排放损害清洁空气时，额外排放会产生机会成本，清洁空气便不能简单视为免费物品。"
+        },
+        "misconceptions": [
+          "零价格商品可能由税收支付或限量提供，仍然具有机会成本。",
+          "一种资源可以在某地是免费物品，在人口密集或受污染地区却变得稀缺。"
+        ],
+        "examApplication": [
+          "先检验边际机会成本，而不是只观察价格。",
+          "用地点、时间和环境条件说明分类为何可能变化。"
+        ],
+        "summary": [
+          "免费物品的边际机会成本接近零。",
+          "零价格不等于没有资源成本。",
+          "免费或经济物品的身份取决于条件。"
+        ],
+        "explanation": "经济物品之所以需要配置，是因为获得更多会排挤其他用途。免费物品在特定情境中足够充裕，使用一个额外单位不会造成有意义的牺牲。\n\n分类不是物品永恒的属性。清洁空气、开放空间或水在不同地点与时间可能从充裕变为稀缺。政府免费提供的教育或医疗仍使用劳动、建筑和设备，因此不是经济学意义上的免费物品。"
+      },
+      "en": {
+        "id": "u1-15-free-goods",
+        "locale": "en",
+        "title": "Free goods",
+        "takeaway": "A free good is abundant relative to demand in a particular place and time, so obtaining more does not displace another output; a zero price alone is not enough.",
+        "definition": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered.",
+        "causalChain": [
+          "A resource is highly abundant in a specific context",
+          "Extra use does not exclude a feasible use by someone else",
+          "Marginal opportunity cost is approximately zero",
+          "No price mechanism is needed to allocate that marginal unit"
+        ],
+        "realWorldExample": {
+          "title": "Clean air can cease to be a free good",
+          "sourceUrl": "https://www.who.int/health-topics/air-pollution",
+          "observedAt": "2026-09-29",
+          "explanation": "The World Health Organization documents the health burden of air pollution. Air has no ordinary purchase price, yet when emissions reduce air quality, additional pollution imposes opportunity costs and clean air cannot simply be treated as free."
+        },
+        "misconceptions": [
+          "A zero-priced service may be tax-funded or rationed and still carry an opportunity cost.",
+          "A resource may be free in one location but scarce in a crowded or polluted setting."
+        ],
+        "examApplication": [
+          "Test marginal opportunity cost rather than looking only at the observed price.",
+          "Use location, time, and environmental conditions to explain why the classification can change."
+        ],
+        "summary": [
+          "A free good has approximately zero marginal opportunity cost.",
+          "Zero price does not mean zero resource cost.",
+          "Whether a good is free or economic depends on context."
+        ],
+        "explanation": "Economic goods require allocation because obtaining more displaces another use. A free good is sufficiently abundant in a given context that one extra unit involves no meaningful sacrifice.\n\nThe category is not a permanent property of an object. Clean air, open space, or water may move from abundance to scarcity across times and places. Education or health care provided without a user charge still uses labour, buildings, and equipment, so it is not free in the economic sense."
       }
     }
   }

@@ -1,0 +1,45 @@
+- id: u1-12-intervention-flash-1
+  knowledgePointId: u1-12-intervention
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“干预”。
+    en: Without notes, explain “Intervention” in your own words.
+  answer:
+    zh-CN: 经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
+    en: Economic intervention is deliberate action by a government, central bank, or
+      other institution to alter market incentives, trading conditions, resource
+      allocation, or income distribution.
+  explanation:
+    zh-CN: 干预通过改变规则、价格或资源分配来影响经济行为，其成效要与副作用和执行成本一起评价。
+    en: Intervention changes rules, prices, or resource allocation to influence
+      behaviour; its benefits must be assessed alongside side effects and
+      implementation costs.
+- id: u1-12-intervention-mcq-1
+  knowledgePointId: u1-12-intervention
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“干预”？
+    en: Which statement best captures “Intervention”?
+  options:
+    - id: a
+      zh-CN: 干预通过改变规则、价格或资源分配来影响经济行为，其成效要与副作用和执行成本一起评价。
+      en: Intervention changes rules, prices, or resource allocation to influence
+        behaviour; its benefits must be assessed alongside side effects and
+        implementation costs.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
+    en: Economic intervention is deliberate action by a government, central bank, or
+      other institution to alter market incentives, trading conditions, resource
+      allocation, or income distribution.

@@ -1,0 +1,32 @@
+id: u1-01-economics-social-science
+slug: economics-social-science
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 3
+prerequisites: []
+related:
+  - u1-02-microeconomics
+  - u1-03-macroeconomics
+  - u1-34-evidence-refutation
+terms:
+  - Economics as a social science
+  - 经济学作为社会科学
+synonyms:
+  zh-CN:
+    - 社会科学
+    - 资源配置研究
+    - 经济选择
+  en:
+    - social science
+    - study of allocation
+    - economic choice
+diagramIds: []
+quizIds:
+  - u1-01-economics-social-science-flash-1
+  - u1-01-economics-social-science-mcq-1

@@ -1,0 +1,43 @@
+- id: u1-03-macroeconomics-flash-1
+  knowledgePointId: u1-03-macroeconomics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“宏观经济学”。
+    en: Without notes, explain “Macroeconomics” in your own words.
+  answer:
+    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+    en: Macroeconomics treats the economy as a whole and studies aggregate output,
+      growth, unemployment, inflation, income distribution, and the balance of
+      payments, together with the links among them.
+  explanation:
+    zh-CN: 宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。
+    en: Macroeconomics examines economy-wide performance and how policy influences
+      growth, employment, prices, and external relationships.
+- id: u1-03-macroeconomics-mcq-1
+  knowledgePointId: u1-03-macroeconomics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“宏观经济学”？
+    en: Which statement best captures “Macroeconomics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。
+      en: Macroeconomics examines economy-wide performance and how policy influences
+        growth, employment, prices, and external relationships.
+  correctOptionId: d
+  explanation:
+    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+    en: Macroeconomics treats the economy as a whole and studies aggregate output,
+      growth, unemployment, inflation, income distribution, and the balance of
+      payments, together with the links among them.

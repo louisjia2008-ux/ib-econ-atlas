@@ -1,0 +1,32 @@
+id: u1-06-efficiency
+slug: efficiency
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 5
+prerequisites:
+  - u1-04-scarcity
+related:
+  - u1-07-equity
+  - u1-27-ppc-unemployment-efficiency
+terms:
+  - Efficiency
+  - 效率
+synonyms:
+  zh-CN:
+    - 经济效率
+    - 生产效率
+    - 配置效率
+  en:
+    - economic efficiency
+    - productive efficiency
+    - allocative efficiency
+diagramIds: []
+quizIds:
+  - u1-06-efficiency-flash-1
+  - u1-06-efficiency-mcq-1
