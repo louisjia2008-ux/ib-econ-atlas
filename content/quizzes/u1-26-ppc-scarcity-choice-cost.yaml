@@ -1,0 +1,46 @@
+- id: u1-26-ppc-scarcity-choice-cost-flash-1
+  knowledgePointId: u1-26-ppc-scarcity-choice-cost
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“PPC中的稀缺、选择与机会成本”。
+    en: Without notes, explain “Scarcity, choice, and cost on a PPC” in your own
+      words.
+  answer:
+    zh-CN: 在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。
+    en: Within the PPC model, the frontier represents scarcity, alternative feasible
+      combinations represent choice, and the reduction in one output when moving
+      along the curve measures the opportunity cost of more of the other.
+  explanation:
+    zh-CN: PPC 外的组合体现当前稀缺，曲线上的不同点体现选择，沿曲线移动时放弃的另一种产出体现机会成本。
+    en: Points beyond a PPC reveal current scarcity, alternative points on the line
+      represent choice, and movement along it reveals the other output forgone
+      as opportunity cost.
+- id: u1-26-ppc-scarcity-choice-cost-mcq-1
+  knowledgePointId: u1-26-ppc-scarcity-choice-cost
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“PPC中的稀缺、选择与机会成本”？
+    en: Which statement best captures “Scarcity, choice, and cost on a PPC”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: PPC 外的组合体现当前稀缺，曲线上的不同点体现选择，沿曲线移动时放弃的另一种产出体现机会成本。
+      en: Points beyond a PPC reveal current scarcity, alternative points on the line
+        represent choice, and movement along it reveals the other output forgone
+        as opportunity cost.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。
+    en: Within the PPC model, the frontier represents scarcity, alternative feasible
+      combinations represent choice, and the reduction in one output when moving
+      along the curve measures the opportunity cost of more of the other.

@@ -1,0 +1,46 @@
+- id: u1-24-economic-models-flash-1
+  knowledgePointId: u1-24-economic-models
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“经济模型的作用与局限”。
+    en: Without notes, explain “Purposes and limits of economic models” in your own
+      words.
+  answer:
+    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+    en: An economic model is a purposeful simplification of agents, constraints, and
+      relationships, expressed verbally, graphically, or mathematically to
+      explain a mechanism and generate testable predictions.
+  explanation:
+    zh-CN: 经济模型有意简化现实来突出关键关系；好模型不是细节最多，而是在明确假设下对问题有解释力。
+    en: An economic model deliberately simplifies reality to isolate important
+      relationships; the best model is useful for a question under clear
+      assumptions, not the one with the most detail.
+- id: u1-24-economic-models-mcq-1
+  knowledgePointId: u1-24-economic-models
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“经济模型的作用与局限”？
+    en: Which statement best captures “Purposes and limits of economic models”?
+  options:
+    - id: a
+      zh-CN: 经济模型有意简化现实来突出关键关系；好模型不是细节最多，而是在明确假设下对问题有解释力。
+      en: An economic model deliberately simplifies reality to isolate important
+        relationships; the best model is useful for a question under clear
+        assumptions, not the one with the most detail.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+    en: An economic model is a purposeful simplification of agents, constraints, and
+      relationships, expressed verbally, graphically, or mathematically to
+      explain a mechanism and generate testable predictions.

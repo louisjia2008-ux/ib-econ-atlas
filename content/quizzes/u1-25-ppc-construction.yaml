@@ -1,0 +1,43 @@
+- id: u1-25-ppc-construction-flash-1
+  knowledgePointId: u1-25-ppc-construction
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“生产可能性曲线的构造”。
+    en: Without notes, explain “Constructing a PPC” in your own words.
+  answer:
+    zh-CN: 生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。
+    en: A production possibility curve (PPC) is the boundary of maximum combinations
+      of two goods or services that an economy can produce when resources and
+      technology are given and resources are fully and efficiently employed.
+  explanation:
+    zh-CN: PPC 在资源、技术和时期给定时，连接两类产出所有最大可行组合。
+    en: A PPC joins the maximum feasible combinations of two output categories for a
+      stated period, stock of resources, and technology.
+- id: u1-25-ppc-construction-mcq-1
+  knowledgePointId: u1-25-ppc-construction
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“生产可能性曲线的构造”？
+    en: Which statement best captures “Constructing a PPC”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: PPC 在资源、技术和时期给定时，连接两类产出所有最大可行组合。
+      en: A PPC joins the maximum feasible combinations of two output categories for a
+        stated period, stock of resources, and technology.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。
+    en: A production possibility curve (PPC) is the boundary of maximum combinations
+      of two goods or services that an economy can produce when resources and
+      technology are given and resources are fully and efficiently employed.

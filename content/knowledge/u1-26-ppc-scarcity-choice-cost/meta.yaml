@@ -1,0 +1,35 @@
+id: u1-26-ppc-scarcity-choice-cost
+slug: ppc-scarcity-choice-cost
+section: "1.3"
+level: core
+syllabusRefs:
+  - 1.3 Economic models and the PPC
+textbookRefs:
+  - chapter: "1"
+    section: "1.3"
+    pages:
+      - 17
+      - 18
+prerequisites:
+  - u1-14-opportunity-cost
+  - u1-25-ppc-construction
+related:
+  - u1-27-ppc-unemployment-efficiency
+  - u1-29-ppc-opportunity-cost-shapes
+terms:
+  - Scarcity choice and cost on a PPC
+  - PPC中的稀缺、选择与机会成本
+synonyms:
+  zh-CN:
+    - PPC取舍
+    - PPC机会成本
+    - production trade-off
+  en:
+    - PPC trade-off
+    - PPC opportunity cost
+    - production trade-off
+diagramIds:
+  - ppc-core
+quizIds:
+  - u1-26-ppc-scarcity-choice-cost-flash-1
+  - u1-26-ppc-scarcity-choice-cost-mcq-1

@@ -1,0 +1,35 @@
+id: u1-29-ppc-opportunity-cost-shapes
+slug: ppc-opportunity-cost-shapes
+section: "1.3"
+level: core
+syllabusRefs:
+  - 1.3 Economic models and the PPC
+textbookRefs:
+  - chapter: "1"
+    section: "1.3"
+    pages:
+      - 21
+      - 22
+prerequisites:
+  - u1-14-opportunity-cost
+  - u1-26-ppc-scarcity-choice-cost
+related:
+  - u1-13-factors-of-production
+  - u1-25-ppc-construction
+terms:
+  - Increasing and constant opportunity cost
+  - 递增与不变机会成本
+synonyms:
+  zh-CN:
+    - 递增机会成本规律
+    - 直线PPC
+    - 凹向原点PPC
+  en:
+    - law of increasing opportunity cost
+    - linear PPC
+    - bowed-out PPC
+diagramIds:
+  - ppc-core
+quizIds:
+  - u1-29-ppc-opportunity-cost-shapes-flash-1
+  - u1-29-ppc-opportunity-cost-shapes-mcq-1

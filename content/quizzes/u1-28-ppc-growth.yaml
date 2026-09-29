@@ -1,0 +1,47 @@
+- id: u1-28-ppc-growth-flash-1
+  knowledgePointId: u1-28-ppc-growth
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“实际增长与生产潜力增长”。
+    en: Without notes, explain “Actual and potential growth” in your own words.
+  answer:
+    zh-CN: 实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。
+    en: Actual growth is an increase in current output within existing capacity.
+      Growth in production possibilities is an outward shift of the maximum
+      feasible boundary caused by more or better resources or improved
+      technology.
+  explanation:
+    zh-CN: 向既有 PPC 靠近是实际产出增长，PPC 向外移动是生产潜力增长；两者可发生在不同时间。
+    en: Movement toward an existing PPC is growth in actual output, while an outward
+      shift is growth in productive potential; the two can occur at different
+      times.
+- id: u1-28-ppc-growth-mcq-1
+  knowledgePointId: u1-28-ppc-growth
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“实际增长与生产潜力增长”？
+    en: Which statement best captures “Actual and potential growth”?
+  options:
+    - id: a
+      zh-CN: 向既有 PPC 靠近是实际产出增长，PPC 向外移动是生产潜力增长；两者可发生在不同时间。
+      en: Movement toward an existing PPC is growth in actual output, while an outward
+        shift is growth in productive potential; the two can occur at different
+        times.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。
+    en: Actual growth is an increase in current output within existing capacity.
+      Growth in production possibilities is an outward shift of the maximum
+      feasible boundary caused by more or better resources or improved
+      technology.

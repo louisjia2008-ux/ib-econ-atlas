@@ -1,0 +1,32 @@
+id: u1-24-economic-models
+slug: economic-models
+section: "1.3"
+level: core
+syllabusRefs:
+  - 1.3 Economic models and the PPC
+textbookRefs:
+  - chapter: "1"
+    section: "1.3"
+    pages:
+      - 15
+prerequisites:
+  - u1-01-economics-social-science
+related:
+  - u1-25-ppc-construction
+  - u1-32-logic-hypotheses-theories
+terms:
+  - Purposes and limits of economic models
+  - 经济模型的作用与局限
+synonyms:
+  zh-CN:
+    - 经济抽象
+    - 简化框架
+    - economic representation
+  en:
+    - economic abstraction
+    - simplified framework
+    - economic representation
+diagramIds: []
+quizIds:
+  - u1-24-economic-models-flash-1
+  - u1-24-economic-models-mcq-1

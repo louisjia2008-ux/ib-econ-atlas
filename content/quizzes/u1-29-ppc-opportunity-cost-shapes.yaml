@@ -1,0 +1,46 @@
+- id: u1-29-ppc-opportunity-cost-shapes-flash-1
+  knowledgePointId: u1-29-ppc-opportunity-cost-shapes
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“递增与不变机会成本”。
+    en: Without notes, explain “Increasing and constant opportunity cost” in your
+      own words.
+  answer:
+    zh-CN: 递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。
+    en: Increasing opportunity cost means that successive additions to one output
+      require ever larger reductions in the other, while constant opportunity
+      cost means that the trade-off ratio does not change.
+  explanation:
+    zh-CN: 专业化资源使 PPC 通常向外弯并呈递增机会成本；资源同质且可完全替代时，直线 PPC 表示不变机会成本。
+    en: Specialised resources normally create a bowed-out PPC and increasing
+      opportunity cost; identical, perfectly transferable resources create a
+      straight line and constant cost.
+- id: u1-29-ppc-opportunity-cost-shapes-mcq-1
+  knowledgePointId: u1-29-ppc-opportunity-cost-shapes
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“递增与不变机会成本”？
+    en: Which statement best captures “Increasing and constant opportunity cost”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 专业化资源使 PPC 通常向外弯并呈递增机会成本；资源同质且可完全替代时，直线 PPC 表示不变机会成本。
+      en: Specialised resources normally create a bowed-out PPC and increasing
+        opportunity cost; identical, perfectly transferable resources create a
+        straight line and constant cost.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。
+    en: Increasing opportunity cost means that successive additions to one output
+      require ever larger reductions in the other, while constant opportunity
+      cost means that the trade-off ratio does not change.
