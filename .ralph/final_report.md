@@ -31,7 +31,7 @@ Status: local implementation complete; remote publication blocked by GitHub auth
 | Responsive viewports | PASS — Chromium at 1440×1000, 768×1024, and 390×844 |
 | Offline workflow | PASS — installed service worker reload, study, and bilingual search work offline |
 | 200% text scaling | PASS — narrow viewport has no horizontal document overflow |
-| Fresh-clone reproduction | PASS — `npm ci`, `npm run verify`, and `npm run test:e2e` from a no-hardlinks clone of `417c604` |
+| Fresh-clone reproduction | PASS — `npm ci`, `npm run verify`, and `npm run test:e2e` from a no-hardlinks clone of `837c9f0` |
 
 The Playwright suite also covers Hash deep links, bilingual fuzzy search, dual directories, session scope, scoped progress, short-answer scoring and override, persisted progress, backup credential exclusions, PPC keyboard/growth/static alternatives, mobile drawer Escape handling, and language switching without route or scroll loss.
 

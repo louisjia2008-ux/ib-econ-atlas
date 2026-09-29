@@ -45,4 +45,4 @@
 - What changed: added a flat ESLint 10 configuration for JavaScript, TypeScript, React hooks, Vite refresh, Worker and browser tests; wired check-only lint into the shared verification gate and contribution checklist.
 - Verification: PASS - `npm run lint`, `npm run verify`, and `npm run test:e2e`.
 - Findings repaired: removed unused imports, narrowed an unnecessary regular-expression escape, and moved current-time/settings loading to asynchronous snapshots that satisfy React render-purity rules.
-- Remaining step: checkpoint and repeat verification from a fresh local clone before updating final evidence.
+- Fresh-clone evidence: PASS from a no-hardlinks clone of `837c9f0` — clean `npm ci`, expanded `npm run verify`, and complete `npm run test:e2e` all pass.
