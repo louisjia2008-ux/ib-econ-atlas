@@ -1,0 +1,27 @@
+# Copyrighted local source material - never publish
+IB Economics （Coursebook）2020（Cambridge ）Ellie Trakages(3).pdf
+*.pdf
+
+# Secrets and local runtime configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+.sites-runtime/
+
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Operating system and editor state
+.DS_Store
+*.swp
+*.swo
+
