@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 3,
+  "current_iteration": 4,
   "status": "running",
   "tasks": [
     {
@@ -58,21 +58,21 @@
       "id": "T004",
       "title": "Build the first meaningful study-workspace preview",
       "type": "ui-slice",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T003"],
       "acceptance": ["Three-column workspace renders representative bilingual content", "Search entry and primary navigation are visible", "Preview compiles"],
-      "verification": ["npm run build", "HTTP preview smoke"],
+      "verification": ["npm run build:preview", "HTTP preview smoke"],
       "files_expected": ["src/App.tsx", "src/styles.css"],
       "attempts": 0,
       "last_error": "",
-      "notes": "First user-facing preview gate"
+      "notes": "Three-column bilingual workspace compiled, returned HTTP 200, and was handed off in the Codex browser."
     },
     {
       "id": "T005",
       "title": "Author and validate Unit 1.1 bilingual content",
       "type": "content",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T004"],
       "acceptance": ["15 planned 1.1 points contain full bilingual study fields and quizzes"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T003",
+  "last_successful_task": "T004",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T22:39:00+08:00"
+  "updated_at": "2026-09-29T22:45:00+08:00"
 }
