@@ -1,0 +1,46 @@
+- id: u1-16-basic-economic-questions-flash-1
+  knowledgePointId: u1-16-basic-economic-questions
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“三个基本经济问题”。
+    en: Without notes, explain “The three basic economic questions” in your own
+      words.
+  answer:
+    zh-CN: 三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。
+    en: The three basic economic questions ask which goods and services to produce
+      and in what quantities, which resources and techniques to use, and which
+      people or groups ultimately receive the output.
+  explanation:
+    zh-CN: 所有经济制度都必须决定生产什么及多少、怎样生产、为谁生产；差别在于由谁决定以及使用什么机制。
+    en: Every economic system must decide what and how much to produce, how to
+      produce it, and for whom; systems differ in who decides and which
+      mechanism they use.
+- id: u1-16-basic-economic-questions-mcq-1
+  knowledgePointId: u1-16-basic-economic-questions
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“三个基本经济问题”？
+    en: Which statement best captures “The three basic economic questions”?
+  options:
+    - id: a
+      zh-CN: 所有经济制度都必须决定生产什么及多少、怎样生产、为谁生产；差别在于由谁决定以及使用什么机制。
+      en: Every economic system must decide what and how much to produce, how to
+        produce it, and for whom; systems differ in who decides and which
+        mechanism they use.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。
+    en: The three basic economic questions ask which goods and services to produce
+      and in what quantities, which resources and techniques to use, and which
+      people or groups ultimately receive the output.

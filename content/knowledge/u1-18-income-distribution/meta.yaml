@@ -1,0 +1,33 @@
+id: u1-18-income-distribution
+slug: income-distribution
+section: "1.2"
+level: core
+syllabusRefs:
+  - 1.2 How do economists approach the world?
+textbookRefs:
+  - chapter: "1"
+    section: "1.2"
+    pages:
+      - 10
+      - 11
+prerequisites:
+  - u1-16-basic-economic-questions
+related:
+  - u1-07-equity
+  - u1-35-equality-equity
+terms:
+  - Income and output distribution
+  - 收入与产出分配
+synonyms:
+  zh-CN:
+    - 收入分配
+    - 产出分配
+    - 收入再分配
+  en:
+    - income distribution
+    - distribution of output
+    - redistribution
+diagramIds: []
+quizIds:
+  - u1-18-income-distribution-flash-1
+  - u1-18-income-distribution-mcq-1

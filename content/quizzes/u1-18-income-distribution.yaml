@@ -1,0 +1,47 @@
+- id: u1-18-income-distribution-flash-1
+  knowledgePointId: u1-18-income-distribution
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“收入与产出分配”。
+    en: Without notes, explain “Income and output distribution” in your own words.
+  answer:
+    zh-CN: 收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。
+    en: Income and output distribution describes how national income and goods or
+      services are divided among people, households, or factors of production.
+      Redistribution is a deliberate policy-induced change to the initial
+      distribution.
+  explanation:
+    zh-CN: 收入分配决定不同群体购买产出的能力；再分配通过税收、转移支付和公共服务改变市场形成的结果。
+    en: Income distribution shapes each group's ability to obtain output;
+      redistribution changes the market outcome through taxes, transfers, and
+      public services.
+- id: u1-18-income-distribution-mcq-1
+  knowledgePointId: u1-18-income-distribution
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“收入与产出分配”？
+    en: Which statement best captures “Income and output distribution”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 收入分配决定不同群体购买产出的能力；再分配通过税收、转移支付和公共服务改变市场形成的结果。
+      en: Income distribution shapes each group's ability to obtain output;
+        redistribution changes the market outcome through taxes, transfers, and
+        public services.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。
+    en: Income and output distribution describes how national income and goods or
+      services are divided among people, households, or factors of production.
+      Redistribution is a deliberate policy-induced change to the initial
+      distribution.

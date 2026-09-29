@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 5,
-  "current_task_id": "T006",
-  "last_task_id": "T005",
+  "current_iteration": 6,
+  "current_task_id": "T007",
+  "last_task_id": "T006",
   "last_verification": {
     "status": "PASS",
-    "command": "node scripts/content-data/unit-1-1.mjs && npm run content:validate:draft && node scripts/compile-content.mjs --allow-incomplete",
-    "summary": "All 15 Unit 1.1 points passed bilingual content validation and compilation."
+    "command": "node scripts/content-data/unit-1-2.mjs && npm run content:validate:draft && node scripts/compile-content.mjs --allow-incomplete",
+    "summary": "All eight Unit 1.2 points passed bilingual content validation and compilation; 23 total points are implemented."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-29T23:02:00+08:00"
+  "updated_at": "2026-09-29T23:15:00+08:00"
 }

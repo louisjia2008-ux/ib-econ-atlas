@@ -1,0 +1,33 @@
+id: u1-23-mixed-economy
+slug: mixed-economy
+section: "1.2"
+level: core
+syllabusRefs:
+  - 1.2 How do economists approach the world?
+textbookRefs:
+  - chapter: "1"
+    section: "1.2"
+    pages:
+      - 14
+prerequisites:
+  - u1-21-free-market-economy
+  - u1-22-planned-economy
+related:
+  - u1-19-market-mechanism
+  - u1-20-government-intervention
+terms:
+  - The mixed economy
+  - 混合经济
+synonyms:
+  zh-CN:
+    - 混合市场经济
+    - 公私混合制度
+    - mixed system
+  en:
+    - mixed-market economy
+    - public-private system
+    - mixed system
+diagramIds: []
+quizIds:
+  - u1-23-mixed-economy-flash-1
+  - u1-23-mixed-economy-mcq-1

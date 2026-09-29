@@ -1,0 +1,33 @@
+id: u1-20-government-intervention
+slug: government-intervention
+section: "1.2"
+level: core
+syllabusRefs:
+  - 1.2 How do economists approach the world?
+textbookRefs:
+  - chapter: "1"
+    section: "1.2"
+    pages:
+      - 12
+prerequisites:
+  - u1-12-intervention
+  - u1-19-market-mechanism
+related:
+  - u1-17-resource-allocation
+  - u1-23-mixed-economy
+terms:
+  - Government intervention
+  - 政府干预
+synonyms:
+  zh-CN:
+    - 公共政策介入
+    - 政府调控
+    - government action
+  en:
+    - public policy action
+    - government regulation
+    - state intervention
+diagramIds: []
+quizIds:
+  - u1-20-government-intervention-flash-1
+  - u1-20-government-intervention-mcq-1

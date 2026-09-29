@@ -1,0 +1,34 @@
+id: u1-16-basic-economic-questions
+slug: basic-economic-questions
+section: "1.2"
+level: core
+syllabusRefs:
+  - 1.2 How do economists approach the world?
+textbookRefs:
+  - chapter: "1"
+    section: "1.2"
+    pages:
+      - 10
+prerequisites:
+  - u1-04-scarcity
+  - u1-13-factors-of-production
+related:
+  - u1-17-resource-allocation
+  - u1-18-income-distribution
+  - u1-19-market-mechanism
+terms:
+  - The three basic economic questions
+  - 三个基本经济问题
+synonyms:
+  zh-CN:
+    - 生产什么怎样生产为谁生产
+    - 基本资源配置问题
+    - what how for whom
+  en:
+    - what how for whom
+    - basic allocation questions
+    - fundamental economic questions
+diagramIds: []
+quizIds:
+  - u1-16-basic-economic-questions-flash-1
+  - u1-16-basic-economic-questions-mcq-1

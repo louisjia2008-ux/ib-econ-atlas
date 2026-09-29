@@ -1,0 +1,45 @@
+- id: u1-19-market-mechanism-flash-1
+  knowledgePointId: u1-19-market-mechanism
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“市场机制”。
+    en: Without notes, explain “The market mechanism” in your own words.
+  answer:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources.
+  explanation:
+    zh-CN: 市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。
+    en: The market mechanism uses changing prices to coordinate decentralised supply
+      and demand and to draw resources toward higher willingness to pay and
+      expected profit.
+- id: u1-19-market-mechanism-mcq-1
+  knowledgePointId: u1-19-market-mechanism
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“市场机制”？
+    en: Which statement best captures “The market mechanism”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。
+      en: The market mechanism uses changing prices to coordinate decentralised supply
+        and demand and to draw resources toward higher willingness to pay and
+        expected profit.
+  correctOptionId: d
+  explanation:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources.

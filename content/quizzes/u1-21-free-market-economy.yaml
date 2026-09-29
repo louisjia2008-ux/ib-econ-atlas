@@ -1,0 +1,45 @@
+- id: u1-21-free-market-economy-flash-1
+  knowledgePointId: u1-21-free-market-economy
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“自由市场经济”。
+    en: Without notes, explain “The free-market economy” in your own words.
+  answer:
+    zh-CN: 自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
+    en: A free-market economy is a system in which resources are predominantly
+      privately owned and production and consumption are coordinated mainly
+      through competitive markets and the price mechanism, with a comparatively
+      limited state role.
+  explanation:
+    zh-CN: 自由市场经济主要通过私有产权、价格和利润来协调生产与分配，强调分散选择而非中央指令。
+    en: A free-market economy coordinates production and distribution mainly through
+      private property, prices, and profit rather than central commands.
+- id: u1-21-free-market-economy-mcq-1
+  knowledgePointId: u1-21-free-market-economy
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“自由市场经济”？
+    en: Which statement best captures “The free-market economy”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 自由市场经济主要通过私有产权、价格和利润来协调生产与分配，强调分散选择而非中央指令。
+      en: A free-market economy coordinates production and distribution mainly through
+        private property, prices, and profit rather than central commands.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
+    en: A free-market economy is a system in which resources are predominantly
+      privately owned and production and consumption are coordinated mainly
+      through competitive markets and the price mechanism, with a comparatively
+      limited state role.

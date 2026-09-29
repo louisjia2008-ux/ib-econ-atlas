@@ -1,0 +1,47 @@
+- id: u1-22-planned-economy-flash-1
+  knowledgePointId: u1-22-planned-economy
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“计划经济”。
+    en: Without notes, explain “The planned economy” in your own words.
+  answer:
+    zh-CN: 计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。
+    en: A planned economy is a system in which productive assets are largely
+      state-owned or controlled and a central or public planning authority
+      allocates resources through administrative targets rather than
+      decentralised market prices.
+  explanation:
+    zh-CN: 计划经济主要由公共机构设定产出、投入和分配目标，能够集中资源，却面临信息、激励和调整难题。
+    en: A planned economy relies on public authorities to set output, input, and
+      distribution targets; it can concentrate resources but faces information,
+      incentive, and adjustment problems.
+- id: u1-22-planned-economy-mcq-1
+  knowledgePointId: u1-22-planned-economy
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“计划经济”？
+    en: Which statement best captures “The planned economy”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 计划经济主要由公共机构设定产出、投入和分配目标，能够集中资源，却面临信息、激励和调整难题。
+      en: A planned economy relies on public authorities to set output, input, and
+        distribution targets; it can concentrate resources but faces
+        information, incentive, and adjustment problems.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。
+    en: A planned economy is a system in which productive assets are largely
+      state-owned or controlled and a central or public planning authority
+      allocates resources through administrative targets rather than
+      decentralised market prices.

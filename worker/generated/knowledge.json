@@ -1067,5 +1067,573 @@
         "explanation": "Economic goods require allocation because obtaining more displaces another use. A free good is sufficiently abundant in a given context that one extra unit involves no meaningful sacrifice.\n\nThe category is not a permanent property of an object. Clean air, open space, or water may move from abundance to scarcity across times and places. Education or health care provided without a user charge still uses labour, buildings, and equipment, so it is not free in the economic sense."
       }
     }
+  },
+  {
+    "id": "u1-16-basic-economic-questions",
+    "content": {
+      "zh-CN": {
+        "id": "u1-16-basic-economic-questions",
+        "locale": "zh-CN",
+        "title": "三个基本经济问题",
+        "takeaway": "所有经济制度都必须决定生产什么及多少、怎样生产、为谁生产；差别在于由谁决定以及使用什么机制。",
+        "definition": "三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。",
+        "causalChain": [
+          "稀缺资源有多个竞争用途",
+          "社会决定产品组合与数量",
+          "生产者选择投入和技术",
+          "收入与规则决定产出分配"
+        ],
+        "realWorldExample": {
+          "title": "农业体系同时面对三个问题",
+          "sourceUrl": "https://www.worldbank.org/en/topic/agriculture/overview",
+          "observedAt": "2026-09-29",
+          "explanation": "世界银行的农业工作涉及种植结构、生产技术和粮食可负担性。有限土地用于何种作物、采用何种生产方式以及谁能获得食品，分别对应三个基本问题。"
+        },
+        "misconceptions": [
+          "“为谁生产”不是询问生产者身份，而是询问谁有能力或资格获得产出。",
+          "三个问题在富裕经济体中仍然存在，因为资源和目标仍有竞争。"
+        ],
+        "examApplication": [
+          "分析案例时逐一标出 what/how much、how 和 for whom。",
+          "比较制度时围绕决策者、信息来源和分配规则展开。"
+        ],
+        "summary": [
+          "产品组合回答生产什么及多少。",
+          "投入与技术回答怎样生产。",
+          "收入、价格或行政规则回答为谁生产。"
+        ],
+        "explanation": "稀缺意味着社会不能生产每一种想要的商品，也不能无限生产。因此必须先确定产品组合，再决定如何把土地、劳动、资本和企业家才能组织起来。\n\n生产完成后还存在分配问题。市场经济通常由收入与价格影响获得能力，政府也可能通过公共服务、税收或配给改变结果。三个问题彼此关联：生产方式会影响收入，分配又会影响需求和未来生产。"
+      },
+      "en": {
+        "id": "u1-16-basic-economic-questions",
+        "locale": "en",
+        "title": "The three basic economic questions",
+        "takeaway": "Every economic system must decide what and how much to produce, how to produce it, and for whom; systems differ in who decides and which mechanism they use.",
+        "definition": "The three basic economic questions ask which goods and services to produce and in what quantities, which resources and techniques to use, and which people or groups ultimately receive the output.",
+        "causalChain": [
+          "Scarce resources have competing uses",
+          "Society determines the output mix and quantities",
+          "Producers select inputs, technology, and organisation",
+          "Income and allocation rules determine access to output"
+        ],
+        "realWorldExample": {
+          "title": "Agriculture faces all three questions",
+          "sourceUrl": "https://www.worldbank.org/en/topic/agriculture/overview",
+          "observedAt": "2026-09-29",
+          "explanation": "World Bank agricultural work covers crop choices, production techniques, and food affordability. The use of finite land, the production method, and access to food map directly onto what, how, and for whom."
+        },
+        "misconceptions": [
+          "For whom does not ask who the producer is; it asks who can or may obtain the output.",
+          "Affluent economies still face all three questions because resources and objectives continue to compete."
+        ],
+        "examApplication": [
+          "Label what/how much, how, and for whom separately in a case.",
+          "Compare systems through their decision-makers, information sources, and distribution rules."
+        ],
+        "summary": [
+          "The output mix answers what and how much.",
+          "Inputs and technology answer how.",
+          "Income, prices, or administrative rules answer for whom."
+        ],
+        "explanation": "Scarcity prevents a society from producing every desired good without limit. It must first establish an output mix and then organise land, labour, capital, and entrepreneurship to create it.\n\nDistribution remains after production. Income and prices strongly influence access in a market economy, while public services, taxation, or rationing can alter that outcome. The questions interact because production affects income and distribution shapes future demand."
+      }
+    }
+  },
+  {
+    "id": "u1-17-resource-allocation",
+    "content": {
+      "zh-CN": {
+        "id": "u1-17-resource-allocation",
+        "locale": "zh-CN",
+        "title": "资源配置与重新配置",
+        "takeaway": "资源配置决定生产要素流向何处；价格、政策或偏好变化会触发重新配置，并可纠正过度或不足配置。",
+        "definition": "资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。",
+        "causalChain": [
+          "不同用途争夺稀缺要素",
+          "价格、收益与政策传递相对价值",
+          "资源流向预期回报较高的用途",
+          "外部成本或收益可能造成过度或不足配置"
+        ],
+        "realWorldExample": {
+          "title": "碳定价推动资源重新配置",
+          "sourceUrl": "https://carbonpricingdashboard.worldbank.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "世界银行碳定价仪表板记录碳税和排放交易制度。排放成本进入决策后，高碳生产相对回报下降，资本和创新可能转向低碳用途。"
+        },
+        "misconceptions": [
+          "重新配置不是凭空创造资源，而是改变同一资源的用途。",
+          "市场投入多并不自动表示社会配置最优，未计价外部成本会造成过度配置。"
+        ],
+        "examApplication": [
+          "明确资源从哪个用途转向哪个用途。",
+          "用社会边际成本与收益解释过度或不足配置，而非只用产量大小。"
+        ],
+        "summary": [
+          "配置决定生产要素的用途。",
+          "激励变化会推动重新配置。",
+          "市场价格遗漏外部影响时可能偏离社会最优。"
+        ],
+        "explanation": "资源配置把土地、劳动、资本和企业家才能安排到不同生产活动。市场价格和利润、政府预算与法规、家庭偏好都会影响流向。\n\n判断配置是否过度或不足，需要一个社会基准。若生产带来的第三方成本没有进入价格，某活动可能吸引过多资源；若教育等活动产生未获得补偿的外部收益，市场投入可能不足。"
+      },
+      "en": {
+        "id": "u1-17-resource-allocation",
+        "locale": "en",
+        "title": "Resource allocation and reallocation",
+        "takeaway": "Allocation directs factors of production; changes in prices, policy, or preferences cause reallocation and may address over- or underallocation.",
+        "definition": "Resource allocation is the assignment of productive factors to different uses. Reallocation changes those uses, while overallocation and underallocation mean that too many or too few resources are devoted to an activity relative to the social optimum.",
+        "causalChain": [
+          "Alternative uses compete for scarce factors",
+          "Prices, returns, and policy signal relative value",
+          "Resources move toward uses with higher expected returns",
+          "External costs or benefits can create over- or underallocation"
+        ],
+        "realWorldExample": {
+          "title": "Carbon pricing encourages reallocation",
+          "sourceUrl": "https://carbonpricingdashboard.worldbank.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "The World Bank Carbon Pricing Dashboard records carbon taxes and emissions trading systems. Once emissions carry a cost, high-carbon activity becomes less attractive and capital or innovation may shift toward lower-carbon uses."
+        },
+        "misconceptions": [
+          "Reallocation does not create resources; it changes how the same resources are used.",
+          "A large market allocation is not necessarily socially optimal when prices omit external costs."
+        ],
+        "examApplication": [
+          "State both the use resources leave and the use they enter.",
+          "Explain over- or underallocation through social marginal costs and benefits, not output size alone."
+        ],
+        "summary": [
+          "Allocation determines the uses of productive factors.",
+          "Changing incentives cause reallocation.",
+          "Omitted external effects can separate market and social outcomes."
+        ],
+        "explanation": "Resource allocation places land, labour, capital, and entrepreneurship in different productive activities. Market prices and profit, government budgets and rules, and household preferences can all direct those flows.\n\nOver- or underallocation requires a social benchmark. An activity may attract excessive resources if third-party costs are absent from its price. Education and similar activities may receive too little market investment when some benefits accrue beyond the buyer."
+      }
+    }
+  },
+  {
+    "id": "u1-18-income-distribution",
+    "content": {
+      "zh-CN": {
+        "id": "u1-18-income-distribution",
+        "locale": "zh-CN",
+        "title": "收入与产出分配",
+        "takeaway": "收入分配决定不同群体购买产出的能力；再分配通过税收、转移支付和公共服务改变市场形成的结果。",
+        "definition": "收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。",
+        "causalChain": [
+          "生产要素所有权与市场回报形成初次收入",
+          "收入决定大部分市场购买力",
+          "税收、现金转移和公共服务介入",
+          "可支配收入与实际获得的产出重新分布"
+        ],
+        "realWorldExample": {
+          "title": "税收和转移支付改变可支配收入",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 的不平等与贫困资料会比较税前收入和税后转移后的可支配收入，显示同一生产结果可通过财政制度产生不同家庭分配。"
+        },
+        "misconceptions": [
+          "产出增长不保证分配更均等，也不保证所有人的实际收入上升。",
+          "再分配不仅是现金转移，免费或补贴的公共服务也改变实际获得。"
+        ],
+        "examApplication": [
+          "区分初次收入、可支配收入和实物公共服务。",
+          "评价再分配时考虑公平目标、激励影响、行政成本和针对性。"
+        ],
+        "summary": [
+          "要素回报影响初次收入分配。",
+          "购买力影响市场产出的获得。",
+          "税收、转移和公共服务可实现再分配。"
+        ],
+        "explanation": "市场收入来自工资、租金、利息和利润，并受生产要素所有权、技能和议价能力影响。收入又决定个人能在市场中表达多少需求，因此与“为谁生产”直接相关。\n\n政府可用累进税、社会保障和公共教育医疗改变结果。评价时既要观察贫困和不平等是否下降，也要考虑融资、工作激励、覆盖遗漏和服务质量。"
+      },
+      "en": {
+        "id": "u1-18-income-distribution",
+        "locale": "en",
+        "title": "Income and output distribution",
+        "takeaway": "Income distribution shapes each group's ability to obtain output; redistribution changes the market outcome through taxes, transfers, and public services.",
+        "definition": "Income and output distribution describes how national income and goods or services are divided among people, households, or factors of production. Redistribution is a deliberate policy-induced change to the initial distribution.",
+        "causalChain": [
+          "Factor ownership and market returns generate original income",
+          "Income determines most market purchasing power",
+          "Taxes, cash transfers, and public services intervene",
+          "Disposable income and effective access to output are redistributed"
+        ],
+        "realWorldExample": {
+          "title": "Taxes and transfers change disposable income",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD inequality and poverty material compares income before and after taxes and transfers, showing how the same production outcome can yield different household distributions under different fiscal systems."
+        },
+        "misconceptions": [
+          "Growth in total output does not guarantee a more equal distribution or a rise in every person's real income.",
+          "Redistribution is not confined to cash; free or subsidised public services alter effective access too."
+        ],
+        "examApplication": [
+          "Distinguish original income, disposable income, and public services received in kind.",
+          "Evaluate redistribution through equity objectives, incentives, administration, and targeting."
+        ],
+        "summary": [
+          "Factor returns shape original income.",
+          "Purchasing power affects access to market output.",
+          "Taxation, transfers, and services can redistribute."
+        ],
+        "explanation": "Market income arises as wages, rent, interest, and profit and reflects factor ownership, skills, and bargaining power. Income then determines how strongly a person can express demand in markets, linking distribution directly to the question of for whom output is produced.\n\nProgressive taxes, social protection, public education, and health provision can alter the result. Evaluation considers whether poverty or inequality falls alongside financing, work incentives, gaps in coverage, and service quality."
+      }
+    }
+  },
+  {
+    "id": "u1-19-market-mechanism",
+    "content": {
+      "zh-CN": {
+        "id": "u1-19-market-mechanism",
+        "locale": "zh-CN",
+        "title": "市场机制",
+        "takeaway": "市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。",
+        "definition": "市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。",
+        "causalChain": [
+          "买方需求与卖方供给不一致",
+          "短缺或剩余推动价格变化",
+          "价格改变消费者和生产者激励",
+          "数量和资源配置向新的市场结果调整"
+        ],
+        "realWorldExample": {
+          "title": "粮食价格传递稀缺信息",
+          "sourceUrl": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+          "observedAt": "2026-09-29",
+          "explanation": "联合国粮农组织食品价格指数汇总国际食品价格变化。供给冲击提高价格时，信号会影响消费者替代、库存决策和生产者未来种植。"
+        },
+        "misconceptions": [
+          "市场价格反映有效需求，而不等同于社会需要。",
+          "价格能协调信息，但若存在市场势力、外部性或信息不对称，结果可能不高效。"
+        ],
+        "examApplication": [
+          "用信号、激励和配给三个功能解释价格作用。",
+          "从供需变化追踪到价格、数量和资源移动。"
+        ],
+        "summary": [
+          "价格汇集供需信息。",
+          "价格改变买卖双方的激励。",
+          "支付能力决定市场配给，不一定符合公平或社会最优。"
+        ],
+        "explanation": "市场中没有单一主体掌握全部信息。价格把许多买方的愿付和许多卖方的成本压缩成信号。价格上升会鼓励部分生产者增加供给，也会使部分消费者减少需求或寻找替代品。\n\n这种协调具有条件。只有当价格较好地反映私人和社会成本收益、竞争存在且信息充分时，市场结果才更可能有效。收入差异也意味着需求强度部分反映支付能力。"
+      },
+      "en": {
+        "id": "u1-19-market-mechanism",
+        "locale": "en",
+        "title": "The market mechanism",
+        "takeaway": "The market mechanism uses changing prices to coordinate decentralised supply and demand and to draw resources toward higher willingness to pay and expected profit.",
+        "definition": "The market mechanism is the process through which supply and demand interact so that price signals, incentives, and rationing coordinate buying and selling decisions and allocate resources.",
+        "causalChain": [
+          "Desired purchases and sales do not initially match",
+          "Shortage or surplus puts pressure on price",
+          "Price changes consumer and producer incentives",
+          "Quantities and resources adjust toward a new market outcome"
+        ],
+        "realWorldExample": {
+          "title": "Food prices communicate scarcity",
+          "sourceUrl": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+          "observedAt": "2026-09-29",
+          "explanation": "The UN Food and Agriculture Organization Food Price Index summarises international food price movements. When a supply shock raises prices, the signal affects consumer substitution, stockholding, and future planting decisions."
+        },
+        "misconceptions": [
+          "A market price reflects effective demand, not the same thing as social need.",
+          "Price can coordinate information without guaranteeing efficiency where market power, externalities, or asymmetric information exist."
+        ],
+        "examApplication": [
+          "Explain the signalling, incentive, and rationing functions of price.",
+          "Trace a supply or demand change through price and quantity to the movement of resources."
+        ],
+        "summary": [
+          "Price aggregates information about supply and demand.",
+          "Price changes incentives on both sides of a market.",
+          "Rationing by purchasing power need not be equitable or socially optimal."
+        ],
+        "explanation": "No single participant in a market holds all relevant information. Price condenses the willingness to pay of many buyers and the costs of many sellers. A higher price encourages some producers to expand and causes some consumers to reduce demand or find substitutes.\n\nThat coordination is conditional. A market is more likely to perform well when prices reflect private and social costs and benefits, competition is meaningful, and information is available. Income inequality also means that measured demand partly reflects ability to pay."
+      }
+    }
+  },
+  {
+    "id": "u1-20-government-intervention",
+    "content": {
+      "zh-CN": {
+        "id": "u1-20-government-intervention",
+        "locale": "zh-CN",
+        "title": "政府干预",
+        "takeaway": "政府干预试图纠正市场失灵、改善公平或稳定经济，但是否成功取决于工具设计、信息和执行。",
+        "definition": "政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。",
+        "causalChain": [
+          "市场结果偏离政策目标",
+          "政府选择与问题相匹配的工具",
+          "工具改变价格、权利或可获得资源",
+          "行为反应决定净社会结果"
+        ],
+        "realWorldExample": {
+          "title": "烟草税改变消费成本",
+          "sourceUrl": "https://www.who.int/initiatives/health-taxes/tobacco",
+          "observedAt": "2026-09-29",
+          "explanation": "世界卫生组织把烟草税列为减少烟草使用的政策工具。税收提高消费者面对的价格，并为健康政策融资，但实际效果取决于需求反应、执法和非法市场。"
+        },
+        "misconceptions": [
+          "存在市场失灵并不能自动证明任何干预都能改善结果。",
+          "干预成本包括行政、合规和非预期行为，不只包括财政支出。"
+        ],
+        "examApplication": [
+          "先诊断具体市场失灵或公平目标，再选择政策。",
+          "评价时比较政策收益、政府失灵风险和替代工具。"
+        ],
+        "summary": [
+          "干预可以改变价格、规则和公共供给。",
+          "工具必须对应问题的成因。",
+          "政府也面临信息与激励约束。"
+        ],
+        "explanation": "市场可能遗漏外部影响、提供不足的公共品、形成市场势力或产生不公平结果。政府可以改变私人决策面对的成本收益，或直接提供服务。\n\n高质量评价不能只写政策优点。政府可能缺乏信息、受到利益集团影响或执行能力有限。应把预期改善与行政成本、逃避行为、机会成本和替代政策比较。"
+      },
+      "en": {
+        "id": "u1-20-government-intervention",
+        "locale": "en",
+        "title": "Government intervention",
+        "takeaway": "Government intervention seeks to correct market failure, improve equity, or stabilise the economy, but success depends on design, information, and implementation.",
+        "definition": "Government intervention is public-sector action through taxes, subsidies, regulation, price controls, public provision, information, or macroeconomic policy to alter economic behaviour and outcomes.",
+        "causalChain": [
+          "A market outcome diverges from a policy objective",
+          "Government selects an instrument suited to the cause",
+          "The instrument changes prices, rights, or available resources",
+          "Behavioural responses determine the net social result"
+        ],
+        "realWorldExample": {
+          "title": "Tobacco taxation changes the cost of consumption",
+          "sourceUrl": "https://www.who.int/initiatives/health-taxes/tobacco",
+          "observedAt": "2026-09-29",
+          "explanation": "The World Health Organization presents tobacco tax as a tool to reduce tobacco use. It raises the price faced by consumers and can finance health priorities, while its effect depends on demand response, enforcement, and illicit markets."
+        },
+        "misconceptions": [
+          "The existence of market failure does not prove that any intervention will improve the outcome.",
+          "Intervention costs include administration, compliance, and unintended behaviour, not only budget spending."
+        ],
+        "examApplication": [
+          "Diagnose the specific market failure or equity objective before selecting a policy.",
+          "Compare policy benefits, risks of government failure, and alternative instruments."
+        ],
+        "summary": [
+          "Intervention can change prices, rules, and public provision.",
+          "An instrument should match the source of the problem.",
+          "Government faces information and incentive constraints too."
+        ],
+        "explanation": "Markets can omit external effects, underprovide public goods, permit market power, or generate outcomes judged unfair. Government can change the costs and benefits facing private decisions or provide a service directly.\n\nStrong evaluation does not list advantages alone. Public authorities may lack information, face lobbying, or have limited enforcement capacity. Expected gains should be set against administration, avoidance, opportunity cost, and plausible alternative policies."
+      }
+    }
+  },
+  {
+    "id": "u1-21-free-market-economy",
+    "content": {
+      "zh-CN": {
+        "id": "u1-21-free-market-economy",
+        "locale": "zh-CN",
+        "title": "自由市场经济",
+        "takeaway": "自由市场经济主要通过私有产权、价格和利润来协调生产与分配，强调分散选择而非中央指令。",
+        "definition": "自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。",
+        "causalChain": [
+          "私人产权赋予使用和收益权",
+          "消费者支出表达有效需求",
+          "利润与亏损引导企业进入或退出",
+          "价格协调资源和产出"
+        ],
+        "realWorldExample": {
+          "title": "竞争环境影响私人投资",
+          "sourceUrl": "https://www.worldbank.org/en/topic/competitiveness",
+          "observedAt": "2026-09-29",
+          "explanation": "世界银行关于竞争力的资料关注市场进入、基础设施和制度如何影响企业投资。自由市场的资源流动仍依赖产权、合同和竞争规则。"
+        },
+        "misconceptions": [
+          "自由市场并不等于没有法律；产权和合同需要制度执行。",
+          "现实经济体很少符合完全自由市场的极端模型。"
+        ],
+        "examApplication": [
+          "优势可从信息、激励和选择解释，局限可从市场失灵与分配解释。",
+          "把制度作为模型使用，不要把某个国家简单贴成纯自由市场标签。"
+        ],
+        "summary": [
+          "私人产权和价格是主要协调机制。",
+          "利润提供生产激励。",
+          "市场失灵和不平等构成重要局限。"
+        ],
+        "explanation": "自由市场模型把决策分散给消费者和生产者。愿付价格影响生产什么，企业根据成本和利润选择怎样生产，收入与价格影响谁获得产出。\n\n分散信息和竞争可促进适应与创新，但市场不会自动计入外部性、提供所有公共品或保证公平。即使政府规模较小，司法、货币和竞争框架也不可或缺。"
+      },
+      "en": {
+        "id": "u1-21-free-market-economy",
+        "locale": "en",
+        "title": "The free-market economy",
+        "takeaway": "A free-market economy coordinates production and distribution mainly through private property, prices, and profit rather than central commands.",
+        "definition": "A free-market economy is a system in which resources are predominantly privately owned and production and consumption are coordinated mainly through competitive markets and the price mechanism, with a comparatively limited state role.",
+        "causalChain": [
+          "Private property grants rights to use assets and receive returns",
+          "Consumer spending expresses effective demand",
+          "Profit and loss encourage entry or exit",
+          "Prices coordinate resources and output"
+        ],
+        "realWorldExample": {
+          "title": "The competitive environment shapes private investment",
+          "sourceUrl": "https://www.worldbank.org/en/topic/competitiveness",
+          "observedAt": "2026-09-29",
+          "explanation": "World Bank material on competitiveness considers how entry conditions, infrastructure, and institutions influence business investment. Market allocation still relies on property, contract, and competition rules."
+        },
+        "misconceptions": [
+          "A free market does not mean an absence of law; property and contracts require enforcement.",
+          "Very few actual economies match the extreme model of a completely free market."
+        ],
+        "examApplication": [
+          "Explain advantages through information, incentives, and choice, and limitations through market failure and distribution.",
+          "Use the system as a model rather than labelling a country a pure free market."
+        ],
+        "summary": [
+          "Private property and prices are primary coordinating institutions.",
+          "Profit creates an incentive for production and adaptation.",
+          "Market failure and inequality are important limitations."
+        ],
+        "explanation": "The free-market model decentralises decisions to consumers and producers. Willingness to pay influences what is produced, firms use cost and profit to select methods, and income together with price affects who obtains output.\n\nDecentralised information and competition may support adaptation and innovation, but markets do not automatically price externalities, supply every public good, or secure fairness. Courts, money, and a competition framework remain essential even with a small state."
+      }
+    }
+  },
+  {
+    "id": "u1-22-planned-economy",
+    "content": {
+      "zh-CN": {
+        "id": "u1-22-planned-economy",
+        "locale": "zh-CN",
+        "title": "计划经济",
+        "takeaway": "计划经济主要由公共机构设定产出、投入和分配目标，能够集中资源，却面临信息、激励和调整难题。",
+        "definition": "计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。",
+        "causalChain": [
+          "计划机构确定社会优先目标",
+          "向企业或部门分配投入与产量指标",
+          "行政体系协调生产和分配",
+          "反馈信息用于修订后续计划"
+        ],
+        "realWorldExample": {
+          "title": "国有企业承担公共与商业目标",
+          "sourceUrl": "https://www.oecd.org/en/topics/sub-issues/state-owned-enterprises.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 对国有企业治理的工作展示公共所有权可用于战略或公共服务目标，同时需要明确授权、绩效信息和问责，以减少多重目标造成的效率问题。"
+        },
+        "misconceptions": [
+          "政府拥有部分企业不代表整个经济是计划经济。",
+          "计划可以集中资源，但中央机构仍必须获得及时、准确和地方化的信息。"
+        ],
+        "examApplication": [
+          "优势可讨论协调长期投资和基本服务，局限可讨论信息与激励。",
+          "比较时使用程度和机制，不把市场与计划写成只有两个绝对选项。"
+        ],
+        "summary": [
+          "公共计划替代大部分价格协调。",
+          "集中力量可服务明确的社会优先事项。",
+          "信息不足和弱激励可能导致短缺、剩余与低效率。"
+        ],
+        "explanation": "计划体系由公共机构回答三个基本问题。计划者确定产品组合、生产技术和分配标准，并把资源与指标传递给生产单位。\n\n集中决策可以把资源快速投向基础设施或基本服务，但复杂经济包含大量不断变化的本地信息。若反馈缓慢、指标设计不当或生产者缺乏改进激励，就可能出现错配。"
+      },
+      "en": {
+        "id": "u1-22-planned-economy",
+        "locale": "en",
+        "title": "The planned economy",
+        "takeaway": "A planned economy relies on public authorities to set output, input, and distribution targets; it can concentrate resources but faces information, incentive, and adjustment problems.",
+        "definition": "A planned economy is a system in which productive assets are largely state-owned or controlled and a central or public planning authority allocates resources through administrative targets rather than decentralised market prices.",
+        "causalChain": [
+          "The planning authority establishes social priorities",
+          "Inputs and output targets are assigned to sectors or enterprises",
+          "An administrative system coordinates production and distribution",
+          "Feedback informs revisions to later plans"
+        ],
+        "realWorldExample": {
+          "title": "State-owned enterprises combine public and commercial goals",
+          "sourceUrl": "https://www.oecd.org/en/topics/sub-issues/state-owned-enterprises.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD work on state-owned-enterprise governance shows how public ownership can pursue strategic or service objectives while requiring clear mandates, performance information, and accountability to manage conflicting goals."
+        },
+        "misconceptions": [
+          "Government ownership of some firms does not make the whole economy centrally planned.",
+          "Planning can concentrate resources, but the centre still needs timely, accurate, and local information."
+        ],
+        "examApplication": [
+          "Potential strengths include coordinated long-term investment and basic services; limitations include information and incentives.",
+          "Compare degrees and mechanisms rather than presenting market and plan as the only two absolute choices."
+        ],
+        "summary": [
+          "Public planning replaces much price coordination.",
+          "Concentrated resources can serve stated social priorities.",
+          "Weak information and incentives can cause shortage, surplus, and inefficiency."
+        ],
+        "explanation": "Public authorities answer the three basic questions in a planned system. They establish an output mix, production methods, and distribution criteria before communicating resources and targets to producing units.\n\nCentral direction can move resources rapidly toward infrastructure or essential services. A complex economy, however, contains large volumes of changing local information. Slow feedback, badly designed targets, or weak incentives to improve can create persistent mismatches."
+      }
+    }
+  },
+  {
+    "id": "u1-23-mixed-economy",
+    "content": {
+      "zh-CN": {
+        "id": "u1-23-mixed-economy",
+        "locale": "zh-CN",
+        "title": "混合经济",
+        "takeaway": "混合经济把市场配置与政府规则、再分配和公共供给结合起来，关键问题是两者边界如何设计。",
+        "definition": "混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。",
+        "causalChain": [
+          "多数日常选择由价格和私人主体协调",
+          "法律与监管设定市场边界",
+          "政府通过税收、转移和公共服务改变结果",
+          "制度组合随政策目标和证据调整"
+        ],
+        "realWorldExample": {
+          "title": "政府规模和职能因经济体而异",
+          "sourceUrl": "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD《政府概览》比较公共支出、就业、服务和治理。成员经济体都使用市场，也以不同程度的公共供给和再分配形成各自的混合模式。"
+        },
+        "misconceptions": [
+          "混合经济不是市场和计划各占固定一半。",
+          "政府介入多寡不能单独说明制度优劣，还要看工具设计和结果。"
+        ],
+        "examApplication": [
+          "用具体部门说明市场与政府分别承担什么角色。",
+          "评价制度组合时围绕效率、公平、稳定、自由和可持续性建立标准。"
+        ],
+        "summary": [
+          "现实经济体通常同时使用市场和政府。",
+          "组合在行业和时期之间不同。",
+          "评价重点是制度如何运作而非标签。"
+        ],
+        "explanation": "现实经济体通常让价格协调大量消费和生产，同时由政府提供法律框架、公共服务和社会保障。医疗、教育、能源或交通等行业中的组合可能彼此不同。\n\n混合经济没有唯一配方。市场与公共部门的相对范围会随政治价值、历史、技术和政策证据变化。分析应比较具体机制能否处理信息、激励、分配和问责。"
+      },
+      "en": {
+        "id": "u1-23-mixed-economy",
+        "locale": "en",
+        "title": "The mixed economy",
+        "takeaway": "A mixed economy combines market allocation with public rules, redistribution, and provision; the central issue is how the boundary is designed.",
+        "definition": "A mixed economy is a system in which private markets and the public sector both own resources and share responsibility for production, allocation, and distribution.",
+        "causalChain": [
+          "Prices and private agents coordinate many daily choices",
+          "Law and regulation set market boundaries",
+          "Taxes, transfers, and public services alter outcomes",
+          "The institutional mix changes with objectives and evidence"
+        ],
+        "realWorldExample": {
+          "title": "Government scale and functions vary across economies",
+          "sourceUrl": "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD Government at a Glance compares public spending, employment, services, and governance. Member economies all use markets while combining different degrees of public provision and redistribution."
+        },
+        "misconceptions": [
+          "A mixed economy does not require a fixed fifty-fifty split between market and plan.",
+          "The amount of intervention cannot establish performance without evidence about instrument design and outcomes."
+        ],
+        "examApplication": [
+          "Use a particular sector to show the distinct roles of market and government.",
+          "Evaluate an institutional mix against efficiency, equity, stability, freedom, and sustainability."
+        ],
+        "summary": [
+          "Most actual economies use both markets and government.",
+          "The mix differs across sectors and over time.",
+          "Analysis should examine mechanisms and outcomes rather than labels."
+        ],
+        "explanation": "Most economies allow prices to coordinate large areas of consumption and production while government supplies legal infrastructure, public services, and social protection. The blend in health, education, energy, or transport may differ within one country.\n\nThere is no single recipe for a mixed economy. The boundary changes with political values, history, technology, and policy evidence. Useful comparison asks how specific arrangements handle information, incentives, distribution, and accountability."
+      }
+    }
   }
 ]

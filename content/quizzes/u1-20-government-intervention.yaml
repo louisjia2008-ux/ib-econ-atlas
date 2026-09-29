@@ -1,0 +1,45 @@
+- id: u1-20-government-intervention-flash-1
+  knowledgePointId: u1-20-government-intervention
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“政府干预”。
+    en: Without notes, explain “Government intervention” in your own words.
+  answer:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes.
+  explanation:
+    zh-CN: 政府干预试图纠正市场失灵、改善公平或稳定经济，但是否成功取决于工具设计、信息和执行。
+    en: Government intervention seeks to correct market failure, improve equity, or
+      stabilise the economy, but success depends on design, information, and
+      implementation.
+- id: u1-20-government-intervention-mcq-1
+  knowledgePointId: u1-20-government-intervention
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“政府干预”？
+    en: Which statement best captures “Government intervention”?
+  options:
+    - id: a
+      zh-CN: 政府干预试图纠正市场失灵、改善公平或稳定经济，但是否成功取决于工具设计、信息和执行。
+      en: Government intervention seeks to correct market failure, improve equity, or
+        stabilise the economy, but success depends on design, information, and
+        implementation.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes.
