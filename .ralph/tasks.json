@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 7,
+  "current_iteration": 8,
   "status": "running",
   "tasks": [
     {
@@ -114,7 +114,7 @@
       "id": "T008",
       "title": "Author and validate Unit 1.4 bilingual content",
       "type": "content",
-      "status": "in_progress",
+      "status": "done",
       "priority": "high",
       "dependencies": ["T007"],
       "acceptance": ["6 planned 1.4 points contain full bilingual study fields and quizzes"],
@@ -122,13 +122,13 @@
       "files_expected": ["content/knowledge", "content/quizzes"],
       "attempts": 0,
       "last_error": "",
-      "notes": ""
+      "notes": "All six Unit 1.4 methodology points compile with bilingual content and practice."
     },
     {
       "id": "T009",
       "title": "Author and validate Unit 1.5 bilingual content",
       "type": "content",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "dependencies": ["T008"],
       "acceptance": ["8 planned 1.5 points complete the exact 43-point manifest"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T007",
+  "last_successful_task": "T008",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-29T23:28:00+08:00"
+  "updated_at": "2026-09-29T23:41:00+08:00"
 }

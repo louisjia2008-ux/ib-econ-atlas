@@ -1,0 +1,34 @@
+id: u1-32-logic-hypotheses-theories
+slug: logic-hypotheses-theories
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 24
+      - 25
+prerequisites:
+  - u1-24-economic-models
+  - u1-30-positive-economics
+related:
+  - u1-33-ceteris-paribus
+  - u1-34-evidence-refutation
+terms:
+  - Logic hypotheses theories and models
+  - 逻辑、假设、理论与模型
+synonyms:
+  zh-CN:
+    - 经济方法论
+    - 假说与理论
+    - model reasoning
+  en:
+    - economic methodology
+    - hypothesis and theory
+    - model reasoning
+diagramIds: []
+quizIds:
+  - u1-32-logic-hypotheses-theories-flash-1
+  - u1-32-logic-hypotheses-theories-mcq-1

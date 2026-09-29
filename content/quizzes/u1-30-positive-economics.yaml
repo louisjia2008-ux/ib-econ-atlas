@@ -1,0 +1,45 @@
+- id: u1-30-positive-economics-flash-1
+  knowledgePointId: u1-30-positive-economics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“实证经济学”。
+    en: Without notes, explain “Positive economics” in your own words.
+  answer:
+    zh-CN: 实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。
+    en: Positive economics describes and explains economic reality through
+      statements that can in principle be tested with observation, data, or
+      experiments, without concluding what ought to be done from a value
+      judgement.
+  explanation:
+    zh-CN: 实证经济学提出关于事实、关系或因果的可检验陈述，重点是证据能否支持或反驳。
+    en: Positive economics makes testable claims about facts, relationships, or
+      causes and asks whether evidence supports or challenges them.
+- id: u1-30-positive-economics-mcq-1
+  knowledgePointId: u1-30-positive-economics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“实证经济学”？
+    en: Which statement best captures “Positive economics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 实证经济学提出关于事实、关系或因果的可检验陈述，重点是证据能否支持或反驳。
+      en: Positive economics makes testable claims about facts, relationships, or
+        causes and asks whether evidence supports or challenges them.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。
+    en: Positive economics describes and explains economic reality through
+      statements that can in principle be tested with observation, data, or
+      experiments, without concluding what ought to be done from a value
+      judgement.

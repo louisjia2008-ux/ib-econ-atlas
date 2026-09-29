@@ -2,16 +2,16 @@
   "version": "0.1",
   "status": "running",
   "completion": "RALPH_CONTINUE",
-  "current_iteration": 7,
-  "current_task_id": "T008",
-  "last_task_id": "T007",
+  "current_iteration": 8,
+  "current_task_id": "T009",
+  "last_task_id": "T008",
   "last_verification": {
     "status": "PASS",
-    "command": "node scripts/content-data/unit-1-3.mjs && npm run content:validate:draft && node scripts/compile-content.mjs --allow-incomplete",
-    "summary": "All six Unit 1.3 model and PPC points passed bilingual validation; 29 total points are implemented."
+    "command": "node scripts/content-data/unit-1-4.mjs && npm run content:validate:draft && node scripts/compile-content.mjs --allow-incomplete",
+    "summary": "All six Unit 1.4 methodology points passed bilingual validation; 35 total points are implemented."
   },
   "blockers": [],
   "no_diff_iterations": 0,
   "started_at": "2026-09-29T22:15:00+08:00",
-  "updated_at": "2026-09-29T23:28:00+08:00"
+  "updated_at": "2026-09-29T23:41:00+08:00"
 }

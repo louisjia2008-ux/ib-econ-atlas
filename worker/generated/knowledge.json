@@ -2061,5 +2061,431 @@
         "explanation": "Factors of production are rarely equally productive in every use. Expansion of one good first draws resources well suited to it; further expansion requires resources with stronger productivity in the other activity, so the forgone amount rises.\n\nIf every resource has the same productivity ratio in both uses, each transfer creates the same trade-off and the PPC is a straight line. That case is a useful benchmark, while resource specificity is more common in practice."
       }
     }
+  },
+  {
+    "id": "u1-30-positive-economics",
+    "content": {
+      "zh-CN": {
+        "id": "u1-30-positive-economics",
+        "locale": "zh-CN",
+        "title": "实证经济学",
+        "takeaway": "实证经济学提出关于事实、关系或因果的可检验陈述，重点是证据能否支持或反驳。",
+        "definition": "实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。",
+        "causalChain": [
+          "提出对事实或因果关系的陈述",
+          "把概念转化为可观察指标",
+          "收集并分析相关证据",
+          "暂时支持、修正或反驳陈述"
+        ],
+        "realWorldExample": {
+          "title": "公开数据允许检验增长陈述",
+          "sourceUrl": "https://data.worldbank.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "世界银行数据平台提供增长、物价、贸易和社会指标。‘某年实际 GDP 增长率下降’可用明确口径的数据检验，属于实证陈述。"
+        },
+        "misconceptions": [
+          "实证陈述可以是错误的；“可检验”不等于“已经被证实”。",
+          "数字看似客观，但指标定义、样本和因果方法仍需判断。"
+        ],
+        "examApplication": [
+          "寻找可验证动词和变量，区分‘是/会’与‘应该/更好’。",
+          "说明需要什么证据以及哪些其他因素可能混淆关系。"
+        ],
+        "summary": [
+          "实证陈述涉及可观察事实或因果。",
+          "证据可以支持也可以反驳。",
+          "测量与识别方法影响结论可信度。"
+        ],
+        "explanation": "实证分析试图说明经济是什么样以及变量如何关联。例如‘提高某税率会降低消费量’是一个可检验预测，即使研究最终发现消费量没有下降，它仍属于实证命题。\n\n检验并不总是简单。变量可能同时受到收入、政策和预期影响。研究者需要定义指标、选择比较对象并处理其他因素，才能把相关性与因果解释区分开。"
+      },
+      "en": {
+        "id": "u1-30-positive-economics",
+        "locale": "en",
+        "title": "Positive economics",
+        "takeaway": "Positive economics makes testable claims about facts, relationships, or causes and asks whether evidence supports or challenges them.",
+        "definition": "Positive economics describes and explains economic reality through statements that can in principle be tested with observation, data, or experiments, without concluding what ought to be done from a value judgement.",
+        "causalChain": [
+          "State a claim about a fact or causal relationship",
+          "Translate concepts into observable measures",
+          "Collect and analyse relevant evidence",
+          "Provisionally support, revise, or reject the claim"
+        ],
+        "realWorldExample": {
+          "title": "Open data permit a growth claim to be tested",
+          "sourceUrl": "https://data.worldbank.org/",
+          "observedAt": "2026-09-29",
+          "explanation": "The World Bank data platform publishes growth, price, trade, and social indicators. A claim that real GDP growth fell in a specified year can be checked against a defined measure and is positive."
+        },
+        "misconceptions": [
+          "A positive statement can be false; testable does not mean already proven.",
+          "Numbers appear objective, but definitions, samples, and causal methods still require judgement."
+        ],
+        "examApplication": [
+          "Look for measurable variables and distinguish is or will from should or better.",
+          "State what evidence would be needed and which other factors could confound the relationship."
+        ],
+        "summary": [
+          "Positive claims concern observable facts or causes.",
+          "Evidence can support or refute them.",
+          "Measurement and identification affect credibility."
+        ],
+        "explanation": "Positive analysis asks what the economy is like and how variables relate. The prediction that a higher tax will reduce consumption is testable and remains a positive proposition even if research eventually finds no reduction.\n\nTesting is rarely automatic. Income, other policies, and expectations may change at the same time. Researchers define measures, choose comparison groups, and address alternative explanations to distinguish correlation from a credible causal account."
+      }
+    }
+  },
+  {
+    "id": "u1-31-normative-economics",
+    "content": {
+      "zh-CN": {
+        "id": "u1-31-normative-economics",
+        "locale": "zh-CN",
+        "title": "规范经济学与价值判断",
+        "takeaway": "规范经济学讨论经济应当怎样；事实能说明后果，却不能单独决定应优先追求哪一种价值。",
+        "definition": "规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。",
+        "causalChain": [
+          "社会面对多个可能目标",
+          "价值判断确定目标的相对重要性",
+          "实证证据预测各方案的后果",
+          "决策者依标准权衡并形成规范结论"
+        ],
+        "realWorldExample": {
+          "title": "最低工资讨论包含事实与价值",
+          "sourceUrl": "https://www.ilo.org/topics-and-sectors/wages/minimum-wages",
+          "observedAt": "2026-09-29",
+          "explanation": "国际劳工组织的最低工资资料同时涉及工资保障、就业、覆盖和执行。就业影响属于可检验问题，而‘更公平的工资是否值得某些成本’包含价值判断。"
+        },
+        "misconceptions": [
+          "规范陈述不等于没有逻辑或证据；它应公开价值标准并使用可靠事实。",
+          "实证研究不能消除所有分歧，因为人们可能对同一后果赋予不同权重。"
+        ],
+        "examApplication": [
+          "圈出‘应该、公平、更好、过多’等价值词并写明隐含标准。",
+          "评价政策时先陈述实证后果，再说明价值权重如何影响结论。"
+        ],
+        "summary": [
+          "规范结论回答应当怎样。",
+          "价值判断选择和排序目标。",
+          "证据约束判断但不能独自决定价值。"
+        ],
+        "explanation": "经济政策常涉及多个目标：效率、公平、稳定、选择自由和环境保护。决定哪一目标更重要，需要价值判断，因此无法只由数据推导。\n\n规范论证仍应严谨。先用实证分析说明各方案可能产生什么结果，再公开采用的公平或福祉标准。这样即使结论不同，分歧来自事实还是价值也能被识别。"
+      },
+      "en": {
+        "id": "u1-31-normative-economics",
+        "locale": "en",
+        "title": "Normative economics and value judgements",
+        "takeaway": "Normative economics asks how the economy ought to be; facts reveal consequences but cannot alone decide which values deserve priority.",
+        "definition": "Normative economics evaluates policies, institutions, or outcomes as desirable, better, or required by applying value standards such as equity, freedom, efficiency, sustainability, or well-being.",
+        "causalChain": [
+          "Society faces several possible objectives",
+          "Value judgements assign relative importance to them",
+          "Positive evidence predicts consequences of alternatives",
+          "Decision-makers weigh outcomes and reach a normative conclusion"
+        ],
+        "realWorldExample": {
+          "title": "Minimum-wage debate combines facts and values",
+          "sourceUrl": "https://www.ilo.org/topics-and-sectors/wages/minimum-wages",
+          "observedAt": "2026-09-29",
+          "explanation": "International Labour Organization material on minimum wages covers wage protection, employment, coverage, and enforcement. Employment effects are testable; whether greater wage fairness justifies a cost includes a value judgement."
+        },
+        "misconceptions": [
+          "A normative claim need not be illogical or evidence-free; it should disclose its value standard and use credible facts.",
+          "Positive research cannot remove every disagreement because people may attach different weights to the same consequences."
+        ],
+        "examApplication": [
+          "Identify value language such as should, fair, better, or excessive and state the implied criterion.",
+          "Present positive consequences first, then explain how value weights influence the final judgement."
+        ],
+        "summary": [
+          "Normative conclusions address what ought to be.",
+          "Value judgements select and rank objectives.",
+          "Evidence constrains a judgement without determining its values."
+        ],
+        "explanation": "Economic policy commonly pursues several goals: efficiency, equity, stability, freedom of choice, and environmental protection. Ranking those goals requires a value judgement and cannot be deduced from data alone.\n\nNormative reasoning can still be disciplined. Positive analysis first estimates the consequences of each option, and the fairness or welfare criterion is then made explicit. This allows disagreement about evidence to be separated from disagreement about values."
+      }
+    }
+  },
+  {
+    "id": "u1-32-logic-hypotheses-theories",
+    "content": {
+      "zh-CN": {
+        "id": "u1-32-logic-hypotheses-theories",
+        "locale": "zh-CN",
+        "title": "逻辑、假设、理论与模型",
+        "takeaway": "经济研究从逻辑一致的假设推导预测，用模型表达机制，再以证据检验和改进理论。",
+        "definition": "假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。",
+        "causalChain": [
+          "观察现象并提出问题",
+          "形成假设和机制解释",
+          "把关键关系表达为模型并推导预测",
+          "用证据检验后保留、修正或替代理论"
+        ],
+        "realWorldExample": {
+          "title": "政策评价连接理论与证据",
+          "sourceUrl": "https://www.oecd.org/en/topics/policy-evaluation.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 的政策评价资料强调明确政策目标、变化理论、指标和反事实。只有把政策如何产生结果的逻辑写清，证据才能针对关键假设。"
+        },
+        "misconceptions": [
+          "理论不是随意猜测，而是能组织解释和预测的体系。",
+          "逻辑正确只表示结论能从前提推出，并不证明前提符合现实。"
+        ],
+        "examApplication": [
+          "把答案写成前提—机制—预测—证据链。",
+          "评价模型时分别检查内部逻辑与外部经验有效性。"
+        ],
+        "summary": [
+          "逻辑连接前提与结论。",
+          "假设提出可检验命题。",
+          "理论和模型需通过证据不断修正。"
+        ],
+        "explanation": "经济解释通常始于一个观察到的规律或问题。研究者提出可能机制，明确假设，再用模型推导如果机制成立应观察到什么。\n\n内部一致性与经验有效性是不同检验。一个模型可以逻辑严密但建立在不适合某情境的假设上；也可能产生吻合数据的预测，却没有正确识别因果机制。两者都需要审查。"
+      },
+      "en": {
+        "id": "u1-32-logic-hypotheses-theories",
+        "locale": "en",
+        "title": "Logic, hypotheses, theories, and models",
+        "takeaway": "Economic inquiry derives predictions from logically consistent assumptions, represents mechanisms in models, and uses evidence to test and improve theory.",
+        "definition": "A hypothesis is a provisional testable proposition; a theory is a coherent system of relationships that explains phenomena; a model is a simplified representation of theory; and logic makes inference from premises to conclusions internally consistent.",
+        "causalChain": [
+          "Observe a pattern and pose a question",
+          "Form a hypothesis and proposed mechanism",
+          "Represent key relationships in a model and derive predictions",
+          "Use evidence to retain, revise, or replace the theory"
+        ],
+        "realWorldExample": {
+          "title": "Policy evaluation connects theory and evidence",
+          "sourceUrl": "https://www.oecd.org/en/topics/policy-evaluation.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD material on policy evaluation stresses clear objectives, a theory of change, indicators, and a counterfactual. Evidence can address key assumptions only after the logic connecting policy to outcome is explicit."
+        },
+        "misconceptions": [
+          "A theory is not a casual guess; it is a system capable of organising explanation and prediction.",
+          "Valid logic shows that a conclusion follows from premises, not that the premises accurately represent reality."
+        ],
+        "examApplication": [
+          "Structure an explanation as premises, mechanism, prediction, and evidence.",
+          "Evaluate internal logical consistency separately from external empirical validity."
+        ],
+        "summary": [
+          "Logic links premises to conclusions.",
+          "A hypothesis states a testable proposition.",
+          "Evidence drives revision of theories and models."
+        ],
+        "explanation": "An economic explanation often begins with an observed pattern or puzzle. A researcher proposes a mechanism, states assumptions, and builds a model to derive what should be observed if the mechanism operates.\n\nInternal consistency and empirical validity are different tests. A model may be logically sound but rest on assumptions unsuited to a context. It can also fit a pattern in data without identifying the true causal mechanism. Both dimensions need scrutiny."
+      }
+    }
+  },
+  {
+    "id": "u1-33-ceteris-paribus",
+    "content": {
+      "zh-CN": {
+        "id": "u1-33-ceteris-paribus",
+        "locale": "zh-CN",
+        "title": "其他条件不变",
+        "takeaway": "ceteris paribus 暂时固定其他相关因素，以隔离一个变量的影响；现实预测必须检查这些因素是否真的相近。",
+        "definition": "其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。",
+        "causalChain": [
+          "结果同时受到多个因素影响",
+          "分析者选择一个关注变量",
+          "暂时固定其他影响因素",
+          "推导该变量变化的独立方向性影响"
+        ],
+        "realWorldExample": {
+          "title": "分析利率变化需要条件限定",
+          "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy",
+          "observedAt": "2026-09-29",
+          "explanation": "英格兰银行说明货币政策如何通过借贷、支出和预期影响通胀。若同期能源价格或财政政策改变，观察到的通胀变化就不能只归因于利率。"
+        },
+        "misconceptions": [
+          "其他条件不变不是声称现实中其他因素不会变化。",
+          "这个假设隔离方向性关系，却不能保证实际结果大小或时间。"
+        ],
+        "examApplication": [
+          "写明被固定的关键因素，而不是只在句尾加入拉丁语。",
+          "评价时指出哪个条件最可能变化并改变预测。"
+        ],
+        "summary": [
+          "该假设用于隔离单一关系。",
+          "它是分析工具而非现实描述。",
+          "放松假设可形成有效评价。"
+        ],
+        "explanation": "价格、收入、偏好和预期常同时影响选择。若要研究价格本身的作用，就暂时假设收入、偏好等因素不变，从而避免把多个影响混在一起。\n\n应用结论时要重新面对现实。若被固定因素发生显著变化，它可能加强、抵消或反转模型预测。因此 ceteris paribus 同时告诉我们模型能做什么和不能做什么。"
+      },
+      "en": {
+        "id": "u1-33-ceteris-paribus",
+        "locale": "en",
+        "title": "Ceteris paribus",
+        "takeaway": "Ceteris paribus temporarily holds other relevant influences constant to isolate one variable; an applied prediction must ask whether those conditions are genuinely similar.",
+        "definition": "Ceteris paribus means assuming that relevant influences other than the variable under study remain unchanged so that one relationship can be analysed separately.",
+        "causalChain": [
+          "An outcome is influenced by several factors",
+          "The analyst selects one variable of interest",
+          "Other influences are temporarily held constant",
+          "The variable's independent directional effect is derived"
+        ],
+        "realWorldExample": {
+          "title": "An interest-rate analysis requires conditions",
+          "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy",
+          "observedAt": "2026-09-29",
+          "explanation": "The Bank of England explains monetary transmission through borrowing, spending, and expectations. If energy prices or fiscal policy change at the same time, the observed inflation path cannot be attributed to interest rates alone."
+        },
+        "misconceptions": [
+          "Ceteris paribus does not claim that other factors remain unchanged in the real world.",
+          "It isolates a directional relationship without guaranteeing the size or timing of an actual outcome."
+        ],
+        "examApplication": [
+          "Name the important factors being held constant rather than merely adding the Latin phrase.",
+          "In evaluation, identify the condition most likely to change and alter the prediction."
+        ],
+        "summary": [
+          "The assumption isolates one relationship.",
+          "It is an analytical device, not a description of reality.",
+          "Relaxing it can produce effective evaluation."
+        ],
+        "explanation": "Price, income, preferences, and expectations can influence a choice simultaneously. To study the effect of price itself, an analyst temporarily fixes income, preferences, and other influences rather than mixing several changes together.\n\nApplication returns the analysis to reality. A substantial change in a held-constant factor can reinforce, offset, or reverse the model's prediction. Ceteris paribus therefore defines both the value and the limit of the result."
+      }
+    }
+  },
+  {
+    "id": "u1-34-evidence-refutation",
+    "content": {
+      "zh-CN": {
+        "id": "u1-34-evidence-refutation",
+        "locale": "zh-CN",
+        "title": "经验证据与证伪",
+        "takeaway": "经验研究把理论预测与观察结果比较；反例会削弱或迫使模型修正，但单一研究很少能终结复杂争论。",
+        "definition": "经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。",
+        "causalChain": [
+          "理论产生明确且可观察的预测",
+          "研究设计确定数据和比较方法",
+          "证据显示预测是否得到支持",
+          "不一致促使检查测量、假设或理论机制"
+        ],
+        "realWorldExample": {
+          "title": "随机评价建立政策反事实",
+          "sourceUrl": "https://www.povertyactionlab.org/evaluations",
+          "observedAt": "2026-09-29",
+          "explanation": "J-PAL 的评价资料展示随机分组如何构造没有政策时的比较结果。观察处理组与对照组差异，可检验特定情境中的因果预测。"
+        },
+        "misconceptions": [
+          "没有拒绝假设不等于证明它永远正确。",
+          "与预测不一致时既要考虑理论问题，也要检查数据质量和研究设计。"
+        ],
+        "examApplication": [
+          "评价证据时检查样本、指标、反事实和外部有效性。",
+          "使用‘支持、未支持、削弱’等谨慎表述，而非绝对证明。"
+        ],
+        "summary": [
+          "理论必须产生可检验预测。",
+          "研究设计决定证据能回答什么。",
+          "反驳会推动假设和模型修正。"
+        ],
+        "explanation": "经济理论要与可观察世界连接，必须产生可能被证据否定的预测。研究者使用统计数据、自然实验、随机试验或历史比较，尝试建立可信反事实。\n\n证据具有不确定性。测量误差、样本差异和外部条件都可能影响结果。重复研究和多种方法得到相近结论，会提高信心；相反证据则要求缩小结论范围或修正机制。"
+      },
+      "en": {
+        "id": "u1-34-evidence-refutation",
+        "locale": "en",
+        "title": "Empirical evidence and refutation",
+        "takeaway": "Empirical work compares theoretical predictions with observation; contrary evidence weakens or forces revision of a model, although one study rarely ends a complex debate.",
+        "definition": "Empirical evidence comes from systematic observation, data, or experiment. Refutation occurs when credible evidence conflicts with a testable theoretical prediction, requiring that prediction to be rejected or revised.",
+        "causalChain": [
+          "A theory generates a clear observable prediction",
+          "Research design defines data and comparison",
+          "Evidence indicates whether the prediction is supported",
+          "Conflict prompts review of measurement, assumptions, or mechanism"
+        ],
+        "realWorldExample": {
+          "title": "Randomised evaluation constructs a policy counterfactual",
+          "sourceUrl": "https://www.povertyactionlab.org/evaluations",
+          "observedAt": "2026-09-29",
+          "explanation": "J-PAL evaluations show how random assignment can create a comparison for what would have happened without a programme. Differences between treatment and control groups test a causal prediction in that setting."
+        },
+        "misconceptions": [
+          "Failing to reject a hypothesis does not prove it is permanently true.",
+          "When evidence conflicts, data quality and research design need checking alongside the theory."
+        ],
+        "examApplication": [
+          "Assess a sample, measure, counterfactual, and external validity when judging evidence.",
+          "Use calibrated language such as supports, fails to support, or weakens rather than absolute proof."
+        ],
+        "summary": [
+          "Theory must yield testable predictions.",
+          "Research design limits what evidence can answer.",
+          "Refutation drives revision of assumptions and models."
+        ],
+        "explanation": "An economic theory connects to the observable world only if it generates predictions that evidence could contradict. Statistical data, natural experiments, randomised trials, and historical comparison all help construct a credible counterfactual.\n\nEvidence remains uncertain. Measurement error, sample differences, and context affect results. Convergence across replications and methods raises confidence, while contrary findings may narrow the domain of a claim or motivate a change in the mechanism."
+      }
+    }
+  },
+  {
+    "id": "u1-35-equality-equity",
+    "content": {
+      "zh-CN": {
+        "id": "u1-35-equality-equity",
+        "locale": "zh-CN",
+        "title": "平等与公平",
+        "takeaway": "平等描述相同或较少差异的分配，公平判断分配是否公正；两者可以重合，也可能要求不同待遇。",
+        "definition": "平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。",
+        "causalChain": [
+          "观察群体间资源、机会或结果差异",
+          "确定平等指标和公平原则",
+          "判断相同待遇是否能产生公正机会",
+          "选择普遍或有针对性的政策回应"
+        ],
+        "realWorldExample": {
+          "title": "不平等指标与公平判断并不相同",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD 的收入分配资料可以测量群体差异，但某种差异是否公平仍取决于对需要、机会、贡献和权利的价值判断。"
+        },
+        "misconceptions": [
+          "完全相同的投入在起点不同的情况下可能无法实现公平机会。",
+          "减少一种不平等不保证其他维度的公平，例如收入更接近但服务可及性仍不同。"
+        ],
+        "examApplication": [
+          "先说明讨论的是收入、财富、机会还是结果平等。",
+          "用明确公平原则解释为什么相同或不同待遇是合理的。"
+        ],
+        "summary": [
+          "平等可被描述和测量。",
+          "公平需要规范性标准。",
+          "公平有时支持差别待遇以克服不同起点。"
+        ],
+        "explanation": "平等关注差异程度，可以比较收入、财富、教育机会或健康结果。公平则进一步问这些差异是否由公正过程产生，以及政策应不应该改变它们。\n\n相同待遇有时公平，例如同工同酬；有时有针对性的额外支持更公平，例如为存在学习障碍的学生提供资源。关键是公开比较对象、起点和原则。"
+      },
+      "en": {
+        "id": "u1-35-equality-equity",
+        "locale": "en",
+        "title": "Equality and equity",
+        "takeaway": "Equality describes identical or less dispersed distributions, while equity judges whether a distribution is fair; the two may overlap or equity may require different treatment.",
+        "definition": "Equality is a condition of sameness or smaller differences in resources, opportunities, or outcomes. Equity evaluates whether treatment and distribution are justified by an explicit principle of fairness.",
+        "causalChain": [
+          "Observe differences in resources, opportunity, or outcomes",
+          "Select an equality measure and fairness principle",
+          "Ask whether identical treatment creates fair opportunity",
+          "Choose a universal or targeted policy response"
+        ],
+        "realWorldExample": {
+          "title": "Inequality measurement differs from an equity judgement",
+          "sourceUrl": "https://www.oecd.org/en/topics/inequality-and-poverty.html",
+          "observedAt": "2026-09-29",
+          "explanation": "OECD income-distribution evidence measures differences across groups. Whether a measured difference is fair still depends on value judgements about need, opportunity, contribution, and rights."
+        },
+        "misconceptions": [
+          "Identical inputs may fail to create fair opportunity when starting positions differ.",
+          "Reducing one inequality does not secure equity in another dimension; incomes may converge while service access remains unequal."
+        ],
+        "examApplication": [
+          "Specify whether equality concerns income, wealth, opportunity, or outcome.",
+          "Use a clear fairness principle to justify equal or differentiated treatment."
+        ],
+        "summary": [
+          "Equality can be described and measured.",
+          "Equity requires a normative standard.",
+          "Equity may support differentiated treatment to address unequal starting points."
+        ],
+        "explanation": "Equality concerns the degree of difference and may refer to income, wealth, educational opportunity, or health outcomes. Equity goes further by asking whether differences follow from a fair process and whether policy ought to change them.\n\nIdentical treatment can be equitable, as with equal pay for equal work. Targeted support can also be equitable, as when extra resources address a learning barrier. A sound judgement makes the comparison, starting position, and principle explicit."
+      }
+    }
   }
 ]

@@ -1,0 +1,32 @@
+id: u1-33-ceteris-paribus
+slug: ceteris-paribus
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 26
+prerequisites:
+  - u1-24-economic-models
+  - u1-32-logic-hypotheses-theories
+related:
+  - u1-34-evidence-refutation
+terms:
+  - Ceteris paribus
+  - 其他条件不变
+synonyms:
+  zh-CN:
+    - 其余条件相同
+    - 控制变量
+    - all else equal
+  en:
+    - all else equal
+    - other things constant
+    - controlled-variable assumption
+diagramIds: []
+quizIds:
+  - u1-33-ceteris-paribus-flash-1
+  - u1-33-ceteris-paribus-mcq-1

@@ -1,0 +1,45 @@
+- id: u1-33-ceteris-paribus-flash-1
+  knowledgePointId: u1-33-ceteris-paribus
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“其他条件不变”。
+    en: Without notes, explain “Ceteris paribus” in your own words.
+  answer:
+    zh-CN: 其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
+    en: Ceteris paribus means assuming that relevant influences other than the
+      variable under study remain unchanged so that one relationship can be
+      analysed separately.
+  explanation:
+    zh-CN: ceteris paribus 暂时固定其他相关因素，以隔离一个变量的影响；现实预测必须检查这些因素是否真的相近。
+    en: Ceteris paribus temporarily holds other relevant influences constant to
+      isolate one variable; an applied prediction must ask whether those
+      conditions are genuinely similar.
+- id: u1-33-ceteris-paribus-mcq-1
+  knowledgePointId: u1-33-ceteris-paribus
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“其他条件不变”？
+    en: Which statement best captures “Ceteris paribus”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: ceteris paribus 暂时固定其他相关因素，以隔离一个变量的影响；现实预测必须检查这些因素是否真的相近。
+      en: Ceteris paribus temporarily holds other relevant influences constant to
+        isolate one variable; an applied prediction must ask whether those
+        conditions are genuinely similar.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
+    en: Ceteris paribus means assuming that relevant influences other than the
+      variable under study remain unchanged so that one relationship can be
+      analysed separately.

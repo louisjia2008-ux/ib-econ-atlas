@@ -1,0 +1,34 @@
+id: u1-34-evidence-refutation
+slug: evidence-refutation
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 27
+      - 28
+prerequisites:
+  - u1-30-positive-economics
+  - u1-32-logic-hypotheses-theories
+related:
+  - u1-01-economics-social-science
+  - u1-33-ceteris-paribus
+terms:
+  - Empirical evidence and refutation
+  - 经验证据与证伪
+synonyms:
+  zh-CN:
+    - 实证检验
+    - 证伪主义
+    - empirical testing
+  en:
+    - empirical test
+    - falsification
+    - evidence-based economics
+diagramIds: []
+quizIds:
+  - u1-34-evidence-refutation-flash-1
+  - u1-34-evidence-refutation-mcq-1

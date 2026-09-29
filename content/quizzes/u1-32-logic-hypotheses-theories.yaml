@@ -1,0 +1,48 @@
+- id: u1-32-logic-hypotheses-theories-flash-1
+  knowledgePointId: u1-32-logic-hypotheses-theories
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“逻辑、假设、理论与模型”。
+    en: Without notes, explain “Logic, hypotheses, theories, and models” in your own
+      words.
+  answer:
+    zh-CN: 假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
+    en: A hypothesis is a provisional testable proposition; a theory is a coherent
+      system of relationships that explains phenomena; a model is a simplified
+      representation of theory; and logic makes inference from premises to
+      conclusions internally consistent.
+  explanation:
+    zh-CN: 经济研究从逻辑一致的假设推导预测，用模型表达机制，再以证据检验和改进理论。
+    en: Economic inquiry derives predictions from logically consistent assumptions,
+      represents mechanisms in models, and uses evidence to test and improve
+      theory.
+- id: u1-32-logic-hypotheses-theories-mcq-1
+  knowledgePointId: u1-32-logic-hypotheses-theories
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“逻辑、假设、理论与模型”？
+    en: Which statement best captures “Logic, hypotheses, theories, and models”?
+  options:
+    - id: a
+      zh-CN: 经济研究从逻辑一致的假设推导预测，用模型表达机制，再以证据检验和改进理论。
+      en: Economic inquiry derives predictions from logically consistent assumptions,
+        represents mechanisms in models, and uses evidence to test and improve
+        theory.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
+    en: A hypothesis is a provisional testable proposition; a theory is a coherent
+      system of relationships that explains phenomena; a model is a simplified
+      representation of theory; and logic makes inference from premises to
+      conclusions internally consistent.

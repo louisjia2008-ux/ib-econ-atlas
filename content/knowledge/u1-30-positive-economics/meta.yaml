@@ -1,0 +1,33 @@
+id: u1-30-positive-economics
+slug: positive-economics
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 23
+      - 24
+prerequisites:
+  - u1-01-economics-social-science
+related:
+  - u1-31-normative-economics
+  - u1-34-evidence-refutation
+terms:
+  - Positive economics
+  - 实证经济学
+synonyms:
+  zh-CN:
+    - 事实性经济学
+    - 可检验陈述
+    - positive statement
+  en:
+    - descriptive economics
+    - testable statement
+    - positive statement
+diagramIds: []
+quizIds:
+  - u1-30-positive-economics-flash-1
+  - u1-30-positive-economics-mcq-1
