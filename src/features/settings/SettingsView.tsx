@@ -25,12 +25,15 @@ export function SettingsView({ locale }: { locale: Locale }) {
     setSummary({ ...counts, ...(preferences.lastBackupAt ? { lastBackupAt: preferences.lastBackupAt } : {}) });
   };
   useEffect(() => {
-    void refresh();
-    void getPreferences().then((preferences) => {
+    let active = true;
+    void Promise.all([getDataCounts(), getPreferences()]).then(([counts, preferences]) => {
+      if (!active) return;
+      setSummary({ ...counts, ...(preferences.lastBackupAt ? { lastBackupAt: preferences.lastBackupAt } : {}) });
       setAiEnabled(preferences.aiEnabled);
       setAiEndpoint(preferences.aiEndpoint ?? "");
       setOwnerToken(loadOwnerAccessToken());
     });
+    return () => { active = false; };
   }, []);
 
   const exportData = async () => {
@@ -75,7 +78,12 @@ export function SettingsView({ locale }: { locale: Locale }) {
 
   const saveAiConfiguration = async () => {
     const preferences = await getPreferences();
-    const { aiEndpoint: _existingEndpoint, ...preferencesWithoutEndpoint } = preferences;
+    const preferencesWithoutEndpoint = {
+      locale: preferences.locale,
+      levelFilter: preferences.levelFilter,
+      aiEnabled: preferences.aiEnabled,
+      ...(preferences.lastBackupAt ? { lastBackupAt: preferences.lastBackupAt } : {}),
+    };
     const endpoint = aiEndpoint.trim().replace(/\/+$/, "");
     saveOwnerAccessToken(ownerToken);
     await savePreferences({

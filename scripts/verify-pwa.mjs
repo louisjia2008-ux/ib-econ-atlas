@@ -14,7 +14,7 @@ if (fs.existsSync(swPath)) {
   const worker = fs.readFileSync(swPath, "utf8");
   if (!worker.includes("precacheAndRoute")) failures.push("Service worker does not contain a precache route.");
   if (/indexedDB\s*\.\s*deleteDatabase|deleteDatabase\s*\(/.test(worker)) failures.push("Service worker contains IndexedDB deletion code.");
-  if (/OPENAI|OWNER_ACCESS_TOKEN|\/ask[\"'`]/.test(worker)) failures.push("Service worker unexpectedly contains AI credentials or an AI runtime cache route.");
+  if (/OPENAI|OWNER_ACCESS_TOKEN|\/ask["'`]/.test(worker)) failures.push("Service worker unexpectedly contains AI credentials or an AI runtime cache route.");
 }
 
 if (fs.existsSync(manifestPath)) {

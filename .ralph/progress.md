@@ -39,3 +39,10 @@
 - Visual evidence: headed Chromium screenshots inspected desktop, tablet, mobile, drawer, review centre, and PPC. An over-broad PPC SVG selector was found, fixed, and regression-tested.
 - Remaining risk: Vite reports a non-fatal ~999 kB minified (~271 kB gzip) entry chunk; public GitHub, Pages, Safari/Firefox/physical-device and live-model operation remain unobserved.
 - External blocker: GitHub CLI has an invalid `louisjia2008-ux` credential and the repository has no remote. Stop without push, PR, merge, deployment, or credential creation until the user re-authenticates and resumes.
+
+## 2026-09-30 - T018
+
+- What changed: added a flat ESLint 10 configuration for JavaScript, TypeScript, React hooks, Vite refresh, Worker and browser tests; wired check-only lint into the shared verification gate and contribution checklist.
+- Verification: PASS - `npm run lint`, `npm run verify`, and `npm run test:e2e`.
+- Findings repaired: removed unused imports, narrowed an unnecessary regular-expression escape, and moved current-time/settings loading to asynchronous snapshots that satisfy React render-purity rules.
+- Remaining step: checkpoint and repeat verification from a fresh local clone before updating final evidence.

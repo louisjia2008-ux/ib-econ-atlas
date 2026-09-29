@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Check, CheckCircle2, ChevronRight, RotateCcw, X } from "lucide-react";
 import { knowledgePoints } from "../../generated/content";
-import type { Locale, MultipleChoiceItem, ShortAnswerItem } from "../../types/content";
+import type { Locale, ShortAnswerItem } from "../../types/content";
 import type { PracticeAttempt, PracticeResult } from "../../types/progress";
 import { getAllProgress, getProgress, saveAttempt, saveProgress } from "../progress/db";
 import {

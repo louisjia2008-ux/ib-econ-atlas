@@ -21,6 +21,7 @@ Status: local implementation complete; remote publication blocked by GitHub auth
 | Strict content validation | PASS — 43 planned / 43 implemented |
 | Generated coverage and copyright reports | PASS — deterministic and current |
 | Documentation and workflow validation | PASS — 2 workflows / 8 documentation files |
+| ESLint check-only gate | PASS — source, scripts, tests, configuration, and Worker |
 | TypeScript | PASS — frontend, browser tests, and Worker |
 | Vitest | PASS — 7 files / 38 tests |
 | Production build | PASS — Vite/PWA production output generated |

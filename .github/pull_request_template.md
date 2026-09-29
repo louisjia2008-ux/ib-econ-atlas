@@ -11,6 +11,7 @@
 - [ ] `npm run content:validate`
 - [ ] `npm run content:report:check`
 - [ ] `npm run test:repository`
+- [ ] `npm run lint`
 - [ ] `npm run typecheck`
 - [ ] `npm run test:run`
 - [ ] `npm run build`

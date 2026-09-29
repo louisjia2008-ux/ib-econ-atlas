@@ -16,6 +16,7 @@
     "content:validate:draft": "node scripts/validate-content.mjs --allow-incomplete",
     "content:report": "node scripts/generate-content-report.mjs",
     "content:report:check": "node scripts/generate-content-report.mjs --check",
+    "lint": "eslint . --max-warnings 0",
     "test": "vitest",
     "test:run": "vitest run",
     "test:worker": "vitest run worker",
@@ -23,7 +24,7 @@
     "test:secrets": "node scripts/scan-secrets.mjs",
     "test:repository": "node scripts/validate-repository.mjs",
     "test:e2e": "playwright test",
-    "verify": "npm run content:validate && npm run content:report:check && npm run test:repository && npm run typecheck && npm run test:run && npm run build && npm run test:pwa && npm run test:secrets"
+    "verify": "npm run content:validate && npm run content:report:check && npm run test:repository && npm run lint && npm run typecheck && npm run test:run && npm run build && npm run test:pwa && npm run test:secrets"
   },
   "dependencies": {
     "fuse.js": "^7.5.0",
@@ -39,6 +40,7 @@
     "zod": "^4.6.5"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.63.0",
     "@testing-library/react": "^16.3.3",
     "@testing-library/user-event": "^14.6.7",
@@ -46,9 +48,14 @@
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^6.1.1",
+    "eslint": "^10.11.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
     "fake-indexeddb": "^6.2.5",
+    "globals": "^17.12.0",
     "jsdom": "^29.0.0",
     "typescript": "^5.9.3",
+    "typescript-eslint": "^8.71.0",
     "vite": "^8.3.1",
     "vite-plugin-pwa": "^1.3.0",
     "vitest": "^5.0.2"

@@ -6,8 +6,15 @@ import type { ProgressRecord } from "../../types/progress";
 import { getAllProgress } from "./db";
 
 export function ProgressView({ locale, scopeIds, onOpen }: { locale: Locale; scopeIds: ReadonlySet<string>; onOpen: (id: string) => void }) {
-  const [records, setRecords] = useState<ProgressRecord[]>([]);
-  useEffect(() => { void getAllProgress().then(setRecords); }, []);
+  const [snapshot, setSnapshot] = useState<{ records: ProgressRecord[]; observedAt: number }>({ records: [], observedAt: 0 });
+  useEffect(() => {
+    let active = true;
+    void getAllProgress().then((records) => {
+      if (active) setSnapshot({ records, observedAt: Date.now() });
+    });
+    return () => { active = false; };
+  }, []);
+  const { records, observedAt } = snapshot;
   const activePoints = scopeIds.size > 0 ? knowledgePoints.filter((point) => scopeIds.has(point.meta.id)) : knowledgePoints;
   const activeIds = new Set(activePoints.map((point) => point.meta.id));
   const activeRecords = records.filter((record) => activeIds.has(record.knowledgePointId));
@@ -18,7 +25,7 @@ export function ProgressView({ locale, scopeIds, onOpen }: { locale: Locale; sco
     review: activeRecords.filter((record) => record.state === "review").length,
     mastered: activeRecords.filter((record) => record.state === "mastered").length,
   };
-  const due = activeRecords.filter((record) => record.dueAt && Date.parse(record.dueAt) <= Date.now());
+  const due = activeRecords.filter((record) => record.dueAt && Date.parse(record.dueAt) <= observedAt);
   return (
     <section className="dashboard-view">
       <span className="eyebrow">{locale === "zh-CN" ? "设备本地数据" : "On-device data"}</span>

@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 17,
+  "current_iteration": 18,
   "status": "blocked",
   "tasks": [
     {
@@ -249,14 +249,28 @@
       "attempts": 0,
       "last_error": "",
       "notes": "Full verify, 10 applicable Playwright checks across three viewports, manual headed-browser inspection, copyright audit, and both verify plus Playwright from a fresh local clone pass. Visual QA found and fixed a PPC icon selector regression."
+    },
+    {
+      "id": "T018",
+      "title": "Add the check-only ESLint release gate",
+      "type": "verification",
+      "status": "done",
+      "priority": "high",
+      "dependencies": ["T017"],
+      "acceptance": ["Flat ESLint configuration covers authored source and tests", "Lint runs without rewriting files", "The full verify command includes lint"],
+      "verification": ["npm run lint", "npm run verify", "npm run test:e2e"],
+      "files_expected": ["eslint.config.js", "package.json"],
+      "attempts": 0,
+      "last_error": "",
+      "notes": "The final plan audit found and closed a missing lint gate. ESLint 10 with TypeScript and React rules now passes check-only; findings led to purity and unused-import cleanups."
     }
   ],
   "blockers": [
     "GitHub CLI authentication for louisjia2008-ux is invalid; no remote repository, branch push, PR, hosted CI, or Pages deployment can be truthfully verified until the user re-authenticates and authorises that external publication step."
   ],
-  "last_successful_task": "T017",
+  "last_successful_task": "T018",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T00:18:06+08:00"
+  "updated_at": "2026-09-30T00:25:00+08:00"
 }

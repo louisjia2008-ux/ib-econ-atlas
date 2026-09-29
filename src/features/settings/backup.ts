@@ -1,6 +1,6 @@
 import { z } from "zod";
 import type { BackupEnvelope, PracticeAttempt, ProgressRecord, UserPreferences } from "../../types/progress";
-import { defaultPreferences, getAllAttempts, getAllProgress, getDatabase, getPreferences, savePreferences } from "../progress/db";
+import { getAllAttempts, getAllProgress, getDatabase, getPreferences, savePreferences } from "../progress/db";
 
 export const BACKUP_SCHEMA_VERSION = 1;
 export const APP_VERSION = "0.1.0";

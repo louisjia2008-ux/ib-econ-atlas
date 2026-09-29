@@ -32,6 +32,7 @@ npm ci
 npm run content:validate
 npm run content:report
 npm run test:repository
+npm run lint
 npm run typecheck
 npm run test:run
 npm run build

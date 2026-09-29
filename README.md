@@ -44,7 +44,7 @@ Vite 默认使用仓库子路径。打开终端显示的 `/ib-econ-atlas/` URL�
 npm run verify
 ```
 
-该命令依次执行内容与生成报告校验、文档/工作流检查、前端和 Worker TypeScript、Vitest、生产/PWA 构建、PWA 产物审计与密钥扫描。浏览器端到端验收使用：
+该命令依次执行内容与生成报告校验、文档/工作流检查、ESLint 只读检查、前端和 Worker TypeScript、Vitest、生产/PWA 构建、PWA 产物审计与密钥扫描。浏览器端到端验收使用：
 
 ```bash
 npm run test:e2e
