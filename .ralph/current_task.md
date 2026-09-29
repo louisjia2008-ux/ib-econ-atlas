@@ -1,7 +1,7 @@
 # Current Task
 
-- ID: T015
-- Title: Add unconfigured AI UI and secure Worker contract
-- Acceptance: No credential is created or embedded; local search remains primary; the UI represents unconfigured/offline/401/429/timeout states; Worker auth, CORS, limits, grounding and citation validation are mock-tested.
-- Verification: Worker contract tests for 401, 403, 400, 429, 503, unsupported answers and invalid citation removal plus repository secret scan.
-- Intended file scope: AI settings/client, Cloudflare Worker source/config template, grounded knowledge bundle and contract tests.
+- ID: T016
+- Title: Finish open-source docs and GitHub automation
+- Acceptance: README, licenses, notices, original-content and trademark boundaries, contributing rules, PR template, CI, Pages deployment and content reports are complete; workflows perform no local remote action.
+- Verification: workflow YAML structure checks, generated coverage/copyright report, tracked-file audit and documentation link inspection.
+- Intended file scope: repository documentation, GitHub workflows/templates, validation reports and delivery scripts.

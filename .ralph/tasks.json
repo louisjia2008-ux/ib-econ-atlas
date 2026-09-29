@@ -9,7 +9,7 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 14,
+  "current_iteration": 15,
   "status": "running",
   "tasks": [
     {
@@ -212,7 +212,7 @@
       "id": "T015",
       "title": "Add unconfigured AI UI and secure Worker contract",
       "type": "worker",
-      "status": "in_progress",
+      "status": "done",
       "priority": "medium",
       "dependencies": ["T014"],
       "acceptance": ["No credential is created or embedded", "Owner auth, CORS, limits and citation validation are tested", "UI degrades to local search"],
@@ -220,13 +220,13 @@
       "files_expected": ["worker", "src/features/ai"],
       "attempts": 0,
       "last_error": "",
-      "notes": "Live model behavior remains NOT CONFIGURED."
+      "notes": "Live model behavior remains NOT CONFIGURED. Eight Worker and four client contract tests pass; local token storage is excluded from backup; secret scan passed across 251 candidate files."
     },
     {
       "id": "T016",
       "title": "Finish open-source docs and GitHub automation",
       "type": "delivery",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "medium",
       "dependencies": ["T015"],
       "acceptance": ["README, contribution rules, notices, CI and Pages workflow are complete", "No remote action runs locally"],
@@ -252,9 +252,9 @@
     }
   ],
   "blockers": [],
-  "last_successful_task": "T014",
+  "last_successful_task": "T015",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T01:04:00+08:00"
+  "updated_at": "2026-09-30T01:20:00+08:00"
 }

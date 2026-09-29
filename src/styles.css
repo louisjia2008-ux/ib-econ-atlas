@@ -1192,6 +1192,83 @@ input:focus-visible {
   cursor: pointer;
 }
 
+.ai-assistant .ai-question {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.5rem;
+  margin-top: 0.8rem;
+  color: #87a5d4;
+  background: #0a1933;
+  border: 1px solid #29456f;
+  border-radius: 6px;
+}
+
+.ai-question input {
+  min-width: 0;
+  width: 100%;
+  color: white;
+  font-size: 0.66rem;
+  background: transparent;
+  border: 0;
+  outline: 0;
+}
+
+.ai-question input::placeholder {
+  color: #788ba8;
+}
+
+.ai-assistant .ai-ask {
+  justify-content: center;
+  width: 100%;
+  min-height: 34px;
+  margin-top: 0.5rem;
+  color: white;
+  font-weight: 700;
+  background: #2459d3;
+  border: 0;
+  border-radius: 6px;
+}
+
+.ai-assistant .ai-ask:disabled {
+  opacity: 0.45;
+}
+
+.ai-card .ai-error {
+  padding: 0.5rem;
+  color: #f0b9a6;
+  background: #351d22;
+  border: 1px solid #66333a;
+  border-radius: 6px;
+}
+
+.ai-response {
+  padding: 0.6rem;
+  margin-top: 0.6rem;
+  background: #0a1933;
+  border: 1px solid #29456f;
+  border-radius: 7px;
+}
+
+.ai-response > p {
+  margin: 0;
+  color: #d2dceb;
+  font-size: 0.68rem;
+  line-height: 1.6;
+}
+
+.ai-response > div {
+  display: grid;
+  gap: 0.3rem;
+  margin-top: 0.55rem;
+}
+
+.ai-response > div button {
+  justify-content: space-between;
+  color: #a8c8ff;
+  text-align: left;
+}
+
 .search-results {
   padding-top: 4rem;
 }
@@ -1372,6 +1449,65 @@ input:focus-visible {
   font-weight: 600;
   background: white;
   border: 1px solid #d5dde8;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.ai-settings-panel > div:first-child svg {
+  color: var(--cobalt);
+}
+
+.settings-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  color: #506078;
+  font-size: 0.76rem;
+  font-weight: 600;
+}
+
+.settings-toggle input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--cobalt);
+}
+
+.settings-field {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0.8rem 0;
+}
+
+.settings-field > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #667389;
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+.settings-field input {
+  min-height: 42px;
+  padding: 0.55rem 0.7rem;
+  color: #35445e;
+  background: #fbfcfd;
+  border: 1px solid #d6dee9;
+  border-radius: 7px;
+}
+
+.save-settings {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 40px;
+  padding: 0.55rem 0.75rem;
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 700;
+  background: var(--cobalt);
+  border: 0;
   border-radius: 7px;
   cursor: pointer;
 }

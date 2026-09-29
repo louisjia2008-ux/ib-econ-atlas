@@ -1,4 +1,5 @@
-import { BookOpen, ChevronRight, Circle, Clock3, Sparkles } from "lucide-react";
+import { BookOpen, ChevronRight, Circle, Clock3 } from "lucide-react";
+import { AiAssistant } from "../features/ai/AiAssistant";
 import type { KnowledgePoint, Locale } from "../types/content";
 
 interface ContextRailProps {
@@ -49,11 +50,7 @@ export function ContextRail({ point, points, locale, onOpen, onReview, onSetting
         <p>{locale === "zh-CN" ? "仅作章节和页码索引，不提供教材文件。" : "Index only; no coursebook file is distributed."}</p>
       </section>
 
-      <section className="side-card ai-card">
-        <div className="ai-heading"><span><Sparkles size={17} /></span><div><h2>Atlas AI</h2><small>{locale === "zh-CN" ? "尚未配置" : "Not configured"}</small></div></div>
-        <p>{locale === "zh-CN" ? "接入后仅根据站内原创知识库回答；本地学习和搜索不受影响。" : "When enabled, answers are grounded only in Atlas content. Local study and search work without it."}</p>
-        <button type="button" onClick={onSettings}>{locale === "zh-CN" ? "前往设置" : "Open settings"} <ChevronRight size={15} /></button>
-      </section>
+      <AiAssistant point={point} points={points} locale={locale} onOpen={onOpen} onSettings={onSettings} />
     </aside>
   );
 }

@@ -1,5 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import type { BackupEnvelope, PracticeAttempt, ProgressRecord } from "../../types/progress";
+import { saveOwnerAccessToken } from "../ai/credentials";
 import {
   clearLearningData,
   getAllAttempts,
@@ -51,6 +52,7 @@ describe("versioned backup", () => {
     await saveProgress(progress("u1-04-scarcity", "2026-09-29T10:00:00.000Z"));
     await saveAttempt(attempt);
     await savePreferences({ locale: "en", levelFilter: "hl", aiEnabled: true, aiEndpoint: "https://private-worker.example" });
+    saveOwnerAccessToken("private-owner-token");
 
     const serialized = serializeBackup(await createBackup(new Date("2026-09-29T12:00:00.000Z")));
     expect(serialized).not.toContain("private-worker");

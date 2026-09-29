@@ -1,0 +1,16 @@
+name = "ib-econ-atlas-ai"
+main = "src/index.ts"
+compatibility_date = "2026-09-29"
+
+[[kv_namespaces]]
+binding = "AI_RATE_LIMIT"
+id = "replace-with-your-kv-namespace-id"
+
+[vars]
+OPENAI_MODEL = "gpt-6-luna"
+ALLOWED_ORIGIN = "https://louisjia2008-ux.github.io"
+AI_DAILY_LIMIT = "100"
+
+# Configure secrets interactively after deployment approval; never commit them:
+# wrangler secret put OPENAI_API_KEY
+# wrangler secret put OWNER_ACCESS_TOKEN
