@@ -1,5 +1,6 @@
 import { Check, ChevronRight, GraduationCap, Sparkles } from "lucide-react";
 import ReactMarkdown from "react-markdown";
+import { PPCExplorer } from "../features/diagrams/PPCExplorer";
 import type { KnowledgePoint, Locale } from "../types/content";
 
 interface KnowledgeArticleProps {
@@ -99,6 +100,8 @@ export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext }: 
           <ReactMarkdown>{content.explanation}</ReactMarkdown>
         </div>
       </section>
+
+      {point.meta.diagramIds.includes("ppc-core") && <PPCExplorer locale={locale} />}
 
       {content.realWorldExample && (
         <section className="article-section" aria-labelledby="application-title">

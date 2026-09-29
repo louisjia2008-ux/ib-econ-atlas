@@ -1,4 +1,5 @@
 import { execFileSync } from "node:child_process";
+import fs from "node:fs";
 import path from "node:path";
 import {
   contentRoot,
@@ -17,6 +18,10 @@ const implementedIds = listImplementedIds();
 
 function requireCondition(condition, message) {
   if (!condition) failures.push(message);
+}
+
+function diagramExists(diagramId) {
+  return fs.existsSync(path.join(contentRoot, "diagrams", `${diagramId}.svg`));
 }
 
 requireCondition(manifest.version === 1, "Manifest version must be 1.");
@@ -48,6 +53,12 @@ for (const id of implementedIds) {
     requireCondition(meta.textbookRefs.every((ref) => Array.isArray(ref.pages) && ref.pages.length > 0), `${id}: every textbook reference needs pages.`);
     requireCondition(Array.isArray(meta.terms) && meta.terms.length > 0, `${id}: terms are required.`);
     requireCondition(Array.isArray(meta.quizIds) && meta.quizIds.length >= 2, `${id}: at least two quiz IDs are required.`);
+    for (const diagramId of meta.diagramIds ?? []) {
+      requireCondition(
+        diagramExists(diagramId),
+        `${id}: diagram ${diagramId} is missing from content/diagrams.`,
+      );
+    }
     for (const ref of [...(meta.related ?? []), ...(meta.prerequisites ?? [])]) {
       requireCondition(manifestIds.has(ref), `${id}: related/prerequisite ${ref} does not exist in the manifest.`);
     }
@@ -90,4 +101,3 @@ if (failures.length > 0) {
 }
 
 console.log(`Content validation passed: ${entries.length} planned, ${implementedIds.length} implemented${allowIncomplete ? " (draft mode)" : ""}.`);
-
