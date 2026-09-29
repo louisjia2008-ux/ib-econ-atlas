@@ -1,8 +1,7 @@
 # Current Task
 
-- ID: T002
-- Title: Scaffold application, legal files and development toolchain
-- Acceptance: Vite app installs and typechecks; licenses/disclaimer and custom favicon exist.
-- Verification: `npm install`; `npm run typecheck`.
-- Intended file scope: package/tooling configuration, initial `src/`, `public/`, and legal files only.
-
+- ID: T003
+- Title: Define content contracts, manifest and validation pipeline
+- Acceptance: Schemas cover localized content and quiz types; validation rejects wrong counts, missing locale pairs, and invalid references.
+- Verification: `npm run content:validate`.
+- Intended file scope: `src/types`, `content/manifest.yaml`, `scripts/validate-content.mjs`, and one representative content record.
