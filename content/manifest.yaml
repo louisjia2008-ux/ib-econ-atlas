@@ -1,0 +1,223 @@
+version: 1
+curriculum:
+  name: IB Diploma Programme Economics
+  firstAssessment: 2022
+  lastAssessment: 2029
+  officialUrl: https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/economics/
+entries:
+  - id: u1-01-economics-social-science
+    section: "1.1"
+    level: core
+    title: { zh-CN: 经济学作为社会科学, en: Economics as a social science }
+    pages: [3]
+  - id: u1-02-microeconomics
+    section: "1.1"
+    level: core
+    title: { zh-CN: 微观经济学, en: Microeconomics }
+    pages: [3]
+  - id: u1-03-macroeconomics
+    section: "1.1"
+    level: core
+    title: { zh-CN: 宏观经济学, en: Macroeconomics }
+    pages: [3]
+  - id: u1-04-scarcity
+    section: "1.1"
+    level: core
+    title: { zh-CN: 稀缺性, en: Scarcity }
+    pages: [4]
+  - id: u1-05-choice
+    section: "1.1"
+    level: core
+    title: { zh-CN: 选择, en: Choice }
+    pages: [4]
+  - id: u1-06-efficiency
+    section: "1.1"
+    level: core
+    title: { zh-CN: 效率, en: Efficiency }
+    pages: [5]
+  - id: u1-07-equity
+    section: "1.1"
+    level: core
+    title: { zh-CN: 公平, en: Equity }
+    pages: [5]
+  - id: u1-08-economic-wellbeing
+    section: "1.1"
+    level: core
+    title: { zh-CN: 经济福祉, en: Economic well-being }
+    pages: [5]
+  - id: u1-09-sustainability
+    section: "1.1"
+    level: core
+    title: { zh-CN: 可持续性, en: Sustainability }
+    pages: [6]
+  - id: u1-10-change
+    section: "1.1"
+    level: core
+    title: { zh-CN: 变化, en: Change }
+    pages: [6]
+  - id: u1-11-interdependence
+    section: "1.1"
+    level: core
+    title: { zh-CN: 相互依存, en: Interdependence }
+    pages: [6]
+  - id: u1-12-intervention
+    section: "1.1"
+    level: core
+    title: { zh-CN: 干预, en: Intervention }
+    pages: [7]
+  - id: u1-13-factors-of-production
+    section: "1.1"
+    level: core
+    title: { zh-CN: 四类生产要素, en: Factors of production }
+    pages: [7, 8]
+  - id: u1-14-opportunity-cost
+    section: "1.1"
+    level: core
+    title: { zh-CN: 机会成本, en: Opportunity cost }
+    pages: [8, 9]
+  - id: u1-15-free-goods
+    section: "1.1"
+    level: core
+    title: { zh-CN: 免费物品, en: Free goods }
+    pages: [9]
+  - id: u1-16-basic-economic-questions
+    section: "1.2"
+    level: core
+    title: { zh-CN: 三个基本经济问题, en: The three basic economic questions }
+    pages: [10]
+  - id: u1-17-resource-allocation
+    section: "1.2"
+    level: core
+    title: { zh-CN: 资源配置与重新配置, en: Resource allocation and reallocation }
+    pages: [10, 11]
+  - id: u1-18-income-distribution
+    section: "1.2"
+    level: core
+    title: { zh-CN: 收入与产出分配, en: Income and output distribution }
+    pages: [10, 11]
+  - id: u1-19-market-mechanism
+    section: "1.2"
+    level: core
+    title: { zh-CN: 市场机制, en: The market mechanism }
+    pages: [12]
+  - id: u1-20-government-intervention
+    section: "1.2"
+    level: core
+    title: { zh-CN: 政府干预, en: Government intervention }
+    pages: [12]
+  - id: u1-21-free-market-economy
+    section: "1.2"
+    level: core
+    title: { zh-CN: 自由市场经济, en: The free-market economy }
+    pages: [13]
+  - id: u1-22-planned-economy
+    section: "1.2"
+    level: core
+    title: { zh-CN: 计划经济, en: The planned economy }
+    pages: [13]
+  - id: u1-23-mixed-economy
+    section: "1.2"
+    level: core
+    title: { zh-CN: 混合经济, en: The mixed economy }
+    pages: [14]
+  - id: u1-24-economic-models
+    section: "1.3"
+    level: core
+    title: { zh-CN: 经济模型的作用与局限, en: Purposes and limits of economic models }
+    pages: [15]
+  - id: u1-25-ppc-construction
+    section: "1.3"
+    level: core
+    title: { zh-CN: 生产可能性曲线的构造, en: Constructing a PPC }
+    pages: [15, 16]
+  - id: u1-26-ppc-scarcity-choice-cost
+    section: "1.3"
+    level: core
+    title: { zh-CN: PPC中的稀缺、选择与机会成本, en: Scarcity choice and cost on a PPC }
+    pages: [17, 18]
+  - id: u1-27-ppc-unemployment-efficiency
+    section: "1.3"
+    level: core
+    title: { zh-CN: PPC中的失业与生产效率, en: Unemployment and efficiency on a PPC }
+    pages: [16, 19]
+  - id: u1-28-ppc-growth
+    section: "1.3"
+    level: core
+    title: { zh-CN: 实际增长与生产潜力增长, en: Actual and potential growth }
+    pages: [19, 20]
+  - id: u1-29-ppc-opportunity-cost-shapes
+    section: "1.3"
+    level: core
+    title: { zh-CN: 递增与不变机会成本, en: Increasing and constant opportunity cost }
+    pages: [21, 22]
+  - id: u1-30-positive-economics
+    section: "1.4"
+    level: core
+    title: { zh-CN: 实证经济学, en: Positive economics }
+    pages: [23, 24]
+  - id: u1-31-normative-economics
+    section: "1.4"
+    level: core
+    title: { zh-CN: 规范经济学与价值判断, en: Normative economics and value judgements }
+    pages: [23, 24]
+  - id: u1-32-logic-hypotheses-theories
+    section: "1.4"
+    level: core
+    title: { zh-CN: 逻辑、假设、理论与模型, en: Logic hypotheses theories and models }
+    pages: [24, 25]
+  - id: u1-33-ceteris-paribus
+    section: "1.4"
+    level: core
+    title: { zh-CN: 其他条件不变, en: Ceteris paribus }
+    pages: [26]
+  - id: u1-34-evidence-refutation
+    section: "1.4"
+    level: core
+    title: { zh-CN: 经验证据与证伪, en: Empirical evidence and refutation }
+    pages: [27, 28]
+  - id: u1-35-equality-equity
+    section: "1.4"
+    level: core
+    title: { zh-CN: 平等与公平, en: Equality and equity }
+    pages: [30]
+  - id: u1-36-adam-smith
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 亚当·斯密与自由放任, en: Adam Smith and laissez-faire }
+    pages: [31, 32]
+  - id: u1-37-utility-marginalism
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 效用理论与边际主义, en: Utility theory and marginalism }
+    pages: [33, 34]
+  - id: u1-38-says-law
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 萨伊定律, en: Say's Law }
+    pages: [34]
+  - id: u1-39-marxist-critique
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 马克思主义批判, en: The Marxist critique }
+    pages: [35]
+  - id: u1-40-keynesian-revolution
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 凯恩斯革命与宏观政策, en: The Keynesian revolution and macroeconomic policy }
+    pages: [36, 37]
+  - id: u1-41-monetarist-new-classical
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 货币主义与新古典反革命, en: The monetarist and new classical counter-revolution }
+    pages: [38, 39]
+  - id: u1-42-behavioural-economics
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 行为经济学, en: Behavioural economics }
+    pages: [40]
+  - id: u1-43-circular-economy
+    section: "1.5"
+    level: extension
+    title: { zh-CN: 相互依存与循环经济, en: Interdependence and the circular economy }
+    pages: [41]
+

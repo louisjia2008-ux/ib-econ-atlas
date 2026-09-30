@@ -1,0 +1,107 @@
+- id: u1-34-evidence-refutation-flash-1
+  knowledgePointId: u1-34-evidence-refutation
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“经验证据与证伪”。
+    en: Without notes, explain “Empirical evidence and refutation” in your own
+      words.
+  answer:
+    zh-CN: 经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
+    en: Empirical evidence comes from systematic observation, data, or experiment.
+      Refutation occurs when credible evidence conflicts with a testable
+      theoretical prediction, requiring that prediction to be rejected or
+      revised.
+  explanation:
+    zh-CN: 经验研究把理论预测与观察结果比较；反例会削弱或迫使模型修正，但单一研究很少能终结复杂争论。
+    en: Empirical work compares theoretical predictions with observation; contrary
+      evidence weakens or forces revision of a model, although one study rarely
+      ends a complex debate.
+- id: u1-34-evidence-refutation-mcq-1
+  knowledgePointId: u1-34-evidence-refutation
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“经验证据与证伪”？
+    en: Which statement best captures “Empirical evidence and refutation”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 经验研究把理论预测与观察结果比较；反例会削弱或迫使模型修正，但单一研究很少能终结复杂争论。
+      en: Empirical work compares theoretical predictions with observation; contrary
+        evidence weakens or forces revision of a model, although one study
+        rarely ends a complex debate.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
+    en: Empirical evidence comes from systematic observation, data, or experiment.
+      Refutation occurs when credible evidence conflicts with a testable
+      theoretical prediction, requiring that prediction to be rejected or
+      revised.
+- id: u1-34-evidence-refutation-short-1
+  knowledgePointId: u1-34-evidence-refutation
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“经验证据与证伪”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Empirical evidence and refutation”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
+      理论产生明确且可观察的预测；研究设计确定数据和比较方法；证据显示预测是否得到支持；不一致促使检查测量、假设或理论机制 理论必须产生可检验预测。
+    en: Empirical evidence comes from systematic observation, data, or experiment.
+      Refutation occurs when credible evidence conflicts with a testable
+      theoretical prediction, requiring that prediction to be rejected or
+      revised. A theory generates a clear observable prediction; Research design
+      defines data and comparison; Evidence indicates whether the prediction is
+      supported; Conflict prompts review of measurement, assumptions, or
+      mechanism Theory must yield testable predictions.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 经验证据与证伪
+          - 实证检验
+          - 证伪主义
+          - empirical testing
+        en:
+          - Empirical evidence and refutation
+          - empirical test
+          - falsification
+          - evidence-based economics
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 理论产生明确且可观察的预测
+          - 研究设计确定数据和比较方法
+        en:
+          - A theory generates a clear observable prediction
+          - Research design defines data and comparison
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 理论必须产生可检验预测。
+          - 研究设计决定证据能回答什么。
+        en:
+          - Theory must yield testable predictions.
+          - Research design limits what evidence can answer.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

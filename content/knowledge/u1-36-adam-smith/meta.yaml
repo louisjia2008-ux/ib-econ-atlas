@@ -1,0 +1,35 @@
+id: u1-36-adam-smith
+slug: adam-smith
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 31
+      - 32
+prerequisites:
+  - u1-19-market-mechanism
+  - u1-21-free-market-economy
+related:
+  - u1-37-utility-marginalism
+  - u1-38-says-law
+terms:
+  - Adam Smith and laissez-faire
+  - 亚当·斯密与自由放任
+synonyms:
+  zh-CN:
+    - 古典自由主义
+    - 看不见的手
+    - laissez-faire
+  en:
+    - classical liberalism
+    - invisible hand
+    - laissez-faire
+diagramIds: []
+quizIds:
+  - u1-36-adam-smith-flash-1
+  - u1-36-adam-smith-mcq-1
+  - u1-36-adam-smith-short-1

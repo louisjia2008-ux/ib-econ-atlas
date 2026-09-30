@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Production possibility curve</title>
+  <desc id="desc">A bowed production possibility curve with one point inside, one point on, and one point outside the frontier.</desc>
+  <rect width="720" height="440" rx="20" fill="#f7f9fc"/>
+  <g stroke="#dbe3ef" stroke-width="1">
+    <path d="M90 70H650M90 140H650M90 210H650M90 280H650M90 350H650"/>
+    <path d="M160 40V350M230 40V350M300 40V350M370 40V350M440 40V350M510 40V350M580 40V350"/>
+  </g>
+  <path d="M90 36V350H664" fill="none" stroke="#162b4e" stroke-width="3"/>
+  <path d="M96 62C238 66 414 121 607 340" fill="none" stroke="#2459d3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M96 62C238 66 414 121 607 340L96 350Z" fill="#eaf2ff" opacity=".75"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#53637c">
+    <text x="345" y="410" text-anchor="middle">Good A / 产品 A</text>
+    <text x="26" y="205" text-anchor="middle" transform="rotate(-90 26 205)">Good B / 产品 B</text>
+    <text x="540" y="285" fill="#2459d3" font-weight="700">PPC</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
+    <circle cx="275" cy="185" r="8" fill="#ed8b32"/><text x="290" y="180" fill="#90501d">Inside / 曲线内</text>
+    <circle cx="430" cy="170" r="8" fill="#20866a"/><text x="445" y="165" fill="#17634e">On / 曲线上</text>
+    <circle cx="440" cy="82" r="8" fill="#c64b4b"/><text x="455" y="77" fill="#9d3434">Outside / 曲线外</text>
+  </g>
+</svg>

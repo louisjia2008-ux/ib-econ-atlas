@@ -1,0 +1,33 @@
+id: u1-10-change
+slug: change
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 6
+prerequisites:
+  - u1-01-economics-social-science
+related:
+  - u1-11-interdependence
+  - u1-28-ppc-growth
+terms:
+  - Change
+  - 变化
+synonyms:
+  zh-CN:
+    - 经济变化
+    - 动态调整
+    - 结构转型
+  en:
+    - economic change
+    - dynamic adjustment
+    - structural transition
+diagramIds: []
+quizIds:
+  - u1-10-change-flash-1
+  - u1-10-change-mcq-1
+  - u1-10-change-short-1

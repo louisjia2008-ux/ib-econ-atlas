@@ -1,0 +1,35 @@
+id: u1-14-opportunity-cost
+slug: opportunity-cost
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 8
+      - 9
+prerequisites:
+  - u1-04-scarcity
+  - u1-05-choice
+related:
+  - u1-13-factors-of-production
+  - u1-26-ppc-scarcity-choice-cost
+terms:
+  - Opportunity cost
+  - 机会成本
+synonyms:
+  zh-CN:
+    - 替代成本
+    - 次优方案价值
+    - trade-off cost
+  en:
+    - alternative cost
+    - value of next-best alternative
+    - trade-off cost
+diagramIds: []
+quizIds:
+  - u1-14-opportunity-cost-flash-1
+  - u1-14-opportunity-cost-mcq-1
+  - u1-14-opportunity-cost-short-1

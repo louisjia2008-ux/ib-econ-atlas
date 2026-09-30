@@ -1,0 +1,63 @@
+- id: u1-04-scarcity-flash-1
+  knowledgePointId: u1-04-scarcity
+  type: flashcard
+  prompt:
+    zh-CN: 用一句完整的话定义经济学中的稀缺性。
+    en: Define scarcity in economics in one complete sentence.
+  answer:
+    zh-CN: 稀缺性是有限资源无法满足相对无限的需求和欲望，因此必须作出选择。
+    en: Scarcity exists because limited resources cannot satisfy relatively unlimited needs and wants, so choices must be made.
+  explanation:
+    zh-CN: 高质量定义必须同时包含资源有限、欲望相对无限和选择不可避免。
+    en: A strong definition connects limited resources, relatively unlimited wants and unavoidable choice.
+- id: u1-04-scarcity-mcq-1
+  knowledgePointId: u1-04-scarcity
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一种情境最准确地体现了稀缺性？
+    en: Which situation most accurately illustrates scarcity?
+  options:
+    - id: a
+      zh-CN: 商店暂时卖完一种饮料
+      en: A shop temporarily runs out of one drink
+    - id: b
+      zh-CN: 政府必须在医院和公共交通之间分配有限预算
+      en: A government must divide a limited budget between hospitals and public transport
+    - id: c
+      zh-CN: 一件商品的价格下降
+      en: The price of a product falls
+    - id: d
+      zh-CN: 企业拥有未使用的仓库
+      en: A firm owns an unused warehouse
+  correctOptionId: b
+  explanation:
+    zh-CN: 有限预算存在相互竞争的用途，选择一种用途会减少另一种用途可获得的资源。
+    en: The limited budget has competing uses, so choosing one use reduces the resources available to the other.
+- id: u1-04-scarcity-short-1
+  knowledgePointId: u1-04-scarcity
+  type: short-answer
+  prompt:
+    zh-CN: 解释稀缺性，并说明它为什么会导致选择和机会成本。
+    en: Explain scarcity and why it gives rise to choice and opportunity cost.
+  modelAnswer:
+    zh-CN: 资源有限而需求和欲望相对无限，所以所有目标不能同时实现。经济主体必须选择，放弃的最佳可行替代方案就是机会成本。
+    en: Resources are limited while needs and wants are relatively unlimited, so not every objective can be achieved. Agents must choose, and the best feasible alternative forgone is the opportunity cost.
+  keywordGroups:
+    - id: resource-constraint
+      label: { zh-CN: 资源限制, en: Resource constraint }
+      alternatives:
+        zh-CN: [资源有限, 有限资源, 资源约束]
+        en: [limited resources, resource constraint, resources are finite]
+    - id: wants
+      label: { zh-CN: 欲望与目标, en: Wants and objectives }
+      alternatives:
+        zh-CN: [欲望无限, 需求无限, 不能满足所有目标]
+        en: [unlimited wants, wants exceed resources, cannot satisfy every objective]
+    - id: choice-cost
+      label: { zh-CN: 选择与机会成本, en: Choice and opportunity cost }
+      alternatives:
+        zh-CN: [必须选择, 机会成本, 放弃最佳替代方案]
+        en: [must choose, opportunity cost, best alternative forgone]
+  explanation:
+    zh-CN: 完整回答应覆盖资源限制、相对无限的欲望，以及选择产生机会成本三部分。
+    en: A complete answer covers the resource constraint, relatively unlimited wants, and the opportunity cost created by choice.

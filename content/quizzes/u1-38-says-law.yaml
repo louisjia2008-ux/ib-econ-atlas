@@ -1,0 +1,107 @@
+- id: u1-38-says-law-flash-1
+  knowledgePointId: u1-38-says-law
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“萨伊定律”。
+    en: Without notes, explain “Say's Law” in your own words.
+  answer:
+    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+    en: "Say's Law is commonly summarised as supply creating corresponding demand:
+      production generates income, giving the economy purchasing power to absorb
+      output, so broad and lasting deficient demand should not persist in
+      flexible markets."
+  explanation:
+    zh-CN: 萨伊定律强调生产创造收入并支持需求，因而怀疑普遍长期供给过剩；凯恩斯后来挑战了这一自我调整结论。
+    en: Say's Law emphasises that production creates income and supports demand,
+      casting doubt on a persistent general glut; Keynes later challenged the
+      speed and reliability of that adjustment.
+- id: u1-38-says-law-mcq-1
+  knowledgePointId: u1-38-says-law
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“萨伊定律”？
+    en: Which statement best captures “Say's Law”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 萨伊定律强调生产创造收入并支持需求，因而怀疑普遍长期供给过剩；凯恩斯后来挑战了这一自我调整结论。
+      en: Say's Law emphasises that production creates income and supports demand,
+        casting doubt on a persistent general glut; Keynes later challenged the
+        speed and reliability of that adjustment.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+    en: "Say's Law is commonly summarised as supply creating corresponding demand:
+      production generates income, giving the economy purchasing power to absorb
+      output, so broad and lasting deficient demand should not persist in
+      flexible markets."
+- id: u1-38-says-law-short-1
+  knowledgePointId: u1-38-says-law
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“萨伊定律”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Say's Law”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+      企业生产并支付工资、租金与利润；这些要素收入形成购买力；收入用于消费、储蓄或投资融资；价格和利率调整使总体供求重新协调 生产创造收入和潜在购买力。
+    en: "Say's Law is commonly summarised as supply creating corresponding demand:
+      production generates income, giving the economy purchasing power to absorb
+      output, so broad and lasting deficient demand should not persist in
+      flexible markets. Firms produce and pay wages, rent, and profit; Factor
+      incomes create purchasing power; Income funds consumption or saving that
+      can finance investment; Price and interest-rate adjustment recoordinates
+      aggregate supply and demand Production generates income and potential
+      purchasing power."
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 萨伊定律
+          - 供给创造需求
+          - 市场定律
+          - Say law
+        en:
+          - Say's Law
+          - supply creates demand
+          - law of markets
+          - Say law
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 企业生产并支付工资、租金与利润
+          - 这些要素收入形成购买力
+        en:
+          - Firms produce and pay wages, rent, and profit
+          - Factor incomes create purchasing power
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 生产创造收入和潜在购买力。
+          - 古典框架依赖价格与利率调整。
+        en:
+          - Production generates income and potential purchasing power.
+          - The classical account relies on price and interest-rate adjustment.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

@@ -1,0 +1,103 @@
+- id: u1-08-economic-wellbeing-flash-1
+  knowledgePointId: u1-08-economic-wellbeing
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“经济福祉”。
+    en: Without notes, explain “Economic well-being” in your own words.
+  answer:
+    zh-CN: 经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。
+    en: Economic well-being is the extent to which people or groups can meet needs
+      and improve quality of life through income, consumption, public services,
+      health, education, security, and genuine opportunities.
+  explanation:
+    zh-CN: 经济福祉关心人能否过有保障、有选择的生活，收入重要但不是唯一决定因素。
+    en: Economic well-being concerns whether people can live secure lives with
+      meaningful choices; income matters, but it is not the whole outcome.
+- id: u1-08-economic-wellbeing-mcq-1
+  knowledgePointId: u1-08-economic-wellbeing
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“经济福祉”？
+    en: Which statement best captures “Economic well-being”?
+  options:
+    - id: a
+      zh-CN: 经济福祉关心人能否过有保障、有选择的生活，收入重要但不是唯一决定因素。
+      en: Economic well-being concerns whether people can live secure lives with
+        meaningful choices; income matters, but it is not the whole outcome.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。
+    en: Economic well-being is the extent to which people or groups can meet needs
+      and improve quality of life through income, consumption, public services,
+      health, education, security, and genuine opportunities.
+- id: u1-08-economic-wellbeing-short-1
+  knowledgePointId: u1-08-economic-wellbeing
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“经济福祉”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Economic well-being”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。
+      资源与公共服务决定可获得的机会；收入和价格影响实际购买力；健康、教育与安全改变人的能力；这些条件共同形成生活质量与主观体验
+      收入是福祉的手段而非全部。
+    en: Economic well-being is the extent to which people or groups can meet needs
+      and improve quality of life through income, consumption, public services,
+      health, education, security, and genuine opportunities. Resources and
+      public services shape available opportunities; Income and prices determine
+      purchasing power; Health, education, and security expand or restrict
+      capabilities; Together these conditions influence quality of life and
+      lived experience Income is one means to well-being, not the whole of it.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 经济福祉
+          - 生活质量
+          - 经济福利
+          - well-being
+        en:
+          - Economic well-being
+          - quality of life
+          - economic welfare
+          - wellbeing
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 资源与公共服务决定可获得的机会
+          - 收入和价格影响实际购买力
+        en:
+          - Resources and public services shape available opportunities
+          - Income and prices determine purchasing power
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 收入是福祉的手段而非全部。
+          - 公共服务与人的能力同样重要。
+        en:
+          - Income is one means to well-being, not the whole of it.
+          - Public services and human capabilities matter.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

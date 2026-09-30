@@ -1,0 +1,33 @@
+id: u1-21-free-market-economy
+slug: free-market-economy
+section: "1.2"
+level: core
+syllabusRefs:
+  - 1.2 How do economists approach the world?
+textbookRefs:
+  - chapter: "1"
+    section: "1.2"
+    pages:
+      - 13
+prerequisites:
+  - u1-19-market-mechanism
+related:
+  - u1-22-planned-economy
+  - u1-23-mixed-economy
+terms:
+  - The free-market economy
+  - 自由市场经济
+synonyms:
+  zh-CN:
+    - 市场经济
+    - 资本主义市场制度
+    - laissez-faire economy
+  en:
+    - market economy
+    - capitalist market system
+    - laissez-faire economy
+diagramIds: []
+quizIds:
+  - u1-21-free-market-economy-flash-1
+  - u1-21-free-market-economy-mcq-1
+  - u1-21-free-market-economy-short-1

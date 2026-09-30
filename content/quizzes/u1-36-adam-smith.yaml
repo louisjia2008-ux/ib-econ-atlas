@@ -1,0 +1,107 @@
+- id: u1-36-adam-smith-flash-1
+  knowledgePointId: u1-36-adam-smith
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“亚当·斯密与自由放任”。
+    en: Without notes, explain “Adam Smith and laissez-faire” in your own words.
+  answer:
+    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+    en: Adam Smith's classical economics treated specialisation, market exchange,
+      and competition as important sources of growing wealth. Laissez-faire
+      favours avoiding unnecessary state replacement of decentralised market
+      decisions.
+  explanation:
+    zh-CN: 斯密强调分工、交换和竞争如何协调自利行为，但其论述并非主张完全没有法律、公共品或道德约束。
+    en: Smith explained how specialisation, exchange, and competition can coordinate
+      self-interested action, without arguing that law, public goods, or moral
+      constraints are unnecessary.
+- id: u1-36-adam-smith-mcq-1
+  knowledgePointId: u1-36-adam-smith
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“亚当·斯密与自由放任”？
+    en: Which statement best captures “Adam Smith and laissez-faire”?
+  options:
+    - id: a
+      zh-CN: 斯密强调分工、交换和竞争如何协调自利行为，但其论述并非主张完全没有法律、公共品或道德约束。
+      en: Smith explained how specialisation, exchange, and competition can coordinate
+        self-interested action, without arguing that law, public goods, or moral
+        constraints are unnecessary.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+    en: Adam Smith's classical economics treated specialisation, market exchange,
+      and competition as important sources of growing wealth. Laissez-faire
+      favours avoiding unnecessary state replacement of decentralised market
+      decisions.
+- id: u1-36-adam-smith-short-1
+  knowledgePointId: u1-36-adam-smith
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“亚当·斯密与自由放任”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Adam Smith and laissez-faire”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+      分工提高劳动专门化和熟练度；交换使专业化产出能够互换；价格与利润协调分散选择；竞争限制部分私人权力并推动适应 分工和交换支持生产率与财富增长。
+    en: Adam Smith's classical economics treated specialisation, market exchange,
+      and competition as important sources of growing wealth. Laissez-faire
+      favours avoiding unnecessary state replacement of decentralised market
+      decisions. Division of labour increases specialisation and skill; Exchange
+      allows specialised outputs to be traded; Prices and profit coordinate
+      decentralised choices; Competition constrains some private power and
+      encourages adaptation Specialisation and exchange support productivity and
+      wealth.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 亚当·斯密与自由放任
+          - 古典自由主义
+          - 看不见的手
+          - laissez-faire
+        en:
+          - Adam Smith and laissez-faire
+          - classical liberalism
+          - invisible hand
+          - laissez-faire
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 分工提高劳动专门化和熟练度
+          - 交换使专业化产出能够互换
+        en:
+          - Division of labour increases specialisation and skill
+          - Exchange allows specialised outputs to be traded
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 分工和交换支持生产率与财富增长。
+          - 价格和竞争协调分散决定。
+        en:
+          - Specialisation and exchange support productivity and wealth.
+          - Price and competition coordinate decentralised choices.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

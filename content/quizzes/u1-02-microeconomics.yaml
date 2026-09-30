@@ -1,0 +1,101 @@
+- id: u1-02-microeconomics-flash-1
+  knowledgePointId: u1-02-microeconomics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“微观经济学”。
+    en: Without notes, explain “Microeconomics” in your own words.
+  answer:
+    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+    en: Microeconomics studies the choices and interactions of individual economic
+      agents and particular markets, including their effects on prices,
+      quantities, efficiency, and equity.
+  explanation:
+    zh-CN: 微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。
+    en: Microeconomics begins with consumers, workers, firms, and individual markets
+      to explain prices, output, and resource allocation.
+- id: u1-02-microeconomics-mcq-1
+  knowledgePointId: u1-02-microeconomics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“微观经济学”？
+    en: Which statement best captures “Microeconomics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。
+      en: Microeconomics begins with consumers, workers, firms, and individual markets
+        to explain prices, output, and resource allocation.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+    en: Microeconomics studies the choices and interactions of individual economic
+      agents and particular markets, including their effects on prices,
+      quantities, efficiency, and equity.
+- id: u1-02-microeconomics-short-1
+  knowledgePointId: u1-02-microeconomics
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“微观经济学”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Microeconomics”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+      消费者和企业面对约束；他们对价格与激励作出选择；供给和需求在具体市场相遇；形成价格、数量与福利结果 微观分析关注主体和具体市场。
+    en: Microeconomics studies the choices and interactions of individual economic
+      agents and particular markets, including their effects on prices,
+      quantities, efficiency, and equity. Consumers and firms face constraints;
+      They respond to prices and incentives; Supply and demand interact in a
+      particular market; Price, quantity, and welfare outcomes emerge
+      Microeconomics focuses on agents and particular markets.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 微观经济学
+          - 个体经济分析
+          - 市场层面
+          - micro
+        en:
+          - Microeconomics
+          - individual-market analysis
+          - market-level economics
+          - micro
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 消费者和企业面对约束
+          - 他们对价格与激励作出选择
+        en:
+          - Consumers and firms face constraints
+          - They respond to prices and incentives
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 微观分析关注主体和具体市场。
+          - 价格与激励连接个体决定。
+        en:
+          - Microeconomics focuses on agents and particular markets.
+          - Prices and incentives connect individual decisions.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

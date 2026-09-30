@@ -1,0 +1,102 @@
+- id: u1-09-sustainability-flash-1
+  knowledgePointId: u1-09-sustainability
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“可持续性”。
+    en: Without notes, explain “Sustainability” in your own words.
+  answer:
+    zh-CN: 可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。
+    en: Sustainability is the ability of economic activity to continue over time
+      without irreversibly weakening natural systems, social foundations, or the
+      future capacity for production and well-being.
+  explanation:
+    zh-CN: 可持续的经济选择满足当代需要，同时保留未来人满足其需要的资源和生态能力。
+    en: A sustainable economic choice meets present needs while preserving resources
+      and ecological capacity for people in the future.
+- id: u1-09-sustainability-mcq-1
+  knowledgePointId: u1-09-sustainability
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“可持续性”？
+    en: Which statement best captures “Sustainability”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 可持续的经济选择满足当代需要，同时保留未来人满足其需要的资源和生态能力。
+      en: A sustainable economic choice meets present needs while preserving resources
+        and ecological capacity for people in the future.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。
+    en: Sustainability is the ability of economic activity to continue over time
+      without irreversibly weakening natural systems, social foundations, or the
+      future capacity for production and well-being.
+- id: u1-09-sustainability-short-1
+  knowledgePointId: u1-09-sustainability
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“可持续性”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Sustainability”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。
+      生产和消费使用自然与社会资源；部分资源会耗竭或积累污染；当前选择改变未来的可行集合；政策与创新尝试把长期成本纳入决策 当前选择会改变未来的生产可能。
+    en: Sustainability is the ability of economic activity to continue over time
+      without irreversibly weakening natural systems, social foundations, or the
+      future capacity for production and well-being. Production and consumption
+      use natural and social resources; Some resources deplete and some
+      pollution accumulates; Present choices alter the future feasible set;
+      Policy and innovation try to incorporate long-run costs Present choices
+      alter future production possibilities.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 可持续性
+          - 可持续发展
+          - 长期承载力
+          - 代际可持续
+        en:
+          - Sustainability
+          - sustainable development
+          - long-run carrying capacity
+          - intergenerational sustainability
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 生产和消费使用自然与社会资源
+          - 部分资源会耗竭或积累污染
+        en:
+          - Production and consumption use natural and social resources
+          - Some resources deplete and some pollution accumulates
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 当前选择会改变未来的生产可能。
+          - 不可再生资源和生态承载力形成长期约束。
+        en:
+          - Present choices alter future production possibilities.
+          - Finite resources and ecological capacity impose long-run constraints.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

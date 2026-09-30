@@ -1,0 +1,33 @@
+id: u1-35-equality-equity
+slug: equality-equity
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 30
+prerequisites:
+  - u1-07-equity
+  - u1-31-normative-economics
+related:
+  - u1-18-income-distribution
+terms:
+  - Equality and equity
+  - 平等与公平
+synonyms:
+  zh-CN:
+    - 机会平等
+    - 结果平等
+    - equality versus equity
+  en:
+    - equality of opportunity
+    - equality of outcome
+    - equality versus equity
+diagramIds: []
+quizIds:
+  - u1-35-equality-equity-flash-1
+  - u1-35-equality-equity-mcq-1
+  - u1-35-equality-equity-short-1

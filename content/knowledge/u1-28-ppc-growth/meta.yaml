@@ -1,0 +1,36 @@
+id: u1-28-ppc-growth
+slug: ppc-growth
+section: "1.3"
+level: core
+syllabusRefs:
+  - 1.3 Economic models and the PPC
+textbookRefs:
+  - chapter: "1"
+    section: "1.3"
+    pages:
+      - 19
+      - 20
+prerequisites:
+  - u1-25-ppc-construction
+  - u1-27-ppc-unemployment-efficiency
+related:
+  - u1-10-change
+  - u1-13-factors-of-production
+terms:
+  - Actual and potential growth
+  - 实际增长与生产潜力增长
+synonyms:
+  zh-CN:
+    - 实际产出增长
+    - 潜在增长
+    - PPC外移
+  en:
+    - growth in actual output
+    - potential growth
+    - outward PPC shift
+diagramIds:
+  - ppc-core
+quizIds:
+  - u1-28-ppc-growth-flash-1
+  - u1-28-ppc-growth-mcq-1
+  - u1-28-ppc-growth-short-1

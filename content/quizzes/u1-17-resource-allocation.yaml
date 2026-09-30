@@ -1,0 +1,106 @@
+- id: u1-17-resource-allocation-flash-1
+  knowledgePointId: u1-17-resource-allocation
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“资源配置与重新配置”。
+    en: Without notes, explain “Resource allocation and reallocation” in your own
+      words.
+  answer:
+    zh-CN: 资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
+    en: Resource allocation is the assignment of productive factors to different
+      uses. Reallocation changes those uses, while overallocation and
+      underallocation mean that too many or too few resources are devoted to an
+      activity relative to the social optimum.
+  explanation:
+    zh-CN: 资源配置决定生产要素流向何处；价格、政策或偏好变化会触发重新配置，并可纠正过度或不足配置。
+    en: Allocation directs factors of production; changes in prices, policy, or
+      preferences cause reallocation and may address over- or underallocation.
+- id: u1-17-resource-allocation-mcq-1
+  knowledgePointId: u1-17-resource-allocation
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“资源配置与重新配置”？
+    en: Which statement best captures “Resource allocation and reallocation”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 资源配置决定生产要素流向何处；价格、政策或偏好变化会触发重新配置，并可纠正过度或不足配置。
+      en: Allocation directs factors of production; changes in prices, policy, or
+        preferences cause reallocation and may address over- or underallocation.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
+    en: Resource allocation is the assignment of productive factors to different
+      uses. Reallocation changes those uses, while overallocation and
+      underallocation mean that too many or too few resources are devoted to an
+      activity relative to the social optimum.
+- id: u1-17-resource-allocation-short-1
+  knowledgePointId: u1-17-resource-allocation
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“资源配置与重新配置”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Resource allocation and reallocation”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
+      不同用途争夺稀缺要素；价格、收益与政策传递相对价值；资源流向预期回报较高的用途；外部成本或收益可能造成过度或不足配置 配置决定生产要素的用途。
+    en: Resource allocation is the assignment of productive factors to different
+      uses. Reallocation changes those uses, while overallocation and
+      underallocation mean that too many or too few resources are devoted to an
+      activity relative to the social optimum. Alternative uses compete for
+      scarce factors; Prices, returns, and policy signal relative value;
+      Resources move toward uses with higher expected returns; External costs or
+      benefits can create over- or underallocation Allocation determines the
+      uses of productive factors.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 资源配置与重新配置
+          - 资源分配
+          - 重新分配生产要素
+          - 过度配置不足配置
+        en:
+          - Resource allocation and reallocation
+          - resource distribution
+          - factor reallocation
+          - overallocation underallocation
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 不同用途争夺稀缺要素
+          - 价格、收益与政策传递相对价值
+        en:
+          - Alternative uses compete for scarce factors
+          - Prices, returns, and policy signal relative value
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 配置决定生产要素的用途。
+          - 激励变化会推动重新配置。
+        en:
+          - Allocation determines the uses of productive factors.
+          - Changing incentives cause reallocation.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

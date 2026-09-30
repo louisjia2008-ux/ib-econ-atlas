@@ -1,0 +1,26 @@
+id: u1-04-scarcity
+slug: scarcity
+section: "1.1"
+level: core
+syllabusRefs:
+  - "1.1 What is economics?"
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages: [4]
+prerequisites: []
+related:
+  - u1-05-choice
+  - u1-13-factors-of-production
+  - u1-14-opportunity-cost
+terms:
+  - scarcity
+  - 稀缺性
+synonyms:
+  zh-CN: [资源有限, 欲望无限, 稀缺]
+  en: [limited resources, unlimited wants, resource constraint]
+diagramIds: []
+quizIds:
+  - u1-04-scarcity-flash-1
+  - u1-04-scarcity-mcq-1
+  - u1-04-scarcity-short-1

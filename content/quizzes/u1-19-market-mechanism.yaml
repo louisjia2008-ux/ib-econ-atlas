@@ -1,0 +1,104 @@
+- id: u1-19-market-mechanism-flash-1
+  knowledgePointId: u1-19-market-mechanism
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“市场机制”。
+    en: Without notes, explain “The market mechanism” in your own words.
+  answer:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources.
+  explanation:
+    zh-CN: 市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。
+    en: The market mechanism uses changing prices to coordinate decentralised supply
+      and demand and to draw resources toward higher willingness to pay and
+      expected profit.
+- id: u1-19-market-mechanism-mcq-1
+  knowledgePointId: u1-19-market-mechanism
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“市场机制”？
+    en: Which statement best captures “The market mechanism”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。
+      en: The market mechanism uses changing prices to coordinate decentralised supply
+        and demand and to draw resources toward higher willingness to pay and
+        expected profit.
+  correctOptionId: d
+  explanation:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources.
+- id: u1-19-market-mechanism-short-1
+  knowledgePointId: u1-19-market-mechanism
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“市场机制”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The market mechanism”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+      买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。
+    en: The market mechanism is the process through which supply and demand interact
+      so that price signals, incentives, and rationing coordinate buying and
+      selling decisions and allocate resources. Desired purchases and sales do
+      not initially match; Shortage or surplus puts pressure on price; Price
+      changes consumer and producer incentives; Quantities and resources adjust
+      toward a new market outcome Price aggregates information about supply and
+      demand.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 市场机制
+          - 价格机制
+          - 供需机制
+          - 市场配置
+        en:
+          - The market mechanism
+          - price mechanism
+          - supply-demand mechanism
+          - market allocation
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 买方需求与卖方供给不一致
+          - 短缺或剩余推动价格变化
+        en:
+          - Desired purchases and sales do not initially match
+          - Shortage or surplus puts pressure on price
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 价格汇集供需信息。
+          - 价格改变买卖双方的激励。
+        en:
+          - Price aggregates information about supply and demand.
+          - Price changes incentives on both sides of a market.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

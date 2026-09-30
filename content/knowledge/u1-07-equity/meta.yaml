@@ -1,0 +1,34 @@
+id: u1-07-equity
+slug: equity
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 5
+prerequisites:
+  - u1-01-economics-social-science
+related:
+  - u1-06-efficiency
+  - u1-18-income-distribution
+  - u1-35-equality-equity
+terms:
+  - Equity
+  - 公平
+synonyms:
+  zh-CN:
+    - 公正
+    - 分配公平
+    - 经济公平
+  en:
+    - fairness
+    - distributive justice
+    - economic equity
+diagramIds: []
+quizIds:
+  - u1-07-equity-flash-1
+  - u1-07-equity-mcq-1
+  - u1-07-equity-short-1

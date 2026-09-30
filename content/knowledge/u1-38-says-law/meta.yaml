@@ -1,0 +1,33 @@
+id: u1-38-says-law
+slug: says-law
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 34
+prerequisites:
+  - u1-36-adam-smith
+related:
+  - u1-40-keynesian-revolution
+  - u1-41-monetarist-new-classical
+terms:
+  - Say's Law
+  - 萨伊定律
+synonyms:
+  zh-CN:
+    - 供给创造需求
+    - 市场定律
+    - Say law
+  en:
+    - supply creates demand
+    - law of markets
+    - Say law
+diagramIds: []
+quizIds:
+  - u1-38-says-law-flash-1
+  - u1-38-says-law-mcq-1
+  - u1-38-says-law-short-1

@@ -1,0 +1,34 @@
+id: u1-37-utility-marginalism
+slug: utility-marginalism
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 33
+      - 34
+prerequisites:
+  - u1-02-microeconomics
+related:
+  - u1-36-adam-smith
+  - u1-42-behavioural-economics
+terms:
+  - Utility theory and marginalism
+  - 效用理论与边际主义
+synonyms:
+  zh-CN:
+    - 边际革命
+    - 边际效用
+    - marginal analysis
+  en:
+    - marginal revolution
+    - marginal utility
+    - marginal analysis
+diagramIds: []
+quizIds:
+  - u1-37-utility-marginalism-flash-1
+  - u1-37-utility-marginalism-mcq-1
+  - u1-37-utility-marginalism-short-1

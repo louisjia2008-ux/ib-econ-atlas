@@ -1,0 +1,34 @@
+id: u1-31-normative-economics
+slug: normative-economics
+section: "1.4"
+level: core
+syllabusRefs:
+  - 1.4 The methods of economics
+textbookRefs:
+  - chapter: "1"
+    section: "1.4"
+    pages:
+      - 23
+      - 24
+prerequisites:
+  - u1-30-positive-economics
+related:
+  - u1-07-equity
+  - u1-35-equality-equity
+terms:
+  - Normative economics and value judgements
+  - 规范经济学与价值判断
+synonyms:
+  zh-CN:
+    - 价值判断
+    - 应然经济学
+    - normative statement
+  en:
+    - value judgement
+    - prescriptive economics
+    - normative statement
+diagramIds: []
+quizIds:
+  - u1-31-normative-economics-flash-1
+  - u1-31-normative-economics-mcq-1
+  - u1-31-normative-economics-short-1

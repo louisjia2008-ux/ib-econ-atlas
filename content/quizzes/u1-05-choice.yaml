@@ -1,0 +1,101 @@
+- id: u1-05-choice-flash-1
+  knowledgePointId: u1-05-choice
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“选择”。
+    en: Without notes, explain “Choice” in your own words.
+  answer:
+    zh-CN: 选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。
+    en: Choice is the selection of one option, or a combination of options, from two
+      or more feasible alternatives that cannot all be achieved under the
+      available resource constraint.
+  explanation:
+    zh-CN: 稀缺使选择不可避免；经济学关注选择的依据、放弃的方案和不同人承担的后果。
+    en: Scarcity makes choice unavoidable; economics asks what guides a choice,
+      which alternative is forgone, and who bears the consequences.
+- id: u1-05-choice-mcq-1
+  knowledgePointId: u1-05-choice
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“选择”？
+    en: Which statement best captures “Choice”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 稀缺使选择不可避免；经济学关注选择的依据、放弃的方案和不同人承担的后果。
+      en: Scarcity makes choice unavoidable; economics asks what guides a choice,
+        which alternative is forgone, and who bears the consequences.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。
+    en: Choice is the selection of one option, or a combination of options, from two
+      or more feasible alternatives that cannot all be achieved under the
+      available resource constraint.
+- id: u1-05-choice-short-1
+  knowledgePointId: u1-05-choice
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“选择”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Choice”, including one causal mechanism and one important
+      implication.
+  modelAnswer:
+    zh-CN: 选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。
+      目标多于可用资源；经济主体识别可行方案；比较预期收益、成本与价值；采用一个方案并放弃其他用途 选择源于稀缺。
+    en: Choice is the selection of one option, or a combination of options, from two
+      or more feasible alternatives that cannot all be achieved under the
+      available resource constraint. Objectives exceed available resources; The
+      agent identifies feasible alternatives; Expected benefits, costs, and
+      values are compared; One course is selected and other uses are forgone
+      Choice follows from scarcity.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 选择
+          - 取舍
+          - 决策
+          - 经济选择
+        en:
+          - Choice
+          - trade-off
+          - decision
+          - economic choice
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 目标多于可用资源
+          - 经济主体识别可行方案
+        en:
+          - Objectives exceed available resources
+          - The agent identifies feasible alternatives
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 选择源于稀缺。
+          - 比较需要同时考虑成本、收益和价值。
+        en:
+          - Choice follows from scarcity.
+          - Comparison involves costs, benefits, and values.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

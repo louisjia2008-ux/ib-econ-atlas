@@ -1,0 +1,104 @@
+- id: u1-35-equality-equity-flash-1
+  knowledgePointId: u1-35-equality-equity
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“平等与公平”。
+    en: Without notes, explain “Equality and equity” in your own words.
+  answer:
+    zh-CN: 平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。
+    en: Equality is a condition of sameness or smaller differences in resources,
+      opportunities, or outcomes. Equity evaluates whether treatment and
+      distribution are justified by an explicit principle of fairness.
+  explanation:
+    zh-CN: 平等描述相同或较少差异的分配，公平判断分配是否公正；两者可以重合，也可能要求不同待遇。
+    en: Equality describes identical or less dispersed distributions, while equity
+      judges whether a distribution is fair; the two may overlap or equity may
+      require different treatment.
+- id: u1-35-equality-equity-mcq-1
+  knowledgePointId: u1-35-equality-equity
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“平等与公平”？
+    en: Which statement best captures “Equality and equity”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 平等描述相同或较少差异的分配，公平判断分配是否公正；两者可以重合，也可能要求不同待遇。
+      en: Equality describes identical or less dispersed distributions, while equity
+        judges whether a distribution is fair; the two may overlap or equity may
+        require different treatment.
+  correctOptionId: d
+  explanation:
+    zh-CN: 平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。
+    en: Equality is a condition of sameness or smaller differences in resources,
+      opportunities, or outcomes. Equity evaluates whether treatment and
+      distribution are justified by an explicit principle of fairness.
+- id: u1-35-equality-equity-short-1
+  knowledgePointId: u1-35-equality-equity
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“平等与公平”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Equality and equity”, including one causal mechanism and
+      one important implication.
+  modelAnswer:
+    zh-CN: 平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。
+      观察群体间资源、机会或结果差异；确定平等指标和公平原则；判断相同待遇是否能产生公正机会；选择普遍或有针对性的政策回应 平等可被描述和测量。
+    en: Equality is a condition of sameness or smaller differences in resources,
+      opportunities, or outcomes. Equity evaluates whether treatment and
+      distribution are justified by an explicit principle of fairness. Observe
+      differences in resources, opportunity, or outcomes; Select an equality
+      measure and fairness principle; Ask whether identical treatment creates
+      fair opportunity; Choose a universal or targeted policy response Equality
+      can be described and measured.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 平等与公平
+          - 机会平等
+          - 结果平等
+          - equality versus equity
+        en:
+          - Equality and equity
+          - equality of opportunity
+          - equality of outcome
+          - equality versus equity
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 观察群体间资源、机会或结果差异
+          - 确定平等指标和公平原则
+        en:
+          - Observe differences in resources, opportunity, or outcomes
+          - Select an equality measure and fairness principle
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 平等可被描述和测量。
+          - 公平需要规范性标准。
+        en:
+          - Equality can be described and measured.
+          - Equity requires a normative standard.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

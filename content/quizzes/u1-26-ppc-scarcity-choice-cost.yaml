@@ -1,0 +1,105 @@
+- id: u1-26-ppc-scarcity-choice-cost-flash-1
+  knowledgePointId: u1-26-ppc-scarcity-choice-cost
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“PPC中的稀缺、选择与机会成本”。
+    en: Without notes, explain “Scarcity, choice, and cost on a PPC” in your own
+      words.
+  answer:
+    zh-CN: 在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。
+    en: Within the PPC model, the frontier represents scarcity, alternative feasible
+      combinations represent choice, and the reduction in one output when moving
+      along the curve measures the opportunity cost of more of the other.
+  explanation:
+    zh-CN: PPC 外的组合体现当前稀缺，曲线上的不同点体现选择，沿曲线移动时放弃的另一种产出体现机会成本。
+    en: Points beyond a PPC reveal current scarcity, alternative points on the line
+      represent choice, and movement along it reveals the other output forgone
+      as opportunity cost.
+- id: u1-26-ppc-scarcity-choice-cost-mcq-1
+  knowledgePointId: u1-26-ppc-scarcity-choice-cost
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“PPC中的稀缺、选择与机会成本”？
+    en: Which statement best captures “Scarcity, choice, and cost on a PPC”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: PPC 外的组合体现当前稀缺，曲线上的不同点体现选择，沿曲线移动时放弃的另一种产出体现机会成本。
+      en: Points beyond a PPC reveal current scarcity, alternative points on the line
+        represent choice, and movement along it reveals the other output forgone
+        as opportunity cost.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。
+    en: Within the PPC model, the frontier represents scarcity, alternative feasible
+      combinations represent choice, and the reduction in one output when moving
+      along the curve measures the opportunity cost of more of the other.
+- id: u1-26-ppc-scarcity-choice-cost-short-1
+  knowledgePointId: u1-26-ppc-scarcity-choice-cost
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“PPC中的稀缺、选择与机会成本”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Scarcity, choice, and cost on a PPC”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。
+      资源限制形成生产边界；社会在边界上选择一种产出组合；增加横轴产出需要重新配置资源；纵轴产出的减少量成为横轴产出的机会成本 边界体现当前生产限制。
+    en: Within the PPC model, the frontier represents scarcity, alternative feasible
+      combinations represent choice, and the reduction in one output when moving
+      along the curve measures the opportunity cost of more of the other.
+      Resource constraints create a production boundary; Society selects one
+      combination on the boundary; More horizontal-axis output requires
+      reallocation; The lost vertical-axis output is its opportunity cost The
+      frontier displays a current productive constraint.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - PPC中的稀缺、选择与机会成本
+          - PPC取舍
+          - PPC机会成本
+          - production trade-off
+        en:
+          - Scarcity, choice, and cost on a PPC
+          - PPC trade-off
+          - PPC opportunity cost
+          - production trade-off
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 资源限制形成生产边界
+          - 社会在边界上选择一种产出组合
+        en:
+          - Resource constraints create a production boundary
+          - Society selects one combination on the boundary
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 边界体现当前生产限制。
+          - 曲线上的多个组合迫使社会选择。
+        en:
+          - The frontier displays a current productive constraint.
+          - Multiple combinations on the line require choice.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

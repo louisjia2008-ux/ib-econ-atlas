@@ -1,0 +1,35 @@
+id: u1-27-ppc-unemployment-efficiency
+slug: ppc-unemployment-efficiency
+section: "1.3"
+level: core
+syllabusRefs:
+  - 1.3 Economic models and the PPC
+textbookRefs:
+  - chapter: "1"
+    section: "1.3"
+    pages:
+      - 16
+      - 19
+prerequisites:
+  - u1-25-ppc-construction
+related:
+  - u1-06-efficiency
+  - u1-28-ppc-growth
+terms:
+  - Unemployment and efficiency on a PPC
+  - PPC中的失业与生产效率
+synonyms:
+  zh-CN:
+    - PPC失业
+    - 生产低效
+    - inside the PPC
+  en:
+    - PPC unemployment
+    - productive inefficiency
+    - inside the PPC
+diagramIds:
+  - ppc-core
+quizIds:
+  - u1-27-ppc-unemployment-efficiency-flash-1
+  - u1-27-ppc-unemployment-efficiency-mcq-1
+  - u1-27-ppc-unemployment-efficiency-short-1

@@ -1,0 +1,33 @@
+id: u1-11-interdependence
+slug: interdependence
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 6
+prerequisites:
+  - u1-01-economics-social-science
+related:
+  - u1-10-change
+  - u1-43-circular-economy
+terms:
+  - Interdependence
+  - 相互依存
+synonyms:
+  zh-CN:
+    - 经济联系
+    - 相互依赖
+    - 传导网络
+  en:
+    - economic linkage
+    - mutual dependence
+    - transmission network
+diagramIds: []
+quizIds:
+  - u1-11-interdependence-flash-1
+  - u1-11-interdependence-mcq-1
+  - u1-11-interdependence-short-1

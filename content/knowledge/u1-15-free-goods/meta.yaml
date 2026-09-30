@@ -1,0 +1,33 @@
+id: u1-15-free-goods
+slug: free-goods
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 9
+prerequisites:
+  - u1-04-scarcity
+related:
+  - u1-09-sustainability
+  - u1-14-opportunity-cost
+terms:
+  - Free goods
+  - 免费物品
+synonyms:
+  zh-CN:
+    - 非稀缺物品
+    - 无机会成本物品
+    - free resource
+  en:
+    - non-scarce good
+    - zero-opportunity-cost good
+    - free resource
+diagramIds: []
+quizIds:
+  - u1-15-free-goods-flash-1
+  - u1-15-free-goods-mcq-1
+  - u1-15-free-goods-short-1

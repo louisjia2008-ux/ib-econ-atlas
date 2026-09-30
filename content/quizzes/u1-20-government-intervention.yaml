@@ -1,0 +1,104 @@
+- id: u1-20-government-intervention-flash-1
+  knowledgePointId: u1-20-government-intervention
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“政府干预”。
+    en: Without notes, explain “Government intervention” in your own words.
+  answer:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes.
+  explanation:
+    zh-CN: 政府干预试图纠正市场失灵、改善公平或稳定经济，但是否成功取决于工具设计、信息和执行。
+    en: Government intervention seeks to correct market failure, improve equity, or
+      stabilise the economy, but success depends on design, information, and
+      implementation.
+- id: u1-20-government-intervention-mcq-1
+  knowledgePointId: u1-20-government-intervention
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“政府干预”？
+    en: Which statement best captures “Government intervention”?
+  options:
+    - id: a
+      zh-CN: 政府干预试图纠正市场失灵、改善公平或稳定经济，但是否成功取决于工具设计、信息和执行。
+      en: Government intervention seeks to correct market failure, improve equity, or
+        stabilise the economy, but success depends on design, information, and
+        implementation.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes.
+- id: u1-20-government-intervention-short-1
+  knowledgePointId: u1-20-government-intervention
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“政府干预”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Government intervention”, including one causal mechanism
+      and one important implication.
+  modelAnswer:
+    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+      市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。
+    en: Government intervention is public-sector action through taxes, subsidies,
+      regulation, price controls, public provision, information, or
+      macroeconomic policy to alter economic behaviour and outcomes. A market
+      outcome diverges from a policy objective; Government selects an instrument
+      suited to the cause; The instrument changes prices, rights, or available
+      resources; Behavioural responses determine the net social result
+      Intervention can change prices, rules, and public provision.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 政府干预
+          - 公共政策介入
+          - 政府调控
+          - government action
+        en:
+          - Government intervention
+          - public policy action
+          - government regulation
+          - state intervention
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 市场结果偏离政策目标
+          - 政府选择与问题相匹配的工具
+        en:
+          - A market outcome diverges from a policy objective
+          - Government selects an instrument suited to the cause
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 干预可以改变价格、规则和公共供给。
+          - 工具必须对应问题的成因。
+        en:
+          - Intervention can change prices, rules, and public provision.
+          - An instrument should match the source of the problem.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

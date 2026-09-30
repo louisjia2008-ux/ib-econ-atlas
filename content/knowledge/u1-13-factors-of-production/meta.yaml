@@ -1,0 +1,34 @@
+id: u1-13-factors-of-production
+slug: factors-of-production
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 7
+      - 8
+prerequisites:
+  - u1-04-scarcity
+related:
+  - u1-14-opportunity-cost
+  - u1-25-ppc-construction
+terms:
+  - Factors of production
+  - 四类生产要素
+synonyms:
+  zh-CN:
+    - 生产投入
+    - 土地劳动资本企业家
+    - 资源要素
+  en:
+    - productive inputs
+    - land labour capital entrepreneurship
+    - economic resources
+diagramIds: []
+quizIds:
+  - u1-13-factors-of-production-flash-1
+  - u1-13-factors-of-production-mcq-1
+  - u1-13-factors-of-production-short-1

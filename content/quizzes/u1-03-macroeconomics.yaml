@@ -1,0 +1,102 @@
+- id: u1-03-macroeconomics-flash-1
+  knowledgePointId: u1-03-macroeconomics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“宏观经济学”。
+    en: Without notes, explain “Macroeconomics” in your own words.
+  answer:
+    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+    en: Macroeconomics treats the economy as a whole and studies aggregate output,
+      growth, unemployment, inflation, income distribution, and the balance of
+      payments, together with the links among them.
+  explanation:
+    zh-CN: 宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。
+    en: Macroeconomics examines economy-wide performance and how policy influences
+      growth, employment, prices, and external relationships.
+- id: u1-03-macroeconomics-mcq-1
+  knowledgePointId: u1-03-macroeconomics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“宏观经济学”？
+    en: Which statement best captures “Macroeconomics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+    - id: d
+      zh-CN: 宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。
+      en: Macroeconomics examines economy-wide performance and how policy influences
+        growth, employment, prices, and external relationships.
+  correctOptionId: d
+  explanation:
+    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+    en: Macroeconomics treats the economy as a whole and studies aggregate output,
+      growth, unemployment, inflation, income distribution, and the balance of
+      payments, together with the links among them.
+- id: u1-03-macroeconomics-short-1
+  knowledgePointId: u1-03-macroeconomics
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“宏观经济学”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Macroeconomics”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+      家庭、企业和政府作出大量决定；这些决定汇总为总需求和总供给；经济体出现增长、就业与物价变化；财政与货币政策尝试稳定或改变结果 宏观研究经济体整体。
+    en: Macroeconomics treats the economy as a whole and studies aggregate output,
+      growth, unemployment, inflation, income distribution, and the balance of
+      payments, together with the links among them. Households, firms, and
+      governments make many decisions; Those decisions aggregate into
+      economy-wide demand and supply; Growth, employment, and the price level
+      change; Fiscal and monetary policy seek to stabilise or redirect outcomes
+      Macroeconomics studies the economy as a whole.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 宏观经济学
+          - 总体经济
+          - 经济总量
+          - macro
+        en:
+          - Macroeconomics
+          - economy-wide analysis
+          - aggregate economics
+          - macro
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 家庭、企业和政府作出大量决定
+          - 这些决定汇总为总需求和总供给
+        en:
+          - Households, firms, and governments make many decisions
+          - Those decisions aggregate into economy-wide demand and supply
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 宏观研究经济体整体。
+          - 核心指标包括增长、就业与物价稳定。
+        en:
+          - Macroeconomics studies the economy as a whole.
+          - Growth, employment, and price stability are central indicators.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

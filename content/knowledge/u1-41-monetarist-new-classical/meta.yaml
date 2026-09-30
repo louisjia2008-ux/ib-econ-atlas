@@ -1,0 +1,34 @@
+id: u1-41-monetarist-new-classical
+slug: monetarist-new-classical
+section: "1.5"
+level: extension
+syllabusRefs:
+  - 1.5 The evolution of economic thinking
+textbookRefs:
+  - chapter: "1"
+    section: "1.5"
+    pages:
+      - 38
+      - 39
+prerequisites:
+  - u1-40-keynesian-revolution
+related:
+  - u1-03-macroeconomics
+  - u1-33-ceteris-paribus
+terms:
+  - The monetarist and new classical counter-revolution
+  - 货币主义与新古典反革命
+synonyms:
+  zh-CN:
+    - 货币主义
+    - 新古典宏观
+    - 理性预期
+  en:
+    - monetarism
+    - new classical macroeconomics
+    - rational expectations
+diagramIds: []
+quizIds:
+  - u1-41-monetarist-new-classical-flash-1
+  - u1-41-monetarist-new-classical-mcq-1
+  - u1-41-monetarist-new-classical-short-1

@@ -1,0 +1,102 @@
+- id: u1-01-economics-social-science-flash-1
+  knowledgePointId: u1-01-economics-social-science
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“经济学作为社会科学”。
+    en: Without notes, explain “Economics as a social science” in your own words.
+  answer:
+    zh-CN: 经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
+    en: Economics is a social science concerned with how households, firms,
+      governments, and other agents allocate scarce resources, and with the
+      consequences for distribution, efficiency, and well-being.
+  explanation:
+    zh-CN: 经济学研究人在稀缺条件下如何选择，并用模型与证据解释这些选择如何影响他人和社会。
+    en: Economics studies choice under scarcity and uses models and evidence to
+      explain how those choices shape outcomes for other people and society.
+- id: u1-01-economics-social-science-mcq-1
+  knowledgePointId: u1-01-economics-social-science
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“经济学作为社会科学”？
+    en: Which statement best captures “Economics as a social science”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 经济学研究人在稀缺条件下如何选择，并用模型与证据解释这些选择如何影响他人和社会。
+      en: Economics studies choice under scarcity and uses models and evidence to
+        explain how those choices shape outcomes for other people and society.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
+    en: Economics is a social science concerned with how households, firms,
+      governments, and other agents allocate scarce resources, and with the
+      consequences for distribution, efficiency, and well-being.
+- id: u1-01-economics-social-science-short-1
+  knowledgePointId: u1-01-economics-social-science
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“经济学作为社会科学”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Economics as a social science”, including one causal
+      mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
+      资源和时间有限；经济主体在制度约束下选择；选择汇聚为市场或政策结果；经济学用证据检验对这些结果的解释 经济学分析稀缺资源的配置。
+    en: Economics is a social science concerned with how households, firms,
+      governments, and other agents allocate scarce resources, and with the
+      consequences for distribution, efficiency, and well-being. Time and
+      resources are constrained; Agents choose within institutions and
+      incentives; Individual decisions combine into market or policy outcomes;
+      Evidence is used to test economic explanations Economics examines the
+      allocation of scarce resources.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 经济学作为社会科学
+          - 社会科学
+          - 资源配置研究
+          - 经济选择
+        en:
+          - Economics as a social science
+          - social science
+          - study of allocation
+          - economic choice
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 资源和时间有限
+          - 经济主体在制度约束下选择
+        en:
+          - Time and resources are constrained
+          - Agents choose within institutions and incentives
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 经济学分析稀缺资源的配置。
+          - 人的选择受到激励、制度与信息影响。
+        en:
+          - Economics examines the allocation of scarce resources.
+          - Choice responds to incentives, institutions, and information.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

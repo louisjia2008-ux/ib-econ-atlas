@@ -1,0 +1,105 @@
+- id: u1-24-economic-models-flash-1
+  knowledgePointId: u1-24-economic-models
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“经济模型的作用与局限”。
+    en: Without notes, explain “Purposes and limits of economic models” in your own
+      words.
+  answer:
+    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+    en: An economic model is a purposeful simplification of agents, constraints, and
+      relationships, expressed verbally, graphically, or mathematically to
+      explain a mechanism and generate testable predictions.
+  explanation:
+    zh-CN: 经济模型有意简化现实来突出关键关系；好模型不是细节最多，而是在明确假设下对问题有解释力。
+    en: An economic model deliberately simplifies reality to isolate important
+      relationships; the best model is useful for a question under clear
+      assumptions, not the one with the most detail.
+- id: u1-24-economic-models-mcq-1
+  knowledgePointId: u1-24-economic-models
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“经济模型的作用与局限”？
+    en: Which statement best captures “Purposes and limits of economic models”?
+  options:
+    - id: a
+      zh-CN: 经济模型有意简化现实来突出关键关系；好模型不是细节最多，而是在明确假设下对问题有解释力。
+      en: An economic model deliberately simplifies reality to isolate important
+        relationships; the best model is useful for a question under clear
+        assumptions, not the one with the most detail.
+    - id: b
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: a
+  explanation:
+    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+    en: An economic model is a purposeful simplification of agents, constraints, and
+      relationships, expressed verbally, graphically, or mathematically to
+      explain a mechanism and generate testable predictions.
+- id: u1-24-economic-models-short-1
+  knowledgePointId: u1-24-economic-models
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“经济模型的作用与局限”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Purposes and limits of economic models”, including one
+      causal mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+      研究者提出一个具体问题；保留被认为关键的变量和关系；用假设隔离机制并推出预测；把预测与证据比较后修正模型 模型把复杂现实压缩成关键关系。
+    en: An economic model is a purposeful simplification of agents, constraints, and
+      relationships, expressed verbally, graphically, or mathematically to
+      explain a mechanism and generate testable predictions. A researcher
+      specifies a focused question; Variables and relationships judged essential
+      are retained; Assumptions isolate a mechanism and yield predictions;
+      Predictions are compared with evidence and the model is revised Models
+      compress complexity into selected relationships.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 经济模型的作用与局限
+          - 经济抽象
+          - 简化框架
+          - economic representation
+        en:
+          - Purposes and limits of economic models
+          - economic abstraction
+          - simplified framework
+          - economic representation
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 研究者提出一个具体问题
+          - 保留被认为关键的变量和关系
+        en:
+          - A researcher specifies a focused question
+          - Variables and relationships judged essential are retained
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 模型把复杂现实压缩成关键关系。
+          - 假设决定结论的适用范围。
+        en:
+          - Models compress complexity into selected relationships.
+          - Assumptions define the range of a conclusion.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

@@ -1,0 +1,112 @@
+- id: u1-41-monetarist-new-classical-flash-1
+  knowledgePointId: u1-41-monetarist-new-classical
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“货币主义与新古典反革命”。
+    en: Without notes, explain “The monetarist and new classical counter-revolution”
+      in your own words.
+  answer:
+    zh-CN: 货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。
+    en: Monetarism stresses the long-run relationship between money growth, nominal
+      spending, and inflation. New classical macroeconomics adds rational
+      expectations and market clearing to examine why predictable policy may be
+      offset by agents' responses.
+  explanation:
+    zh-CN: 货币主义和新古典理论重新强调货币稳定、市场调整、预期与政策可信度，并质疑积极需求管理能否持续提高实际产出。
+    en: Monetarist and new classical thinking renewed emphasis on monetary
+      stability, market adjustment, expectations, and policy credibility,
+      questioning whether activist demand management can raise real output
+      persistently.
+- id: u1-41-monetarist-new-classical-mcq-1
+  knowledgePointId: u1-41-monetarist-new-classical
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“货币主义与新古典反革命”？
+    en: Which statement best captures “The monetarist and new classical
+      counter-revolution”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 货币主义和新古典理论重新强调货币稳定、市场调整、预期与政策可信度，并质疑积极需求管理能否持续提高实际产出。
+      en: Monetarist and new classical thinking renewed emphasis on monetary
+        stability, market adjustment, expectations, and policy credibility,
+        questioning whether activist demand management can raise real output
+        persistently.
+    - id: c
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: b
+  explanation:
+    zh-CN: 货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。
+    en: Monetarism stresses the long-run relationship between money growth, nominal
+      spending, and inflation. New classical macroeconomics adds rational
+      expectations and market clearing to examine why predictable policy may be
+      offset by agents' responses.
+- id: u1-41-monetarist-new-classical-short-1
+  knowledgePointId: u1-41-monetarist-new-classical
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“货币主义与新古典反革命”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “The monetarist and new classical counter-revolution”,
+      including one causal mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。
+      政策改变货币或总需求路径；家庭和企业形成对通胀与政策的预期；工资、价格和资产选择随预期调整；长期影响更多体现为物价而非持续更高实际产出
+      长期通胀与货币和名义需求有关。
+    en: Monetarism stresses the long-run relationship between money growth, nominal
+      spending, and inflation. New classical macroeconomics adds rational
+      expectations and market clearing to examine why predictable policy may be
+      offset by agents' responses. Policy changes the path of money or aggregate
+      demand; Households and firms form expectations about inflation and policy;
+      Wages, prices, and asset choices adjust to those expectations; Long-run
+      effects appear more in prices than in permanently higher real output
+      Long-run inflation is linked to money and nominal demand.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 货币主义与新古典反革命
+          - 货币主义
+          - 新古典宏观
+          - 理性预期
+        en:
+          - The monetarist and new classical counter-revolution
+          - monetarism
+          - new classical macroeconomics
+          - rational expectations
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 政策改变货币或总需求路径
+          - 家庭和企业形成对通胀与政策的预期
+        en:
+          - Policy changes the path of money or aggregate demand
+          - Households and firms form expectations about inflation and policy
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 长期通胀与货币和名义需求有关。
+          - 预期会改变政策传导。
+        en:
+          - Long-run inflation is linked to money and nominal demand.
+          - Expectations alter policy transmission.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

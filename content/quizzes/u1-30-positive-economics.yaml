@@ -1,0 +1,104 @@
+- id: u1-30-positive-economics-flash-1
+  knowledgePointId: u1-30-positive-economics
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“实证经济学”。
+    en: Without notes, explain “Positive economics” in your own words.
+  answer:
+    zh-CN: 实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。
+    en: Positive economics describes and explains economic reality through
+      statements that can in principle be tested with observation, data, or
+      experiments, without concluding what ought to be done from a value
+      judgement.
+  explanation:
+    zh-CN: 实证经济学提出关于事实、关系或因果的可检验陈述，重点是证据能否支持或反驳。
+    en: Positive economics makes testable claims about facts, relationships, or
+      causes and asks whether evidence supports or challenges them.
+- id: u1-30-positive-economics-mcq-1
+  knowledgePointId: u1-30-positive-economics
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“实证经济学”？
+    en: Which statement best captures “Positive economics”?
+  options:
+    - id: a
+      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
+      en: It concerns personal preference only and has no connection to resources,
+        institutions, or social outcomes.
+    - id: b
+      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
+      en: It means the same economic outcome must arise automatically under every set
+        of conditions.
+    - id: c
+      zh-CN: 实证经济学提出关于事实、关系或因果的可检验陈述，重点是证据能否支持或反驳。
+      en: Positive economics makes testable claims about facts, relationships, or
+        causes and asks whether evidence supports or challenges them.
+    - id: d
+      zh-CN: 它是一项只适用于高收入经济体的会计规则。
+      en: It is an accounting rule that applies only to high-income economies.
+  correctOptionId: c
+  explanation:
+    zh-CN: 实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。
+    en: Positive economics describes and explains economic reality through
+      statements that can in principle be tested with observation, data, or
+      experiments, without concluding what ought to be done from a value
+      judgement.
+- id: u1-30-positive-economics-short-1
+  knowledgePointId: u1-30-positive-economics
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“实证经济学”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Positive economics”, including one causal mechanism and one
+      important implication.
+  modelAnswer:
+    zh-CN: 实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。
+      提出对事实或因果关系的陈述；把概念转化为可观察指标；收集并分析相关证据；暂时支持、修正或反驳陈述 实证陈述涉及可观察事实或因果。
+    en: Positive economics describes and explains economic reality through
+      statements that can in principle be tested with observation, data, or
+      experiments, without concluding what ought to be done from a value
+      judgement. State a claim about a fact or causal relationship; Translate
+      concepts into observable measures; Collect and analyse relevant evidence;
+      Provisionally support, revise, or reject the claim Positive claims concern
+      observable facts or causes.
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 实证经济学
+          - 事实性经济学
+          - 可检验陈述
+          - positive statement
+        en:
+          - Positive economics
+          - descriptive economics
+          - testable statement
+          - positive statement
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 提出对事实或因果关系的陈述
+          - 把概念转化为可观察指标
+        en:
+          - State a claim about a fact or causal relationship
+          - Translate concepts into observable measures
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 实证陈述涉及可观察事实或因果。
+          - 证据可以支持也可以反驳。
+        en:
+          - Positive claims concern observable facts or causes.
+          - Evidence can support or refute them.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

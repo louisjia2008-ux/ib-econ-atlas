@@ -1,0 +1,33 @@
+id: u1-12-intervention
+slug: intervention
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 7
+prerequisites:
+  - u1-02-microeconomics
+related:
+  - u1-19-market-mechanism
+  - u1-20-government-intervention
+terms:
+  - Intervention
+  - 干预
+synonyms:
+  zh-CN:
+    - 政策干预
+    - 政府介入
+    - 经济调控
+  en:
+    - policy intervention
+    - government action
+    - economic regulation
+diagramIds: []
+quizIds:
+  - u1-12-intervention-flash-1
+  - u1-12-intervention-mcq-1
+  - u1-12-intervention-short-1
