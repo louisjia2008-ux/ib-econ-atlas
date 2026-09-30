@@ -46,3 +46,11 @@
 - Verification: PASS - `npm run lint`, `npm run verify`, and `npm run test:e2e`.
 - Findings repaired: removed unused imports, narrowed an unnecessary regular-expression escape, and moved current-time/settings loading to asynchronous snapshots that satisfy React render-purity rules.
 - Fresh-clone evidence: PASS from a no-hardlinks clone of `837c9f0` — clean `npm ci`, expanded `npm run verify`, and complete `npm run test:e2e` all pass.
+
+## 2026-09-30 - T019
+
+- What changed: created the public `louisjia2008-ux/ib-econ-atlas` repository, published safety checkpoint `0d8e11c` as `main`, pushed the complete `codex/unit-1-mvp` history, opened and attached unmerged PR #1, and inspected hosted CI.
+- Verification: PASS - the remote branch SHAs matched `0d8e11c` and `85891dd`; PR #1 is OPEN with base `main` and head `codex/unit-1-mvp`; GitHub-hosted `verify` and `browser` jobs passed.
+- Files changed: Ralph delivery state and final acceptance evidence only; product files were unchanged.
+- Remaining risk: merge, Pages deployment/public-browser acceptance, Safari/Firefox/physical-device behavior, and live optional AI remain unobserved or owner-gated.
+- Next task: explicit owner decision on whether to merge PR #1; do not merge automatically.

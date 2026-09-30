@@ -9,8 +9,8 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 18,
-  "status": "blocked",
+  "current_iteration": 19,
+  "status": "complete",
   "tasks": [
     {
       "id": "T001",
@@ -263,14 +263,35 @@
       "attempts": 0,
       "last_error": "",
       "notes": "The final plan audit found and closed a missing lint gate. ESLint 10 with TypeScript and React rules now passes check-only; findings led to purity and unused-import cleanups."
+    },
+    {
+      "id": "T019",
+      "title": "Publish the feature branch and open the unmerged release PR",
+      "type": "delivery",
+      "status": "done",
+      "priority": "high",
+      "dependencies": ["T018"],
+      "acceptance": [
+        "Public louisjia2008-ux/ib-econ-atlas repository exists",
+        "The original safety checkpoint is the remote main baseline",
+        "The complete codex/unit-1-mvp history is pushed without the ignored source PDF",
+        "An unmerged pull request targets main and hosted CI is inspected"
+      ],
+      "verification": [
+        "git ls-remote origin",
+        "gh pr view",
+        "gh pr checks"
+      ],
+      "files_expected": [".ralph/current_task.md", ".ralph/final_report.md"],
+      "attempts": 0,
+      "last_error": "",
+      "notes": "Created the public repository, published safety baseline 0d8e11c as main, pushed the complete feature history, opened unmerged PR #1, attached it to the task, and observed both hosted CI jobs pass. Merge, Pages publication and Worker deployment remain outside this task."
     }
   ],
-  "blockers": [
-    "GitHub CLI authentication for louisjia2008-ux is invalid; no remote repository, branch push, PR, hosted CI, or Pages deployment can be truthfully verified until the user re-authenticates and authorises that external publication step."
-  ],
-  "last_successful_task": "T018",
+  "blockers": [],
+  "last_successful_task": "T019",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T00:26:52+08:00"
+  "updated_at": "2026-09-30T19:19:00+08:00"
 }
