@@ -1,10 +1,8 @@
 import OpenAI from "openai";
 import knowledgeBundle from "../generated/knowledge.json";
+import type { QuotaNamespace } from "./rate-limit";
 
-interface KVNamespaceLike {
-  get(key: string): Promise<string | null>;
-  put(key: string, value: string, options?: { expirationTtl?: number }): Promise<void>;
-}
+export { DailyAiQuota } from "./rate-limit";
 
 export interface Env {
   OPENAI_API_KEY?: string;
@@ -12,7 +10,7 @@ export interface Env {
   OPENAI_MODEL?: string;
   ALLOWED_ORIGIN?: string;
   AI_DAILY_LIMIT?: string;
-  AI_RATE_LIMIT?: KVNamespaceLike;
+  AI_RATE_LIMIT?: QuotaNamespace;
 }
 
 interface KnowledgeRecord {
@@ -93,14 +91,19 @@ function parsePayload(value: unknown): AskPayload | undefined {
   return { question: candidate.question.trim(), locale: candidate.locale, knowledgePointIds: [...new Set(candidate.knowledgePointIds)] };
 }
 
-async function enforceRateLimit(env: Env, accessToken: string, now = new Date()): Promise<boolean> {
-  if (!env.AI_RATE_LIMIT) return true;
-  const limit = Math.max(1, Number.parseInt(env.AI_DAILY_LIMIT ?? "100", 10) || 100);
+async function enforceRateLimit(env: Env, accessToken: string): Promise<boolean> {
+  if (!env.AI_RATE_LIMIT) throw new Error("QUOTA_NOT_CONFIGURED");
+  const limit = Number(env.AI_DAILY_LIMIT ?? "100");
+  if (!Number.isSafeInteger(limit) || limit < 1) throw new Error("INVALID_QUOTA_LIMIT");
   const tokenHash = [...await sha256(accessToken)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
-  const key = `${now.toISOString().slice(0, 10)}:${tokenHash}`;
-  const current = Number.parseInt(await env.AI_RATE_LIMIT.get(key) ?? "0", 10) || 0;
-  if (current >= limit) return false;
-  await env.AI_RATE_LIMIT.put(key, String(current + 1), { expirationTtl: 172800 });
+  const quota = env.AI_RATE_LIMIT.get(env.AI_RATE_LIMIT.idFromName(tokenHash));
+  const response = await quota.fetch(new Request("https://quota.internal/reserve", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ limit }),
+  }));
+  if (response.status === 429) return false;
+  if (response.status !== 204) throw new Error("QUOTA_UNAVAILABLE");
   return true;
 }
 
@@ -189,11 +192,17 @@ export async function handleRequest(request: Request, env: Env, callModel: Model
   const payload = parsePayload(rawPayload);
   if (!payload) return json({ error: "invalid_request" }, 400, origin);
   if (!env.OPENAI_API_KEY || !env.OPENAI_MODEL) return json({ error: "model_not_configured" }, 503, origin);
-  if (!(await enforceRateLimit(env, token))) return json({ error: "daily_limit_reached" }, 429, origin);
 
   const records = payload.knowledgePointIds.map((id) => knowledgeById.get(id)).filter((record) => record !== undefined);
   if (records.length === 0) {
     return json({ answer: payload.locale === "zh-CN" ? "当前知识库不足以回答这个问题。" : "The current knowledge base is insufficient to answer this question.", citations: [], unsupported: true }, 200, origin);
+  }
+
+  try {
+    if (!(await enforceRateLimit(env, token))) return json({ error: "daily_limit_reached" }, 429, origin);
+  } catch {
+    // Never call the paid model if quota reservation cannot be confirmed.
+    return json({ error: "rate_limit_unavailable" }, 503, origin);
   }
 
   try {
@@ -214,4 +223,10 @@ export async function handleRequest(request: Request, env: Env, callModel: Model
   }
 }
 
-export default { fetch: handleRequest };
+// Cloudflare supplies ExecutionContext as fetch's third argument. Keep it out of
+// handleRequest's test-only model-injection parameter.
+export default {
+  fetch(request: Request, env: Env): Promise<Response> {
+    return handleRequest(request, env);
+  },
+};

@@ -22,4 +22,4 @@ Verify the deployed root, a hash study link, search, review, offline reload, 390
 
 ## Explicitly separate deployment
 
-The Cloudflare Worker is not deployed by the Pages workflow. It requires separate authorisation, its own secrets, KV namespace, spending controls, and live acceptance. A Pages release must say “AI interface reserved; runtime not configured or verified” until those gates pass.
+The Cloudflare Worker is not deployed by the Pages workflow. It requires separate authorisation, its own secrets, SQLite-backed Durable Object namespace, spending controls, and live acceptance. A Pages release must say “AI interface reserved; runtime not configured or verified” until those gates pass.

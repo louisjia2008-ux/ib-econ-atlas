@@ -2,9 +2,13 @@ name = "ib-econ-atlas-ai"
 main = "src/index.ts"
 compatibility_date = "2026-09-29"
 
-[[kv_namespaces]]
-binding = "AI_RATE_LIMIT"
-id = "replace-with-your-kv-namespace-id"
+[[durable_objects.bindings]]
+name = "AI_RATE_LIMIT"
+class_name = "DailyAiQuota"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["DailyAiQuota"]
 
 [vars]
 OPENAI_MODEL = "gpt-6-luna"

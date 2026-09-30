@@ -38,13 +38,55 @@ test("study workspace adapts at the release viewports", async ({ page }, testInf
 test("language switch preserves the knowledge route and reading position", async ({ page }, testInfo) => {
   test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared locale state.");
   await page.goto(studyRoute);
+  await expect(page.locator("html")).toHaveAttribute("lang", "zh-CN");
   await page.locator("#definition-title").scrollIntoViewIfNeeded();
   const before = await page.evaluate(() => window.scrollY);
   await page.getByRole("button", { name: "Switch to English" }).click();
   await expect(page.getByRole("heading", { level: 1, name: "Scarcity" })).toBeVisible();
+  await expect(page.locator("html")).toHaveAttribute("lang", "en");
   await expect(page).toHaveURL(/#\/study\/u1-04-scarcity$/);
   const after = await page.evaluate(() => window.scrollY);
   expect(Math.abs(after - before)).toBeLessThanOrEqual(2);
+
+  // Wait for IndexedDB persistence rather than relying on an arbitrary reload delay.
+  await expect.poll(() => page.evaluate(async () => {
+    const database = await new Promise<IDBDatabase>((resolve, reject) => {
+      const request = indexedDB.open("ib-econ-atlas");
+      request.onsuccess = () => resolve(request.result);
+      request.onerror = () => reject(request.error);
+    });
+    try {
+      return await new Promise<string | undefined>((resolve, reject) => {
+        const request = database.transaction("settings").objectStore("settings").get("preferences");
+        request.onsuccess = () => resolve(request.result?.value.locale);
+        request.onerror = () => reject(request.error);
+      });
+    } finally { database.close(); }
+  })).toBe("en");
+  await page.reload();
+  await expect(page.getByRole("heading", { level: 1, name: "Scarcity" })).toBeVisible();
+  await expect(page.locator("html")).toHaveAttribute("lang", "en");
+  await page.getByRole("button", { name: "切换到中文" }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "稀缺性" })).toBeVisible();
+  await expect(page.locator("html")).toHaveAttribute("lang", "zh-CN");
+});
+
+test("the global level filter applies to progress and resets an active review", async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared level state.");
+  await page.goto("/ib-econ-atlas/#/progress");
+  const newCount = page.locator(".stat-grid article").filter({ hasText: "未学" }).getByRole("strong");
+  await expect(newCount).toHaveText("43");
+  await page.getByRole("button", { name: "SL", exact: true }).click();
+  await expect(newCount).toHaveText("35");
+  await page.getByRole("button", { name: "HL", exact: true }).click();
+  await expect(newCount).toHaveText("35");
+  await page.goto("/ib-econ-atlas/#/review");
+  await page.getByRole("button", { name: "闪卡", exact: true }).click();
+  await page.getByRole("button", { name: "生成复习题组" }).click();
+  await expect(page.getByRole("button", { name: "显示答案" })).toBeVisible();
+  await page.getByRole("button", { name: "SL", exact: true }).click();
+  await expect(page.getByRole("heading", { name: "开始一次复习" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "显示答案" })).toHaveCount(0);
 });
 
 test("bilingual fuzzy search, directory modes, and session scope compose", async ({ page }, testInfo) => {

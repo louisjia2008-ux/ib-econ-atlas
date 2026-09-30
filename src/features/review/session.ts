@@ -1,5 +1,6 @@
 import type { KnowledgePoint, PracticeItem } from "../../types/content";
 import type { ProgressRecord } from "../../types/progress";
+import { levelMatches, type LevelFilter } from "../search/search";
 
 export type ReviewMode = "flashcard" | "mcq" | "short-answer" | "mixed";
 export type ReviewStatusFilter = "new" | "weak" | "due" | "any";
@@ -7,6 +8,7 @@ export type ReviewStatusFilter = "new" | "weak" | "due" | "any";
 export interface ReviewQueueOptions {
   mode: ReviewMode;
   count: number;
+  level: LevelFilter;
   scopeIds: ReadonlySet<string>;
   useScope: boolean;
   status: ReviewStatusFilter;
@@ -29,6 +31,7 @@ function statusMatches(record: ProgressRecord | undefined, status: ReviewStatusF
 export function createReviewQueue(points: KnowledgePoint[], progress: ProgressRecord[], options: ReviewQueueOptions): QueuedPractice[] {
   const progressById = new Map(progress.map((record) => [record.knowledgePointId, record]));
   const pool = points
+    .filter((point) => levelMatches(point.meta.level, options.level))
     .filter((point) => !options.useScope || options.scopeIds.size === 0 || options.scopeIds.has(point.meta.id))
     .filter((point) => statusMatches(progressById.get(point.meta.id), options.status, options.now))
     .flatMap((point) => point.practice

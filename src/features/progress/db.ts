@@ -68,6 +68,20 @@ export async function saveAttempt(attempt: PracticeAttempt): Promise<void> {
   await (await getDatabase()).put("attempts", attempt);
 }
 
+export async function saveReviewResult(record: ProgressRecord, attempt: PracticeAttempt): Promise<void> {
+  const transaction = (await getDatabase()).transaction(["progress", "attempts"], "readwrite");
+  try {
+    await transaction.objectStore("progress").put(record);
+    await transaction.objectStore("attempts").put(attempt);
+    await transaction.done;
+  } catch (error) {
+    // A synchronous IndexedDB error must also roll back any queued write.
+    try { transaction.abort(); } catch { /* The transaction may already have aborted. */ }
+    await transaction.done.catch(() => undefined);
+    throw error;
+  }
+}
+
 export async function getPreferences(): Promise<UserPreferences> {
   const row = await (await getDatabase()).get("settings", "preferences");
   return row?.value ?? { ...defaultPreferences };

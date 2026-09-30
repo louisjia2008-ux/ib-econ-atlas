@@ -89,7 +89,7 @@ OWNER_ACCESS_TOKEN   secret
 OPENAI_MODEL         variable (suggested deployment default: gpt-6-luna)
 ALLOWED_ORIGIN       variable
 AI_DAILY_LIMIT       variable
-AI_RATE_LIMIT        KV binding
+AI_RATE_LIMIT        Durable Object binding (DailyAiQuota)
 ```
 
 仓库不含真实 secrets。未配置时，本地学习、检索、复习、进度和离线功能全部照常工作。完整协议、威胁边界和部署前门禁见 [AI Worker 指南](docs/AI_WORKER.md)。
@@ -98,7 +98,7 @@ AI_RATE_LIMIT        KV binding
 
 项目针对 `https://louisjia2008-ux.github.io/ib-econ-atlas/` 和 `/ib-econ-atlas/` base 构建。`.github/workflows/pages.yml` 只在 `main` 更新时部署 `dist/`；功能分支不会自动成为公开版本。
 
-发布步骤见 [发布指南](docs/PUBLISHING.md)。当前仓库在远程创建和发布前仍需重新完成 `gh` 登录。
+发布步骤见 [发布指南](docs/PUBLISHING.md)。源代码已发布到 `codex/unit-1-mvp`，并提交至 [PR #1](https://github.com/louisjia2008-ux/ib-econ-atlas/pull/1)。PR 仍未合并；合并、GitHub Pages 发布和 Worker 部署需分别获得仓库所有者授权。
 
 ## 课程与资料边界 / Curriculum and source boundaries
 

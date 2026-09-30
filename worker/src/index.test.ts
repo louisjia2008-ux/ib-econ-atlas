@@ -1,11 +1,6 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
+import { MemoryQuotaNamespace } from "../test/quota";
 import { constantTimeTokenEquals, handleRequest, type Env } from "./index";
-
-class MemoryKV {
-  values = new Map<string, string>();
-  async get(key: string) { return this.values.get(key) ?? null; }
-  async put(key: string, value: string) { this.values.set(key, value); }
-}
 
 const baseEnv = (): Env => ({
   OPENAI_API_KEY: "test-only-key",
@@ -13,7 +8,7 @@ const baseEnv = (): Env => ({
   OPENAI_MODEL: "test-model",
   ALLOWED_ORIGIN: "https://louisjia2008-ux.github.io",
   AI_DAILY_LIMIT: "100",
-  AI_RATE_LIMIT: new MemoryKV(),
+  AI_RATE_LIMIT: new MemoryQuotaNamespace(),
 });
 
 function ask(body: unknown, token?: string, origin = "https://louisjia2008-ux.github.io") {
@@ -85,5 +80,96 @@ describe("AI Worker contract", () => {
       unsupported: false,
     }));
     expect(await response.json()).toMatchObject({ unsupported: true, citations: [] });
+  });
+});
+
+
+describe("atomic AI quota", () => {
+  afterEach(() => { vi.useRealTimers(); });
+
+  const model = () => vi.fn(async () => ({ answer: "Scarcity requires choice.", citationIds: ["u1-04-scarcity"], unsupported: false }));
+
+  it("admits exactly the remaining slots across concurrent Worker requests", async () => {
+    const env = baseEnv();
+    env.AI_DAILY_LIMIT = "5";
+    const callModel = model();
+    // Separate Env values emulate distinct Worker isolates sharing one durable namespace.
+    const responses = await Promise.all(Array.from({ length: 50 }, () =>
+      handleRequest(ask(validPayload, "owner-secret"), { ...env }, callModel)));
+    expect(responses.filter((response) => response.status === 200)).toHaveLength(5);
+    expect(responses.filter((response) => response.status === 429)).toHaveLength(45);
+    expect(callModel).toHaveBeenCalledTimes(5);
+    const namespace = env.AI_RATE_LIMIT as MemoryQuotaNamespace;
+    expect([...namespace.stores.keys()]).toEqual([expect.stringMatching(/^[a-f0-9]{64}$/)]);
+    expect(JSON.stringify([...namespace.stores])).not.toContain("owner-secret");
+  });
+
+  it("resets the persisted counter at midnight UTC", async () => {
+    vi.useFakeTimers({ toFake: ["Date"] });
+    vi.setSystemTime(new Date("2026-09-30T23:59:59.000Z"));
+    const env = baseEnv();
+    env.AI_DAILY_LIMIT = "1";
+    const callModel = model();
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(200);
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(429);
+    vi.setSystemTime(new Date("2026-10-01T00:00:00.000Z"));
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(200);
+    expect(callModel).toHaveBeenCalledTimes(2);
+    // A backwards clock must not reset the newer day's budget.
+    vi.setSystemTime(new Date("2026-09-30T23:59:59.000Z"));
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(503);
+    expect(callModel).toHaveBeenCalledTimes(2);
+  });
+
+  it("does not call the model without an atomic quota binding", async () => {
+    const env = baseEnv();
+    delete env.AI_RATE_LIMIT;
+    const callModel = model();
+    const response = await handleRequest(ask(validPayload, "owner-secret"), env, callModel);
+    expect(response.status).toBe(503);
+    expect(await response.json()).toEqual({ error: "rate_limit_unavailable" });
+    expect(callModel).not.toHaveBeenCalled();
+  });
+
+  it.each(["0", "-1", "1.5", "NaN", "100extra", "9007199254740992"])("fails closed on invalid configured limit %s", async (limit) => {
+    const env = baseEnv();
+    env.AI_DAILY_LIMIT = limit;
+    const callModel = model();
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(503);
+    expect(callModel).not.toHaveBeenCalled();
+  });
+
+  it.each(["throw", "unexpected-response"])("does not call the model on quota %s", async (failure) => {
+    const env = baseEnv();
+    env.AI_RATE_LIMIT = {
+      idFromName: (name) => name,
+      get: () => ({ fetch: async () => {
+        if (failure === "throw") throw new Error("storage unavailable");
+        return new Response(null, { status: 200 });
+      } }),
+    };
+    const callModel = model();
+    const response = await handleRequest(ask(validPayload, "owner-secret"), env, callModel);
+    expect(response.status).toBe(503);
+    expect(response.headers.get("access-control-allow-origin")).toBe(env.ALLOWED_ORIGIN);
+    expect(callModel).not.toHaveBeenCalled();
+  });
+
+  it("keeps reservations after a model failure to avoid retry overspending", async () => {
+    const env = baseEnv();
+    env.AI_DAILY_LIMIT = "1";
+    const callModel = vi.fn(async () => { throw new Error("upstream failed"); });
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(502);
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(429);
+    expect(callModel).toHaveBeenCalledTimes(1);
+  });
+
+  it("does not consume a slot for unsupported knowledge IDs", async () => {
+    const env = baseEnv();
+    env.AI_DAILY_LIMIT = "1";
+    const callModel = model();
+    expect((await handleRequest(ask({ ...validPayload, knowledgePointIds: ["unknown"] }, "owner-secret"), env, callModel)).status).toBe(200);
+    expect((await handleRequest(ask(validPayload, "owner-secret"), env, callModel)).status).toBe(200);
+    expect(callModel).toHaveBeenCalledTimes(1);
   });
 });

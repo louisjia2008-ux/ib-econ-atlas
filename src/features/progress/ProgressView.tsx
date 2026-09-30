@@ -3,9 +3,10 @@ import { CheckCircle2, Clock3, Layers3, Sparkles } from "lucide-react";
 import { knowledgePoints } from "../../generated/content";
 import type { Locale } from "../../types/content";
 import type { ProgressRecord } from "../../types/progress";
+import { levelMatches, type LevelFilter } from "../search/search";
 import { getAllProgress } from "./db";
 
-export function ProgressView({ locale, scopeIds, onOpen }: { locale: Locale; scopeIds: ReadonlySet<string>; onOpen: (id: string) => void }) {
+export function ProgressView({ locale, level, scopeIds, onOpen }: { locale: Locale; level: LevelFilter; scopeIds: ReadonlySet<string>; onOpen: (id: string) => void }) {
   const [snapshot, setSnapshot] = useState<{ records: ProgressRecord[]; observedAt: number }>({ records: [], observedAt: 0 });
   useEffect(() => {
     let active = true;
@@ -15,7 +16,7 @@ export function ProgressView({ locale, scopeIds, onOpen }: { locale: Locale; sco
     return () => { active = false; };
   }, []);
   const { records, observedAt } = snapshot;
-  const activePoints = scopeIds.size > 0 ? knowledgePoints.filter((point) => scopeIds.has(point.meta.id)) : knowledgePoints;
+  const activePoints = knowledgePoints.filter((point) => levelMatches(point.meta.level, level) && (scopeIds.size === 0 || scopeIds.has(point.meta.id)));
   const activeIds = new Set(activePoints.map((point) => point.meta.id));
   const activeRecords = records.filter((record) => activeIds.has(record.knowledgePointId));
   const byId = new Map(activeRecords.map((record) => [record.knowledgePointId, record]));

@@ -136,6 +136,10 @@ function App() {
   }, [scopeIds]);
 
   useEffect(() => {
+    document.documentElement.lang = locale;
+  }, [locale]);
+
+  useEffect(() => {
     void getAllProgress().then(setProgressRecords);
   }, [location.pathname]);
 
@@ -245,9 +249,9 @@ function App() {
           {isSearch ? (
             <SearchView query={query} locale={locale} hits={hits} progressRecords={progressRecords} scopeActive={scopeIds.size > 0} onOpen={openPoint} onClearQuery={() => setQuery("")} onClearScope={() => setScopeIds(new Set())} />
           ) : isReview ? (
-            <ReviewView locale={locale} scopeIds={scopeIds} />
+            <ReviewView key={level} locale={locale} level={level} scopeIds={scopeIds} />
           ) : isProgress ? (
-            <ProgressView locale={locale} scopeIds={scopeIds} onOpen={openPoint} />
+            <ProgressView locale={locale} level={level} scopeIds={scopeIds} onOpen={openPoint} />
           ) : isSettings ? (
             <SettingsView locale={locale} />
           ) : (

@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Check, CheckCircle2, ChevronRight, RotateCcw, X } from "lucide-react";
 import { knowledgePoints } from "../../generated/content";
 import type { Locale, ShortAnswerItem } from "../../types/content";
 import type { PracticeAttempt, PracticeResult } from "../../types/progress";
-import { getAllProgress, getProgress, saveAttempt, saveProgress } from "../progress/db";
+import { getAllProgress, getProgress, saveReviewResult } from "../progress/db";
+import type { LevelFilter } from "../search/search";
 import {
   overrideShortAnswer,
   ratingForFlashcard,
@@ -29,7 +30,7 @@ function attemptId(): string {
   return typeof crypto.randomUUID === "function" ? crypto.randomUUID() : `attempt-${Date.now()}-${Math.random().toString(16).slice(2)}`;
 }
 
-export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: ReadonlySet<string> }) {
+export function ReviewView({ locale, level, scopeIds }: { locale: Locale; level: LevelFilter; scopeIds: ReadonlySet<string> }) {
   const [stage, setStage] = useState<ReviewStage>("configure");
   const [mode, setMode] = useState<ReviewMode>("mixed");
   const [statusFilter, setStatusFilter] = useState<ReviewStatusFilter>("any");
@@ -44,6 +45,9 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
   const [shortScore, setShortScore] = useState<ShortAnswerScore | undefined>();
   const [sessionResults, setSessionResults] = useState<PracticeResult[]>([]);
   const [emptyMessage, setEmptyMessage] = useState("");
+  const [isSaving, setIsSaving] = useState(false);
+  const [saveFailed, setSaveFailed] = useState(false);
+  const savingRef = useRef(false);
 
   const current = queue[position];
 
@@ -60,6 +64,7 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
     const nextQueue = createReviewQueue(knowledgePoints, progress, {
       mode,
       count,
+      level,
       scopeIds,
       useScope,
       status: statusFilter,
@@ -73,6 +78,7 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
     setQueue(nextQueue);
     setPosition(0);
     setSessionResults([]);
+    setSaveFailed(false);
     resetAnswer();
     setStage("answering");
   };
@@ -91,43 +97,54 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
   };
 
   const finishItem = async (selfRating: SelfRating) => {
-    if (!current) return;
-    let result: PracticeResult;
-    let rating;
-    let manualOverride = false;
-    if (current.item.type === "flashcard") {
-      result = selfRating === "forgot" ? "incorrect" : selfRating === "difficult" ? "partial" : "correct";
-      rating = ratingForFlashcard(selfRating);
-    } else if (current.item.type === "mcq") {
-      result = automaticResult ?? "incorrect";
-      rating = ratingForResult(result, selfRating);
-    } else {
-      result = shortScore?.result ?? "incorrect";
-      manualOverride = shortScore?.manualOverride ?? false;
-      rating = ratingForResult(result, selfRating);
-    }
+    // Lock synchronously: multiple click/tap events can arrive before React rerenders.
+    if (!current || !revealed || savingRef.current) return;
+    savingRef.current = true;
+    setIsSaving(true);
+    setSaveFailed(false);
+    try {
+      let result: PracticeResult;
+      let rating;
+      let manualOverride = false;
+      if (current.item.type === "flashcard") {
+        result = selfRating === "forgot" ? "incorrect" : selfRating === "difficult" ? "partial" : "correct";
+        rating = ratingForFlashcard(selfRating);
+      } else if (current.item.type === "mcq") {
+        result = automaticResult ?? "incorrect";
+        rating = ratingForResult(result, selfRating);
+      } else {
+        result = shortScore?.result ?? "incorrect";
+        manualOverride = shortScore?.manualOverride ?? false;
+        rating = ratingForResult(result, selfRating);
+      }
 
-    const now = new Date();
-    const existing = await getProgress(current.point.meta.id);
-    const updated = scheduleReview(current.point.meta.id, existing, rating, now);
-    const attempt: PracticeAttempt = {
-      id: attemptId(),
-      knowledgePointId: current.point.meta.id,
-      practiceItemId: current.item.id,
-      mode: current.item.type,
-      result,
-      score: result === "correct" ? 1 : result === "partial" ? 0.65 : 0,
-      rating,
-      manualOverride,
-      createdAt: now.toISOString(),
-    };
-    await Promise.all([saveProgress(updated), saveAttempt(attempt)]);
-    setSessionResults((values) => [...values, result]);
-    if (position >= queue.length - 1) {
-      setStage("complete");
-    } else {
-      setPosition((value) => value + 1);
-      resetAnswer();
+      const now = new Date();
+      const existing = await getProgress(current.point.meta.id);
+      const updated = scheduleReview(current.point.meta.id, existing, rating, now);
+      const attempt: PracticeAttempt = {
+        id: attemptId(),
+        knowledgePointId: current.point.meta.id,
+        practiceItemId: current.item.id,
+        mode: current.item.type,
+        result,
+        score: result === "correct" ? 1 : result === "partial" ? 0.65 : 0,
+        rating,
+        manualOverride,
+        createdAt: now.toISOString(),
+      };
+      await saveReviewResult(updated, attempt);
+      setSessionResults((values) => [...values, result]);
+      if (position >= queue.length - 1) {
+        setStage("complete");
+      } else {
+        setPosition((value) => value + 1);
+        resetAnswer();
+      }
+    } catch {
+      setSaveFailed(true);
+    } finally {
+      savingRef.current = false;
+      setIsSaving(false);
     }
   };
 
@@ -178,9 +195,9 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
   if (!current) return null;
   const item = current.item;
   return (
-    <section className="review-session">
+    <section className="review-session" aria-busy={isSaving}>
       <div className="session-topline">
-        <button type="button" onClick={() => setStage("configure")}>← {locale === "zh-CN" ? "退出" : "Exit"}</button>
+        <button type="button" disabled={isSaving} onClick={() => setStage("configure")}>← {locale === "zh-CN" ? "退出" : "Exit"}</button>
         <span>{position + 1} / {queue.length}</span>
       </div>
       <div className="session-progress"><span style={{ width: `${((position + 1) / queue.length) * 100}%` }} /></div>
@@ -212,7 +229,7 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
               <div className="score-breakdown">
                 <div><strong>{Math.round(shortScore.coverage * 100)}%</strong><span>{locale === "zh-CN" ? "关键词覆盖率" : "keyword coverage"}</span></div>
                 <ul>{shortScore.groups.map((group) => <li key={group.id} className={group.matched ? "hit" : "miss"}>{group.matched ? <Check size={14} /> : <X size={14} />}<span>{group.label}</span><small>{group.matchedAlternative ?? (locale === "zh-CN" ? "未命中" : "missing")}</small></li>)}</ul>
-                <div className="manual-override"><span>{locale === "zh-CN" ? "修正最终判定" : "Override final result"}</span>{(["incorrect", "partial", "correct"] as const).map((result) => <button type="button" key={result} className={shortScore.result === result ? "selected" : ""} onClick={() => setShortScore(overrideShortAnswer(shortScore, result))}>{result === "incorrect" ? (locale === "zh-CN" ? "错误" : "Incorrect") : result === "partial" ? (locale === "zh-CN" ? "部分正确" : "Partial") : (locale === "zh-CN" ? "正确" : "Correct")}</button>)}</div>
+                <div className="manual-override"><span>{locale === "zh-CN" ? "修正最终判定" : "Override final result"}</span>{(["incorrect", "partial", "correct"] as const).map((result) => <button type="button" disabled={isSaving} key={result} className={shortScore.result === result ? "selected" : ""} onClick={() => setShortScore(overrideShortAnswer(shortScore, result))}>{result === "incorrect" ? (locale === "zh-CN" ? "错误" : "Incorrect") : result === "partial" ? (locale === "zh-CN" ? "部分正确" : "Partial") : (locale === "zh-CN" ? "正确" : "Correct")}</button>)}</div>
               </div>
             )}
           </div>
@@ -223,8 +240,10 @@ export function ReviewView({ locale, scopeIds }: { locale: Locale; scopeIds: Rea
         {!revealed && item.type !== "flashcard" && <button className="answer-submit" type="button" disabled={item.type === "mcq" ? !selectedOption : !answer.trim()} onClick={submitObjectiveAnswer}>{locale === "zh-CN" ? "提交答案" : "Submit answer"}</button>}
 
         {revealed && (
-          <div className="self-rating"><span>{locale === "zh-CN" ? "这次回忆感觉如何？" : "How did recall feel?"}</span><div>{selfRatings.map((rating) => <button type="button" key={rating.id} onClick={() => void finishItem(rating.id)}>{locale === "zh-CN" ? rating.zh : rating.en}</button>)}</div></div>
+          <div className="self-rating"><span>{locale === "zh-CN" ? "这次回忆感觉如何？" : "How did recall feel?"}</span><div>{selfRatings.map((rating) => <button type="button" disabled={isSaving} key={rating.id} onClick={() => void finishItem(rating.id)}>{locale === "zh-CN" ? rating.zh : rating.en}</button>)}</div></div>
         )}
+        {isSaving && <p role="status">{locale === "zh-CN" ? "正在保存……" : "Saving…"}</p>}
+        {saveFailed && <p className="review-alert" role="alert">{locale === "zh-CN" ? "保存失败，进度未更改。请重试。" : "Could not save. Your progress is unchanged. Please try again."}</p>}
       </article>
     </section>
   );

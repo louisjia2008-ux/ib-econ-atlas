@@ -5,6 +5,7 @@ import type { ProgressRecord } from "../../types/progress";
 import { classifyCoverage, overrideShortAnswer, ratingForFlashcard, ratingForResult, scoreShortAnswer } from "./scoring";
 import { scheduleReview } from "./scheduler";
 import { createReviewQueue } from "./session";
+import { makeKnowledgePoint } from "../../test/knowledgePoint";
 
 const scarcity = knowledgePoints.find((point) => point.meta.id === "u1-04-scarcity");
 const scarcityShort = scarcity?.practice.find((item): item is ShortAnswerItem => item.type === "short-answer");
@@ -79,6 +80,7 @@ describe("review queue", () => {
     const queue = createReviewQueue(knowledgePoints, [], {
       mode: "short-answer",
       count: 20,
+      level: "all",
       scopeIds: new Set(["u1-04-scarcity"]),
       useScope: true,
       status: "new",
@@ -88,5 +90,41 @@ describe("review queue", () => {
     expect(queue).toHaveLength(1);
     expect(queue[0]?.point.meta.id).toBe("u1-04-scarcity");
     expect(queue[0]?.item.type).toBe("short-answer");
+  });
+
+  const points = [makeKnowledgePoint("core", "core"), makeKnowledgePoint("hl", "hl"), makeKnowledgePoint("extension", "extension")];
+  it.each([
+    ["sl", ["core"]],
+    ["hl", ["core", "hl"]],
+    ["all", ["core", "extension", "hl"]],
+  ] as const)("applies %s even when no exam scope is active", (level, expected) => {
+    const queue = createReviewQueue(points, [], {
+      mode: "flashcard", count: 20, level, scopeIds: new Set(), useScope: false, status: "any", now: new Date(),
+    });
+    expect(queue.map(({ point }) => point.meta.id).sort()).toEqual(expected);
+  });
+
+  it.each([
+    ["sl", []],
+    ["hl", ["hl"]],
+    ["all", ["extension", "hl"]],
+  ] as const)("intersects %s with scope and due status", (level, expected) => {
+    const now = new Date("2026-09-30T00:00:00Z");
+    const progress: ProgressRecord[] = points.map((point) => ({
+      knowledgePointId: point.meta.id, state: "review", successfulReviews: 1,
+      dueAt: "2026-09-29T00:00:00Z", updatedAt: "2026-09-28T00:00:00Z",
+    }));
+    const queue = createReviewQueue(points, progress, {
+      mode: "mcq", count: 20, level, scopeIds: new Set(["hl", "extension"]), useScope: true, status: "due", now,
+    });
+    expect(queue.map(({ point }) => point.meta.id).sort()).toEqual(expected);
+    expect(queue.every(({ item }) => item.type === "mcq")).toBe(true);
+  });
+
+  it("keeps level filtering when an existing exam scope is explicitly ignored", () => {
+    const queue = createReviewQueue(points, [], {
+      mode: "flashcard", count: 20, level: "hl", scopeIds: new Set(["extension"]), useScope: false, status: "new", now: new Date(),
+    });
+    expect(queue.map(({ point }) => point.meta.id).sort()).toEqual(["core", "hl"]);
   });
 });
