@@ -1,0 +1,101 @@
+- id: u2-19-ped-flash-1
+  knowledgePointId: u2-19-ped
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求价格弹性 PED”，并说明一个关键条件。
+    en: Explain Price elasticity of demand and state one important condition.
+  answer:
+    zh-CN: PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。
+    en: "PED measures the responsiveness of quantity demanded to own-price changes:
+      percentage change in quantity demanded divided by percentage change in
+      price. Classification normally uses its absolute value."
+  explanation:
+    zh-CN: 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。
+    en: Elasticity is a ratio of percentage changes, not the slope or a ratio of
+      absolute changes.
+- id: u2-19-ped-mcq-1
+  knowledgePointId: u2-19-ped
+  type: mcq
+  prompt:
+    zh-CN: 价格涨 5%、需求量降 15%，PED 绝对值是多少？
+    en: Price rises 5% and quantity falls 15%. What is the magnitude of PED?
+  options:
+    - id: a
+      zh-CN: "0.33"
+      en: "0.33"
+    - id: b
+      zh-CN: "10"
+      en: "10"
+    - id: c
+      zh-CN: "3"
+      en: "3"
+    - id: d
+      zh-CN: "75"
+      en: "75"
+  correctOptionId: c
+  explanation:
+    zh-CN: 3。 原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为
+      2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。
+    en: "3. Illustrative example: price rises 10% and quantity demanded falls 20%,
+      so PED is -2, with magnitude two: elastic. State whether base-period or
+      midpoint percentages are used and do not mix denominators within a
+      calculation. Elasticity is a ratio of percentage changes, not the slope or
+      a ratio of absolute changes."
+- id: u2-19-ped-short-1
+  knowledgePointId: u2-19-ped
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求价格弹性 PED的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Price elasticity of demand and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。
+      先计算数量与价格的百分比变化；用数量百分比除以价格百分比；绝对值大于一表示富有弹性 原创例：价格上涨 10%，需求量下降
+      20%，PED=-2，绝对值为 2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。
+    en: "PED measures the responsiveness of quantity demanded to own-price changes:
+      percentage change in quantity demanded divided by percentage change in
+      price. Classification normally uses its absolute value. Calculate
+      percentage changes in quantity and price; divide the quantity percentage
+      by the price percentage; magnitude above one means elastic demand
+      Illustrative example: price rises 10% and quantity demanded falls 20%, so
+      PED is -2, with magnitude two: elastic. State whether base-period or
+      midpoint percentages are used and do not mix denominators within a
+      calculation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 百分比
+        en: percentage
+      alternatives:
+        zh-CN:
+          - 百分比
+          - 先计算数量与价格的百分比变化
+        en:
+          - percentage
+          - Calculate percentage changes in quantity and price
+    - id: mechanism-2
+      label:
+        zh-CN: 自身价格
+        en: own price
+      alternatives:
+        zh-CN:
+          - 自身价格
+          - 用数量百分比除以价格百分比
+        en:
+          - own price
+          - divide the quantity percentage by the price percentage
+    - id: mechanism-3
+      label:
+        zh-CN: 绝对值
+        en: absolute value
+      alternatives:
+        zh-CN:
+          - 绝对值
+          - 绝对值大于一表示富有弹性
+        en:
+          - absolute value
+          - magnitude above one means elastic demand
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,101 @@
+- id: u2-07-supply-shifts-flash-1
+  knowledgePointId: u2-07-supply-shifts
+  type: flashcard
+  prompt:
+    zh-CN: 解释“供给的非价格决定因素”，并说明一个关键条件。
+    en: Explain Non-price determinants of supply and state one important condition.
+  answer:
+    zh-CN: 投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。
+    en: Input costs, technology, taxes and subsidies, producer numbers,
+      related-product prices and natural conditions can shift the entire supply
+      curve.
+  explanation:
+    zh-CN: 成本变化移动供给，自身价格变化通常沿供给移动。
+    en: Changing costs shifts supply; changing the output's own price normally moves
+      along supply.
+- id: u2-07-supply-shifts-mcq-1
+  knowledgePointId: u2-07-supply-shifts
+  type: mcq
+  prompt:
+    zh-CN: 更便宜的生产技术通常怎样影响供给？
+    en: How does a cheaper production technique normally affect supply?
+  options:
+    - id: a
+      zh-CN: 供给左移
+      en: Supply shifts left
+    - id: b
+      zh-CN: 仅沿供给向上移动
+      en: Only move up along supply
+    - id: c
+      zh-CN: 供给右移
+      en: Supply shifts right
+    - id: d
+      zh-CN: 需求必然右移
+      en: Demand necessarily shifts right
+  correctOptionId: c
+  explanation:
+    zh-CN: 供给右移。
+      原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。
+      成本变化移动供给，自身价格变化通常沿供给移动。
+    en: "Supply shifts right. Illustrative example: dearer flour raises bread
+      production costs. At each bread price, some previously profitable output
+      becomes unprofitable, shifting bread supply left. Showing this as a demand
+      reduction confuses the two sides of the market. Changing costs shifts
+      supply; changing the output's own price normally moves along supply."
+- id: u2-07-supply-shifts-short-1
+  knowledgePointId: u2-07-supply-shifts
+  type: short-answer
+  prompt:
+    zh-CN: 解释供给的非价格决定因素的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Non-price determinants of supply and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。
+      单位生产成本或生产能力改变；相同产品价格下生产意愿改变；供给向右或向左移动
+      原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。
+    en: "Input costs, technology, taxes and subsidies, producer numbers,
+      related-product prices and natural conditions can shift the entire supply
+      curve. Unit costs or productive capacity change; willingness to produce
+      changes at the same output price; supply shifts right or left Illustrative
+      example: dearer flour raises bread production costs. At each bread price,
+      some previously profitable output becomes unprofitable, shifting bread
+      supply left. Showing this as a demand reduction confuses the two sides of
+      the market."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 成本
+        en: cost
+      alternatives:
+        zh-CN:
+          - 成本
+          - 单位生产成本或生产能力改变
+        en:
+          - cost
+          - Unit costs or productive capacity change
+    - id: mechanism-2
+      label:
+        zh-CN: 每个价格
+        en: every price
+      alternatives:
+        zh-CN:
+          - 每个价格
+          - 相同产品价格下生产意愿改变
+        en:
+          - every price
+          - willingness to produce changes at the same output price
+    - id: mechanism-3
+      label:
+        zh-CN: 供给
+        en: supply
+      alternatives:
+        zh-CN:
+          - 供给
+          - 供给向右或向左移动
+        en:
+          - supply
+          - supply shifts right or left
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

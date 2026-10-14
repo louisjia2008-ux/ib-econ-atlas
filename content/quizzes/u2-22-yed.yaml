@@ -1,0 +1,103 @@
+- id: u2-22-yed-flash-1
+  knowledgePointId: u2-22-yed
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求收入弹性 YED”，并说明一个关键条件。
+    en: Explain Income elasticity of demand and state one important condition.
+  answer:
+    zh-CN: YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。
+    en: YED is percentage change in quantity demanded divided by percentage change
+      in income. Positive values indicate normal goods and negative values
+      inferior goods. Values above one usually indicate luxuries; between zero
+      and one, necessities.
+  explanation:
+    zh-CN: YED 分类保留正负号，不能像 PED 分类一样去掉符号。
+    en: Retain the sign when classifying YED; do not discard it as with PED
+      magnitude classifications.
+- id: u2-22-yed-mcq-1
+  knowledgePointId: u2-22-yed
+  type: mcq
+  prompt:
+    zh-CN: YED=-0.4 的商品属于什么？
+    en: A good has YED=-0.4. How is it classified?
+  options:
+    - id: a
+      zh-CN: 奢侈品
+      en: Luxury
+    - id: b
+      zh-CN: 劣等品
+      en: Inferior good
+    - id: c
+      zh-CN: 正常必需品
+      en: Normal necessity
+    - id: d
+      zh-CN: 公共物品
+      en: Public good
+  correctOptionId: b
+  explanation:
+    zh-CN: 劣等品。 原创例：收入增加 10%，某商品购买量下降
+      5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 YED 分类保留正负号，不能像 PED
+      分类一样去掉符号。
+    en: "Inferior good. Illustrative example: income rises 10% and purchases of a
+      good fall 5%, so YED is -0.5: an inferior good. Inferior describes the
+      income-demand relationship, not a moral judgement or necessarily poor
+      quality. Retain the sign when classifying YED; do not discard it as with
+      PED magnitude classifications."
+- id: u2-22-yed-short-1
+  knowledgePointId: u2-22-yed
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求收入弹性 YED的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Income elasticity of demand and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。
+      收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED 原创例：收入增加 10%，某商品购买量下降
+      5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。
+    en: "YED is percentage change in quantity demanded divided by percentage change
+      in income. Positive values indicate normal goods and negative values
+      inferior goods. Values above one usually indicate luxuries; between zero
+      and one, necessities. Income changes with product price held constant;
+      consumers reallocate budgets; the direction and proportion of quantity
+      response determine YED Illustrative example: income rises 10% and
+      purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior
+      describes the income-demand relationship, not a moral judgement or
+      necessarily poor quality."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 收入改变而商品价格保持不变
+        en:
+          - income
+          - Income changes with product price held constant
+    - id: mechanism-2
+      label:
+        zh-CN: 正常品
+        en: normal good
+      alternatives:
+        zh-CN:
+          - 正常品
+          - 消费者重新配置预算
+        en:
+          - normal good
+          - consumers reallocate budgets
+    - id: mechanism-3
+      label:
+        zh-CN: 劣等品
+        en: inferior good
+      alternatives:
+        zh-CN:
+          - 劣等品
+          - 数量反应的方向和比例确定 YED
+        en:
+          - inferior good
+          - the direction and proportion of quantity response determine YED
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

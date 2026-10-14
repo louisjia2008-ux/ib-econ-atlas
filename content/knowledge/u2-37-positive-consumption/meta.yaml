@@ -1,0 +1,41 @@
+id: u2-37-positive-consumption
+slug: positive-consumption
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "6"
+    section: "6.2"
+    pages:
+      - 177
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+terms:
+  - 正消费外部性与优值品
+  - Positive consumption externalities and merit goods
+  - 第三方收益
+  - external benefit
+  - MSB
+  - MSB
+  - 消费不足
+  - underconsumption
+synonyms:
+  zh-CN:
+    - 第三方收益
+    - MSB
+    - 消费不足
+  en:
+    - external benefit
+    - MSB
+    - underconsumption
+diagramIds:
+  - positive-consumption
+quizIds:
+  - u2-37-positive-consumption-flash-1
+  - u2-37-positive-consumption-mcq-1
+  - u2-37-positive-consumption-short-1

@@ -1,0 +1,41 @@
+id: u2-33-market-failure
+slug: market-failure
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.2"
+    pages:
+      - 147
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+  - u2-36-positive-production
+terms:
+  - 市场失灵与社会最优
+  - Market failure and the social optimum
+  - 社会边际成本
+  - marginal social cost
+  - 社会边际收益
+  - marginal social benefit
+  - 配置效率
+  - allocative efficiency
+synonyms:
+  zh-CN:
+    - 社会边际成本
+    - 社会边际收益
+    - 配置效率
+  en:
+    - marginal social cost
+    - marginal social benefit
+    - allocative efficiency
+diagramIds:
+  - negative-production
+quizIds:
+  - u2-33-market-failure-flash-1
+  - u2-33-market-failure-mcq-1
+  - u2-33-market-failure-short-1

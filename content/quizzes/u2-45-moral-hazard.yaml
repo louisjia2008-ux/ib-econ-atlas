@@ -1,0 +1,98 @@
+- id: u2-45-moral-hazard-flash-1
+  knowledgePointId: u2-45-moral-hazard
+  type: flashcard
+  prompt:
+    zh-CN: 解释“道德风险”，并说明一个关键条件。
+    en: Explain Moral hazard and state one important condition.
+  answer:
+    zh-CN: 道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。
+    en: Moral hazard occurs after a contract when actions are hard to observe and a
+      party does not bear their full consequences, encouraging changes in risk
+      or effort.
+  explanation:
+    zh-CN: 道德风险是激励结构，不是对当事人的道德判决。
+    en: Moral hazard describes incentives, not a moral judgement about the person.
+- id: u2-45-moral-hazard-mcq-1
+  knowledgePointId: u2-45-moral-hazard
+  type: mcq
+  prompt:
+    zh-CN: 购买保险后减少预防，主要属于什么？
+    en: Reducing precautions after buying insurance primarily illustrates what?
+  options:
+    - id: a
+      zh-CN: 道德风险
+      en: Moral hazard
+    - id: b
+      zh-CN: 逆向选择
+      en: Adverse selection
+    - id: c
+      zh-CN: 需求定律失效必然
+      en: Necessary failure of the law of demand
+    - id: d
+      zh-CN: 纯公共物品
+      en: A pure public good
+  correctOptionId: a
+  explanation:
+    zh-CN: 道德风险。 原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。
+      道德风险是激励结构，不是对当事人的道德判决。
+    en: "Moral hazard. Illustrative example: full insurance may reduce a driver's
+      precautions against theft. A deductible shares losses and monitoring can
+      reduce risk, but an excessive deductible weakens protection. Incentives
+      are not the only evaluation criterion. Moral hazard describes incentives,
+      not a moral judgement about the person."
+- id: u2-45-moral-hazard-short-1
+  knowledgePointId: u2-45-moral-hazard
+  type: short-answer
+  prompt:
+    zh-CN: 解释道德风险的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Moral hazard and apply it to an example of your
+      own.
+  modelAnswer:
+    zh-CN: 道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。
+      合约分担风险；行为难被完全监测；当事人可能采取更多风险或更少预防
+      原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。
+    en: "Moral hazard occurs after a contract when actions are hard to observe and a
+      party does not bear their full consequences, encouraging changes in risk
+      or effort. A contract shares risk; actions cannot be fully monitored; a
+      party may take more risk or less precaution Illustrative example: full
+      insurance may reduce a driver's precautions against theft. A deductible
+      shares losses and monitoring can reduce risk, but an excessive deductible
+      weakens protection. Incentives are not the only evaluation criterion."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 交易后
+        en: after
+      alternatives:
+        zh-CN:
+          - 交易后
+          - 合约分担风险
+        en:
+          - after
+          - A contract shares risk
+    - id: mechanism-2
+      label:
+        zh-CN: 行为
+        en: actions
+      alternatives:
+        zh-CN:
+          - 行为
+          - 行为难被完全监测
+        en:
+          - actions
+          - actions cannot be fully monitored
+    - id: mechanism-3
+      label:
+        zh-CN: 激励
+        en: incentives
+      alternatives:
+        zh-CN:
+          - 激励
+          - 当事人可能采取更多风险或更少预防
+        en:
+          - incentives
+          - a party may take more risk or less precaution
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

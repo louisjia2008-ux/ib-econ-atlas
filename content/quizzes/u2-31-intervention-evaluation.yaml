@@ -1,0 +1,104 @@
+- id: u2-31-intervention-evaluation-flash-1
+  knowledgePointId: u2-31-intervention-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“干预的利益相关者与评价”，并说明一个关键条件。
+    en: Explain Stakeholders and intervention evaluation and state one important
+      condition.
+  answer:
+    zh-CN: 评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。
+    en: Evaluate intervention through gains and costs to consumers, producers,
+      government and third parties, considering time, elasticity, enforcement,
+      distribution and alternative policies.
+  explanation:
+    zh-CN: 评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。
+    en: Evaluation is not merely a list of advantages and disadvantages; explain
+      which conditions make an effect matter more.
+- id: u2-31-intervention-evaluation-mcq-1
+  knowledgePointId: u2-31-intervention-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 哪项最能支持有条件的补贴评价？
+    en: Which best supports a conditional evaluation of a subsidy?
+  options:
+    - id: a
+      zh-CN: 只看消费者价格下降
+      en: Consider only the lower consumer price
+    - id: b
+      zh-CN: 认为财政资源无限
+      en: Assume unlimited fiscal resources
+    - id: c
+      zh-CN: 结合供给弹性和受益分布
+      en: Consider supply elasticity and distribution of gains
+    - id: d
+      zh-CN: 忽略所有第三方
+      en: Ignore every third party
+  correctOptionId: c
+  explanation:
+    zh-CN: 结合供给弹性和受益分布。
+      原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。
+      评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。
+    en: "Consider supply elasticity and distribution of gains. Illustrative example:
+      a food subsidy helps consumers but requires financing and may also benefit
+      rich households. Compare targeted cash transfers using identification of
+      need, exclusion errors, administrative cost and the ability of supply to
+      expand. Evaluation is not merely a list of advantages and disadvantages;
+      explain which conditions make an effect matter more."
+- id: u2-31-intervention-evaluation-short-1
+  knowledgePointId: u2-31-intervention-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释干预的利益相关者与评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Stakeholders and intervention evaluation and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。
+      政策改变价格、数量或激励；不同群体受到不同影响；效率、公平和可执行性需要共同权衡
+      原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。
+    en: "Evaluate intervention through gains and costs to consumers, producers,
+      government and third parties, considering time, elasticity, enforcement,
+      distribution and alternative policies. Policy changes prices, quantities
+      or incentives; groups experience different effects; efficiency, equity and
+      feasibility must be weighed together Illustrative example: a food subsidy
+      helps consumers but requires financing and may also benefit rich
+      households. Compare targeted cash transfers using identification of need,
+      exclusion errors, administrative cost and the ability of supply to
+      expand."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 利益相关者
+        en: stakeholders
+      alternatives:
+        zh-CN:
+          - 利益相关者
+          - 政策改变价格、数量或激励
+        en:
+          - stakeholders
+          - Policy changes prices, quantities or incentives
+    - id: mechanism-2
+      label:
+        zh-CN: 财政成本
+        en: fiscal cost
+      alternatives:
+        zh-CN:
+          - 财政成本
+          - 不同群体受到不同影响
+        en:
+          - fiscal cost
+          - groups experience different effects
+    - id: mechanism-3
+      label:
+        zh-CN: 弹性
+        en: elasticity
+      alternatives:
+        zh-CN:
+          - 弹性
+          - 效率、公平和可执行性需要共同权衡
+        en:
+          - elasticity
+          - efficiency, equity and feasibility must be weighed together
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

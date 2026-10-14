@@ -1,0 +1,101 @@
+- id: u2-36-positive-production-flash-1
+  knowledgePointId: u2-36-positive-production
+  type: flashcard
+  prompt:
+    zh-CN: 解释“正生产外部性”，并说明一个关键条件。
+    en: Explain Positive production externalities and state one important condition.
+  answer:
+    zh-CN: 正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。
+    en: A positive production externality benefits third parties without
+      compensation and is normally shown as MSC equal to MPC minus marginal
+      external benefit.
+  explanation:
+    zh-CN: 正外部性不是企业自身销售收益，而是未计价的第三方收益。
+    en: The external benefit is an unpriced gain to third parties, not the firm's
+      own sales revenue.
+- id: u2-36-positive-production-mcq-1
+  knowledgePointId: u2-36-positive-production
+  type: mcq
+  prompt:
+    zh-CN: 正生产外部性通常意味着什么？
+    en: A positive production externality normally implies what?
+  options:
+    - id: a
+      zh-CN: 市场过度生产
+      en: Market overproduction
+    - id: b
+      zh-CN: 没有任何成本
+      en: No costs exist
+    - id: c
+      zh-CN: 所有收益都归生产者
+      en: All benefits accrue to producers
+    - id: d
+      zh-CN: 市场生产不足
+      en: Market underproduction
+  correctOptionId: d
+  explanation:
+    zh-CN: 市场生产不足。 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB
+      与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。 正外部性不是企业自身销售收益，而是未计价的第三方收益。
+    en: "Market underproduction. Illustrative example: a firm's research generates
+      knowledge that lowers other firms' costs. Draw MSC below MPC and use the
+      same MSB to locate social and private output. Patents or research
+      subsidies can strengthen incentives, but market-power costs and targeting
+      matter. The external benefit is an unpriced gain to third parties, not the
+      firm's own sales revenue."
+- id: u2-36-positive-production-short-1
+  knowledgePointId: u2-36-positive-production
+  type: short-answer
+  prompt:
+    zh-CN: 解释正生产外部性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Positive production externalities and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。
+      生产产生知识等外溢；企业不能收回全部社会收益；市场配置资源不足 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC
+      下方，以同一 MSB 与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。
+    en: "A positive production externality benefits third parties without
+      compensation and is normally shown as MSC equal to MPC minus marginal
+      external benefit. Production creates spillovers such as knowledge; firms
+      cannot capture all social gains; the market allocates too few resources
+      Illustrative example: a firm's research generates knowledge that lowers
+      other firms' costs. Draw MSC below MPC and use the same MSB to locate
+      social and private output. Patents or research subsidies can strengthen
+      incentives, but market-power costs and targeting matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 外溢
+        en: spillover
+      alternatives:
+        zh-CN:
+          - 外溢
+          - 生产产生知识等外溢
+        en:
+          - spillover
+          - Production creates spillovers such as knowledge
+    - id: mechanism-2
+      label:
+        zh-CN: MSC
+        en: MSC
+      alternatives:
+        zh-CN:
+          - MSC
+          - 企业不能收回全部社会收益
+        en:
+          - MSC
+          - firms cannot capture all social gains
+    - id: mechanism-3
+      label:
+        zh-CN: 生产不足
+        en: underproduction
+      alternatives:
+        zh-CN:
+          - 生产不足
+          - 市场配置资源不足
+        en:
+          - underproduction
+          - the market allocates too few resources
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

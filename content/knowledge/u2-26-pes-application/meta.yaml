@@ -1,0 +1,39 @@
+id: u2-26-pes-application
+slug: pes-application
+section: "2.6"
+level: hl
+syllabusRefs:
+  - 2.6 Elasticity of supply
+textbookRefs:
+  - chapter: "3"
+    section: "3.3"
+    pages:
+      - 104
+prerequisites:
+  - u2-06-supply
+related:
+  - u2-24-pes
+  - u2-25-pes-determinants
+terms:
+  - PES 的计算与政策含义
+  - PES calculations and policy implications
+  - 产能
+  - capacity
+  - 价格
+  - price
+  - 数量
+  - quantity
+synonyms:
+  zh-CN:
+    - 产能
+    - 价格
+    - 数量
+  en:
+    - capacity
+    - price
+    - quantity
+diagramIds: []
+quizIds:
+  - u2-26-pes-application-flash-1
+  - u2-26-pes-application-mcq-1
+  - u2-26-pes-application-short-1

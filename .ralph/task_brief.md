@@ -1,5 +1,9 @@
 # IB Econ Atlas - Ralph Task Brief
 
+## Authorised Unit 2 extension — 2026-10-15
+
+The user requested Unit 2 microeconomics using the existing bilingual knowledge, practice and offline contracts, followed by a verified PR. For this extension, the earlier Unit 2 non-goal is superseded by `.ralph/unit-2-contract.md`. Work from main `1e7b938` on `codex/unit-2-microeconomics`. The locked extension contains 60 points across 2.1–2.12, original teaching examples and diagrams, cross-unit integration and verification. Feature-branch push and PR creation are authorised; merging, production deployment and live AI remain outside this extension.
+
 ## User Goal
 
 Build the agreed IB Econ Atlas as an independent, open-source, bilingual IB Economics study application for the user's own revision. The application must make Unit 1 searchable in Chinese and English, support syllabus and textbook navigation, provide practice and mastery tracking, work offline as a PWA, preserve progress locally, and leave a secure optional AI question-answering boundary without configuring a live API key.

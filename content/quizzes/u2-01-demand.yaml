@@ -1,0 +1,100 @@
+- id: u2-01-demand-flash-1
+  knowledgePointId: u2-01-demand
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求与需求量”，并说明一个关键条件。
+    en: Explain Demand and quantity demanded and state one important condition.
+  answer:
+    zh-CN: 需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。
+    en: Demand relates the quantities consumers are willing and able to buy at
+      different prices during a specified period. Quantity demanded is the
+      quantity at one particular price.
+  explanation:
+    zh-CN: 想买但无力支付的数量不属于有效需求。
+    en: Wanting a good without the ability to pay does not constitute effective
+      demand.
+- id: u2-01-demand-mcq-1
+  knowledgePointId: u2-01-demand
+  type: mcq
+  prompt:
+    zh-CN: 仅商品自身价格下降，应怎样画图？
+    en: How should a fall only in the good's own price be shown?
+  options:
+    - id: a
+      zh-CN: 沿需求曲线向右下移动
+      en: Move down and right along demand
+    - id: b
+      zh-CN: 需求曲线右移
+      en: Shift demand right
+    - id: c
+      zh-CN: 需求曲线左移
+      en: Shift demand left
+    - id: d
+      zh-CN: 供给曲线右移
+      en: Shift supply right
+  correctOptionId: a
+  explanation:
+    zh-CN: 沿需求曲线向右下移动。 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4
+      杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。 想买但无力支付的数量不属于有效需求。
+    en: "Move down and right along demand. Illustrative example: coffee falls from 6
+      to 4 per cup and weekly purchases rise from two to four. Quantity demanded
+      rises. With income and tastes unchanged, this is a movement along the
+      curve, not a rightward shift. Wanting a good without the ability to pay
+      does not constitute effective demand."
+- id: u2-01-demand-short-1
+  knowledgePointId: u2-01-demand
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求与需求量的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Demand and quantity demanded and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。
+      愿望需要购买能力支持；固定收入等条件；价格改变时沿同一需求曲线移动 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4
+      杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。
+    en: "Demand relates the quantities consumers are willing and able to buy at
+      different prices during a specified period. Quantity demanded is the
+      quantity at one particular price. Willingness requires purchasing power;
+      hold income and other conditions constant; a price change moves the buyer
+      along the same demand curve Illustrative example: coffee falls from 6 to 4
+      per cup and weekly purchases rise from two to four. Quantity demanded
+      rises. With income and tastes unchanged, this is a movement along the
+      curve, not a rightward shift."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 需求量
+        en: quantity demanded
+      alternatives:
+        zh-CN:
+          - 需求量
+          - 愿望需要购买能力支持
+        en:
+          - quantity demanded
+          - Willingness requires purchasing power
+    - id: mechanism-2
+      label:
+        zh-CN: 自身价格
+        en: own price
+      alternatives:
+        zh-CN:
+          - 自身价格
+          - 固定收入等条件
+        en:
+          - own price
+          - hold income and other conditions constant
+    - id: mechanism-3
+      label:
+        zh-CN: 沿曲线
+        en: along
+      alternatives:
+        zh-CN:
+          - 沿曲线
+          - 价格改变时沿同一需求曲线移动
+        en:
+          - along
+          - a price change moves the buyer along the same demand curve
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

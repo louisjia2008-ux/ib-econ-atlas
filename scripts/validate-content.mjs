@@ -25,17 +25,20 @@ function diagramExists(diagramId) {
 }
 
 requireCondition(manifest.version === 1, "Manifest version must be 1.");
-requireCondition(entries.length === 43, `Manifest must contain exactly 43 entries; found ${entries.length}.`);
+requireCondition(entries.filter((entry) => entry.id.startsWith("u1-")).length === 43, "Unit 1 must preserve its 43 entries.");
+requireCondition(entries.filter((entry) => entry.id.startsWith("u2-")).length === 60, "Unit 2 must contain 60 entries.");
 requireCondition(manifestIds.size === entries.length, "Manifest knowledge-point IDs must be unique.");
 
-const expectedSectionCounts = { "1.1": 15, "1.2": 8, "1.3": 6, "1.4": 6, "1.5": 8 };
+const expectedSectionCounts = { "1.1": 15, "1.2": 8, "1.3": 6, "1.4": 6, "1.5": 8,
+  "2.1": 5, "2.2": 5, "2.3": 5, "2.4": 3, "2.5": 5, "2.6": 3,
+  "2.7": 6, "2.8": 8, "2.9": 3, "2.10": 3, "2.11": 11, "2.12": 3 };
 for (const [section, count] of Object.entries(expectedSectionCounts)) {
   const actual = entries.filter((entry) => entry.section === section).length;
   requireCondition(actual === count, `Section ${section} must contain ${count} entries; found ${actual}.`);
 }
 
 if (!allowIncomplete) {
-  requireCondition(implementedIds.length === 43, `Strict validation requires 43 implemented points; found ${implementedIds.length}.`);
+  requireCondition(implementedIds.length === entries.length, `Strict validation requires ${entries.length} implemented points; found ${implementedIds.length}.`);
   requireCondition(entries.every((entry) => implementedIds.includes(entry.id)), "Every manifest entry must have a knowledge directory.");
 }
 
@@ -44,10 +47,12 @@ for (const id of implementedIds) {
   try {
     const point = loadKnowledgePoint(id);
     const meta = point.meta;
+    const entry = entries.find((candidate) => candidate.id === id);
     requireCondition(meta.id === id, `${id}: meta.id must match its directory name.`);
     requireCondition(["core", "hl", "extension"].includes(meta.level), `${id}: invalid level.`);
     requireCondition(typeof meta.slug === "string" && meta.slug.length > 0, `${id}: slug is required.`);
     requireCondition(typeof meta.section === "string", `${id}: section is required.`);
+    requireCondition(entry?.section === meta.section && entry?.level === meta.level, `${id}: manifest section/level must match metadata.`);
     requireCondition(Array.isArray(meta.syllabusRefs) && meta.syllabusRefs.length > 0, `${id}: syllabusRefs are required.`);
     requireCondition(Array.isArray(meta.textbookRefs) && meta.textbookRefs.length > 0, `${id}: textbookRefs are required.`);
     requireCondition(meta.textbookRefs.every((ref) => Array.isArray(ref.pages) && ref.pages.length > 0), `${id}: every textbook reference needs pages.`);
@@ -81,6 +86,18 @@ for (const id of implementedIds) {
     for (const item of point.practice) {
       requireCondition(item.knowledgePointId === id, `${id}: quiz ${item.id} points at the wrong knowledge point.`);
       requireCondition(meta.quizIds.includes(item.id), `${id}: quiz ${item.id} is not listed by meta.quizIds.`);
+      for (const locale of ["zh-CN", "en"]) {
+        requireCondition(typeof item.prompt?.[locale] === "string" && item.prompt[locale].trim().length > 0, `${item.id}: localized prompt missing.`);
+        requireCondition(typeof item.explanation?.[locale] === "string" && item.explanation[locale].trim().length > 0, `${item.id}: localized explanation missing.`);
+        const answer = item.type === "flashcard" ? item.answer : item.type === "short-answer" ? item.modelAnswer : null;
+        if (answer) requireCondition(Boolean(answer[locale]?.trim()), `${item.id}: localized answer missing.`);
+      }
+      if (item.type === "mcq") {
+        requireCondition(item.options?.length === 4 && new Set(item.options.map((option) => option.id)).size === 4, `${item.id}: four unique options required.`);
+        requireCondition(item.options.some((option) => option.id === item.correctOptionId), `${item.id}: correct option missing.`);
+        for (const locale of ["zh-CN", "en"]) requireCondition(item.options.every((option) => Boolean(option[locale]?.trim())), `${item.id}: localized options missing.`);
+      }
+      if (item.type === "short-answer") requireCondition(item.keywordGroups?.length >= 3 && item.keywordGroups.every((group) => ["zh-CN", "en"].every((locale) => group.label?.[locale] && group.alternatives?.[locale]?.length > 0)), `${item.id}: three bilingual keyword groups required.`);
     }
   } catch (error) {
     failures.push(`${id}: ${error instanceof Error ? error.message : String(error)}`);

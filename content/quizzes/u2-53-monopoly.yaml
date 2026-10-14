@@ -1,0 +1,100 @@
+- id: u2-53-monopoly-flash-1
+  knowledgePointId: u2-53-monopoly
+  type: flashcard
+  prompt:
+    zh-CN: 解释“垄断定价与效率”，并说明一个关键条件。
+    en: Explain Monopoly pricing and efficiency and state one important condition.
+  answer:
+    zh-CN: 垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。
+    en: A monopolist faces market demand, selects quantity at MR=MC and then reads
+      price from demand. Entry barriers can allow supernormal profit to persist.
+  explanation:
+    zh-CN: 垄断者不能独立任选价格与数量，需求约束仍在。
+    en: A monopolist cannot choose price and quantity independently; demand still
+      constrains it.
+- id: u2-53-monopoly-mcq-1
+  knowledgePointId: u2-53-monopoly
+  type: mcq
+  prompt:
+    zh-CN: 垄断者在哪条曲线上读取所选数量的价格？
+    en: Where does a monopolist read the price for its chosen quantity?
+  options:
+    - id: a
+      zh-CN: 需求/AR 曲线
+      en: Demand/AR
+    - id: b
+      zh-CN: MC 曲线
+      en: MC
+    - id: c
+      zh-CN: MR 曲线
+      en: MR
+    - id: d
+      zh-CN: 固定成本曲线
+      en: Fixed cost
+  correctOptionId: a
+  explanation:
+    zh-CN: 需求/AR 曲线。 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是
+      7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。 垄断者不能独立任选价格与数量，需求约束仍在。
+    en: "Demand/AR. Illustrative example: MR=MC at Q=40, where demand gives price 12
+      and MC is seven. Price is 12, not seven. Monopoly does not guarantee
+      profit: compare ATC. Innovation and scale economies can change cost
+      comparisons. A monopolist cannot choose price and quantity independently;
+      demand still constrains it."
+- id: u2-53-monopoly-short-1
+  knowledgePointId: u2-53-monopoly
+  type: short-answer
+  prompt:
+    zh-CN: 解释垄断定价与效率的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Monopoly pricing and efficiency and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。 降低价格才能扩大销售；MR
+      低于价格；利润最大点通常 P>MC 并低于配置有效数量 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12
+      而不是 7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。
+    en: "A monopolist faces market demand, selects quantity at MR=MC and then reads
+      price from demand. Entry barriers can allow supernormal profit to persist.
+      A lower price is needed to expand sales; MR is below price; at the profit
+      maximum P normally exceeds MC and output is below the allocatively
+      efficient level Illustrative example: MR=MC at Q=40, where demand gives
+      price 12 and MC is seven. Price is 12, not seven. Monopoly does not
+      guarantee profit: compare ATC. Innovation and scale economies can change
+      cost comparisons."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: MR=MC
+        en: MR=MC
+      alternatives:
+        zh-CN:
+          - MR=MC
+          - 降低价格才能扩大销售
+        en:
+          - MR=MC
+          - A lower price is needed to expand sales
+    - id: mechanism-2
+      label:
+        zh-CN: 需求曲线
+        en: demand
+      alternatives:
+        zh-CN:
+          - 需求曲线
+          - MR 低于价格
+        en:
+          - demand
+          - MR is below price
+    - id: mechanism-3
+      label:
+        zh-CN: P>MC
+        en: P>MC
+      alternatives:
+        zh-CN:
+          - P>MC
+          - 利润最大点通常 P>MC 并低于配置有效数量
+        en:
+          - P>MC
+          - at the profit maximum P normally exceeds MC and output is below the
+            allocatively efficient level
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

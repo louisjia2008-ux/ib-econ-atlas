@@ -1,0 +1,101 @@
+- id: u2-05-marginal-utility-flash-1
+  knowledgePointId: u2-05-marginal-utility
+  type: flashcard
+  prompt:
+    zh-CN: 解释“边际效用与消费者选择”，并说明一个关键条件。
+    en: Explain Marginal utility and consumer choice and state one important
+      condition.
+  answer:
+    zh-CN: 边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。
+    en: Marginal utility is the extra satisfaction from an additional unit.
+      Diminishing marginal utility means this extra satisfaction falls as
+      consumption increases, ceteris paribus.
+  explanation:
+    zh-CN: 边际效用递减不等于总效用递减。
+    en: Diminishing marginal utility is not the same as diminishing total utility.
+- id: u2-05-marginal-utility-mcq-1
+  knowledgePointId: u2-05-marginal-utility
+  type: mcq
+  prompt:
+    zh-CN: 前三单位 MU 为 9、6、2，总效用增加多少？
+    en: The first three units have MU 9, 6 and 2. How much total utility is gained?
+  options:
+    - id: a
+      zh-CN: "17"
+      en: "17"
+    - id: b
+      zh-CN: "2"
+      en: "2"
+    - id: c
+      zh-CN: "9"
+      en: "9"
+    - id: d
+      zh-CN: "54"
+      en: "54"
+  correctOptionId: a
+  explanation:
+    zh-CN: 17。 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU
+      不是可以直接观察的客观幸福指标。 边际效用递减不等于总效用递减。
+    en: "17. Illustrative example: three drinks yield marginal utilities of 12, 8
+      and 3, giving total utility of 23. Total utility rises despite falling
+      marginal utility. Rational budget allocation compares MU/P, although
+      utility is not an objectively observable happiness measure. Diminishing
+      marginal utility is not the same as diminishing total utility."
+- id: u2-05-marginal-utility-short-1
+  knowledgePointId: u2-05-marginal-utility
+  type: short-answer
+  prompt:
+    zh-CN: 解释边际效用与消费者选择的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Marginal utility and consumer choice and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。
+      连续单位满足越来越不迫切的用途；额外效用下降；消费者比较每单位支出的边际效用 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为
+      23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。
+    en: "Marginal utility is the extra satisfaction from an additional unit.
+      Diminishing marginal utility means this extra satisfaction falls as
+      consumption increases, ceteris paribus. Successive units satisfy less
+      urgent uses; extra utility falls; consumers compare marginal utility per
+      unit of spending Illustrative example: three drinks yield marginal
+      utilities of 12, 8 and 3, giving total utility of 23. Total utility rises
+      despite falling marginal utility. Rational budget allocation compares
+      MU/P, although utility is not an objectively observable happiness
+      measure."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 额外
+        en: extra
+      alternatives:
+        zh-CN:
+          - 额外
+          - 连续单位满足越来越不迫切的用途
+        en:
+          - extra
+          - Successive units satisfy less urgent uses
+    - id: mechanism-2
+      label:
+        zh-CN: 递减
+        en: diminishing
+      alternatives:
+        zh-CN:
+          - 递减
+          - 额外效用下降
+        en:
+          - diminishing
+          - extra utility falls
+    - id: mechanism-3
+      label:
+        zh-CN: MU/P
+        en: MU/P
+      alternatives:
+        zh-CN:
+          - MU/P
+          - 消费者比较每单位支出的边际效用
+        en:
+          - MU/P
+          - consumers compare marginal utility per unit of spending
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

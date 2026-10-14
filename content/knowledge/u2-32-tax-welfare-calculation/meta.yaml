@@ -1,0 +1,43 @@
+id: u2-32-tax-welfare-calculation
+slug: tax-welfare-calculation
+section: "2.7"
+level: hl
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.3"
+    pages:
+      - 130
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-27-price-ceiling
+  - u2-28-price-floor
+  - u2-29-indirect-tax
+terms:
+  - 税补的福利计算
+  - Tax and subsidy welfare calculations
+  - 三角形
+  - triangle
+  - 交易减少
+  - lost trades
+  - 转移
+  - transfer
+synonyms:
+  zh-CN:
+    - 三角形
+    - 交易减少
+    - 转移
+  en:
+    - triangle
+    - lost trades
+    - transfer
+diagramIds:
+  - tax-wedge
+quizIds:
+  - u2-32-tax-welfare-calculation-flash-1
+  - u2-32-tax-welfare-calculation-mcq-1
+  - u2-32-tax-welfare-calculation-short-1

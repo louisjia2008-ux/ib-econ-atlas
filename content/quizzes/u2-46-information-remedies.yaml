@@ -1,0 +1,101 @@
+- id: u2-46-information-remedies-flash-1
+  knowledgePointId: u2-46-information-remedies
+  type: flashcard
+  prompt:
+    zh-CN: 解释“信息不对称的应对”，并说明一个关键条件。
+    en: Explain Remedies for asymmetric information and state one important
+      condition.
+  answer:
+    zh-CN: 信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。
+    en: Signalling, screening, warranties, disclosure and regulation can reduce
+      information gaps. Effectiveness depends on credibility, monitoring and
+      implementation costs.
+  explanation:
+    zh-CN: 无成本且容易伪造的信号可能无法区分类型。
+    en: A cheap, easily faked signal may fail to distinguish types.
+- id: u2-46-information-remedies-mcq-1
+  knowledgePointId: u2-46-information-remedies
+  type: mcq
+  prompt:
+    zh-CN: 买方安排独立车检最接近什么？
+    en: A buyer arranges an independent car inspection. What is this closest to?
+  options:
+    - id: a
+      zh-CN: 买方发出的质量信号
+      en: A quality signal from the buyer
+    - id: b
+      zh-CN: 筛选
+      en: Screening
+    - id: c
+      zh-CN: 排放许可证
+      en: An emissions permit
+    - id: d
+      zh-CN: 最高限价
+      en: A price ceiling
+  correctOptionId: b
+  explanation:
+    zh-CN: 筛选。
+      原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。
+      无成本且容易伪造的信号可能无法区分类型。
+    en: "Screening. Illustrative example: a seller's costly warranty can signal
+      quality, while a buyer's independent inspection screens it. Mandatory
+      nutrition labels can improve choices if understandable and verified; a
+      mass of unreadable information is not effective information. A cheap,
+      easily faked signal may fail to distinguish types."
+- id: u2-46-information-remedies-short-1
+  knowledgePointId: u2-46-information-remedies
+  type: short-answer
+  prompt:
+    zh-CN: 解释信息不对称的应对的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Remedies for asymmetric information and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。
+      识别隐藏类型或行为；设计可验证的披露和激励；减少错误交易但增加行政成本
+      原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。
+    en: "Signalling, screening, warranties, disclosure and regulation can reduce
+      information gaps. Effectiveness depends on credibility, monitoring and
+      implementation costs. Identify hidden types or actions; design verifiable
+      disclosure and incentives; reduce mistaken trades while incurring
+      administrative cost Illustrative example: a seller's costly warranty can
+      signal quality, while a buyer's independent inspection screens it.
+      Mandatory nutrition labels can improve choices if understandable and
+      verified; a mass of unreadable information is not effective information."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 信号
+        en: signalling
+      alternatives:
+        zh-CN:
+          - 信号
+          - 识别隐藏类型或行为
+        en:
+          - signalling
+          - Identify hidden types or actions
+    - id: mechanism-2
+      label:
+        zh-CN: 筛选
+        en: screening
+      alternatives:
+        zh-CN:
+          - 筛选
+          - 设计可验证的披露和激励
+        en:
+          - screening
+          - design verifiable disclosure and incentives
+    - id: mechanism-3
+      label:
+        zh-CN: 可信
+        en: credible
+      alternatives:
+        zh-CN:
+          - 可信
+          - 减少错误交易但增加行政成本
+        en:
+          - credible
+          - reduce mistaken trades while incurring administrative cost
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

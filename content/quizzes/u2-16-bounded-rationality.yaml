@@ -1,0 +1,103 @@
+- id: u2-16-bounded-rationality-flash-1
+  knowledgePointId: u2-16-bounded-rationality
+  type: flashcard
+  prompt:
+    zh-CN: 解释“理性选择与有限理性”，并说明一个关键条件。
+    en: Explain Rational choice and bounded rationality and state one important
+      condition.
+  answer:
+    zh-CN: 理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。
+    en: Rational choice assumes consistent preferences and utility maximisation
+      subject to constraints. Bounded rationality recognises limits to
+      information, time and processing ability that can lead to satisficing.
+  explanation:
+    zh-CN: 有限理性不是说人没有目标或随机选择。
+    en: Bounded rationality does not mean consumers have no goals or choose
+      randomly.
+- id: u2-16-bounded-rationality-mcq-1
+  knowledgePointId: u2-16-bounded-rationality
+  type: mcq
+  prompt:
+    zh-CN: 选第一个满足最低要求的产品属于什么？
+    en: Choosing the first product that meets minimum requirements is what?
+  options:
+    - id: a
+      zh-CN: 完全信息下精确最优
+      en: Exact optimisation with perfect information
+    - id: b
+      zh-CN: 固定成本增加
+      en: Higher fixed cost
+    - id: c
+      zh-CN: 纯公共物品
+      en: A pure public good
+    - id: d
+      zh-CN: 满意化
+      en: Satisficing
+  correctOptionId: d
+  explanation:
+    zh-CN: 满意化。
+      原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。
+      有限理性不是说人没有目标或随机选择。
+    en: "Satisficing. Illustrative example: a phone buyer cannot compare every
+      attribute of every model. They set a budget and minimum battery life, then
+      choose the first acceptable model. This saves decision costs without
+      necessarily maximising modelled utility. Bounded rationality does not mean
+      consumers have no goals or choose randomly."
+- id: u2-16-bounded-rationality-short-1
+  knowledgePointId: u2-16-bounded-rationality
+  type: short-answer
+  prompt:
+    zh-CN: 解释理性选择与有限理性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Rational choice and bounded rationality and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。
+      可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案
+      原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。
+    en: "Rational choice assumes consistent preferences and utility maximisation
+      subject to constraints. Bounded rationality recognises limits to
+      information, time and processing ability that can lead to satisficing.
+      Many options must be compared; search and calculation are costly;
+      consumers adopt simplifying rules or satisfactory options Illustrative
+      example: a phone buyer cannot compare every attribute of every model. They
+      set a budget and minimum battery life, then choose the first acceptable
+      model. This saves decision costs without necessarily maximising modelled
+      utility."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 信息
+        en: information
+      alternatives:
+        zh-CN:
+          - 信息
+          - 可比较的选项很多
+        en:
+          - information
+          - Many options must be compared
+    - id: mechanism-2
+      label:
+        zh-CN: 决策成本
+        en: decision costs
+      alternatives:
+        zh-CN:
+          - 决策成本
+          - 搜索和计算有成本
+        en:
+          - decision costs
+          - search and calculation are costly
+    - id: mechanism-3
+      label:
+        zh-CN: 满意
+        en: satisficing
+      alternatives:
+        zh-CN:
+          - 满意
+          - 消费者采用简化规则或满意方案
+        en:
+          - satisficing
+          - consumers adopt simplifying rules or satisfactory options
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

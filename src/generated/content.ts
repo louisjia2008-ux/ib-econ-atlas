@@ -534,6 +534,726 @@ export const manifestEntries = [
     "pages": [
       41
     ]
+  },
+  {
+    "id": "u2-01-demand",
+    "section": "2.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求与需求量",
+      "en": "Demand and quantity demanded"
+    },
+    "pages": [
+      43
+    ]
+  },
+  {
+    "id": "u2-02-law-of-demand",
+    "section": "2.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求定律",
+      "en": "The law of demand"
+    },
+    "pages": [
+      43
+    ]
+  },
+  {
+    "id": "u2-03-demand-shifts",
+    "section": "2.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求的非价格决定因素",
+      "en": "Non-price determinants of demand"
+    },
+    "pages": [
+      43
+    ]
+  },
+  {
+    "id": "u2-04-market-demand",
+    "section": "2.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "个人需求与市场需求",
+      "en": "Individual and market demand"
+    },
+    "pages": [
+      43
+    ]
+  },
+  {
+    "id": "u2-05-marginal-utility",
+    "section": "2.1",
+    "level": "hl",
+    "title": {
+      "zh-CN": "边际效用与消费者选择",
+      "en": "Marginal utility and consumer choice"
+    },
+    "pages": [
+      43
+    ]
+  },
+  {
+    "id": "u2-06-supply",
+    "section": "2.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "供给与供给量",
+      "en": "Supply and quantity supplied"
+    },
+    "pages": [
+      49
+    ]
+  },
+  {
+    "id": "u2-07-supply-shifts",
+    "section": "2.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "供给的非价格决定因素",
+      "en": "Non-price determinants of supply"
+    },
+    "pages": [
+      49
+    ]
+  },
+  {
+    "id": "u2-08-market-supply",
+    "section": "2.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "市场供给与时间尺度",
+      "en": "Market supply and time horizons"
+    },
+    "pages": [
+      49
+    ]
+  },
+  {
+    "id": "u2-09-diminishing-returns",
+    "section": "2.2",
+    "level": "hl",
+    "title": {
+      "zh-CN": "边际报酬递减",
+      "en": "Diminishing marginal returns"
+    },
+    "pages": [
+      49
+    ]
+  },
+  {
+    "id": "u2-10-costs-and-supply",
+    "section": "2.2",
+    "level": "hl",
+    "title": {
+      "zh-CN": "边际成本与供给决策",
+      "en": "Marginal cost and supply decisions"
+    },
+    "pages": [
+      49
+    ]
+  },
+  {
+    "id": "u2-11-equilibrium",
+    "section": "2.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "竞争市场均衡",
+      "en": "Competitive market equilibrium"
+    },
+    "pages": [
+      57
+    ]
+  },
+  {
+    "id": "u2-12-shortage-surplus",
+    "section": "2.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "短缺、过剩与价格调整",
+      "en": "Shortages, surpluses and price adjustment"
+    },
+    "pages": [
+      57
+    ]
+  },
+  {
+    "id": "u2-13-equilibrium-shifts",
+    "section": "2.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "均衡变化与同时移动",
+      "en": "Equilibrium changes and simultaneous shifts"
+    },
+    "pages": [
+      57
+    ]
+  },
+  {
+    "id": "u2-14-price-mechanism",
+    "section": "2.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "价格的信号、激励与配给",
+      "en": "Price signals, incentives and rationing"
+    },
+    "pages": [
+      57
+    ]
+  },
+  {
+    "id": "u2-15-surplus-efficiency",
+    "section": "2.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "消费者剩余、生产者剩余与效率",
+      "en": "Surplus and allocative efficiency"
+    },
+    "pages": [
+      62
+    ]
+  },
+  {
+    "id": "u2-16-bounded-rationality",
+    "section": "2.4",
+    "level": "hl",
+    "title": {
+      "zh-CN": "理性选择与有限理性",
+      "en": "Rational choice and bounded rationality"
+    },
+    "pages": [
+      72
+    ]
+  },
+  {
+    "id": "u2-17-biases-nudges",
+    "section": "2.4",
+    "level": "hl",
+    "title": {
+      "zh-CN": "行为偏差与助推",
+      "en": "Behavioural biases and nudges"
+    },
+    "pages": [
+      72
+    ]
+  },
+  {
+    "id": "u2-18-firm-objectives",
+    "section": "2.4",
+    "level": "hl",
+    "title": {
+      "zh-CN": "企业的多重目标",
+      "en": "Alternative objectives of firms"
+    },
+    "pages": [
+      72
+    ]
+  },
+  {
+    "id": "u2-19-ped",
+    "section": "2.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求价格弹性 PED",
+      "en": "Price elasticity of demand"
+    },
+    "pages": [
+      85
+    ]
+  },
+  {
+    "id": "u2-20-ped-determinants",
+    "section": "2.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "PED 的决定因素",
+      "en": "Determinants of PED"
+    },
+    "pages": [
+      85
+    ]
+  },
+  {
+    "id": "u2-21-ped-revenue",
+    "section": "2.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "PED 与总收入",
+      "en": "PED and total revenue"
+    },
+    "pages": [
+      85
+    ]
+  },
+  {
+    "id": "u2-22-yed",
+    "section": "2.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求收入弹性 YED",
+      "en": "Income elasticity of demand"
+    },
+    "pages": [
+      97
+    ]
+  },
+  {
+    "id": "u2-23-elasticity-extremes",
+    "section": "2.5",
+    "level": "hl",
+    "title": {
+      "zh-CN": "弹性、斜率与收入变化",
+      "en": "Elasticity, slope and changing income"
+    },
+    "pages": [
+      85
+    ]
+  },
+  {
+    "id": "u2-24-pes",
+    "section": "2.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "供给价格弹性 PES",
+      "en": "Price elasticity of supply"
+    },
+    "pages": [
+      104
+    ]
+  },
+  {
+    "id": "u2-25-pes-determinants",
+    "section": "2.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "PES、产能与时间",
+      "en": "PES, capacity and time"
+    },
+    "pages": [
+      104
+    ]
+  },
+  {
+    "id": "u2-26-pes-application",
+    "section": "2.6",
+    "level": "hl",
+    "title": {
+      "zh-CN": "PES 的计算与政策含义",
+      "en": "PES calculations and policy implications"
+    },
+    "pages": [
+      104
+    ]
+  },
+  {
+    "id": "u2-27-price-ceiling",
+    "section": "2.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "最高限价",
+      "en": "Price ceilings"
+    },
+    "pages": [
+      114
+    ]
+  },
+  {
+    "id": "u2-28-price-floor",
+    "section": "2.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "最低限价与最低工资",
+      "en": "Price floors and minimum wages"
+    },
+    "pages": [
+      121
+    ]
+  },
+  {
+    "id": "u2-29-indirect-tax",
+    "section": "2.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "间接税与税收负担",
+      "en": "Indirect taxes and tax incidence"
+    },
+    "pages": [
+      127
+    ]
+  },
+  {
+    "id": "u2-30-subsidy",
+    "section": "2.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "补贴与财政成本",
+      "en": "Subsidies and fiscal cost"
+    },
+    "pages": [
+      134
+    ]
+  },
+  {
+    "id": "u2-31-intervention-evaluation",
+    "section": "2.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "干预的利益相关者与评价",
+      "en": "Stakeholders and intervention evaluation"
+    },
+    "pages": [
+      113
+    ]
+  },
+  {
+    "id": "u2-32-tax-welfare-calculation",
+    "section": "2.7",
+    "level": "hl",
+    "title": {
+      "zh-CN": "税补的福利计算",
+      "en": "Tax and subsidy welfare calculations"
+    },
+    "pages": [
+      130
+    ]
+  },
+  {
+    "id": "u2-33-market-failure",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "市场失灵与社会最优",
+      "en": "Market failure and the social optimum"
+    },
+    "pages": [
+      147
+    ]
+  },
+  {
+    "id": "u2-34-negative-production",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "负生产外部性",
+      "en": "Negative production externalities"
+    },
+    "pages": [
+      150
+    ]
+  },
+  {
+    "id": "u2-35-negative-consumption",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "负消费外部性",
+      "en": "Negative consumption externalities"
+    },
+    "pages": [
+      164
+    ]
+  },
+  {
+    "id": "u2-36-positive-production",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "正生产外部性",
+      "en": "Positive production externalities"
+    },
+    "pages": [
+      174
+    ]
+  },
+  {
+    "id": "u2-37-positive-consumption",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "正消费外部性与优值品",
+      "en": "Positive consumption externalities and merit goods"
+    },
+    "pages": [
+      177
+    ]
+  },
+  {
+    "id": "u2-38-common-resources",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "共同资源与公地悲剧",
+      "en": "Common resources and the tragedy of the commons"
+    },
+    "pages": [
+      144
+    ]
+  },
+  {
+    "id": "u2-39-externality-policies",
+    "section": "2.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "外部性政策与可持续性",
+      "en": "Externality policies and sustainability"
+    },
+    "pages": [
+      154
+    ]
+  },
+  {
+    "id": "u2-40-external-welfare",
+    "section": "2.8",
+    "level": "hl",
+    "title": {
+      "zh-CN": "外部性与福利损失计算",
+      "en": "Externalities and welfare-loss calculations"
+    },
+    "pages": [
+      153
+    ]
+  },
+  {
+    "id": "u2-41-public-goods",
+    "section": "2.9",
+    "level": "core",
+    "title": {
+      "zh-CN": "公共物品的特征",
+      "en": "Characteristics of public goods"
+    },
+    "pages": [
+      184
+    ]
+  },
+  {
+    "id": "u2-42-free-rider",
+    "section": "2.9",
+    "level": "core",
+    "title": {
+      "zh-CN": "搭便车与市场提供不足",
+      "en": "Free riding and underprovision"
+    },
+    "pages": [
+      184
+    ]
+  },
+  {
+    "id": "u2-43-public-provision",
+    "section": "2.9",
+    "level": "core",
+    "title": {
+      "zh-CN": "公共物品的提供与评价",
+      "en": "Provision and evaluation of public goods"
+    },
+    "pages": [
+      184
+    ]
+  },
+  {
+    "id": "u2-44-adverse-selection",
+    "section": "2.10",
+    "level": "hl",
+    "title": {
+      "zh-CN": "信息不对称与逆向选择",
+      "en": "Asymmetric information and adverse selection"
+    },
+    "pages": [
+      187
+    ]
+  },
+  {
+    "id": "u2-45-moral-hazard",
+    "section": "2.10",
+    "level": "hl",
+    "title": {
+      "zh-CN": "道德风险",
+      "en": "Moral hazard"
+    },
+    "pages": [
+      187
+    ]
+  },
+  {
+    "id": "u2-46-information-remedies",
+    "section": "2.10",
+    "level": "hl",
+    "title": {
+      "zh-CN": "信息不对称的应对",
+      "en": "Remedies for asymmetric information"
+    },
+    "pages": [
+      187
+    ]
+  },
+  {
+    "id": "u2-47-market-structures",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "市场结构与进入壁垒",
+      "en": "Market structures and entry barriers"
+    },
+    "pages": [
+      196
+    ]
+  },
+  {
+    "id": "u2-48-cost-curves",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "总成本、平均成本与边际成本",
+      "en": "Total, average and marginal costs"
+    },
+    "pages": [
+      199
+    ]
+  },
+  {
+    "id": "u2-49-scale",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "规模经济与规模不经济",
+      "en": "Economies and diseconomies of scale"
+    },
+    "pages": [
+      204
+    ]
+  },
+  {
+    "id": "u2-50-revenue-profit",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "收益、经济利润与正常利润",
+      "en": "Revenue, economic and normal profit"
+    },
+    "pages": [
+      205
+    ]
+  },
+  {
+    "id": "u2-51-profit-maximisation",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "利润最大化与停产",
+      "en": "Profit maximisation and shutdown"
+    },
+    "pages": [
+      206
+    ]
+  },
+  {
+    "id": "u2-52-perfect-competition",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "完全竞争",
+      "en": "Perfect competition"
+    },
+    "pages": [
+      207
+    ]
+  },
+  {
+    "id": "u2-53-monopoly",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "垄断定价与效率",
+      "en": "Monopoly pricing and efficiency"
+    },
+    "pages": [
+      215
+    ]
+  },
+  {
+    "id": "u2-54-natural-monopoly",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "自然垄断与价格监管",
+      "en": "Natural monopoly and price regulation"
+    },
+    "pages": [
+      220
+    ]
+  },
+  {
+    "id": "u2-55-monopolistic-competition",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "垄断竞争",
+      "en": "Monopolistic competition"
+    },
+    "pages": [
+      225
+    ]
+  },
+  {
+    "id": "u2-56-oligopoly",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "寡头、相互依赖与博弈",
+      "en": "Oligopoly, interdependence and game theory"
+    },
+    "pages": [
+      230
+    ]
+  },
+  {
+    "id": "u2-57-competition-policy",
+    "section": "2.11",
+    "level": "hl",
+    "title": {
+      "zh-CN": "竞争政策与市场势力评价",
+      "en": "Competition policy and evaluation of market power"
+    },
+    "pages": [
+      239
+    ]
+  },
+  {
+    "id": "u2-58-equity-distribution",
+    "section": "2.12",
+    "level": "hl",
+    "title": {
+      "zh-CN": "市场分配与公平",
+      "en": "Market distribution and equity"
+    },
+    "pages": [
+      191
+    ]
+  },
+  {
+    "id": "u2-59-income-wealth",
+    "section": "2.12",
+    "level": "hl",
+    "title": {
+      "zh-CN": "收入、财富与机会",
+      "en": "Income, wealth and opportunity"
+    },
+    "pages": [
+      191
+    ]
+  },
+  {
+    "id": "u2-60-redistribution",
+    "section": "2.12",
+    "level": "hl",
+    "title": {
+      "zh-CN": "再分配与政策权衡",
+      "en": "Redistribution and policy trade-offs"
+    },
+    "pages": [
+      191
+    ]
   }
 ] as ManifestEntry[];
 
@@ -11162,6 +11882,13846 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
           "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-01-demand",
+      "slug": "demand",
+      "section": "2.1",
+      "level": "core",
+      "syllabusRefs": [
+        "2.1 Demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.2",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-04-scarcity",
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u2-02-law-of-demand",
+        "u2-03-demand-shifts",
+        "u2-04-market-demand"
+      ],
+      "terms": [
+        "需求与需求量",
+        "Demand and quantity demanded",
+        "需求量",
+        "quantity demanded",
+        "自身价格",
+        "own price",
+        "沿曲线",
+        "along"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "需求量",
+          "自身价格",
+          "沿曲线"
+        ],
+        "en": [
+          "quantity demanded",
+          "own price",
+          "along"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-01-demand-flash-1",
+        "u2-01-demand-mcq-1",
+        "u2-01-demand-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-01-demand",
+        "locale": "zh-CN",
+        "title": "需求与需求量",
+        "takeaway": "需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。",
+        "definition": "需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。",
+        "causalChain": [
+          "愿望需要购买能力支持",
+          "固定收入等条件",
+          "价格改变时沿同一需求曲线移动"
+        ],
+        "misconceptions": [
+          "想买但无力支付的数量不属于有效需求。"
+        ],
+        "examApplication": [
+          "画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        ],
+        "summary": [
+          "需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。",
+          "想买但无力支付的数量不属于有效需求。"
+        ],
+        "explanation": "愿望需要购买能力支持。固定收入等条件。价格改变时沿同一需求曲线移动。\n\n### 原创情境与推导\n\n原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4 杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。\n\n想买但无力支付的数量不属于有效需求。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+      },
+      "en": {
+        "id": "u2-01-demand",
+        "locale": "en",
+        "title": "Demand and quantity demanded",
+        "takeaway": "Demand relates the quantities consumers are willing and able to buy at different prices during a specified period. Quantity demanded is the quantity at one particular price.",
+        "definition": "Demand relates the quantities consumers are willing and able to buy at different prices during a specified period. Quantity demanded is the quantity at one particular price.",
+        "causalChain": [
+          "Willingness requires purchasing power",
+          "hold income and other conditions constant",
+          "a price change moves the buyer along the same demand curve"
+        ],
+        "misconceptions": [
+          "Wanting a good without the ability to pay does not constitute effective demand."
+        ],
+        "examApplication": [
+          "Distinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        ],
+        "summary": [
+          "Demand relates the quantities consumers are willing and able to buy at different prices during a specified period. Quantity demanded is the quantity at one particular price.",
+          "Wanting a good without the ability to pay does not constitute effective demand."
+        ],
+        "explanation": "Willingness requires purchasing power.  hold income and other conditions constant.  a price change moves the buyer along the same demand curve.\n\n### Original scenario and reasoning\n\nIllustrative example: coffee falls from 6 to 4 per cup and weekly purchases rise from two to four. Quantity demanded rises. With income and tastes unchanged, this is a movement along the curve, not a rightward shift.\n\nWanting a good without the ability to pay does not constitute effective demand.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-01-demand-flash-1",
+        "knowledgePointId": "u2-01-demand",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求与需求量”，并说明一个关键条件。",
+          "en": "Explain Demand and quantity demanded and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。",
+          "en": "Demand relates the quantities consumers are willing and able to buy at different prices during a specified period. Quantity demanded is the quantity at one particular price."
+        },
+        "explanation": {
+          "zh-CN": "想买但无力支付的数量不属于有效需求。",
+          "en": "Wanting a good without the ability to pay does not constitute effective demand."
+        }
+      },
+      {
+        "id": "u2-01-demand-mcq-1",
+        "knowledgePointId": "u2-01-demand",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "仅商品自身价格下降，应怎样画图？",
+          "en": "How should a fall only in the good's own price be shown?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "沿需求曲线向右下移动",
+            "en": "Move down and right along demand"
+          },
+          {
+            "id": "b",
+            "zh-CN": "需求曲线右移",
+            "en": "Shift demand right"
+          },
+          {
+            "id": "c",
+            "zh-CN": "需求曲线左移",
+            "en": "Shift demand left"
+          },
+          {
+            "id": "d",
+            "zh-CN": "供给曲线右移",
+            "en": "Shift supply right"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "沿需求曲线向右下移动。 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4 杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。 想买但无力支付的数量不属于有效需求。",
+          "en": "Move down and right along demand. Illustrative example: coffee falls from 6 to 4 per cup and weekly purchases rise from two to four. Quantity demanded rises. With income and tastes unchanged, this is a movement along the curve, not a rightward shift. Wanting a good without the ability to pay does not constitute effective demand."
+        }
+      },
+      {
+        "id": "u2-01-demand-short-1",
+        "knowledgePointId": "u2-01-demand",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求与需求量的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Demand and quantity demanded and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "需求是消费者在给定时期、不同价格下愿意且能够购买的数量关系；需求量是其中某一个价格对应的数量。 愿望需要购买能力支持；固定收入等条件；价格改变时沿同一需求曲线移动 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4 杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。",
+          "en": "Demand relates the quantities consumers are willing and able to buy at different prices during a specified period. Quantity demanded is the quantity at one particular price. Willingness requires purchasing power; hold income and other conditions constant; a price change moves the buyer along the same demand curve Illustrative example: coffee falls from 6 to 4 per cup and weekly purchases rise from two to four. Quantity demanded rises. With income and tastes unchanged, this is a movement along the curve, not a rightward shift."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "需求量",
+              "en": "quantity demanded"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "需求量",
+                "愿望需要购买能力支持"
+              ],
+              "en": [
+                "quantity demanded",
+                "Willingness requires purchasing power"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "自身价格",
+              "en": "own price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自身价格",
+                "固定收入等条件"
+              ],
+              "en": [
+                "own price",
+                "hold income and other conditions constant"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "沿曲线",
+              "en": "along"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "沿曲线",
+                "价格改变时沿同一需求曲线移动"
+              ],
+              "en": [
+                "along",
+                "a price change moves the buyer along the same demand curve"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-02-law-of-demand",
+      "slug": "law-of-demand",
+      "section": "2.1",
+      "level": "core",
+      "syllabusRefs": [
+        "2.1 Demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.2",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-04-scarcity",
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u2-01-demand",
+        "u2-03-demand-shifts",
+        "u2-04-market-demand"
+      ],
+      "terms": [
+        "需求定律",
+        "The law of demand",
+        "其他条件不变",
+        "ceteris paribus",
+        "替代",
+        "substitution",
+        "购买力",
+        "purchasing power"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "其他条件不变",
+          "替代",
+          "购买力"
+        ],
+        "en": [
+          "ceteris paribus",
+          "substitution",
+          "purchasing power"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-02-law-of-demand-flash-1",
+        "u2-02-law-of-demand-mcq-1",
+        "u2-02-law-of-demand-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-02-law-of-demand",
+        "locale": "zh-CN",
+        "title": "需求定律",
+        "takeaway": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
+        "definition": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
+        "causalChain": [
+          "价格上升提高购买的机会成本",
+          "消费者转向相对便宜的替代品",
+          "给定收入的实际购买力下降"
+        ],
+        "misconceptions": [
+          "曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。"
+        ],
+        "examApplication": [
+          "画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        ],
+        "summary": [
+          "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
+          "曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。"
+        ],
+        "explanation": "价格上升提高购买的机会成本。消费者转向相对便宜的替代品。给定收入的实际购买力下降。\n\n### 原创情境与推导\n\n原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。\n\n曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+      },
+      "en": {
+        "id": "u2-02-law-of-demand",
+        "locale": "en",
+        "title": "The law of demand",
+        "takeaway": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
+        "definition": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
+        "causalChain": [
+          "A price rise increases the opportunity cost of buying",
+          "consumers substitute toward relatively cheaper goods",
+          "purchasing power falls at a given money income"
+        ],
+        "misconceptions": [
+          "A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
+        ],
+        "examApplication": [
+          "Distinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        ],
+        "summary": [
+          "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
+          "A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
+        ],
+        "explanation": "A price rise increases the opportunity cost of buying.  consumers substitute toward relatively cheaper goods.  purchasing power falls at a given money income.\n\n### Original scenario and reasoning\n\nIllustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference.\n\nA downward slope is a conditional relationship, not unconditional causation inferred from correlation.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-02-law-of-demand-flash-1",
+        "knowledgePointId": "u2-02-law-of-demand",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求定律”，并说明一个关键条件。",
+          "en": "Explain The law of demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
+          "en": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it."
+        },
+        "explanation": {
+          "zh-CN": "曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。",
+          "en": "A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
+        }
+      },
+      {
+        "id": "u2-02-law-of-demand-mcq-1",
+        "knowledgePointId": "u2-02-law-of-demand",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "公交涨价后转乘未涨价地铁，主要体现什么？",
+          "en": "Switching to an unchanged-price train after a bus fare rise illustrates what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "公交供给增加",
+            "en": "Increased bus supply"
+          },
+          {
+            "id": "b",
+            "zh-CN": "替代效应",
+            "en": "Substitution effect"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有需求消失",
+            "en": "All demand disappears"
+          },
+          {
+            "id": "d",
+            "zh-CN": "收入必然增加",
+            "en": "Income necessarily rises"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "替代效应。 原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。 曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。",
+          "en": "Substitution effect. Illustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference. A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
+        }
+      },
+      {
+        "id": "u2-02-law-of-demand-short-1",
+        "knowledgePointId": "u2-02-law-of-demand",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求定律的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of The law of demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。 价格上升提高购买的机会成本；消费者转向相对便宜的替代品；给定收入的实际购买力下降 原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。",
+          "en": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it. A price rise increases the opportunity cost of buying; consumers substitute toward relatively cheaper goods; purchasing power falls at a given money income Illustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "其他条件不变",
+              "en": "ceteris paribus"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "其他条件不变",
+                "价格上升提高购买的机会成本"
+              ],
+              "en": [
+                "ceteris paribus",
+                "A price rise increases the opportunity cost of buying"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "替代",
+              "en": "substitution"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "替代",
+                "消费者转向相对便宜的替代品"
+              ],
+              "en": [
+                "substitution",
+                "consumers substitute toward relatively cheaper goods"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "购买力",
+              "en": "purchasing power"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "购买力",
+                "给定收入的实际购买力下降"
+              ],
+              "en": [
+                "purchasing power",
+                "purchasing power falls at a given money income"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-03-demand-shifts",
+      "slug": "demand-shifts",
+      "section": "2.1",
+      "level": "core",
+      "syllabusRefs": [
+        "2.1 Demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.2",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-04-scarcity",
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u2-01-demand",
+        "u2-02-law-of-demand",
+        "u2-04-market-demand"
+      ],
+      "terms": [
+        "需求的非价格决定因素",
+        "Non-price determinants of demand",
+        "收入",
+        "income",
+        "每个价格",
+        "every price",
+        "右移",
+        "right"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "收入",
+          "每个价格",
+          "右移"
+        ],
+        "en": [
+          "income",
+          "every price",
+          "right"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-03-demand-shifts-flash-1",
+        "u2-03-demand-shifts-mcq-1",
+        "u2-03-demand-shifts-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-03-demand-shifts",
+        "locale": "zh-CN",
+        "title": "需求的非价格决定因素",
+        "takeaway": "收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。",
+        "definition": "收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。",
+        "causalChain": [
+          "一个非自身价格因素改变",
+          "相同价格下购买意愿或能力改变",
+          "整条需求曲线移动"
+        ],
+        "misconceptions": [
+          "收入上升对劣等品可能使需求左移，不能一概画右移。"
+        ],
+        "examApplication": [
+          "画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        ],
+        "summary": [
+          "收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。",
+          "收入上升对劣等品可能使需求左移，不能一概画右移。"
+        ],
+        "explanation": "一个非自身价格因素改变。相同价格下购买意愿或能力改变。整条需求曲线移动。\n\n### 原创情境与推导\n\n原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。\n\n收入上升对劣等品可能使需求左移，不能一概画右移。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+      },
+      "en": {
+        "id": "u2-03-demand-shifts",
+        "locale": "en",
+        "title": "Non-price determinants of demand",
+        "takeaway": "Income, tastes, related-good prices, expectations and the number of buyers can change quantity demanded at every price, shifting demand.",
+        "definition": "Income, tastes, related-good prices, expectations and the number of buyers can change quantity demanded at every price, shifting demand.",
+        "causalChain": [
+          "A determinant other than own price changes",
+          "willingness or ability changes at the same price",
+          "the whole demand curve shifts"
+        ],
+        "misconceptions": [
+          "Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
+        ],
+        "examApplication": [
+          "Distinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        ],
+        "summary": [
+          "Income, tastes, related-good prices, expectations and the number of buyers can change quantity demanded at every price, shifting demand.",
+          "Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
+        ],
+        "explanation": "A determinant other than own price changes.  willingness or ability changes at the same price.  the whole demand curve shifts.\n\n### Original scenario and reasoning\n\nIllustrative example: tea and coffee are substitutes, so dearer tea shifts coffee demand right. Coffee machines and coffee are complements, so dearer machines may shift coffee demand left. Always name the market being analysed.\n\nHigher income can shift demand for an inferior good left, so income increases do not always shift demand right.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-03-demand-shifts-flash-1",
+        "knowledgePointId": "u2-03-demand-shifts",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求的非价格决定因素”，并说明一个关键条件。",
+          "en": "Explain Non-price determinants of demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。",
+          "en": "Income, tastes, related-good prices, expectations and the number of buyers can change quantity demanded at every price, shifting demand."
+        },
+        "explanation": {
+          "zh-CN": "收入上升对劣等品可能使需求左移，不能一概画右移。",
+          "en": "Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
+        }
+      },
+      {
+        "id": "u2-03-demand-shifts-mcq-1",
+        "knowledgePointId": "u2-03-demand-shifts",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "正常品的消费者收入增加，自身价格未变，会怎样？",
+          "en": "Income rises for buyers of a normal good while its price is unchanged. What happens?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "仅沿原曲线移动",
+            "en": "Only a movement along the original curve"
+          },
+          {
+            "id": "b",
+            "zh-CN": "需求必然左移",
+            "en": "Demand necessarily shifts left"
+          },
+          {
+            "id": "c",
+            "zh-CN": "需求右移",
+            "en": "Demand shifts right"
+          },
+          {
+            "id": "d",
+            "zh-CN": "供给必然左移",
+            "en": "Supply necessarily shifts left"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "需求右移。 原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。 收入上升对劣等品可能使需求左移，不能一概画右移。",
+          "en": "Demand shifts right. Illustrative example: tea and coffee are substitutes, so dearer tea shifts coffee demand right. Coffee machines and coffee are complements, so dearer machines may shift coffee demand left. Always name the market being analysed. Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
+        }
+      },
+      {
+        "id": "u2-03-demand-shifts-short-1",
+        "knowledgePointId": "u2-03-demand-shifts",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求的非价格决定因素的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Non-price determinants of demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。 一个非自身价格因素改变；相同价格下购买意愿或能力改变；整条需求曲线移动 原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。",
+          "en": "Income, tastes, related-good prices, expectations and the number of buyers can change quantity demanded at every price, shifting demand. A determinant other than own price changes; willingness or ability changes at the same price; the whole demand curve shifts Illustrative example: tea and coffee are substitutes, so dearer tea shifts coffee demand right. Coffee machines and coffee are complements, so dearer machines may shift coffee demand left. Always name the market being analysed."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "一个非自身价格因素改变"
+              ],
+              "en": [
+                "income",
+                "A determinant other than own price changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "每个价格",
+              "en": "every price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "每个价格",
+                "相同价格下购买意愿或能力改变"
+              ],
+              "en": [
+                "every price",
+                "willingness or ability changes at the same price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "右移",
+              "en": "right"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "右移",
+                "整条需求曲线移动"
+              ],
+              "en": [
+                "right",
+                "the whole demand curve shifts"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-04-market-demand",
+      "slug": "market-demand",
+      "section": "2.1",
+      "level": "core",
+      "syllabusRefs": [
+        "2.1 Demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.2",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-04-scarcity",
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u2-01-demand",
+        "u2-02-law-of-demand",
+        "u2-03-demand-shifts"
+      ],
+      "terms": [
+        "个人需求与市场需求",
+        "Individual and market demand",
+        "相同价格",
+        "same price",
+        "数量",
+        "quantities",
+        "加总",
+        "sum"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "相同价格",
+          "数量",
+          "加总"
+        ],
+        "en": [
+          "same price",
+          "quantities",
+          "sum"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-04-market-demand-flash-1",
+        "u2-04-market-demand-mcq-1",
+        "u2-04-market-demand-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-04-market-demand",
+        "locale": "zh-CN",
+        "title": "个人需求与市场需求",
+        "takeaway": "市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。",
+        "definition": "市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。",
+        "causalChain": [
+          "先固定一个价格",
+          "加总每个消费者的需求量",
+          "在其他价格重复以形成市场曲线"
+        ],
+        "misconceptions": [
+          "市场需求不是各人的平均需求，也不是竖直相加价格。"
+        ],
+        "examApplication": [
+          "画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        ],
+        "summary": [
+          "市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。",
+          "市场需求不是各人的平均需求，也不是竖直相加价格。"
+        ],
+        "explanation": "先固定一个价格。加总每个消费者的需求量。在其他价格重复以形成市场曲线。\n\n### 原创情境与推导\n\n原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2 个，市场需求量为 3 个。价格不能相加。\n\n市场需求不是各人的平均需求，也不是竖直相加价格。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+      },
+      "en": {
+        "id": "u2-04-market-demand",
+        "locale": "en",
+        "title": "Individual and market demand",
+        "takeaway": "Market demand is the horizontal sum of individual quantities demanded at each common price.",
+        "definition": "Market demand is the horizontal sum of individual quantities demanded at each common price.",
+        "causalChain": [
+          "Fix a common price",
+          "add each consumer's quantity demanded",
+          "repeat at other prices to construct market demand"
+        ],
+        "misconceptions": [
+          "Market demand is neither average individual demand nor a vertical sum of prices."
+        ],
+        "examApplication": [
+          "Distinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        ],
+        "summary": [
+          "Market demand is the horizontal sum of individual quantities demanded at each common price.",
+          "Market demand is neither average individual demand nor a vertical sum of prices."
+        ],
+        "explanation": "Fix a common price.  add each consumer's quantity demanded.  repeat at other prices to construct market demand.\n\n### Original scenario and reasoning\n\nIllustrative example: at a price of 5, A buys three units and B buys seven, so market quantity demanded is ten. At a price of 8 they may buy one and two, yielding three. Add quantities, never prices.\n\nMarket demand is neither average individual demand nor a vertical sum of prices.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-04-market-demand-flash-1",
+        "knowledgePointId": "u2-04-market-demand",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“个人需求与市场需求”，并说明一个关键条件。",
+          "en": "Explain Individual and market demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。",
+          "en": "Market demand is the horizontal sum of individual quantities demanded at each common price."
+        },
+        "explanation": {
+          "zh-CN": "市场需求不是各人的平均需求，也不是竖直相加价格。",
+          "en": "Market demand is neither average individual demand nor a vertical sum of prices."
+        }
+      },
+      {
+        "id": "u2-04-market-demand-mcq-1",
+        "knowledgePointId": "u2-04-market-demand",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "同价下三人分别买 2、4、6 个，市场需求量是多少？",
+          "en": "At the same price, three buyers demand 2, 4 and 6 units. What is market quantity?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "4",
+            "en": "4"
+          },
+          {
+            "id": "b",
+            "zh-CN": "6",
+            "en": "6"
+          },
+          {
+            "id": "c",
+            "zh-CN": "24",
+            "en": "24"
+          },
+          {
+            "id": "d",
+            "zh-CN": "12",
+            "en": "12"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "12。 原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2 个，市场需求量为 3 个。价格不能相加。 市场需求不是各人的平均需求，也不是竖直相加价格。",
+          "en": "12. Illustrative example: at a price of 5, A buys three units and B buys seven, so market quantity demanded is ten. At a price of 8 they may buy one and two, yielding three. Add quantities, never prices. Market demand is neither average individual demand nor a vertical sum of prices."
+        }
+      },
+      {
+        "id": "u2-04-market-demand-short-1",
+        "knowledgePointId": "u2-04-market-demand",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释个人需求与市场需求的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Individual and market demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。 先固定一个价格；加总每个消费者的需求量；在其他价格重复以形成市场曲线 原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2 个，市场需求量为 3 个。价格不能相加。",
+          "en": "Market demand is the horizontal sum of individual quantities demanded at each common price. Fix a common price; add each consumer's quantity demanded; repeat at other prices to construct market demand Illustrative example: at a price of 5, A buys three units and B buys seven, so market quantity demanded is ten. At a price of 8 they may buy one and two, yielding three. Add quantities, never prices."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "相同价格",
+              "en": "same price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相同价格",
+                "先固定一个价格"
+              ],
+              "en": [
+                "same price",
+                "Fix a common price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "数量",
+              "en": "quantities"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "数量",
+                "加总每个消费者的需求量"
+              ],
+              "en": [
+                "quantities",
+                "add each consumer's quantity demanded"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "加总",
+              "en": "sum"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "加总",
+                "在其他价格重复以形成市场曲线"
+              ],
+              "en": [
+                "sum",
+                "repeat at other prices to construct market demand"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-05-marginal-utility",
+      "slug": "marginal-utility",
+      "section": "2.1",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.1 Demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.2",
+          "pages": [
+            43
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-04-scarcity",
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u2-01-demand",
+        "u2-02-law-of-demand",
+        "u2-03-demand-shifts"
+      ],
+      "terms": [
+        "边际效用与消费者选择",
+        "Marginal utility and consumer choice",
+        "额外",
+        "extra",
+        "递减",
+        "diminishing",
+        "MU/P",
+        "MU/P"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "额外",
+          "递减",
+          "MU/P"
+        ],
+        "en": [
+          "extra",
+          "diminishing",
+          "MU/P"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-05-marginal-utility-flash-1",
+        "u2-05-marginal-utility-mcq-1",
+        "u2-05-marginal-utility-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-05-marginal-utility",
+        "locale": "zh-CN",
+        "title": "边际效用与消费者选择",
+        "takeaway": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。",
+        "definition": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。",
+        "causalChain": [
+          "连续单位满足越来越不迫切的用途",
+          "额外效用下降",
+          "消费者比较每单位支出的边际效用"
+        ],
+        "misconceptions": [
+          "边际效用递减不等于总效用递减。"
+        ],
+        "examApplication": [
+          "画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        ],
+        "summary": [
+          "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。",
+          "边际效用递减不等于总效用递减。"
+        ],
+        "explanation": "连续单位满足越来越不迫切的用途。额外效用下降。消费者比较每单位支出的边际效用。\n\n### 原创情境与推导\n\n原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。\n\n边际效用递减不等于总效用递减。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+      },
+      "en": {
+        "id": "u2-05-marginal-utility",
+        "locale": "en",
+        "title": "Marginal utility and consumer choice",
+        "takeaway": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus.",
+        "definition": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus.",
+        "causalChain": [
+          "Successive units satisfy less urgent uses",
+          "extra utility falls",
+          "consumers compare marginal utility per unit of spending"
+        ],
+        "misconceptions": [
+          "Diminishing marginal utility is not the same as diminishing total utility."
+        ],
+        "examApplication": [
+          "Distinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        ],
+        "summary": [
+          "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus.",
+          "Diminishing marginal utility is not the same as diminishing total utility."
+        ],
+        "explanation": "Successive units satisfy less urgent uses.  extra utility falls.  consumers compare marginal utility per unit of spending.\n\n### Original scenario and reasoning\n\nIllustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure.\n\nDiminishing marginal utility is not the same as diminishing total utility.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-05-marginal-utility-flash-1",
+        "knowledgePointId": "u2-05-marginal-utility",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“边际效用与消费者选择”，并说明一个关键条件。",
+          "en": "Explain Marginal utility and consumer choice and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。",
+          "en": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus."
+        },
+        "explanation": {
+          "zh-CN": "边际效用递减不等于总效用递减。",
+          "en": "Diminishing marginal utility is not the same as diminishing total utility."
+        }
+      },
+      {
+        "id": "u2-05-marginal-utility-mcq-1",
+        "knowledgePointId": "u2-05-marginal-utility",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "前三单位 MU 为 9、6、2，总效用增加多少？",
+          "en": "The first three units have MU 9, 6 and 2. How much total utility is gained?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "17",
+            "en": "17"
+          },
+          {
+            "id": "b",
+            "zh-CN": "2",
+            "en": "2"
+          },
+          {
+            "id": "c",
+            "zh-CN": "9",
+            "en": "9"
+          },
+          {
+            "id": "d",
+            "zh-CN": "54",
+            "en": "54"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "17。 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。 边际效用递减不等于总效用递减。",
+          "en": "17. Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure. Diminishing marginal utility is not the same as diminishing total utility."
+        }
+      },
+      {
+        "id": "u2-05-marginal-utility-short-1",
+        "knowledgePointId": "u2-05-marginal-utility",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释边际效用与消费者选择的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Marginal utility and consumer choice and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。 连续单位满足越来越不迫切的用途；额外效用下降；消费者比较每单位支出的边际效用 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。",
+          "en": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus. Successive units satisfy less urgent uses; extra utility falls; consumers compare marginal utility per unit of spending Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "额外",
+              "en": "extra"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "额外",
+                "连续单位满足越来越不迫切的用途"
+              ],
+              "en": [
+                "extra",
+                "Successive units satisfy less urgent uses"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "递减",
+              "en": "diminishing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "递减",
+                "额外效用下降"
+              ],
+              "en": [
+                "diminishing",
+                "extra utility falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "MU/P",
+              "en": "MU/P"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MU/P",
+                "消费者比较每单位支出的边际效用"
+              ],
+              "en": [
+                "MU/P",
+                "consumers compare marginal utility per unit of spending"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-06-supply",
+      "slug": "supply",
+      "section": "2.2",
+      "level": "core",
+      "syllabusRefs": [
+        "2.2 Supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.3",
+          "pages": [
+            49
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u2-07-supply-shifts",
+        "u2-08-market-supply",
+        "u2-09-diminishing-returns"
+      ],
+      "terms": [
+        "供给与供给量",
+        "Supply and quantity supplied",
+        "自身价格",
+        "own price",
+        "收益",
+        "return",
+        "沿曲线",
+        "along"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "自身价格",
+          "收益",
+          "沿曲线"
+        ],
+        "en": [
+          "own price",
+          "return",
+          "along"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-06-supply-flash-1",
+        "u2-06-supply-mcq-1",
+        "u2-06-supply-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-06-supply",
+        "locale": "zh-CN",
+        "title": "供给与供给量",
+        "takeaway": "供给是生产者在给定时期、不同价格下愿意且能够出售的数量关系；供给量是某一个价格下的数量。",
+        "definition": "供给是生产者在给定时期、不同价格下愿意且能够出售的数量关系；供给量是某一个价格下的数量。",
+        "causalChain": [
+          "其他生产条件保持不变",
+          "价格上升提高额外生产的收益",
+          "供给量通常沿原曲线增加"
+        ],
+        "misconceptions": [
+          "供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。"
+        ],
+        "examApplication": [
+          "写清商品自身价格、成本与时间的不同作用。"
+        ],
+        "summary": [
+          "供给是生产者在给定时期、不同价格下愿意且能够出售的数量关系；供给量是某一个价格下的数量。",
+          "供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。"
+        ],
+        "explanation": "其他生产条件保持不变。价格上升提高额外生产的收益。供给量通常沿原曲线增加。\n\n### 原创情境与推导\n\n原创例：蛋糕价格从 20 升到 25 元，糕点师延长工作时间而多做 10 个。若投入价格和技术未变，这是沿供给曲线移动，不是供给曲线右移。\n\n供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。\n\n写清商品自身价格、成本与时间的不同作用。"
+      },
+      "en": {
+        "id": "u2-06-supply",
+        "locale": "en",
+        "title": "Supply and quantity supplied",
+        "takeaway": "Supply relates quantities producers are willing and able to sell at different prices during a period. Quantity supplied is the quantity at one price.",
+        "definition": "Supply relates quantities producers are willing and able to sell at different prices during a period. Quantity supplied is the quantity at one price.",
+        "causalChain": [
+          "Hold production conditions constant",
+          "a higher price increases the return on extra production",
+          "quantity supplied normally rises along the curve"
+        ],
+        "misconceptions": [
+          "Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
+        ],
+        "examApplication": [
+          "Separate own price, costs and time when explaining supply."
+        ],
+        "summary": [
+          "Supply relates quantities producers are willing and able to sell at different prices during a period. Quantity supplied is the quantity at one price.",
+          "Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
+        ],
+        "explanation": "Hold production conditions constant.  a higher price increases the return on extra production.  quantity supplied normally rises along the curve.\n\n### Original scenario and reasoning\n\nIllustrative example: cake prices rise from 20 to 25 and a baker works longer to make ten more. With input prices and technology unchanged, this is a movement along supply, not a shift.\n\nSupply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price.\n\nSeparate own price, costs and time when explaining supply."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-06-supply-flash-1",
+        "knowledgePointId": "u2-06-supply",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“供给与供给量”，并说明一个关键条件。",
+          "en": "Explain Supply and quantity supplied and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "供给是生产者在给定时期、不同价格下愿意且能够出售的数量关系；供给量是某一个价格下的数量。",
+          "en": "Supply relates quantities producers are willing and able to sell at different prices during a period. Quantity supplied is the quantity at one price."
+        },
+        "explanation": {
+          "zh-CN": "供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。",
+          "en": "Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
+        }
+      },
+      {
+        "id": "u2-06-supply-mcq-1",
+        "knowledgePointId": "u2-06-supply",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "商品自身价格上升，其他条件不变，通常出现什么？",
+          "en": "Own price rises with other conditions unchanged. What normally follows?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "供给曲线左移",
+            "en": "Supply shifts left"
+          },
+          {
+            "id": "b",
+            "zh-CN": "沿供给曲线增加供给量",
+            "en": "Higher quantity supplied along supply"
+          },
+          {
+            "id": "c",
+            "zh-CN": "供给曲线右移",
+            "en": "Supply shifts right"
+          },
+          {
+            "id": "d",
+            "zh-CN": "需求曲线必然右移",
+            "en": "Demand necessarily shifts right"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "沿供给曲线增加供给量。 原创例：蛋糕价格从 20 升到 25 元，糕点师延长工作时间而多做 10 个。若投入价格和技术未变，这是沿供给曲线移动，不是供给曲线右移。 供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。",
+          "en": "Higher quantity supplied along supply. Illustrative example: cake prices rise from 20 to 25 and a baker works longer to make ten more. With input prices and technology unchanged, this is a movement along supply, not a shift. Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
+        }
+      },
+      {
+        "id": "u2-06-supply-short-1",
+        "knowledgePointId": "u2-06-supply",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释供给与供给量的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Supply and quantity supplied and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "供给是生产者在给定时期、不同价格下愿意且能够出售的数量关系；供给量是某一个价格下的数量。 其他生产条件保持不变；价格上升提高额外生产的收益；供给量通常沿原曲线增加 原创例：蛋糕价格从 20 升到 25 元，糕点师延长工作时间而多做 10 个。若投入价格和技术未变，这是沿供给曲线移动，不是供给曲线右移。",
+          "en": "Supply relates quantities producers are willing and able to sell at different prices during a period. Quantity supplied is the quantity at one price. Hold production conditions constant; a higher price increases the return on extra production; quantity supplied normally rises along the curve Illustrative example: cake prices rise from 20 to 25 and a baker works longer to make ten more. With input prices and technology unchanged, this is a movement along supply, not a shift."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "自身价格",
+              "en": "own price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自身价格",
+                "其他生产条件保持不变"
+              ],
+              "en": [
+                "own price",
+                "Hold production conditions constant"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "收益",
+              "en": "return"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收益",
+                "价格上升提高额外生产的收益"
+              ],
+              "en": [
+                "return",
+                "a higher price increases the return on extra production"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "沿曲线",
+              "en": "along"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "沿曲线",
+                "供给量通常沿原曲线增加"
+              ],
+              "en": [
+                "along",
+                "quantity supplied normally rises along the curve"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-07-supply-shifts",
+      "slug": "supply-shifts",
+      "section": "2.2",
+      "level": "core",
+      "syllabusRefs": [
+        "2.2 Supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.3",
+          "pages": [
+            49
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u2-06-supply",
+        "u2-08-market-supply",
+        "u2-09-diminishing-returns"
+      ],
+      "terms": [
+        "供给的非价格决定因素",
+        "Non-price determinants of supply",
+        "成本",
+        "cost",
+        "每个价格",
+        "every price",
+        "供给",
+        "supply"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "成本",
+          "每个价格",
+          "供给"
+        ],
+        "en": [
+          "cost",
+          "every price",
+          "supply"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-07-supply-shifts-flash-1",
+        "u2-07-supply-shifts-mcq-1",
+        "u2-07-supply-shifts-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-07-supply-shifts",
+        "locale": "zh-CN",
+        "title": "供给的非价格决定因素",
+        "takeaway": "投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。",
+        "definition": "投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。",
+        "causalChain": [
+          "单位生产成本或生产能力改变",
+          "相同产品价格下生产意愿改变",
+          "供给向右或向左移动"
+        ],
+        "misconceptions": [
+          "成本变化移动供给，自身价格变化通常沿供给移动。"
+        ],
+        "examApplication": [
+          "写清商品自身价格、成本与时间的不同作用。"
+        ],
+        "summary": [
+          "投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。",
+          "成本变化移动供给，自身价格变化通常沿供给移动。"
+        ],
+        "explanation": "单位生产成本或生产能力改变。相同产品价格下生产意愿改变。供给向右或向左移动。\n\n### 原创情境与推导\n\n原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。\n\n成本变化移动供给，自身价格变化通常沿供给移动。\n\n写清商品自身价格、成本与时间的不同作用。"
+      },
+      "en": {
+        "id": "u2-07-supply-shifts",
+        "locale": "en",
+        "title": "Non-price determinants of supply",
+        "takeaway": "Input costs, technology, taxes and subsidies, producer numbers, related-product prices and natural conditions can shift the entire supply curve.",
+        "definition": "Input costs, technology, taxes and subsidies, producer numbers, related-product prices and natural conditions can shift the entire supply curve.",
+        "causalChain": [
+          "Unit costs or productive capacity change",
+          "willingness to produce changes at the same output price",
+          "supply shifts right or left"
+        ],
+        "misconceptions": [
+          "Changing costs shifts supply; changing the output's own price normally moves along supply."
+        ],
+        "examApplication": [
+          "Separate own price, costs and time when explaining supply."
+        ],
+        "summary": [
+          "Input costs, technology, taxes and subsidies, producer numbers, related-product prices and natural conditions can shift the entire supply curve.",
+          "Changing costs shifts supply; changing the output's own price normally moves along supply."
+        ],
+        "explanation": "Unit costs or productive capacity change.  willingness to produce changes at the same output price.  supply shifts right or left.\n\n### Original scenario and reasoning\n\nIllustrative example: dearer flour raises bread production costs. At each bread price, some previously profitable output becomes unprofitable, shifting bread supply left. Showing this as a demand reduction confuses the two sides of the market.\n\nChanging costs shifts supply; changing the output's own price normally moves along supply.\n\nSeparate own price, costs and time when explaining supply."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-07-supply-shifts-flash-1",
+        "knowledgePointId": "u2-07-supply-shifts",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“供给的非价格决定因素”，并说明一个关键条件。",
+          "en": "Explain Non-price determinants of supply and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。",
+          "en": "Input costs, technology, taxes and subsidies, producer numbers, related-product prices and natural conditions can shift the entire supply curve."
+        },
+        "explanation": {
+          "zh-CN": "成本变化移动供给，自身价格变化通常沿供给移动。",
+          "en": "Changing costs shifts supply; changing the output's own price normally moves along supply."
+        }
+      },
+      {
+        "id": "u2-07-supply-shifts-mcq-1",
+        "knowledgePointId": "u2-07-supply-shifts",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "更便宜的生产技术通常怎样影响供给？",
+          "en": "How does a cheaper production technique normally affect supply?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "供给左移",
+            "en": "Supply shifts left"
+          },
+          {
+            "id": "b",
+            "zh-CN": "仅沿供给向上移动",
+            "en": "Only move up along supply"
+          },
+          {
+            "id": "c",
+            "zh-CN": "供给右移",
+            "en": "Supply shifts right"
+          },
+          {
+            "id": "d",
+            "zh-CN": "需求必然右移",
+            "en": "Demand necessarily shifts right"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "供给右移。 原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。 成本变化移动供给，自身价格变化通常沿供给移动。",
+          "en": "Supply shifts right. Illustrative example: dearer flour raises bread production costs. At each bread price, some previously profitable output becomes unprofitable, shifting bread supply left. Showing this as a demand reduction confuses the two sides of the market. Changing costs shifts supply; changing the output's own price normally moves along supply."
+        }
+      },
+      {
+        "id": "u2-07-supply-shifts-short-1",
+        "knowledgePointId": "u2-07-supply-shifts",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释供给的非价格决定因素的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Non-price determinants of supply and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "投入成本、技术、税补、生产者数量、相关产品价格及自然条件改变，可移动整个供给曲线。 单位生产成本或生产能力改变；相同产品价格下生产意愿改变；供给向右或向左移动 原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。",
+          "en": "Input costs, technology, taxes and subsidies, producer numbers, related-product prices and natural conditions can shift the entire supply curve. Unit costs or productive capacity change; willingness to produce changes at the same output price; supply shifts right or left Illustrative example: dearer flour raises bread production costs. At each bread price, some previously profitable output becomes unprofitable, shifting bread supply left. Showing this as a demand reduction confuses the two sides of the market."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "成本",
+              "en": "cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "成本",
+                "单位生产成本或生产能力改变"
+              ],
+              "en": [
+                "cost",
+                "Unit costs or productive capacity change"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "每个价格",
+              "en": "every price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "每个价格",
+                "相同产品价格下生产意愿改变"
+              ],
+              "en": [
+                "every price",
+                "willingness to produce changes at the same output price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "供给",
+              "en": "supply"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给",
+                "供给向右或向左移动"
+              ],
+              "en": [
+                "supply",
+                "supply shifts right or left"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-08-market-supply",
+      "slug": "market-supply",
+      "section": "2.2",
+      "level": "core",
+      "syllabusRefs": [
+        "2.2 Supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.3",
+          "pages": [
+            49
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u2-06-supply",
+        "u2-07-supply-shifts",
+        "u2-09-diminishing-returns"
+      ],
+      "terms": [
+        "市场供给与时间尺度",
+        "Market supply and time horizons",
+        "同价",
+        "common price",
+        "加总",
+        "sum",
+        "固定",
+        "fixed"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "同价",
+          "加总",
+          "固定"
+        ],
+        "en": [
+          "common price",
+          "sum",
+          "fixed"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-08-market-supply-flash-1",
+        "u2-08-market-supply-mcq-1",
+        "u2-08-market-supply-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-08-market-supply",
+        "locale": "zh-CN",
+        "title": "市场供给与时间尺度",
+        "takeaway": "市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。",
+        "definition": "市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。",
+        "causalChain": [
+          "短期部分投入固定",
+          "生产者只能调整可变投入",
+          "长期可以扩建和进入市场"
+        ],
+        "misconceptions": [
+          "短期和长期不是统一的月数，而是投入是否可以全部改变。"
+        ],
+        "examApplication": [
+          "写清商品自身价格、成本与时间的不同作用。"
+        ],
+        "summary": [
+          "市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。",
+          "短期和长期不是统一的月数，而是投入是否可以全部改变。"
+        ],
+        "explanation": "短期部分投入固定。生产者只能调整可变投入。长期可以扩建和进入市场。\n\n### 原创情境与推导\n\n原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50 台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。\n\n短期和长期不是统一的月数，而是投入是否可以全部改变。\n\n写清商品自身价格、成本与时间的不同作用。"
+      },
+      "en": {
+        "id": "u2-08-market-supply",
+        "locale": "en",
+        "title": "Market supply and time horizons",
+        "takeaway": "Market supply horizontally sums producers' quantities at each common price. The time needed to adjust capacity constrains that response.",
+        "definition": "Market supply horizontally sums producers' quantities at each common price. The time needed to adjust capacity constrains that response.",
+        "causalChain": [
+          "Some inputs are fixed in the short run",
+          "firms adjust variable inputs",
+          "in the long run capacity and market entry can change"
+        ],
+        "misconceptions": [
+          "Short and long run are defined by input flexibility, not universal calendar durations."
+        ],
+        "examApplication": [
+          "Separate own price, costs and time when explaining supply."
+        ],
+        "summary": [
+          "Market supply horizontally sums producers' quantities at each common price. The time needed to adjust capacity constrains that response.",
+          "Short and long run are defined by input flexibility, not universal calendar durations."
+        ],
+        "explanation": "Some inputs are fixed in the short run.  firms adjust variable inputs.  in the long run capacity and market entry can change.\n\n### Original scenario and reasoning\n\nIllustrative example: two firms supply 30 and 20 units at the same price, yielding market supply of 50. Buildings may be fixed for a month but adjustable over a year, so a short-run limit need not be permanent.\n\nShort and long run are defined by input flexibility, not universal calendar durations.\n\nSeparate own price, costs and time when explaining supply."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-08-market-supply-flash-1",
+        "knowledgePointId": "u2-08-market-supply",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“市场供给与时间尺度”，并说明一个关键条件。",
+          "en": "Explain Market supply and time horizons and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。",
+          "en": "Market supply horizontally sums producers' quantities at each common price. The time needed to adjust capacity constrains that response."
+        },
+        "explanation": {
+          "zh-CN": "短期和长期不是统一的月数，而是投入是否可以全部改变。",
+          "en": "Short and long run are defined by input flexibility, not universal calendar durations."
+        }
+      },
+      {
+        "id": "u2-08-market-supply-mcq-1",
+        "knowledgePointId": "u2-08-market-supply",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "两厂同价供给 15 和 25 单位，市场供给量为多少？",
+          "en": "Two firms supply 15 and 25 units at a common price. What is market quantity?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "20",
+            "en": "20"
+          },
+          {
+            "id": "b",
+            "zh-CN": "25",
+            "en": "25"
+          },
+          {
+            "id": "c",
+            "zh-CN": "375",
+            "en": "375"
+          },
+          {
+            "id": "d",
+            "zh-CN": "40",
+            "en": "40"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "40。 原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50 台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。 短期和长期不是统一的月数，而是投入是否可以全部改变。",
+          "en": "40. Illustrative example: two firms supply 30 and 20 units at the same price, yielding market supply of 50. Buildings may be fixed for a month but adjustable over a year, so a short-run limit need not be permanent. Short and long run are defined by input flexibility, not universal calendar durations."
+        }
+      },
+      {
+        "id": "u2-08-market-supply-short-1",
+        "knowledgePointId": "u2-08-market-supply",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释市场供给与时间尺度的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Market supply and time horizons and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。 短期部分投入固定；生产者只能调整可变投入；长期可以扩建和进入市场 原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50 台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。",
+          "en": "Market supply horizontally sums producers' quantities at each common price. The time needed to adjust capacity constrains that response. Some inputs are fixed in the short run; firms adjust variable inputs; in the long run capacity and market entry can change Illustrative example: two firms supply 30 and 20 units at the same price, yielding market supply of 50. Buildings may be fixed for a month but adjustable over a year, so a short-run limit need not be permanent."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "同价",
+              "en": "common price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "同价",
+                "短期部分投入固定"
+              ],
+              "en": [
+                "common price",
+                "Some inputs are fixed in the short run"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "加总",
+              "en": "sum"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "加总",
+                "生产者只能调整可变投入"
+              ],
+              "en": [
+                "sum",
+                "firms adjust variable inputs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "固定",
+              "en": "fixed"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "固定",
+                "长期可以扩建和进入市场"
+              ],
+              "en": [
+                "fixed",
+                "in the long run capacity and market entry can change"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-09-diminishing-returns",
+      "slug": "diminishing-returns",
+      "section": "2.2",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.2 Supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.3",
+          "pages": [
+            49
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u2-06-supply",
+        "u2-07-supply-shifts",
+        "u2-08-market-supply"
+      ],
+      "terms": [
+        "边际报酬递减",
+        "Diminishing marginal returns",
+        "固定投入",
+        "fixed input",
+        "边际产量",
+        "marginal product",
+        "边际成本",
+        "marginal cost"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "固定投入",
+          "边际产量",
+          "边际成本"
+        ],
+        "en": [
+          "fixed input",
+          "marginal product",
+          "marginal cost"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-09-diminishing-returns-flash-1",
+        "u2-09-diminishing-returns-mcq-1",
+        "u2-09-diminishing-returns-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-09-diminishing-returns",
+        "locale": "zh-CN",
+        "title": "边际报酬递减",
+        "takeaway": "短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。",
+        "definition": "短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。",
+        "causalChain": [
+          "资本等投入固定",
+          "可变投入不断增加",
+          "拥挤使边际产量下降并推高边际成本"
+        ],
+        "misconceptions": [
+          "报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。"
+        ],
+        "examApplication": [
+          "写清商品自身价格、成本与时间的不同作用。"
+        ],
+        "summary": [
+          "短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。",
+          "报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。"
+        ],
+        "explanation": "资本等投入固定。可变投入不断增加。拥挤使边际产量下降并推高边际成本。\n\n### 原创情境与推导\n\n原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为 10。总产量仍在上升；技术不变是这一比较的条件。\n\n报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。\n\n写清商品自身价格、成本与时间的不同作用。"
+      },
+      "en": {
+        "id": "u2-09-diminishing-returns",
+        "locale": "en",
+        "title": "Diminishing marginal returns",
+        "takeaway": "With at least one input fixed in the short run, successive additions of a variable input eventually yield less extra output.",
+        "definition": "With at least one input fixed in the short run, successive additions of a variable input eventually yield less extra output.",
+        "causalChain": [
+          "Capital or another input is fixed",
+          "variable inputs increase",
+          "crowding reduces marginal product and raises marginal cost"
+        ],
+        "misconceptions": [
+          "Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
+        ],
+        "examApplication": [
+          "Separate own price, costs and time when explaining supply."
+        ],
+        "summary": [
+          "With at least one input fixed in the short run, successive additions of a variable input eventually yield less extra output.",
+          "Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
+        ],
+        "explanation": "Capital or another input is fixed.  variable inputs increase.  crowding reduces marginal product and raises marginal cost.\n\n### Original scenario and reasoning\n\nIllustrative example: one oven with one, two and three workers produces 10, 25 and 35 units. The second worker adds 15, the third adds ten. Total output still rises. Technology must be held constant for this comparison.\n\nDiminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run.\n\nSeparate own price, costs and time when explaining supply."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-09-diminishing-returns-flash-1",
+        "knowledgePointId": "u2-09-diminishing-returns",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“边际报酬递减”，并说明一个关键条件。",
+          "en": "Explain Diminishing marginal returns and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。",
+          "en": "With at least one input fixed in the short run, successive additions of a variable input eventually yield less extra output."
+        },
+        "explanation": {
+          "zh-CN": "报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。",
+          "en": "Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
+        }
+      },
+      {
+        "id": "u2-09-diminishing-returns-mcq-1",
+        "knowledgePointId": "u2-09-diminishing-returns",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "总产量从 25 增至 35，新增工人的边际产量是多少？",
+          "en": "Total output rises from 25 to 35. What is the added worker's marginal product?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "b",
+            "zh-CN": "35",
+            "en": "35"
+          },
+          {
+            "id": "c",
+            "zh-CN": "25",
+            "en": "25"
+          },
+          {
+            "id": "d",
+            "zh-CN": "60",
+            "en": "60"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "10。 原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为 10。总产量仍在上升；技术不变是这一比较的条件。 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。",
+          "en": "10. Illustrative example: one oven with one, two and three workers produces 10, 25 and 35 units. The second worker adds 15, the third adds ten. Total output still rises. Technology must be held constant for this comparison. Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
+        }
+      },
+      {
+        "id": "u2-09-diminishing-returns-short-1",
+        "knowledgePointId": "u2-09-diminishing-returns",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释边际报酬递减的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Diminishing marginal returns and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。 资本等投入固定；可变投入不断增加；拥挤使边际产量下降并推高边际成本 原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为 10。总产量仍在上升；技术不变是这一比较的条件。",
+          "en": "With at least one input fixed in the short run, successive additions of a variable input eventually yield less extra output. Capital or another input is fixed; variable inputs increase; crowding reduces marginal product and raises marginal cost Illustrative example: one oven with one, two and three workers produces 10, 25 and 35 units. The second worker adds 15, the third adds ten. Total output still rises. Technology must be held constant for this comparison."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "固定投入",
+              "en": "fixed input"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "固定投入",
+                "资本等投入固定"
+              ],
+              "en": [
+                "fixed input",
+                "Capital or another input is fixed"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际产量",
+              "en": "marginal product"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际产量",
+                "可变投入不断增加"
+              ],
+              "en": [
+                "marginal product",
+                "variable inputs increase"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "边际成本",
+              "en": "marginal cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际成本",
+                "拥挤使边际产量下降并推高边际成本"
+              ],
+              "en": [
+                "marginal cost",
+                "crowding reduces marginal product and raises marginal cost"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-10-costs-and-supply",
+      "slug": "costs-and-supply",
+      "section": "2.2",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.2 Supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.3",
+          "pages": [
+            49
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u2-06-supply",
+        "u2-07-supply-shifts",
+        "u2-08-market-supply"
+      ],
+      "terms": [
+        "边际成本与供给决策",
+        "Marginal cost and supply decisions",
+        "额外成本",
+        "extra cost",
+        "边际收益",
+        "marginal revenue",
+        "利润",
+        "profit"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "额外成本",
+          "边际收益",
+          "利润"
+        ],
+        "en": [
+          "extra cost",
+          "marginal revenue",
+          "profit"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-10-costs-and-supply-flash-1",
+        "u2-10-costs-and-supply-mcq-1",
+        "u2-10-costs-and-supply-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-10-costs-and-supply",
+        "locale": "zh-CN",
+        "title": "边际成本与供给决策",
+        "takeaway": "边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。",
+        "definition": "边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。",
+        "causalChain": [
+          "额外单位需要更多投入",
+          "边际收益超过边际成本时增产提高利润",
+          "达到合适的边际条件后停止扩张"
+        ],
+        "misconceptions": [
+          "价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。"
+        ],
+        "examApplication": [
+          "写清商品自身价格、成本与时间的不同作用。"
+        ],
+        "summary": [
+          "边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。",
+          "价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。"
+        ],
+        "explanation": "额外单位需要更多投入。边际收益超过边际成本时增产提高利润。达到合适的边际条件后停止扩张。\n\n### 原创情境与推导\n\n原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3 的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。\n\n价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。\n\n写清商品自身价格、成本与时间的不同作用。"
+      },
+      "en": {
+        "id": "u2-10-costs-and-supply",
+        "locale": "en",
+        "title": "Marginal cost and supply decisions",
+        "takeaway": "Marginal cost, MC, is the addition to total cost from one more unit. Producers compare incremental revenue and cost when choosing output.",
+        "definition": "Marginal cost, MC, is the addition to total cost from one more unit. Producers compare incremental revenue and cost when choosing output.",
+        "causalChain": [
+          "Extra output requires inputs",
+          "expansion increases profit when marginal revenue exceeds marginal cost",
+          "stop expanding at the relevant marginal condition"
+        ],
+        "misconceptions": [
+          "Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
+        ],
+        "examApplication": [
+          "Separate own price, costs and time when explaining supply."
+        ],
+        "summary": [
+          "Marginal cost, MC, is the addition to total cost from one more unit. Producers compare incremental revenue and cost when choosing output.",
+          "Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
+        ],
+        "explanation": "Extra output requires inputs.  expansion increases profit when marginal revenue exceeds marginal cost.  stop expanding at the relevant marginal condition.\n\n### Original scenario and reasoning\n\nIllustrative example: output rises from ten to eleven and total cost from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the extra unit adds three to profit. Fixed cost matters for entry but does not directly alter this unit's MC.\n\nPrice equal to MC does not prove total profit is positive; price must also be compared with average cost.\n\nSeparate own price, costs and time when explaining supply."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-10-costs-and-supply-flash-1",
+        "knowledgePointId": "u2-10-costs-and-supply",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“边际成本与供给决策”，并说明一个关键条件。",
+          "en": "Explain Marginal cost and supply decisions and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。",
+          "en": "Marginal cost, MC, is the addition to total cost from one more unit. Producers compare incremental revenue and cost when choosing output."
+        },
+        "explanation": {
+          "zh-CN": "价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。",
+          "en": "Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
+        }
+      },
+      {
+        "id": "u2-10-costs-and-supply-mcq-1",
+        "knowledgePointId": "u2-10-costs-and-supply",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "增加一单位使成本由 60 变为 68，MC 为多少？",
+          "en": "One more unit raises total cost from 60 to 68. What is MC?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "68",
+            "en": "68"
+          },
+          {
+            "id": "b",
+            "zh-CN": "8",
+            "en": "8"
+          },
+          {
+            "id": "c",
+            "zh-CN": "60",
+            "en": "60"
+          },
+          {
+            "id": "d",
+            "zh-CN": "128",
+            "en": "128"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "8。 原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3 的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。",
+          "en": "8. Illustrative example: output rises from ten to eleven and total cost from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the extra unit adds three to profit. Fixed cost matters for entry but does not directly alter this unit's MC. Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
+        }
+      },
+      {
+        "id": "u2-10-costs-and-supply-short-1",
+        "knowledgePointId": "u2-10-costs-and-supply",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释边际成本与供给决策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Marginal cost and supply decisions and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。 额外单位需要更多投入；边际收益超过边际成本时增产提高利润；达到合适的边际条件后停止扩张 原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3 的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。",
+          "en": "Marginal cost, MC, is the addition to total cost from one more unit. Producers compare incremental revenue and cost when choosing output. Extra output requires inputs; expansion increases profit when marginal revenue exceeds marginal cost; stop expanding at the relevant marginal condition Illustrative example: output rises from ten to eleven and total cost from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the extra unit adds three to profit. Fixed cost matters for entry but does not directly alter this unit's MC."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "额外成本",
+              "en": "extra cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "额外成本",
+                "额外单位需要更多投入"
+              ],
+              "en": [
+                "extra cost",
+                "Extra output requires inputs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际收益",
+              "en": "marginal revenue"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际收益",
+                "边际收益超过边际成本时增产提高利润"
+              ],
+              "en": [
+                "marginal revenue",
+                "expansion increases profit when marginal revenue exceeds marginal cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "利润",
+              "en": "profit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "利润",
+                "达到合适的边际条件后停止扩张"
+              ],
+              "en": [
+                "profit",
+                "stop expanding at the relevant marginal condition"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-11-equilibrium",
+      "slug": "equilibrium",
+      "section": "2.3",
+      "level": "core",
+      "syllabusRefs": [
+        "2.3 Competitive market equilibrium"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.4",
+          "pages": [
+            57
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand",
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-12-shortage-surplus",
+        "u2-13-equilibrium-shifts",
+        "u2-14-price-mechanism"
+      ],
+      "terms": [
+        "竞争市场均衡",
+        "Competitive market equilibrium",
+        "需求量",
+        "quantity demanded",
+        "供给量",
+        "quantity supplied",
+        "相等",
+        "equal"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "需求量",
+          "供给量",
+          "相等"
+        ],
+        "en": [
+          "quantity demanded",
+          "quantity supplied",
+          "equal"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-11-equilibrium-flash-1",
+        "u2-11-equilibrium-mcq-1",
+        "u2-11-equilibrium-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-11-equilibrium",
+        "locale": "zh-CN",
+        "title": "竞争市场均衡",
+        "takeaway": "市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。",
+        "definition": "市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。",
+        "causalChain": [
+          "买卖双方在相同价格作出计划",
+          "需求量等于供给量",
+          "市场出清但不保证结果公平"
+        ],
+        "misconceptions": [
+          "均衡不意味着所有需要都被满足，也不意味着社会最优。"
+        ],
+        "examApplication": [
+          "先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        ],
+        "summary": [
+          "市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。",
+          "均衡不意味着所有需要都被满足，也不意味着社会最优。"
+        ],
+        "explanation": "买卖双方在相同价格作出计划。需求量等于供给量。市场出清但不保证结果公平。\n\n### 原创情境与推导\n\n原创例：价格 8 元时买方想买 60 个、卖方想卖 60 个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。\n\n均衡不意味着所有需要都被满足，也不意味着社会最优。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+      },
+      "en": {
+        "id": "u2-11-equilibrium",
+        "locale": "en",
+        "title": "Competitive market equilibrium",
+        "takeaway": "Equilibrium occurs at the price where quantity demanded equals quantity supplied, making buyers' and sellers' plans compatible without endogenous pressure for price to change.",
+        "definition": "Equilibrium occurs at the price where quantity demanded equals quantity supplied, making buyers' and sellers' plans compatible without endogenous pressure for price to change.",
+        "causalChain": [
+          "Buyers and sellers plan at a common price",
+          "quantities demanded and supplied coincide",
+          "the market clears without guaranteeing equity"
+        ],
+        "misconceptions": [
+          "Equilibrium does not mean all needs are met or that the outcome is socially optimal."
+        ],
+        "examApplication": [
+          "Identify the changed determinant before comparing prices, quantities and stakeholders."
+        ],
+        "summary": [
+          "Equilibrium occurs at the price where quantity demanded equals quantity supplied, making buyers' and sellers' plans compatible without endogenous pressure for price to change.",
+          "Equilibrium does not mean all needs are met or that the outcome is socially optimal."
+        ],
+        "explanation": "Buyers and sellers plan at a common price.  quantities demanded and supplied coincide.  the market clears without guaranteeing equity.\n\n### Original scenario and reasoning\n\nIllustrative example: at a price of 8 buyers demand 60 units and sellers supply 60. This is an equilibrium pair. Equilibrium is a comparison benchmark; contracts, inventories and information delays can slow actual adjustment.\n\nEquilibrium does not mean all needs are met or that the outcome is socially optimal.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-11-equilibrium-flash-1",
+        "knowledgePointId": "u2-11-equilibrium",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“竞争市场均衡”，并说明一个关键条件。",
+          "en": "Explain Competitive market equilibrium and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。",
+          "en": "Equilibrium occurs at the price where quantity demanded equals quantity supplied, making buyers' and sellers' plans compatible without endogenous pressure for price to change."
+        },
+        "explanation": {
+          "zh-CN": "均衡不意味着所有需要都被满足，也不意味着社会最优。",
+          "en": "Equilibrium does not mean all needs are met or that the outcome is socially optimal."
+        }
+      },
+      {
+        "id": "u2-11-equilibrium-mcq-1",
+        "knowledgePointId": "u2-11-equilibrium",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "价格下 Qd=70、Qs=70，该市场处于什么状态？",
+          "en": "At a price Qd=70 and Qs=70. What is the market's state?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "短缺 70",
+            "en": "Shortage of 70"
+          },
+          {
+            "id": "b",
+            "zh-CN": "过剩 140",
+            "en": "Surplus of 140"
+          },
+          {
+            "id": "c",
+            "zh-CN": "均衡",
+            "en": "Equilibrium"
+          },
+          {
+            "id": "d",
+            "zh-CN": "需求为零",
+            "en": "Zero demand"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "均衡。 原创例：价格 8 元时买方想买 60 个、卖方想卖 60 个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。 均衡不意味着所有需要都被满足，也不意味着社会最优。",
+          "en": "Equilibrium. Illustrative example: at a price of 8 buyers demand 60 units and sellers supply 60. This is an equilibrium pair. Equilibrium is a comparison benchmark; contracts, inventories and information delays can slow actual adjustment. Equilibrium does not mean all needs are met or that the outcome is socially optimal."
+        }
+      },
+      {
+        "id": "u2-11-equilibrium-short-1",
+        "knowledgePointId": "u2-11-equilibrium",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释竞争市场均衡的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Competitive market equilibrium and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。 买卖双方在相同价格作出计划；需求量等于供给量；市场出清但不保证结果公平 原创例：价格 8 元时买方想买 60 个、卖方想卖 60 个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。",
+          "en": "Equilibrium occurs at the price where quantity demanded equals quantity supplied, making buyers' and sellers' plans compatible without endogenous pressure for price to change. Buyers and sellers plan at a common price; quantities demanded and supplied coincide; the market clears without guaranteeing equity Illustrative example: at a price of 8 buyers demand 60 units and sellers supply 60. This is an equilibrium pair. Equilibrium is a comparison benchmark; contracts, inventories and information delays can slow actual adjustment."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "需求量",
+              "en": "quantity demanded"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "需求量",
+                "买卖双方在相同价格作出计划"
+              ],
+              "en": [
+                "quantity demanded",
+                "Buyers and sellers plan at a common price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "供给量",
+              "en": "quantity supplied"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给量",
+                "需求量等于供给量"
+              ],
+              "en": [
+                "quantity supplied",
+                "quantities demanded and supplied coincide"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "相等",
+              "en": "equal"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相等",
+                "市场出清但不保证结果公平"
+              ],
+              "en": [
+                "equal",
+                "the market clears without guaranteeing equity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-12-shortage-surplus",
+      "slug": "shortage-surplus",
+      "section": "2.3",
+      "level": "core",
+      "syllabusRefs": [
+        "2.3 Competitive market equilibrium"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.4",
+          "pages": [
+            57
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand",
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-11-equilibrium",
+        "u2-13-equilibrium-shifts",
+        "u2-14-price-mechanism"
+      ],
+      "terms": [
+        "短缺、过剩与价格调整",
+        "Shortages, surpluses and price adjustment",
+        "短缺",
+        "shortage",
+        "过剩",
+        "surplus",
+        "价格调整",
+        "price adjustment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "短缺",
+          "过剩",
+          "价格调整"
+        ],
+        "en": [
+          "shortage",
+          "surplus",
+          "price adjustment"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-12-shortage-surplus-flash-1",
+        "u2-12-shortage-surplus-mcq-1",
+        "u2-12-shortage-surplus-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-12-shortage-surplus",
+        "locale": "zh-CN",
+        "title": "短缺、过剩与价格调整",
+        "takeaway": "短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。",
+        "definition": "短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。",
+        "causalChain": [
+          "非均衡价格使交易计划不一致",
+          "买方竞争或卖方积压",
+          "价格调整改变双方数量"
+        ],
+        "misconceptions": [
+          "短缺的大小是 Qd−Qs，不是需求量本身。"
+        ],
+        "examApplication": [
+          "先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        ],
+        "summary": [
+          "短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。",
+          "短缺的大小是 Qd−Qs，不是需求量本身。"
+        ],
+        "explanation": "非均衡价格使交易计划不一致。买方竞争或卖方积压。价格调整改变双方数量。\n\n### 原创情境与推导\n\n原创例：Qd=90、Qs=50，短缺为 40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。\n\n短缺的大小是 Qd−Qs，不是需求量本身。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+      },
+      "en": {
+        "id": "u2-12-shortage-surplus",
+        "locale": "en",
+        "title": "Shortages, surpluses and price adjustment",
+        "takeaway": "A shortage means quantity demanded exceeds quantity supplied at a given price; a surplus means the reverse. In a flexible-price model they create upward and downward price pressure respectively.",
+        "definition": "A shortage means quantity demanded exceeds quantity supplied at a given price; a surplus means the reverse. In a flexible-price model they create upward and downward price pressure respectively.",
+        "causalChain": [
+          "A disequilibrium price makes trading plans incompatible",
+          "buyers compete or sellers accumulate stock",
+          "changing price adjusts quantities on both sides"
+        ],
+        "misconceptions": [
+          "The size of a shortage is Qd minus Qs, not quantity demanded itself."
+        ],
+        "examApplication": [
+          "Identify the changed determinant before comparing prices, quantities and stakeholders."
+        ],
+        "summary": [
+          "A shortage means quantity demanded exceeds quantity supplied at a given price; a surplus means the reverse. In a flexible-price model they create upward and downward price pressure respectively.",
+          "The size of a shortage is Qd minus Qs, not quantity demanded itself."
+        ],
+        "explanation": "A disequilibrium price makes trading plans incompatible.  buyers compete or sellers accumulate stock.  changing price adjusts quantities on both sides.\n\n### Original scenario and reasoning\n\nIllustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price rise lowers quantity demanded and increases quantity supplied along the curves. Controls can prevent adjustment, so shortages need not disappear immediately.\n\nThe size of a shortage is Qd minus Qs, not quantity demanded itself.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-12-shortage-surplus-flash-1",
+        "knowledgePointId": "u2-12-shortage-surplus",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“短缺、过剩与价格调整”，并说明一个关键条件。",
+          "en": "Explain Shortages, surpluses and price adjustment and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。",
+          "en": "A shortage means quantity demanded exceeds quantity supplied at a given price; a surplus means the reverse. In a flexible-price model they create upward and downward price pressure respectively."
+        },
+        "explanation": {
+          "zh-CN": "短缺的大小是 Qd−Qs，不是需求量本身。",
+          "en": "The size of a shortage is Qd minus Qs, not quantity demanded itself."
+        }
+      },
+      {
+        "id": "u2-12-shortage-surplus-mcq-1",
+        "knowledgePointId": "u2-12-shortage-surplus",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "Qd=80、Qs=110 时，过剩为多少？",
+          "en": "Qd=80 and Qs=110. How large is the surplus?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "80",
+            "en": "80"
+          },
+          {
+            "id": "b",
+            "zh-CN": "110",
+            "en": "110"
+          },
+          {
+            "id": "c",
+            "zh-CN": "190",
+            "en": "190"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "30。 原创例：Qd=90、Qs=50，短缺为 40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。 短缺的大小是 Qd−Qs，不是需求量本身。",
+          "en": "30. Illustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price rise lowers quantity demanded and increases quantity supplied along the curves. Controls can prevent adjustment, so shortages need not disappear immediately. The size of a shortage is Qd minus Qs, not quantity demanded itself."
+        }
+      },
+      {
+        "id": "u2-12-shortage-surplus-short-1",
+        "knowledgePointId": "u2-12-shortage-surplus",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释短缺、过剩与价格调整的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Shortages, surpluses and price adjustment and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。 非均衡价格使交易计划不一致；买方竞争或卖方积压；价格调整改变双方数量 原创例：Qd=90、Qs=50，短缺为 40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。",
+          "en": "A shortage means quantity demanded exceeds quantity supplied at a given price; a surplus means the reverse. In a flexible-price model they create upward and downward price pressure respectively. A disequilibrium price makes trading plans incompatible; buyers compete or sellers accumulate stock; changing price adjusts quantities on both sides Illustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price rise lowers quantity demanded and increases quantity supplied along the curves. Controls can prevent adjustment, so shortages need not disappear immediately."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "短缺",
+              "en": "shortage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "短缺",
+                "非均衡价格使交易计划不一致"
+              ],
+              "en": [
+                "shortage",
+                "A disequilibrium price makes trading plans incompatible"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "过剩",
+              "en": "surplus"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "过剩",
+                "买方竞争或卖方积压"
+              ],
+              "en": [
+                "surplus",
+                "buyers compete or sellers accumulate stock"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "价格调整",
+              "en": "price adjustment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格调整",
+                "价格调整改变双方数量"
+              ],
+              "en": [
+                "price adjustment",
+                "changing price adjusts quantities on both sides"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-13-equilibrium-shifts",
+      "slug": "equilibrium-shifts",
+      "section": "2.3",
+      "level": "core",
+      "syllabusRefs": [
+        "2.3 Competitive market equilibrium"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.4",
+          "pages": [
+            57
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand",
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-11-equilibrium",
+        "u2-12-shortage-surplus",
+        "u2-14-price-mechanism"
+      ],
+      "terms": [
+        "均衡变化与同时移动",
+        "Equilibrium changes and simultaneous shifts",
+        "移动",
+        "shift",
+        "数量",
+        "quantity",
+        "不确定",
+        "ambiguous"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "移动",
+          "数量",
+          "不确定"
+        ],
+        "en": [
+          "shift",
+          "quantity",
+          "ambiguous"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-13-equilibrium-shifts-flash-1",
+        "u2-13-equilibrium-shifts-mcq-1",
+        "u2-13-equilibrium-shifts-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-13-equilibrium-shifts",
+        "locale": "zh-CN",
+        "title": "均衡变化与同时移动",
+        "takeaway": "非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。",
+        "definition": "非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。",
+        "causalChain": [
+          "识别变化的决定因素",
+          "移动相关曲线而保持其他关系不变",
+          "比较新旧均衡价格和数量"
+        ],
+        "misconceptions": [
+          "同时移动时必须保留不确定性，不能随意假定移动幅度相同。"
+        ],
+        "examApplication": [
+          "先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        ],
+        "summary": [
+          "非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。",
+          "同时移动时必须保留不确定性，不能随意假定移动幅度相同。"
+        ],
+        "explanation": "识别变化的决定因素。移动相关曲线而保持其他关系不变。比较新旧均衡价格和数量。\n\n### 原创情境与推导\n\n原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。\n\n同时移动时必须保留不确定性，不能随意假定移动幅度相同。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+      },
+      "en": {
+        "id": "u2-13-equilibrium-shifts",
+        "locale": "en",
+        "title": "Equilibrium changes and simultaneous shifts",
+        "takeaway": "Non-price changes shift demand or supply and produce a new equilibrium. With simultaneous shifts, some effects depend on their relative magnitudes.",
+        "definition": "Non-price changes shift demand or supply and produce a new equilibrium. With simultaneous shifts, some effects depend on their relative magnitudes.",
+        "causalChain": [
+          "Identify the changed determinant",
+          "shift the relevant curve while holding other relationships constant",
+          "compare old and new equilibrium price and quantity"
+        ],
+        "misconceptions": [
+          "Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
+        ],
+        "examApplication": [
+          "Identify the changed determinant before comparing prices, quantities and stakeholders."
+        ],
+        "summary": [
+          "Non-price changes shift demand or supply and produce a new equilibrium. With simultaneous shifts, some effects depend on their relative magnitudes.",
+          "Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
+        ],
+        "explanation": "Identify the changed determinant.  shift the relevant curve while holding other relationships constant.  compare old and new equilibrium price and quantity.\n\n### Original scenario and reasoning\n\nIllustrative example: when demand and supply both shift right, equilibrium quantity rises but price may rise, fall or stay unchanged. Directions alone cannot determine price. With demand right and supply left, price rises but quantity is ambiguous.\n\nPreserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-13-equilibrium-shifts-flash-1",
+        "knowledgePointId": "u2-13-equilibrium-shifts",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“均衡变化与同时移动”，并说明一个关键条件。",
+          "en": "Explain Equilibrium changes and simultaneous shifts and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。",
+          "en": "Non-price changes shift demand or supply and produce a new equilibrium. With simultaneous shifts, some effects depend on their relative magnitudes."
+        },
+        "explanation": {
+          "zh-CN": "同时移动时必须保留不确定性，不能随意假定移动幅度相同。",
+          "en": "Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
+        }
+      },
+      {
+        "id": "u2-13-equilibrium-shifts-mcq-1",
+        "knowledgePointId": "u2-13-equilibrium-shifts",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "需求与供给同时右移，什么可以确定？",
+          "en": "Demand and supply both shift right. What can be determined?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "均衡数量增加",
+            "en": "Equilibrium quantity rises"
+          },
+          {
+            "id": "b",
+            "zh-CN": "价格必然上升",
+            "en": "Price must rise"
+          },
+          {
+            "id": "c",
+            "zh-CN": "价格必然下降",
+            "en": "Price must fall"
+          },
+          {
+            "id": "d",
+            "zh-CN": "数量必然减少",
+            "en": "Quantity must fall"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "均衡数量增加。 原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。 同时移动时必须保留不确定性，不能随意假定移动幅度相同。",
+          "en": "Equilibrium quantity rises. Illustrative example: when demand and supply both shift right, equilibrium quantity rises but price may rise, fall or stay unchanged. Directions alone cannot determine price. With demand right and supply left, price rises but quantity is ambiguous. Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
+        }
+      },
+      {
+        "id": "u2-13-equilibrium-shifts-short-1",
+        "knowledgePointId": "u2-13-equilibrium-shifts",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释均衡变化与同时移动的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Equilibrium changes and simultaneous shifts and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。 识别变化的决定因素；移动相关曲线而保持其他关系不变；比较新旧均衡价格和数量 原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。",
+          "en": "Non-price changes shift demand or supply and produce a new equilibrium. With simultaneous shifts, some effects depend on their relative magnitudes. Identify the changed determinant; shift the relevant curve while holding other relationships constant; compare old and new equilibrium price and quantity Illustrative example: when demand and supply both shift right, equilibrium quantity rises but price may rise, fall or stay unchanged. Directions alone cannot determine price. With demand right and supply left, price rises but quantity is ambiguous."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "移动",
+              "en": "shift"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "移动",
+                "识别变化的决定因素"
+              ],
+              "en": [
+                "shift",
+                "Identify the changed determinant"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "数量",
+              "en": "quantity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "数量",
+                "移动相关曲线而保持其他关系不变"
+              ],
+              "en": [
+                "quantity",
+                "shift the relevant curve while holding other relationships constant"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "不确定",
+              "en": "ambiguous"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "不确定",
+                "比较新旧均衡价格和数量"
+              ],
+              "en": [
+                "ambiguous",
+                "compare old and new equilibrium price and quantity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-14-price-mechanism",
+      "slug": "price-mechanism",
+      "section": "2.3",
+      "level": "core",
+      "syllabusRefs": [
+        "2.3 Competitive market equilibrium"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.4",
+          "pages": [
+            57
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand",
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-11-equilibrium",
+        "u2-12-shortage-surplus",
+        "u2-13-equilibrium-shifts"
+      ],
+      "terms": [
+        "价格的信号、激励与配给",
+        "Price signals, incentives and rationing",
+        "信号",
+        "signal",
+        "激励",
+        "incentive",
+        "配给",
+        "rationing"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "信号",
+          "激励",
+          "配给"
+        ],
+        "en": [
+          "signal",
+          "incentive",
+          "rationing"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-14-price-mechanism-flash-1",
+        "u2-14-price-mechanism-mcq-1",
+        "u2-14-price-mechanism-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-14-price-mechanism",
+        "locale": "zh-CN",
+        "title": "价格的信号、激励与配给",
+        "takeaway": "价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。",
+        "definition": "价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。",
+        "causalChain": [
+          "需求相对供给增加",
+          "涨价传递稀缺信号",
+          "生产者扩张且部分消费者减少购买"
+        ],
+        "misconceptions": [
+          "高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。"
+        ],
+        "examApplication": [
+          "先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        ],
+        "summary": [
+          "价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。",
+          "高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。"
+        ],
+        "explanation": "需求相对供给增加。涨价传递稀缺信号。生产者扩张且部分消费者减少购买。\n\n### 原创情境与推导\n\n原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。\n\n高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+      },
+      "en": {
+        "id": "u2-14-price-mechanism",
+        "locale": "en",
+        "title": "Price signals, incentives and rationing",
+        "takeaway": "Prices coordinate decentralised decisions by signalling relative scarcity, changing incentives and rationing scarce goods according to willingness and ability to pay.",
+        "definition": "Prices coordinate decentralised decisions by signalling relative scarcity, changing incentives and rationing scarce goods according to willingness and ability to pay.",
+        "causalChain": [
+          "Demand rises relative to supply",
+          "a higher price signals scarcity",
+          "producers expand while some buyers reduce purchases"
+        ],
+        "misconceptions": [
+          "A high price reflects relative market scarcity, not a direct measure of urgency of human need."
+        ],
+        "examApplication": [
+          "Identify the changed determinant before comparing prices, quantities and stakeholders."
+        ],
+        "summary": [
+          "Prices coordinate decentralised decisions by signalling relative scarcity, changing incentives and rationing scarce goods according to willingness and ability to pay.",
+          "A high price reflects relative market scarcity, not a direct measure of urgency of human need."
+        ],
+        "explanation": "Demand rises relative to supply.  a higher price signals scarcity.  producers expand while some buyers reduce purchases.\n\n### Original scenario and reasoning\n\nIllustrative example: rain damages vegetables and prices rise, encouraging other farms to deliver more and buyers to economise. Ability to pay affects access, so efficient rationing and equitable distribution are distinct criteria.\n\nA high price reflects relative market scarcity, not a direct measure of urgency of human need.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-14-price-mechanism-flash-1",
+        "knowledgePointId": "u2-14-price-mechanism",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“价格的信号、激励与配给”，并说明一个关键条件。",
+          "en": "Explain Price signals, incentives and rationing and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。",
+          "en": "Prices coordinate decentralised decisions by signalling relative scarcity, changing incentives and rationing scarce goods according to willingness and ability to pay."
+        },
+        "explanation": {
+          "zh-CN": "高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。",
+          "en": "A high price reflects relative market scarcity, not a direct measure of urgency of human need."
+        }
+      },
+      {
+        "id": "u2-14-price-mechanism-mcq-1",
+        "knowledgePointId": "u2-14-price-mechanism",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "涨价鼓励企业增产体现哪项功能？",
+          "en": "A higher price encouraging firms to expand illustrates which function?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "消除所有稀缺",
+            "en": "Eliminate all scarcity"
+          },
+          {
+            "id": "b",
+            "zh-CN": "激励",
+            "en": "Incentive"
+          },
+          {
+            "id": "c",
+            "zh-CN": "保证收入平等",
+            "en": "Guarantee equal income"
+          },
+          {
+            "id": "d",
+            "zh-CN": "固定生产配额",
+            "en": "Fix production quotas"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "激励。 原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。 高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。",
+          "en": "Incentive. Illustrative example: rain damages vegetables and prices rise, encouraging other farms to deliver more and buyers to economise. Ability to pay affects access, so efficient rationing and equitable distribution are distinct criteria. A high price reflects relative market scarcity, not a direct measure of urgency of human need."
+        }
+      },
+      {
+        "id": "u2-14-price-mechanism-short-1",
+        "knowledgePointId": "u2-14-price-mechanism",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释价格的信号、激励与配给的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Price signals, incentives and rationing and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。 需求相对供给增加；涨价传递稀缺信号；生产者扩张且部分消费者减少购买 原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。",
+          "en": "Prices coordinate decentralised decisions by signalling relative scarcity, changing incentives and rationing scarce goods according to willingness and ability to pay. Demand rises relative to supply; a higher price signals scarcity; producers expand while some buyers reduce purchases Illustrative example: rain damages vegetables and prices rise, encouraging other farms to deliver more and buyers to economise. Ability to pay affects access, so efficient rationing and equitable distribution are distinct criteria."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "信号",
+              "en": "signal"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信号",
+                "需求相对供给增加"
+              ],
+              "en": [
+                "signal",
+                "Demand rises relative to supply"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "激励",
+              "en": "incentive"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "激励",
+                "涨价传递稀缺信号"
+              ],
+              "en": [
+                "incentive",
+                "a higher price signals scarcity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "配给",
+              "en": "rationing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "配给",
+                "生产者扩张且部分消费者减少购买"
+              ],
+              "en": [
+                "rationing",
+                "producers expand while some buyers reduce purchases"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-15-surplus-efficiency",
+      "slug": "surplus-efficiency",
+      "section": "2.3",
+      "level": "core",
+      "syllabusRefs": [
+        "2.3 Competitive market equilibrium"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.5",
+          "pages": [
+            62
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand",
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-11-equilibrium",
+        "u2-12-shortage-surplus",
+        "u2-13-equilibrium-shifts"
+      ],
+      "terms": [
+        "消费者剩余、生产者剩余与效率",
+        "Surplus and allocative efficiency",
+        "支付意愿",
+        "willingness to pay",
+        "边际成本",
+        "marginal cost",
+        "总剩余",
+        "total surplus"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "支付意愿",
+          "边际成本",
+          "总剩余"
+        ],
+        "en": [
+          "willingness to pay",
+          "marginal cost",
+          "total surplus"
+        ]
+      },
+      "diagramIds": [
+        "demand-supply"
+      ],
+      "quizIds": [
+        "u2-15-surplus-efficiency-flash-1",
+        "u2-15-surplus-efficiency-mcq-1",
+        "u2-15-surplus-efficiency-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-15-surplus-efficiency",
+        "locale": "zh-CN",
+        "title": "消费者剩余、生产者剩余与效率",
+        "takeaway": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
+        "definition": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
+        "causalChain": [
+          "需求代表边际利益、供给代表边际成本",
+          "交易使利益超过成本的单位被生产",
+          "MB=MC 时总剩余达到最大"
+        ],
+        "misconceptions": [
+          "生产者剩余不等于利润，因为它通常没有扣除固定成本。"
+        ],
+        "examApplication": [
+          "先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        ],
+        "summary": [
+          "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
+          "生产者剩余不等于利润，因为它通常没有扣除固定成本。"
+        ],
+        "explanation": "需求代表边际利益、供给代表边际成本。交易使利益超过成本的单位被生产。MB=MC 时总剩余达到最大。\n\n### 原创情境与推导\n\n原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。\n\n生产者剩余不等于利润，因为它通常没有扣除固定成本。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+      },
+      "en": {
+        "id": "u2-15-surplus-efficiency",
+        "locale": "en",
+        "title": "Surplus and allocative efficiency",
+        "takeaway": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
+        "definition": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
+        "causalChain": [
+          "Demand represents marginal benefit and supply marginal cost",
+          "units whose benefits exceed costs are traded",
+          "total surplus is maximised at MB=MC"
+        ],
+        "misconceptions": [
+          "Producer surplus is not identical to profit because fixed costs have not generally been deducted."
+        ],
+        "examApplication": [
+          "Identify the changed determinant before comparing prices, quantities and stakeholders."
+        ],
+        "summary": [
+          "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
+          "Producer surplus is not identical to profit because fixed costs have not generally been deducted."
+        ],
+        "explanation": "Demand represents marginal benefit and supply marginal cost.  units whose benefits exceed costs are traded.  total surplus is maximised at MB=MC.\n\n### Original scenario and reasoning\n\nIllustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure.\n\nProducer surplus is not identical to profit because fixed costs have not generally been deducted.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-15-surplus-efficiency-flash-1",
+        "knowledgePointId": "u2-15-surplus-efficiency",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“消费者剩余、生产者剩余与效率”，并说明一个关键条件。",
+          "en": "Explain Surplus and allocative efficiency and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
+          "en": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent."
+        },
+        "explanation": {
+          "zh-CN": "生产者剩余不等于利润，因为它通常没有扣除固定成本。",
+          "en": "Producer surplus is not identical to profit because fixed costs have not generally been deducted."
+        }
+      },
+      {
+        "id": "u2-15-surplus-efficiency-mcq-1",
+        "knowledgePointId": "u2-15-surplus-efficiency",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "支付意愿 18、价格 12，消费者剩余是多少？",
+          "en": "Willingness to pay is 18 and price 12. What is consumer surplus?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "12",
+            "en": "12"
+          },
+          {
+            "id": "b",
+            "zh-CN": "18",
+            "en": "18"
+          },
+          {
+            "id": "c",
+            "zh-CN": "6",
+            "en": "6"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "6。 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。 生产者剩余不等于利润，因为它通常没有扣除固定成本。",
+          "en": "6. Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure. Producer surplus is not identical to profit because fixed costs have not generally been deducted."
+        }
+      },
+      {
+        "id": "u2-15-surplus-efficiency-short-1",
+        "knowledgePointId": "u2-15-surplus-efficiency",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释消费者剩余、生产者剩余与效率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Surplus and allocative efficiency and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。 需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。",
+          "en": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent. Demand represents marginal benefit and supply marginal cost; units whose benefits exceed costs are traded; total surplus is maximised at MB=MC Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "支付意愿",
+              "en": "willingness to pay"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "支付意愿",
+                "需求代表边际利益、供给代表边际成本"
+              ],
+              "en": [
+                "willingness to pay",
+                "Demand represents marginal benefit and supply marginal cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际成本",
+              "en": "marginal cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际成本",
+                "交易使利益超过成本的单位被生产"
+              ],
+              "en": [
+                "marginal cost",
+                "units whose benefits exceed costs are traded"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "总剩余",
+              "en": "total surplus"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总剩余",
+                "MB=MC 时总剩余达到最大"
+              ],
+              "en": [
+                "total surplus",
+                "total surplus is maximised at MB=MC"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-16-bounded-rationality",
+      "slug": "bounded-rationality",
+      "section": "2.4",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.4 Critique of maximizing behaviour"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.6",
+          "pages": [
+            72
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-24-economic-models"
+      ],
+      "related": [
+        "u2-17-biases-nudges",
+        "u2-18-firm-objectives"
+      ],
+      "terms": [
+        "理性选择与有限理性",
+        "Rational choice and bounded rationality",
+        "信息",
+        "information",
+        "决策成本",
+        "decision costs",
+        "满意",
+        "satisficing"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "信息",
+          "决策成本",
+          "满意"
+        ],
+        "en": [
+          "information",
+          "decision costs",
+          "satisficing"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-16-bounded-rationality-flash-1",
+        "u2-16-bounded-rationality-mcq-1",
+        "u2-16-bounded-rationality-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-16-bounded-rationality",
+        "locale": "zh-CN",
+        "title": "理性选择与有限理性",
+        "takeaway": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。",
+        "definition": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。",
+        "causalChain": [
+          "可比较的选项很多",
+          "搜索和计算有成本",
+          "消费者采用简化规则或满意方案"
+        ],
+        "misconceptions": [
+          "有限理性不是说人没有目标或随机选择。"
+        ],
+        "examApplication": [
+          "用具体决策说明模型假设与行为证据的差异。"
+        ],
+        "summary": [
+          "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。",
+          "有限理性不是说人没有目标或随机选择。"
+        ],
+        "explanation": "可比较的选项很多。搜索和计算有成本。消费者采用简化规则或满意方案。\n\n### 原创情境与推导\n\n原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。\n\n有限理性不是说人没有目标或随机选择。\n\n用具体决策说明模型假设与行为证据的差异。"
+      },
+      "en": {
+        "id": "u2-16-bounded-rationality",
+        "locale": "en",
+        "title": "Rational choice and bounded rationality",
+        "takeaway": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing.",
+        "definition": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing.",
+        "causalChain": [
+          "Many options must be compared",
+          "search and calculation are costly",
+          "consumers adopt simplifying rules or satisfactory options"
+        ],
+        "misconceptions": [
+          "Bounded rationality does not mean consumers have no goals or choose randomly."
+        ],
+        "examApplication": [
+          "Use a concrete decision to explain the gap between assumptions and observed behaviour."
+        ],
+        "summary": [
+          "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing.",
+          "Bounded rationality does not mean consumers have no goals or choose randomly."
+        ],
+        "explanation": "Many options must be compared.  search and calculation are costly.  consumers adopt simplifying rules or satisfactory options.\n\n### Original scenario and reasoning\n\nIllustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility.\n\nBounded rationality does not mean consumers have no goals or choose randomly.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-16-bounded-rationality-flash-1",
+        "knowledgePointId": "u2-16-bounded-rationality",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“理性选择与有限理性”，并说明一个关键条件。",
+          "en": "Explain Rational choice and bounded rationality and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。",
+          "en": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing."
+        },
+        "explanation": {
+          "zh-CN": "有限理性不是说人没有目标或随机选择。",
+          "en": "Bounded rationality does not mean consumers have no goals or choose randomly."
+        }
+      },
+      {
+        "id": "u2-16-bounded-rationality-mcq-1",
+        "knowledgePointId": "u2-16-bounded-rationality",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "选第一个满足最低要求的产品属于什么？",
+          "en": "Choosing the first product that meets minimum requirements is what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "完全信息下精确最优",
+            "en": "Exact optimisation with perfect information"
+          },
+          {
+            "id": "b",
+            "zh-CN": "固定成本增加",
+            "en": "Higher fixed cost"
+          },
+          {
+            "id": "c",
+            "zh-CN": "纯公共物品",
+            "en": "A pure public good"
+          },
+          {
+            "id": "d",
+            "zh-CN": "满意化",
+            "en": "Satisficing"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "满意化。 原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。 有限理性不是说人没有目标或随机选择。",
+          "en": "Satisficing. Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility. Bounded rationality does not mean consumers have no goals or choose randomly."
+        }
+      },
+      {
+        "id": "u2-16-bounded-rationality-short-1",
+        "knowledgePointId": "u2-16-bounded-rationality",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释理性选择与有限理性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Rational choice and bounded rationality and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。 可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案 原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。",
+          "en": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing. Many options must be compared; search and calculation are costly; consumers adopt simplifying rules or satisfactory options Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "信息",
+              "en": "information"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信息",
+                "可比较的选项很多"
+              ],
+              "en": [
+                "information",
+                "Many options must be compared"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "决策成本",
+              "en": "decision costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "决策成本",
+                "搜索和计算有成本"
+              ],
+              "en": [
+                "decision costs",
+                "search and calculation are costly"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "满意",
+              "en": "satisficing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "满意",
+                "消费者采用简化规则或满意方案"
+              ],
+              "en": [
+                "satisficing",
+                "consumers adopt simplifying rules or satisfactory options"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-17-biases-nudges",
+      "slug": "biases-nudges",
+      "section": "2.4",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.4 Critique of maximizing behaviour"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.6",
+          "pages": [
+            72
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-24-economic-models"
+      ],
+      "related": [
+        "u2-16-bounded-rationality",
+        "u2-18-firm-objectives"
+      ],
+      "terms": [
+        "行为偏差与助推",
+        "Behavioural biases and nudges",
+        "默认",
+        "default",
+        "选择环境",
+        "choice architecture",
+        "退出",
+        "opt-out"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "默认",
+          "选择环境",
+          "退出"
+        ],
+        "en": [
+          "default",
+          "choice architecture",
+          "opt-out"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-17-biases-nudges-flash-1",
+        "u2-17-biases-nudges-mcq-1",
+        "u2-17-biases-nudges-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-17-biases-nudges",
+        "locale": "zh-CN",
+        "title": "行为偏差与助推",
+        "takeaway": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。",
+        "definition": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。",
+        "causalChain": [
+          "注意力与判断受到呈现方式影响",
+          "默认或框架改变心理参照",
+          "选择在价格未变时也可改变"
+        ],
+        "misconceptions": [
+          "助推不是税收或禁止；减少选择自由的措施需要另行分类。"
+        ],
+        "examApplication": [
+          "用具体决策说明模型假设与行为证据的差异。"
+        ],
+        "summary": [
+          "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。",
+          "助推不是税收或禁止；减少选择自由的措施需要另行分类。"
+        ],
+        "explanation": "注意力与判断受到呈现方式影响。默认或框架改变心理参照。选择在价格未变时也可改变。\n\n### 原创情境与推导\n\n原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。\n\n助推不是税收或禁止；减少选择自由的措施需要另行分类。\n\n用具体决策说明模型假设与行为证据的差异。"
+      },
+      "en": {
+        "id": "u2-17-biases-nudges",
+        "locale": "en",
+        "title": "Behavioural biases and nudges",
+        "takeaway": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose.",
+        "definition": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose.",
+        "causalChain": [
+          "Presentation influences attention and judgement",
+          "defaults or framing alter reference points",
+          "choices can change even without a price change"
+        ],
+        "misconceptions": [
+          "A nudge is not a tax or prohibition; policies restricting choice require a different classification."
+        ],
+        "examApplication": [
+          "Use a concrete decision to explain the gap between assumptions and observed behaviour."
+        ],
+        "summary": [
+          "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose.",
+          "A nudge is not a tax or prohibition; policies restricting choice require a different classification."
+        ],
+        "explanation": "Presentation influences attention and judgement.  defaults or framing alter reference points.  choices can change even without a price change.\n\n### Original scenario and reasoning\n\nIllustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation.\n\nA nudge is not a tax or prohibition; policies restricting choice require a different classification.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-17-biases-nudges-flash-1",
+        "knowledgePointId": "u2-17-biases-nudges",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“行为偏差与助推”，并说明一个关键条件。",
+          "en": "Explain Behavioural biases and nudges and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。",
+          "en": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose."
+        },
+        "explanation": {
+          "zh-CN": "助推不是税收或禁止；减少选择自由的措施需要另行分类。",
+          "en": "A nudge is not a tax or prohibition; policies restricting choice require a different classification."
+        }
+      },
+      {
+        "id": "u2-17-biases-nudges-mcq-1",
+        "knowledgePointId": "u2-17-biases-nudges",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "默认加入且可自由退出的储蓄方案最接近什么？",
+          "en": "Default enrolment in saving with a free opt-out is closest to what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "助推",
+            "en": "A nudge"
+          },
+          {
+            "id": "b",
+            "zh-CN": "强制禁令",
+            "en": "A compulsory ban"
+          },
+          {
+            "id": "c",
+            "zh-CN": "单位生产补贴",
+            "en": "A per-unit production subsidy"
+          },
+          {
+            "id": "d",
+            "zh-CN": "价格下限",
+            "en": "A price floor"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "助推。 原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。 助推不是税收或禁止；减少选择自由的措施需要另行分类。",
+          "en": "A nudge. Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation. A nudge is not a tax or prohibition; policies restricting choice require a different classification."
+        }
+      },
+      {
+        "id": "u2-17-biases-nudges-short-1",
+        "knowledgePointId": "u2-17-biases-nudges",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释行为偏差与助推的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Behavioural biases and nudges and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。 注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变 原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。",
+          "en": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose. Presentation influences attention and judgement; defaults or framing alter reference points; choices can change even without a price change Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "默认",
+              "en": "default"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "默认",
+                "注意力与判断受到呈现方式影响"
+              ],
+              "en": [
+                "default",
+                "Presentation influences attention and judgement"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "选择环境",
+              "en": "choice architecture"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "选择环境",
+                "默认或框架改变心理参照"
+              ],
+              "en": [
+                "choice architecture",
+                "defaults or framing alter reference points"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "退出",
+              "en": "opt-out"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "退出",
+                "选择在价格未变时也可改变"
+              ],
+              "en": [
+                "opt-out",
+                "choices can change even without a price change"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-18-firm-objectives",
+      "slug": "firm-objectives",
+      "section": "2.4",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.4 Critique of maximizing behaviour"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "2",
+          "section": "2.6",
+          "pages": [
+            72
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-24-economic-models"
+      ],
+      "related": [
+        "u2-16-bounded-rationality",
+        "u2-17-biases-nudges"
+      ],
+      "terms": [
+        "企业的多重目标",
+        "Alternative objectives of firms",
+        "目标",
+        "objectives",
+        "收入",
+        "revenue",
+        "成本",
+        "cost"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "目标",
+          "收入",
+          "成本"
+        ],
+        "en": [
+          "objectives",
+          "revenue",
+          "cost"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-18-firm-objectives-flash-1",
+        "u2-18-firm-objectives-mcq-1",
+        "u2-18-firm-objectives-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-18-firm-objectives",
+        "locale": "zh-CN",
+        "title": "企业的多重目标",
+        "takeaway": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。",
+        "definition": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。",
+        "causalChain": [
+          "所有者与管理者面临不同激励",
+          "增长或声誉可能优先",
+          "短期产量不一定对应最大利润"
+        ],
+        "misconceptions": [
+          "收入最大化忽略成本，不能直接当作利润最大化。"
+        ],
+        "examApplication": [
+          "用具体决策说明模型假设与行为证据的差异。"
+        ],
+        "summary": [
+          "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。",
+          "收入最大化忽略成本，不能直接当作利润最大化。"
+        ],
+        "explanation": "所有者与管理者面临不同激励。增长或声誉可能优先。短期产量不一定对应最大利润。\n\n### 原创情境与推导\n\n原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。\n\n收入最大化忽略成本，不能直接当作利润最大化。\n\n用具体决策说明模型假设与行为证据的差异。"
+      },
+      "en": {
+        "id": "u2-18-firm-objectives",
+        "locale": "en",
+        "title": "Alternative objectives of firms",
+        "takeaway": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives.",
+        "definition": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives.",
+        "causalChain": [
+          "Owners and managers face different incentives",
+          "growth or reputation may take priority",
+          "short-run output need not maximise profit"
+        ],
+        "misconceptions": [
+          "Revenue maximisation ignores costs and is not equivalent to profit maximisation."
+        ],
+        "examApplication": [
+          "Use a concrete decision to explain the gap between assumptions and observed behaviour."
+        ],
+        "summary": [
+          "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives.",
+          "Revenue maximisation ignores costs and is not equivalent to profit maximisation."
+        ],
+        "explanation": "Owners and managers face different incentives.  growth or reputation may take priority.  short-run output need not maximise profit.\n\n### Original scenario and reasoning\n\nIllustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ.\n\nRevenue maximisation ignores costs and is not equivalent to profit maximisation.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-18-firm-objectives-flash-1",
+        "knowledgePointId": "u2-18-firm-objectives",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“企业的多重目标”，并说明一个关键条件。",
+          "en": "Explain Alternative objectives of firms and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。",
+          "en": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives."
+        },
+        "explanation": {
+          "zh-CN": "收入最大化忽略成本，不能直接当作利润最大化。",
+          "en": "Revenue maximisation ignores costs and is not equivalent to profit maximisation."
+        }
+      },
+      {
+        "id": "u2-18-firm-objectives-mcq-1",
+        "knowledgePointId": "u2-18-firm-objectives",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "企业收入上升但成本增加更多，利润怎样？",
+          "en": "Revenue rises but costs increase by more. What happens to profit?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "利润必然上升",
+            "en": "Profit must rise"
+          },
+          {
+            "id": "b",
+            "zh-CN": "利润下降",
+            "en": "Profit falls"
+          },
+          {
+            "id": "c",
+            "zh-CN": "利润一定为零",
+            "en": "Profit is necessarily zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "收入下降",
+            "en": "Revenue falls"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "利润下降。 原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。 收入最大化忽略成本，不能直接当作利润最大化。",
+          "en": "Profit falls. Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ. Revenue maximisation ignores costs and is not equivalent to profit maximisation."
+        }
+      },
+      {
+        "id": "u2-18-firm-objectives-short-1",
+        "knowledgePointId": "u2-18-firm-objectives",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释企业的多重目标的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Alternative objectives of firms and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。 所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润 原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。",
+          "en": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives. Owners and managers face different incentives; growth or reputation may take priority; short-run output need not maximise profit Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "目标",
+              "en": "objectives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "目标",
+                "所有者与管理者面临不同激励"
+              ],
+              "en": [
+                "objectives",
+                "Owners and managers face different incentives"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "收入",
+              "en": "revenue"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "增长或声誉可能优先"
+              ],
+              "en": [
+                "revenue",
+                "growth or reputation may take priority"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "成本",
+              "en": "cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "成本",
+                "短期产量不一定对应最大利润"
+              ],
+              "en": [
+                "cost",
+                "short-run output need not maximise profit"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-19-ped",
+      "slug": "ped",
+      "section": "2.5",
+      "level": "core",
+      "syllabusRefs": [
+        "2.5 Elasticity of demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.1",
+          "pages": [
+            85
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand"
+      ],
+      "related": [
+        "u2-20-ped-determinants",
+        "u2-21-ped-revenue",
+        "u2-22-yed"
+      ],
+      "terms": [
+        "需求价格弹性 PED",
+        "Price elasticity of demand",
+        "百分比",
+        "percentage",
+        "自身价格",
+        "own price",
+        "绝对值",
+        "absolute value"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "百分比",
+          "自身价格",
+          "绝对值"
+        ],
+        "en": [
+          "percentage",
+          "own price",
+          "absolute value"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-19-ped-flash-1",
+        "u2-19-ped-mcq-1",
+        "u2-19-ped-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-19-ped",
+        "locale": "zh-CN",
+        "title": "需求价格弹性 PED",
+        "takeaway": "PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。",
+        "definition": "PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。",
+        "causalChain": [
+          "先计算数量与价格的百分比变化",
+          "用数量百分比除以价格百分比",
+          "绝对值大于一表示富有弹性"
+        ],
+        "misconceptions": [
+          "弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。"
+        ],
+        "examApplication": [
+          "列公式、代入同一基数的百分比、解释符号与分类。"
+        ],
+        "summary": [
+          "PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。",
+          "弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。"
+        ],
+        "explanation": "先计算数量与价格的百分比变化。用数量百分比除以价格百分比。绝对值大于一表示富有弹性。\n\n### 原创情境与推导\n\n原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为 2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。\n\n弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+      },
+      "en": {
+        "id": "u2-19-ped",
+        "locale": "en",
+        "title": "Price elasticity of demand",
+        "takeaway": "PED measures the responsiveness of quantity demanded to own-price changes: percentage change in quantity demanded divided by percentage change in price. Classification normally uses its absolute value.",
+        "definition": "PED measures the responsiveness of quantity demanded to own-price changes: percentage change in quantity demanded divided by percentage change in price. Classification normally uses its absolute value.",
+        "causalChain": [
+          "Calculate percentage changes in quantity and price",
+          "divide the quantity percentage by the price percentage",
+          "magnitude above one means elastic demand"
+        ],
+        "misconceptions": [
+          "Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
+        ],
+        "examApplication": [
+          "State the formula, use consistent percentage bases and interpret sign and classification."
+        ],
+        "summary": [
+          "PED measures the responsiveness of quantity demanded to own-price changes: percentage change in quantity demanded divided by percentage change in price. Classification normally uses its absolute value.",
+          "Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
+        ],
+        "explanation": "Calculate percentage changes in quantity and price.  divide the quantity percentage by the price percentage.  magnitude above one means elastic demand.\n\n### Original scenario and reasoning\n\nIllustrative example: price rises 10% and quantity demanded falls 20%, so PED is -2, with magnitude two: elastic. State whether base-period or midpoint percentages are used and do not mix denominators within a calculation.\n\nElasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-19-ped-flash-1",
+        "knowledgePointId": "u2-19-ped",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求价格弹性 PED”，并说明一个关键条件。",
+          "en": "Explain Price elasticity of demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。",
+          "en": "PED measures the responsiveness of quantity demanded to own-price changes: percentage change in quantity demanded divided by percentage change in price. Classification normally uses its absolute value."
+        },
+        "explanation": {
+          "zh-CN": "弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。",
+          "en": "Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
+        }
+      },
+      {
+        "id": "u2-19-ped-mcq-1",
+        "knowledgePointId": "u2-19-ped",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "价格涨 5%、需求量降 15%，PED 绝对值是多少？",
+          "en": "Price rises 5% and quantity falls 15%. What is the magnitude of PED?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "0.33",
+            "en": "0.33"
+          },
+          {
+            "id": "b",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "c",
+            "zh-CN": "3",
+            "en": "3"
+          },
+          {
+            "id": "d",
+            "zh-CN": "75",
+            "en": "75"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "3。 原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为 2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。",
+          "en": "3. Illustrative example: price rises 10% and quantity demanded falls 20%, so PED is -2, with magnitude two: elastic. State whether base-period or midpoint percentages are used and do not mix denominators within a calculation. Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
+        }
+      },
+      {
+        "id": "u2-19-ped-short-1",
+        "knowledgePointId": "u2-19-ped",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求价格弹性 PED的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Price elasticity of demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "PED 衡量需求量对自身价格变化的反应程度，等于需求量百分比变化除以价格百分比变化；分类通常使用绝对值。 先计算数量与价格的百分比变化；用数量百分比除以价格百分比；绝对值大于一表示富有弹性 原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为 2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。",
+          "en": "PED measures the responsiveness of quantity demanded to own-price changes: percentage change in quantity demanded divided by percentage change in price. Classification normally uses its absolute value. Calculate percentage changes in quantity and price; divide the quantity percentage by the price percentage; magnitude above one means elastic demand Illustrative example: price rises 10% and quantity demanded falls 20%, so PED is -2, with magnitude two: elastic. State whether base-period or midpoint percentages are used and do not mix denominators within a calculation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "先计算数量与价格的百分比变化"
+              ],
+              "en": [
+                "percentage",
+                "Calculate percentage changes in quantity and price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "自身价格",
+              "en": "own price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自身价格",
+                "用数量百分比除以价格百分比"
+              ],
+              "en": [
+                "own price",
+                "divide the quantity percentage by the price percentage"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "绝对值",
+              "en": "absolute value"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "绝对值",
+                "绝对值大于一表示富有弹性"
+              ],
+              "en": [
+                "absolute value",
+                "magnitude above one means elastic demand"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-20-ped-determinants",
+      "slug": "ped-determinants",
+      "section": "2.5",
+      "level": "core",
+      "syllabusRefs": [
+        "2.5 Elasticity of demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.1",
+          "pages": [
+            85
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand"
+      ],
+      "related": [
+        "u2-19-ped",
+        "u2-21-ped-revenue",
+        "u2-22-yed"
+      ],
+      "terms": [
+        "PED 的决定因素",
+        "Determinants of PED",
+        "替代品",
+        "substitutes",
+        "时间",
+        "time",
+        "反应",
+        "responsiveness"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "替代品",
+          "时间",
+          "反应"
+        ],
+        "en": [
+          "substitutes",
+          "time",
+          "responsiveness"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-20-ped-determinants-flash-1",
+        "u2-20-ped-determinants-mcq-1",
+        "u2-20-ped-determinants-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-20-ped-determinants",
+        "locale": "zh-CN",
+        "title": "PED 的决定因素",
+        "takeaway": "替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。",
+        "definition": "替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。",
+        "causalChain": [
+          "替代品更多或调整时间更长",
+          "消费者更容易改变购买方式",
+          "需求通常更富有弹性"
+        ],
+        "misconceptions": [
+          "必需品通常缺乏弹性，但并非需求量完全不变。"
+        ],
+        "examApplication": [
+          "列公式、代入同一基数的百分比、解释符号与分类。"
+        ],
+        "summary": [
+          "替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。",
+          "必需品通常缺乏弹性，但并非需求量完全不变。"
+        ],
+        "explanation": "替代品更多或调整时间更长。消费者更容易改变购买方式。需求通常更富有弹性。\n\n### 原创情境与推导\n\n原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。\n\n必需品通常缺乏弹性，但并非需求量完全不变。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+      },
+      "en": {
+        "id": "u2-20-ped-determinants",
+        "locale": "en",
+        "title": "Determinants of PED",
+        "takeaway": "Availability of substitutes, necessity, share of income and time to adjust influence consumers' responsiveness to price.",
+        "definition": "Availability of substitutes, necessity, share of income and time to adjust influence consumers' responsiveness to price.",
+        "causalChain": [
+          "More substitutes or more adjustment time",
+          "consumers can change purchases more easily",
+          "demand is normally more elastic"
+        ],
+        "misconceptions": [
+          "Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
+        ],
+        "examApplication": [
+          "State the formula, use consistent percentage bases and interpret sign and classification."
+        ],
+        "summary": [
+          "Availability of substitutes, necessity, share of income and time to adjust influence consumers' responsiveness to price.",
+          "Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
+        ],
+        "explanation": "More substitutes or more adjustment time.  consumers can change purchases more easily.  demand is normally more elastic.\n\n### Original scenario and reasoning\n\nIllustrative example: one bottled-water brand has many substitutes, whereas drinking water as a whole has fewer. Narrowly defined markets may be more elastic than broad ones. Tax evaluation should distinguish short-run habits from long-run adaptation.\n\nNecessities are often inelastic, but their quantity demanded is not necessarily completely fixed.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-20-ped-determinants-flash-1",
+        "knowledgePointId": "u2-20-ped-determinants",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“PED 的决定因素”，并说明一个关键条件。",
+          "en": "Explain Determinants of PED and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。",
+          "en": "Availability of substitutes, necessity, share of income and time to adjust influence consumers' responsiveness to price."
+        },
+        "explanation": {
+          "zh-CN": "必需品通常缺乏弹性，但并非需求量完全不变。",
+          "en": "Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
+        }
+      },
+      {
+        "id": "u2-20-ped-determinants-mcq-1",
+        "knowledgePointId": "u2-20-ped-determinants",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "其他条件相同，增加近似替代品通常怎样改变 PED？",
+          "en": "Other conditions equal, more close substitutes normally do what to PED?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "降至零",
+            "en": "Reduce it to zero"
+          },
+          {
+            "id": "b",
+            "zh-CN": "变成供给弹性",
+            "en": "Turn it into PES"
+          },
+          {
+            "id": "c",
+            "zh-CN": "必然保持不变",
+            "en": "Necessarily leave it unchanged"
+          },
+          {
+            "id": "d",
+            "zh-CN": "提高绝对值",
+            "en": "Increase its magnitude"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "提高绝对值。 原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。 必需品通常缺乏弹性，但并非需求量完全不变。",
+          "en": "Increase its magnitude. Illustrative example: one bottled-water brand has many substitutes, whereas drinking water as a whole has fewer. Narrowly defined markets may be more elastic than broad ones. Tax evaluation should distinguish short-run habits from long-run adaptation. Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
+        }
+      },
+      {
+        "id": "u2-20-ped-determinants-short-1",
+        "knowledgePointId": "u2-20-ped-determinants",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释PED 的决定因素的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Determinants of PED and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。 替代品更多或调整时间更长；消费者更容易改变购买方式；需求通常更富有弹性 原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。",
+          "en": "Availability of substitutes, necessity, share of income and time to adjust influence consumers' responsiveness to price. More substitutes or more adjustment time; consumers can change purchases more easily; demand is normally more elastic Illustrative example: one bottled-water brand has many substitutes, whereas drinking water as a whole has fewer. Narrowly defined markets may be more elastic than broad ones. Tax evaluation should distinguish short-run habits from long-run adaptation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "替代品",
+              "en": "substitutes"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "替代品",
+                "替代品更多或调整时间更长"
+              ],
+              "en": [
+                "substitutes",
+                "More substitutes or more adjustment time"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "时间",
+              "en": "time"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "时间",
+                "消费者更容易改变购买方式"
+              ],
+              "en": [
+                "time",
+                "consumers can change purchases more easily"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "反应",
+              "en": "responsiveness"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "反应",
+                "需求通常更富有弹性"
+              ],
+              "en": [
+                "responsiveness",
+                "demand is normally more elastic"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-21-ped-revenue",
+      "slug": "ped-revenue",
+      "section": "2.5",
+      "level": "core",
+      "syllabusRefs": [
+        "2.5 Elasticity of demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.1",
+          "pages": [
+            85
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand"
+      ],
+      "related": [
+        "u2-19-ped",
+        "u2-20-ped-determinants",
+        "u2-22-yed"
+      ],
+      "terms": [
+        "PED 与总收入",
+        "PED and total revenue",
+        "P×Q",
+        "P×Q",
+        "百分比",
+        "percentage",
+        "收入",
+        "revenue"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "P×Q",
+          "百分比",
+          "收入"
+        ],
+        "en": [
+          "P×Q",
+          "percentage",
+          "revenue"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-21-ped-revenue-flash-1",
+        "u2-21-ped-revenue-mcq-1",
+        "u2-21-ped-revenue-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-21-ped-revenue",
+        "locale": "zh-CN",
+        "title": "PED 与总收入",
+        "takeaway": "总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。",
+        "definition": "总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。",
+        "causalChain": [
+          "价格上升而数量下降",
+          "比较两者百分比变化",
+          "数量反应更大时乘积下降"
+        ],
+        "misconceptions": [
+          "收入与利润必须分开；利润还需扣除成本。"
+        ],
+        "examApplication": [
+          "列公式、代入同一基数的百分比、解释符号与分类。"
+        ],
+        "summary": [
+          "总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。",
+          "收入与利润必须分开；利润还需扣除成本。"
+        ],
+        "explanation": "价格上升而数量下降。比较两者百分比变化。数量反应更大时乘积下降。\n\n### 原创情境与推导\n\n原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到 880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。\n\n收入与利润必须分开；利润还需扣除成本。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+      },
+      "en": {
+        "id": "u2-21-ped-revenue",
+        "locale": "en",
+        "title": "PED and total revenue",
+        "takeaway": "Total revenue is P times Q. A price rise increases revenue with inelastic demand and reduces it with elastic demand; unit elasticity approximately preserves revenue for a small change.",
+        "definition": "Total revenue is P times Q. A price rise increases revenue with inelastic demand and reduces it with elastic demand; unit elasticity approximately preserves revenue for a small change.",
+        "causalChain": [
+          "Price rises while quantity falls",
+          "compare their percentage changes",
+          "if quantity responds proportionately more, the product falls"
+        ],
+        "misconceptions": [
+          "Keep revenue separate from profit, which also deducts costs."
+        ],
+        "examApplication": [
+          "State the formula, use consistent percentage bases and interpret sign and classification."
+        ],
+        "summary": [
+          "Total revenue is P times Q. A price rise increases revenue with inelastic demand and reduces it with elastic demand; unit elasticity approximately preserves revenue for a small change.",
+          "Keep revenue separate from profit, which also deducts costs."
+        ],
+        "explanation": "Price rises while quantity falls.  compare their percentage changes.  if quantity responds proportionately more, the product falls.\n\n### Original scenario and reasoning\n\nIllustrative example: price rises from ten to eleven and quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does not by itself prove profit falls because costs may change too. For finite changes, check the actual P×Q products.\n\nKeep revenue separate from profit, which also deducts costs.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-21-ped-revenue-flash-1",
+        "knowledgePointId": "u2-21-ped-revenue",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“PED 与总收入”，并说明一个关键条件。",
+          "en": "Explain PED and total revenue and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。",
+          "en": "Total revenue is P times Q. A price rise increases revenue with inelastic demand and reduces it with elastic demand; unit elasticity approximately preserves revenue for a small change."
+        },
+        "explanation": {
+          "zh-CN": "收入与利润必须分开；利润还需扣除成本。",
+          "en": "Keep revenue separate from profit, which also deducts costs."
+        }
+      },
+      {
+        "id": "u2-21-ped-revenue-mcq-1",
+        "knowledgePointId": "u2-21-ped-revenue",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "需求富有弹性时小幅降价通常怎样影响总收入？",
+          "en": "With elastic demand, a small price cut normally does what to total revenue?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "增加",
+            "en": "Increase it"
+          },
+          {
+            "id": "b",
+            "zh-CN": "减少",
+            "en": "Decrease it"
+          },
+          {
+            "id": "c",
+            "zh-CN": "变为零",
+            "en": "Make it zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "一定不变",
+            "en": "Necessarily leave it unchanged"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "增加。 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到 880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。 收入与利润必须分开；利润还需扣除成本。",
+          "en": "Increase it. Illustrative example: price rises from ten to eleven and quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does not by itself prove profit falls because costs may change too. For finite changes, check the actual P×Q products. Keep revenue separate from profit, which also deducts costs."
+        }
+      },
+      {
+        "id": "u2-21-ped-revenue-short-1",
+        "knowledgePointId": "u2-21-ped-revenue",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释PED 与总收入的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of PED and total revenue and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。 价格上升而数量下降；比较两者百分比变化；数量反应更大时乘积下降 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到 880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。",
+          "en": "Total revenue is P times Q. A price rise increases revenue with inelastic demand and reduces it with elastic demand; unit elasticity approximately preserves revenue for a small change. Price rises while quantity falls; compare their percentage changes; if quantity responds proportionately more, the product falls Illustrative example: price rises from ten to eleven and quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does not by itself prove profit falls because costs may change too. For finite changes, check the actual P×Q products."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "P×Q",
+              "en": "P×Q"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "P×Q",
+                "价格上升而数量下降"
+              ],
+              "en": [
+                "P×Q",
+                "Price rises while quantity falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "比较两者百分比变化"
+              ],
+              "en": [
+                "percentage",
+                "compare their percentage changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "收入",
+              "en": "revenue"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "数量反应更大时乘积下降"
+              ],
+              "en": [
+                "revenue",
+                "if quantity responds proportionately more, the product falls"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-22-yed",
+      "slug": "yed",
+      "section": "2.5",
+      "level": "core",
+      "syllabusRefs": [
+        "2.5 Elasticity of demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.2",
+          "pages": [
+            97
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand"
+      ],
+      "related": [
+        "u2-19-ped",
+        "u2-20-ped-determinants",
+        "u2-21-ped-revenue"
+      ],
+      "terms": [
+        "需求收入弹性 YED",
+        "Income elasticity of demand",
+        "收入",
+        "income",
+        "正常品",
+        "normal good",
+        "劣等品",
+        "inferior good"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "收入",
+          "正常品",
+          "劣等品"
+        ],
+        "en": [
+          "income",
+          "normal good",
+          "inferior good"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-22-yed-flash-1",
+        "u2-22-yed-mcq-1",
+        "u2-22-yed-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-22-yed",
+        "locale": "zh-CN",
+        "title": "需求收入弹性 YED",
+        "takeaway": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。",
+        "definition": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。",
+        "causalChain": [
+          "收入改变而商品价格保持不变",
+          "消费者重新配置预算",
+          "数量反应的方向和比例确定 YED"
+        ],
+        "misconceptions": [
+          "YED 分类保留正负号，不能像 PED 分类一样去掉符号。"
+        ],
+        "examApplication": [
+          "列公式、代入同一基数的百分比、解释符号与分类。"
+        ],
+        "summary": [
+          "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。",
+          "YED 分类保留正负号，不能像 PED 分类一样去掉符号。"
+        ],
+        "explanation": "收入改变而商品价格保持不变。消费者重新配置预算。数量反应的方向和比例确定 YED。\n\n### 原创情境与推导\n\n原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。\n\nYED 分类保留正负号，不能像 PED 分类一样去掉符号。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+      },
+      "en": {
+        "id": "u2-22-yed",
+        "locale": "en",
+        "title": "Income elasticity of demand",
+        "takeaway": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities.",
+        "definition": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities.",
+        "causalChain": [
+          "Income changes with product price held constant",
+          "consumers reallocate budgets",
+          "the direction and proportion of quantity response determine YED"
+        ],
+        "misconceptions": [
+          "Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
+        ],
+        "examApplication": [
+          "State the formula, use consistent percentage bases and interpret sign and classification."
+        ],
+        "summary": [
+          "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities.",
+          "Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
+        ],
+        "explanation": "Income changes with product price held constant.  consumers reallocate budgets.  the direction and proportion of quantity response determine YED.\n\n### Original scenario and reasoning\n\nIllustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality.\n\nRetain the sign when classifying YED; do not discard it as with PED magnitude classifications.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-22-yed-flash-1",
+        "knowledgePointId": "u2-22-yed",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求收入弹性 YED”，并说明一个关键条件。",
+          "en": "Explain Income elasticity of demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。",
+          "en": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities."
+        },
+        "explanation": {
+          "zh-CN": "YED 分类保留正负号，不能像 PED 分类一样去掉符号。",
+          "en": "Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
+        }
+      },
+      {
+        "id": "u2-22-yed-mcq-1",
+        "knowledgePointId": "u2-22-yed",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "YED=-0.4 的商品属于什么？",
+          "en": "A good has YED=-0.4. How is it classified?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "奢侈品",
+            "en": "Luxury"
+          },
+          {
+            "id": "b",
+            "zh-CN": "劣等品",
+            "en": "Inferior good"
+          },
+          {
+            "id": "c",
+            "zh-CN": "正常必需品",
+            "en": "Normal necessity"
+          },
+          {
+            "id": "d",
+            "zh-CN": "公共物品",
+            "en": "Public good"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "劣等品。 原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 YED 分类保留正负号，不能像 PED 分类一样去掉符号。",
+          "en": "Inferior good. Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality. Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
+        }
+      },
+      {
+        "id": "u2-22-yed-short-1",
+        "knowledgePointId": "u2-22-yed",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求收入弹性 YED的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Income elasticity of demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。 收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED 原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。",
+          "en": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities. Income changes with product price held constant; consumers reallocate budgets; the direction and proportion of quantity response determine YED Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "收入改变而商品价格保持不变"
+              ],
+              "en": [
+                "income",
+                "Income changes with product price held constant"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "正常品",
+              "en": "normal good"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "正常品",
+                "消费者重新配置预算"
+              ],
+              "en": [
+                "normal good",
+                "consumers reallocate budgets"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "劣等品",
+              "en": "inferior good"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "劣等品",
+                "数量反应的方向和比例确定 YED"
+              ],
+              "en": [
+                "inferior good",
+                "the direction and proportion of quantity response determine YED"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-23-elasticity-extremes",
+      "slug": "elasticity-extremes",
+      "section": "2.5",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.5 Elasticity of demand"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.1",
+          "pages": [
+            85
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-01-demand"
+      ],
+      "related": [
+        "u2-19-ped",
+        "u2-20-ped-determinants",
+        "u2-21-ped-revenue"
+      ],
+      "terms": [
+        "弹性、斜率与收入变化",
+        "Elasticity, slope and changing income",
+        "百分比",
+        "percentage",
+        "P/Q",
+        "P/Q",
+        "斜率",
+        "slope"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "百分比",
+          "P/Q",
+          "斜率"
+        ],
+        "en": [
+          "percentage",
+          "P/Q",
+          "slope"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-23-elasticity-extremes-flash-1",
+        "u2-23-elasticity-extremes-mcq-1",
+        "u2-23-elasticity-extremes-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-23-elasticity-extremes",
+        "locale": "zh-CN",
+        "title": "弹性、斜率与收入变化",
+        "takeaway": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。",
+        "definition": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。",
+        "causalChain": [
+          "弹性公式包含价格与数量的比例",
+          "曲线上位置改变 P/Q",
+          "同一斜率产生不同弹性"
+        ],
+        "misconceptions": [
+          "不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。"
+        ],
+        "examApplication": [
+          "列公式、代入同一基数的百分比、解释符号与分类。"
+        ],
+        "summary": [
+          "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。",
+          "不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。"
+        ],
+        "explanation": "弹性公式包含价格与数量的比例。曲线上位置改变 P/Q。同一斜率产生不同弹性。\n\n### 原创情境与推导\n\n原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。\n\n不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+      },
+      "en": {
+        "id": "u2-23-elasticity-extremes",
+        "locale": "en",
+        "title": "Elasticity, slope and changing income",
+        "takeaway": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries.",
+        "definition": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries.",
+        "causalChain": [
+          "Elasticity contains the ratio of price to quantity",
+          "location changes P/Q",
+          "the same slope therefore produces different elasticity"
+        ],
+        "misconceptions": [
+          "Visual steepness with different axis scales cannot directly establish relative elasticity."
+        ],
+        "examApplication": [
+          "State the formula, use consistent percentage bases and interpret sign and classification."
+        ],
+        "summary": [
+          "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries.",
+          "Visual steepness with different axis scales cannot directly establish relative elasticity."
+        ],
+        "explanation": "Elasticity contains the ratio of price to quantity.  location changes P/Q.  the same slope therefore produces different elasticity.\n\n### Original scenario and reasoning\n\nIllustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow.\n\nVisual steepness with different axis scales cannot directly establish relative elasticity.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-23-elasticity-extremes-flash-1",
+        "knowledgePointId": "u2-23-elasticity-extremes",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“弹性、斜率与收入变化”，并说明一个关键条件。",
+          "en": "Explain Elasticity, slope and changing income and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。",
+          "en": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries."
+        },
+        "explanation": {
+          "zh-CN": "不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。",
+          "en": "Visual steepness with different axis scales cannot directly establish relative elasticity."
+        }
+      },
+      {
+        "id": "u2-23-elasticity-extremes-mcq-1",
+        "knowledgePointId": "u2-23-elasticity-extremes",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "直线需求曲线的斜率恒定，PED 是否也恒定？",
+          "en": "A straight demand curve has constant slope. Is PED constant too?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "是，两者相同",
+            "en": "Yes, they are identical"
+          },
+          {
+            "id": "b",
+            "zh-CN": "PED 恒为零",
+            "en": "PED is always zero"
+          },
+          {
+            "id": "c",
+            "zh-CN": "否，P/Q 改变",
+            "en": "No, P/Q changes"
+          },
+          {
+            "id": "d",
+            "zh-CN": "PED 恒为一",
+            "en": "PED is always one"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "否，P/Q 改变。 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。 不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。",
+          "en": "No, P/Q changes. Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow. Visual steepness with different axis scales cannot directly establish relative elasticity."
+        }
+      },
+      {
+        "id": "u2-23-elasticity-extremes-short-1",
+        "knowledgePointId": "u2-23-elasticity-extremes",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释弹性、斜率与收入变化的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Elasticity, slope and changing income and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。 弹性公式包含价格与数量的比例；曲线上位置改变 P/Q；同一斜率产生不同弹性 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。",
+          "en": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries. Elasticity contains the ratio of price to quantity; location changes P/Q; the same slope therefore produces different elasticity Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "弹性公式包含价格与数量的比例"
+              ],
+              "en": [
+                "percentage",
+                "Elasticity contains the ratio of price to quantity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "P/Q",
+              "en": "P/Q"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "P/Q",
+                "曲线上位置改变 P/Q"
+              ],
+              "en": [
+                "P/Q",
+                "location changes P/Q"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "斜率",
+              "en": "slope"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "斜率",
+                "同一斜率产生不同弹性"
+              ],
+              "en": [
+                "slope",
+                "the same slope therefore produces different elasticity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-24-pes",
+      "slug": "pes",
+      "section": "2.6",
+      "level": "core",
+      "syllabusRefs": [
+        "2.6 Elasticity of supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.3",
+          "pages": [
+            104
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-25-pes-determinants",
+        "u2-26-pes-application"
+      ],
+      "terms": [
+        "供给价格弹性 PES",
+        "Price elasticity of supply",
+        "供给量",
+        "quantity supplied",
+        "百分比",
+        "percentage",
+        "价格",
+        "price"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "供给量",
+          "百分比",
+          "价格"
+        ],
+        "en": [
+          "quantity supplied",
+          "percentage",
+          "price"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-24-pes-flash-1",
+        "u2-24-pes-mcq-1",
+        "u2-24-pes-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-24-pes",
+        "locale": "zh-CN",
+        "title": "供给价格弹性 PES",
+        "takeaway": "PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。",
+        "definition": "PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。",
+        "causalChain": [
+          "价格改变生产激励",
+          "投入和产能约束决定可增加的数量",
+          "百分比数量反应与价格反应比较"
+        ],
+        "misconceptions": [
+          "PES 衡量供给量反应，不衡量需求变化或供给移动。"
+        ],
+        "examApplication": [
+          "结合闲置产能与调整时间解释供给反应。"
+        ],
+        "summary": [
+          "PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。",
+          "PES 衡量供给量反应，不衡量需求变化或供给移动。"
+        ],
+        "explanation": "价格改变生产激励。投入和产能约束决定可增加的数量。百分比数量反应与价格反应比较。\n\n### 原创情境与推导\n\n原创例：价格上涨 10%，供给量增加 5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。\n\nPES 衡量供给量反应，不衡量需求变化或供给移动。\n\n结合闲置产能与调整时间解释供给反应。"
+      },
+      "en": {
+        "id": "u2-24-pes",
+        "locale": "en",
+        "title": "Price elasticity of supply",
+        "takeaway": "PES equals percentage change in quantity supplied divided by percentage change in price and measures producers' quantity response to a price change.",
+        "definition": "PES equals percentage change in quantity supplied divided by percentage change in price and measures producers' quantity response to a price change.",
+        "causalChain": [
+          "Price changes incentives to produce",
+          "input and capacity limits determine feasible expansion",
+          "compare percentage quantity and price changes"
+        ],
+        "misconceptions": [
+          "PES measures quantity supplied response, not a demand change or a supply shift."
+        ],
+        "examApplication": [
+          "Use spare capacity and adjustment time to explain supply responsiveness."
+        ],
+        "summary": [
+          "PES equals percentage change in quantity supplied divided by percentage change in price and measures producers' quantity response to a price change.",
+          "PES measures quantity supplied response, not a demand change or a supply shift."
+        ],
+        "explanation": "Price changes incentives to produce.  input and capacity limits determine feasible expansion.  compare percentage quantity and price changes.\n\n### Original scenario and reasoning\n\nIllustrative example: price rises 10% and quantity supplied rises 5%, so PES=0.5: inelastic. Completely fixed immediate output gives a vertical supply curve, but not all short-run supply is perfectly inelastic.\n\nPES measures quantity supplied response, not a demand change or a supply shift.\n\nUse spare capacity and adjustment time to explain supply responsiveness."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-24-pes-flash-1",
+        "knowledgePointId": "u2-24-pes",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“供给价格弹性 PES”，并说明一个关键条件。",
+          "en": "Explain Price elasticity of supply and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。",
+          "en": "PES equals percentage change in quantity supplied divided by percentage change in price and measures producers' quantity response to a price change."
+        },
+        "explanation": {
+          "zh-CN": "PES 衡量供给量反应，不衡量需求变化或供给移动。",
+          "en": "PES measures quantity supplied response, not a demand change or a supply shift."
+        }
+      },
+      {
+        "id": "u2-24-pes-mcq-1",
+        "knowledgePointId": "u2-24-pes",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "价格涨 8%、供给量涨 12%，PES 为多少？",
+          "en": "Price rises 8% and quantity supplied 12%. What is PES?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "0.67",
+            "en": "0.67"
+          },
+          {
+            "id": "b",
+            "zh-CN": "4",
+            "en": "4"
+          },
+          {
+            "id": "c",
+            "zh-CN": "96",
+            "en": "96"
+          },
+          {
+            "id": "d",
+            "zh-CN": "1.5",
+            "en": "1.5"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "1.5。 原创例：价格上涨 10%，供给量增加 5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。 PES 衡量供给量反应，不衡量需求变化或供给移动。",
+          "en": "1.5. Illustrative example: price rises 10% and quantity supplied rises 5%, so PES=0.5: inelastic. Completely fixed immediate output gives a vertical supply curve, but not all short-run supply is perfectly inelastic. PES measures quantity supplied response, not a demand change or a supply shift."
+        }
+      },
+      {
+        "id": "u2-24-pes-short-1",
+        "knowledgePointId": "u2-24-pes",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释供给价格弹性 PES的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Price elasticity of supply and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。 价格改变生产激励；投入和产能约束决定可增加的数量；百分比数量反应与价格反应比较 原创例：价格上涨 10%，供给量增加 5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。",
+          "en": "PES equals percentage change in quantity supplied divided by percentage change in price and measures producers' quantity response to a price change. Price changes incentives to produce; input and capacity limits determine feasible expansion; compare percentage quantity and price changes Illustrative example: price rises 10% and quantity supplied rises 5%, so PES=0.5: inelastic. Completely fixed immediate output gives a vertical supply curve, but not all short-run supply is perfectly inelastic."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "供给量",
+              "en": "quantity supplied"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给量",
+                "价格改变生产激励"
+              ],
+              "en": [
+                "quantity supplied",
+                "Price changes incentives to produce"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "投入和产能约束决定可增加的数量"
+              ],
+              "en": [
+                "percentage",
+                "input and capacity limits determine feasible expansion"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "价格",
+              "en": "price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格",
+                "百分比数量反应与价格反应比较"
+              ],
+              "en": [
+                "price",
+                "compare percentage quantity and price changes"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-25-pes-determinants",
+      "slug": "pes-determinants",
+      "section": "2.6",
+      "level": "core",
+      "syllabusRefs": [
+        "2.6 Elasticity of supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.3",
+          "pages": [
+            104
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-24-pes",
+        "u2-26-pes-application"
+      ],
+      "terms": [
+        "PES、产能与时间",
+        "PES, capacity and time",
+        "闲置产能",
+        "spare capacity",
+        "时间",
+        "time",
+        "投入",
+        "inputs"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "闲置产能",
+          "时间",
+          "投入"
+        ],
+        "en": [
+          "spare capacity",
+          "time",
+          "inputs"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-25-pes-determinants-flash-1",
+        "u2-25-pes-determinants-mcq-1",
+        "u2-25-pes-determinants-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-25-pes-determinants",
+        "locale": "zh-CN",
+        "title": "PES、产能与时间",
+        "takeaway": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
+        "definition": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
+        "causalChain": [
+          "可动用库存或闲置机器",
+          "生产可迅速扩张",
+          "供给反应较大且 PES 通常较高"
+        ],
+        "misconceptions": [
+          "时间更长通常提高 PES，但不是无条件保证。"
+        ],
+        "examApplication": [
+          "结合闲置产能与调整时间解释供给反应。"
+        ],
+        "summary": [
+          "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
+          "时间更长通常提高 PES，但不是无条件保证。"
+        ],
+        "explanation": "可动用库存或闲置机器。生产可迅速扩张。供给反应较大且 PES 通常较高。\n\n### 原创情境与推导\n\n原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。\n\n时间更长通常提高 PES，但不是无条件保证。\n\n结合闲置产能与调整时间解释供给反应。"
+      },
+      "en": {
+        "id": "u2-25-pes-determinants",
+        "locale": "en",
+        "title": "PES, capacity and time",
+        "takeaway": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price.",
+        "definition": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price.",
+        "causalChain": [
+          "Inventories or idle machines are available",
+          "production expands quickly",
+          "quantity response is larger and PES is normally higher"
+        ],
+        "misconceptions": [
+          "More time normally increases PES but does not guarantee it under every constraint."
+        ],
+        "examApplication": [
+          "Use spare capacity and adjustment time to explain supply responsiveness."
+        ],
+        "summary": [
+          "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price.",
+          "More time normally increases PES but does not guarantee it under every constraint."
+        ],
+        "explanation": "Inventories or idle machines are available.  production expands quickly.  quantity response is larger and PES is normally higher.\n\n### Original scenario and reasoning\n\nIllustrative example: a printer with idle machines can respond quickly to higher prices, while an orchard needs years to grow mature trees. Long-run input flexibility normally raises elasticity, but land and ecological limits may persist.\n\nMore time normally increases PES but does not guarantee it under every constraint.\n\nUse spare capacity and adjustment time to explain supply responsiveness."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-25-pes-determinants-flash-1",
+        "knowledgePointId": "u2-25-pes-determinants",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“PES、产能与时间”，并说明一个关键条件。",
+          "en": "Explain PES, capacity and time and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
+          "en": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price."
+        },
+        "explanation": {
+          "zh-CN": "时间更长通常提高 PES，但不是无条件保证。",
+          "en": "More time normally increases PES but does not guarantee it under every constraint."
+        }
+      },
+      {
+        "id": "u2-25-pes-determinants-mcq-1",
+        "knowledgePointId": "u2-25-pes-determinants",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "其他条件相同，哪项通常提高 PES？",
+          "en": "Other things equal, which normally raises PES?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "更多闲置产能",
+            "en": "More spare capacity"
+          },
+          {
+            "id": "b",
+            "zh-CN": "更长生产周期",
+            "en": "A longer production period"
+          },
+          {
+            "id": "c",
+            "zh-CN": "投入完全不可移动",
+            "en": "Completely immobile inputs"
+          },
+          {
+            "id": "d",
+            "zh-CN": "不能储存且满产",
+            "en": "No storage and full capacity"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "更多闲置产能。 原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。 时间更长通常提高 PES，但不是无条件保证。",
+          "en": "More spare capacity. Illustrative example: a printer with idle machines can respond quickly to higher prices, while an orchard needs years to grow mature trees. Long-run input flexibility normally raises elasticity, but land and ecological limits may persist. More time normally increases PES but does not guarantee it under every constraint."
+        }
+      },
+      {
+        "id": "u2-25-pes-determinants-short-1",
+        "knowledgePointId": "u2-25-pes-determinants",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释PES、产能与时间的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of PES, capacity and time and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。 可动用库存或闲置机器；生产可迅速扩张；供给反应较大且 PES 通常较高 原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。",
+          "en": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price. Inventories or idle machines are available; production expands quickly; quantity response is larger and PES is normally higher Illustrative example: a printer with idle machines can respond quickly to higher prices, while an orchard needs years to grow mature trees. Long-run input flexibility normally raises elasticity, but land and ecological limits may persist."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "闲置产能",
+              "en": "spare capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "闲置产能",
+                "可动用库存或闲置机器"
+              ],
+              "en": [
+                "spare capacity",
+                "Inventories or idle machines are available"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "时间",
+              "en": "time"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "时间",
+                "生产可迅速扩张"
+              ],
+              "en": [
+                "time",
+                "production expands quickly"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "投入",
+              "en": "inputs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "投入",
+                "供给反应较大且 PES 通常较高"
+              ],
+              "en": [
+                "inputs",
+                "quantity response is larger and PES is normally higher"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-26-pes-application",
+      "slug": "pes-application",
+      "section": "2.6",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.6 Elasticity of supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "3",
+          "section": "3.3",
+          "pages": [
+            104
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-06-supply"
+      ],
+      "related": [
+        "u2-24-pes",
+        "u2-25-pes-determinants"
+      ],
+      "terms": [
+        "PES 的计算与政策含义",
+        "PES calculations and policy implications",
+        "产能",
+        "capacity",
+        "价格",
+        "price",
+        "数量",
+        "quantity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "产能",
+          "价格",
+          "数量"
+        ],
+        "en": [
+          "capacity",
+          "price",
+          "quantity"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-26-pes-application-flash-1",
+        "u2-26-pes-application-mcq-1",
+        "u2-26-pes-application-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-26-pes-application",
+        "locale": "zh-CN",
+        "title": "PES 的计算与政策含义",
+        "takeaway": "判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。",
+        "definition": "判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。",
+        "causalChain": [
+          "需求刺激使需求右移",
+          "产能限制供给反应",
+          "供给越缺乏弹性价格反应通常越大"
+        ],
+        "misconceptions": [
+          "需求补助不能自动消除供给侧限制。"
+        ],
+        "examApplication": [
+          "结合闲置产能与调整时间解释供给反应。"
+        ],
+        "summary": [
+          "判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。",
+          "需求补助不能自动消除供给侧限制。"
+        ],
+        "explanation": "需求刺激使需求右移。产能限制供给反应。供给越缺乏弹性价格反应通常越大。\n\n### 原创情境与推导\n\n原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算 PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。\n\n需求补助不能自动消除供给侧限制。\n\n结合闲置产能与调整时间解释供给反应。"
+      },
+      "en": {
+        "id": "u2-26-pes-application",
+        "locale": "en",
+        "title": "PES calculations and policy implications",
+        "takeaway": "Supply elasticity matters for a policy's quantity effect: weak supply response makes demand stimulation more likely to raise prices than greatly expand output.",
+        "definition": "Supply elasticity matters for a policy's quantity effect: weak supply response makes demand stimulation more likely to raise prices than greatly expand output.",
+        "causalChain": [
+          "Demand stimulus shifts demand right",
+          "capacity constrains supply response",
+          "more inelastic supply normally creates a larger price response"
+        ],
+        "misconceptions": [
+          "A demand subsidy does not automatically remove supply-side constraints."
+        ],
+        "examApplication": [
+          "Use spare capacity and adjustment time to explain supply responsiveness."
+        ],
+        "summary": [
+          "Supply elasticity matters for a policy's quantity effect: weak supply response makes demand stimulation more likely to raise prices than greatly expand output.",
+          "A demand subsidy does not automatically remove supply-side constraints."
+        ],
+        "explanation": "Demand stimulus shifts demand right.  capacity constrains supply response.  more inelastic supply normally creates a larger price response.\n\n### Original scenario and reasoning\n\nIllustrative example: price rises from 20 to 22 and supply from 100 to 105. Using initial values, PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can raise rents in the short run rather than add many homes.\n\nA demand subsidy does not automatically remove supply-side constraints.\n\nUse spare capacity and adjustment time to explain supply responsiveness."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-26-pes-application-flash-1",
+        "knowledgePointId": "u2-26-pes-application",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“PES 的计算与政策含义”，并说明一个关键条件。",
+          "en": "Explain PES calculations and policy implications and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。",
+          "en": "Supply elasticity matters for a policy's quantity effect: weak supply response makes demand stimulation more likely to raise prices than greatly expand output."
+        },
+        "explanation": {
+          "zh-CN": "需求补助不能自动消除供给侧限制。",
+          "en": "A demand subsidy does not automatically remove supply-side constraints."
+        }
+      },
+      {
+        "id": "u2-26-pes-application-mcq-1",
+        "knowledgePointId": "u2-26-pes-application",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "固定数量供给遇到需求右移，主要结果是什么？",
+          "en": "Demand shifts right against fixed quantity supply. What is the main result?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "数量上涨，价格不变",
+            "en": "Quantity rises, price unchanged"
+          },
+          {
+            "id": "b",
+            "zh-CN": "价格上涨，数量不变",
+            "en": "Price rises, quantity unchanged"
+          },
+          {
+            "id": "c",
+            "zh-CN": "价格与数量都下降",
+            "en": "Both fall"
+          },
+          {
+            "id": "d",
+            "zh-CN": "供给自动无限扩张",
+            "en": "Supply automatically expands without limit"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "价格上涨，数量不变。 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算 PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。 需求补助不能自动消除供给侧限制。",
+          "en": "Price rises, quantity unchanged. Illustrative example: price rises from 20 to 22 and supply from 100 to 105. Using initial values, PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can raise rents in the short run rather than add many homes. A demand subsidy does not automatically remove supply-side constraints."
+        }
+      },
+      {
+        "id": "u2-26-pes-application-short-1",
+        "knowledgePointId": "u2-26-pes-application",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释PES 的计算与政策含义的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of PES calculations and policy implications and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。 需求刺激使需求右移；产能限制供给反应；供给越缺乏弹性价格反应通常越大 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算 PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。",
+          "en": "Supply elasticity matters for a policy's quantity effect: weak supply response makes demand stimulation more likely to raise prices than greatly expand output. Demand stimulus shifts demand right; capacity constrains supply response; more inelastic supply normally creates a larger price response Illustrative example: price rises from 20 to 22 and supply from 100 to 105. Using initial values, PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can raise rents in the short run rather than add many homes."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "产能",
+              "en": "capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产能",
+                "需求刺激使需求右移"
+              ],
+              "en": [
+                "capacity",
+                "Demand stimulus shifts demand right"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "价格",
+              "en": "price"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格",
+                "产能限制供给反应"
+              ],
+              "en": [
+                "price",
+                "capacity constrains supply response"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "数量",
+              "en": "quantity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "数量",
+                "供给越缺乏弹性价格反应通常越大"
+              ],
+              "en": [
+                "quantity",
+                "more inelastic supply normally creates a larger price response"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-27-price-ceiling",
+      "slug": "price-ceiling",
+      "section": "2.7",
+      "level": "core",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.2",
+          "pages": [
+            114
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-28-price-floor",
+        "u2-29-indirect-tax",
+        "u2-30-subsidy"
+      ],
+      "terms": [
+        "最高限价",
+        "Price ceilings",
+        "低于均衡",
+        "below equilibrium",
+        "短缺",
+        "shortage",
+        "配给",
+        "rationing"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "低于均衡",
+          "短缺",
+          "配给"
+        ],
+        "en": [
+          "below equilibrium",
+          "shortage",
+          "rationing"
+        ]
+      },
+      "diagramIds": [
+        "price-ceiling"
+      ],
+      "quizIds": [
+        "u2-27-price-ceiling-flash-1",
+        "u2-27-price-ceiling-mcq-1",
+        "u2-27-price-ceiling-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-27-price-ceiling",
+        "locale": "zh-CN",
+        "title": "最高限价",
+        "takeaway": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
+        "definition": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
+        "causalChain": [
+          "价格被限制在均衡以下",
+          "买方需求量增加、卖方供给量减少",
+          "短缺需要非价格配给"
+        ],
+        "misconceptions": [
+          "高于均衡的最高限价通常没有约束力。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
+          "高于均衡的最高限价通常没有约束力。"
+        ],
+        "explanation": "价格被限制在均衡以下。买方需求量增加、卖方供给量减少。短缺需要非价格配给。\n\n### 原创情境与推导\n\n原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。\n\n高于均衡的最高限价通常没有约束力。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-27-price-ceiling",
+        "locale": "en",
+        "title": "Price ceilings",
+        "takeaway": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
+        "definition": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
+        "causalChain": [
+          "Price is held below equilibrium",
+          "quantity demanded rises and quantity supplied falls",
+          "shortages require non-price rationing"
+        ],
+        "misconceptions": [
+          "A ceiling above equilibrium is normally non-binding."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
+          "A ceiling above equilibrium is normally non-binding."
+        ],
+        "explanation": "Price is held below equilibrium.  quantity demanded rises and quantity supplied falls.  shortages require non-price rationing.\n\n### Original scenario and reasoning\n\nIllustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household.\n\nA ceiling above equilibrium is normally non-binding.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-27-price-ceiling-flash-1",
+        "knowledgePointId": "u2-27-price-ceiling",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“最高限价”，并说明一个关键条件。",
+          "en": "Explain Price ceilings and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
+          "en": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand."
+        },
+        "explanation": {
+          "zh-CN": "高于均衡的最高限价通常没有约束力。",
+          "en": "A ceiling above equilibrium is normally non-binding."
+        }
+      },
+      {
+        "id": "u2-27-price-ceiling-mcq-1",
+        "knowledgePointId": "u2-27-price-ceiling",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "限价下 Qd=120、Qs=80，短缺多少？",
+          "en": "At a ceiling Qd=120 and Qs=80. What is the shortage?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "80",
+            "en": "80"
+          },
+          {
+            "id": "b",
+            "zh-CN": "120",
+            "en": "120"
+          },
+          {
+            "id": "c",
+            "zh-CN": "40",
+            "en": "40"
+          },
+          {
+            "id": "d",
+            "zh-CN": "200",
+            "en": "200"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "40。 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。 高于均衡的最高限价通常没有约束力。",
+          "en": "40. Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household. A ceiling above equilibrium is normally non-binding."
+        }
+      },
+      {
+        "id": "u2-27-price-ceiling-short-1",
+        "knowledgePointId": "u2-27-price-ceiling",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释最高限价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Price ceilings and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。 价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。",
+          "en": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand. Price is held below equilibrium; quantity demanded rises and quantity supplied falls; shortages require non-price rationing Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "低于均衡",
+              "en": "below equilibrium"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "低于均衡",
+                "价格被限制在均衡以下"
+              ],
+              "en": [
+                "below equilibrium",
+                "Price is held below equilibrium"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "短缺",
+              "en": "shortage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "短缺",
+                "买方需求量增加、卖方供给量减少"
+              ],
+              "en": [
+                "shortage",
+                "quantity demanded rises and quantity supplied falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "配给",
+              "en": "rationing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "配给",
+                "短缺需要非价格配给"
+              ],
+              "en": [
+                "rationing",
+                "shortages require non-price rationing"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-28-price-floor",
+      "slug": "price-floor",
+      "section": "2.7",
+      "level": "core",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.2",
+          "pages": [
+            121
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-27-price-ceiling",
+        "u2-29-indirect-tax",
+        "u2-30-subsidy"
+      ],
+      "terms": [
+        "最低限价与最低工资",
+        "Price floors and minimum wages",
+        "高于均衡",
+        "above equilibrium",
+        "过剩",
+        "surplus",
+        "政府购买",
+        "government purchase"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "高于均衡",
+          "过剩",
+          "政府购买"
+        ],
+        "en": [
+          "above equilibrium",
+          "surplus",
+          "government purchase"
+        ]
+      },
+      "diagramIds": [
+        "price-floor"
+      ],
+      "quizIds": [
+        "u2-28-price-floor-flash-1",
+        "u2-28-price-floor-mcq-1",
+        "u2-28-price-floor-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-28-price-floor",
+        "locale": "zh-CN",
+        "title": "最低限价与最低工资",
+        "takeaway": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
+        "definition": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
+        "causalChain": [
+          "价格被保持在均衡以上",
+          "供给量上升、需求量下降",
+          "过剩可能由政府购买或积累"
+        ],
+        "misconceptions": [
+          "低于均衡的最低限价通常不改变市场交易。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
+          "低于均衡的最低限价通常不改变市场交易。"
+        ],
+        "explanation": "价格被保持在均衡以上。供给量上升、需求量下降。过剩可能由政府购买或积累。\n\n### 原创情境与推导\n\n原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。\n\n低于均衡的最低限价通常不改变市场交易。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-28-price-floor",
+        "locale": "en",
+        "title": "Price floors and minimum wages",
+        "takeaway": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
+        "definition": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
+        "causalChain": [
+          "Price is held above equilibrium",
+          "supply rises and demand falls",
+          "surplus may be bought by government or accumulate"
+        ],
+        "misconceptions": [
+          "A floor below equilibrium normally does not change market trades."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
+          "A floor below equilibrium normally does not change market trades."
+        ],
+        "explanation": "Price is held above equilibrium.  supply rises and demand falls.  surplus may be bought by government or accumulate.\n\n### Original scenario and reasoning\n\nIllustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact.\n\nA floor below equilibrium normally does not change market trades.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-28-price-floor-flash-1",
+        "knowledgePointId": "u2-28-price-floor",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“最低限价与最低工资”，并说明一个关键条件。",
+          "en": "Explain Price floors and minimum wages and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
+          "en": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model."
+        },
+        "explanation": {
+          "zh-CN": "低于均衡的最低限价通常不改变市场交易。",
+          "en": "A floor below equilibrium normally does not change market trades."
+        }
+      },
+      {
+        "id": "u2-28-price-floor-mcq-1",
+        "knowledgePointId": "u2-28-price-floor",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "最低价下 Qs=75、Qd=50，过剩多少？",
+          "en": "At a floor Qs=75 and Qd=50. What is the surplus?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "50",
+            "en": "50"
+          },
+          {
+            "id": "b",
+            "zh-CN": "75",
+            "en": "75"
+          },
+          {
+            "id": "c",
+            "zh-CN": "125",
+            "en": "125"
+          },
+          {
+            "id": "d",
+            "zh-CN": "25",
+            "en": "25"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "25。 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。 低于均衡的最低限价通常不改变市场交易。",
+          "en": "25. Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact. A floor below equilibrium normally does not change market trades."
+        }
+      },
+      {
+        "id": "u2-28-price-floor-short-1",
+        "knowledgePointId": "u2-28-price-floor",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释最低限价与最低工资的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Price floors and minimum wages and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。 价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。",
+          "en": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model. Price is held above equilibrium; supply rises and demand falls; surplus may be bought by government or accumulate Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "高于均衡",
+              "en": "above equilibrium"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "高于均衡",
+                "价格被保持在均衡以上"
+              ],
+              "en": [
+                "above equilibrium",
+                "Price is held above equilibrium"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "过剩",
+              "en": "surplus"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "过剩",
+                "供给量上升、需求量下降"
+              ],
+              "en": [
+                "surplus",
+                "supply rises and demand falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "政府购买",
+              "en": "government purchase"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "政府购买",
+                "过剩可能由政府购买或积累"
+              ],
+              "en": [
+                "government purchase",
+                "surplus may be bought by government or accumulate"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-29-indirect-tax",
+      "slug": "indirect-tax",
+      "section": "2.7",
+      "level": "core",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.3",
+          "pages": [
+            127
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-27-price-ceiling",
+        "u2-28-price-floor",
+        "u2-30-subsidy"
+      ],
+      "terms": [
+        "间接税与税收负担",
+        "Indirect taxes and tax incidence",
+        "楔子",
+        "wedge",
+        "弹性",
+        "elasticity",
+        "负担",
+        "incidence"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "楔子",
+          "弹性",
+          "负担"
+        ],
+        "en": [
+          "wedge",
+          "elasticity",
+          "incidence"
+        ]
+      },
+      "diagramIds": [
+        "tax-wedge"
+      ],
+      "quizIds": [
+        "u2-29-indirect-tax-flash-1",
+        "u2-29-indirect-tax-mcq-1",
+        "u2-29-indirect-tax-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-29-indirect-tax",
+        "locale": "zh-CN",
+        "title": "间接税与税收负担",
+        "takeaway": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
+        "definition": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
+        "causalChain": [
+          "税提高交易边际成本",
+          "交易量下降并形成买卖价格差",
+          "较缺乏弹性的一方通常承担更大负担"
+        ],
+        "misconceptions": [
+          "向企业征税并不意味着企业承担全部经济负担。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
+          "向企业征税并不意味着企业承担全部经济负担。"
+        ],
+        "explanation": "税提高交易边际成本。交易量下降并形成买卖价格差。较缺乏弹性的一方通常承担更大负担。\n\n### 原创情境与推导\n\n原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。\n\n向企业征税并不意味着企业承担全部经济负担。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-29-indirect-tax",
+        "locale": "en",
+        "title": "Indirect taxes and tax incidence",
+        "takeaway": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
+        "definition": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
+        "causalChain": [
+          "Tax raises the marginal cost of trading",
+          "quantity falls and buyer/seller prices diverge",
+          "the relatively inelastic side usually bears more burden"
+        ],
+        "misconceptions": [
+          "Collecting the tax from firms does not mean firms bear the entire economic burden."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
+          "Collecting the tax from firms does not mean firms bear the entire economic burden."
+        ],
+        "explanation": "Tax raises the marginal cost of trading.  quantity falls and buyer/seller prices diverge.  the relatively inelastic side usually bears more burden.\n\n### Original scenario and reasoning\n\nIllustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers.\n\nCollecting the tax from firms does not mean firms bear the entire economic burden.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-29-indirect-tax-flash-1",
+        "knowledgePointId": "u2-29-indirect-tax",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“间接税与税收负担”，并说明一个关键条件。",
+          "en": "Explain Indirect taxes and tax incidence and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
+          "en": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax."
+        },
+        "explanation": {
+          "zh-CN": "向企业征税并不意味着企业承担全部经济负担。",
+          "en": "Collecting the tax from firms does not mean firms bear the entire economic burden."
+        }
+      },
+      {
+        "id": "u2-29-indirect-tax-mcq-1",
+        "knowledgePointId": "u2-29-indirect-tax",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "买方支付 14、卖方净收 10，单位税为多少？",
+          "en": "Buyers pay 14 and sellers receive ten. What is the per-unit tax?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "4",
+            "en": "4"
+          },
+          {
+            "id": "b",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "c",
+            "zh-CN": "14",
+            "en": "14"
+          },
+          {
+            "id": "d",
+            "zh-CN": "24",
+            "en": "24"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "4。 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。 向企业征税并不意味着企业承担全部经济负担。",
+          "en": "4. Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers. Collecting the tax from firms does not mean firms bear the entire economic burden."
+        }
+      },
+      {
+        "id": "u2-29-indirect-tax-short-1",
+        "knowledgePointId": "u2-29-indirect-tax",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释间接税与税收负担的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Indirect taxes and tax incidence and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。 税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。",
+          "en": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax. Tax raises the marginal cost of trading; quantity falls and buyer/seller prices diverge; the relatively inelastic side usually bears more burden Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "楔子",
+              "en": "wedge"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "楔子",
+                "税提高交易边际成本"
+              ],
+              "en": [
+                "wedge",
+                "Tax raises the marginal cost of trading"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "弹性",
+              "en": "elasticity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "弹性",
+                "交易量下降并形成买卖价格差"
+              ],
+              "en": [
+                "elasticity",
+                "quantity falls and buyer/seller prices diverge"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "负担",
+              "en": "incidence"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "负担",
+                "较缺乏弹性的一方通常承担更大负担"
+              ],
+              "en": [
+                "incidence",
+                "the relatively inelastic side usually bears more burden"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-30-subsidy",
+      "slug": "subsidy",
+      "section": "2.7",
+      "level": "core",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.4",
+          "pages": [
+            134
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-27-price-ceiling",
+        "u2-28-price-floor",
+        "u2-29-indirect-tax"
+      ],
+      "terms": [
+        "补贴与财政成本",
+        "Subsidies and fiscal cost",
+        "补贴",
+        "subsidy",
+        "数量",
+        "quantity",
+        "财政",
+        "government spending"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "补贴",
+          "数量",
+          "财政"
+        ],
+        "en": [
+          "subsidy",
+          "quantity",
+          "government spending"
+        ]
+      },
+      "diagramIds": [
+        "subsidy-wedge"
+      ],
+      "quizIds": [
+        "u2-30-subsidy-flash-1",
+        "u2-30-subsidy-mcq-1",
+        "u2-30-subsidy-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-30-subsidy",
+        "locale": "zh-CN",
+        "title": "补贴与财政成本",
+        "takeaway": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
+        "definition": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
+        "causalChain": [
+          "补贴降低生产者净边际成本",
+          "供给右移、数量增加",
+          "财政支出与收益在买卖双方间分配"
+        ],
+        "misconceptions": [
+          "补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
+          "补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。"
+        ],
+        "explanation": "补贴降低生产者净边际成本。供给右移、数量增加。财政支出与收益在买卖双方间分配。\n\n### 原创情境与推导\n\n原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。\n\n补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-30-subsidy",
+        "locale": "en",
+        "title": "Subsidies and fiscal cost",
+        "takeaway": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
+        "definition": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
+        "causalChain": [
+          "A subsidy lowers producers' net marginal cost",
+          "supply shifts right and quantity rises",
+          "spending and gains are distributed between buyers and sellers"
+        ],
+        "misconceptions": [
+          "Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
+          "Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
+        ],
+        "explanation": "A subsidy lowers producers' net marginal cost.  supply shifts right and quantity rises.  spending and gains are distributed between buyers and sellers.\n\n### Original scenario and reasoning\n\nIllustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone.\n\nUse the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-30-subsidy-flash-1",
+        "knowledgePointId": "u2-30-subsidy",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“补贴与财政成本”，并说明一个关键条件。",
+          "en": "Explain Subsidies and fiscal cost and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
+          "en": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity."
+        },
+        "explanation": {
+          "zh-CN": "补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。",
+          "en": "Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
+        }
+      },
+      {
+        "id": "u2-30-subsidy-mcq-1",
+        "knowledgePointId": "u2-30-subsidy",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "单位补贴 5，补贴数量 40，政府支出为多少？",
+          "en": "A subsidy is five per unit on 40 units. What is government spending?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "8",
+            "en": "8"
+          },
+          {
+            "id": "b",
+            "zh-CN": "200",
+            "en": "200"
+          },
+          {
+            "id": "c",
+            "zh-CN": "40",
+            "en": "40"
+          },
+          {
+            "id": "d",
+            "zh-CN": "45",
+            "en": "45"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "200。 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。 补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。",
+          "en": "200. Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone. Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
+        }
+      },
+      {
+        "id": "u2-30-subsidy-short-1",
+        "knowledgePointId": "u2-30-subsidy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释补贴与财政成本的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Subsidies and fiscal cost and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。 补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。",
+          "en": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity. A subsidy lowers producers' net marginal cost; supply shifts right and quantity rises; spending and gains are distributed between buyers and sellers Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "补贴",
+              "en": "subsidy"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "补贴",
+                "补贴降低生产者净边际成本"
+              ],
+              "en": [
+                "subsidy",
+                "A subsidy lowers producers' net marginal cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "数量",
+              "en": "quantity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "数量",
+                "供给右移、数量增加"
+              ],
+              "en": [
+                "quantity",
+                "supply shifts right and quantity rises"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "财政",
+              "en": "government spending"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "财政",
+                "财政支出与收益在买卖双方间分配"
+              ],
+              "en": [
+                "government spending",
+                "spending and gains are distributed between buyers and sellers"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-31-intervention-evaluation",
+      "slug": "intervention-evaluation",
+      "section": "2.7",
+      "level": "core",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.1",
+          "pages": [
+            113
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-27-price-ceiling",
+        "u2-28-price-floor",
+        "u2-29-indirect-tax"
+      ],
+      "terms": [
+        "干预的利益相关者与评价",
+        "Stakeholders and intervention evaluation",
+        "利益相关者",
+        "stakeholders",
+        "财政成本",
+        "fiscal cost",
+        "弹性",
+        "elasticity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "利益相关者",
+          "财政成本",
+          "弹性"
+        ],
+        "en": [
+          "stakeholders",
+          "fiscal cost",
+          "elasticity"
+        ]
+      },
+      "diagramIds": [
+        "tax-wedge"
+      ],
+      "quizIds": [
+        "u2-31-intervention-evaluation-flash-1",
+        "u2-31-intervention-evaluation-mcq-1",
+        "u2-31-intervention-evaluation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-31-intervention-evaluation",
+        "locale": "zh-CN",
+        "title": "干预的利益相关者与评价",
+        "takeaway": "评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。",
+        "definition": "评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。",
+        "causalChain": [
+          "政策改变价格、数量或激励",
+          "不同群体受到不同影响",
+          "效率、公平和可执行性需要共同权衡"
+        ],
+        "misconceptions": [
+          "评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。",
+          "评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。"
+        ],
+        "explanation": "政策改变价格、数量或激励。不同群体受到不同影响。效率、公平和可执行性需要共同权衡。\n\n### 原创情境与推导\n\n原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。\n\n评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-31-intervention-evaluation",
+        "locale": "en",
+        "title": "Stakeholders and intervention evaluation",
+        "takeaway": "Evaluate intervention through gains and costs to consumers, producers, government and third parties, considering time, elasticity, enforcement, distribution and alternative policies.",
+        "definition": "Evaluate intervention through gains and costs to consumers, producers, government and third parties, considering time, elasticity, enforcement, distribution and alternative policies.",
+        "causalChain": [
+          "Policy changes prices, quantities or incentives",
+          "groups experience different effects",
+          "efficiency, equity and feasibility must be weighed together"
+        ],
+        "misconceptions": [
+          "Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "Evaluate intervention through gains and costs to consumers, producers, government and third parties, considering time, elasticity, enforcement, distribution and alternative policies.",
+          "Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
+        ],
+        "explanation": "Policy changes prices, quantities or incentives.  groups experience different effects.  efficiency, equity and feasibility must be weighed together.\n\n### Original scenario and reasoning\n\nIllustrative example: a food subsidy helps consumers but requires financing and may also benefit rich households. Compare targeted cash transfers using identification of need, exclusion errors, administrative cost and the ability of supply to expand.\n\nEvaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-31-intervention-evaluation-flash-1",
+        "knowledgePointId": "u2-31-intervention-evaluation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“干预的利益相关者与评价”，并说明一个关键条件。",
+          "en": "Explain Stakeholders and intervention evaluation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。",
+          "en": "Evaluate intervention through gains and costs to consumers, producers, government and third parties, considering time, elasticity, enforcement, distribution and alternative policies."
+        },
+        "explanation": {
+          "zh-CN": "评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。",
+          "en": "Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
+        }
+      },
+      {
+        "id": "u2-31-intervention-evaluation-mcq-1",
+        "knowledgePointId": "u2-31-intervention-evaluation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项最能支持有条件的补贴评价？",
+          "en": "Which best supports a conditional evaluation of a subsidy?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只看消费者价格下降",
+            "en": "Consider only the lower consumer price"
+          },
+          {
+            "id": "b",
+            "zh-CN": "认为财政资源无限",
+            "en": "Assume unlimited fiscal resources"
+          },
+          {
+            "id": "c",
+            "zh-CN": "结合供给弹性和受益分布",
+            "en": "Consider supply elasticity and distribution of gains"
+          },
+          {
+            "id": "d",
+            "zh-CN": "忽略所有第三方",
+            "en": "Ignore every third party"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "结合供给弹性和受益分布。 原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。 评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。",
+          "en": "Consider supply elasticity and distribution of gains. Illustrative example: a food subsidy helps consumers but requires financing and may also benefit rich households. Compare targeted cash transfers using identification of need, exclusion errors, administrative cost and the ability of supply to expand. Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
+        }
+      },
+      {
+        "id": "u2-31-intervention-evaluation-short-1",
+        "knowledgePointId": "u2-31-intervention-evaluation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释干预的利益相关者与评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Stakeholders and intervention evaluation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "评价干预应比较消费者、生产者、政府及第三方的收益与成本，并考虑时间、弹性、执行、分配和替代政策。 政策改变价格、数量或激励；不同群体受到不同影响；效率、公平和可执行性需要共同权衡 原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。",
+          "en": "Evaluate intervention through gains and costs to consumers, producers, government and third parties, considering time, elasticity, enforcement, distribution and alternative policies. Policy changes prices, quantities or incentives; groups experience different effects; efficiency, equity and feasibility must be weighed together Illustrative example: a food subsidy helps consumers but requires financing and may also benefit rich households. Compare targeted cash transfers using identification of need, exclusion errors, administrative cost and the ability of supply to expand."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "利益相关者",
+              "en": "stakeholders"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "利益相关者",
+                "政策改变价格、数量或激励"
+              ],
+              "en": [
+                "stakeholders",
+                "Policy changes prices, quantities or incentives"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "财政成本",
+              "en": "fiscal cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "财政成本",
+                "不同群体受到不同影响"
+              ],
+              "en": [
+                "fiscal cost",
+                "groups experience different effects"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "弹性",
+              "en": "elasticity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "弹性",
+                "效率、公平和可执行性需要共同权衡"
+              ],
+              "en": [
+                "elasticity",
+                "efficiency, equity and feasibility must be weighed together"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-32-tax-welfare-calculation",
+      "slug": "tax-welfare-calculation",
+      "section": "2.7",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.7 Government intervention"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "4",
+          "section": "4.3",
+          "pages": [
+            130
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-11-equilibrium",
+        "u2-19-ped",
+        "u2-24-pes"
+      ],
+      "related": [
+        "u2-27-price-ceiling",
+        "u2-28-price-floor",
+        "u2-29-indirect-tax"
+      ],
+      "terms": [
+        "税补的福利计算",
+        "Tax and subsidy welfare calculations",
+        "三角形",
+        "triangle",
+        "交易减少",
+        "lost trades",
+        "转移",
+        "transfer"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "三角形",
+          "交易减少",
+          "转移"
+        ],
+        "en": [
+          "triangle",
+          "lost trades",
+          "transfer"
+        ]
+      },
+      "diagramIds": [
+        "tax-wedge"
+      ],
+      "quizIds": [
+        "u2-32-tax-welfare-calculation-flash-1",
+        "u2-32-tax-welfare-calculation-mcq-1",
+        "u2-32-tax-welfare-calculation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-32-tax-welfare-calculation",
+        "locale": "zh-CN",
+        "title": "税补的福利计算",
+        "takeaway": "无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。",
+        "definition": "无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。",
+        "causalChain": [
+          "税使数量由 Q0 降至 Qt",
+          "消失单位原有利益超过成本",
+          "三角形面积给出无谓损失"
+        ],
+        "misconceptions": [
+          "三角形公式需要线性曲线等假设，且政府收入并非全部损失。"
+        ],
+        "examApplication": [
+          "在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        ],
+        "summary": [
+          "无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。",
+          "三角形公式需要线性曲线等假设，且政府收入并非全部损失。"
+        ],
+        "explanation": "税使数量由 Q0 降至 Qt。消失单位原有利益超过成本。三角形面积给出无谓损失。\n\n### 原创情境与推导\n\n原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为 4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。\n\n三角形公式需要线性曲线等假设，且政府收入并非全部损失。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+      },
+      "en": {
+        "id": "u2-32-tax-welfare-calculation",
+        "locale": "en",
+        "title": "Tax and subsidy welfare calculations",
+        "takeaway": "In a linear competitive model without externalities, a per-unit tax removes beneficial trades and creates deadweight loss. Rectangular tax revenue is a transfer, not itself a net social loss.",
+        "definition": "In a linear competitive model without externalities, a per-unit tax removes beneficial trades and creates deadweight loss. Rectangular tax revenue is a transfer, not itself a net social loss.",
+        "causalChain": [
+          "Tax lowers quantity from Q0 to Qt",
+          "lost units previously had benefit above cost",
+          "the triangle measures deadweight loss"
+        ],
+        "misconceptions": [
+          "The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
+        ],
+        "examApplication": [
+          "Label prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        ],
+        "summary": [
+          "In a linear competitive model without externalities, a per-unit tax removes beneficial trades and creates deadweight loss. Rectangular tax revenue is a transfer, not itself a net social loss.",
+          "The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
+        ],
+        "explanation": "Tax lowers quantity from Q0 to Qt.  lost units previously had benefit above cost.  the triangle measures deadweight loss.\n\n### Original scenario and reasoning\n\nIllustrative example: tax is four and output falls from 100 to 80. With linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects pollution, this no-externality formula cannot directly establish its net welfare effect.\n\nThe triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-32-tax-welfare-calculation-flash-1",
+        "knowledgePointId": "u2-32-tax-welfare-calculation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“税补的福利计算”，并说明一个关键条件。",
+          "en": "Explain Tax and subsidy welfare calculations and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。",
+          "en": "In a linear competitive model without externalities, a per-unit tax removes beneficial trades and creates deadweight loss. Rectangular tax revenue is a transfer, not itself a net social loss."
+        },
+        "explanation": {
+          "zh-CN": "三角形公式需要线性曲线等假设，且政府收入并非全部损失。",
+          "en": "The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
+        }
+      },
+      {
+        "id": "u2-32-tax-welfare-calculation-mcq-1",
+        "knowledgePointId": "u2-32-tax-welfare-calculation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "线性无外部性市场税额 6，数量减少 10，DWL 多少？",
+          "en": "In a linear no-externality market, tax is six and quantity falls ten. What is DWL?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "60",
+            "en": "60"
+          },
+          {
+            "id": "b",
+            "zh-CN": "6",
+            "en": "6"
+          },
+          {
+            "id": "c",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "30。 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为 4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。 三角形公式需要线性曲线等假设，且政府收入并非全部损失。",
+          "en": "30. Illustrative example: tax is four and output falls from 100 to 80. With linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects pollution, this no-externality formula cannot directly establish its net welfare effect. The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
+        }
+      },
+      {
+        "id": "u2-32-tax-welfare-calculation-short-1",
+        "knowledgePointId": "u2-32-tax-welfare-calculation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释税补的福利计算的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Tax and subsidy welfare calculations and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。 税使数量由 Q0 降至 Qt；消失单位原有利益超过成本；三角形面积给出无谓损失 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为 4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。",
+          "en": "In a linear competitive model without externalities, a per-unit tax removes beneficial trades and creates deadweight loss. Rectangular tax revenue is a transfer, not itself a net social loss. Tax lowers quantity from Q0 to Qt; lost units previously had benefit above cost; the triangle measures deadweight loss Illustrative example: tax is four and output falls from 100 to 80. With linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects pollution, this no-externality formula cannot directly establish its net welfare effect."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "三角形",
+              "en": "triangle"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "三角形",
+                "税使数量由 Q0 降至 Qt"
+              ],
+              "en": [
+                "triangle",
+                "Tax lowers quantity from Q0 to Qt"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "交易减少",
+              "en": "lost trades"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "交易减少",
+                "消失单位原有利益超过成本"
+              ],
+              "en": [
+                "lost trades",
+                "lost units previously had benefit above cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "转移",
+              "en": "transfer"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "转移",
+                "三角形面积给出无谓损失"
+              ],
+              "en": [
+                "transfer",
+                "the triangle measures deadweight loss"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-33-market-failure",
+      "slug": "market-failure",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.2",
+          "pages": [
+            147
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-34-negative-production",
+        "u2-35-negative-consumption",
+        "u2-36-positive-production"
+      ],
+      "terms": [
+        "市场失灵与社会最优",
+        "Market failure and the social optimum",
+        "社会边际成本",
+        "marginal social cost",
+        "社会边际收益",
+        "marginal social benefit",
+        "配置效率",
+        "allocative efficiency"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "社会边际成本",
+          "社会边际收益",
+          "配置效率"
+        ],
+        "en": [
+          "marginal social cost",
+          "marginal social benefit",
+          "allocative efficiency"
+        ]
+      },
+      "diagramIds": [
+        "negative-production"
+      ],
+      "quizIds": [
+        "u2-33-market-failure-flash-1",
+        "u2-33-market-failure-mcq-1",
+        "u2-33-market-failure-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-33-market-failure",
+        "locale": "zh-CN",
+        "title": "市场失灵与社会最优",
+        "takeaway": "市场失灵是市场无法实现配置效率。社会最优数量满足社会边际收益 MSB 等于社会边际成本 MSC。",
+        "definition": "市场失灵是市场无法实现配置效率。社会最优数量满足社会边际收益 MSB 等于社会边际成本 MSC。",
+        "causalChain": [
+          "私人决策只考虑私人收益与成本",
+          "外部影响或制度缺陷使其偏离社会量",
+          "市场数量与 MSB=MSC 数量不一致"
+        ],
+        "misconceptions": [
+          "高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "市场失灵是市场无法实现配置效率。社会最优数量满足社会边际收益 MSB 等于社会边际成本 MSC。",
+          "高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。"
+        ],
+        "explanation": "私人决策只考虑私人收益与成本。外部影响或制度缺陷使其偏离社会量。市场数量与 MSB=MSC 数量不一致。\n\n### 原创情境与推导\n\n原创例：生产者多生产一单位获得 12 的收益，私人成本 9，但污染成本 5，使社会成本为 14。这一单位私人有利、社会净收益为负。应比较边际量，不是平均收益和平均成本。\n\n高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-33-market-failure",
+        "locale": "en",
+        "title": "Market failure and the social optimum",
+        "takeaway": "Market failure occurs when a market does not achieve allocative efficiency. The socially optimal quantity satisfies marginal social benefit, MSB, equal to marginal social cost, MSC.",
+        "definition": "Market failure occurs when a market does not achieve allocative efficiency. The socially optimal quantity satisfies marginal social benefit, MSB, equal to marginal social cost, MSC.",
+        "causalChain": [
+          "Private decisions consider private benefits and costs",
+          "external effects or institutional failures separate them from social values",
+          "market output differs from the MSB=MSC quantity"
+        ],
+        "misconceptions": [
+          "A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "Market failure occurs when a market does not achieve allocative efficiency. The socially optimal quantity satisfies marginal social benefit, MSB, equal to marginal social cost, MSC.",
+          "A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
+        ],
+        "explanation": "Private decisions consider private benefits and costs.  external effects or institutional failures separate them from social values.  market output differs from the MSB=MSC quantity.\n\n### Original scenario and reasoning\n\nIllustrative example: one more unit yields benefit 12, private cost nine and external pollution cost five, making social cost 14. The unit is privately beneficial but socially harmful. Compare marginal values, not average benefits and costs.\n\nA high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-33-market-failure-flash-1",
+        "knowledgePointId": "u2-33-market-failure",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“市场失灵与社会最优”，并说明一个关键条件。",
+          "en": "Explain Market failure and the social optimum and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场失灵是市场无法实现配置效率。社会最优数量满足社会边际收益 MSB 等于社会边际成本 MSC。",
+          "en": "Market failure occurs when a market does not achieve allocative efficiency. The socially optimal quantity satisfies marginal social benefit, MSB, equal to marginal social cost, MSC."
+        },
+        "explanation": {
+          "zh-CN": "高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。",
+          "en": "A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
+        }
+      },
+      {
+        "id": "u2-33-market-failure-mcq-1",
+        "knowledgePointId": "u2-33-market-failure",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "社会最优的边际条件是什么？",
+          "en": "What marginal condition defines the social optimum?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "MSB=MSC",
+            "en": "MSB=MSC"
+          },
+          {
+            "id": "b",
+            "zh-CN": "总收入最大",
+            "en": "Maximum total revenue"
+          },
+          {
+            "id": "c",
+            "zh-CN": "价格为零",
+            "en": "Zero price"
+          },
+          {
+            "id": "d",
+            "zh-CN": "私人利润最大一定足够",
+            "en": "Maximum private profit is always sufficient"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "MSB=MSC。 原创例：生产者多生产一单位获得 12 的收益，私人成本 9，但污染成本 5，使社会成本为 14。这一单位私人有利、社会净收益为负。应比较边际量，不是平均收益和平均成本。 高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。",
+          "en": "MSB=MSC. Illustrative example: one more unit yields benefit 12, private cost nine and external pollution cost five, making social cost 14. The unit is privately beneficial but socially harmful. Compare marginal values, not average benefits and costs. A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
+        }
+      },
+      {
+        "id": "u2-33-market-failure-short-1",
+        "knowledgePointId": "u2-33-market-failure",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释市场失灵与社会最优的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Market failure and the social optimum and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场失灵是市场无法实现配置效率。社会最优数量满足社会边际收益 MSB 等于社会边际成本 MSC。 私人决策只考虑私人收益与成本；外部影响或制度缺陷使其偏离社会量；市场数量与 MSB=MSC 数量不一致 原创例：生产者多生产一单位获得 12 的收益，私人成本 9，但污染成本 5，使社会成本为 14。这一单位私人有利、社会净收益为负。应比较边际量，不是平均收益和平均成本。",
+          "en": "Market failure occurs when a market does not achieve allocative efficiency. The socially optimal quantity satisfies marginal social benefit, MSB, equal to marginal social cost, MSC. Private decisions consider private benefits and costs; external effects or institutional failures separate them from social values; market output differs from the MSB=MSC quantity Illustrative example: one more unit yields benefit 12, private cost nine and external pollution cost five, making social cost 14. The unit is privately beneficial but socially harmful. Compare marginal values, not average benefits and costs."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "社会边际成本",
+              "en": "marginal social cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "社会边际成本",
+                "私人决策只考虑私人收益与成本"
+              ],
+              "en": [
+                "marginal social cost",
+                "Private decisions consider private benefits and costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "社会边际收益",
+              "en": "marginal social benefit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "社会边际收益",
+                "外部影响或制度缺陷使其偏离社会量"
+              ],
+              "en": [
+                "marginal social benefit",
+                "external effects or institutional failures separate them from social values"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "配置效率",
+              "en": "allocative efficiency"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "配置效率",
+                "市场数量与 MSB=MSC 数量不一致"
+              ],
+              "en": [
+                "allocative efficiency",
+                "market output differs from the MSB=MSC quantity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-34-negative-production",
+      "slug": "negative-production",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.3",
+          "pages": [
+            150
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-35-negative-consumption",
+        "u2-36-positive-production"
+      ],
+      "terms": [
+        "负生产外部性",
+        "Negative production externalities",
+        "第三方",
+        "third parties",
+        "MSC",
+        "MSC",
+        "过度生产",
+        "overproduction"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "第三方",
+          "MSC",
+          "过度生产"
+        ],
+        "en": [
+          "third parties",
+          "MSC",
+          "overproduction"
+        ]
+      },
+      "diagramIds": [
+        "negative-production"
+      ],
+      "quizIds": [
+        "u2-34-negative-production-flash-1",
+        "u2-34-negative-production-mcq-1",
+        "u2-34-negative-production-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-34-negative-production",
+        "locale": "zh-CN",
+        "title": "负生产外部性",
+        "takeaway": "负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。",
+        "definition": "负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。",
+        "causalChain": [
+          "生产造成第三方损害",
+          "企业没有承担全部成本",
+          "私人均衡产量高于社会最优"
+        ],
+        "misconceptions": [
+          "将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。",
+          "将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。"
+        ],
+        "explanation": "生产造成第三方损害。企业没有承担全部成本。私人均衡产量高于社会最优。\n\n### 原创情境与推导\n\n原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC 上方，假定 MSB=MPB，以 MSC 与 MSB 相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。\n\n将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-34-negative-production",
+        "locale": "en",
+        "title": "Negative production externalities",
+        "takeaway": "A negative production externality imposes uncompensated costs on third parties. MSC equals MPC plus marginal external cost and exceeds private marginal cost.",
+        "definition": "A negative production externality imposes uncompensated costs on third parties. MSC equals MPC plus marginal external cost and exceeds private marginal cost.",
+        "causalChain": [
+          "Production damages third parties",
+          "firms do not bear the full cost",
+          "private equilibrium output exceeds the social optimum"
+        ],
+        "misconceptions": [
+          "Showing pollution as MSB below MPB confuses production and consumption externalities."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "A negative production externality imposes uncompensated costs on third parties. MSC equals MPC plus marginal external cost and exceeds private marginal cost.",
+          "Showing pollution as MSB below MPB confuses production and consumption externalities."
+        ],
+        "explanation": "Production damages third parties.  firms do not bear the full cost.  private equilibrium output exceeds the social optimum.\n\n### Original scenario and reasoning\n\nIllustrative example: factory discharge raises downstream water-treatment costs. Draw MSC above MPC, assume MSB=MPB and locate Q* where MSC meets MSB. Between Q* and Qm, social costs exceed benefits.\n\nShowing pollution as MSB below MPB confuses production and consumption externalities.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-34-negative-production-flash-1",
+        "knowledgePointId": "u2-34-negative-production",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“负生产外部性”，并说明一个关键条件。",
+          "en": "Explain Negative production externalities and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。",
+          "en": "A negative production externality imposes uncompensated costs on third parties. MSC equals MPC plus marginal external cost and exceeds private marginal cost."
+        },
+        "explanation": {
+          "zh-CN": "将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。",
+          "en": "Showing pollution as MSB below MPB confuses production and consumption externalities."
+        }
+      },
+      {
+        "id": "u2-34-negative-production-mcq-1",
+        "knowledgePointId": "u2-34-negative-production",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "负生产外部性下，哪项关系成立？",
+          "en": "With a negative production externality, which relationship holds?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "MSC<MPC",
+            "en": "MSC<MPC"
+          },
+          {
+            "id": "b",
+            "zh-CN": "MSC>MPC",
+            "en": "MSC>MPC"
+          },
+          {
+            "id": "c",
+            "zh-CN": "MSB 必然大于 MPB",
+            "en": "MSB must exceed MPB"
+          },
+          {
+            "id": "d",
+            "zh-CN": "市场必然生产不足",
+            "en": "The market necessarily underproduces"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "MSC>MPC。 原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC 上方，假定 MSB=MPB，以 MSC 与 MSB 相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。 将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。",
+          "en": "MSC>MPC. Illustrative example: factory discharge raises downstream water-treatment costs. Draw MSC above MPC, assume MSB=MPB and locate Q* where MSC meets MSB. Between Q* and Qm, social costs exceed benefits. Showing pollution as MSB below MPB confuses production and consumption externalities."
+        }
+      },
+      {
+        "id": "u2-34-negative-production-short-1",
+        "knowledgePointId": "u2-34-negative-production",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释负生产外部性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Negative production externalities and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。 生产造成第三方损害；企业没有承担全部成本；私人均衡产量高于社会最优 原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC 上方，假定 MSB=MPB，以 MSC 与 MSB 相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。",
+          "en": "A negative production externality imposes uncompensated costs on third parties. MSC equals MPC plus marginal external cost and exceeds private marginal cost. Production damages third parties; firms do not bear the full cost; private equilibrium output exceeds the social optimum Illustrative example: factory discharge raises downstream water-treatment costs. Draw MSC above MPC, assume MSB=MPB and locate Q* where MSC meets MSB. Between Q* and Qm, social costs exceed benefits."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "第三方",
+              "en": "third parties"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "第三方",
+                "生产造成第三方损害"
+              ],
+              "en": [
+                "third parties",
+                "Production damages third parties"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "MSC",
+              "en": "MSC"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MSC",
+                "企业没有承担全部成本"
+              ],
+              "en": [
+                "MSC",
+                "firms do not bear the full cost"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "过度生产",
+              "en": "overproduction"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "过度生产",
+                "私人均衡产量高于社会最优"
+              ],
+              "en": [
+                "overproduction",
+                "private equilibrium output exceeds the social optimum"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-35-negative-consumption",
+      "slug": "negative-consumption",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.4",
+          "pages": [
+            164
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-36-positive-production"
+      ],
+      "terms": [
+        "负消费外部性",
+        "Negative consumption externalities",
+        "第三方",
+        "third party",
+        "MSB",
+        "MSB",
+        "过度消费",
+        "overconsumption"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "第三方",
+          "MSB",
+          "过度消费"
+        ],
+        "en": [
+          "third party",
+          "MSB",
+          "overconsumption"
+        ]
+      },
+      "diagramIds": [
+        "negative-consumption"
+      ],
+      "quizIds": [
+        "u2-35-negative-consumption-flash-1",
+        "u2-35-negative-consumption-mcq-1",
+        "u2-35-negative-consumption-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-35-negative-consumption",
+        "locale": "zh-CN",
+        "title": "负消费外部性",
+        "takeaway": "负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。",
+        "definition": "负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。",
+        "causalChain": [
+          "消费者获得私人收益",
+          "消费对他人造成损害",
+          "社会边际收益低于私人收益并导致过度消费"
+        ],
+        "misconceptions": [
+          "自身损害与第三方损害必须区分。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。",
+          "自身损害与第三方损害必须区分。"
+        ],
+        "explanation": "消费者获得私人收益。消费对他人造成损害。社会边际收益低于私人收益并导致过度消费。\n\n### 原创情境与推导\n\n原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则 MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。\n\n自身损害与第三方损害必须区分。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-35-negative-consumption",
+        "locale": "en",
+        "title": "Negative consumption externalities",
+        "takeaway": "A negative consumption externality imposes uncompensated costs on third parties and is normally represented by MSB equal to MPB minus marginal external cost.",
+        "definition": "A negative consumption externality imposes uncompensated costs on third parties and is normally represented by MSB equal to MPB minus marginal external cost.",
+        "causalChain": [
+          "The consumer receives private benefit",
+          "consumption harms others",
+          "social marginal benefit lies below private benefit and consumption is excessive"
+        ],
+        "misconceptions": [
+          "Distinguish harm to oneself from harm to third parties."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "A negative consumption externality imposes uncompensated costs on third parties and is normally represented by MSB equal to MPB minus marginal external cost.",
+          "Distinguish harm to oneself from harm to third parties."
+        ],
+        "explanation": "The consumer receives private benefit.  consumption harms others.  social marginal benefit lies below private benefit and consumption is excessive.\n\n### Original scenario and reasoning\n\nIllustrative example: loud night-time music disturbs neighbours. MSB lies below MPB; without production externalities MSC=MPC. Harm to the consumer's own health is not an external cost, although it may involve imperfect information and demerit goods.\n\nDistinguish harm to oneself from harm to third parties.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-35-negative-consumption-flash-1",
+        "knowledgePointId": "u2-35-negative-consumption",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“负消费外部性”，并说明一个关键条件。",
+          "en": "Explain Negative consumption externalities and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。",
+          "en": "A negative consumption externality imposes uncompensated costs on third parties and is normally represented by MSB equal to MPB minus marginal external cost."
+        },
+        "explanation": {
+          "zh-CN": "自身损害与第三方损害必须区分。",
+          "en": "Distinguish harm to oneself from harm to third parties."
+        }
+      },
+      {
+        "id": "u2-35-negative-consumption-mcq-1",
+        "knowledgePointId": "u2-35-negative-consumption",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项最清楚属于负消费外部性？",
+          "en": "Which most clearly represents a negative consumption externality?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "工厂支付自己的电费",
+            "en": "A factory pays its own electricity bill"
+          },
+          {
+            "id": "b",
+            "zh-CN": "本人支付商品价格",
+            "en": "The buyer pays the product price"
+          },
+          {
+            "id": "c",
+            "zh-CN": "邻居被消费噪音打扰",
+            "en": "Neighbours disturbed by consumption noise"
+          },
+          {
+            "id": "d",
+            "zh-CN": "学习提高本人工资",
+            "en": "Study raises the student's own wages"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "邻居被消费噪音打扰。 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则 MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。 自身损害与第三方损害必须区分。",
+          "en": "Neighbours disturbed by consumption noise. Illustrative example: loud night-time music disturbs neighbours. MSB lies below MPB; without production externalities MSC=MPC. Harm to the consumer's own health is not an external cost, although it may involve imperfect information and demerit goods. Distinguish harm to oneself from harm to third parties."
+        }
+      },
+      {
+        "id": "u2-35-negative-consumption-short-1",
+        "knowledgePointId": "u2-35-negative-consumption",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释负消费外部性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Negative consumption externalities and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。 消费者获得私人收益；消费对他人造成损害；社会边际收益低于私人收益并导致过度消费 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则 MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。",
+          "en": "A negative consumption externality imposes uncompensated costs on third parties and is normally represented by MSB equal to MPB minus marginal external cost. The consumer receives private benefit; consumption harms others; social marginal benefit lies below private benefit and consumption is excessive Illustrative example: loud night-time music disturbs neighbours. MSB lies below MPB; without production externalities MSC=MPC. Harm to the consumer's own health is not an external cost, although it may involve imperfect information and demerit goods."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "第三方",
+              "en": "third party"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "第三方",
+                "消费者获得私人收益"
+              ],
+              "en": [
+                "third party",
+                "The consumer receives private benefit"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "MSB",
+              "en": "MSB"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MSB",
+                "消费对他人造成损害"
+              ],
+              "en": [
+                "MSB",
+                "consumption harms others"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "过度消费",
+              "en": "overconsumption"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "过度消费",
+                "社会边际收益低于私人收益并导致过度消费"
+              ],
+              "en": [
+                "overconsumption",
+                "social marginal benefit lies below private benefit and consumption is excessive"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-36-positive-production",
+      "slug": "positive-production",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.1",
+          "pages": [
+            174
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-35-negative-consumption"
+      ],
+      "terms": [
+        "正生产外部性",
+        "Positive production externalities",
+        "外溢",
+        "spillover",
+        "MSC",
+        "MSC",
+        "生产不足",
+        "underproduction"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "外溢",
+          "MSC",
+          "生产不足"
+        ],
+        "en": [
+          "spillover",
+          "MSC",
+          "underproduction"
+        ]
+      },
+      "diagramIds": [
+        "positive-production"
+      ],
+      "quizIds": [
+        "u2-36-positive-production-flash-1",
+        "u2-36-positive-production-mcq-1",
+        "u2-36-positive-production-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-36-positive-production",
+        "locale": "zh-CN",
+        "title": "正生产外部性",
+        "takeaway": "正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。",
+        "definition": "正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。",
+        "causalChain": [
+          "生产产生知识等外溢",
+          "企业不能收回全部社会收益",
+          "市场配置资源不足"
+        ],
+        "misconceptions": [
+          "正外部性不是企业自身销售收益，而是未计价的第三方收益。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。",
+          "正外部性不是企业自身销售收益，而是未计价的第三方收益。"
+        ],
+        "explanation": "生产产生知识等外溢。企业不能收回全部社会收益。市场配置资源不足。\n\n### 原创情境与推导\n\n原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB 与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。\n\n正外部性不是企业自身销售收益，而是未计价的第三方收益。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-36-positive-production",
+        "locale": "en",
+        "title": "Positive production externalities",
+        "takeaway": "A positive production externality benefits third parties without compensation and is normally shown as MSC equal to MPC minus marginal external benefit.",
+        "definition": "A positive production externality benefits third parties without compensation and is normally shown as MSC equal to MPC minus marginal external benefit.",
+        "causalChain": [
+          "Production creates spillovers such as knowledge",
+          "firms cannot capture all social gains",
+          "the market allocates too few resources"
+        ],
+        "misconceptions": [
+          "The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "A positive production externality benefits third parties without compensation and is normally shown as MSC equal to MPC minus marginal external benefit.",
+          "The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
+        ],
+        "explanation": "Production creates spillovers such as knowledge.  firms cannot capture all social gains.  the market allocates too few resources.\n\n### Original scenario and reasoning\n\nIllustrative example: a firm's research generates knowledge that lowers other firms' costs. Draw MSC below MPC and use the same MSB to locate social and private output. Patents or research subsidies can strengthen incentives, but market-power costs and targeting matter.\n\nThe external benefit is an unpriced gain to third parties, not the firm's own sales revenue.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-36-positive-production-flash-1",
+        "knowledgePointId": "u2-36-positive-production",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“正生产外部性”，并说明一个关键条件。",
+          "en": "Explain Positive production externalities and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。",
+          "en": "A positive production externality benefits third parties without compensation and is normally shown as MSC equal to MPC minus marginal external benefit."
+        },
+        "explanation": {
+          "zh-CN": "正外部性不是企业自身销售收益，而是未计价的第三方收益。",
+          "en": "The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
+        }
+      },
+      {
+        "id": "u2-36-positive-production-mcq-1",
+        "knowledgePointId": "u2-36-positive-production",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "正生产外部性通常意味着什么？",
+          "en": "A positive production externality normally implies what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "市场过度生产",
+            "en": "Market overproduction"
+          },
+          {
+            "id": "b",
+            "zh-CN": "没有任何成本",
+            "en": "No costs exist"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有收益都归生产者",
+            "en": "All benefits accrue to producers"
+          },
+          {
+            "id": "d",
+            "zh-CN": "市场生产不足",
+            "en": "Market underproduction"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "市场生产不足。 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB 与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。 正外部性不是企业自身销售收益，而是未计价的第三方收益。",
+          "en": "Market underproduction. Illustrative example: a firm's research generates knowledge that lowers other firms' costs. Draw MSC below MPC and use the same MSB to locate social and private output. Patents or research subsidies can strengthen incentives, but market-power costs and targeting matter. The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
+        }
+      },
+      {
+        "id": "u2-36-positive-production-short-1",
+        "knowledgePointId": "u2-36-positive-production",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释正生产外部性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Positive production externalities and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "正生产外部性是生产使第三方获益且未获补偿，通常表示为 MSC=MPC−外部边际收益。 生产产生知识等外溢；企业不能收回全部社会收益；市场配置资源不足 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB 与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。",
+          "en": "A positive production externality benefits third parties without compensation and is normally shown as MSC equal to MPC minus marginal external benefit. Production creates spillovers such as knowledge; firms cannot capture all social gains; the market allocates too few resources Illustrative example: a firm's research generates knowledge that lowers other firms' costs. Draw MSC below MPC and use the same MSB to locate social and private output. Patents or research subsidies can strengthen incentives, but market-power costs and targeting matter."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "外溢",
+              "en": "spillover"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "外溢",
+                "生产产生知识等外溢"
+              ],
+              "en": [
+                "spillover",
+                "Production creates spillovers such as knowledge"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "MSC",
+              "en": "MSC"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MSC",
+                "企业不能收回全部社会收益"
+              ],
+              "en": [
+                "MSC",
+                "firms cannot capture all social gains"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "生产不足",
+              "en": "underproduction"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产不足",
+                "市场配置资源不足"
+              ],
+              "en": [
+                "underproduction",
+                "the market allocates too few resources"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-37-positive-consumption",
+      "slug": "positive-consumption",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.2",
+          "pages": [
+            177
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-35-negative-consumption"
+      ],
+      "terms": [
+        "正消费外部性与优值品",
+        "Positive consumption externalities and merit goods",
+        "第三方收益",
+        "external benefit",
+        "MSB",
+        "MSB",
+        "消费不足",
+        "underconsumption"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "第三方收益",
+          "MSB",
+          "消费不足"
+        ],
+        "en": [
+          "external benefit",
+          "MSB",
+          "underconsumption"
+        ]
+      },
+      "diagramIds": [
+        "positive-consumption"
+      ],
+      "quizIds": [
+        "u2-37-positive-consumption-flash-1",
+        "u2-37-positive-consumption-mcq-1",
+        "u2-37-positive-consumption-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-37-positive-consumption",
+        "locale": "zh-CN",
+        "title": "正消费外部性与优值品",
+        "takeaway": "正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。",
+        "definition": "正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。",
+        "causalChain": [
+          "消费者只比较私人收益与价格",
+          "第三方收益未进入其选择",
+          "市场数量低于社会最优"
+        ],
+        "misconceptions": [
+          "教育或医疗并不是因为有社会价值就自动成为纯公共物品。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。",
+          "教育或医疗并不是因为有社会价值就自动成为纯公共物品。"
+        ],
+        "explanation": "消费者只比较私人收益与价格。第三方收益未进入其选择。市场数量低于社会最优。\n\n### 原创情境与推导\n\n原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB 上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。\n\n教育或医疗并不是因为有社会价值就自动成为纯公共物品。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-37-positive-consumption",
+        "locale": "en",
+        "title": "Positive consumption externalities and merit goods",
+        "takeaway": "A positive consumption externality benefits third parties, so MSB exceeds MPB. A merit good may be underconsumed because buyers underestimate private benefits; these concepts may overlap but are distinct.",
+        "definition": "A positive consumption externality benefits third parties, so MSB exceeds MPB. A merit good may be underconsumed because buyers underestimate private benefits; these concepts may overlap but are distinct.",
+        "causalChain": [
+          "Consumers compare private benefit and price",
+          "third-party gains are absent from their choice",
+          "market consumption is below the social optimum"
+        ],
+        "misconceptions": [
+          "Education or healthcare does not automatically become a pure public good because it has social value."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "A positive consumption externality benefits third parties, so MSB exceeds MPB. A merit good may be underconsumed because buyers underestimate private benefits; these concepts may overlap but are distinct.",
+          "Education or healthcare does not automatically become a pure public good because it has social value."
+        ],
+        "explanation": "Consumers compare private benefit and price.  third-party gains are absent from their choice.  market consumption is below the social optimum.\n\n### Original scenario and reasoning\n\nIllustrative example: vaccination may reduce transmission risk and benefit others. Draw MSB above MPB. Subsidies, public provision and information can increase uptake, but capacity, trust and the size of external benefit determine effectiveness.\n\nEducation or healthcare does not automatically become a pure public good because it has social value.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-37-positive-consumption-flash-1",
+        "knowledgePointId": "u2-37-positive-consumption",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“正消费外部性与优值品”，并说明一个关键条件。",
+          "en": "Explain Positive consumption externalities and merit goods and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。",
+          "en": "A positive consumption externality benefits third parties, so MSB exceeds MPB. A merit good may be underconsumed because buyers underestimate private benefits; these concepts may overlap but are distinct."
+        },
+        "explanation": {
+          "zh-CN": "教育或医疗并不是因为有社会价值就自动成为纯公共物品。",
+          "en": "Education or healthcare does not automatically become a pure public good because it has social value."
+        }
+      },
+      {
+        "id": "u2-37-positive-consumption-mcq-1",
+        "knowledgePointId": "u2-37-positive-consumption",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "正消费外部性的图中哪项成立？",
+          "en": "Which holds in a positive consumption externality diagram?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "MSB>MPB",
+            "en": "MSB>MPB"
+          },
+          {
+            "id": "b",
+            "zh-CN": "MSB<MPB",
+            "en": "MSB<MPB"
+          },
+          {
+            "id": "c",
+            "zh-CN": "MSC 必然为零",
+            "en": "MSC must be zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "市场数量一定过多",
+            "en": "Market output must be excessive"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "MSB>MPB。 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB 上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。 教育或医疗并不是因为有社会价值就自动成为纯公共物品。",
+          "en": "MSB>MPB. Illustrative example: vaccination may reduce transmission risk and benefit others. Draw MSB above MPB. Subsidies, public provision and information can increase uptake, but capacity, trust and the size of external benefit determine effectiveness. Education or healthcare does not automatically become a pure public good because it has social value."
+        }
+      },
+      {
+        "id": "u2-37-positive-consumption-short-1",
+        "knowledgePointId": "u2-37-positive-consumption",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释正消费外部性与优值品的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Positive consumption externalities and merit goods and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。 消费者只比较私人收益与价格；第三方收益未进入其选择；市场数量低于社会最优 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB 上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。",
+          "en": "A positive consumption externality benefits third parties, so MSB exceeds MPB. A merit good may be underconsumed because buyers underestimate private benefits; these concepts may overlap but are distinct. Consumers compare private benefit and price; third-party gains are absent from their choice; market consumption is below the social optimum Illustrative example: vaccination may reduce transmission risk and benefit others. Draw MSB above MPB. Subsidies, public provision and information can increase uptake, but capacity, trust and the size of external benefit determine effectiveness."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "第三方收益",
+              "en": "external benefit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "第三方收益",
+                "消费者只比较私人收益与价格"
+              ],
+              "en": [
+                "external benefit",
+                "Consumers compare private benefit and price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "MSB",
+              "en": "MSB"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MSB",
+                "第三方收益未进入其选择"
+              ],
+              "en": [
+                "MSB",
+                "third-party gains are absent from their choice"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "消费不足",
+              "en": "underconsumption"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "消费不足",
+                "市场数量低于社会最优"
+              ],
+              "en": [
+                "underconsumption",
+                "market consumption is below the social optimum"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-38-common-resources",
+      "slug": "common-resources",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.1",
+          "pages": [
+            144
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-35-negative-consumption"
+      ],
+      "terms": [
+        "共同资源与公地悲剧",
+        "Common resources and the tragedy of the commons",
+        "竞争性",
+        "rival",
+        "排他",
+        "exclusion",
+        "过度开采",
+        "overexploitation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "竞争性",
+          "排他",
+          "过度开采"
+        ],
+        "en": [
+          "rival",
+          "exclusion",
+          "overexploitation"
+        ]
+      },
+      "diagramIds": [
+        "goods-matrix"
+      ],
+      "quizIds": [
+        "u2-38-common-resources-flash-1",
+        "u2-38-common-resources-mcq-1",
+        "u2-38-common-resources-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-38-common-resources",
+        "locale": "zh-CN",
+        "title": "共同资源与公地悲剧",
+        "takeaway": "共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。",
+        "definition": "共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。",
+        "causalChain": [
+          "使用者获得私人收益",
+          "资源耗减成本由群体承担",
+          "缺少协调时开采量超过可持续水平"
+        ],
+        "misconceptions": [
+          "公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。",
+          "公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。"
+        ],
+        "explanation": "使用者获得私人收益。资源耗减成本由群体承担。缺少协调时开采量超过可持续水平。\n\n### 原创情境与推导\n\n原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。\n\n公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-38-common-resources",
+        "locale": "en",
+        "title": "Common resources and the tragedy of the commons",
+        "takeaway": "Common resources are rival and difficult to exclude users from. Individual use reduces availability to others, and weak exclusion can lead to overexploitation.",
+        "definition": "Common resources are rival and difficult to exclude users from. Individual use reduces availability to others, and weak exclusion can lead to overexploitation.",
+        "causalChain": [
+          "Users receive private gains",
+          "depletion costs are shared",
+          "without coordination extraction exceeds a sustainable level"
+        ],
+        "misconceptions": [
+          "The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "Common resources are rival and difficult to exclude users from. Individual use reduces availability to others, and weak exclusion can lead to overexploitation.",
+          "The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
+        ],
+        "explanation": "Users receive private gains.  depletion costs are shared.  without coordination extraction exceeds a sustainable level.\n\n### Original scenario and reasoning\n\nIllustrative example: a fisher earns from an extra catch while reducing future fish stocks available to everyone. Quotas, enforceable rights or community management can limit extraction. Calling the resource non-rival would miss the central mechanism.\n\nThe tragedy is not an unavoidable law of nature; effective community rules can change incentives.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-38-common-resources-flash-1",
+        "knowledgePointId": "u2-38-common-resources",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“共同资源与公地悲剧”，并说明一个关键条件。",
+          "en": "Explain Common resources and the tragedy of the commons and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。",
+          "en": "Common resources are rival and difficult to exclude users from. Individual use reduces availability to others, and weak exclusion can lead to overexploitation."
+        },
+        "explanation": {
+          "zh-CN": "公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。",
+          "en": "The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
+        }
+      },
+      {
+        "id": "u2-38-common-resources-mcq-1",
+        "knowledgePointId": "u2-38-common-resources",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "共同资源的典型特征是什么？",
+          "en": "What are the typical characteristics of a common resource?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "非竞争、非排他",
+            "en": "Non-rival, non-excludable"
+          },
+          {
+            "id": "b",
+            "zh-CN": "竞争性、难以排他",
+            "en": "Rival, difficult to exclude"
+          },
+          {
+            "id": "c",
+            "zh-CN": "非竞争、可排他",
+            "en": "Non-rival, excludable"
+          },
+          {
+            "id": "d",
+            "zh-CN": "无成本且无限",
+            "en": "Costless and unlimited"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "竞争性、难以排他。 原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。 公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。",
+          "en": "Rival, difficult to exclude. Illustrative example: a fisher earns from an extra catch while reducing future fish stocks available to everyone. Quotas, enforceable rights or community management can limit extraction. Calling the resource non-rival would miss the central mechanism. The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
+        }
+      },
+      {
+        "id": "u2-38-common-resources-short-1",
+        "knowledgePointId": "u2-38-common-resources",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释共同资源与公地悲剧的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Common resources and the tragedy of the commons and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。 使用者获得私人收益；资源耗减成本由群体承担；缺少协调时开采量超过可持续水平 原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。",
+          "en": "Common resources are rival and difficult to exclude users from. Individual use reduces availability to others, and weak exclusion can lead to overexploitation. Users receive private gains; depletion costs are shared; without coordination extraction exceeds a sustainable level Illustrative example: a fisher earns from an extra catch while reducing future fish stocks available to everyone. Quotas, enforceable rights or community management can limit extraction. Calling the resource non-rival would miss the central mechanism."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "竞争性",
+              "en": "rival"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "竞争性",
+                "使用者获得私人收益"
+              ],
+              "en": [
+                "rival",
+                "Users receive private gains"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "排他",
+              "en": "exclusion"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "排他",
+                "资源耗减成本由群体承担"
+              ],
+              "en": [
+                "exclusion",
+                "depletion costs are shared"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "过度开采",
+              "en": "overexploitation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "过度开采",
+                "缺少协调时开采量超过可持续水平"
+              ],
+              "en": [
+                "overexploitation",
+                "without coordination extraction exceeds a sustainable level"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-39-externality-policies",
+      "slug": "externality-policies",
+      "section": "2.8",
+      "level": "core",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.3",
+          "pages": [
+            154
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-35-negative-consumption"
+      ],
+      "terms": [
+        "外部性政策与可持续性",
+        "Externality policies and sustainability",
+        "内部化",
+        "internalise",
+        "监测",
+        "monitoring",
+        "可持续",
+        "sustainable"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "内部化",
+          "监测",
+          "可持续"
+        ],
+        "en": [
+          "internalise",
+          "monitoring",
+          "sustainable"
+        ]
+      },
+      "diagramIds": [
+        "negative-production"
+      ],
+      "quizIds": [
+        "u2-39-externality-policies-flash-1",
+        "u2-39-externality-policies-mcq-1",
+        "u2-39-externality-policies-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-39-externality-policies",
+        "locale": "zh-CN",
+        "title": "外部性政策与可持续性",
+        "takeaway": "税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。",
+        "definition": "税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。",
+        "causalChain": [
+          "识别未计价的社会影响",
+          "调整价格或数量约束",
+          "比较纠正效果与执行和分配成本"
+        ],
+        "misconceptions": [
+          "纠正外部性未必消除全部污染；最优并不总是零排放。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。",
+          "纠正外部性未必消除全部污染；最优并不总是零排放。"
+        ],
+        "explanation": "识别未计价的社会影响。调整价格或数量约束。比较纠正效果与执行和分配成本。\n\n### 原创情境与推导\n\n原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。\n\n纠正外部性未必消除全部污染；最优并不总是零排放。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-39-externality-policies",
+        "locale": "en",
+        "title": "Externality policies and sustainability",
+        "takeaway": "Taxes, subsidies, regulation, tradable permits and rights can incorporate external effects into private decisions. The choice depends on information, enforcement cost and distribution.",
+        "definition": "Taxes, subsidies, regulation, tradable permits and rights can incorporate external effects into private decisions. The choice depends on information, enforcement cost and distribution.",
+        "causalChain": [
+          "Identify unpriced social effects",
+          "adjust prices or quantity constraints",
+          "compare correction with enforcement and distribution costs"
+        ],
+        "misconceptions": [
+          "Correction need not eliminate all pollution; the optimum is not always zero emissions."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "Taxes, subsidies, regulation, tradable permits and rights can incorporate external effects into private decisions. The choice depends on information, enforcement cost and distribution.",
+          "Correction need not eliminate all pollution; the optimum is not always zero emissions."
+        ],
+        "explanation": "Identify unpriced social effects.  adjust prices or quantity constraints.  compare correction with enforcement and distribution costs.\n\n### Original scenario and reasoning\n\nIllustrative example: an emissions tax fixes the price per emission unit, while permits fix the allowed total quantity. Taxes need information about harm and abatement response; permits need monitoring, a sound cap and reliable trading. Both may pass some costs to consumers.\n\nCorrection need not eliminate all pollution; the optimum is not always zero emissions.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-39-externality-policies-flash-1",
+        "knowledgePointId": "u2-39-externality-policies",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“外部性政策与可持续性”，并说明一个关键条件。",
+          "en": "Explain Externality policies and sustainability and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。",
+          "en": "Taxes, subsidies, regulation, tradable permits and rights can incorporate external effects into private decisions. The choice depends on information, enforcement cost and distribution."
+        },
+        "explanation": {
+          "zh-CN": "纠正外部性未必消除全部污染；最优并不总是零排放。",
+          "en": "Correction need not eliminate all pollution; the optimum is not always zero emissions."
+        }
+      },
+      {
+        "id": "u2-39-externality-policies-mcq-1",
+        "knowledgePointId": "u2-39-externality-policies",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "交易许可与排放税的关键区别是什么？",
+          "en": "What is a key difference between permits and an emissions tax?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "两者都不需要监测",
+            "en": "Neither requires monitoring"
+          },
+          {
+            "id": "b",
+            "zh-CN": "税一定消除排放",
+            "en": "Tax necessarily eliminates emissions"
+          },
+          {
+            "id": "c",
+            "zh-CN": "许可确定总量，税确定单位价格",
+            "en": "Permits fix the total cap; tax fixes the unit price"
+          },
+          {
+            "id": "d",
+            "zh-CN": "许可完全没有成本",
+            "en": "Permits have no costs"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "许可确定总量，税确定单位价格。 原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。 纠正外部性未必消除全部污染；最优并不总是零排放。",
+          "en": "Permits fix the total cap; tax fixes the unit price. Illustrative example: an emissions tax fixes the price per emission unit, while permits fix the allowed total quantity. Taxes need information about harm and abatement response; permits need monitoring, a sound cap and reliable trading. Both may pass some costs to consumers. Correction need not eliminate all pollution; the optimum is not always zero emissions."
+        }
+      },
+      {
+        "id": "u2-39-externality-policies-short-1",
+        "knowledgePointId": "u2-39-externality-policies",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释外部性政策与可持续性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Externality policies and sustainability and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。 识别未计价的社会影响；调整价格或数量约束；比较纠正效果与执行和分配成本 原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。",
+          "en": "Taxes, subsidies, regulation, tradable permits and rights can incorporate external effects into private decisions. The choice depends on information, enforcement cost and distribution. Identify unpriced social effects; adjust prices or quantity constraints; compare correction with enforcement and distribution costs Illustrative example: an emissions tax fixes the price per emission unit, while permits fix the allowed total quantity. Taxes need information about harm and abatement response; permits need monitoring, a sound cap and reliable trading. Both may pass some costs to consumers."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "内部化",
+              "en": "internalise"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "内部化",
+                "识别未计价的社会影响"
+              ],
+              "en": [
+                "internalise",
+                "Identify unpriced social effects"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "监测",
+              "en": "monitoring"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "监测",
+                "调整价格或数量约束"
+              ],
+              "en": [
+                "monitoring",
+                "adjust prices or quantity constraints"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "可持续",
+              "en": "sustainable"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可持续",
+                "比较纠正效果与执行和分配成本"
+              ],
+              "en": [
+                "sustainable",
+                "compare correction with enforcement and distribution costs"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-40-external-welfare",
+      "slug": "external-welfare",
+      "section": "2.8",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.8 Externalities and common resources"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "5",
+          "section": "5.3",
+          "pages": [
+            153
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency"
+      ],
+      "related": [
+        "u2-33-market-failure",
+        "u2-34-negative-production",
+        "u2-35-negative-consumption"
+      ],
+      "terms": [
+        "外部性与福利损失计算",
+        "Externalities and welfare-loss calculations",
+        "社会最优",
+        "social optimum",
+        "边际差额",
+        "marginal gap",
+        "三角形",
+        "triangle"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "社会最优",
+          "边际差额",
+          "三角形"
+        ],
+        "en": [
+          "social optimum",
+          "marginal gap",
+          "triangle"
+        ]
+      },
+      "diagramIds": [
+        "negative-production"
+      ],
+      "quizIds": [
+        "u2-40-external-welfare-flash-1",
+        "u2-40-external-welfare-mcq-1",
+        "u2-40-external-welfare-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-40-external-welfare",
+        "locale": "zh-CN",
+        "title": "外部性与福利损失计算",
+        "takeaway": "外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。",
+        "definition": "外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。",
+        "causalChain": [
+          "先确定市场与社会数量",
+          "比较错误配置单位的 MSC 与 MSB",
+          "累加差额而非把税收视为损失"
+        ],
+        "misconceptions": [
+          "图上三角形高度必须取相应社会成本收益差，不能任取市场价格。"
+        ],
+        "examApplication": [
+          "明确生产或消费、正或负，标出私人均衡和社会最优。"
+        ],
+        "summary": [
+          "外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。",
+          "图上三角形高度必须取相应社会成本收益差，不能任取市场价格。"
+        ],
+        "explanation": "先确定市场与社会数量。比较错误配置单位的 MSC 与 MSB。累加差额而非把税收视为损失。\n\n### 原创情境与推导\n\n原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q* 处外部边际成本，不应机械采用 Qm 处的差额。\n\n图上三角形高度必须取相应社会成本收益差，不能任取市场价格。\n\n明确生产或消费、正或负，标出私人均衡和社会最优。"
+      },
+      "en": {
+        "id": "u2-40-external-welfare",
+        "locale": "en",
+        "title": "Externalities and welfare-loss calculations",
+        "takeaway": "Externality welfare loss accumulates the gap between social marginal cost and benefit between market and optimal quantities. A linear model permits a triangle-area calculation.",
+        "definition": "Externality welfare loss accumulates the gap between social marginal cost and benefit between market and optimal quantities. A linear model permits a triangle-area calculation.",
+        "causalChain": [
+          "Identify market and optimal quantities",
+          "compare MSC and MSB on misallocated units",
+          "sum the gaps rather than treating tax revenue as the loss"
+        ],
+        "misconceptions": [
+          "The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
+        ],
+        "examApplication": [
+          "Identify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+        ],
+        "summary": [
+          "Externality welfare loss accumulates the gap between social marginal cost and benefit between market and optimal quantities. A linear model permits a triangle-area calculation.",
+          "The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
+        ],
+        "explanation": "Identify market and optimal quantities.  compare MSC and MSB on misallocated units.  sum the gaps rather than treating tax revenue as the loss.\n\n### Original scenario and reasoning\n\nIllustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax equals marginal external cost at Q*, not mechanically the gap at Qm.\n\nThe triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price.\n\nIdentify production/consumption and positive/negative effects, and label private equilibrium and the social optimum."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-40-external-welfare-flash-1",
+        "knowledgePointId": "u2-40-external-welfare",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“外部性与福利损失计算”，并说明一个关键条件。",
+          "en": "Explain Externalities and welfare-loss calculations and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。",
+          "en": "Externality welfare loss accumulates the gap between social marginal cost and benefit between market and optimal quantities. A linear model permits a triangle-area calculation."
+        },
+        "explanation": {
+          "zh-CN": "图上三角形高度必须取相应社会成本收益差，不能任取市场价格。",
+          "en": "The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
+        }
+      },
+      {
+        "id": "u2-40-external-welfare-mcq-1",
+        "knowledgePointId": "u2-40-external-welfare",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "线性福利三角形底为 12、高为 5，损失多少？",
+          "en": "A linear welfare triangle has base 12 and height five. What is the loss?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "60",
+            "en": "60"
+          },
+          {
+            "id": "b",
+            "zh-CN": "12",
+            "en": "12"
+          },
+          {
+            "id": "c",
+            "zh-CN": "5",
+            "en": "5"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "30。 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q* 处外部边际成本，不应机械采用 Qm 处的差额。 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。",
+          "en": "30. Illustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax equals marginal external cost at Q*, not mechanically the gap at Qm. The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
+        }
+      },
+      {
+        "id": "u2-40-external-welfare-short-1",
+        "knowledgePointId": "u2-40-external-welfare",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释外部性与福利损失计算的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Externalities and welfare-loss calculations and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。 先确定市场与社会数量；比较错误配置单位的 MSC 与 MSB；累加差额而非把税收视为损失 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q* 处外部边际成本，不应机械采用 Qm 处的差额。",
+          "en": "Externality welfare loss accumulates the gap between social marginal cost and benefit between market and optimal quantities. A linear model permits a triangle-area calculation. Identify market and optimal quantities; compare MSC and MSB on misallocated units; sum the gaps rather than treating tax revenue as the loss Illustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax equals marginal external cost at Q*, not mechanically the gap at Qm."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "社会最优",
+              "en": "social optimum"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "社会最优",
+                "先确定市场与社会数量"
+              ],
+              "en": [
+                "social optimum",
+                "Identify market and optimal quantities"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际差额",
+              "en": "marginal gap"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际差额",
+                "比较错误配置单位的 MSC 与 MSB"
+              ],
+              "en": [
+                "marginal gap",
+                "compare MSC and MSB on misallocated units"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "三角形",
+              "en": "triangle"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "三角形",
+                "累加差额而非把税收视为损失"
+              ],
+              "en": [
+                "triangle",
+                "sum the gaps rather than treating tax revenue as the loss"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-41-public-goods",
+      "slug": "public-goods",
+      "section": "2.9",
+      "level": "core",
+      "syllabusRefs": [
+        "2.9 Public goods"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.3",
+          "pages": [
+            184
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-42-free-rider",
+        "u2-43-public-provision"
+      ],
+      "terms": [
+        "公共物品的特征",
+        "Characteristics of public goods",
+        "非竞争",
+        "non-rival",
+        "非排他",
+        "non-excludable",
+        "使用",
+        "use"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "非竞争",
+          "非排他",
+          "使用"
+        ],
+        "en": [
+          "non-rival",
+          "non-excludable",
+          "use"
+        ]
+      },
+      "diagramIds": [
+        "goods-matrix"
+      ],
+      "quizIds": [
+        "u2-41-public-goods-flash-1",
+        "u2-41-public-goods-mcq-1",
+        "u2-41-public-goods-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-41-public-goods",
+        "locale": "zh-CN",
+        "title": "公共物品的特征",
+        "takeaway": "纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。",
+        "definition": "纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。",
+        "causalChain": [
+          "额外使用者不消耗同一服务",
+          "阻止使用者的成本高",
+          "按个人使用收费难以融资"
+        ],
+        "misconceptions": [
+          "公共提供不等于公共物品，收费学校仍可排他。"
+        ],
+        "examApplication": [
+          "用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+        ],
+        "summary": [
+          "纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。",
+          "公共提供不等于公共物品，收费学校仍可排他。"
+        ],
+        "explanation": "额外使用者不消耗同一服务。阻止使用者的成本高。按个人使用收费难以融资。\n\n### 原创情境与推导\n\n原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。\n\n公共提供不等于公共物品，收费学校仍可排他。\n\n用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+      },
+      "en": {
+        "id": "u2-41-public-goods",
+        "locale": "en",
+        "title": "Characteristics of public goods",
+        "takeaway": "A pure public good is both non-rival and non-excludable: one person's use does not reduce availability to others, and non-payers are difficult to exclude.",
+        "definition": "A pure public good is both non-rival and non-excludable: one person's use does not reduce availability to others, and non-payers are difficult to exclude.",
+        "causalChain": [
+          "An additional user does not consume the same service away",
+          "exclusion is difficult or costly",
+          "individual use charges struggle to finance provision"
+        ],
+        "misconceptions": [
+          "Public provision is not the same as a public good; a school can still exclude users."
+        ],
+        "examApplication": [
+          "Classify rivalry and excludability and explain financing rather than merely stating government provision."
+        ],
+        "summary": [
+          "A pure public good is both non-rival and non-excludable: one person's use does not reduce availability to others, and non-payers are difficult to exclude.",
+          "Public provision is not the same as a public good; a school can still exclude users."
+        ],
+        "explanation": "An additional user does not consume the same service away.  exclusion is difficult or costly.  individual use charges struggle to finance provision.\n\n### Original scenario and reasoning\n\nIllustrative example: national defence generally protects one more resident without reducing protection for others and cannot easily exclude non-payers. A congested road is rival at peak times, so it cannot always be treated as a pure public good.\n\nPublic provision is not the same as a public good; a school can still exclude users.\n\nClassify rivalry and excludability and explain financing rather than merely stating government provision."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-41-public-goods-flash-1",
+        "knowledgePointId": "u2-41-public-goods",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“公共物品的特征”，并说明一个关键条件。",
+          "en": "Explain Characteristics of public goods and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。",
+          "en": "A pure public good is both non-rival and non-excludable: one person's use does not reduce availability to others, and non-payers are difficult to exclude."
+        },
+        "explanation": {
+          "zh-CN": "公共提供不等于公共物品，收费学校仍可排他。",
+          "en": "Public provision is not the same as a public good; a school can still exclude users."
+        }
+      },
+      {
+        "id": "u2-41-public-goods-mcq-1",
+        "knowledgePointId": "u2-41-public-goods",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "纯公共物品需要哪两种特征？",
+          "en": "Which two characteristics define a pure public good?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "非竞争与非排他",
+            "en": "Non-rivalry and non-excludability"
+          },
+          {
+            "id": "b",
+            "zh-CN": "竞争与排他",
+            "en": "Rivalry and excludability"
+          },
+          {
+            "id": "c",
+            "zh-CN": "只有政府拥有",
+            "en": "Government ownership alone"
+          },
+          {
+            "id": "d",
+            "zh-CN": "价格高和利润低",
+            "en": "High price and low profit"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "非竞争与非排他。 原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。 公共提供不等于公共物品，收费学校仍可排他。",
+          "en": "Non-rivalry and non-excludability. Illustrative example: national defence generally protects one more resident without reducing protection for others and cannot easily exclude non-payers. A congested road is rival at peak times, so it cannot always be treated as a pure public good. Public provision is not the same as a public good; a school can still exclude users."
+        }
+      },
+      {
+        "id": "u2-41-public-goods-short-1",
+        "knowledgePointId": "u2-41-public-goods",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释公共物品的特征的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Characteristics of public goods and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。 额外使用者不消耗同一服务；阻止使用者的成本高；按个人使用收费难以融资 原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。",
+          "en": "A pure public good is both non-rival and non-excludable: one person's use does not reduce availability to others, and non-payers are difficult to exclude. An additional user does not consume the same service away; exclusion is difficult or costly; individual use charges struggle to finance provision Illustrative example: national defence generally protects one more resident without reducing protection for others and cannot easily exclude non-payers. A congested road is rival at peak times, so it cannot always be treated as a pure public good."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "非竞争",
+              "en": "non-rival"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "非竞争",
+                "额外使用者不消耗同一服务"
+              ],
+              "en": [
+                "non-rival",
+                "An additional user does not consume the same service away"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "非排他",
+              "en": "non-excludable"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "非排他",
+                "阻止使用者的成本高"
+              ],
+              "en": [
+                "non-excludable",
+                "exclusion is difficult or costly"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "使用",
+              "en": "use"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "使用",
+                "按个人使用收费难以融资"
+              ],
+              "en": [
+                "use",
+                "individual use charges struggle to finance provision"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-42-free-rider",
+      "slug": "free-rider",
+      "section": "2.9",
+      "level": "core",
+      "syllabusRefs": [
+        "2.9 Public goods"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.3",
+          "pages": [
+            184
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-41-public-goods",
+        "u2-43-public-provision"
+      ],
+      "terms": [
+        "搭便车与市场提供不足",
+        "Free riding and underprovision",
+        "搭便车",
+        "free riding",
+        "付费",
+        "payment",
+        "提供不足",
+        "underprovision"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "搭便车",
+          "付费",
+          "提供不足"
+        ],
+        "en": [
+          "free riding",
+          "payment",
+          "underprovision"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-42-free-rider-flash-1",
+        "u2-42-free-rider-mcq-1",
+        "u2-42-free-rider-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-42-free-rider",
+        "locale": "zh-CN",
+        "title": "搭便车与市场提供不足",
+        "takeaway": "搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。",
+        "definition": "搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。",
+        "causalChain": [
+          "使用者可以不支付仍获益",
+          "自愿付款不足",
+          "私人融资难覆盖生产成本"
+        ],
+        "misconceptions": [
+          "搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。"
+        ],
+        "examApplication": [
+          "用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+        ],
+        "summary": [
+          "搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。",
+          "搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。"
+        ],
+        "explanation": "使用者可以不支付仍获益。自愿付款不足。私人融资难覆盖生产成本。\n\n### 原创情境与推导\n\n原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。\n\n搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。\n\n用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+      },
+      "en": {
+        "id": "u2-42-free-rider",
+        "locale": "en",
+        "title": "Free riding and underprovision",
+        "takeaway": "Free riding means enjoying benefits without paying. Non-excludability encourages concealed willingness to pay, making cost recovery difficult and causing underprovision.",
+        "definition": "Free riding means enjoying benefits without paying. Non-excludability encourages concealed willingness to pay, making cost recovery difficult and causing underprovision.",
+        "causalChain": [
+          "Users can benefit without payment",
+          "voluntary contributions are insufficient",
+          "private financing may fail to cover production costs"
+        ],
+        "misconceptions": [
+          "Simply raising the price cannot solve free riding when non-payers still receive benefits."
+        ],
+        "examApplication": [
+          "Classify rivalry and excludability and explain financing rather than merely stating government provision."
+        ],
+        "summary": [
+          "Free riding means enjoying benefits without paying. Non-excludability encourages concealed willingness to pay, making cost recovery difficult and causing underprovision.",
+          "Simply raising the price cannot solve free riding when non-payers still receive benefits."
+        ],
+        "explanation": "Users can benefit without payment.  voluntary contributions are insufficient.  private financing may fail to cover production costs.\n\n### Original scenario and reasoning\n\nIllustrative example: neighbourhood lighting benefits every household, including non-payers. Even if combined benefit exceeds installation cost, voluntary charging may fail. Taxes or community rules can coordinate financing without guaranteeing spending efficiency.\n\nSimply raising the price cannot solve free riding when non-payers still receive benefits.\n\nClassify rivalry and excludability and explain financing rather than merely stating government provision."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-42-free-rider-flash-1",
+        "knowledgePointId": "u2-42-free-rider",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“搭便车与市场提供不足”，并说明一个关键条件。",
+          "en": "Explain Free riding and underprovision and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。",
+          "en": "Free riding means enjoying benefits without paying. Non-excludability encourages concealed willingness to pay, making cost recovery difficult and causing underprovision."
+        },
+        "explanation": {
+          "zh-CN": "搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。",
+          "en": "Simply raising the price cannot solve free riding when non-payers still receive benefits."
+        }
+      },
+      {
+        "id": "u2-42-free-rider-mcq-1",
+        "knowledgePointId": "u2-42-free-rider",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "为什么非排他性会导致提供不足？",
+          "en": "Why can non-excludability lead to underprovision?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "所有人无收益",
+            "en": "Nobody benefits"
+          },
+          {
+            "id": "b",
+            "zh-CN": "难以让所有受益者付费",
+            "en": "It is hard to charge every beneficiary"
+          },
+          {
+            "id": "c",
+            "zh-CN": "生产成本必然为零",
+            "en": "Production cost is necessarily zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "数量越多效用必然负",
+            "en": "More output necessarily has negative utility"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "难以让所有受益者付费。 原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。 搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。",
+          "en": "It is hard to charge every beneficiary. Illustrative example: neighbourhood lighting benefits every household, including non-payers. Even if combined benefit exceeds installation cost, voluntary charging may fail. Taxes or community rules can coordinate financing without guaranteeing spending efficiency. Simply raising the price cannot solve free riding when non-payers still receive benefits."
+        }
+      },
+      {
+        "id": "u2-42-free-rider-short-1",
+        "knowledgePointId": "u2-42-free-rider",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释搭便车与市场提供不足的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Free riding and underprovision and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。 使用者可以不支付仍获益；自愿付款不足；私人融资难覆盖生产成本 原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。",
+          "en": "Free riding means enjoying benefits without paying. Non-excludability encourages concealed willingness to pay, making cost recovery difficult and causing underprovision. Users can benefit without payment; voluntary contributions are insufficient; private financing may fail to cover production costs Illustrative example: neighbourhood lighting benefits every household, including non-payers. Even if combined benefit exceeds installation cost, voluntary charging may fail. Taxes or community rules can coordinate financing without guaranteeing spending efficiency."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "搭便车",
+              "en": "free riding"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "搭便车",
+                "使用者可以不支付仍获益"
+              ],
+              "en": [
+                "free riding",
+                "Users can benefit without payment"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "付费",
+              "en": "payment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "付费",
+                "自愿付款不足"
+              ],
+              "en": [
+                "payment",
+                "voluntary contributions are insufficient"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "提供不足",
+              "en": "underprovision"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "提供不足",
+                "私人融资难覆盖生产成本"
+              ],
+              "en": [
+                "underprovision",
+                "private financing may fail to cover production costs"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-43-public-provision",
+      "slug": "public-provision",
+      "section": "2.9",
+      "level": "core",
+      "syllabusRefs": [
+        "2.9 Public goods"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.3",
+          "pages": [
+            184
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-41-public-goods",
+        "u2-42-free-rider"
+      ],
+      "terms": [
+        "公共物品的提供与评价",
+        "Provision and evaluation of public goods",
+        "融资",
+        "financing",
+        "机会成本",
+        "opportunity cost",
+        "监督",
+        "monitoring"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "融资",
+          "机会成本",
+          "监督"
+        ],
+        "en": [
+          "financing",
+          "opportunity cost",
+          "monitoring"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-43-public-provision-flash-1",
+        "u2-43-public-provision-mcq-1",
+        "u2-43-public-provision-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-43-public-provision",
+        "locale": "zh-CN",
+        "title": "公共物品的提供与评价",
+        "takeaway": "政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。",
+        "definition": "政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。",
+        "causalChain": [
+          "强制融资减少搭便车",
+          "选择供给数量与生产方式",
+          "监督成本、质量和分配"
+        ],
+        "misconceptions": [
+          "市场提供不足支持干预理由，但不证明任意政府项目都值得实施。"
+        ],
+        "examApplication": [
+          "用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+        ],
+        "summary": [
+          "政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。",
+          "市场提供不足支持干预理由，但不证明任意政府项目都值得实施。"
+        ],
+        "explanation": "强制融资减少搭便车。选择供给数量与生产方式。监督成本、质量和分配。\n\n### 原创情境与推导\n\n原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。\n\n市场提供不足支持干预理由，但不证明任意政府项目都值得实施。\n\n用竞争性和排他性分类，解释融资机制而不只说政府提供。"
+      },
+      "en": {
+        "id": "u2-43-public-provision",
+        "locale": "en",
+        "title": "Provision and evaluation of public goods",
+        "takeaway": "Government may finance public goods through taxation and produce them directly or contract production out. Financing, producer identity and the good's characteristics are separate questions.",
+        "definition": "Government may finance public goods through taxation and produce them directly or contract production out. Financing, producer identity and the good's characteristics are separate questions.",
+        "causalChain": [
+          "Compulsory financing reduces free riding",
+          "choose quantity and production method",
+          "monitor cost, quality and distribution"
+        ],
+        "misconceptions": [
+          "Underprovision supports a case for intervention but does not prove every government project is worthwhile."
+        ],
+        "examApplication": [
+          "Classify rivalry and excludability and explain financing rather than merely stating government provision."
+        ],
+        "summary": [
+          "Government may finance public goods through taxation and produce them directly or contract production out. Financing, producer identity and the good's characteristics are separate questions.",
+          "Underprovision supports a case for intervention but does not prove every government project is worthwhile."
+        ],
+        "explanation": "Compulsory financing reduces free riding.  choose quantity and production method.  monitor cost, quality and distribution.\n\n### Original scenario and reasoning\n\nIllustrative example: a city pays for street lighting from taxes while a private contractor installs it. Public financing can coexist with private production. Evaluate residents' benefits, opportunity cost, competitive tendering and maintenance accountability.\n\nUnderprovision supports a case for intervention but does not prove every government project is worthwhile.\n\nClassify rivalry and excludability and explain financing rather than merely stating government provision."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-43-public-provision-flash-1",
+        "knowledgePointId": "u2-43-public-provision",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“公共物品的提供与评价”，并说明一个关键条件。",
+          "en": "Explain Provision and evaluation of public goods and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。",
+          "en": "Government may finance public goods through taxation and produce them directly or contract production out. Financing, producer identity and the good's characteristics are separate questions."
+        },
+        "explanation": {
+          "zh-CN": "市场提供不足支持干预理由，但不证明任意政府项目都值得实施。",
+          "en": "Underprovision supports a case for intervention but does not prove every government project is worthwhile."
+        }
+      },
+      {
+        "id": "u2-43-public-provision-mcq-1",
+        "knowledgePointId": "u2-43-public-provision",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "税收融资、私人承包安装路灯属于什么？",
+          "en": "Tax-financed lighting installed by a private contractor represents what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "路灯因此必然成为私人品",
+            "en": "Lighting necessarily becomes a private good"
+          },
+          {
+            "id": "b",
+            "zh-CN": "完全自愿付费",
+            "en": "Entirely voluntary funding"
+          },
+          {
+            "id": "c",
+            "zh-CN": "公共融资与私人生产并存",
+            "en": "Public financing with private production"
+          },
+          {
+            "id": "d",
+            "zh-CN": "不存在机会成本",
+            "en": "No opportunity cost"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "公共融资与私人生产并存。 原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。 市场提供不足支持干预理由，但不证明任意政府项目都值得实施。",
+          "en": "Public financing with private production. Illustrative example: a city pays for street lighting from taxes while a private contractor installs it. Public financing can coexist with private production. Evaluate residents' benefits, opportunity cost, competitive tendering and maintenance accountability. Underprovision supports a case for intervention but does not prove every government project is worthwhile."
+        }
+      },
+      {
+        "id": "u2-43-public-provision-short-1",
+        "knowledgePointId": "u2-43-public-provision",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释公共物品的提供与评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Provision and evaluation of public goods and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。 强制融资减少搭便车；选择供给数量与生产方式；监督成本、质量和分配 原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。",
+          "en": "Government may finance public goods through taxation and produce them directly or contract production out. Financing, producer identity and the good's characteristics are separate questions. Compulsory financing reduces free riding; choose quantity and production method; monitor cost, quality and distribution Illustrative example: a city pays for street lighting from taxes while a private contractor installs it. Public financing can coexist with private production. Evaluate residents' benefits, opportunity cost, competitive tendering and maintenance accountability."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "融资",
+              "en": "financing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资",
+                "强制融资减少搭便车"
+              ],
+              "en": [
+                "financing",
+                "Compulsory financing reduces free riding"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "机会成本",
+              "en": "opportunity cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会成本",
+                "选择供给数量与生产方式"
+              ],
+              "en": [
+                "opportunity cost",
+                "choose quantity and production method"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "监督",
+              "en": "monitoring"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "监督",
+                "监督成本、质量和分配"
+              ],
+              "en": [
+                "monitoring",
+                "monitor cost, quality and distribution"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-44-adverse-selection",
+      "slug": "adverse-selection",
+      "section": "2.10",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.10 Asymmetric information"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.4",
+          "pages": [
+            187
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-45-moral-hazard",
+        "u2-46-information-remedies"
+      ],
+      "terms": [
+        "信息不对称与逆向选择",
+        "Asymmetric information and adverse selection",
+        "信息不对称",
+        "asymmetric information",
+        "交易前",
+        "before",
+        "退出",
+        "exit"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "信息不对称",
+          "交易前",
+          "退出"
+        ],
+        "en": [
+          "asymmetric information",
+          "before",
+          "exit"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-44-adverse-selection-flash-1",
+        "u2-44-adverse-selection-mcq-1",
+        "u2-44-adverse-selection-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-44-adverse-selection",
+        "locale": "zh-CN",
+        "title": "信息不对称与逆向选择",
+        "takeaway": "信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。",
+        "definition": "信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。",
+        "causalChain": [
+          "买方难辨质量或风险",
+          "统一价格使优质类型退出",
+          "平均质量下降并可能使市场萎缩"
+        ],
+        "misconceptions": [
+          "逆向选择发生在交易前，不能与交易后的行为变化混淆。"
+        ],
+        "examApplication": [
+          "写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+        ],
+        "summary": [
+          "信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。",
+          "逆向选择发生在交易前，不能与交易后的行为变化混淆。"
+        ],
+        "explanation": "买方难辨质量或风险。统一价格使优质类型退出。平均质量下降并可能使市场萎缩。\n\n### 原创情境与推导\n\n原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。\n\n逆向选择发生在交易前，不能与交易后的行为变化混淆。\n\n写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+      },
+      "en": {
+        "id": "u2-44-adverse-selection",
+        "locale": "en",
+        "title": "Asymmetric information and adverse selection",
+        "takeaway": "Asymmetric information means one party has relevant information the other lacks. Adverse selection arises before exchange when hidden types increase the share of high-risk or low-quality transactions.",
+        "definition": "Asymmetric information means one party has relevant information the other lacks. Adverse selection arises before exchange when hidden types increase the share of high-risk or low-quality transactions.",
+        "causalChain": [
+          "Buyers cannot distinguish quality or risk",
+          "pooled prices drive good types away",
+          "average quality falls and the market may shrink"
+        ],
+        "misconceptions": [
+          "Adverse selection occurs before exchange, not as a post-contract behavioural change."
+        ],
+        "examApplication": [
+          "State whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+        ],
+        "summary": [
+          "Asymmetric information means one party has relevant information the other lacks. Adverse selection arises before exchange when hidden types increase the share of high-risk or low-quality transactions.",
+          "Adverse selection occurs before exchange, not as a post-contract behavioural change."
+        ],
+        "explanation": "Buyers cannot distinguish quality or risk.  pooled prices drive good types away.  average quality falls and the market may shrink.\n\n### Original scenario and reasoning\n\nIllustrative example: used-car buyers cannot identify good cars and offer an average price. Good-car owners exit, worsening remaining quality. Inspection, warranties and credible certification can narrow the information gap, but certifiers must be trustworthy.\n\nAdverse selection occurs before exchange, not as a post-contract behavioural change.\n\nState whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-44-adverse-selection-flash-1",
+        "knowledgePointId": "u2-44-adverse-selection",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“信息不对称与逆向选择”，并说明一个关键条件。",
+          "en": "Explain Asymmetric information and adverse selection and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。",
+          "en": "Asymmetric information means one party has relevant information the other lacks. Adverse selection arises before exchange when hidden types increase the share of high-risk or low-quality transactions."
+        },
+        "explanation": {
+          "zh-CN": "逆向选择发生在交易前，不能与交易后的行为变化混淆。",
+          "en": "Adverse selection occurs before exchange, not as a post-contract behavioural change."
+        }
+      },
+      {
+        "id": "u2-44-adverse-selection-mcq-1",
+        "knowledgePointId": "u2-44-adverse-selection",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "隐藏车况在签约前导致好车退出属于什么？",
+          "en": "Hidden car quality before purchase drives good cars out. What is this?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "道德风险",
+            "en": "Moral hazard"
+          },
+          {
+            "id": "b",
+            "zh-CN": "规模经济",
+            "en": "Economies of scale"
+          },
+          {
+            "id": "c",
+            "zh-CN": "正消费外部性",
+            "en": "Positive consumption externality"
+          },
+          {
+            "id": "d",
+            "zh-CN": "逆向选择",
+            "en": "Adverse selection"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "逆向选择。 原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。 逆向选择发生在交易前，不能与交易后的行为变化混淆。",
+          "en": "Adverse selection. Illustrative example: used-car buyers cannot identify good cars and offer an average price. Good-car owners exit, worsening remaining quality. Inspection, warranties and credible certification can narrow the information gap, but certifiers must be trustworthy. Adverse selection occurs before exchange, not as a post-contract behavioural change."
+        }
+      },
+      {
+        "id": "u2-44-adverse-selection-short-1",
+        "knowledgePointId": "u2-44-adverse-selection",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释信息不对称与逆向选择的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Asymmetric information and adverse selection and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。 买方难辨质量或风险；统一价格使优质类型退出；平均质量下降并可能使市场萎缩 原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。",
+          "en": "Asymmetric information means one party has relevant information the other lacks. Adverse selection arises before exchange when hidden types increase the share of high-risk or low-quality transactions. Buyers cannot distinguish quality or risk; pooled prices drive good types away; average quality falls and the market may shrink Illustrative example: used-car buyers cannot identify good cars and offer an average price. Good-car owners exit, worsening remaining quality. Inspection, warranties and credible certification can narrow the information gap, but certifiers must be trustworthy."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "信息不对称",
+              "en": "asymmetric information"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信息不对称",
+                "买方难辨质量或风险"
+              ],
+              "en": [
+                "asymmetric information",
+                "Buyers cannot distinguish quality or risk"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "交易前",
+              "en": "before"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "交易前",
+                "统一价格使优质类型退出"
+              ],
+              "en": [
+                "before",
+                "pooled prices drive good types away"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "退出",
+              "en": "exit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "退出",
+                "平均质量下降并可能使市场萎缩"
+              ],
+              "en": [
+                "exit",
+                "average quality falls and the market may shrink"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-45-moral-hazard",
+      "slug": "moral-hazard",
+      "section": "2.10",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.10 Asymmetric information"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.4",
+          "pages": [
+            187
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-44-adverse-selection",
+        "u2-46-information-remedies"
+      ],
+      "terms": [
+        "道德风险",
+        "Moral hazard",
+        "交易后",
+        "after",
+        "行为",
+        "actions",
+        "激励",
+        "incentives"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "交易后",
+          "行为",
+          "激励"
+        ],
+        "en": [
+          "after",
+          "actions",
+          "incentives"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-45-moral-hazard-flash-1",
+        "u2-45-moral-hazard-mcq-1",
+        "u2-45-moral-hazard-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-45-moral-hazard",
+        "locale": "zh-CN",
+        "title": "道德风险",
+        "takeaway": "道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。",
+        "definition": "道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。",
+        "causalChain": [
+          "合约分担风险",
+          "行为难被完全监测",
+          "当事人可能采取更多风险或更少预防"
+        ],
+        "misconceptions": [
+          "道德风险是激励结构，不是对当事人的道德判决。"
+        ],
+        "examApplication": [
+          "写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+        ],
+        "summary": [
+          "道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。",
+          "道德风险是激励结构，不是对当事人的道德判决。"
+        ],
+        "explanation": "合约分担风险。行为难被完全监测。当事人可能采取更多风险或更少预防。\n\n### 原创情境与推导\n\n原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。\n\n道德风险是激励结构，不是对当事人的道德判决。\n\n写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+      },
+      "en": {
+        "id": "u2-45-moral-hazard",
+        "locale": "en",
+        "title": "Moral hazard",
+        "takeaway": "Moral hazard occurs after a contract when actions are hard to observe and a party does not bear their full consequences, encouraging changes in risk or effort.",
+        "definition": "Moral hazard occurs after a contract when actions are hard to observe and a party does not bear their full consequences, encouraging changes in risk or effort.",
+        "causalChain": [
+          "A contract shares risk",
+          "actions cannot be fully monitored",
+          "a party may take more risk or less precaution"
+        ],
+        "misconceptions": [
+          "Moral hazard describes incentives, not a moral judgement about the person."
+        ],
+        "examApplication": [
+          "State whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+        ],
+        "summary": [
+          "Moral hazard occurs after a contract when actions are hard to observe and a party does not bear their full consequences, encouraging changes in risk or effort.",
+          "Moral hazard describes incentives, not a moral judgement about the person."
+        ],
+        "explanation": "A contract shares risk.  actions cannot be fully monitored.  a party may take more risk or less precaution.\n\n### Original scenario and reasoning\n\nIllustrative example: full insurance may reduce a driver's precautions against theft. A deductible shares losses and monitoring can reduce risk, but an excessive deductible weakens protection. Incentives are not the only evaluation criterion.\n\nMoral hazard describes incentives, not a moral judgement about the person.\n\nState whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-45-moral-hazard-flash-1",
+        "knowledgePointId": "u2-45-moral-hazard",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“道德风险”，并说明一个关键条件。",
+          "en": "Explain Moral hazard and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。",
+          "en": "Moral hazard occurs after a contract when actions are hard to observe and a party does not bear their full consequences, encouraging changes in risk or effort."
+        },
+        "explanation": {
+          "zh-CN": "道德风险是激励结构，不是对当事人的道德判决。",
+          "en": "Moral hazard describes incentives, not a moral judgement about the person."
+        }
+      },
+      {
+        "id": "u2-45-moral-hazard-mcq-1",
+        "knowledgePointId": "u2-45-moral-hazard",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "购买保险后减少预防，主要属于什么？",
+          "en": "Reducing precautions after buying insurance primarily illustrates what?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "道德风险",
+            "en": "Moral hazard"
+          },
+          {
+            "id": "b",
+            "zh-CN": "逆向选择",
+            "en": "Adverse selection"
+          },
+          {
+            "id": "c",
+            "zh-CN": "需求定律失效必然",
+            "en": "Necessary failure of the law of demand"
+          },
+          {
+            "id": "d",
+            "zh-CN": "纯公共物品",
+            "en": "A pure public good"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "道德风险。 原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。 道德风险是激励结构，不是对当事人的道德判决。",
+          "en": "Moral hazard. Illustrative example: full insurance may reduce a driver's precautions against theft. A deductible shares losses and monitoring can reduce risk, but an excessive deductible weakens protection. Incentives are not the only evaluation criterion. Moral hazard describes incentives, not a moral judgement about the person."
+        }
+      },
+      {
+        "id": "u2-45-moral-hazard-short-1",
+        "knowledgePointId": "u2-45-moral-hazard",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释道德风险的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Moral hazard and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "道德风险发生在交易后：一方的行为难被观察且不承担全部后果，因而可能改变风险或努力程度。 合约分担风险；行为难被完全监测；当事人可能采取更多风险或更少预防 原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。",
+          "en": "Moral hazard occurs after a contract when actions are hard to observe and a party does not bear their full consequences, encouraging changes in risk or effort. A contract shares risk; actions cannot be fully monitored; a party may take more risk or less precaution Illustrative example: full insurance may reduce a driver's precautions against theft. A deductible shares losses and monitoring can reduce risk, but an excessive deductible weakens protection. Incentives are not the only evaluation criterion."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "交易后",
+              "en": "after"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "交易后",
+                "合约分担风险"
+              ],
+              "en": [
+                "after",
+                "A contract shares risk"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "行为",
+              "en": "actions"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "行为",
+                "行为难被完全监测"
+              ],
+              "en": [
+                "actions",
+                "actions cannot be fully monitored"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "激励",
+              "en": "incentives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "激励",
+                "当事人可能采取更多风险或更少预防"
+              ],
+              "en": [
+                "incentives",
+                "a party may take more risk or less precaution"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-46-information-remedies",
+      "slug": "information-remedies",
+      "section": "2.10",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.10 Asymmetric information"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.4",
+          "pages": [
+            187
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-33-market-failure"
+      ],
+      "related": [
+        "u2-44-adverse-selection",
+        "u2-45-moral-hazard"
+      ],
+      "terms": [
+        "信息不对称的应对",
+        "Remedies for asymmetric information",
+        "信号",
+        "signalling",
+        "筛选",
+        "screening",
+        "可信",
+        "credible"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "信号",
+          "筛选",
+          "可信"
+        ],
+        "en": [
+          "signalling",
+          "screening",
+          "credible"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-46-information-remedies-flash-1",
+        "u2-46-information-remedies-mcq-1",
+        "u2-46-information-remedies-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-46-information-remedies",
+        "locale": "zh-CN",
+        "title": "信息不对称的应对",
+        "takeaway": "信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。",
+        "definition": "信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。",
+        "causalChain": [
+          "识别隐藏类型或行为",
+          "设计可验证的披露和激励",
+          "减少错误交易但增加行政成本"
+        ],
+        "misconceptions": [
+          "无成本且容易伪造的信号可能无法区分类型。"
+        ],
+        "examApplication": [
+          "写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+        ],
+        "summary": [
+          "信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。",
+          "无成本且容易伪造的信号可能无法区分类型。"
+        ],
+        "explanation": "识别隐藏类型或行为。设计可验证的披露和激励。减少错误交易但增加行政成本。\n\n### 原创情境与推导\n\n原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。\n\n无成本且容易伪造的信号可能无法区分类型。\n\n写清信息差发生在交易前还是交易后，评价解决方式的可信度。"
+      },
+      "en": {
+        "id": "u2-46-information-remedies",
+        "locale": "en",
+        "title": "Remedies for asymmetric information",
+        "takeaway": "Signalling, screening, warranties, disclosure and regulation can reduce information gaps. Effectiveness depends on credibility, monitoring and implementation costs.",
+        "definition": "Signalling, screening, warranties, disclosure and regulation can reduce information gaps. Effectiveness depends on credibility, monitoring and implementation costs.",
+        "causalChain": [
+          "Identify hidden types or actions",
+          "design verifiable disclosure and incentives",
+          "reduce mistaken trades while incurring administrative cost"
+        ],
+        "misconceptions": [
+          "A cheap, easily faked signal may fail to distinguish types."
+        ],
+        "examApplication": [
+          "State whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+        ],
+        "summary": [
+          "Signalling, screening, warranties, disclosure and regulation can reduce information gaps. Effectiveness depends on credibility, monitoring and implementation costs.",
+          "A cheap, easily faked signal may fail to distinguish types."
+        ],
+        "explanation": "Identify hidden types or actions.  design verifiable disclosure and incentives.  reduce mistaken trades while incurring administrative cost.\n\n### Original scenario and reasoning\n\nIllustrative example: a seller's costly warranty can signal quality, while a buyer's independent inspection screens it. Mandatory nutrition labels can improve choices if understandable and verified; a mass of unreadable information is not effective information.\n\nA cheap, easily faked signal may fail to distinguish types.\n\nState whether the information problem occurs before or after exchange and evaluate credibility of remedies."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-46-information-remedies-flash-1",
+        "knowledgePointId": "u2-46-information-remedies",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“信息不对称的应对”，并说明一个关键条件。",
+          "en": "Explain Remedies for asymmetric information and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。",
+          "en": "Signalling, screening, warranties, disclosure and regulation can reduce information gaps. Effectiveness depends on credibility, monitoring and implementation costs."
+        },
+        "explanation": {
+          "zh-CN": "无成本且容易伪造的信号可能无法区分类型。",
+          "en": "A cheap, easily faked signal may fail to distinguish types."
+        }
+      },
+      {
+        "id": "u2-46-information-remedies-mcq-1",
+        "knowledgePointId": "u2-46-information-remedies",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "买方安排独立车检最接近什么？",
+          "en": "A buyer arranges an independent car inspection. What is this closest to?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "买方发出的质量信号",
+            "en": "A quality signal from the buyer"
+          },
+          {
+            "id": "b",
+            "zh-CN": "筛选",
+            "en": "Screening"
+          },
+          {
+            "id": "c",
+            "zh-CN": "排放许可证",
+            "en": "An emissions permit"
+          },
+          {
+            "id": "d",
+            "zh-CN": "最高限价",
+            "en": "A price ceiling"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "筛选。 原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。 无成本且容易伪造的信号可能无法区分类型。",
+          "en": "Screening. Illustrative example: a seller's costly warranty can signal quality, while a buyer's independent inspection screens it. Mandatory nutrition labels can improve choices if understandable and verified; a mass of unreadable information is not effective information. A cheap, easily faked signal may fail to distinguish types."
+        }
+      },
+      {
+        "id": "u2-46-information-remedies-short-1",
+        "knowledgePointId": "u2-46-information-remedies",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释信息不对称的应对的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Remedies for asymmetric information and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "信号、筛选、担保、信息披露和监管可减少信息差；有效性取决于可信度、监测能力与实施成本。 识别隐藏类型或行为；设计可验证的披露和激励；减少错误交易但增加行政成本 原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。",
+          "en": "Signalling, screening, warranties, disclosure and regulation can reduce information gaps. Effectiveness depends on credibility, monitoring and implementation costs. Identify hidden types or actions; design verifiable disclosure and incentives; reduce mistaken trades while incurring administrative cost Illustrative example: a seller's costly warranty can signal quality, while a buyer's independent inspection screens it. Mandatory nutrition labels can improve choices if understandable and verified; a mass of unreadable information is not effective information."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "信号",
+              "en": "signalling"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信号",
+                "识别隐藏类型或行为"
+              ],
+              "en": [
+                "signalling",
+                "Identify hidden types or actions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "筛选",
+              "en": "screening"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "筛选",
+                "设计可验证的披露和激励"
+              ],
+              "en": [
+                "screening",
+                "design verifiable disclosure and incentives"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "可信",
+              "en": "credible"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可信",
+                "减少错误交易但增加行政成本"
+              ],
+              "en": [
+                "credible",
+                "reduce mistaken trades while incurring administrative cost"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-47-market-structures",
+      "slug": "market-structures",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.1",
+          "pages": [
+            196
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-48-cost-curves",
+        "u2-49-scale",
+        "u2-50-revenue-profit"
+      ],
+      "terms": [
+        "市场结构与进入壁垒",
+        "Market structures and entry barriers",
+        "壁垒",
+        "barrier",
+        "替代品",
+        "substitutes",
+        "定价权",
+        "pricing power"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "壁垒",
+          "替代品",
+          "定价权"
+        ],
+        "en": [
+          "barrier",
+          "substitutes",
+          "pricing power"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-47-market-structures-flash-1",
+        "u2-47-market-structures-mcq-1",
+        "u2-47-market-structures-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-47-market-structures",
+        "locale": "zh-CN",
+        "title": "市场结构与进入壁垒",
+        "takeaway": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。",
+        "definition": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。",
+        "causalChain": [
+          "专利、规模优势或战略行为限制进入",
+          "替代竞争减弱",
+          "企业可能有更大定价权"
+        ],
+        "misconceptions": [
+          "企业规模大不自动等于垄断，必须先定义相关市场。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。",
+          "企业规模大不自动等于垄断，必须先定义相关市场。"
+        ],
+        "explanation": "专利、规模优势或战略行为限制进入。替代竞争减弱。企业可能有更大定价权。\n\n### 原创情境与推导\n\n原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。\n\n企业规模大不自动等于垄断，必须先定义相关市场。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-47-market-structures",
+        "locale": "en",
+        "title": "Market structures and entry barriers",
+        "takeaway": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price.",
+        "definition": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price.",
+        "causalChain": [
+          "Patents, scale advantages or strategic behaviour restrict entry",
+          "competitive substitutes weaken",
+          "firms may gain pricing power"
+        ],
+        "misconceptions": [
+          "A large firm is not automatically a monopoly; first define the relevant market."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price.",
+          "A large firm is not automatically a monopoly; first define the relevant market."
+        ],
+        "explanation": "Patents, scale advantages or strategic behaviour restrict entry.  competitive substitutes weaken.  firms may gain pricing power.\n\n### Original scenario and reasoning\n\nIllustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter.\n\nA large firm is not automatically a monopoly; first define the relevant market.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-47-market-structures-flash-1",
+        "knowledgePointId": "u2-47-market-structures",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“市场结构与进入壁垒”，并说明一个关键条件。",
+          "en": "Explain Market structures and entry barriers and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。",
+          "en": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price."
+        },
+        "explanation": {
+          "zh-CN": "企业规模大不自动等于垄断，必须先定义相关市场。",
+          "en": "A large firm is not automatically a monopoly; first define the relevant market."
+        }
+      },
+      {
+        "id": "u2-47-market-structures-mcq-1",
+        "knowledgePointId": "u2-47-market-structures",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项最可能构成进入壁垒？",
+          "en": "Which is most likely an entry barrier?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "消费者容易比较价格",
+            "en": "Easy price comparison"
+          },
+          {
+            "id": "b",
+            "zh-CN": "相同技术公开可得",
+            "en": "Identical technology freely available"
+          },
+          {
+            "id": "c",
+            "zh-CN": "独家法律专利",
+            "en": "An exclusive legal patent"
+          },
+          {
+            "id": "d",
+            "zh-CN": "新企业可无成本进入",
+            "en": "Costless entry"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "独家法律专利。 原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。 企业规模大不自动等于垄断，必须先定义相关市场。",
+          "en": "An exclusive legal patent. Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter. A large firm is not automatically a monopoly; first define the relevant market."
+        }
+      },
+      {
+        "id": "u2-47-market-structures-short-1",
+        "knowledgePointId": "u2-47-market-structures",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释市场结构与进入壁垒的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Market structures and entry barriers and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。 专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权 原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。",
+          "en": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price. Patents, scale advantages or strategic behaviour restrict entry; competitive substitutes weaken; firms may gain pricing power Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "壁垒",
+              "en": "barrier"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "壁垒",
+                "专利、规模优势或战略行为限制进入"
+              ],
+              "en": [
+                "barrier",
+                "Patents, scale advantages or strategic behaviour restrict entry"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "替代品",
+              "en": "substitutes"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "替代品",
+                "替代竞争减弱"
+              ],
+              "en": [
+                "substitutes",
+                "competitive substitutes weaken"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "定价权",
+              "en": "pricing power"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "定价权",
+                "企业可能有更大定价权"
+              ],
+              "en": [
+                "pricing power",
+                "firms may gain pricing power"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-48-cost-curves",
+      "slug": "cost-curves",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.2",
+          "pages": [
+            199
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-49-scale",
+        "u2-50-revenue-profit"
+      ],
+      "terms": [
+        "总成本、平均成本与边际成本",
+        "Total, average and marginal costs",
+        "平均成本",
+        "average cost",
+        "边际成本",
+        "marginal cost",
+        "固定成本",
+        "fixed cost"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "平均成本",
+          "边际成本",
+          "固定成本"
+        ],
+        "en": [
+          "average cost",
+          "marginal cost",
+          "fixed cost"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-48-cost-curves-flash-1",
+        "u2-48-cost-curves-mcq-1",
+        "u2-48-cost-curves-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-48-cost-curves",
+        "locale": "zh-CN",
+        "title": "总成本、平均成本与边际成本",
+        "takeaway": "TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。",
+        "definition": "TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。",
+        "causalChain": [
+          "固定成本被更多单位分摊",
+          "可变投入受边际报酬变化影响",
+          "MC 与平均值关系决定平均成本方向"
+        ],
+        "misconceptions": [
+          "固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。",
+          "固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。"
+        ],
+        "explanation": "固定成本被更多单位分摊。可变投入受边际报酬变化影响。MC 与平均值关系决定平均成本方向。\n\n### 原创情境与推导\n\n原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的 ATC=(100+8)/11≈9.82。MC 不是 TC/Q。\n\n固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-48-cost-curves",
+        "locale": "en",
+        "title": "Total, average and marginal costs",
+        "takeaway": "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when marginal cost is below it and rises when marginal cost is above it.",
+        "definition": "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when marginal cost is below it and rises when marginal cost is above it.",
+        "causalChain": [
+          "Fixed cost is spread over more units",
+          "changing marginal returns affect variable inputs",
+          "the relation of MC to the average determines its direction"
+        ],
+        "misconceptions": [
+          "Higher fixed cost raises ATC but does not directly shift MC or AVC."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when marginal cost is below it and rises when marginal cost is above it.",
+          "Higher fixed cost raises ATC but does not directly shift MC or AVC."
+        ],
+        "explanation": "Fixed cost is spread over more units.  changing marginal returns affect variable inputs.  the relation of MC to the average determines its direction.\n\n### Original scenario and reasoning\n\nIllustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6 and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is not TC/Q.\n\nHigher fixed cost raises ATC but does not directly shift MC or AVC.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-48-cost-curves-flash-1",
+        "knowledgePointId": "u2-48-cost-curves",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“总成本、平均成本与边际成本”，并说明一个关键条件。",
+          "en": "Explain Total, average and marginal costs and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。",
+          "en": "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when marginal cost is below it and rises when marginal cost is above it."
+        },
+        "explanation": {
+          "zh-CN": "固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。",
+          "en": "Higher fixed cost raises ATC but does not directly shift MC or AVC."
+        }
+      },
+      {
+        "id": "u2-48-cost-curves-mcq-1",
+        "knowledgePointId": "u2-48-cost-curves",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "TC=120、Q=20，ATC 为多少？",
+          "en": "TC=120 and Q=20. What is ATC?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "100",
+            "en": "100"
+          },
+          {
+            "id": "b",
+            "zh-CN": "140",
+            "en": "140"
+          },
+          {
+            "id": "c",
+            "zh-CN": "2400",
+            "en": "2400"
+          },
+          {
+            "id": "d",
+            "zh-CN": "6",
+            "en": "6"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "6。 原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的 ATC=(100+8)/11≈9.82。MC 不是 TC/Q。 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。",
+          "en": "6. Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6 and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is not TC/Q. Higher fixed cost raises ATC but does not directly shift MC or AVC."
+        }
+      },
+      {
+        "id": "u2-48-cost-curves-short-1",
+        "knowledgePointId": "u2-48-cost-curves",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释总成本、平均成本与边际成本的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Total, average and marginal costs and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。 固定成本被更多单位分摊；可变投入受边际报酬变化影响；MC 与平均值关系决定平均成本方向 原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的 ATC=(100+8)/11≈9.82。MC 不是 TC/Q。",
+          "en": "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when marginal cost is below it and rises when marginal cost is above it. Fixed cost is spread over more units; changing marginal returns affect variable inputs; the relation of MC to the average determines its direction Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6 and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is not TC/Q."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "平均成本",
+              "en": "average cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平均成本",
+                "固定成本被更多单位分摊"
+              ],
+              "en": [
+                "average cost",
+                "Fixed cost is spread over more units"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际成本",
+              "en": "marginal cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际成本",
+                "可变投入受边际报酬变化影响"
+              ],
+              "en": [
+                "marginal cost",
+                "changing marginal returns affect variable inputs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "固定成本",
+              "en": "fixed cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "固定成本",
+                "MC 与平均值关系决定平均成本方向"
+              ],
+              "en": [
+                "fixed cost",
+                "the relation of MC to the average determines its direction"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-49-scale",
+      "slug": "scale",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.2",
+          "pages": [
+            204
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-50-revenue-profit"
+      ],
+      "terms": [
+        "规模经济与规模不经济",
+        "Economies and diseconomies of scale",
+        "长期",
+        "long run",
+        "平均成本",
+        "average cost",
+        "专业化",
+        "specialisation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "长期",
+          "平均成本",
+          "专业化"
+        ],
+        "en": [
+          "long run",
+          "average cost",
+          "specialisation"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-49-scale-flash-1",
+        "u2-49-scale-mcq-1",
+        "u2-49-scale-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-49-scale",
+        "locale": "zh-CN",
+        "title": "规模经济与规模不经济",
+        "takeaway": "长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。",
+        "definition": "长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。",
+        "causalChain": [
+          "扩大生产规模允许专业化和分摊",
+          "管理和沟通复杂度也上升",
+          "净影响决定长期平均成本"
+        ],
+        "misconceptions": [
+          "规模经济看平均成本，不是总成本下降。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。",
+          "规模经济看平均成本，不是总成本下降。"
+        ],
+        "explanation": "扩大生产规模允许专业化和分摊。管理和沟通复杂度也上升。净影响决定长期平均成本。\n\n### 原创情境与推导\n\n原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。\n\n规模经济看平均成本，不是总成本下降。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-49-scale",
+        "locale": "en",
+        "title": "Economies and diseconomies of scale",
+        "takeaway": "In the long run, with all inputs variable, expansion that lowers long-run average cost is an economy of scale; expansion that raises it is a diseconomy.",
+        "definition": "In the long run, with all inputs variable, expansion that lowers long-run average cost is an economy of scale; expansion that raises it is a diseconomy.",
+        "causalChain": [
+          "Larger scale permits specialisation and spreading costs",
+          "management and communication grow more complex",
+          "the net effect determines long-run average cost"
+        ],
+        "misconceptions": [
+          "Economies of scale concerns average cost, not necessarily falling total cost."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "In the long run, with all inputs variable, expansion that lowers long-run average cost is an economy of scale; expansion that raises it is a diseconomy.",
+          "Economies of scale concerns average cost, not necessarily falling total cost."
+        ],
+        "explanation": "Larger scale permits specialisation and spreading costs.  management and communication grow more complex.  the net effect determines long-run average cost.\n\n### Original scenario and reasoning\n\nIllustrative example: a large carrier can use specialised maintenance teams to lower cost per delivery, but complex regional management can increase coordination costs. This is long-run analysis with all inputs variable, not diminishing returns from adding workers to a fixed plant.\n\nEconomies of scale concerns average cost, not necessarily falling total cost.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-49-scale-flash-1",
+        "knowledgePointId": "u2-49-scale",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“规模经济与规模不经济”，并说明一个关键条件。",
+          "en": "Explain Economies and diseconomies of scale and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。",
+          "en": "In the long run, with all inputs variable, expansion that lowers long-run average cost is an economy of scale; expansion that raises it is a diseconomy."
+        },
+        "explanation": {
+          "zh-CN": "规模经济看平均成本，不是总成本下降。",
+          "en": "Economies of scale concerns average cost, not necessarily falling total cost."
+        }
+      },
+      {
+        "id": "u2-49-scale-mcq-1",
+        "knowledgePointId": "u2-49-scale",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "产量增加、LRAC 下降，应称为什么？",
+          "en": "Output expands and LRAC falls. What is this called?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "规模经济",
+            "en": "Economies of scale"
+          },
+          {
+            "id": "b",
+            "zh-CN": "规模不经济",
+            "en": "Diseconomies of scale"
+          },
+          {
+            "id": "c",
+            "zh-CN": "总产量减少",
+            "en": "Falling total output"
+          },
+          {
+            "id": "d",
+            "zh-CN": "需求完全无弹性",
+            "en": "Perfectly inelastic demand"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "规模经济。 原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。 规模经济看平均成本，不是总成本下降。",
+          "en": "Economies of scale. Illustrative example: a large carrier can use specialised maintenance teams to lower cost per delivery, but complex regional management can increase coordination costs. This is long-run analysis with all inputs variable, not diminishing returns from adding workers to a fixed plant. Economies of scale concerns average cost, not necessarily falling total cost."
+        }
+      },
+      {
+        "id": "u2-49-scale-short-1",
+        "knowledgePointId": "u2-49-scale",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释规模经济与规模不经济的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Economies and diseconomies of scale and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。 扩大生产规模允许专业化和分摊；管理和沟通复杂度也上升；净影响决定长期平均成本 原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。",
+          "en": "In the long run, with all inputs variable, expansion that lowers long-run average cost is an economy of scale; expansion that raises it is a diseconomy. Larger scale permits specialisation and spreading costs; management and communication grow more complex; the net effect determines long-run average cost Illustrative example: a large carrier can use specialised maintenance teams to lower cost per delivery, but complex regional management can increase coordination costs. This is long-run analysis with all inputs variable, not diminishing returns from adding workers to a fixed plant."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "长期",
+              "en": "long run"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期",
+                "扩大生产规模允许专业化和分摊"
+              ],
+              "en": [
+                "long run",
+                "Larger scale permits specialisation and spreading costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "平均成本",
+              "en": "average cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平均成本",
+                "管理和沟通复杂度也上升"
+              ],
+              "en": [
+                "average cost",
+                "management and communication grow more complex"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "专业化",
+              "en": "specialisation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "专业化",
+                "净影响决定长期平均成本"
+              ],
+              "en": [
+                "specialisation",
+                "the net effect determines long-run average cost"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-50-revenue-profit",
+      "slug": "revenue-profit",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.2",
+          "pages": [
+            205
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "收益、经济利润与正常利润",
+        "Revenue, economic and normal profit",
+        "机会成本",
+        "opportunity cost",
+        "经济利润",
+        "economic profit",
+        "正常利润",
+        "normal profit"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "机会成本",
+          "经济利润",
+          "正常利润"
+        ],
+        "en": [
+          "opportunity cost",
+          "economic profit",
+          "normal profit"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-50-revenue-profit-flash-1",
+        "u2-50-revenue-profit-mcq-1",
+        "u2-50-revenue-profit-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-50-revenue-profit",
+        "locale": "zh-CN",
+        "title": "收益、经济利润与正常利润",
+        "takeaway": "TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。",
+        "definition": "TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。",
+        "causalChain": [
+          "销售产生收入",
+          "扣除支付与机会成本",
+          "剩余为超额经济利润或亏损"
+        ],
+        "misconceptions": [
+          "垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。",
+          "垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。"
+        ],
+        "explanation": "销售产生收入。扣除支付与机会成本。剩余为超额经济利润或亏损。\n\n### 原创情境与推导\n\n原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为 180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。\n\n垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-50-revenue-profit",
+        "locale": "en",
+        "title": "Revenue, economic and normal profit",
+        "takeaway": "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit opportunity costs. Normal profit is included in economic cost, so zero economic profit can sustain production.",
+        "definition": "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit opportunity costs. Normal profit is included in economic cost, so zero economic profit can sustain production.",
+        "causalChain": [
+          "Sales generate revenue",
+          "deduct payments and opportunity costs",
+          "the remainder is economic profit or loss"
+        ],
+        "misconceptions": [
+          "A monopolist's MR can lie below AR because the lower price may apply to all units sold."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit opportunity costs. Normal profit is included in economic cost, so zero economic profit can sustain production.",
+          "A monopolist's MR can lie below AR because the lower price may apply to all units sold."
+        ],
+        "explanation": "Sales generate revenue.  deduct payments and opportunity costs.  the remainder is economic profit or loss.\n\n### Original scenario and reasoning\n\nIllustrative example: revenue 200, explicit costs 140 and implicit costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180 gives zero economic profit while covering all opportunity costs. Normal profit is not zero accounting income.\n\nA monopolist's MR can lie below AR because the lower price may apply to all units sold.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-50-revenue-profit-flash-1",
+        "knowledgePointId": "u2-50-revenue-profit",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“收益、经济利润与正常利润”，并说明一个关键条件。",
+          "en": "Explain Revenue, economic and normal profit and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。",
+          "en": "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit opportunity costs. Normal profit is included in economic cost, so zero economic profit can sustain production."
+        },
+        "explanation": {
+          "zh-CN": "垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。",
+          "en": "A monopolist's MR can lie below AR because the lower price may apply to all units sold."
+        }
+      },
+      {
+        "id": "u2-50-revenue-profit-mcq-1",
+        "knowledgePointId": "u2-50-revenue-profit",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "收入 150、显性成本 100、隐性成本 30，经济利润多少？",
+          "en": "Revenue is 150, explicit cost 100, implicit cost 30. What is economic profit?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "50",
+            "en": "50"
+          },
+          {
+            "id": "b",
+            "zh-CN": "20",
+            "en": "20"
+          },
+          {
+            "id": "c",
+            "zh-CN": "120",
+            "en": "120"
+          },
+          {
+            "id": "d",
+            "zh-CN": "150",
+            "en": "150"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "20。 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为 180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。 垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。",
+          "en": "20. Illustrative example: revenue 200, explicit costs 140 and implicit costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180 gives zero economic profit while covering all opportunity costs. Normal profit is not zero accounting income. A monopolist's MR can lie below AR because the lower price may apply to all units sold."
+        }
+      },
+      {
+        "id": "u2-50-revenue-profit-short-1",
+        "knowledgePointId": "u2-50-revenue-profit",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释收益、经济利润与正常利润的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Revenue, economic and normal profit and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。 销售产生收入；扣除支付与机会成本；剩余为超额经济利润或亏损 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为 180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。",
+          "en": "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit opportunity costs. Normal profit is included in economic cost, so zero economic profit can sustain production. Sales generate revenue; deduct payments and opportunity costs; the remainder is economic profit or loss Illustrative example: revenue 200, explicit costs 140 and implicit costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180 gives zero economic profit while covering all opportunity costs. Normal profit is not zero accounting income."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "机会成本",
+              "en": "opportunity cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会成本",
+                "销售产生收入"
+              ],
+              "en": [
+                "opportunity cost",
+                "Sales generate revenue"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "经济利润",
+              "en": "economic profit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经济利润",
+                "扣除支付与机会成本"
+              ],
+              "en": [
+                "economic profit",
+                "deduct payments and opportunity costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "正常利润",
+              "en": "normal profit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "正常利润",
+                "剩余为超额经济利润或亏损"
+              ],
+              "en": [
+                "normal profit",
+                "the remainder is economic profit or loss"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-51-profit-maximisation",
+      "slug": "profit-maximisation",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.2",
+          "pages": [
+            206
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "利润最大化与停产",
+        "Profit maximisation and shutdown",
+        "MR=MC",
+        "MR=MC",
+        "可变成本",
+        "variable cost",
+        "停产",
+        "shutdown"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "MR=MC",
+          "可变成本",
+          "停产"
+        ],
+        "en": [
+          "MR=MC",
+          "variable cost",
+          "shutdown"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-51-profit-maximisation-flash-1",
+        "u2-51-profit-maximisation-mcq-1",
+        "u2-51-profit-maximisation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-51-profit-maximisation",
+        "locale": "zh-CN",
+        "title": "利润最大化与停产",
+        "takeaway": "内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。",
+        "definition": "内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。",
+        "causalChain": [
+          "MR>MC 时增产提高利润",
+          "MC>MR 时减产提高利润",
+          "比较可变成本覆盖以判断是否继续生产"
+        ],
+        "misconceptions": [
+          "有亏损不意味着短期必须停产；MR=MC 也不保证正利润。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。",
+          "有亏损不意味着短期必须停产；MR=MC 也不保证正利润。"
+        ],
+        "explanation": "MR>MC 时增产提高利润。MC>MR 时减产提高利润。比较可变成本覆盖以判断是否继续生产。\n\n### 原创情境与推导\n\n原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若 P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。\n\n有亏损不意味着短期必须停产；MR=MC 也不保证正利润。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-51-profit-maximisation",
+        "locale": "en",
+        "title": "Profit maximisation and shutdown",
+        "takeaway": "An interior profit maximum normally has MR=MC with MC crossing MR from below. A price taker normally shuts down in the short run when price is below AVC, avoiding additional variable losses.",
+        "definition": "An interior profit maximum normally has MR=MC with MC crossing MR from below. A price taker normally shuts down in the short run when price is below AVC, avoiding additional variable losses.",
+        "causalChain": [
+          "When MR>MC expansion raises profit",
+          "when MC>MR contraction raises profit",
+          "compare coverage of variable costs to decide whether to operate"
+        ],
+        "misconceptions": [
+          "A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "An interior profit maximum normally has MR=MC with MC crossing MR from below. A price taker normally shuts down in the short run when price is below AVC, avoiding additional variable losses.",
+          "A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
+        ],
+        "explanation": "When MR>MC expansion raises profit.  when MC>MR contraction raises profit.  compare coverage of variable costs to decide whether to operate.\n\n### Original scenario and reasoning\n\nIllustrative example: P=9, AVC=7 and ATC=11 give a loss, but output contributes two per unit toward fixed cost, so short-run operation can be rational. At P=6<AVC production adds to losses. Long-run exit also compares total opportunity costs.\n\nA loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-51-profit-maximisation-flash-1",
+        "knowledgePointId": "u2-51-profit-maximisation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“利润最大化与停产”，并说明一个关键条件。",
+          "en": "Explain Profit maximisation and shutdown and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。",
+          "en": "An interior profit maximum normally has MR=MC with MC crossing MR from below. A price taker normally shuts down in the short run when price is below AVC, avoiding additional variable losses."
+        },
+        "explanation": {
+          "zh-CN": "有亏损不意味着短期必须停产；MR=MC 也不保证正利润。",
+          "en": "A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
+        }
+      },
+      {
+        "id": "u2-51-profit-maximisation-mcq-1",
+        "knowledgePointId": "u2-51-profit-maximisation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "P=8、AVC=6、ATC=10，竞争企业短期最可能怎样？",
+          "en": "P=8, AVC=6, ATC=10. What is a competitive firm's likely short-run choice?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "因为亏损必停产",
+            "en": "Must shut down because of the loss"
+          },
+          {
+            "id": "b",
+            "zh-CN": "获得每单位利润 2",
+            "en": "Earns profit of two per unit"
+          },
+          {
+            "id": "c",
+            "zh-CN": "可继续生产并承担亏损",
+            "en": "May operate despite a loss"
+          },
+          {
+            "id": "d",
+            "zh-CN": "固定成本消失",
+            "en": "Fixed costs disappear"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "可继续生产并承担亏损。 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若 P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。",
+          "en": "May operate despite a loss. Illustrative example: P=9, AVC=7 and ATC=11 give a loss, but output contributes two per unit toward fixed cost, so short-run operation can be rational. At P=6<AVC production adds to losses. Long-run exit also compares total opportunity costs. A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
+        }
+      },
+      {
+        "id": "u2-51-profit-maximisation-short-1",
+        "knowledgePointId": "u2-51-profit-maximisation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释利润最大化与停产的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Profit maximisation and shutdown and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。 MR>MC 时增产提高利润；MC>MR 时减产提高利润；比较可变成本覆盖以判断是否继续生产 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若 P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。",
+          "en": "An interior profit maximum normally has MR=MC with MC crossing MR from below. A price taker normally shuts down in the short run when price is below AVC, avoiding additional variable losses. When MR>MC expansion raises profit; when MC>MR contraction raises profit; compare coverage of variable costs to decide whether to operate Illustrative example: P=9, AVC=7 and ATC=11 give a loss, but output contributes two per unit toward fixed cost, so short-run operation can be rational. At P=6<AVC production adds to losses. Long-run exit also compares total opportunity costs."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "MR=MC",
+              "en": "MR=MC"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MR=MC",
+                "MR>MC 时增产提高利润"
+              ],
+              "en": [
+                "MR=MC",
+                "When MR>MC expansion raises profit"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "可变成本",
+              "en": "variable cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可变成本",
+                "MC>MR 时减产提高利润"
+              ],
+              "en": [
+                "variable cost",
+                "when MC>MR contraction raises profit"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "停产",
+              "en": "shutdown"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "停产",
+                "比较可变成本覆盖以判断是否继续生产"
+              ],
+              "en": [
+                "shutdown",
+                "compare coverage of variable costs to decide whether to operate"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-52-perfect-competition",
+      "slug": "perfect-competition",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.3",
+          "pages": [
+            207
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "完全竞争",
+        "Perfect competition",
+        "价格接受",
+        "price taker",
+        "自由进入",
+        "free entry",
+        "正常利润",
+        "normal profit"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "价格接受",
+          "自由进入",
+          "正常利润"
+        ],
+        "en": [
+          "price taker",
+          "free entry",
+          "normal profit"
+        ]
+      },
+      "diagramIds": [
+        "perfect-competition"
+      ],
+      "quizIds": [
+        "u2-52-perfect-competition-flash-1",
+        "u2-52-perfect-competition-mcq-1",
+        "u2-52-perfect-competition-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-52-perfect-competition",
+        "locale": "zh-CN",
+        "title": "完全竞争",
+        "takeaway": "完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。",
+        "definition": "完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。",
+        "causalChain": [
+          "个别企业不能改变市场价",
+          "企业按 MR=MC 选择产量",
+          "长期进入退出消除超额经济利润"
+        ],
+        "misconceptions": [
+          "个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。",
+          "个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。"
+        ],
+        "explanation": "个别企业不能改变市场价。企业按 MR=MC 选择产量。长期进入退出消除超额经济利润。\n\n### 原创情境与推导\n\n原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC 配置效率，但信息、产品同质性等条件在现实中可能不成立。\n\n个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-52-perfect-competition",
+        "locale": "en",
+        "title": "Perfect competition",
+        "takeaway": "Perfect competition assumes many firms, homogeneous goods, adequate information and free entry/exit. Each firm takes the market price, giving P=AR=MR.",
+        "definition": "Perfect competition assumes many firms, homogeneous goods, adequate information and free entry/exit. Each firm takes the market price, giving P=AR=MR.",
+        "causalChain": [
+          "A firm cannot influence market price",
+          "it chooses output at MR=MC",
+          "long-run entry and exit remove supernormal economic profit"
+        ],
+        "misconceptions": [
+          "The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Perfect competition assumes many firms, homogeneous goods, adequate information and free entry/exit. Each firm takes the market price, giving P=AR=MR.",
+          "The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
+        ],
+        "explanation": "A firm cannot influence market price.  it chooses output at MR=MC.  long-run entry and exit remove supernormal economic profit.\n\n### Original scenario and reasoning\n\nIllustrative example: supernormal profit attracts entry, expanding market supply and reducing price until P=min ATC. The long-run model achieves productive efficiency and P=MC allocative efficiency, but homogeneity and information assumptions may fail in practice.\n\nThe firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-52-perfect-competition-flash-1",
+        "knowledgePointId": "u2-52-perfect-competition",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“完全竞争”，并说明一个关键条件。",
+          "en": "Explain Perfect competition and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。",
+          "en": "Perfect competition assumes many firms, homogeneous goods, adequate information and free entry/exit. Each firm takes the market price, giving P=AR=MR."
+        },
+        "explanation": {
+          "zh-CN": "个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。",
+          "en": "The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
+        }
+      },
+      {
+        "id": "u2-52-perfect-competition-mcq-1",
+        "knowledgePointId": "u2-52-perfect-competition",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "完全竞争企业的 MR 与价格关系是什么？",
+          "en": "What is the relation between MR and price for a perfectly competitive firm?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "MR 恒为零",
+            "en": "MR is always zero"
+          },
+          {
+            "id": "b",
+            "zh-CN": "MR 必大于 P",
+            "en": "MR must exceed P"
+          },
+          {
+            "id": "c",
+            "zh-CN": "企业可任意定价",
+            "en": "The firm can set any price"
+          },
+          {
+            "id": "d",
+            "zh-CN": "MR=P",
+            "en": "MR=P"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "MR=P。 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC 配置效率，但信息、产品同质性等条件在现实中可能不成立。 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。",
+          "en": "MR=P. Illustrative example: supernormal profit attracts entry, expanding market supply and reducing price until P=min ATC. The long-run model achieves productive efficiency and P=MC allocative efficiency, but homogeneity and information assumptions may fail in practice. The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
+        }
+      },
+      {
+        "id": "u2-52-perfect-competition-short-1",
+        "knowledgePointId": "u2-52-perfect-competition",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释完全竞争的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Perfect competition and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。 个别企业不能改变市场价；企业按 MR=MC 选择产量；长期进入退出消除超额经济利润 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC 配置效率，但信息、产品同质性等条件在现实中可能不成立。",
+          "en": "Perfect competition assumes many firms, homogeneous goods, adequate information and free entry/exit. Each firm takes the market price, giving P=AR=MR. A firm cannot influence market price; it chooses output at MR=MC; long-run entry and exit remove supernormal economic profit Illustrative example: supernormal profit attracts entry, expanding market supply and reducing price until P=min ATC. The long-run model achieves productive efficiency and P=MC allocative efficiency, but homogeneity and information assumptions may fail in practice."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "价格接受",
+              "en": "price taker"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格接受",
+                "个别企业不能改变市场价"
+              ],
+              "en": [
+                "price taker",
+                "A firm cannot influence market price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "自由进入",
+              "en": "free entry"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自由进入",
+                "企业按 MR=MC 选择产量"
+              ],
+              "en": [
+                "free entry",
+                "it chooses output at MR=MC"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "正常利润",
+              "en": "normal profit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "正常利润",
+                "长期进入退出消除超额经济利润"
+              ],
+              "en": [
+                "normal profit",
+                "long-run entry and exit remove supernormal economic profit"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-53-monopoly",
+      "slug": "monopoly",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.4",
+          "pages": [
+            215
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "垄断定价与效率",
+        "Monopoly pricing and efficiency",
+        "MR=MC",
+        "MR=MC",
+        "需求曲线",
+        "demand",
+        "P>MC",
+        "P>MC"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "MR=MC",
+          "需求曲线",
+          "P>MC"
+        ],
+        "en": [
+          "MR=MC",
+          "demand",
+          "P>MC"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-53-monopoly-flash-1",
+        "u2-53-monopoly-mcq-1",
+        "u2-53-monopoly-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-53-monopoly",
+        "locale": "zh-CN",
+        "title": "垄断定价与效率",
+        "takeaway": "垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。",
+        "definition": "垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。",
+        "causalChain": [
+          "降低价格才能扩大销售",
+          "MR 低于价格",
+          "利润最大点通常 P>MC 并低于配置有效数量"
+        ],
+        "misconceptions": [
+          "垄断者不能独立任选价格与数量，需求约束仍在。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。",
+          "垄断者不能独立任选价格与数量，需求约束仍在。"
+        ],
+        "explanation": "降低价格才能扩大销售。MR 低于价格。利润最大点通常 P>MC 并低于配置有效数量。\n\n### 原创情境与推导\n\n原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是 7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。\n\n垄断者不能独立任选价格与数量，需求约束仍在。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-53-monopoly",
+        "locale": "en",
+        "title": "Monopoly pricing and efficiency",
+        "takeaway": "A monopolist faces market demand, selects quantity at MR=MC and then reads price from demand. Entry barriers can allow supernormal profit to persist.",
+        "definition": "A monopolist faces market demand, selects quantity at MR=MC and then reads price from demand. Entry barriers can allow supernormal profit to persist.",
+        "causalChain": [
+          "A lower price is needed to expand sales",
+          "MR is below price",
+          "at the profit maximum P normally exceeds MC and output is below the allocatively efficient level"
+        ],
+        "misconceptions": [
+          "A monopolist cannot choose price and quantity independently; demand still constrains it."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "A monopolist faces market demand, selects quantity at MR=MC and then reads price from demand. Entry barriers can allow supernormal profit to persist.",
+          "A monopolist cannot choose price and quantity independently; demand still constrains it."
+        ],
+        "explanation": "A lower price is needed to expand sales.  MR is below price.  at the profit maximum P normally exceeds MC and output is below the allocatively efficient level.\n\n### Original scenario and reasoning\n\nIllustrative example: MR=MC at Q=40, where demand gives price 12 and MC is seven. Price is 12, not seven. Monopoly does not guarantee profit: compare ATC. Innovation and scale economies can change cost comparisons.\n\nA monopolist cannot choose price and quantity independently; demand still constrains it.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-53-monopoly-flash-1",
+        "knowledgePointId": "u2-53-monopoly",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“垄断定价与效率”，并说明一个关键条件。",
+          "en": "Explain Monopoly pricing and efficiency and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。",
+          "en": "A monopolist faces market demand, selects quantity at MR=MC and then reads price from demand. Entry barriers can allow supernormal profit to persist."
+        },
+        "explanation": {
+          "zh-CN": "垄断者不能独立任选价格与数量，需求约束仍在。",
+          "en": "A monopolist cannot choose price and quantity independently; demand still constrains it."
+        }
+      },
+      {
+        "id": "u2-53-monopoly-mcq-1",
+        "knowledgePointId": "u2-53-monopoly",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "垄断者在哪条曲线上读取所选数量的价格？",
+          "en": "Where does a monopolist read the price for its chosen quantity?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "需求/AR 曲线",
+            "en": "Demand/AR"
+          },
+          {
+            "id": "b",
+            "zh-CN": "MC 曲线",
+            "en": "MC"
+          },
+          {
+            "id": "c",
+            "zh-CN": "MR 曲线",
+            "en": "MR"
+          },
+          {
+            "id": "d",
+            "zh-CN": "固定成本曲线",
+            "en": "Fixed cost"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "需求/AR 曲线。 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是 7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。 垄断者不能独立任选价格与数量，需求约束仍在。",
+          "en": "Demand/AR. Illustrative example: MR=MC at Q=40, where demand gives price 12 and MC is seven. Price is 12, not seven. Monopoly does not guarantee profit: compare ATC. Innovation and scale economies can change cost comparisons. A monopolist cannot choose price and quantity independently; demand still constrains it."
+        }
+      },
+      {
+        "id": "u2-53-monopoly-short-1",
+        "knowledgePointId": "u2-53-monopoly",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释垄断定价与效率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Monopoly pricing and efficiency and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "垄断者面对市场需求，先在 MR=MC 选择数量，再从需求曲线读取价格；进入壁垒可使超额利润持续。 降低价格才能扩大销售；MR 低于价格；利润最大点通常 P>MC 并低于配置有效数量 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是 7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。",
+          "en": "A monopolist faces market demand, selects quantity at MR=MC and then reads price from demand. Entry barriers can allow supernormal profit to persist. A lower price is needed to expand sales; MR is below price; at the profit maximum P normally exceeds MC and output is below the allocatively efficient level Illustrative example: MR=MC at Q=40, where demand gives price 12 and MC is seven. Price is 12, not seven. Monopoly does not guarantee profit: compare ATC. Innovation and scale economies can change cost comparisons."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "MR=MC",
+              "en": "MR=MC"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "MR=MC",
+                "降低价格才能扩大销售"
+              ],
+              "en": [
+                "MR=MC",
+                "A lower price is needed to expand sales"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "需求曲线",
+              "en": "demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "需求曲线",
+                "MR 低于价格"
+              ],
+              "en": [
+                "demand",
+                "MR is below price"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "P>MC",
+              "en": "P>MC"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "P>MC",
+                "利润最大点通常 P>MC 并低于配置有效数量"
+              ],
+              "en": [
+                "P>MC",
+                "at the profit maximum P normally exceeds MC and output is below the allocatively efficient level"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-54-natural-monopoly",
+      "slug": "natural-monopoly",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.4",
+          "pages": [
+            220
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "自然垄断与价格监管",
+        "Natural monopoly and price regulation",
+        "平均成本",
+        "average cost",
+        "边际成本",
+        "marginal cost",
+        "监管",
+        "regulation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "平均成本",
+          "边际成本",
+          "监管"
+        ],
+        "en": [
+          "average cost",
+          "marginal cost",
+          "regulation"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-54-natural-monopoly-flash-1",
+        "u2-54-natural-monopoly-mcq-1",
+        "u2-54-natural-monopoly-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-54-natural-monopoly",
+        "locale": "zh-CN",
+        "title": "自然垄断与价格监管",
+        "takeaway": "自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。",
+        "definition": "自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。",
+        "causalChain": [
+          "大额固定网络成本可被分摊",
+          "单一供应者有成本优势",
+          "监管需平衡效率与成本回收"
+        ],
+        "misconceptions": [
+          "自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。",
+          "自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。"
+        ],
+        "explanation": "大额固定网络成本可被分摊。单一供应者有成本优势。监管需平衡效率与成本回收。\n\n### 原创情境与推导\n\n原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间 MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。\n\n自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-54-natural-monopoly",
+        "locale": "en",
+        "title": "Natural monopoly and price regulation",
+        "takeaway": "Natural monopoly exists when average cost declines over the relevant demand range, so one supplier can serve the market at lower cost than several duplicating infrastructure.",
+        "definition": "Natural monopoly exists when average cost declines over the relevant demand range, so one supplier can serve the market at lower cost than several duplicating infrastructure.",
+        "causalChain": [
+          "Large fixed network costs can be spread",
+          "a single supplier has a cost advantage",
+          "regulation balances efficiency with cost recovery"
+        ],
+        "misconceptions": [
+          "Natural monopoly describes a cost structure, not every state-owned or large firm."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Natural monopoly exists when average cost declines over the relevant demand range, so one supplier can serve the market at lower cost than several duplicating infrastructure.",
+          "Natural monopoly describes a cost structure, not every state-owned or large firm."
+        ],
+        "explanation": "Large fixed network costs can be spread.  a single supplier has a cost advantage.  regulation balances efficiency with cost recovery.\n\n### Original scenario and reasoning\n\nIllustrative example: duplicating water pipes can waste resources. P=MC pricing improves allocative efficiency, but MC<ATC in a declining-cost range can create losses requiring subsidy. P=ATC recovers cost without necessarily achieving allocative efficiency.\n\nNatural monopoly describes a cost structure, not every state-owned or large firm.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-54-natural-monopoly-flash-1",
+        "knowledgePointId": "u2-54-natural-monopoly",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“自然垄断与价格监管”，并说明一个关键条件。",
+          "en": "Explain Natural monopoly and price regulation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。",
+          "en": "Natural monopoly exists when average cost declines over the relevant demand range, so one supplier can serve the market at lower cost than several duplicating infrastructure."
+        },
+        "explanation": {
+          "zh-CN": "自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。",
+          "en": "Natural monopoly describes a cost structure, not every state-owned or large firm."
+        }
+      },
+      {
+        "id": "u2-54-natural-monopoly-mcq-1",
+        "knowledgePointId": "u2-54-natural-monopoly",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "自然垄断中 MC<ATC，按 P=MC 收费可能怎样？",
+          "en": "In a natural monopoly MC<ATC. What may P=MC pricing cause?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "必然超额利润",
+            "en": "Guaranteed supernormal profit"
+          },
+          {
+            "id": "b",
+            "zh-CN": "亏损，需要融资安排",
+            "en": "Losses requiring financing"
+          },
+          {
+            "id": "c",
+            "zh-CN": "成本为零",
+            "en": "Zero cost"
+          },
+          {
+            "id": "d",
+            "zh-CN": "需求消失",
+            "en": "Demand disappears"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "亏损，需要融资安排。 原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间 MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。",
+          "en": "Losses requiring financing. Illustrative example: duplicating water pipes can waste resources. P=MC pricing improves allocative efficiency, but MC<ATC in a declining-cost range can create losses requiring subsidy. P=ATC recovers cost without necessarily achieving allocative efficiency. Natural monopoly describes a cost structure, not every state-owned or large firm."
+        }
+      },
+      {
+        "id": "u2-54-natural-monopoly-short-1",
+        "knowledgePointId": "u2-54-natural-monopoly",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释自然垄断与价格监管的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Natural monopoly and price regulation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。 大额固定网络成本可被分摊；单一供应者有成本优势；监管需平衡效率与成本回收 原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间 MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。",
+          "en": "Natural monopoly exists when average cost declines over the relevant demand range, so one supplier can serve the market at lower cost than several duplicating infrastructure. Large fixed network costs can be spread; a single supplier has a cost advantage; regulation balances efficiency with cost recovery Illustrative example: duplicating water pipes can waste resources. P=MC pricing improves allocative efficiency, but MC<ATC in a declining-cost range can create losses requiring subsidy. P=ATC recovers cost without necessarily achieving allocative efficiency."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "平均成本",
+              "en": "average cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平均成本",
+                "大额固定网络成本可被分摊"
+              ],
+              "en": [
+                "average cost",
+                "Large fixed network costs can be spread"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际成本",
+              "en": "marginal cost"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际成本",
+                "单一供应者有成本优势"
+              ],
+              "en": [
+                "marginal cost",
+                "a single supplier has a cost advantage"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "监管",
+              "en": "regulation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "监管",
+                "监管需平衡效率与成本回收"
+              ],
+              "en": [
+                "regulation",
+                "regulation balances efficiency with cost recovery"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-55-monopolistic-competition",
+      "slug": "monopolistic-competition",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.5",
+          "pages": [
+            225
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "垄断竞争",
+        "Monopolistic competition",
+        "差异化",
+        "differentiated",
+        "进入",
+        "entry",
+        "剩余产能",
+        "excess capacity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "差异化",
+          "进入",
+          "剩余产能"
+        ],
+        "en": [
+          "differentiated",
+          "entry",
+          "excess capacity"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-55-monopolistic-competition-flash-1",
+        "u2-55-monopolistic-competition-mcq-1",
+        "u2-55-monopolistic-competition-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-55-monopolistic-competition",
+        "locale": "zh-CN",
+        "title": "垄断竞争",
+        "takeaway": "垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。",
+        "definition": "垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。",
+        "causalChain": [
+          "产品差异使企业需求向下",
+          "超额利润吸引相近产品进入",
+          "需求减弱直至正常利润"
+        ],
+        "misconceptions": [
+          "正常利润不意味着完全竞争，P 仍可大于 MC。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。",
+          "正常利润不意味着完全竞争，P 仍可大于 MC。"
+        ],
+        "explanation": "产品差异使企业需求向下。超额利润吸引相近产品进入。需求减弱直至正常利润。\n\n### 原创情境与推导\n\n原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC 最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。\n\n正常利润不意味着完全竞争，P 仍可大于 MC。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-55-monopolistic-competition",
+        "locale": "en",
+        "title": "Monopolistic competition",
+        "takeaway": "Monopolistic competition features many firms, differentiated products and relatively low entry barriers. Differentiation gives pricing power while long-run entry tends to eliminate economic profit.",
+        "definition": "Monopolistic competition features many firms, differentiated products and relatively low entry barriers. Differentiation gives pricing power while long-run entry tends to eliminate economic profit.",
+        "causalChain": [
+          "Differentiation gives downward-sloping firm demand",
+          "supernormal profit attracts close substitutes",
+          "demand weakens until normal profit"
+        ],
+        "misconceptions": [
+          "Normal profit does not imply perfect competition; P may still exceed MC."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Monopolistic competition features many firms, differentiated products and relatively low entry barriers. Differentiation gives pricing power while long-run entry tends to eliminate economic profit.",
+          "Normal profit does not imply perfect competition; P may still exceed MC."
+        ],
+        "explanation": "Differentiation gives downward-sloping firm demand.  supernormal profit attracts close substitutes.  demand weakens until normal profit.\n\n### Original scenario and reasoning\n\nIllustrative example: cafes differentiate through atmosphere and branding. At long-run normal profit, demand is tangent to ATC, normally above its minimum, implying excess capacity. Consumers may value variety, so a cost diagram alone does not capture all welfare.\n\nNormal profit does not imply perfect competition; P may still exceed MC.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-55-monopolistic-competition-flash-1",
+        "knowledgePointId": "u2-55-monopolistic-competition",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“垄断竞争”，并说明一个关键条件。",
+          "en": "Explain Monopolistic competition and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。",
+          "en": "Monopolistic competition features many firms, differentiated products and relatively low entry barriers. Differentiation gives pricing power while long-run entry tends to eliminate economic profit."
+        },
+        "explanation": {
+          "zh-CN": "正常利润不意味着完全竞争，P 仍可大于 MC。",
+          "en": "Normal profit does not imply perfect competition; P may still exceed MC."
+        }
+      },
+      {
+        "id": "u2-55-monopolistic-competition-mcq-1",
+        "knowledgePointId": "u2-55-monopolistic-competition",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "长期垄断竞争最典型的组合是什么？",
+          "en": "Which is typical of long-run monopolistic competition?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "同质产品与零壁垒下水平需求",
+            "en": "Homogeneous goods and horizontal firm demand"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只有一家企业",
+            "en": "Exactly one firm"
+          },
+          {
+            "id": "c",
+            "zh-CN": "正常利润与剩余产能",
+            "en": "Normal profit and excess capacity"
+          },
+          {
+            "id": "d",
+            "zh-CN": "价格总等于 MC",
+            "en": "Price always equals MC"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "正常利润与剩余产能。 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC 最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。 正常利润不意味着完全竞争，P 仍可大于 MC。",
+          "en": "Normal profit and excess capacity. Illustrative example: cafes differentiate through atmosphere and branding. At long-run normal profit, demand is tangent to ATC, normally above its minimum, implying excess capacity. Consumers may value variety, so a cost diagram alone does not capture all welfare. Normal profit does not imply perfect competition; P may still exceed MC."
+        }
+      },
+      {
+        "id": "u2-55-monopolistic-competition-short-1",
+        "knowledgePointId": "u2-55-monopolistic-competition",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释垄断竞争的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Monopolistic competition and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。 产品差异使企业需求向下；超额利润吸引相近产品进入；需求减弱直至正常利润 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC 最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。",
+          "en": "Monopolistic competition features many firms, differentiated products and relatively low entry barriers. Differentiation gives pricing power while long-run entry tends to eliminate economic profit. Differentiation gives downward-sloping firm demand; supernormal profit attracts close substitutes; demand weakens until normal profit Illustrative example: cafes differentiate through atmosphere and branding. At long-run normal profit, demand is tangent to ATC, normally above its minimum, implying excess capacity. Consumers may value variety, so a cost diagram alone does not capture all welfare."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "差异化",
+              "en": "differentiated"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "差异化",
+                "产品差异使企业需求向下"
+              ],
+              "en": [
+                "differentiated",
+                "Differentiation gives downward-sloping firm demand"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "进入",
+              "en": "entry"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "进入",
+                "超额利润吸引相近产品进入"
+              ],
+              "en": [
+                "entry",
+                "supernormal profit attracts close substitutes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "剩余产能",
+              "en": "excess capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "剩余产能",
+                "需求减弱直至正常利润"
+              ],
+              "en": [
+                "excess capacity",
+                "demand weakens until normal profit"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-56-oligopoly",
+      "slug": "oligopoly",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.6",
+          "pages": [
+            230
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "寡头、相互依赖与博弈",
+        "Oligopoly, interdependence and game theory",
+        "相互依赖",
+        "interdependence",
+        "优势策略",
+        "dominant strategy",
+        "背离",
+        "deviate"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "相互依赖",
+          "优势策略",
+          "背离"
+        ],
+        "en": [
+          "interdependence",
+          "dominant strategy",
+          "deviate"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-56-oligopoly-flash-1",
+        "u2-56-oligopoly-mcq-1",
+        "u2-56-oligopoly-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-56-oligopoly",
+        "locale": "zh-CN",
+        "title": "寡头、相互依赖与博弈",
+        "takeaway": "寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。",
+        "definition": "寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。",
+        "causalChain": [
+          "少数企业反复互动",
+          "价格或数量选择影响竞争者",
+          "预期反应决定合作或竞争策略"
+        ],
+        "misconceptions": [
+          "串谋的共同收益不保证协议稳定，也不代表消费者受益。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。",
+          "串谋的共同收益不保证协议稳定，也不代表消费者受益。"
+        ],
+        "explanation": "少数企业反复互动。价格或数量选择影响竞争者。预期反应决定合作或竞争策略。\n\n### 原创情境与推导\n\n原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为 4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。\n\n串谋的共同收益不保证协议稳定，也不代表消费者受益。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-56-oligopoly",
+        "locale": "en",
+        "title": "Oligopoly, interdependence and game theory",
+        "takeaway": "Oligopoly is dominated by a few large firms whose decisions depend on rivals' reactions. Collusion can jointly restrict output, but individual firms may have incentives to deviate.",
+        "definition": "Oligopoly is dominated by a few large firms whose decisions depend on rivals' reactions. Collusion can jointly restrict output, but individual firms may have incentives to deviate.",
+        "causalChain": [
+          "A few firms interact repeatedly",
+          "price or quantity choices affect rivals",
+          "anticipated responses shape cooperation and competition"
+        ],
+        "misconceptions": [
+          "Joint gains do not ensure collusion is stable or beneficial to consumers."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Oligopoly is dominated by a few large firms whose decisions depend on rivals' reactions. Collusion can jointly restrict output, but individual firms may have incentives to deviate.",
+          "Joint gains do not ensure collusion is stable or beneficial to consumers."
+        ],
+        "explanation": "A few firms interact repeatedly.  price or quantity choices affect rivals.  anticipated responses shape cooperation and competition.\n\n### Original scenario and reasoning\n\nIllustrative example: two airlines each earn eight at high prices. One cutting price alone earns 12 while the other earns two; both cutting earns four each. Cutting is each firm's dominant strategy, giving (4,4) despite higher joint gains at (8,8). The payoffs are original teaching assumptions.\n\nJoint gains do not ensure collusion is stable or beneficial to consumers.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-56-oligopoly-flash-1",
+        "knowledgePointId": "u2-56-oligopoly",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“寡头、相互依赖与博弈”，并说明一个关键条件。",
+          "en": "Explain Oligopoly, interdependence and game theory and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。",
+          "en": "Oligopoly is dominated by a few large firms whose decisions depend on rivals' reactions. Collusion can jointly restrict output, but individual firms may have incentives to deviate."
+        },
+        "explanation": {
+          "zh-CN": "串谋的共同收益不保证协议稳定，也不代表消费者受益。",
+          "en": "Joint gains do not ensure collusion is stable or beneficial to consumers."
+        }
+      },
+      {
+        "id": "u2-56-oligopoly-mcq-1",
+        "knowledgePointId": "u2-56-oligopoly",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "两企业都高价各赚8；单方降价赚12而另一方赚2；都降价各赚4。各自的优势策略是什么？",
+          "en": "Both firms earn 8 at high prices; a sole price cutter earns 12 while its rival earns 2; both cutting gives 4 each. What is each firm's dominant strategy?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "维持高价",
+            "en": "Keep price high"
+          },
+          {
+            "id": "b",
+            "zh-CN": "退出市场",
+            "en": "Exit"
+          },
+          {
+            "id": "c",
+            "zh-CN": "不可能判断，尽管支付已给出",
+            "en": "Impossible to determine despite stated payoffs"
+          },
+          {
+            "id": "d",
+            "zh-CN": "降价",
+            "en": "Cut price"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "降价。 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为 4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。 串谋的共同收益不保证协议稳定，也不代表消费者受益。",
+          "en": "Cut price. Illustrative example: two airlines each earn eight at high prices. One cutting price alone earns 12 while the other earns two; both cutting earns four each. Cutting is each firm's dominant strategy, giving (4,4) despite higher joint gains at (8,8). The payoffs are original teaching assumptions. Joint gains do not ensure collusion is stable or beneficial to consumers."
+        }
+      },
+      {
+        "id": "u2-56-oligopoly-short-1",
+        "knowledgePointId": "u2-56-oligopoly",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释寡头、相互依赖与博弈的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Oligopoly, interdependence and game theory and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。 少数企业反复互动；价格或数量选择影响竞争者；预期反应决定合作或竞争策略 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为 4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。",
+          "en": "Oligopoly is dominated by a few large firms whose decisions depend on rivals' reactions. Collusion can jointly restrict output, but individual firms may have incentives to deviate. A few firms interact repeatedly; price or quantity choices affect rivals; anticipated responses shape cooperation and competition Illustrative example: two airlines each earn eight at high prices. One cutting price alone earns 12 while the other earns two; both cutting earns four each. Cutting is each firm's dominant strategy, giving (4,4) despite higher joint gains at (8,8). The payoffs are original teaching assumptions."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "相互依赖",
+              "en": "interdependence"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相互依赖",
+                "少数企业反复互动"
+              ],
+              "en": [
+                "interdependence",
+                "A few firms interact repeatedly"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "优势策略",
+              "en": "dominant strategy"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "优势策略",
+                "价格或数量选择影响竞争者"
+              ],
+              "en": [
+                "dominant strategy",
+                "price or quantity choices affect rivals"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "背离",
+              "en": "deviate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "背离",
+                "预期反应决定合作或竞争策略"
+              ],
+              "en": [
+                "deviate",
+                "anticipated responses shape cooperation and competition"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-57-competition-policy",
+      "slug": "competition-policy",
+      "section": "2.11",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.11 Market power"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "7",
+          "section": "7.7",
+          "pages": [
+            239
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u2-15-surplus-efficiency",
+        "u2-10-costs-and-supply"
+      ],
+      "related": [
+        "u2-47-market-structures",
+        "u2-48-cost-curves",
+        "u2-49-scale"
+      ],
+      "terms": [
+        "竞争政策与市场势力评价",
+        "Competition policy and evaluation of market power",
+        "竞争",
+        "competition",
+        "规模效率",
+        "scale efficiency",
+        "监管",
+        "regulation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "竞争",
+          "规模效率",
+          "监管"
+        ],
+        "en": [
+          "competition",
+          "scale efficiency",
+          "regulation"
+        ]
+      },
+      "diagramIds": [
+        "monopoly"
+      ],
+      "quizIds": [
+        "u2-57-competition-policy-flash-1",
+        "u2-57-competition-policy-mcq-1",
+        "u2-57-competition-policy-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-57-competition-policy",
+        "locale": "zh-CN",
+        "title": "竞争政策与市场势力评价",
+        "takeaway": "竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。",
+        "definition": "竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。",
+        "causalChain": [
+          "识别市场势力来源和实际行为",
+          "规制或促进进入",
+          "比较价格、成本、创新和执行结果"
+        ],
+        "misconceptions": [
+          "不能把企业数量增加当作效率提高的充分条件。"
+        ],
+        "examApplication": [
+          "明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        ],
+        "summary": [
+          "竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。",
+          "不能把企业数量增加当作效率提高的充分条件。"
+        ],
+        "explanation": "识别市场势力来源和实际行为。规制或促进进入。比较价格、成本、创新和执行结果。\n\n### 原创情境与推导\n\n原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。\n\n不能把企业数量增加当作效率提高的充分条件。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+      },
+      "en": {
+        "id": "u2-57-competition-policy",
+        "locale": "en",
+        "title": "Competition policy and evaluation of market power",
+        "takeaway": "Competition policy can address collusion, abuse of dominance and anticompetitive mergers. Evaluation weighs competition, scale efficiency, innovation and regulatory cost.",
+        "definition": "Competition policy can address collusion, abuse of dominance and anticompetitive mergers. Evaluation weighs competition, scale efficiency, innovation and regulatory cost.",
+        "causalChain": [
+          "Identify the source of market power and actual conduct",
+          "regulate or enable entry",
+          "compare price, cost, innovation and implementation effects"
+        ],
+        "misconceptions": [
+          "More firms is not a sufficient condition for improved efficiency."
+        ],
+        "examApplication": [
+          "Separate firm and market diagrams, identify MR=MC output and read price from demand."
+        ],
+        "summary": [
+          "Competition policy can address collusion, abuse of dominance and anticompetitive mergers. Evaluation weighs competition, scale efficiency, innovation and regulatory cost.",
+          "More firms is not a sufficient condition for improved efficiency."
+        ],
+        "explanation": "Identify the source of market power and actual conduct.  regulate or enable entry.  compare price, cost, innovation and implementation effects.\n\n### Original scenario and reasoning\n\nIllustrative example: a merger may reduce competition but save logistics costs. Assess whether savings reach consumers, whether entry is feasible and whether coordination becomes easier. Splitting a natural monopoly may duplicate fixed networks, so remedies should reflect the market.\n\nMore firms is not a sufficient condition for improved efficiency.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-57-competition-policy-flash-1",
+        "knowledgePointId": "u2-57-competition-policy",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“竞争政策与市场势力评价”，并说明一个关键条件。",
+          "en": "Explain Competition policy and evaluation of market power and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。",
+          "en": "Competition policy can address collusion, abuse of dominance and anticompetitive mergers. Evaluation weighs competition, scale efficiency, innovation and regulatory cost."
+        },
+        "explanation": {
+          "zh-CN": "不能把企业数量增加当作效率提高的充分条件。",
+          "en": "More firms is not a sufficient condition for improved efficiency."
+        }
+      },
+      {
+        "id": "u2-57-competition-policy-mcq-1",
+        "knowledgePointId": "u2-57-competition-policy",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "并购评价最需要比较什么？",
+          "en": "What is central to evaluating a merger?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "竞争损失与成本效率收益",
+            "en": "Competition losses and cost-efficiency gains"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只看合并后企业名称",
+            "en": "Only the merged firm's name"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有并购都禁止",
+            "en": "Ban every merger"
+          },
+          {
+            "id": "d",
+            "zh-CN": "所有并购都促进公平",
+            "en": "All mergers promote equity"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "竞争损失与成本效率收益。 原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。 不能把企业数量增加当作效率提高的充分条件。",
+          "en": "Competition losses and cost-efficiency gains. Illustrative example: a merger may reduce competition but save logistics costs. Assess whether savings reach consumers, whether entry is feasible and whether coordination becomes easier. Splitting a natural monopoly may duplicate fixed networks, so remedies should reflect the market. More firms is not a sufficient condition for improved efficiency."
+        }
+      },
+      {
+        "id": "u2-57-competition-policy-short-1",
+        "knowledgePointId": "u2-57-competition-policy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释竞争政策与市场势力评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Competition policy and evaluation of market power and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。 识别市场势力来源和实际行为；规制或促进进入；比较价格、成本、创新和执行结果 原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。",
+          "en": "Competition policy can address collusion, abuse of dominance and anticompetitive mergers. Evaluation weighs competition, scale efficiency, innovation and regulatory cost. Identify the source of market power and actual conduct; regulate or enable entry; compare price, cost, innovation and implementation effects Illustrative example: a merger may reduce competition but save logistics costs. Assess whether savings reach consumers, whether entry is feasible and whether coordination becomes easier. Splitting a natural monopoly may duplicate fixed networks, so remedies should reflect the market."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "竞争",
+              "en": "competition"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "竞争",
+                "识别市场势力来源和实际行为"
+              ],
+              "en": [
+                "competition",
+                "Identify the source of market power and actual conduct"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "规模效率",
+              "en": "scale efficiency"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "规模效率",
+                "规制或促进进入"
+              ],
+              "en": [
+                "scale efficiency",
+                "regulate or enable entry"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "监管",
+              "en": "regulation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "监管",
+                "比较价格、成本、创新和执行结果"
+              ],
+              "en": [
+                "regulation",
+                "compare price, cost, innovation and implementation effects"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-58-equity-distribution",
+      "slug": "equity-distribution",
+      "section": "2.12",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.12 Markets and equity"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.5",
+          "pages": [
+            191
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u2-59-income-wealth",
+        "u2-60-redistribution"
+      ],
+      "terms": [
+        "市场分配与公平",
+        "Market distribution and equity",
+        "收入",
+        "income",
+        "公平",
+        "equity",
+        "效率",
+        "efficiency"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "收入",
+          "公平",
+          "效率"
+        ],
+        "en": [
+          "income",
+          "equity",
+          "efficiency"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-58-equity-distribution-flash-1",
+        "u2-58-equity-distribution-mcq-1",
+        "u2-58-equity-distribution-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-58-equity-distribution",
+        "locale": "zh-CN",
+        "title": "市场分配与公平",
+        "takeaway": "市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。",
+        "definition": "市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。",
+        "causalChain": [
+          "资产和要素回报形成收入差异",
+          "收入差异影响有效需求",
+          "市场配置可能有效却不符合社会公平标准"
+        ],
+        "misconceptions": [
+          "配置效率与公平可能冲突，也可能通过针对性政策共同改善。"
+        ],
+        "examApplication": [
+          "明确公平标准，比较效率、机会、激励和政策针对性。"
+        ],
+        "summary": [
+          "市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。",
+          "配置效率与公平可能冲突，也可能通过针对性政策共同改善。"
+        ],
+        "explanation": "资产和要素回报形成收入差异。收入差异影响有效需求。市场配置可能有效却不符合社会公平标准。\n\n### 原创情境与推导\n\n原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。\n\n配置效率与公平可能冲突，也可能通过针对性政策共同改善。\n\n明确公平标准，比较效率、机会、激励和政策针对性。"
+      },
+      "en": {
+        "id": "u2-58-equity-distribution",
+        "locale": "en",
+        "title": "Market distribution and equity",
+        "takeaway": "Markets distribute purchasing power through income and assets. Allocative efficiency does not guarantee equitable distribution. Equity is a normative judgement; equality describes sameness of distribution.",
+        "definition": "Markets distribute purchasing power through income and assets. Allocative efficiency does not guarantee equitable distribution. Equity is a normative judgement; equality describes sameness of distribution.",
+        "causalChain": [
+          "Assets and factor returns generate income differences",
+          "income differences affect effective demand",
+          "efficient market allocation may fail society's equity criteria"
+        ],
+        "misconceptions": [
+          "Efficiency and equity can conflict, but targeted policy may improve both."
+        ],
+        "examApplication": [
+          "State the equity criterion and compare efficiency, opportunity, incentives and targeting."
+        ],
+        "summary": [
+          "Markets distribute purchasing power through income and assets. Allocative efficiency does not guarantee equitable distribution. Equity is a normative judgement; equality describes sameness of distribution.",
+          "Efficiency and equity can conflict, but targeted policy may improve both."
+        ],
+        "explanation": "Assets and factor returns generate income differences.  income differences affect effective demand.  efficient market allocation may fail society's equity criteria.\n\n### Original scenario and reasoning\n\nIllustrative example: two households want education equally but one cannot afford it. Market demand reflects willingness and ability to pay, not every person's need. State the equity criterion rather than automatically labelling all differences unfair.\n\nEfficiency and equity can conflict, but targeted policy may improve both.\n\nState the equity criterion and compare efficiency, opportunity, incentives and targeting."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-58-equity-distribution-flash-1",
+        "knowledgePointId": "u2-58-equity-distribution",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“市场分配与公平”，并说明一个关键条件。",
+          "en": "Explain Market distribution and equity and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。",
+          "en": "Markets distribute purchasing power through income and assets. Allocative efficiency does not guarantee equitable distribution. Equity is a normative judgement; equality describes sameness of distribution."
+        },
+        "explanation": {
+          "zh-CN": "配置效率与公平可能冲突，也可能通过针对性政策共同改善。",
+          "en": "Efficiency and equity can conflict, but targeted policy may improve both."
+        }
+      },
+      {
+        "id": "u2-58-equity-distribution-mcq-1",
+        "knowledgePointId": "u2-58-equity-distribution",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "配置有效的市场是否必然分配公平？",
+          "en": "Must an allocatively efficient market distribute outcomes equitably?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "是，定义相同",
+            "en": "Yes, the definitions are identical"
+          },
+          {
+            "id": "b",
+            "zh-CN": "否，两者评价标准不同",
+            "en": "No, the criteria differ"
+          },
+          {
+            "id": "c",
+            "zh-CN": "是，所有收入相等",
+            "en": "Yes, all incomes are equal"
+          },
+          {
+            "id": "d",
+            "zh-CN": "公平只指价格为零",
+            "en": "Equity only means a zero price"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "否，两者评价标准不同。 原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。 配置效率与公平可能冲突，也可能通过针对性政策共同改善。",
+          "en": "No, the criteria differ. Illustrative example: two households want education equally but one cannot afford it. Market demand reflects willingness and ability to pay, not every person's need. State the equity criterion rather than automatically labelling all differences unfair. Efficiency and equity can conflict, but targeted policy may improve both."
+        }
+      },
+      {
+        "id": "u2-58-equity-distribution-short-1",
+        "knowledgePointId": "u2-58-equity-distribution",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释市场分配与公平的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Market distribution and equity and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。 资产和要素回报形成收入差异；收入差异影响有效需求；市场配置可能有效却不符合社会公平标准 原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。",
+          "en": "Markets distribute purchasing power through income and assets. Allocative efficiency does not guarantee equitable distribution. Equity is a normative judgement; equality describes sameness of distribution. Assets and factor returns generate income differences; income differences affect effective demand; efficient market allocation may fail society's equity criteria Illustrative example: two households want education equally but one cannot afford it. Market demand reflects willingness and ability to pay, not every person's need. State the equity criterion rather than automatically labelling all differences unfair."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "资产和要素回报形成收入差异"
+              ],
+              "en": [
+                "income",
+                "Assets and factor returns generate income differences"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "公平",
+              "en": "equity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "公平",
+                "收入差异影响有效需求"
+              ],
+              "en": [
+                "equity",
+                "income differences affect effective demand"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "效率",
+              "en": "efficiency"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "效率",
+                "市场配置可能有效却不符合社会公平标准"
+              ],
+              "en": [
+                "efficiency",
+                "efficient market allocation may fail society's equity criteria"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-59-income-wealth",
+      "slug": "income-wealth",
+      "section": "2.12",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.12 Markets and equity"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.5",
+          "pages": [
+            191
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u2-58-equity-distribution",
+        "u2-60-redistribution"
+      ],
+      "terms": [
+        "收入、财富与机会",
+        "Income, wealth and opportunity",
+        "流量",
+        "flow",
+        "存量",
+        "stock",
+        "资产减负债",
+        "assets minus liabilities"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "流量",
+          "存量",
+          "资产减负债"
+        ],
+        "en": [
+          "flow",
+          "stock",
+          "assets minus liabilities"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-59-income-wealth-flash-1",
+        "u2-59-income-wealth-mcq-1",
+        "u2-59-income-wealth-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-59-income-wealth",
+        "locale": "zh-CN",
+        "title": "收入、财富与机会",
+        "takeaway": "收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。",
+        "definition": "收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。",
+        "causalChain": [
+          "资产与教育条件不同",
+          "影响收入和未来资产积累",
+          "机会差异可能跨代持续"
+        ],
+        "misconceptions": [
+          "财富是资产减负债，不是把当年收入加到资产中重复计算。"
+        ],
+        "examApplication": [
+          "明确公平标准，比较效率、机会、激励和政策针对性。"
+        ],
+        "summary": [
+          "收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。",
+          "财富是资产减负债，不是把当年收入加到资产中重复计算。"
+        ],
+        "explanation": "资产与教育条件不同。影响收入和未来资产积累。机会差异可能跨代持续。\n\n### 原创情境与推导\n\n原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120 万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。\n\n财富是资产减负债，不是把当年收入加到资产中重复计算。\n\n明确公平标准，比较效率、机会、激励和政策针对性。"
+      },
+      "en": {
+        "id": "u2-59-income-wealth",
+        "locale": "en",
+        "title": "Income, wealth and opportunity",
+        "takeaway": "Income is a flow over a period; wealth is a stock of net assets at a date. Assets, skills, inheritance and market power influence opportunities and distribution.",
+        "definition": "Income is a flow over a period; wealth is a stock of net assets at a date. Assets, skills, inheritance and market power influence opportunities and distribution.",
+        "causalChain": [
+          "Assets and educational conditions differ",
+          "income and future asset accumulation respond",
+          "opportunity gaps may persist across generations"
+        ],
+        "misconceptions": [
+          "Wealth is assets minus liabilities, not assets plus the year's income counted again."
+        ],
+        "examApplication": [
+          "State the equity criterion and compare efficiency, opportunity, incentives and targeting."
+        ],
+        "summary": [
+          "Income is a flow over a period; wealth is a stock of net assets at a date. Assets, skills, inheritance and market power influence opportunities and distribution.",
+          "Wealth is assets minus liabilities, not assets plus the year's income counted again."
+        ],
+        "explanation": "Assets and educational conditions differ.  income and future asset accumulation respond.  opportunity gaps may persist across generations.\n\n### Original scenario and reasoning\n\nIllustrative example: a household earns 300,000 yearly, owns assets of two million and owes 800,000: net wealth is 1.2 million. Income and wealth can diverge, as for a retired asset owner. A single measure may misidentify policy beneficiaries.\n\nWealth is assets minus liabilities, not assets plus the year's income counted again.\n\nState the equity criterion and compare efficiency, opportunity, incentives and targeting."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-59-income-wealth-flash-1",
+        "knowledgePointId": "u2-59-income-wealth",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“收入、财富与机会”，并说明一个关键条件。",
+          "en": "Explain Income, wealth and opportunity and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。",
+          "en": "Income is a flow over a period; wealth is a stock of net assets at a date. Assets, skills, inheritance and market power influence opportunities and distribution."
+        },
+        "explanation": {
+          "zh-CN": "财富是资产减负债，不是把当年收入加到资产中重复计算。",
+          "en": "Wealth is assets minus liabilities, not assets plus the year's income counted again."
+        }
+      },
+      {
+        "id": "u2-59-income-wealth-mcq-1",
+        "knowledgePointId": "u2-59-income-wealth",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "资产 90、负债 35，净财富多少？",
+          "en": "Assets are 90 and liabilities 35. What is net wealth?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "125",
+            "en": "125"
+          },
+          {
+            "id": "b",
+            "zh-CN": "90",
+            "en": "90"
+          },
+          {
+            "id": "c",
+            "zh-CN": "55",
+            "en": "55"
+          },
+          {
+            "id": "d",
+            "zh-CN": "35",
+            "en": "35"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "55。 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120 万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。 财富是资产减负债，不是把当年收入加到资产中重复计算。",
+          "en": "55. Illustrative example: a household earns 300,000 yearly, owns assets of two million and owes 800,000: net wealth is 1.2 million. Income and wealth can diverge, as for a retired asset owner. A single measure may misidentify policy beneficiaries. Wealth is assets minus liabilities, not assets plus the year's income counted again."
+        }
+      },
+      {
+        "id": "u2-59-income-wealth-short-1",
+        "knowledgePointId": "u2-59-income-wealth",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释收入、财富与机会的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Income, wealth and opportunity and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。 资产与教育条件不同；影响收入和未来资产积累；机会差异可能跨代持续 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120 万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。",
+          "en": "Income is a flow over a period; wealth is a stock of net assets at a date. Assets, skills, inheritance and market power influence opportunities and distribution. Assets and educational conditions differ; income and future asset accumulation respond; opportunity gaps may persist across generations Illustrative example: a household earns 300,000 yearly, owns assets of two million and owes 800,000: net wealth is 1.2 million. Income and wealth can diverge, as for a retired asset owner. A single measure may misidentify policy beneficiaries."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "流量",
+              "en": "flow"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "流量",
+                "资产与教育条件不同"
+              ],
+              "en": [
+                "flow",
+                "Assets and educational conditions differ"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "存量",
+              "en": "stock"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "存量",
+                "影响收入和未来资产积累"
+              ],
+              "en": [
+                "stock",
+                "income and future asset accumulation respond"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "资产减负债",
+              "en": "assets minus liabilities"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "资产减负债",
+                "机会差异可能跨代持续"
+              ],
+              "en": [
+                "assets minus liabilities",
+                "opportunity gaps may persist across generations"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u2-60-redistribution",
+      "slug": "redistribution",
+      "section": "2.12",
+      "level": "hl",
+      "syllabusRefs": [
+        "2.12 Markets and equity"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "6",
+          "section": "6.5",
+          "pages": [
+            191
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u2-58-equity-distribution",
+        "u2-59-income-wealth"
+      ],
+      "terms": [
+        "再分配与政策权衡",
+        "Redistribution and policy trade-offs",
+        "针对性",
+        "targeting",
+        "机会",
+        "opportunity",
+        "激励",
+        "incentives"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "针对性",
+          "机会",
+          "激励"
+        ],
+        "en": [
+          "targeting",
+          "opportunity",
+          "incentives"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u2-60-redistribution-flash-1",
+        "u2-60-redistribution-mcq-1",
+        "u2-60-redistribution-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u2-60-redistribution",
+        "locale": "zh-CN",
+        "title": "再分配与政策权衡",
+        "takeaway": "税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。",
+        "definition": "税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。",
+        "causalChain": [
+          "政策筹资并确定受益对象",
+          "改变可支配收入或服务获得",
+          "观察贫困、公平和行为反应"
+        ],
+        "misconceptions": [
+          "再分配不只是现金，也包括教育、医疗等实物服务。"
+        ],
+        "examApplication": [
+          "明确公平标准，比较效率、机会、激励和政策针对性。"
+        ],
+        "summary": [
+          "税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。",
+          "再分配不只是现金，也包括教育、医疗等实物服务。"
+        ],
+        "explanation": "政策筹资并确定受益对象。改变可支配收入或服务获得。观察贫困、公平和行为反应。\n\n### 原创情境与推导\n\n原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。\n\n再分配不只是现金，也包括教育、医疗等实物服务。\n\n明确公平标准，比较效率、机会、激励和政策针对性。"
+      },
+      "en": {
+        "id": "u2-60-redistribution",
+        "locale": "en",
+        "title": "Redistribution and policy trade-offs",
+        "takeaway": "Taxes, transfers and public services can alter market distribution. Evaluate targeting, opportunity, work incentives, financing and administrative capacity.",
+        "definition": "Taxes, transfers and public services can alter market distribution. Evaluate targeting, opportunity, work incentives, financing and administrative capacity.",
+        "causalChain": [
+          "Policy raises funds and identifies beneficiaries",
+          "disposable income or access to services changes",
+          "assess poverty, equity and behavioural responses"
+        ],
+        "misconceptions": [
+          "Redistribution includes services such as education and healthcare, not just cash."
+        ],
+        "examApplication": [
+          "State the equity criterion and compare efficiency, opportunity, incentives and targeting."
+        ],
+        "summary": [
+          "Taxes, transfers and public services can alter market distribution. Evaluate targeting, opportunity, work incentives, financing and administrative capacity.",
+          "Redistribution includes services such as education and healthcare, not just cash."
+        ],
+        "explanation": "Policy raises funds and identifies beneficiaries.  disposable income or access to services changes.  assess poverty, equity and behavioural responses.\n\n### Original scenario and reasoning\n\nIllustrative example: education support for low-income households can improve opportunity and productive capacity. Means testing improves targeting but may exclude households without records. Gradual withdrawal can reduce high effective marginal tax rates from abrupt benefit loss.\n\nRedistribution includes services such as education and healthcare, not just cash.\n\nState the equity criterion and compare efficiency, opportunity, incentives and targeting."
+      }
+    },
+    "practice": [
+      {
+        "id": "u2-60-redistribution-flash-1",
+        "knowledgePointId": "u2-60-redistribution",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“再分配与政策权衡”，并说明一个关键条件。",
+          "en": "Explain Redistribution and policy trade-offs and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。",
+          "en": "Taxes, transfers and public services can alter market distribution. Evaluate targeting, opportunity, work incentives, financing and administrative capacity."
+        },
+        "explanation": {
+          "zh-CN": "再分配不只是现金，也包括教育、医疗等实物服务。",
+          "en": "Redistribution includes services such as education and healthcare, not just cash."
+        }
+      },
+      {
+        "id": "u2-60-redistribution-mcq-1",
+        "knowledgePointId": "u2-60-redistribution",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项能改善再分配评价的完整性？",
+          "en": "Which makes redistribution evaluation more complete?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "假设行政成本为零",
+            "en": "Assume zero administrative cost"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只看名义转移金额",
+            "en": "Look only at the nominal transfer"
+          },
+          {
+            "id": "c",
+            "zh-CN": "认为政策不需要融资",
+            "en": "Assume no financing is needed"
+          },
+          {
+            "id": "d",
+            "zh-CN": "同时考察覆盖遗漏和工作激励",
+            "en": "Consider exclusion errors and work incentives"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "同时考察覆盖遗漏和工作激励。 原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。 再分配不只是现金，也包括教育、医疗等实物服务。",
+          "en": "Consider exclusion errors and work incentives. Illustrative example: education support for low-income households can improve opportunity and productive capacity. Means testing improves targeting but may exclude households without records. Gradual withdrawal can reduce high effective marginal tax rates from abrupt benefit loss. Redistribution includes services such as education and healthcare, not just cash."
+        }
+      },
+      {
+        "id": "u2-60-redistribution-short-1",
+        "knowledgePointId": "u2-60-redistribution",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释再分配与政策权衡的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Redistribution and policy trade-offs and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。 政策筹资并确定受益对象；改变可支配收入或服务获得；观察贫困、公平和行为反应 原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。",
+          "en": "Taxes, transfers and public services can alter market distribution. Evaluate targeting, opportunity, work incentives, financing and administrative capacity. Policy raises funds and identifies beneficiaries; disposable income or access to services changes; assess poverty, equity and behavioural responses Illustrative example: education support for low-income households can improve opportunity and productive capacity. Means testing improves targeting but may exclude households without records. Gradual withdrawal can reduce high effective marginal tax rates from abrupt benefit loss."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "针对性",
+              "en": "targeting"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "针对性",
+                "政策筹资并确定受益对象"
+              ],
+              "en": [
+                "targeting",
+                "Policy raises funds and identifies beneficiaries"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "机会",
+              "en": "opportunity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会",
+                "改变可支配收入或服务获得"
+              ],
+              "en": [
+                "opportunity",
+                "disposable income or access to services changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "激励",
+              "en": "incentives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "激励",
+                "观察贫困、公平和行为反应"
+              ],
+              "en": [
+                "incentives",
+                "assess poverty, equity and behavioural responses"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
         }
       }
     ]

@@ -1,0 +1,40 @@
+id: u2-23-elasticity-extremes
+slug: elasticity-extremes
+section: "2.5"
+level: hl
+syllabusRefs:
+  - 2.5 Elasticity of demand
+textbookRefs:
+  - chapter: "3"
+    section: "3.1"
+    pages:
+      - 85
+prerequisites:
+  - u2-01-demand
+related:
+  - u2-19-ped
+  - u2-20-ped-determinants
+  - u2-21-ped-revenue
+terms:
+  - 弹性、斜率与收入变化
+  - Elasticity, slope and changing income
+  - 百分比
+  - percentage
+  - P/Q
+  - P/Q
+  - 斜率
+  - slope
+synonyms:
+  zh-CN:
+    - 百分比
+    - P/Q
+    - 斜率
+  en:
+    - percentage
+    - P/Q
+    - slope
+diagramIds: []
+quizIds:
+  - u2-23-elasticity-extremes-flash-1
+  - u2-23-elasticity-extremes-mcq-1
+  - u2-23-elasticity-extremes-short-1

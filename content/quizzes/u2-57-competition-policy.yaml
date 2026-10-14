@@ -1,0 +1,103 @@
+- id: u2-57-competition-policy-flash-1
+  knowledgePointId: u2-57-competition-policy
+  type: flashcard
+  prompt:
+    zh-CN: 解释“竞争政策与市场势力评价”，并说明一个关键条件。
+    en: Explain Competition policy and evaluation of market power and state one
+      important condition.
+  answer:
+    zh-CN: 竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。
+    en: Competition policy can address collusion, abuse of dominance and
+      anticompetitive mergers. Evaluation weighs competition, scale efficiency,
+      innovation and regulatory cost.
+  explanation:
+    zh-CN: 不能把企业数量增加当作效率提高的充分条件。
+    en: More firms is not a sufficient condition for improved efficiency.
+- id: u2-57-competition-policy-mcq-1
+  knowledgePointId: u2-57-competition-policy
+  type: mcq
+  prompt:
+    zh-CN: 并购评价最需要比较什么？
+    en: What is central to evaluating a merger?
+  options:
+    - id: a
+      zh-CN: 竞争损失与成本效率收益
+      en: Competition losses and cost-efficiency gains
+    - id: b
+      zh-CN: 只看合并后企业名称
+      en: Only the merged firm's name
+    - id: c
+      zh-CN: 所有并购都禁止
+      en: Ban every merger
+    - id: d
+      zh-CN: 所有并购都促进公平
+      en: All mergers promote equity
+  correctOptionId: a
+  explanation:
+    zh-CN: 竞争损失与成本效率收益。
+      原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。
+      不能把企业数量增加当作效率提高的充分条件。
+    en: "Competition losses and cost-efficiency gains. Illustrative example: a
+      merger may reduce competition but save logistics costs. Assess whether
+      savings reach consumers, whether entry is feasible and whether
+      coordination becomes easier. Splitting a natural monopoly may duplicate
+      fixed networks, so remedies should reflect the market. More firms is not a
+      sufficient condition for improved efficiency."
+- id: u2-57-competition-policy-short-1
+  knowledgePointId: u2-57-competition-policy
+  type: short-answer
+  prompt:
+    zh-CN: 解释竞争政策与市场势力评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Competition policy and evaluation of market power
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 竞争政策可限制串谋、滥用支配地位和反竞争并购；评价需比较竞争、规模效率、创新和监管成本。
+      识别市场势力来源和实际行为；规制或促进进入；比较价格、成本、创新和执行结果
+      原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。
+    en: "Competition policy can address collusion, abuse of dominance and
+      anticompetitive mergers. Evaluation weighs competition, scale efficiency,
+      innovation and regulatory cost. Identify the source of market power and
+      actual conduct; regulate or enable entry; compare price, cost, innovation
+      and implementation effects Illustrative example: a merger may reduce
+      competition but save logistics costs. Assess whether savings reach
+      consumers, whether entry is feasible and whether coordination becomes
+      easier. Splitting a natural monopoly may duplicate fixed networks, so
+      remedies should reflect the market."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 竞争
+        en: competition
+      alternatives:
+        zh-CN:
+          - 竞争
+          - 识别市场势力来源和实际行为
+        en:
+          - competition
+          - Identify the source of market power and actual conduct
+    - id: mechanism-2
+      label:
+        zh-CN: 规模效率
+        en: scale efficiency
+      alternatives:
+        zh-CN:
+          - 规模效率
+          - 规制或促进进入
+        en:
+          - scale efficiency
+          - regulate or enable entry
+    - id: mechanism-3
+      label:
+        zh-CN: 监管
+        en: regulation
+      alternatives:
+        zh-CN:
+          - 监管
+          - 比较价格、成本、创新和执行结果
+        en:
+          - regulation
+          - compare price, cost, innovation and implementation effects
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,41 @@
+id: u2-06-supply
+slug: supply
+section: "2.2"
+level: core
+syllabusRefs:
+  - 2.2 Supply
+textbookRefs:
+  - chapter: "2"
+    section: "2.3"
+    pages:
+      - 49
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u2-07-supply-shifts
+  - u2-08-market-supply
+  - u2-09-diminishing-returns
+terms:
+  - 供给与供给量
+  - Supply and quantity supplied
+  - 自身价格
+  - own price
+  - 收益
+  - return
+  - 沿曲线
+  - along
+synonyms:
+  zh-CN:
+    - 自身价格
+    - 收益
+    - 沿曲线
+  en:
+    - own price
+    - return
+    - along
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-06-supply-flash-1
+  - u2-06-supply-mcq-1
+  - u2-06-supply-short-1

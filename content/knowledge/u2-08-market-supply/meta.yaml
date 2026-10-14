@@ -1,0 +1,41 @@
+id: u2-08-market-supply
+slug: market-supply
+section: "2.2"
+level: core
+syllabusRefs:
+  - 2.2 Supply
+textbookRefs:
+  - chapter: "2"
+    section: "2.3"
+    pages:
+      - 49
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u2-06-supply
+  - u2-07-supply-shifts
+  - u2-09-diminishing-returns
+terms:
+  - 市场供给与时间尺度
+  - Market supply and time horizons
+  - 同价
+  - common price
+  - 加总
+  - sum
+  - 固定
+  - fixed
+synonyms:
+  zh-CN:
+    - 同价
+    - 加总
+    - 固定
+  en:
+    - common price
+    - sum
+    - fixed
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-08-market-supply-flash-1
+  - u2-08-market-supply-mcq-1
+  - u2-08-market-supply-short-1

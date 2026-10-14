@@ -1,0 +1,39 @@
+id: u2-44-adverse-selection
+slug: adverse-selection
+section: "2.10"
+level: hl
+syllabusRefs:
+  - 2.10 Asymmetric information
+textbookRefs:
+  - chapter: "6"
+    section: "6.4"
+    pages:
+      - 187
+prerequisites:
+  - u2-33-market-failure
+related:
+  - u2-45-moral-hazard
+  - u2-46-information-remedies
+terms:
+  - 信息不对称与逆向选择
+  - Asymmetric information and adverse selection
+  - 信息不对称
+  - asymmetric information
+  - 交易前
+  - before
+  - 退出
+  - exit
+synonyms:
+  zh-CN:
+    - 信息不对称
+    - 交易前
+    - 退出
+  en:
+    - asymmetric information
+    - before
+    - exit
+diagramIds: []
+quizIds:
+  - u2-44-adverse-selection-flash-1
+  - u2-44-adverse-selection-mcq-1
+  - u2-44-adverse-selection-short-1

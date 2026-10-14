@@ -1,0 +1,101 @@
+- id: u2-58-equity-distribution-flash-1
+  knowledgePointId: u2-58-equity-distribution
+  type: flashcard
+  prompt:
+    zh-CN: 解释“市场分配与公平”，并说明一个关键条件。
+    en: Explain Market distribution and equity and state one important condition.
+  answer:
+    zh-CN: 市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。
+    en: Markets distribute purchasing power through income and assets. Allocative
+      efficiency does not guarantee equitable distribution. Equity is a
+      normative judgement; equality describes sameness of distribution.
+  explanation:
+    zh-CN: 配置效率与公平可能冲突，也可能通过针对性政策共同改善。
+    en: Efficiency and equity can conflict, but targeted policy may improve both.
+- id: u2-58-equity-distribution-mcq-1
+  knowledgePointId: u2-58-equity-distribution
+  type: mcq
+  prompt:
+    zh-CN: 配置有效的市场是否必然分配公平？
+    en: Must an allocatively efficient market distribute outcomes equitably?
+  options:
+    - id: a
+      zh-CN: 是，定义相同
+      en: Yes, the definitions are identical
+    - id: b
+      zh-CN: 否，两者评价标准不同
+      en: No, the criteria differ
+    - id: c
+      zh-CN: 是，所有收入相等
+      en: Yes, all incomes are equal
+    - id: d
+      zh-CN: 公平只指价格为零
+      en: Equity only means a zero price
+  correctOptionId: b
+  explanation:
+    zh-CN: 否，两者评价标准不同。
+      原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。
+      配置效率与公平可能冲突，也可能通过针对性政策共同改善。
+    en: "No, the criteria differ. Illustrative example: two households want
+      education equally but one cannot afford it. Market demand reflects
+      willingness and ability to pay, not every person's need. State the equity
+      criterion rather than automatically labelling all differences unfair.
+      Efficiency and equity can conflict, but targeted policy may improve both."
+- id: u2-58-equity-distribution-short-1
+  knowledgePointId: u2-58-equity-distribution
+  type: short-answer
+  prompt:
+    zh-CN: 解释市场分配与公平的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Market distribution and equity and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 市场按收入与资产决定购买能力；配置效率并不保证分配公平。公平是规范性判断，平等描述分配相同程度。
+      资产和要素回报形成收入差异；收入差异影响有效需求；市场配置可能有效却不符合社会公平标准
+      原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。
+    en: "Markets distribute purchasing power through income and assets. Allocative
+      efficiency does not guarantee equitable distribution. Equity is a
+      normative judgement; equality describes sameness of distribution. Assets
+      and factor returns generate income differences; income differences affect
+      effective demand; efficient market allocation may fail society's equity
+      criteria Illustrative example: two households want education equally but
+      one cannot afford it. Market demand reflects willingness and ability to
+      pay, not every person's need. State the equity criterion rather than
+      automatically labelling all differences unfair."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 资产和要素回报形成收入差异
+        en:
+          - income
+          - Assets and factor returns generate income differences
+    - id: mechanism-2
+      label:
+        zh-CN: 公平
+        en: equity
+      alternatives:
+        zh-CN:
+          - 公平
+          - 收入差异影响有效需求
+        en:
+          - equity
+          - income differences affect effective demand
+    - id: mechanism-3
+      label:
+        zh-CN: 效率
+        en: efficiency
+      alternatives:
+        zh-CN:
+          - 效率
+          - 市场配置可能有效却不符合社会公平标准
+        en:
+          - efficiency
+          - efficient market allocation may fail society's equity criteria
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

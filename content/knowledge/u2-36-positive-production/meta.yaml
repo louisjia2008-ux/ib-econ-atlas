@@ -1,0 +1,41 @@
+id: u2-36-positive-production
+slug: positive-production
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "6"
+    section: "6.1"
+    pages:
+      - 174
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+terms:
+  - 正生产外部性
+  - Positive production externalities
+  - 外溢
+  - spillover
+  - MSC
+  - MSC
+  - 生产不足
+  - underproduction
+synonyms:
+  zh-CN:
+    - 外溢
+    - MSC
+    - 生产不足
+  en:
+    - spillover
+    - MSC
+    - underproduction
+diagramIds:
+  - positive-production
+quizIds:
+  - u2-36-positive-production-flash-1
+  - u2-36-positive-production-mcq-1
+  - u2-36-positive-production-short-1

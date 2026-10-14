@@ -1,0 +1,104 @@
+- id: u2-60-redistribution-flash-1
+  knowledgePointId: u2-60-redistribution
+  type: flashcard
+  prompt:
+    zh-CN: 解释“再分配与政策权衡”，并说明一个关键条件。
+    en: Explain Redistribution and policy trade-offs and state one important
+      condition.
+  answer:
+    zh-CN: 税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。
+    en: Taxes, transfers and public services can alter market distribution. Evaluate
+      targeting, opportunity, work incentives, financing and administrative
+      capacity.
+  explanation:
+    zh-CN: 再分配不只是现金，也包括教育、医疗等实物服务。
+    en: Redistribution includes services such as education and healthcare, not just
+      cash.
+- id: u2-60-redistribution-mcq-1
+  knowledgePointId: u2-60-redistribution
+  type: mcq
+  prompt:
+    zh-CN: 哪项能改善再分配评价的完整性？
+    en: Which makes redistribution evaluation more complete?
+  options:
+    - id: a
+      zh-CN: 假设行政成本为零
+      en: Assume zero administrative cost
+    - id: b
+      zh-CN: 只看名义转移金额
+      en: Look only at the nominal transfer
+    - id: c
+      zh-CN: 认为政策不需要融资
+      en: Assume no financing is needed
+    - id: d
+      zh-CN: 同时考察覆盖遗漏和工作激励
+      en: Consider exclusion errors and work incentives
+  correctOptionId: d
+  explanation:
+    zh-CN: 同时考察覆盖遗漏和工作激励。
+      原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。
+      再分配不只是现金，也包括教育、医疗等实物服务。
+    en: "Consider exclusion errors and work incentives. Illustrative example:
+      education support for low-income households can improve opportunity and
+      productive capacity. Means testing improves targeting but may exclude
+      households without records. Gradual withdrawal can reduce high effective
+      marginal tax rates from abrupt benefit loss. Redistribution includes
+      services such as education and healthcare, not just cash."
+- id: u2-60-redistribution-short-1
+  knowledgePointId: u2-60-redistribution
+  type: short-answer
+  prompt:
+    zh-CN: 解释再分配与政策权衡的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Redistribution and policy trade-offs and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 税收、转移支付和公共服务可改变市场分配；评价应兼顾针对性、机会、工作激励、融资和行政能力。
+      政策筹资并确定受益对象；改变可支配收入或服务获得；观察贫困、公平和行为反应
+      原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。
+    en: "Taxes, transfers and public services can alter market distribution.
+      Evaluate targeting, opportunity, work incentives, financing and
+      administrative capacity. Policy raises funds and identifies beneficiaries;
+      disposable income or access to services changes; assess poverty, equity
+      and behavioural responses Illustrative example: education support for
+      low-income households can improve opportunity and productive capacity.
+      Means testing improves targeting but may exclude households without
+      records. Gradual withdrawal can reduce high effective marginal tax rates
+      from abrupt benefit loss."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 针对性
+        en: targeting
+      alternatives:
+        zh-CN:
+          - 针对性
+          - 政策筹资并确定受益对象
+        en:
+          - targeting
+          - Policy raises funds and identifies beneficiaries
+    - id: mechanism-2
+      label:
+        zh-CN: 机会
+        en: opportunity
+      alternatives:
+        zh-CN:
+          - 机会
+          - 改变可支配收入或服务获得
+        en:
+          - opportunity
+          - disposable income or access to services changes
+    - id: mechanism-3
+      label:
+        zh-CN: 激励
+        en: incentives
+      alternatives:
+        zh-CN:
+          - 激励
+          - 观察贫困、公平和行为反应
+        en:
+          - incentives
+          - assess poverty, equity and behavioural responses
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

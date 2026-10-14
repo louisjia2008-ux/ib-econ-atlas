@@ -1,0 +1,42 @@
+id: u2-01-demand
+slug: demand
+section: "2.1"
+level: core
+syllabusRefs:
+  - 2.1 Demand
+textbookRefs:
+  - chapter: "2"
+    section: "2.2"
+    pages:
+      - 43
+prerequisites:
+  - u1-04-scarcity
+  - u1-14-opportunity-cost
+related:
+  - u2-02-law-of-demand
+  - u2-03-demand-shifts
+  - u2-04-market-demand
+terms:
+  - 需求与需求量
+  - Demand and quantity demanded
+  - 需求量
+  - quantity demanded
+  - 自身价格
+  - own price
+  - 沿曲线
+  - along
+synonyms:
+  zh-CN:
+    - 需求量
+    - 自身价格
+    - 沿曲线
+  en:
+    - quantity demanded
+    - own price
+    - along
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-01-demand-flash-1
+  - u2-01-demand-mcq-1
+  - u2-01-demand-short-1

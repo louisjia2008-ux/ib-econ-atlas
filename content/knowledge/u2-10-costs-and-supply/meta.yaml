@@ -1,0 +1,41 @@
+id: u2-10-costs-and-supply
+slug: costs-and-supply
+section: "2.2"
+level: hl
+syllabusRefs:
+  - 2.2 Supply
+textbookRefs:
+  - chapter: "2"
+    section: "2.3"
+    pages:
+      - 49
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u2-06-supply
+  - u2-07-supply-shifts
+  - u2-08-market-supply
+terms:
+  - 边际成本与供给决策
+  - Marginal cost and supply decisions
+  - 额外成本
+  - extra cost
+  - 边际收益
+  - marginal revenue
+  - 利润
+  - profit
+synonyms:
+  zh-CN:
+    - 额外成本
+    - 边际收益
+    - 利润
+  en:
+    - extra cost
+    - marginal revenue
+    - profit
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-10-costs-and-supply-flash-1
+  - u2-10-costs-and-supply-mcq-1
+  - u2-10-costs-and-supply-short-1

@@ -1,0 +1,104 @@
+- id: u2-44-adverse-selection-flash-1
+  knowledgePointId: u2-44-adverse-selection
+  type: flashcard
+  prompt:
+    zh-CN: 解释“信息不对称与逆向选择”，并说明一个关键条件。
+    en: Explain Asymmetric information and adverse selection and state one important
+      condition.
+  answer:
+    zh-CN: 信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。
+    en: Asymmetric information means one party has relevant information the other
+      lacks. Adverse selection arises before exchange when hidden types increase
+      the share of high-risk or low-quality transactions.
+  explanation:
+    zh-CN: 逆向选择发生在交易前，不能与交易后的行为变化混淆。
+    en: Adverse selection occurs before exchange, not as a post-contract behavioural
+      change.
+- id: u2-44-adverse-selection-mcq-1
+  knowledgePointId: u2-44-adverse-selection
+  type: mcq
+  prompt:
+    zh-CN: 隐藏车况在签约前导致好车退出属于什么？
+    en: Hidden car quality before purchase drives good cars out. What is this?
+  options:
+    - id: a
+      zh-CN: 道德风险
+      en: Moral hazard
+    - id: b
+      zh-CN: 规模经济
+      en: Economies of scale
+    - id: c
+      zh-CN: 正消费外部性
+      en: Positive consumption externality
+    - id: d
+      zh-CN: 逆向选择
+      en: Adverse selection
+  correctOptionId: d
+  explanation:
+    zh-CN: 逆向选择。
+      原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。
+      逆向选择发生在交易前，不能与交易后的行为变化混淆。
+    en: "Adverse selection. Illustrative example: used-car buyers cannot identify
+      good cars and offer an average price. Good-car owners exit, worsening
+      remaining quality. Inspection, warranties and credible certification can
+      narrow the information gap, but certifiers must be trustworthy. Adverse
+      selection occurs before exchange, not as a post-contract behavioural
+      change."
+- id: u2-44-adverse-selection-short-1
+  knowledgePointId: u2-44-adverse-selection
+  type: short-answer
+  prompt:
+    zh-CN: 解释信息不对称与逆向选择的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Asymmetric information and adverse selection and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 信息不对称是交易一方掌握另一方没有的相关信息。逆向选择发生在交易前，隐藏类型使高风险或低质量交易占比增加。
+      买方难辨质量或风险；统一价格使优质类型退出；平均质量下降并可能使市场萎缩
+      原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。
+    en: "Asymmetric information means one party has relevant information the other
+      lacks. Adverse selection arises before exchange when hidden types increase
+      the share of high-risk or low-quality transactions. Buyers cannot
+      distinguish quality or risk; pooled prices drive good types away; average
+      quality falls and the market may shrink Illustrative example: used-car
+      buyers cannot identify good cars and offer an average price. Good-car
+      owners exit, worsening remaining quality. Inspection, warranties and
+      credible certification can narrow the information gap, but certifiers must
+      be trustworthy."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 信息不对称
+        en: asymmetric information
+      alternatives:
+        zh-CN:
+          - 信息不对称
+          - 买方难辨质量或风险
+        en:
+          - asymmetric information
+          - Buyers cannot distinguish quality or risk
+    - id: mechanism-2
+      label:
+        zh-CN: 交易前
+        en: before
+      alternatives:
+        zh-CN:
+          - 交易前
+          - 统一价格使优质类型退出
+        en:
+          - before
+          - pooled prices drive good types away
+    - id: mechanism-3
+      label:
+        zh-CN: 退出
+        en: exit
+      alternatives:
+        zh-CN:
+          - 退出
+          - 平均质量下降并可能使市场萎缩
+        en:
+          - exit
+          - average quality falls and the market may shrink
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

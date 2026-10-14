@@ -1,0 +1,97 @@
+- id: u2-48-cost-curves-flash-1
+  knowledgePointId: u2-48-cost-curves
+  type: flashcard
+  prompt:
+    zh-CN: 解释“总成本、平均成本与边际成本”，并说明一个关键条件。
+    en: Explain Total, average and marginal costs and state one important condition.
+  answer:
+    zh-CN: TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。
+    en: TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when
+      marginal cost is below it and rises when marginal cost is above it.
+  explanation:
+    zh-CN: 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。
+    en: Higher fixed cost raises ATC but does not directly shift MC or AVC.
+- id: u2-48-cost-curves-mcq-1
+  knowledgePointId: u2-48-cost-curves
+  type: mcq
+  prompt:
+    zh-CN: TC=120、Q=20，ATC 为多少？
+    en: TC=120 and Q=20. What is ATC?
+  options:
+    - id: a
+      zh-CN: "100"
+      en: "100"
+    - id: b
+      zh-CN: "140"
+      en: "140"
+    - id: c
+      zh-CN: "2400"
+      en: "2400"
+    - id: d
+      zh-CN: "6"
+      en: "6"
+  correctOptionId: d
+  explanation:
+    zh-CN: 6。 原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的
+      ATC=(100+8)/11≈9.82。MC 不是 TC/Q。 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。
+    en: "6. Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6
+      and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is
+      not TC/Q. Higher fixed cost raises ATC but does not directly shift MC or
+      AVC."
+- id: u2-48-cost-curves-short-1
+  knowledgePointId: u2-48-cost-curves
+  type: short-answer
+  prompt:
+    zh-CN: 解释总成本、平均成本与边际成本的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Total, average and marginal costs and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: TC=TFC+TVC，ATC=TC/Q，AVC=TVC/Q，MC=ΔTC/ΔQ；边际成本低于平均成本时平均成本下降，高于时上升。
+      固定成本被更多单位分摊；可变投入受边际报酬变化影响；MC 与平均值关系决定平均成本方向 原创例：Q=10、TFC=40、TVC=60，则
+      TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的 ATC=(100+8)/11≈9.82。MC 不是
+      TC/Q。
+    en: "TC=TFC+TVC, ATC=TC/Q, AVC=TVC/Q and MC=ΔTC/ΔQ. Average cost falls when
+      marginal cost is below it and rises when marginal cost is above it. Fixed
+      cost is spread over more units; changing marginal returns affect variable
+      inputs; the relation of MC to the average determines its direction
+      Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6
+      and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is
+      not TC/Q."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 平均成本
+        en: average cost
+      alternatives:
+        zh-CN:
+          - 平均成本
+          - 固定成本被更多单位分摊
+        en:
+          - average cost
+          - Fixed cost is spread over more units
+    - id: mechanism-2
+      label:
+        zh-CN: 边际成本
+        en: marginal cost
+      alternatives:
+        zh-CN:
+          - 边际成本
+          - 可变投入受边际报酬变化影响
+        en:
+          - marginal cost
+          - changing marginal returns affect variable inputs
+    - id: mechanism-3
+      label:
+        zh-CN: 固定成本
+        en: fixed cost
+      alternatives:
+        zh-CN:
+          - 固定成本
+          - MC 与平均值关系决定平均成本方向
+        en:
+          - fixed cost
+          - the relation of MC to the average determines its direction
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,5 +1,21 @@
 # Progress Log
 
+## 2026-10-15 — T024 Unit 2 PR delivery
+
+- Published implementation 5d96dc0 to codex/unit-2-microeconomics and opened/attached PR #9 targeting main.
+- Hosted run 38597660911 passed verify (45s) and browser (60s).
+- Final delivery record contains no product-code changes; check the final PR head and CI at handoff.
+- Completed scope: Unit 2 implementation, verification and unmerged PR. No production deployment or live AI activity.
+
+## 2026-10-15 — T020–T023 Unit 2 extension
+
+- Locked the 60-point Unit 2 scope from current main 1e7b938 on codex/unit-2-microeconomics.
+- Authored 120 localized pages, 180 practice items and 12 original diagrams; preserved all Unit 1 source content and IDs.
+- Generalized directories, breadcrumbs, counts and reports; split and precached the full learning-content bundle.
+- PASS: full verify, 82 unit/contract tests, 16 applicable browser checks, old/new backup coexistence and first-visit offline Unit 2 study/diagram/search.
+- Inspected headed desktop and mobile visuals, then corrected SVG axis-label overlap and narrow table headings.
+- Remaining: T024 authorized feature push/PR and hosted CI. Production deploy and live AI remain outside the task.
+
 ## 2026-09-29 - T001
 
 - What changed: locked the mission, created a copyright-safe ignore policy, established an independent nested Git repository, and recorded the source PDF identity without tracking it.

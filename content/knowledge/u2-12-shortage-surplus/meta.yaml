@@ -1,0 +1,42 @@
+id: u2-12-shortage-surplus
+slug: shortage-surplus
+section: "2.3"
+level: core
+syllabusRefs:
+  - 2.3 Competitive market equilibrium
+textbookRefs:
+  - chapter: "2"
+    section: "2.4"
+    pages:
+      - 57
+prerequisites:
+  - u2-01-demand
+  - u2-06-supply
+related:
+  - u2-11-equilibrium
+  - u2-13-equilibrium-shifts
+  - u2-14-price-mechanism
+terms:
+  - 短缺、过剩与价格调整
+  - Shortages, surpluses and price adjustment
+  - 短缺
+  - shortage
+  - 过剩
+  - surplus
+  - 价格调整
+  - price adjustment
+synonyms:
+  zh-CN:
+    - 短缺
+    - 过剩
+    - 价格调整
+  en:
+    - shortage
+    - surplus
+    - price adjustment
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-12-shortage-surplus-flash-1
+  - u2-12-shortage-surplus-mcq-1
+  - u2-12-shortage-surplus-short-1

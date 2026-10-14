@@ -1,0 +1,102 @@
+- id: u2-12-shortage-surplus-flash-1
+  knowledgePointId: u2-12-shortage-surplus
+  type: flashcard
+  prompt:
+    zh-CN: 解释“短缺、过剩与价格调整”，并说明一个关键条件。
+    en: Explain Shortages, surpluses and price adjustment and state one important
+      condition.
+  answer:
+    zh-CN: 短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。
+    en: A shortage means quantity demanded exceeds quantity supplied at a given
+      price; a surplus means the reverse. In a flexible-price model they create
+      upward and downward price pressure respectively.
+  explanation:
+    zh-CN: 短缺的大小是 Qd−Qs，不是需求量本身。
+    en: The size of a shortage is Qd minus Qs, not quantity demanded itself.
+- id: u2-12-shortage-surplus-mcq-1
+  knowledgePointId: u2-12-shortage-surplus
+  type: mcq
+  prompt:
+    zh-CN: Qd=80、Qs=110 时，过剩为多少？
+    en: Qd=80 and Qs=110. How large is the surplus?
+  options:
+    - id: a
+      zh-CN: "80"
+      en: "80"
+    - id: b
+      zh-CN: "110"
+      en: "110"
+    - id: c
+      zh-CN: "190"
+      en: "190"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: d
+  explanation:
+    zh-CN: 30。 原创例：Qd=90、Qs=50，短缺为
+      40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。 短缺的大小是
+      Qd−Qs，不是需求量本身。
+    en: "30. Illustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price
+      rise lowers quantity demanded and increases quantity supplied along the
+      curves. Controls can prevent adjustment, so shortages need not disappear
+      immediately. The size of a shortage is Qd minus Qs, not quantity demanded
+      itself."
+- id: u2-12-shortage-surplus-short-1
+  knowledgePointId: u2-12-shortage-surplus
+  type: short-answer
+  prompt:
+    zh-CN: 解释短缺、过剩与价格调整的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Shortages, surpluses and price adjustment and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 短缺是给定价格下需求量超过供给量；过剩是供给量超过需求量。在灵活价格模型中，两者分别带来涨价和降价压力。
+      非均衡价格使交易计划不一致；买方竞争或卖方积压；价格调整改变双方数量 原创例：Qd=90、Qs=50，短缺为
+      40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。
+    en: "A shortage means quantity demanded exceeds quantity supplied at a given
+      price; a surplus means the reverse. In a flexible-price model they create
+      upward and downward price pressure respectively. A disequilibrium price
+      makes trading plans incompatible; buyers compete or sellers accumulate
+      stock; changing price adjusts quantities on both sides Illustrative
+      example: Qd=90 and Qs=50 imply a shortage of 40. A price rise lowers
+      quantity demanded and increases quantity supplied along the curves.
+      Controls can prevent adjustment, so shortages need not disappear
+      immediately."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 短缺
+        en: shortage
+      alternatives:
+        zh-CN:
+          - 短缺
+          - 非均衡价格使交易计划不一致
+        en:
+          - shortage
+          - A disequilibrium price makes trading plans incompatible
+    - id: mechanism-2
+      label:
+        zh-CN: 过剩
+        en: surplus
+      alternatives:
+        zh-CN:
+          - 过剩
+          - 买方竞争或卖方积压
+        en:
+          - surplus
+          - buyers compete or sellers accumulate stock
+    - id: mechanism-3
+      label:
+        zh-CN: 价格调整
+        en: price adjustment
+      alternatives:
+        zh-CN:
+          - 价格调整
+          - 价格调整改变双方数量
+        en:
+          - price adjustment
+          - changing price adjusts quantities on both sides
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

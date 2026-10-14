@@ -1,0 +1,42 @@
+id: u2-15-surplus-efficiency
+slug: surplus-efficiency
+section: "2.3"
+level: core
+syllabusRefs:
+  - 2.3 Competitive market equilibrium
+textbookRefs:
+  - chapter: "2"
+    section: "2.5"
+    pages:
+      - 62
+prerequisites:
+  - u2-01-demand
+  - u2-06-supply
+related:
+  - u2-11-equilibrium
+  - u2-12-shortage-surplus
+  - u2-13-equilibrium-shifts
+terms:
+  - 消费者剩余、生产者剩余与效率
+  - Surplus and allocative efficiency
+  - 支付意愿
+  - willingness to pay
+  - 边际成本
+  - marginal cost
+  - 总剩余
+  - total surplus
+synonyms:
+  zh-CN:
+    - 支付意愿
+    - 边际成本
+    - 总剩余
+  en:
+    - willingness to pay
+    - marginal cost
+    - total surplus
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-15-surplus-efficiency-flash-1
+  - u2-15-surplus-efficiency-mcq-1
+  - u2-15-surplus-efficiency-short-1

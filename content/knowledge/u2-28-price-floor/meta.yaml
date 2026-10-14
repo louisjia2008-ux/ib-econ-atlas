@@ -1,0 +1,43 @@
+id: u2-28-price-floor
+slug: price-floor
+section: "2.7"
+level: core
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.2"
+    pages:
+      - 121
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-27-price-ceiling
+  - u2-29-indirect-tax
+  - u2-30-subsidy
+terms:
+  - 最低限价与最低工资
+  - Price floors and minimum wages
+  - 高于均衡
+  - above equilibrium
+  - 过剩
+  - surplus
+  - 政府购买
+  - government purchase
+synonyms:
+  zh-CN:
+    - 高于均衡
+    - 过剩
+    - 政府购买
+  en:
+    - above equilibrium
+    - surplus
+    - government purchase
+diagramIds:
+  - price-floor
+quizIds:
+  - u2-28-price-floor-flash-1
+  - u2-28-price-floor-mcq-1
+  - u2-28-price-floor-short-1

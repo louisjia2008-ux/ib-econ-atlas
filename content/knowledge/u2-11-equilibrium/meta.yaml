@@ -1,0 +1,42 @@
+id: u2-11-equilibrium
+slug: equilibrium
+section: "2.3"
+level: core
+syllabusRefs:
+  - 2.3 Competitive market equilibrium
+textbookRefs:
+  - chapter: "2"
+    section: "2.4"
+    pages:
+      - 57
+prerequisites:
+  - u2-01-demand
+  - u2-06-supply
+related:
+  - u2-12-shortage-surplus
+  - u2-13-equilibrium-shifts
+  - u2-14-price-mechanism
+terms:
+  - 竞争市场均衡
+  - Competitive market equilibrium
+  - 需求量
+  - quantity demanded
+  - 供给量
+  - quantity supplied
+  - 相等
+  - equal
+synonyms:
+  zh-CN:
+    - 需求量
+    - 供给量
+    - 相等
+  en:
+    - quantity demanded
+    - quantity supplied
+    - equal
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-11-equilibrium-flash-1
+  - u2-11-equilibrium-mcq-1
+  - u2-11-equilibrium-short-1

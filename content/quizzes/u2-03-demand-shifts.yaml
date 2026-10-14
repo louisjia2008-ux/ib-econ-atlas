@@ -1,0 +1,99 @@
+- id: u2-03-demand-shifts-flash-1
+  knowledgePointId: u2-03-demand-shifts
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求的非价格决定因素”，并说明一个关键条件。
+    en: Explain Non-price determinants of demand and state one important condition.
+  answer:
+    zh-CN: 收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。
+    en: Income, tastes, related-good prices, expectations and the number of buyers
+      can change quantity demanded at every price, shifting demand.
+  explanation:
+    zh-CN: 收入上升对劣等品可能使需求左移，不能一概画右移。
+    en: Higher income can shift demand for an inferior good left, so income
+      increases do not always shift demand right.
+- id: u2-03-demand-shifts-mcq-1
+  knowledgePointId: u2-03-demand-shifts
+  type: mcq
+  prompt:
+    zh-CN: 正常品的消费者收入增加，自身价格未变，会怎样？
+    en: Income rises for buyers of a normal good while its price is unchanged. What
+      happens?
+  options:
+    - id: a
+      zh-CN: 仅沿原曲线移动
+      en: Only a movement along the original curve
+    - id: b
+      zh-CN: 需求必然左移
+      en: Demand necessarily shifts left
+    - id: c
+      zh-CN: 需求右移
+      en: Demand shifts right
+    - id: d
+      zh-CN: 供给必然左移
+      en: Supply necessarily shifts left
+  correctOptionId: c
+  explanation:
+    zh-CN: 需求右移。 原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。
+      收入上升对劣等品可能使需求左移，不能一概画右移。
+    en: "Demand shifts right. Illustrative example: tea and coffee are substitutes,
+      so dearer tea shifts coffee demand right. Coffee machines and coffee are
+      complements, so dearer machines may shift coffee demand left. Always name
+      the market being analysed. Higher income can shift demand for an inferior
+      good left, so income increases do not always shift demand right."
+- id: u2-03-demand-shifts-short-1
+  knowledgePointId: u2-03-demand-shifts
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求的非价格决定因素的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Non-price determinants of demand and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 收入、偏好、相关商品价格、预期和购买者数量变化，会改变每一个价格下的需求量，从而移动需求曲线。
+      一个非自身价格因素改变；相同价格下购买意愿或能力改变；整条需求曲线移动
+      原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。
+    en: "Income, tastes, related-good prices, expectations and the number of buyers
+      can change quantity demanded at every price, shifting demand. A
+      determinant other than own price changes; willingness or ability changes
+      at the same price; the whole demand curve shifts Illustrative example: tea
+      and coffee are substitutes, so dearer tea shifts coffee demand right.
+      Coffee machines and coffee are complements, so dearer machines may shift
+      coffee demand left. Always name the market being analysed."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 一个非自身价格因素改变
+        en:
+          - income
+          - A determinant other than own price changes
+    - id: mechanism-2
+      label:
+        zh-CN: 每个价格
+        en: every price
+      alternatives:
+        zh-CN:
+          - 每个价格
+          - 相同价格下购买意愿或能力改变
+        en:
+          - every price
+          - willingness or ability changes at the same price
+    - id: mechanism-3
+      label:
+        zh-CN: 右移
+        en: right
+      alternatives:
+        zh-CN:
+          - 右移
+          - 整条需求曲线移动
+        en:
+          - right
+          - the whole demand curve shifts
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

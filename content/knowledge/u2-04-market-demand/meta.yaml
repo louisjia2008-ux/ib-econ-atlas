@@ -1,0 +1,42 @@
+id: u2-04-market-demand
+slug: market-demand
+section: "2.1"
+level: core
+syllabusRefs:
+  - 2.1 Demand
+textbookRefs:
+  - chapter: "2"
+    section: "2.2"
+    pages:
+      - 43
+prerequisites:
+  - u1-04-scarcity
+  - u1-14-opportunity-cost
+related:
+  - u2-01-demand
+  - u2-02-law-of-demand
+  - u2-03-demand-shifts
+terms:
+  - 个人需求与市场需求
+  - Individual and market demand
+  - 相同价格
+  - same price
+  - 数量
+  - quantities
+  - 加总
+  - sum
+synonyms:
+  zh-CN:
+    - 相同价格
+    - 数量
+    - 加总
+  en:
+    - same price
+    - quantities
+    - sum
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-04-market-demand-flash-1
+  - u2-04-market-demand-mcq-1
+  - u2-04-market-demand-short-1

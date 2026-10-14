@@ -1,0 +1,42 @@
+id: u2-05-marginal-utility
+slug: marginal-utility
+section: "2.1"
+level: hl
+syllabusRefs:
+  - 2.1 Demand
+textbookRefs:
+  - chapter: "2"
+    section: "2.2"
+    pages:
+      - 43
+prerequisites:
+  - u1-04-scarcity
+  - u1-14-opportunity-cost
+related:
+  - u2-01-demand
+  - u2-02-law-of-demand
+  - u2-03-demand-shifts
+terms:
+  - 边际效用与消费者选择
+  - Marginal utility and consumer choice
+  - 额外
+  - extra
+  - 递减
+  - diminishing
+  - MU/P
+  - MU/P
+synonyms:
+  zh-CN:
+    - 额外
+    - 递减
+    - MU/P
+  en:
+    - extra
+    - diminishing
+    - MU/P
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-05-marginal-utility-flash-1
+  - u2-05-marginal-utility-mcq-1
+  - u2-05-marginal-utility-short-1

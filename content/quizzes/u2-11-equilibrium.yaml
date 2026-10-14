@@ -1,0 +1,100 @@
+- id: u2-11-equilibrium-flash-1
+  knowledgePointId: u2-11-equilibrium
+  type: flashcard
+  prompt:
+    zh-CN: 解释“竞争市场均衡”，并说明一个关键条件。
+    en: Explain Competitive market equilibrium and state one important condition.
+  answer:
+    zh-CN: 市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。
+    en: Equilibrium occurs at the price where quantity demanded equals quantity
+      supplied, making buyers' and sellers' plans compatible without endogenous
+      pressure for price to change.
+  explanation:
+    zh-CN: 均衡不意味着所有需要都被满足，也不意味着社会最优。
+    en: Equilibrium does not mean all needs are met or that the outcome is socially
+      optimal.
+- id: u2-11-equilibrium-mcq-1
+  knowledgePointId: u2-11-equilibrium
+  type: mcq
+  prompt:
+    zh-CN: 价格下 Qd=70、Qs=70，该市场处于什么状态？
+    en: At a price Qd=70 and Qs=70. What is the market's state?
+  options:
+    - id: a
+      zh-CN: 短缺 70
+      en: Shortage of 70
+    - id: b
+      zh-CN: 过剩 140
+      en: Surplus of 140
+    - id: c
+      zh-CN: 均衡
+      en: Equilibrium
+    - id: d
+      zh-CN: 需求为零
+      en: Zero demand
+  correctOptionId: c
+  explanation:
+    zh-CN: 均衡。 原创例：价格 8 元时买方想买 60 个、卖方想卖 60
+      个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。 均衡不意味着所有需要都被满足，也不意味着社会最优。
+    en: "Equilibrium. Illustrative example: at a price of 8 buyers demand 60 units
+      and sellers supply 60. This is an equilibrium pair. Equilibrium is a
+      comparison benchmark; contracts, inventories and information delays can
+      slow actual adjustment. Equilibrium does not mean all needs are met or
+      that the outcome is socially optimal."
+- id: u2-11-equilibrium-short-1
+  knowledgePointId: u2-11-equilibrium
+  type: short-answer
+  prompt:
+    zh-CN: 解释竞争市场均衡的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Competitive market equilibrium and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 市场均衡是在某价格下需求量等于供给量，买卖双方计划一致且没有改变价格的内生压力。
+      买卖双方在相同价格作出计划；需求量等于供给量；市场出清但不保证结果公平 原创例：价格 8 元时买方想买 60 个、卖方想卖 60
+      个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。
+    en: "Equilibrium occurs at the price where quantity demanded equals quantity
+      supplied, making buyers' and sellers' plans compatible without endogenous
+      pressure for price to change. Buyers and sellers plan at a common price;
+      quantities demanded and supplied coincide; the market clears without
+      guaranteeing equity Illustrative example: at a price of 8 buyers demand 60
+      units and sellers supply 60. This is an equilibrium pair. Equilibrium is a
+      comparison benchmark; contracts, inventories and information delays can
+      slow actual adjustment."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 需求量
+        en: quantity demanded
+      alternatives:
+        zh-CN:
+          - 需求量
+          - 买卖双方在相同价格作出计划
+        en:
+          - quantity demanded
+          - Buyers and sellers plan at a common price
+    - id: mechanism-2
+      label:
+        zh-CN: 供给量
+        en: quantity supplied
+      alternatives:
+        zh-CN:
+          - 供给量
+          - 需求量等于供给量
+        en:
+          - quantity supplied
+          - quantities demanded and supplied coincide
+    - id: mechanism-3
+      label:
+        zh-CN: 相等
+        en: equal
+      alternatives:
+        zh-CN:
+          - 相等
+          - 市场出清但不保证结果公平
+        en:
+          - equal
+          - the market clears without guaranteeing equity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

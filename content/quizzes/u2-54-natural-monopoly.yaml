@@ -1,0 +1,102 @@
+- id: u2-54-natural-monopoly-flash-1
+  knowledgePointId: u2-54-natural-monopoly
+  type: flashcard
+  prompt:
+    zh-CN: 解释“自然垄断与价格监管”，并说明一个关键条件。
+    en: Explain Natural monopoly and price regulation and state one important
+      condition.
+  answer:
+    zh-CN: 自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。
+    en: Natural monopoly exists when average cost declines over the relevant demand
+      range, so one supplier can serve the market at lower cost than several
+      duplicating infrastructure.
+  explanation:
+    zh-CN: 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。
+    en: Natural monopoly describes a cost structure, not every state-owned or large
+      firm.
+- id: u2-54-natural-monopoly-mcq-1
+  knowledgePointId: u2-54-natural-monopoly
+  type: mcq
+  prompt:
+    zh-CN: 自然垄断中 MC<ATC，按 P=MC 收费可能怎样？
+    en: In a natural monopoly MC<ATC. What may P=MC pricing cause?
+  options:
+    - id: a
+      zh-CN: 必然超额利润
+      en: Guaranteed supernormal profit
+    - id: b
+      zh-CN: 亏损，需要融资安排
+      en: Losses requiring financing
+    - id: c
+      zh-CN: 成本为零
+      en: Zero cost
+    - id: d
+      zh-CN: 需求消失
+      en: Demand disappears
+  correctOptionId: b
+  explanation:
+    zh-CN: 亏损，需要融资安排。 原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间
+      MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。
+    en: "Losses requiring financing. Illustrative example: duplicating water pipes
+      can waste resources. P=MC pricing improves allocative efficiency, but
+      MC<ATC in a declining-cost range can create losses requiring subsidy.
+      P=ATC recovers cost without necessarily achieving allocative efficiency.
+      Natural monopoly describes a cost structure, not every state-owned or
+      large firm."
+- id: u2-54-natural-monopoly-short-1
+  knowledgePointId: u2-54-natural-monopoly
+  type: short-answer
+  prompt:
+    zh-CN: 解释自然垄断与价格监管的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Natural monopoly and price regulation and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 自然垄断发生在相关市场需求范围内平均成本持续下降，使一家企业供给全部市场比多家重复建设成本更低。
+      大额固定网络成本可被分摊；单一供应者有成本优势；监管需平衡效率与成本回收 原创例：重复铺设供水管网可能浪费成本。P=MC
+      定价可提高配置效率，但成本下降区间 MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。
+    en: "Natural monopoly exists when average cost declines over the relevant demand
+      range, so one supplier can serve the market at lower cost than several
+      duplicating infrastructure. Large fixed network costs can be spread; a
+      single supplier has a cost advantage; regulation balances efficiency with
+      cost recovery Illustrative example: duplicating water pipes can waste
+      resources. P=MC pricing improves allocative efficiency, but MC<ATC in a
+      declining-cost range can create losses requiring subsidy. P=ATC recovers
+      cost without necessarily achieving allocative efficiency."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 平均成本
+        en: average cost
+      alternatives:
+        zh-CN:
+          - 平均成本
+          - 大额固定网络成本可被分摊
+        en:
+          - average cost
+          - Large fixed network costs can be spread
+    - id: mechanism-2
+      label:
+        zh-CN: 边际成本
+        en: marginal cost
+      alternatives:
+        zh-CN:
+          - 边际成本
+          - 单一供应者有成本优势
+        en:
+          - marginal cost
+          - a single supplier has a cost advantage
+    - id: mechanism-3
+      label:
+        zh-CN: 监管
+        en: regulation
+      alternatives:
+        zh-CN:
+          - 监管
+          - 监管需平衡效率与成本回收
+        en:
+          - regulation
+          - regulation balances efficiency with cost recovery
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

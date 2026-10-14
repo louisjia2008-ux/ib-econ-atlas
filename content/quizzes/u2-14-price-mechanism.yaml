@@ -1,0 +1,101 @@
+- id: u2-14-price-mechanism-flash-1
+  knowledgePointId: u2-14-price-mechanism
+  type: flashcard
+  prompt:
+    zh-CN: 解释“价格的信号、激励与配给”，并说明一个关键条件。
+    en: Explain Price signals, incentives and rationing and state one important
+      condition.
+  answer:
+    zh-CN: 价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。
+    en: Prices coordinate decentralised decisions by signalling relative scarcity,
+      changing incentives and rationing scarce goods according to willingness
+      and ability to pay.
+  explanation:
+    zh-CN: 高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。
+    en: A high price reflects relative market scarcity, not a direct measure of
+      urgency of human need.
+- id: u2-14-price-mechanism-mcq-1
+  knowledgePointId: u2-14-price-mechanism
+  type: mcq
+  prompt:
+    zh-CN: 涨价鼓励企业增产体现哪项功能？
+    en: A higher price encouraging firms to expand illustrates which function?
+  options:
+    - id: a
+      zh-CN: 消除所有稀缺
+      en: Eliminate all scarcity
+    - id: b
+      zh-CN: 激励
+      en: Incentive
+    - id: c
+      zh-CN: 保证收入平等
+      en: Guarantee equal income
+    - id: d
+      zh-CN: 固定生产配额
+      en: Fix production quotas
+  correctOptionId: b
+  explanation:
+    zh-CN: 激励。 原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。
+      高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。
+    en: "Incentive. Illustrative example: rain damages vegetables and prices rise,
+      encouraging other farms to deliver more and buyers to economise. Ability
+      to pay affects access, so efficient rationing and equitable distribution
+      are distinct criteria. A high price reflects relative market scarcity, not
+      a direct measure of urgency of human need."
+- id: u2-14-price-mechanism-short-1
+  knowledgePointId: u2-14-price-mechanism
+  type: short-answer
+  prompt:
+    zh-CN: 解释价格的信号、激励与配给的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Price signals, incentives and rationing and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 价格通过传递相对稀缺信息、改变买卖激励及按支付意愿与能力分配有限商品，协调分散决策。
+      需求相对供给增加；涨价传递稀缺信号；生产者扩张且部分消费者减少购买
+      原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。
+    en: "Prices coordinate decentralised decisions by signalling relative scarcity,
+      changing incentives and rationing scarce goods according to willingness
+      and ability to pay. Demand rises relative to supply; a higher price
+      signals scarcity; producers expand while some buyers reduce purchases
+      Illustrative example: rain damages vegetables and prices rise, encouraging
+      other farms to deliver more and buyers to economise. Ability to pay
+      affects access, so efficient rationing and equitable distribution are
+      distinct criteria."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 信号
+        en: signal
+      alternatives:
+        zh-CN:
+          - 信号
+          - 需求相对供给增加
+        en:
+          - signal
+          - Demand rises relative to supply
+    - id: mechanism-2
+      label:
+        zh-CN: 激励
+        en: incentive
+      alternatives:
+        zh-CN:
+          - 激励
+          - 涨价传递稀缺信号
+        en:
+          - incentive
+          - a higher price signals scarcity
+    - id: mechanism-3
+      label:
+        zh-CN: 配给
+        en: rationing
+      alternatives:
+        zh-CN:
+          - 配给
+          - 生产者扩张且部分消费者减少购买
+        en:
+          - rationing
+          - producers expand while some buyers reduce purchases
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

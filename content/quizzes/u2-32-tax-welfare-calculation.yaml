@@ -1,0 +1,102 @@
+- id: u2-32-tax-welfare-calculation-flash-1
+  knowledgePointId: u2-32-tax-welfare-calculation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“税补的福利计算”，并说明一个关键条件。
+    en: Explain Tax and subsidy welfare calculations and state one important
+      condition.
+  answer:
+    zh-CN: 无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。
+    en: In a linear competitive model without externalities, a per-unit tax removes
+      beneficial trades and creates deadweight loss. Rectangular tax revenue is
+      a transfer, not itself a net social loss.
+  explanation:
+    zh-CN: 三角形公式需要线性曲线等假设，且政府收入并非全部损失。
+    en: The triangle formula needs assumptions such as linear curves; government
+      revenue is not entirely lost welfare.
+- id: u2-32-tax-welfare-calculation-mcq-1
+  knowledgePointId: u2-32-tax-welfare-calculation
+  type: mcq
+  prompt:
+    zh-CN: 线性无外部性市场税额 6，数量减少 10，DWL 多少？
+    en: In a linear no-externality market, tax is six and quantity falls ten. What
+      is DWL?
+  options:
+    - id: a
+      zh-CN: "60"
+      en: "60"
+    - id: b
+      zh-CN: "6"
+      en: "6"
+    - id: c
+      zh-CN: "10"
+      en: "10"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: d
+  explanation:
+    zh-CN: 30。 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为
+      4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。 三角形公式需要线性曲线等假设，且政府收入并非全部损失。
+    en: "30. Illustrative example: tax is four and output falls from 100 to 80. With
+      linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects
+      pollution, this no-externality formula cannot directly establish its net
+      welfare effect. The triangle formula needs assumptions such as linear
+      curves; government revenue is not entirely lost welfare."
+- id: u2-32-tax-welfare-calculation-short-1
+  knowledgePointId: u2-32-tax-welfare-calculation
+  type: short-answer
+  prompt:
+    zh-CN: 解释税补的福利计算的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Tax and subsidy welfare calculations and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 无外部性的线性竞争模型中，单位税减少有效交易并产生无谓损失；矩形税收收入是转移，不能与净社会损失混同。 税使数量由 Q0 降至
+      Qt；消失单位原有利益超过成本；三角形面积给出无谓损失 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为
+      ½×4×20=40，税收为 4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。
+    en: "In a linear competitive model without externalities, a per-unit tax removes
+      beneficial trades and creates deadweight loss. Rectangular tax revenue is
+      a transfer, not itself a net social loss. Tax lowers quantity from Q0 to
+      Qt; lost units previously had benefit above cost; the triangle measures
+      deadweight loss Illustrative example: tax is four and output falls from
+      100 to 80. With linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If
+      the tax corrects pollution, this no-externality formula cannot directly
+      establish its net welfare effect."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 三角形
+        en: triangle
+      alternatives:
+        zh-CN:
+          - 三角形
+          - 税使数量由 Q0 降至 Qt
+        en:
+          - triangle
+          - Tax lowers quantity from Q0 to Qt
+    - id: mechanism-2
+      label:
+        zh-CN: 交易减少
+        en: lost trades
+      alternatives:
+        zh-CN:
+          - 交易减少
+          - 消失单位原有利益超过成本
+        en:
+          - lost trades
+          - lost units previously had benefit above cost
+    - id: mechanism-3
+      label:
+        zh-CN: 转移
+        en: transfer
+      alternatives:
+        zh-CN:
+          - 转移
+          - 三角形面积给出无谓损失
+        en:
+          - transfer
+          - the triangle measures deadweight loss
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

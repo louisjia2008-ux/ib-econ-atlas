@@ -1,0 +1,41 @@
+id: u2-38-common-resources
+slug: common-resources
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.1"
+    pages:
+      - 144
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+terms:
+  - 共同资源与公地悲剧
+  - Common resources and the tragedy of the commons
+  - 竞争性
+  - rival
+  - 排他
+  - exclusion
+  - 过度开采
+  - overexploitation
+synonyms:
+  zh-CN:
+    - 竞争性
+    - 排他
+    - 过度开采
+  en:
+    - rival
+    - exclusion
+    - overexploitation
+diagramIds:
+  - goods-matrix
+quizIds:
+  - u2-38-common-resources-flash-1
+  - u2-38-common-resources-mcq-1
+  - u2-38-common-resources-short-1

@@ -1,0 +1,101 @@
+- id: u2-51-profit-maximisation-flash-1
+  knowledgePointId: u2-51-profit-maximisation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“利润最大化与停产”，并说明一个关键条件。
+    en: Explain Profit maximisation and shutdown and state one important condition.
+  answer:
+    zh-CN: 内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。
+    en: An interior profit maximum normally has MR=MC with MC crossing MR from
+      below. A price taker normally shuts down in the short run when price is
+      below AVC, avoiding additional variable losses.
+  explanation:
+    zh-CN: 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。
+    en: A loss does not necessarily require short-run shutdown; MR=MC does not
+      guarantee positive profit.
+- id: u2-51-profit-maximisation-mcq-1
+  knowledgePointId: u2-51-profit-maximisation
+  type: mcq
+  prompt:
+    zh-CN: P=8、AVC=6、ATC=10，竞争企业短期最可能怎样？
+    en: P=8, AVC=6, ATC=10. What is a competitive firm's likely short-run choice?
+  options:
+    - id: a
+      zh-CN: 因为亏损必停产
+      en: Must shut down because of the loss
+    - id: b
+      zh-CN: 获得每单位利润 2
+      en: Earns profit of two per unit
+    - id: c
+      zh-CN: 可继续生产并承担亏损
+      en: May operate despite a loss
+    - id: d
+      zh-CN: 固定成本消失
+      en: Fixed costs disappear
+  correctOptionId: c
+  explanation:
+    zh-CN: 可继续生产并承担亏损。 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若
+      P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。
+    en: "May operate despite a loss. Illustrative example: P=9, AVC=7 and ATC=11
+      give a loss, but output contributes two per unit toward fixed cost, so
+      short-run operation can be rational. At P=6<AVC production adds to losses.
+      Long-run exit also compares total opportunity costs. A loss does not
+      necessarily require short-run shutdown; MR=MC does not guarantee positive
+      profit."
+- id: u2-51-profit-maximisation-short-1
+  knowledgePointId: u2-51-profit-maximisation
+  type: short-answer
+  prompt:
+    zh-CN: 解释利润最大化与停产的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Profit maximisation and shutdown and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 内部利润最大点通常满足 MR=MC 且 MC 从下方穿过 MR；短期价格低于 AVC 时，价格接受者通常选择停产以避免进一步可变损失。 MR>MC
+      时增产提高利润；MC>MR 时减产提高利润；比较可变成本覆盖以判断是否继续生产 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位
+      2 去支付固定成本，短期可继续。若 P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。
+    en: "An interior profit maximum normally has MR=MC with MC crossing MR from
+      below. A price taker normally shuts down in the short run when price is
+      below AVC, avoiding additional variable losses. When MR>MC expansion
+      raises profit; when MC>MR contraction raises profit; compare coverage of
+      variable costs to decide whether to operate Illustrative example: P=9,
+      AVC=7 and ATC=11 give a loss, but output contributes two per unit toward
+      fixed cost, so short-run operation can be rational. At P=6<AVC production
+      adds to losses. Long-run exit also compares total opportunity costs."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: MR=MC
+        en: MR=MC
+      alternatives:
+        zh-CN:
+          - MR=MC
+          - MR>MC 时增产提高利润
+        en:
+          - MR=MC
+          - When MR>MC expansion raises profit
+    - id: mechanism-2
+      label:
+        zh-CN: 可变成本
+        en: variable cost
+      alternatives:
+        zh-CN:
+          - 可变成本
+          - MC>MR 时减产提高利润
+        en:
+          - variable cost
+          - when MC>MR contraction raises profit
+    - id: mechanism-3
+      label:
+        zh-CN: 停产
+        en: shutdown
+      alternatives:
+        zh-CN:
+          - 停产
+          - 比较可变成本覆盖以判断是否继续生产
+        en:
+          - shutdown
+          - compare coverage of variable costs to decide whether to operate
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

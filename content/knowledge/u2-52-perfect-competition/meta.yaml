@@ -1,0 +1,42 @@
+id: u2-52-perfect-competition
+slug: perfect-competition
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.3"
+    pages:
+      - 207
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-49-scale
+terms:
+  - 完全竞争
+  - Perfect competition
+  - 价格接受
+  - price taker
+  - 自由进入
+  - free entry
+  - 正常利润
+  - normal profit
+synonyms:
+  zh-CN:
+    - 价格接受
+    - 自由进入
+    - 正常利润
+  en:
+    - price taker
+    - free entry
+    - normal profit
+diagramIds:
+  - perfect-competition
+quizIds:
+  - u2-52-perfect-competition-flash-1
+  - u2-52-perfect-competition-mcq-1
+  - u2-52-perfect-competition-short-1

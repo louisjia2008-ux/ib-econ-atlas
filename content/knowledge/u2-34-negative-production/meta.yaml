@@ -1,0 +1,41 @@
+id: u2-34-negative-production
+slug: negative-production
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.3"
+    pages:
+      - 150
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-35-negative-consumption
+  - u2-36-positive-production
+terms:
+  - 负生产外部性
+  - Negative production externalities
+  - 第三方
+  - third parties
+  - MSC
+  - MSC
+  - 过度生产
+  - overproduction
+synonyms:
+  zh-CN:
+    - 第三方
+    - MSC
+    - 过度生产
+  en:
+    - third parties
+    - MSC
+    - overproduction
+diagramIds:
+  - negative-production
+quizIds:
+  - u2-34-negative-production-flash-1
+  - u2-34-negative-production-mcq-1
+  - u2-34-negative-production-short-1

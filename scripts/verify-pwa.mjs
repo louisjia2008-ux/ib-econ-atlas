@@ -13,6 +13,10 @@ if (!fs.existsSync(manifestPath)) failures.push("dist/manifest.webmanifest was n
 if (fs.existsSync(swPath)) {
   const worker = fs.readFileSync(swPath, "utf8");
   if (!worker.includes("precacheAndRoute")) failures.push("Service worker does not contain a precache route.");
+  const builtScripts = fs.readdirSync(path.join(dist, "assets")).filter((file) => file.endsWith(".js"));
+  for (const file of builtScripts) {
+    if (!worker.includes(`assets/${file}`)) failures.push(`Built script assets/${file} is missing from precache.`);
+  }
   if (/indexedDB\s*\.\s*deleteDatabase|deleteDatabase\s*\(/.test(worker)) failures.push("Service worker contains IndexedDB deletion code.");
   if (/OPENAI|OWNER_ACCESS_TOKEN|\/ask["'`]/.test(worker)) failures.push("Service worker unexpectedly contains AI credentials or an AI runtime cache route.");
 }

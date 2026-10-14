@@ -1,0 +1,41 @@
+id: u2-07-supply-shifts
+slug: supply-shifts
+section: "2.2"
+level: core
+syllabusRefs:
+  - 2.2 Supply
+textbookRefs:
+  - chapter: "2"
+    section: "2.3"
+    pages:
+      - 49
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u2-06-supply
+  - u2-08-market-supply
+  - u2-09-diminishing-returns
+terms:
+  - 供给的非价格决定因素
+  - Non-price determinants of supply
+  - 成本
+  - cost
+  - 每个价格
+  - every price
+  - 供给
+  - supply
+synonyms:
+  zh-CN:
+    - 成本
+    - 每个价格
+    - 供给
+  en:
+    - cost
+    - every price
+    - supply
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-07-supply-shifts-flash-1
+  - u2-07-supply-shifts-mcq-1
+  - u2-07-supply-shifts-short-1

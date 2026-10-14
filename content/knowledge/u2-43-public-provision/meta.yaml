@@ -1,0 +1,39 @@
+id: u2-43-public-provision
+slug: public-provision
+section: "2.9"
+level: core
+syllabusRefs:
+  - 2.9 Public goods
+textbookRefs:
+  - chapter: "6"
+    section: "6.3"
+    pages:
+      - 184
+prerequisites:
+  - u2-33-market-failure
+related:
+  - u2-41-public-goods
+  - u2-42-free-rider
+terms:
+  - 公共物品的提供与评价
+  - Provision and evaluation of public goods
+  - 融资
+  - financing
+  - 机会成本
+  - opportunity cost
+  - 监督
+  - monitoring
+synonyms:
+  zh-CN:
+    - 融资
+    - 机会成本
+    - 监督
+  en:
+    - financing
+    - opportunity cost
+    - monitoring
+diagramIds: []
+quizIds:
+  - u2-43-public-provision-flash-1
+  - u2-43-public-provision-mcq-1
+  - u2-43-public-provision-short-1

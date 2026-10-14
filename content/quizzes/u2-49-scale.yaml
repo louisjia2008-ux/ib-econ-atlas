@@ -1,0 +1,104 @@
+- id: u2-49-scale-flash-1
+  knowledgePointId: u2-49-scale
+  type: flashcard
+  prompt:
+    zh-CN: 解释“规模经济与规模不经济”，并说明一个关键条件。
+    en: Explain Economies and diseconomies of scale and state one important
+      condition.
+  answer:
+    zh-CN: 长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。
+    en: In the long run, with all inputs variable, expansion that lowers long-run
+      average cost is an economy of scale; expansion that raises it is a
+      diseconomy.
+  explanation:
+    zh-CN: 规模经济看平均成本，不是总成本下降。
+    en: Economies of scale concerns average cost, not necessarily falling total
+      cost.
+- id: u2-49-scale-mcq-1
+  knowledgePointId: u2-49-scale
+  type: mcq
+  prompt:
+    zh-CN: 产量增加、LRAC 下降，应称为什么？
+    en: Output expands and LRAC falls. What is this called?
+  options:
+    - id: a
+      zh-CN: 规模经济
+      en: Economies of scale
+    - id: b
+      zh-CN: 规模不经济
+      en: Diseconomies of scale
+    - id: c
+      zh-CN: 总产量减少
+      en: Falling total output
+    - id: d
+      zh-CN: 需求完全无弹性
+      en: Perfectly inelastic demand
+  correctOptionId: a
+  explanation:
+    zh-CN: 规模经济。
+      原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。
+      规模经济看平均成本，不是总成本下降。
+    en: "Economies of scale. Illustrative example: a large carrier can use
+      specialised maintenance teams to lower cost per delivery, but complex
+      regional management can increase coordination costs. This is long-run
+      analysis with all inputs variable, not diminishing returns from adding
+      workers to a fixed plant. Economies of scale concerns average cost, not
+      necessarily falling total cost."
+- id: u2-49-scale-short-1
+  knowledgePointId: u2-49-scale
+  type: short-answer
+  prompt:
+    zh-CN: 解释规模经济与规模不经济的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Economies and diseconomies of scale and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 长期所有投入可变时，产量扩张使长期平均成本下降为规模经济，上升为规模不经济。
+      扩大生产规模允许专业化和分摊；管理和沟通复杂度也上升；净影响决定长期平均成本
+      原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。
+    en: "In the long run, with all inputs variable, expansion that lowers long-run
+      average cost is an economy of scale; expansion that raises it is a
+      diseconomy. Larger scale permits specialisation and spreading costs;
+      management and communication grow more complex; the net effect determines
+      long-run average cost Illustrative example: a large carrier can use
+      specialised maintenance teams to lower cost per delivery, but complex
+      regional management can increase coordination costs. This is long-run
+      analysis with all inputs variable, not diminishing returns from adding
+      workers to a fixed plant."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 长期
+        en: long run
+      alternatives:
+        zh-CN:
+          - 长期
+          - 扩大生产规模允许专业化和分摊
+        en:
+          - long run
+          - Larger scale permits specialisation and spreading costs
+    - id: mechanism-2
+      label:
+        zh-CN: 平均成本
+        en: average cost
+      alternatives:
+        zh-CN:
+          - 平均成本
+          - 管理和沟通复杂度也上升
+        en:
+          - average cost
+          - management and communication grow more complex
+    - id: mechanism-3
+      label:
+        zh-CN: 专业化
+        en: specialisation
+      alternatives:
+        zh-CN:
+          - 专业化
+          - 净影响决定长期平均成本
+        en:
+          - specialisation
+          - the net effect determines long-run average cost
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

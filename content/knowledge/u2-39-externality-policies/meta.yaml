@@ -1,0 +1,41 @@
+id: u2-39-externality-policies
+slug: externality-policies
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.3"
+    pages:
+      - 154
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+terms:
+  - 外部性政策与可持续性
+  - Externality policies and sustainability
+  - 内部化
+  - internalise
+  - 监测
+  - monitoring
+  - 可持续
+  - sustainable
+synonyms:
+  zh-CN:
+    - 内部化
+    - 监测
+    - 可持续
+  en:
+    - internalise
+    - monitoring
+    - sustainable
+diagramIds:
+  - negative-production
+quizIds:
+  - u2-39-externality-policies-flash-1
+  - u2-39-externality-policies-mcq-1
+  - u2-39-externality-policies-short-1

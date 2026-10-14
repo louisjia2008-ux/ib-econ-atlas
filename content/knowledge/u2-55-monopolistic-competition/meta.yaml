@@ -1,0 +1,42 @@
+id: u2-55-monopolistic-competition
+slug: monopolistic-competition
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.5"
+    pages:
+      - 225
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-49-scale
+terms:
+  - 垄断竞争
+  - Monopolistic competition
+  - 差异化
+  - differentiated
+  - 进入
+  - entry
+  - 剩余产能
+  - excess capacity
+synonyms:
+  zh-CN:
+    - 差异化
+    - 进入
+    - 剩余产能
+  en:
+    - differentiated
+    - entry
+    - excess capacity
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-55-monopolistic-competition-flash-1
+  - u2-55-monopolistic-competition-mcq-1
+  - u2-55-monopolistic-competition-short-1

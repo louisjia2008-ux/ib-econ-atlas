@@ -1,0 +1,39 @@
+id: u2-17-biases-nudges
+slug: biases-nudges
+section: "2.4"
+level: hl
+syllabusRefs:
+  - 2.4 Critique of maximizing behaviour
+textbookRefs:
+  - chapter: "2"
+    section: "2.6"
+    pages:
+      - 72
+prerequisites:
+  - u1-24-economic-models
+related:
+  - u2-16-bounded-rationality
+  - u2-18-firm-objectives
+terms:
+  - 行为偏差与助推
+  - Behavioural biases and nudges
+  - 默认
+  - default
+  - 选择环境
+  - choice architecture
+  - 退出
+  - opt-out
+synonyms:
+  zh-CN:
+    - 默认
+    - 选择环境
+    - 退出
+  en:
+    - default
+    - choice architecture
+    - opt-out
+diagramIds: []
+quizIds:
+  - u2-17-biases-nudges-flash-1
+  - u2-17-biases-nudges-mcq-1
+  - u2-17-biases-nudges-short-1

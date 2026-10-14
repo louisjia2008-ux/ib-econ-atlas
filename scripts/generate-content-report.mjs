@@ -16,7 +16,7 @@ const ids = listImplementedIds();
 const points = ids.map((id) => loadKnowledgePoint(id));
 
 const sectionCounts = Object.fromEntries(
-  ["1.1", "1.2", "1.3", "1.4", "1.5"].map((section) => [
+  [...new Set(manifest.entries.map((entry) => entry.section))].map((section) => [
     section,
     points.filter(({ meta }) => meta.section === section).length,
   ]),
@@ -61,7 +61,7 @@ const coverage = `# Content coverage report
 
 This report is generated from the checked-in source content by \`npm run content:report\`. Do not edit it by hand.
 
-## Unit 1 release slice
+## Published Units 1 and 2
 
 | Measure | Result |
 | --- | ---: |

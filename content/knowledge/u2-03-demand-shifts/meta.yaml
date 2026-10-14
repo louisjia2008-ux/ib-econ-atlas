@@ -1,0 +1,42 @@
+id: u2-03-demand-shifts
+slug: demand-shifts
+section: "2.1"
+level: core
+syllabusRefs:
+  - 2.1 Demand
+textbookRefs:
+  - chapter: "2"
+    section: "2.2"
+    pages:
+      - 43
+prerequisites:
+  - u1-04-scarcity
+  - u1-14-opportunity-cost
+related:
+  - u2-01-demand
+  - u2-02-law-of-demand
+  - u2-04-market-demand
+terms:
+  - 需求的非价格决定因素
+  - Non-price determinants of demand
+  - 收入
+  - income
+  - 每个价格
+  - every price
+  - 右移
+  - right
+synonyms:
+  zh-CN:
+    - 收入
+    - 每个价格
+    - 右移
+  en:
+    - income
+    - every price
+    - right
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-03-demand-shifts-flash-1
+  - u2-03-demand-shifts-mcq-1
+  - u2-03-demand-shifts-short-1

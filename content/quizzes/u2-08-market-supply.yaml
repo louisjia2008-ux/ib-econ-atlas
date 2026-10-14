@@ -1,0 +1,98 @@
+- id: u2-08-market-supply-flash-1
+  knowledgePointId: u2-08-market-supply
+  type: flashcard
+  prompt:
+    zh-CN: 解释“市场供给与时间尺度”，并说明一个关键条件。
+    en: Explain Market supply and time horizons and state one important condition.
+  answer:
+    zh-CN: 市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。
+    en: Market supply horizontally sums producers' quantities at each common price.
+      The time needed to adjust capacity constrains that response.
+  explanation:
+    zh-CN: 短期和长期不是统一的月数，而是投入是否可以全部改变。
+    en: Short and long run are defined by input flexibility, not universal calendar
+      durations.
+- id: u2-08-market-supply-mcq-1
+  knowledgePointId: u2-08-market-supply
+  type: mcq
+  prompt:
+    zh-CN: 两厂同价供给 15 和 25 单位，市场供给量为多少？
+    en: Two firms supply 15 and 25 units at a common price. What is market quantity?
+  options:
+    - id: a
+      zh-CN: "20"
+      en: "20"
+    - id: b
+      zh-CN: "25"
+      en: "25"
+    - id: c
+      zh-CN: "375"
+      en: "375"
+    - id: d
+      zh-CN: "40"
+      en: "40"
+  correctOptionId: d
+  explanation:
+    zh-CN: 40。 原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50
+      台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。 短期和长期不是统一的月数，而是投入是否可以全部改变。
+    en: "40. Illustrative example: two firms supply 30 and 20 units at the same
+      price, yielding market supply of 50. Buildings may be fixed for a month
+      but adjustable over a year, so a short-run limit need not be permanent.
+      Short and long run are defined by input flexibility, not universal
+      calendar durations."
+- id: u2-08-market-supply-short-1
+  knowledgePointId: u2-08-market-supply
+  type: short-answer
+  prompt:
+    zh-CN: 解释市场供给与时间尺度的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Market supply and time horizons and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 市场供给是在同一价格下各生产者供给量的横向加总；生产能力调整所需时间会限制这种反应。
+      短期部分投入固定；生产者只能调整可变投入；长期可以扩建和进入市场 原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50
+      台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。
+    en: "Market supply horizontally sums producers' quantities at each common price.
+      The time needed to adjust capacity constrains that response. Some inputs
+      are fixed in the short run; firms adjust variable inputs; in the long run
+      capacity and market entry can change Illustrative example: two firms
+      supply 30 and 20 units at the same price, yielding market supply of 50.
+      Buildings may be fixed for a month but adjustable over a year, so a
+      short-run limit need not be permanent."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 同价
+        en: common price
+      alternatives:
+        zh-CN:
+          - 同价
+          - 短期部分投入固定
+        en:
+          - common price
+          - Some inputs are fixed in the short run
+    - id: mechanism-2
+      label:
+        zh-CN: 加总
+        en: sum
+      alternatives:
+        zh-CN:
+          - 加总
+          - 生产者只能调整可变投入
+        en:
+          - sum
+          - firms adjust variable inputs
+    - id: mechanism-3
+      label:
+        zh-CN: 固定
+        en: fixed
+      alternatives:
+        zh-CN:
+          - 固定
+          - 长期可以扩建和进入市场
+        en:
+          - fixed
+          - in the long run capacity and market entry can change
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

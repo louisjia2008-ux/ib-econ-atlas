@@ -1,0 +1,101 @@
+- id: u2-23-elasticity-extremes-flash-1
+  knowledgePointId: u2-23-elasticity-extremes
+  type: flashcard
+  prompt:
+    zh-CN: 解释“弹性、斜率与收入变化”，并说明一个关键条件。
+    en: Explain Elasticity, slope and changing income and state one important
+      condition.
+  answer:
+    zh-CN: 同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。
+    en: A straight demand curve has constant slope but different PED at different
+      points. YED also helps analyse how income growth changes demand across
+      industries.
+  explanation:
+    zh-CN: 不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。
+    en: Visual steepness with different axis scales cannot directly establish
+      relative elasticity.
+- id: u2-23-elasticity-extremes-mcq-1
+  knowledgePointId: u2-23-elasticity-extremes
+  type: mcq
+  prompt:
+    zh-CN: 直线需求曲线的斜率恒定，PED 是否也恒定？
+    en: A straight demand curve has constant slope. Is PED constant too?
+  options:
+    - id: a
+      zh-CN: 是，两者相同
+      en: Yes, they are identical
+    - id: b
+      zh-CN: PED 恒为零
+      en: PED is always zero
+    - id: c
+      zh-CN: 否，P/Q 改变
+      en: No, P/Q changes
+    - id: d
+      zh-CN: PED 恒为一
+      en: PED is always one
+  correctOptionId: c
+  explanation:
+    zh-CN: 否，P/Q 改变。 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时
+      PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。
+      不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。
+    en: "No, P/Q changes. Illustrative example: on Q=100−2P, PED is -0.25 at P=10,
+      Q=80 and -4 at P=40, Q=20. The function illustrates slope versus
+      elasticity; real demand need not be linear. High-YED services may expand
+      faster as incomes grow. Visual steepness with different axis scales cannot
+      directly establish relative elasticity."
+- id: u2-23-elasticity-extremes-short-1
+  knowledgePointId: u2-23-elasticity-extremes
+  type: short-answer
+  prompt:
+    zh-CN: 解释弹性、斜率与收入变化的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Elasticity, slope and changing income and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。 弹性公式包含价格与数量的比例；曲线上位置改变
+      P/Q；同一斜率产生不同弹性 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时
+      PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。
+    en: "A straight demand curve has constant slope but different PED at different
+      points. YED also helps analyse how income growth changes demand across
+      industries. Elasticity contains the ratio of price to quantity; location
+      changes P/Q; the same slope therefore produces different elasticity
+      Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at
+      P=40, Q=20. The function illustrates slope versus elasticity; real demand
+      need not be linear. High-YED services may expand faster as incomes grow."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 百分比
+        en: percentage
+      alternatives:
+        zh-CN:
+          - 百分比
+          - 弹性公式包含价格与数量的比例
+        en:
+          - percentage
+          - Elasticity contains the ratio of price to quantity
+    - id: mechanism-2
+      label:
+        zh-CN: P/Q
+        en: P/Q
+      alternatives:
+        zh-CN:
+          - P/Q
+          - 曲线上位置改变 P/Q
+        en:
+          - P/Q
+          - location changes P/Q
+    - id: mechanism-3
+      label:
+        zh-CN: 斜率
+        en: slope
+      alternatives:
+        zh-CN:
+          - 斜率
+          - 同一斜率产生不同弹性
+        en:
+          - slope
+          - the same slope therefore produces different elasticity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

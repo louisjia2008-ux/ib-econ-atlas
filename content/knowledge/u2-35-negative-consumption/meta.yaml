@@ -1,0 +1,41 @@
+id: u2-35-negative-consumption
+slug: negative-consumption
+section: "2.8"
+level: core
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.4"
+    pages:
+      - 164
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-36-positive-production
+terms:
+  - 负消费外部性
+  - Negative consumption externalities
+  - 第三方
+  - third party
+  - MSB
+  - MSB
+  - 过度消费
+  - overconsumption
+synonyms:
+  zh-CN:
+    - 第三方
+    - MSB
+    - 过度消费
+  en:
+    - third party
+    - MSB
+    - overconsumption
+diagramIds:
+  - negative-consumption
+quizIds:
+  - u2-35-negative-consumption-flash-1
+  - u2-35-negative-consumption-mcq-1
+  - u2-35-negative-consumption-short-1

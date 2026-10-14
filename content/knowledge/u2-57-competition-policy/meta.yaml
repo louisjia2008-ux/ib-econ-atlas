@@ -1,0 +1,42 @@
+id: u2-57-competition-policy
+slug: competition-policy
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.7"
+    pages:
+      - 239
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-49-scale
+terms:
+  - 竞争政策与市场势力评价
+  - Competition policy and evaluation of market power
+  - 竞争
+  - competition
+  - 规模效率
+  - scale efficiency
+  - 监管
+  - regulation
+synonyms:
+  zh-CN:
+    - 竞争
+    - 规模效率
+    - 监管
+  en:
+    - competition
+    - scale efficiency
+    - regulation
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-57-competition-policy-flash-1
+  - u2-57-competition-policy-mcq-1
+  - u2-57-competition-policy-short-1

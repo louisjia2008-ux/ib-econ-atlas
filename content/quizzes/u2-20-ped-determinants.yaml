@@ -1,0 +1,99 @@
+- id: u2-20-ped-determinants-flash-1
+  knowledgePointId: u2-20-ped-determinants
+  type: flashcard
+  prompt:
+    zh-CN: 解释“PED 的决定因素”，并说明一个关键条件。
+    en: Explain Determinants of PED and state one important condition.
+  answer:
+    zh-CN: 替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。
+    en: Availability of substitutes, necessity, share of income and time to adjust
+      influence consumers' responsiveness to price.
+  explanation:
+    zh-CN: 必需品通常缺乏弹性，但并非需求量完全不变。
+    en: Necessities are often inelastic, but their quantity demanded is not
+      necessarily completely fixed.
+- id: u2-20-ped-determinants-mcq-1
+  knowledgePointId: u2-20-ped-determinants
+  type: mcq
+  prompt:
+    zh-CN: 其他条件相同，增加近似替代品通常怎样改变 PED？
+    en: Other conditions equal, more close substitutes normally do what to PED?
+  options:
+    - id: a
+      zh-CN: 降至零
+      en: Reduce it to zero
+    - id: b
+      zh-CN: 变成供给弹性
+      en: Turn it into PES
+    - id: c
+      zh-CN: 必然保持不变
+      en: Necessarily leave it unchanged
+    - id: d
+      zh-CN: 提高绝对值
+      en: Increase its magnitude
+  correctOptionId: d
+  explanation:
+    zh-CN: 提高绝对值。
+      原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。
+      必需品通常缺乏弹性，但并非需求量完全不变。
+    en: "Increase its magnitude. Illustrative example: one bottled-water brand has
+      many substitutes, whereas drinking water as a whole has fewer. Narrowly
+      defined markets may be more elastic than broad ones. Tax evaluation should
+      distinguish short-run habits from long-run adaptation. Necessities are
+      often inelastic, but their quantity demanded is not necessarily completely
+      fixed."
+- id: u2-20-ped-determinants-short-1
+  knowledgePointId: u2-20-ped-determinants
+  type: short-answer
+  prompt:
+    zh-CN: 解释PED 的决定因素的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Determinants of PED and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 替代品的可得性、必要程度、收入占比和调整时间会影响消费者的价格反应。 替代品更多或调整时间更长；消费者更容易改变购买方式；需求通常更富有弹性
+      原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。
+    en: "Availability of substitutes, necessity, share of income and time to adjust
+      influence consumers' responsiveness to price. More substitutes or more
+      adjustment time; consumers can change purchases more easily; demand is
+      normally more elastic Illustrative example: one bottled-water brand has
+      many substitutes, whereas drinking water as a whole has fewer. Narrowly
+      defined markets may be more elastic than broad ones. Tax evaluation should
+      distinguish short-run habits from long-run adaptation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 替代品
+        en: substitutes
+      alternatives:
+        zh-CN:
+          - 替代品
+          - 替代品更多或调整时间更长
+        en:
+          - substitutes
+          - More substitutes or more adjustment time
+    - id: mechanism-2
+      label:
+        zh-CN: 时间
+        en: time
+      alternatives:
+        zh-CN:
+          - 时间
+          - 消费者更容易改变购买方式
+        en:
+          - time
+          - consumers can change purchases more easily
+    - id: mechanism-3
+      label:
+        zh-CN: 反应
+        en: responsiveness
+      alternatives:
+        zh-CN:
+          - 反应
+          - 需求通常更富有弹性
+        en:
+          - responsiveness
+          - demand is normally more elastic
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

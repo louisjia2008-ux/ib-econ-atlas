@@ -1,0 +1,101 @@
+- id: u2-52-perfect-competition-flash-1
+  knowledgePointId: u2-52-perfect-competition
+  type: flashcard
+  prompt:
+    zh-CN: 解释“完全竞争”，并说明一个关键条件。
+    en: Explain Perfect competition and state one important condition.
+  answer:
+    zh-CN: 完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。
+    en: Perfect competition assumes many firms, homogeneous goods, adequate
+      information and free entry/exit. Each firm takes the market price, giving
+      P=AR=MR.
+  explanation:
+    zh-CN: 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。
+    en: The firm's horizontal demand curve differs from the downward-sloping demand
+      curve of the whole market.
+- id: u2-52-perfect-competition-mcq-1
+  knowledgePointId: u2-52-perfect-competition
+  type: mcq
+  prompt:
+    zh-CN: 完全竞争企业的 MR 与价格关系是什么？
+    en: What is the relation between MR and price for a perfectly competitive firm?
+  options:
+    - id: a
+      zh-CN: MR 恒为零
+      en: MR is always zero
+    - id: b
+      zh-CN: MR 必大于 P
+      en: MR must exceed P
+    - id: c
+      zh-CN: 企业可任意定价
+      en: The firm can set any price
+    - id: d
+      zh-CN: MR=P
+      en: MR=P
+  correctOptionId: d
+  explanation:
+    zh-CN: MR=P。 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC
+      配置效率，但信息、产品同质性等条件在现实中可能不成立。 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。
+    en: "MR=P. Illustrative example: supernormal profit attracts entry, expanding
+      market supply and reducing price until P=min ATC. The long-run model
+      achieves productive efficiency and P=MC allocative efficiency, but
+      homogeneity and information assumptions may fail in practice. The firm's
+      horizontal demand curve differs from the downward-sloping demand curve of
+      the whole market."
+- id: u2-52-perfect-competition-short-1
+  knowledgePointId: u2-52-perfect-competition
+  type: short-answer
+  prompt:
+    zh-CN: 解释完全竞争的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Perfect competition and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 完全竞争模型假设大量企业、同质产品、充分信息和自由进入退出；个别企业接受市场价格，因此 P=AR=MR。 个别企业不能改变市场价；企业按
+      MR=MC 选择产量；长期进入退出消除超额经济利润 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min
+      ATC。模型长期同时体现生产效率与 P=MC 配置效率，但信息、产品同质性等条件在现实中可能不成立。
+    en: "Perfect competition assumes many firms, homogeneous goods, adequate
+      information and free entry/exit. Each firm takes the market price, giving
+      P=AR=MR. A firm cannot influence market price; it chooses output at MR=MC;
+      long-run entry and exit remove supernormal economic profit Illustrative
+      example: supernormal profit attracts entry, expanding market supply and
+      reducing price until P=min ATC. The long-run model achieves productive
+      efficiency and P=MC allocative efficiency, but homogeneity and information
+      assumptions may fail in practice."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 价格接受
+        en: price taker
+      alternatives:
+        zh-CN:
+          - 价格接受
+          - 个别企业不能改变市场价
+        en:
+          - price taker
+          - A firm cannot influence market price
+    - id: mechanism-2
+      label:
+        zh-CN: 自由进入
+        en: free entry
+      alternatives:
+        zh-CN:
+          - 自由进入
+          - 企业按 MR=MC 选择产量
+        en:
+          - free entry
+          - it chooses output at MR=MC
+    - id: mechanism-3
+      label:
+        zh-CN: 正常利润
+        en: normal profit
+      alternatives:
+        zh-CN:
+          - 正常利润
+          - 长期进入退出消除超额经济利润
+        en:
+          - normal profit
+          - long-run entry and exit remove supernormal economic profit
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

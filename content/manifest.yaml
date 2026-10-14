@@ -8,216 +8,859 @@ entries:
   - id: u1-01-economics-social-science
     section: "1.1"
     level: core
-    title: { zh-CN: 经济学作为社会科学, en: Economics as a social science }
-    pages: [3]
+    title:
+      zh-CN: 经济学作为社会科学
+      en: Economics as a social science
+    pages:
+      - 3
   - id: u1-02-microeconomics
     section: "1.1"
     level: core
-    title: { zh-CN: 微观经济学, en: Microeconomics }
-    pages: [3]
+    title:
+      zh-CN: 微观经济学
+      en: Microeconomics
+    pages:
+      - 3
   - id: u1-03-macroeconomics
     section: "1.1"
     level: core
-    title: { zh-CN: 宏观经济学, en: Macroeconomics }
-    pages: [3]
+    title:
+      zh-CN: 宏观经济学
+      en: Macroeconomics
+    pages:
+      - 3
   - id: u1-04-scarcity
     section: "1.1"
     level: core
-    title: { zh-CN: 稀缺性, en: Scarcity }
-    pages: [4]
+    title:
+      zh-CN: 稀缺性
+      en: Scarcity
+    pages:
+      - 4
   - id: u1-05-choice
     section: "1.1"
     level: core
-    title: { zh-CN: 选择, en: Choice }
-    pages: [4]
+    title:
+      zh-CN: 选择
+      en: Choice
+    pages:
+      - 4
   - id: u1-06-efficiency
     section: "1.1"
     level: core
-    title: { zh-CN: 效率, en: Efficiency }
-    pages: [5]
+    title:
+      zh-CN: 效率
+      en: Efficiency
+    pages:
+      - 5
   - id: u1-07-equity
     section: "1.1"
     level: core
-    title: { zh-CN: 公平, en: Equity }
-    pages: [5]
+    title:
+      zh-CN: 公平
+      en: Equity
+    pages:
+      - 5
   - id: u1-08-economic-wellbeing
     section: "1.1"
     level: core
-    title: { zh-CN: 经济福祉, en: Economic well-being }
-    pages: [5]
+    title:
+      zh-CN: 经济福祉
+      en: Economic well-being
+    pages:
+      - 5
   - id: u1-09-sustainability
     section: "1.1"
     level: core
-    title: { zh-CN: 可持续性, en: Sustainability }
-    pages: [6]
+    title:
+      zh-CN: 可持续性
+      en: Sustainability
+    pages:
+      - 6
   - id: u1-10-change
     section: "1.1"
     level: core
-    title: { zh-CN: 变化, en: Change }
-    pages: [6]
+    title:
+      zh-CN: 变化
+      en: Change
+    pages:
+      - 6
   - id: u1-11-interdependence
     section: "1.1"
     level: core
-    title: { zh-CN: 相互依存, en: Interdependence }
-    pages: [6]
+    title:
+      zh-CN: 相互依存
+      en: Interdependence
+    pages:
+      - 6
   - id: u1-12-intervention
     section: "1.1"
     level: core
-    title: { zh-CN: 干预, en: Intervention }
-    pages: [7]
+    title:
+      zh-CN: 干预
+      en: Intervention
+    pages:
+      - 7
   - id: u1-13-factors-of-production
     section: "1.1"
     level: core
-    title: { zh-CN: 四类生产要素, en: Factors of production }
-    pages: [7, 8]
+    title:
+      zh-CN: 四类生产要素
+      en: Factors of production
+    pages:
+      - 7
+      - 8
   - id: u1-14-opportunity-cost
     section: "1.1"
     level: core
-    title: { zh-CN: 机会成本, en: Opportunity cost }
-    pages: [8, 9]
+    title:
+      zh-CN: 机会成本
+      en: Opportunity cost
+    pages:
+      - 8
+      - 9
   - id: u1-15-free-goods
     section: "1.1"
     level: core
-    title: { zh-CN: 免费物品, en: Free goods }
-    pages: [9]
+    title:
+      zh-CN: 免费物品
+      en: Free goods
+    pages:
+      - 9
   - id: u1-16-basic-economic-questions
     section: "1.2"
     level: core
-    title: { zh-CN: 三个基本经济问题, en: The three basic economic questions }
-    pages: [10]
+    title:
+      zh-CN: 三个基本经济问题
+      en: The three basic economic questions
+    pages:
+      - 10
   - id: u1-17-resource-allocation
     section: "1.2"
     level: core
-    title: { zh-CN: 资源配置与重新配置, en: Resource allocation and reallocation }
-    pages: [10, 11]
+    title:
+      zh-CN: 资源配置与重新配置
+      en: Resource allocation and reallocation
+    pages:
+      - 10
+      - 11
   - id: u1-18-income-distribution
     section: "1.2"
     level: core
-    title: { zh-CN: 收入与产出分配, en: Income and output distribution }
-    pages: [10, 11]
+    title:
+      zh-CN: 收入与产出分配
+      en: Income and output distribution
+    pages:
+      - 10
+      - 11
   - id: u1-19-market-mechanism
     section: "1.2"
     level: core
-    title: { zh-CN: 市场机制, en: The market mechanism }
-    pages: [12]
+    title:
+      zh-CN: 市场机制
+      en: The market mechanism
+    pages:
+      - 12
   - id: u1-20-government-intervention
     section: "1.2"
     level: core
-    title: { zh-CN: 政府干预, en: Government intervention }
-    pages: [12]
+    title:
+      zh-CN: 政府干预
+      en: Government intervention
+    pages:
+      - 12
   - id: u1-21-free-market-economy
     section: "1.2"
     level: core
-    title: { zh-CN: 自由市场经济, en: The free-market economy }
-    pages: [13]
+    title:
+      zh-CN: 自由市场经济
+      en: The free-market economy
+    pages:
+      - 13
   - id: u1-22-planned-economy
     section: "1.2"
     level: core
-    title: { zh-CN: 计划经济, en: The planned economy }
-    pages: [13]
+    title:
+      zh-CN: 计划经济
+      en: The planned economy
+    pages:
+      - 13
   - id: u1-23-mixed-economy
     section: "1.2"
     level: core
-    title: { zh-CN: 混合经济, en: The mixed economy }
-    pages: [14]
+    title:
+      zh-CN: 混合经济
+      en: The mixed economy
+    pages:
+      - 14
   - id: u1-24-economic-models
     section: "1.3"
     level: core
-    title: { zh-CN: 经济模型的作用与局限, en: Purposes and limits of economic models }
-    pages: [15]
+    title:
+      zh-CN: 经济模型的作用与局限
+      en: Purposes and limits of economic models
+    pages:
+      - 15
   - id: u1-25-ppc-construction
     section: "1.3"
     level: core
-    title: { zh-CN: 生产可能性曲线的构造, en: Constructing a PPC }
-    pages: [15, 16]
+    title:
+      zh-CN: 生产可能性曲线的构造
+      en: Constructing a PPC
+    pages:
+      - 15
+      - 16
   - id: u1-26-ppc-scarcity-choice-cost
     section: "1.3"
     level: core
-    title: { zh-CN: PPC中的稀缺、选择与机会成本, en: Scarcity choice and cost on a PPC }
-    pages: [17, 18]
+    title:
+      zh-CN: PPC中的稀缺、选择与机会成本
+      en: Scarcity choice and cost on a PPC
+    pages:
+      - 17
+      - 18
   - id: u1-27-ppc-unemployment-efficiency
     section: "1.3"
     level: core
-    title: { zh-CN: PPC中的失业与生产效率, en: Unemployment and efficiency on a PPC }
-    pages: [16, 19]
+    title:
+      zh-CN: PPC中的失业与生产效率
+      en: Unemployment and efficiency on a PPC
+    pages:
+      - 16
+      - 19
   - id: u1-28-ppc-growth
     section: "1.3"
     level: core
-    title: { zh-CN: 实际增长与生产潜力增长, en: Actual and potential growth }
-    pages: [19, 20]
+    title:
+      zh-CN: 实际增长与生产潜力增长
+      en: Actual and potential growth
+    pages:
+      - 19
+      - 20
   - id: u1-29-ppc-opportunity-cost-shapes
     section: "1.3"
     level: core
-    title: { zh-CN: 递增与不变机会成本, en: Increasing and constant opportunity cost }
-    pages: [21, 22]
+    title:
+      zh-CN: 递增与不变机会成本
+      en: Increasing and constant opportunity cost
+    pages:
+      - 21
+      - 22
   - id: u1-30-positive-economics
     section: "1.4"
     level: core
-    title: { zh-CN: 实证经济学, en: Positive economics }
-    pages: [23, 24]
+    title:
+      zh-CN: 实证经济学
+      en: Positive economics
+    pages:
+      - 23
+      - 24
   - id: u1-31-normative-economics
     section: "1.4"
     level: core
-    title: { zh-CN: 规范经济学与价值判断, en: Normative economics and value judgements }
-    pages: [23, 24]
+    title:
+      zh-CN: 规范经济学与价值判断
+      en: Normative economics and value judgements
+    pages:
+      - 23
+      - 24
   - id: u1-32-logic-hypotheses-theories
     section: "1.4"
     level: core
-    title: { zh-CN: 逻辑、假设、理论与模型, en: Logic hypotheses theories and models }
-    pages: [24, 25]
+    title:
+      zh-CN: 逻辑、假设、理论与模型
+      en: Logic hypotheses theories and models
+    pages:
+      - 24
+      - 25
   - id: u1-33-ceteris-paribus
     section: "1.4"
     level: core
-    title: { zh-CN: 其他条件不变, en: Ceteris paribus }
-    pages: [26]
+    title:
+      zh-CN: 其他条件不变
+      en: Ceteris paribus
+    pages:
+      - 26
   - id: u1-34-evidence-refutation
     section: "1.4"
     level: core
-    title: { zh-CN: 经验证据与证伪, en: Empirical evidence and refutation }
-    pages: [27, 28]
+    title:
+      zh-CN: 经验证据与证伪
+      en: Empirical evidence and refutation
+    pages:
+      - 27
+      - 28
   - id: u1-35-equality-equity
     section: "1.4"
     level: core
-    title: { zh-CN: 平等与公平, en: Equality and equity }
-    pages: [30]
+    title:
+      zh-CN: 平等与公平
+      en: Equality and equity
+    pages:
+      - 30
   - id: u1-36-adam-smith
     section: "1.5"
     level: extension
-    title: { zh-CN: 亚当·斯密与自由放任, en: Adam Smith and laissez-faire }
-    pages: [31, 32]
+    title:
+      zh-CN: 亚当·斯密与自由放任
+      en: Adam Smith and laissez-faire
+    pages:
+      - 31
+      - 32
   - id: u1-37-utility-marginalism
     section: "1.5"
     level: extension
-    title: { zh-CN: 效用理论与边际主义, en: Utility theory and marginalism }
-    pages: [33, 34]
+    title:
+      zh-CN: 效用理论与边际主义
+      en: Utility theory and marginalism
+    pages:
+      - 33
+      - 34
   - id: u1-38-says-law
     section: "1.5"
     level: extension
-    title: { zh-CN: 萨伊定律, en: Say's Law }
-    pages: [34]
+    title:
+      zh-CN: 萨伊定律
+      en: Say's Law
+    pages:
+      - 34
   - id: u1-39-marxist-critique
     section: "1.5"
     level: extension
-    title: { zh-CN: 马克思主义批判, en: The Marxist critique }
-    pages: [35]
+    title:
+      zh-CN: 马克思主义批判
+      en: The Marxist critique
+    pages:
+      - 35
   - id: u1-40-keynesian-revolution
     section: "1.5"
     level: extension
-    title: { zh-CN: 凯恩斯革命与宏观政策, en: The Keynesian revolution and macroeconomic policy }
-    pages: [36, 37]
+    title:
+      zh-CN: 凯恩斯革命与宏观政策
+      en: The Keynesian revolution and macroeconomic policy
+    pages:
+      - 36
+      - 37
   - id: u1-41-monetarist-new-classical
     section: "1.5"
     level: extension
-    title: { zh-CN: 货币主义与新古典反革命, en: The monetarist and new classical counter-revolution }
-    pages: [38, 39]
+    title:
+      zh-CN: 货币主义与新古典反革命
+      en: The monetarist and new classical counter-revolution
+    pages:
+      - 38
+      - 39
   - id: u1-42-behavioural-economics
     section: "1.5"
     level: extension
-    title: { zh-CN: 行为经济学, en: Behavioural economics }
-    pages: [40]
+    title:
+      zh-CN: 行为经济学
+      en: Behavioural economics
+    pages:
+      - 40
   - id: u1-43-circular-economy
     section: "1.5"
     level: extension
-    title: { zh-CN: 相互依存与循环经济, en: Interdependence and the circular economy }
-    pages: [41]
-
+    title:
+      zh-CN: 相互依存与循环经济
+      en: Interdependence and the circular economy
+    pages:
+      - 41
+  - id: u2-01-demand
+    section: "2.1"
+    level: core
+    title:
+      zh-CN: 需求与需求量
+      en: Demand and quantity demanded
+    pages:
+      - 43
+  - id: u2-02-law-of-demand
+    section: "2.1"
+    level: core
+    title:
+      zh-CN: 需求定律
+      en: The law of demand
+    pages:
+      - 43
+  - id: u2-03-demand-shifts
+    section: "2.1"
+    level: core
+    title:
+      zh-CN: 需求的非价格决定因素
+      en: Non-price determinants of demand
+    pages:
+      - 43
+  - id: u2-04-market-demand
+    section: "2.1"
+    level: core
+    title:
+      zh-CN: 个人需求与市场需求
+      en: Individual and market demand
+    pages:
+      - 43
+  - id: u2-05-marginal-utility
+    section: "2.1"
+    level: hl
+    title:
+      zh-CN: 边际效用与消费者选择
+      en: Marginal utility and consumer choice
+    pages:
+      - 43
+  - id: u2-06-supply
+    section: "2.2"
+    level: core
+    title:
+      zh-CN: 供给与供给量
+      en: Supply and quantity supplied
+    pages:
+      - 49
+  - id: u2-07-supply-shifts
+    section: "2.2"
+    level: core
+    title:
+      zh-CN: 供给的非价格决定因素
+      en: Non-price determinants of supply
+    pages:
+      - 49
+  - id: u2-08-market-supply
+    section: "2.2"
+    level: core
+    title:
+      zh-CN: 市场供给与时间尺度
+      en: Market supply and time horizons
+    pages:
+      - 49
+  - id: u2-09-diminishing-returns
+    section: "2.2"
+    level: hl
+    title:
+      zh-CN: 边际报酬递减
+      en: Diminishing marginal returns
+    pages:
+      - 49
+  - id: u2-10-costs-and-supply
+    section: "2.2"
+    level: hl
+    title:
+      zh-CN: 边际成本与供给决策
+      en: Marginal cost and supply decisions
+    pages:
+      - 49
+  - id: u2-11-equilibrium
+    section: "2.3"
+    level: core
+    title:
+      zh-CN: 竞争市场均衡
+      en: Competitive market equilibrium
+    pages:
+      - 57
+  - id: u2-12-shortage-surplus
+    section: "2.3"
+    level: core
+    title:
+      zh-CN: 短缺、过剩与价格调整
+      en: Shortages, surpluses and price adjustment
+    pages:
+      - 57
+  - id: u2-13-equilibrium-shifts
+    section: "2.3"
+    level: core
+    title:
+      zh-CN: 均衡变化与同时移动
+      en: Equilibrium changes and simultaneous shifts
+    pages:
+      - 57
+  - id: u2-14-price-mechanism
+    section: "2.3"
+    level: core
+    title:
+      zh-CN: 价格的信号、激励与配给
+      en: Price signals, incentives and rationing
+    pages:
+      - 57
+  - id: u2-15-surplus-efficiency
+    section: "2.3"
+    level: core
+    title:
+      zh-CN: 消费者剩余、生产者剩余与效率
+      en: Surplus and allocative efficiency
+    pages:
+      - 62
+  - id: u2-16-bounded-rationality
+    section: "2.4"
+    level: hl
+    title:
+      zh-CN: 理性选择与有限理性
+      en: Rational choice and bounded rationality
+    pages:
+      - 72
+  - id: u2-17-biases-nudges
+    section: "2.4"
+    level: hl
+    title:
+      zh-CN: 行为偏差与助推
+      en: Behavioural biases and nudges
+    pages:
+      - 72
+  - id: u2-18-firm-objectives
+    section: "2.4"
+    level: hl
+    title:
+      zh-CN: 企业的多重目标
+      en: Alternative objectives of firms
+    pages:
+      - 72
+  - id: u2-19-ped
+    section: "2.5"
+    level: core
+    title:
+      zh-CN: 需求价格弹性 PED
+      en: Price elasticity of demand
+    pages:
+      - 85
+  - id: u2-20-ped-determinants
+    section: "2.5"
+    level: core
+    title:
+      zh-CN: PED 的决定因素
+      en: Determinants of PED
+    pages:
+      - 85
+  - id: u2-21-ped-revenue
+    section: "2.5"
+    level: core
+    title:
+      zh-CN: PED 与总收入
+      en: PED and total revenue
+    pages:
+      - 85
+  - id: u2-22-yed
+    section: "2.5"
+    level: core
+    title:
+      zh-CN: 需求收入弹性 YED
+      en: Income elasticity of demand
+    pages:
+      - 97
+  - id: u2-23-elasticity-extremes
+    section: "2.5"
+    level: hl
+    title:
+      zh-CN: 弹性、斜率与收入变化
+      en: Elasticity, slope and changing income
+    pages:
+      - 85
+  - id: u2-24-pes
+    section: "2.6"
+    level: core
+    title:
+      zh-CN: 供给价格弹性 PES
+      en: Price elasticity of supply
+    pages:
+      - 104
+  - id: u2-25-pes-determinants
+    section: "2.6"
+    level: core
+    title:
+      zh-CN: PES、产能与时间
+      en: PES, capacity and time
+    pages:
+      - 104
+  - id: u2-26-pes-application
+    section: "2.6"
+    level: hl
+    title:
+      zh-CN: PES 的计算与政策含义
+      en: PES calculations and policy implications
+    pages:
+      - 104
+  - id: u2-27-price-ceiling
+    section: "2.7"
+    level: core
+    title:
+      zh-CN: 最高限价
+      en: Price ceilings
+    pages:
+      - 114
+  - id: u2-28-price-floor
+    section: "2.7"
+    level: core
+    title:
+      zh-CN: 最低限价与最低工资
+      en: Price floors and minimum wages
+    pages:
+      - 121
+  - id: u2-29-indirect-tax
+    section: "2.7"
+    level: core
+    title:
+      zh-CN: 间接税与税收负担
+      en: Indirect taxes and tax incidence
+    pages:
+      - 127
+  - id: u2-30-subsidy
+    section: "2.7"
+    level: core
+    title:
+      zh-CN: 补贴与财政成本
+      en: Subsidies and fiscal cost
+    pages:
+      - 134
+  - id: u2-31-intervention-evaluation
+    section: "2.7"
+    level: core
+    title:
+      zh-CN: 干预的利益相关者与评价
+      en: Stakeholders and intervention evaluation
+    pages:
+      - 113
+  - id: u2-32-tax-welfare-calculation
+    section: "2.7"
+    level: hl
+    title:
+      zh-CN: 税补的福利计算
+      en: Tax and subsidy welfare calculations
+    pages:
+      - 130
+  - id: u2-33-market-failure
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 市场失灵与社会最优
+      en: Market failure and the social optimum
+    pages:
+      - 147
+  - id: u2-34-negative-production
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 负生产外部性
+      en: Negative production externalities
+    pages:
+      - 150
+  - id: u2-35-negative-consumption
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 负消费外部性
+      en: Negative consumption externalities
+    pages:
+      - 164
+  - id: u2-36-positive-production
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 正生产外部性
+      en: Positive production externalities
+    pages:
+      - 174
+  - id: u2-37-positive-consumption
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 正消费外部性与优值品
+      en: Positive consumption externalities and merit goods
+    pages:
+      - 177
+  - id: u2-38-common-resources
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 共同资源与公地悲剧
+      en: Common resources and the tragedy of the commons
+    pages:
+      - 144
+  - id: u2-39-externality-policies
+    section: "2.8"
+    level: core
+    title:
+      zh-CN: 外部性政策与可持续性
+      en: Externality policies and sustainability
+    pages:
+      - 154
+  - id: u2-40-external-welfare
+    section: "2.8"
+    level: hl
+    title:
+      zh-CN: 外部性与福利损失计算
+      en: Externalities and welfare-loss calculations
+    pages:
+      - 153
+  - id: u2-41-public-goods
+    section: "2.9"
+    level: core
+    title:
+      zh-CN: 公共物品的特征
+      en: Characteristics of public goods
+    pages:
+      - 184
+  - id: u2-42-free-rider
+    section: "2.9"
+    level: core
+    title:
+      zh-CN: 搭便车与市场提供不足
+      en: Free riding and underprovision
+    pages:
+      - 184
+  - id: u2-43-public-provision
+    section: "2.9"
+    level: core
+    title:
+      zh-CN: 公共物品的提供与评价
+      en: Provision and evaluation of public goods
+    pages:
+      - 184
+  - id: u2-44-adverse-selection
+    section: "2.10"
+    level: hl
+    title:
+      zh-CN: 信息不对称与逆向选择
+      en: Asymmetric information and adverse selection
+    pages:
+      - 187
+  - id: u2-45-moral-hazard
+    section: "2.10"
+    level: hl
+    title:
+      zh-CN: 道德风险
+      en: Moral hazard
+    pages:
+      - 187
+  - id: u2-46-information-remedies
+    section: "2.10"
+    level: hl
+    title:
+      zh-CN: 信息不对称的应对
+      en: Remedies for asymmetric information
+    pages:
+      - 187
+  - id: u2-47-market-structures
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 市场结构与进入壁垒
+      en: Market structures and entry barriers
+    pages:
+      - 196
+  - id: u2-48-cost-curves
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 总成本、平均成本与边际成本
+      en: Total, average and marginal costs
+    pages:
+      - 199
+  - id: u2-49-scale
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 规模经济与规模不经济
+      en: Economies and diseconomies of scale
+    pages:
+      - 204
+  - id: u2-50-revenue-profit
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 收益、经济利润与正常利润
+      en: Revenue, economic and normal profit
+    pages:
+      - 205
+  - id: u2-51-profit-maximisation
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 利润最大化与停产
+      en: Profit maximisation and shutdown
+    pages:
+      - 206
+  - id: u2-52-perfect-competition
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 完全竞争
+      en: Perfect competition
+    pages:
+      - 207
+  - id: u2-53-monopoly
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 垄断定价与效率
+      en: Monopoly pricing and efficiency
+    pages:
+      - 215
+  - id: u2-54-natural-monopoly
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 自然垄断与价格监管
+      en: Natural monopoly and price regulation
+    pages:
+      - 220
+  - id: u2-55-monopolistic-competition
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 垄断竞争
+      en: Monopolistic competition
+    pages:
+      - 225
+  - id: u2-56-oligopoly
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 寡头、相互依赖与博弈
+      en: Oligopoly, interdependence and game theory
+    pages:
+      - 230
+  - id: u2-57-competition-policy
+    section: "2.11"
+    level: hl
+    title:
+      zh-CN: 竞争政策与市场势力评价
+      en: Competition policy and evaluation of market power
+    pages:
+      - 239
+  - id: u2-58-equity-distribution
+    section: "2.12"
+    level: hl
+    title:
+      zh-CN: 市场分配与公平
+      en: Market distribution and equity
+    pages:
+      - 191
+  - id: u2-59-income-wealth
+    section: "2.12"
+    level: hl
+    title:
+      zh-CN: 收入、财富与机会
+      en: Income, wealth and opportunity
+    pages:
+      - 191
+  - id: u2-60-redistribution
+    section: "2.12"
+    level: hl
+    title:
+      zh-CN: 再分配与政策权衡
+      en: Redistribution and policy trade-offs
+    pages:
+      - 191
+releaseCounts:
+  "1.1": 15
+  "1.2": 8
+  "1.3": 6
+  "1.4": 6
+  "1.5": 8
+  "2.1": 5
+  "2.2": 5
+  "2.3": 5
+  "2.4": 3
+  "2.5": 5
+  "2.6": 3
+  "2.7": 6
+  "2.8": 8
+  "2.9": 3
+  "2.10": 3
+  "2.11": 11
+  "2.12": 3

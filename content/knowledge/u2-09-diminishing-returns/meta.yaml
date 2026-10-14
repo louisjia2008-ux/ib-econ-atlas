@@ -1,0 +1,41 @@
+id: u2-09-diminishing-returns
+slug: diminishing-returns
+section: "2.2"
+level: hl
+syllabusRefs:
+  - 2.2 Supply
+textbookRefs:
+  - chapter: "2"
+    section: "2.3"
+    pages:
+      - 49
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u2-06-supply
+  - u2-07-supply-shifts
+  - u2-08-market-supply
+terms:
+  - 边际报酬递减
+  - Diminishing marginal returns
+  - 固定投入
+  - fixed input
+  - 边际产量
+  - marginal product
+  - 边际成本
+  - marginal cost
+synonyms:
+  zh-CN:
+    - 固定投入
+    - 边际产量
+    - 边际成本
+  en:
+    - fixed input
+    - marginal product
+    - marginal cost
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-09-diminishing-returns-flash-1
+  - u2-09-diminishing-returns-mcq-1
+  - u2-09-diminishing-returns-short-1

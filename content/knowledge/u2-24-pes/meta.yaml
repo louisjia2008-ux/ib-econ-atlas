@@ -1,0 +1,39 @@
+id: u2-24-pes
+slug: pes
+section: "2.6"
+level: core
+syllabusRefs:
+  - 2.6 Elasticity of supply
+textbookRefs:
+  - chapter: "3"
+    section: "3.3"
+    pages:
+      - 104
+prerequisites:
+  - u2-06-supply
+related:
+  - u2-25-pes-determinants
+  - u2-26-pes-application
+terms:
+  - 供给价格弹性 PES
+  - Price elasticity of supply
+  - 供给量
+  - quantity supplied
+  - 百分比
+  - percentage
+  - 价格
+  - price
+synonyms:
+  zh-CN:
+    - 供给量
+    - 百分比
+    - 价格
+  en:
+    - quantity supplied
+    - percentage
+    - price
+diagramIds: []
+quizIds:
+  - u2-24-pes-flash-1
+  - u2-24-pes-mcq-1
+  - u2-24-pes-short-1
