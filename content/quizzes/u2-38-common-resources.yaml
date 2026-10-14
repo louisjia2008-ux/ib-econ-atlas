@@ -1,0 +1,103 @@
+- id: u2-38-common-resources-flash-1
+  knowledgePointId: u2-38-common-resources
+  type: flashcard
+  prompt:
+    zh-CN: 解释“共同资源与公地悲剧”，并说明一个关键条件。
+    en: Explain Common resources and the tragedy of the commons and state one
+      important condition.
+  answer:
+    zh-CN: 共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。
+    en: Common resources are rival and difficult to exclude users from. Individual
+      use reduces availability to others, and weak exclusion can lead to
+      overexploitation.
+  explanation:
+    zh-CN: 公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。
+    en: The tragedy is not an unavoidable law of nature; effective community rules
+      can change incentives.
+- id: u2-38-common-resources-mcq-1
+  knowledgePointId: u2-38-common-resources
+  type: mcq
+  prompt:
+    zh-CN: 共同资源的典型特征是什么？
+    en: What are the typical characteristics of a common resource?
+  options:
+    - id: a
+      zh-CN: 非竞争、非排他
+      en: Non-rival, non-excludable
+    - id: b
+      zh-CN: 竞争性、难以排他
+      en: Rival, difficult to exclude
+    - id: c
+      zh-CN: 非竞争、可排他
+      en: Non-rival, excludable
+    - id: d
+      zh-CN: 无成本且无限
+      en: Costless and unlimited
+  correctOptionId: b
+  explanation:
+    zh-CN: 竞争性、难以排他。
+      原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。
+      公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。
+    en: "Rival, difficult to exclude. Illustrative example: a fisher earns from an
+      extra catch while reducing future fish stocks available to everyone.
+      Quotas, enforceable rights or community management can limit extraction.
+      Calling the resource non-rival would miss the central mechanism. The
+      tragedy is not an unavoidable law of nature; effective community rules can
+      change incentives."
+- id: u2-38-common-resources-short-1
+  knowledgePointId: u2-38-common-resources
+  type: short-answer
+  prompt:
+    zh-CN: 解释共同资源与公地悲剧的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Common resources and the tragedy of the commons and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 共同资源具有竞争性且难以排他；个人使用会减少他人可用数量，而难以排除使用者可导致过度开采。
+      使用者获得私人收益；资源耗减成本由群体承担；缺少协调时开采量超过可持续水平
+      原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。
+    en: "Common resources are rival and difficult to exclude users from. Individual
+      use reduces availability to others, and weak exclusion can lead to
+      overexploitation. Users receive private gains; depletion costs are shared;
+      without coordination extraction exceeds a sustainable level Illustrative
+      example: a fisher earns from an extra catch while reducing future fish
+      stocks available to everyone. Quotas, enforceable rights or community
+      management can limit extraction. Calling the resource non-rival would miss
+      the central mechanism."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 竞争性
+        en: rival
+      alternatives:
+        zh-CN:
+          - 竞争性
+          - 使用者获得私人收益
+        en:
+          - rival
+          - Users receive private gains
+    - id: mechanism-2
+      label:
+        zh-CN: 排他
+        en: exclusion
+      alternatives:
+        zh-CN:
+          - 排他
+          - 资源耗减成本由群体承担
+        en:
+          - exclusion
+          - depletion costs are shared
+    - id: mechanism-3
+      label:
+        zh-CN: 过度开采
+        en: overexploitation
+      alternatives:
+        zh-CN:
+          - 过度开采
+          - 缺少协调时开采量超过可持续水平
+        en:
+          - overexploitation
+          - without coordination extraction exceeds a sustainable level
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

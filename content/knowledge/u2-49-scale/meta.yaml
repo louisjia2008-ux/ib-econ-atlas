@@ -1,0 +1,42 @@
+id: u2-49-scale
+slug: scale
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.2"
+    pages:
+      - 204
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-50-revenue-profit
+terms:
+  - 规模经济与规模不经济
+  - Economies and diseconomies of scale
+  - 长期
+  - long run
+  - 平均成本
+  - average cost
+  - 专业化
+  - specialisation
+synonyms:
+  zh-CN:
+    - 长期
+    - 平均成本
+    - 专业化
+  en:
+    - long run
+    - average cost
+    - specialisation
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-49-scale-flash-1
+  - u2-49-scale-mcq-1
+  - u2-49-scale-short-1

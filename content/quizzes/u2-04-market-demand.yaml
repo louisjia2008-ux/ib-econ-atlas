@@ -1,0 +1,97 @@
+- id: u2-04-market-demand-flash-1
+  knowledgePointId: u2-04-market-demand
+  type: flashcard
+  prompt:
+    zh-CN: 解释“个人需求与市场需求”，并说明一个关键条件。
+    en: Explain Individual and market demand and state one important condition.
+  answer:
+    zh-CN: 市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。
+    en: Market demand is the horizontal sum of individual quantities demanded at
+      each common price.
+  explanation:
+    zh-CN: 市场需求不是各人的平均需求，也不是竖直相加价格。
+    en: Market demand is neither average individual demand nor a vertical sum of
+      prices.
+- id: u2-04-market-demand-mcq-1
+  knowledgePointId: u2-04-market-demand
+  type: mcq
+  prompt:
+    zh-CN: 同价下三人分别买 2、4、6 个，市场需求量是多少？
+    en: At the same price, three buyers demand 2, 4 and 6 units. What is market
+      quantity?
+  options:
+    - id: a
+      zh-CN: "4"
+      en: "4"
+    - id: b
+      zh-CN: "6"
+      en: "6"
+    - id: c
+      zh-CN: "24"
+      en: "24"
+    - id: d
+      zh-CN: "12"
+      en: "12"
+  correctOptionId: d
+  explanation:
+    zh-CN: 12。 原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2
+      个，市场需求量为 3 个。价格不能相加。 市场需求不是各人的平均需求，也不是竖直相加价格。
+    en: "12. Illustrative example: at a price of 5, A buys three units and B buys
+      seven, so market quantity demanded is ten. At a price of 8 they may buy
+      one and two, yielding three. Add quantities, never prices. Market demand
+      is neither average individual demand nor a vertical sum of prices."
+- id: u2-04-market-demand-short-1
+  knowledgePointId: u2-04-market-demand
+  type: short-answer
+  prompt:
+    zh-CN: 解释个人需求与市场需求的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Individual and market demand and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 市场需求是在同一个价格下，将市场内各消费者的个人需求量相加得到的总需求关系。 先固定一个价格；加总每个消费者的需求量；在其他价格重复以形成市场曲线
+      原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2 个，市场需求量为 3
+      个。价格不能相加。
+    en: "Market demand is the horizontal sum of individual quantities demanded at
+      each common price. Fix a common price; add each consumer's quantity
+      demanded; repeat at other prices to construct market demand Illustrative
+      example: at a price of 5, A buys three units and B buys seven, so market
+      quantity demanded is ten. At a price of 8 they may buy one and two,
+      yielding three. Add quantities, never prices."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 相同价格
+        en: same price
+      alternatives:
+        zh-CN:
+          - 相同价格
+          - 先固定一个价格
+        en:
+          - same price
+          - Fix a common price
+    - id: mechanism-2
+      label:
+        zh-CN: 数量
+        en: quantities
+      alternatives:
+        zh-CN:
+          - 数量
+          - 加总每个消费者的需求量
+        en:
+          - quantities
+          - add each consumer's quantity demanded
+    - id: mechanism-3
+      label:
+        zh-CN: 加总
+        en: sum
+      alternatives:
+        zh-CN:
+          - 加总
+          - 在其他价格重复以形成市场曲线
+        en:
+          - sum
+          - repeat at other prices to construct market demand
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

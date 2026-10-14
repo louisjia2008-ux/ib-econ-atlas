@@ -1,0 +1,43 @@
+id: u2-27-price-ceiling
+slug: price-ceiling
+section: "2.7"
+level: core
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.2"
+    pages:
+      - 114
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-28-price-floor
+  - u2-29-indirect-tax
+  - u2-30-subsidy
+terms:
+  - 最高限价
+  - Price ceilings
+  - 低于均衡
+  - below equilibrium
+  - 短缺
+  - shortage
+  - 配给
+  - rationing
+synonyms:
+  zh-CN:
+    - 低于均衡
+    - 短缺
+    - 配给
+  en:
+    - below equilibrium
+    - shortage
+    - rationing
+diagramIds:
+  - price-ceiling
+quizIds:
+  - u2-27-price-ceiling-flash-1
+  - u2-27-price-ceiling-mcq-1
+  - u2-27-price-ceiling-short-1

@@ -1,0 +1,41 @@
+id: u2-40-external-welfare
+slug: external-welfare
+section: "2.8"
+level: hl
+syllabusRefs:
+  - 2.8 Externalities and common resources
+textbookRefs:
+  - chapter: "5"
+    section: "5.3"
+    pages:
+      - 153
+prerequisites:
+  - u2-15-surplus-efficiency
+related:
+  - u2-33-market-failure
+  - u2-34-negative-production
+  - u2-35-negative-consumption
+terms:
+  - 外部性与福利损失计算
+  - Externalities and welfare-loss calculations
+  - 社会最优
+  - social optimum
+  - 边际差额
+  - marginal gap
+  - 三角形
+  - triangle
+synonyms:
+  zh-CN:
+    - 社会最优
+    - 边际差额
+    - 三角形
+  en:
+    - social optimum
+    - marginal gap
+    - triangle
+diagramIds:
+  - negative-production
+quizIds:
+  - u2-40-external-welfare-flash-1
+  - u2-40-external-welfare-mcq-1
+  - u2-40-external-welfare-short-1

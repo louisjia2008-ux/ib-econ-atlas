@@ -1,0 +1,101 @@
+- id: u2-55-monopolistic-competition-flash-1
+  knowledgePointId: u2-55-monopolistic-competition
+  type: flashcard
+  prompt:
+    zh-CN: 解释“垄断竞争”，并说明一个关键条件。
+    en: Explain Monopolistic competition and state one important condition.
+  answer:
+    zh-CN: 垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。
+    en: Monopolistic competition features many firms, differentiated products and
+      relatively low entry barriers. Differentiation gives pricing power while
+      long-run entry tends to eliminate economic profit.
+  explanation:
+    zh-CN: 正常利润不意味着完全竞争，P 仍可大于 MC。
+    en: Normal profit does not imply perfect competition; P may still exceed MC.
+- id: u2-55-monopolistic-competition-mcq-1
+  knowledgePointId: u2-55-monopolistic-competition
+  type: mcq
+  prompt:
+    zh-CN: 长期垄断竞争最典型的组合是什么？
+    en: Which is typical of long-run monopolistic competition?
+  options:
+    - id: a
+      zh-CN: 同质产品与零壁垒下水平需求
+      en: Homogeneous goods and horizontal firm demand
+    - id: b
+      zh-CN: 只有一家企业
+      en: Exactly one firm
+    - id: c
+      zh-CN: 正常利润与剩余产能
+      en: Normal profit and excess capacity
+    - id: d
+      zh-CN: 价格总等于 MC
+      en: Price always equals MC
+  correctOptionId: c
+  explanation:
+    zh-CN: 正常利润与剩余产能。 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC
+      最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。 正常利润不意味着完全竞争，P 仍可大于 MC。
+    en: "Normal profit and excess capacity. Illustrative example: cafes
+      differentiate through atmosphere and branding. At long-run normal profit,
+      demand is tangent to ATC, normally above its minimum, implying excess
+      capacity. Consumers may value variety, so a cost diagram alone does not
+      capture all welfare. Normal profit does not imply perfect competition; P
+      may still exceed MC."
+- id: u2-55-monopolistic-competition-short-1
+  knowledgePointId: u2-55-monopolistic-competition
+  type: short-answer
+  prompt:
+    zh-CN: 解释垄断竞争的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Monopolistic competition and apply it to an example
+      of your own.
+  modelAnswer:
+    zh-CN: 垄断竞争有许多企业、差异化产品及较低进入壁垒；差异化带来定价权，长期进入使经济利润趋于零。
+      产品差异使企业需求向下；超额利润吸引相近产品进入；需求减弱直至正常利润 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC
+      相切，但通常不在 ATC 最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。
+    en: "Monopolistic competition features many firms, differentiated products and
+      relatively low entry barriers. Differentiation gives pricing power while
+      long-run entry tends to eliminate economic profit. Differentiation gives
+      downward-sloping firm demand; supernormal profit attracts close
+      substitutes; demand weakens until normal profit Illustrative example:
+      cafes differentiate through atmosphere and branding. At long-run normal
+      profit, demand is tangent to ATC, normally above its minimum, implying
+      excess capacity. Consumers may value variety, so a cost diagram alone does
+      not capture all welfare."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 差异化
+        en: differentiated
+      alternatives:
+        zh-CN:
+          - 差异化
+          - 产品差异使企业需求向下
+        en:
+          - differentiated
+          - Differentiation gives downward-sloping firm demand
+    - id: mechanism-2
+      label:
+        zh-CN: 进入
+        en: entry
+      alternatives:
+        zh-CN:
+          - 进入
+          - 超额利润吸引相近产品进入
+        en:
+          - entry
+          - supernormal profit attracts close substitutes
+    - id: mechanism-3
+      label:
+        zh-CN: 剩余产能
+        en: excess capacity
+      alternatives:
+        zh-CN:
+          - 剩余产能
+          - 需求减弱直至正常利润
+        en:
+          - excess capacity
+          - demand weakens until normal profit
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

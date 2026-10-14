@@ -1,0 +1,40 @@
+id: u2-22-yed
+slug: yed
+section: "2.5"
+level: core
+syllabusRefs:
+  - 2.5 Elasticity of demand
+textbookRefs:
+  - chapter: "3"
+    section: "3.2"
+    pages:
+      - 97
+prerequisites:
+  - u2-01-demand
+related:
+  - u2-19-ped
+  - u2-20-ped-determinants
+  - u2-21-ped-revenue
+terms:
+  - 需求收入弹性 YED
+  - Income elasticity of demand
+  - 收入
+  - income
+  - 正常品
+  - normal good
+  - 劣等品
+  - inferior good
+synonyms:
+  zh-CN:
+    - 收入
+    - 正常品
+    - 劣等品
+  en:
+    - income
+    - normal good
+    - inferior good
+diagramIds: []
+quizIds:
+  - u2-22-yed-flash-1
+  - u2-22-yed-mcq-1
+  - u2-22-yed-short-1

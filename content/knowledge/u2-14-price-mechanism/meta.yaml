@@ -1,0 +1,42 @@
+id: u2-14-price-mechanism
+slug: price-mechanism
+section: "2.3"
+level: core
+syllabusRefs:
+  - 2.3 Competitive market equilibrium
+textbookRefs:
+  - chapter: "2"
+    section: "2.4"
+    pages:
+      - 57
+prerequisites:
+  - u2-01-demand
+  - u2-06-supply
+related:
+  - u2-11-equilibrium
+  - u2-12-shortage-surplus
+  - u2-13-equilibrium-shifts
+terms:
+  - 价格的信号、激励与配给
+  - Price signals, incentives and rationing
+  - 信号
+  - signal
+  - 激励
+  - incentive
+  - 配给
+  - rationing
+synonyms:
+  zh-CN:
+    - 信号
+    - 激励
+    - 配给
+  en:
+    - signal
+    - incentive
+    - rationing
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-14-price-mechanism-flash-1
+  - u2-14-price-mechanism-mcq-1
+  - u2-14-price-mechanism-short-1

@@ -1,0 +1,99 @@
+- id: u2-21-ped-revenue-flash-1
+  knowledgePointId: u2-21-ped-revenue
+  type: flashcard
+  prompt:
+    zh-CN: 解释“PED 与总收入”，并说明一个关键条件。
+    en: Explain PED and total revenue and state one important condition.
+  answer:
+    zh-CN: 总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。
+    en: Total revenue is P times Q. A price rise increases revenue with inelastic
+      demand and reduces it with elastic demand; unit elasticity approximately
+      preserves revenue for a small change.
+  explanation:
+    zh-CN: 收入与利润必须分开；利润还需扣除成本。
+    en: Keep revenue separate from profit, which also deducts costs.
+- id: u2-21-ped-revenue-mcq-1
+  knowledgePointId: u2-21-ped-revenue
+  type: mcq
+  prompt:
+    zh-CN: 需求富有弹性时小幅降价通常怎样影响总收入？
+    en: With elastic demand, a small price cut normally does what to total revenue?
+  options:
+    - id: a
+      zh-CN: 增加
+      en: Increase it
+    - id: b
+      zh-CN: 减少
+      en: Decrease it
+    - id: c
+      zh-CN: 变为零
+      en: Make it zero
+    - id: d
+      zh-CN: 一定不变
+      en: Necessarily leave it unchanged
+  correctOptionId: a
+  explanation:
+    zh-CN: 增加。 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到
+      880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。 收入与利润必须分开；利润还需扣除成本。
+    en: "Increase it. Illustrative example: price rises from ten to eleven and
+      quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does
+      not by itself prove profit falls because costs may change too. For finite
+      changes, check the actual P×Q products. Keep revenue separate from profit,
+      which also deducts costs."
+- id: u2-21-ped-revenue-short-1
+  knowledgePointId: u2-21-ped-revenue
+  type: short-answer
+  prompt:
+    zh-CN: 解释PED 与总收入的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of PED and total revenue and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 总收入 TR=P×Q；需求缺乏弹性时涨价提高收入，富有弹性时涨价降低收入，单位弹性时小幅价格变化近似保持收入不变。
+      价格上升而数量下降；比较两者百分比变化；数量反应更大时乘积下降 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到
+      880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。
+    en: "Total revenue is P times Q. A price rise increases revenue with inelastic
+      demand and reduces it with elastic demand; unit elasticity approximately
+      preserves revenue for a small change. Price rises while quantity falls;
+      compare their percentage changes; if quantity responds proportionately
+      more, the product falls Illustrative example: price rises from ten to
+      eleven and quantity falls from 100 to 80. Revenue falls from 1000 to 880.
+      This does not by itself prove profit falls because costs may change too.
+      For finite changes, check the actual P×Q products."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: P×Q
+        en: P×Q
+      alternatives:
+        zh-CN:
+          - P×Q
+          - 价格上升而数量下降
+        en:
+          - P×Q
+          - Price rises while quantity falls
+    - id: mechanism-2
+      label:
+        zh-CN: 百分比
+        en: percentage
+      alternatives:
+        zh-CN:
+          - 百分比
+          - 比较两者百分比变化
+        en:
+          - percentage
+          - compare their percentage changes
+    - id: mechanism-3
+      label:
+        zh-CN: 收入
+        en: revenue
+      alternatives:
+        zh-CN:
+          - 收入
+          - 数量反应更大时乘积下降
+        en:
+          - revenue
+          - if quantity responds proportionately more, the product falls
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

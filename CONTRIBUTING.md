@@ -10,7 +10,7 @@
 4. **双目录映射**：`syllabusRefs` 与 `textbookRefs` 均不能为空；教材只填写章节、section 和页码，不链接或提交 PDF。
 5. **层级明确**：`level` 只能是 `core`、`hl` 或 `extension`。Extension 不能伪装成考试必修内容。
 6. **来源可核验**：现实案例需要 HTTPS 来源和 `YYYY-MM-DD` 观察日期。优先使用官方机构、原始数据和研究来源。
-7. **复习材料**：每点至少一张闪卡，以及选择题或简答题；当前 Unit 1 标准为三种题型各一题。
+7. **复习材料**：每点须有闪卡、选择题和关键词简答题三种题型；选择题须有针对该概念的错误选项。原创假设情境须明确标注，现实案例仍须可核验来源。
 8. **引用完整**：`related`、`prerequisites`、`quizIds` 和 `diagramIds` 的目标必须存在。
 9. **不提交 secrets**：不得提交 API key、owner token、`.dev.vars`、真实 `wrangler.toml` 或任何 Bearer token。
 

@@ -2701,3 +2701,18 @@ input:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+.micro-diagram {
+  scroll-margin-top: 140px;
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid #dce3ef;
+  border-radius: 12px;
+  background: #fff;
+}
+.micro-diagram figcaption { font-weight: 700; margin-bottom: 1rem; }
+.micro-diagram img { display: block; width: 100%; height: auto; }
+.micro-diagram table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.micro-diagram caption { text-align: left; font-weight: 600; margin: 1rem 0 0.5rem; }
+.micro-diagram td, .micro-diagram th { padding: 0.6rem; border: 1px solid #dce3ef; text-align: left; }
+.micro-diagram th { width: 28%; }
+.micro-diagram p { font-size: 0.85rem; color: #64748b; }

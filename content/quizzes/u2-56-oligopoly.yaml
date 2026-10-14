@@ -1,0 +1,104 @@
+- id: u2-56-oligopoly-flash-1
+  knowledgePointId: u2-56-oligopoly
+  type: flashcard
+  prompt:
+    zh-CN: 解释“寡头、相互依赖与博弈”，并说明一个关键条件。
+    en: Explain Oligopoly, interdependence and game theory and state one important
+      condition.
+  answer:
+    zh-CN: 寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。
+    en: Oligopoly is dominated by a few large firms whose decisions depend on
+      rivals' reactions. Collusion can jointly restrict output, but individual
+      firms may have incentives to deviate.
+  explanation:
+    zh-CN: 串谋的共同收益不保证协议稳定，也不代表消费者受益。
+    en: Joint gains do not ensure collusion is stable or beneficial to consumers.
+- id: u2-56-oligopoly-mcq-1
+  knowledgePointId: u2-56-oligopoly
+  type: mcq
+  prompt:
+    zh-CN: 两企业都高价各赚8；单方降价赚12而另一方赚2；都降价各赚4。各自的优势策略是什么？
+    en: Both firms earn 8 at high prices; a sole price cutter earns 12 while its
+      rival earns 2; both cutting gives 4 each. What is each firm's dominant
+      strategy?
+  options:
+    - id: a
+      zh-CN: 维持高价
+      en: Keep price high
+    - id: b
+      zh-CN: 退出市场
+      en: Exit
+    - id: c
+      zh-CN: 不可能判断，尽管支付已给出
+      en: Impossible to determine despite stated payoffs
+    - id: d
+      zh-CN: 降价
+      en: Cut price
+  correctOptionId: d
+  explanation:
+    zh-CN: 降价。 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为
+      4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。 串谋的共同收益不保证协议稳定，也不代表消费者受益。
+    en: "Cut price. Illustrative example: two airlines each earn eight at high
+      prices. One cutting price alone earns 12 while the other earns two; both
+      cutting earns four each. Cutting is each firm's dominant strategy, giving
+      (4,4) despite higher joint gains at (8,8). The payoffs are original
+      teaching assumptions. Joint gains do not ensure collusion is stable or
+      beneficial to consumers."
+- id: u2-56-oligopoly-short-1
+  knowledgePointId: u2-56-oligopoly
+  type: short-answer
+  prompt:
+    zh-CN: 解释寡头、相互依赖与博弈的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Oligopoly, interdependence and game theory and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 寡头由少数大企业主导，企业决策取决于竞争者反应。串谋可联合限制产量，但个别企业可能有背离协议的动机。
+      少数企业反复互动；价格或数量选择影响竞争者；预期反应决定合作或竞争策略 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚
+      2；都降价时各赚 4。降价是各自优势策略，均衡为 4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。
+    en: "Oligopoly is dominated by a few large firms whose decisions depend on
+      rivals' reactions. Collusion can jointly restrict output, but individual
+      firms may have incentives to deviate. A few firms interact repeatedly;
+      price or quantity choices affect rivals; anticipated responses shape
+      cooperation and competition Illustrative example: two airlines each earn
+      eight at high prices. One cutting price alone earns 12 while the other
+      earns two; both cutting earns four each. Cutting is each firm's dominant
+      strategy, giving (4,4) despite higher joint gains at (8,8). The payoffs
+      are original teaching assumptions."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 相互依赖
+        en: interdependence
+      alternatives:
+        zh-CN:
+          - 相互依赖
+          - 少数企业反复互动
+        en:
+          - interdependence
+          - A few firms interact repeatedly
+    - id: mechanism-2
+      label:
+        zh-CN: 优势策略
+        en: dominant strategy
+      alternatives:
+        zh-CN:
+          - 优势策略
+          - 价格或数量选择影响竞争者
+        en:
+          - dominant strategy
+          - price or quantity choices affect rivals
+    - id: mechanism-3
+      label:
+        zh-CN: 背离
+        en: deviate
+      alternatives:
+        zh-CN:
+          - 背离
+          - 预期反应决定合作或竞争策略
+        en:
+          - deviate
+          - anticipated responses shape cooperation and competition
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

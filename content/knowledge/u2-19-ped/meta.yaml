@@ -1,0 +1,40 @@
+id: u2-19-ped
+slug: ped
+section: "2.5"
+level: core
+syllabusRefs:
+  - 2.5 Elasticity of demand
+textbookRefs:
+  - chapter: "3"
+    section: "3.1"
+    pages:
+      - 85
+prerequisites:
+  - u2-01-demand
+related:
+  - u2-20-ped-determinants
+  - u2-21-ped-revenue
+  - u2-22-yed
+terms:
+  - 需求价格弹性 PED
+  - Price elasticity of demand
+  - 百分比
+  - percentage
+  - 自身价格
+  - own price
+  - 绝对值
+  - absolute value
+synonyms:
+  zh-CN:
+    - 百分比
+    - 自身价格
+    - 绝对值
+  en:
+    - percentage
+    - own price
+    - absolute value
+diagramIds: []
+quizIds:
+  - u2-19-ped-flash-1
+  - u2-19-ped-mcq-1
+  - u2-19-ped-short-1

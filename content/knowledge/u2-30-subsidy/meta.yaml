@@ -1,0 +1,43 @@
+id: u2-30-subsidy
+slug: subsidy
+section: "2.7"
+level: core
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.4"
+    pages:
+      - 134
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-27-price-ceiling
+  - u2-28-price-floor
+  - u2-29-indirect-tax
+terms:
+  - 补贴与财政成本
+  - Subsidies and fiscal cost
+  - 补贴
+  - subsidy
+  - 数量
+  - quantity
+  - 财政
+  - government spending
+synonyms:
+  zh-CN:
+    - 补贴
+    - 数量
+    - 财政
+  en:
+    - subsidy
+    - quantity
+    - government spending
+diagramIds:
+  - subsidy-wedge
+quizIds:
+  - u2-30-subsidy-flash-1
+  - u2-30-subsidy-mcq-1
+  - u2-30-subsidy-short-1

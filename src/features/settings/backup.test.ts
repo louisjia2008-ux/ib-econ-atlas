@@ -48,6 +48,17 @@ beforeEach(async () => {
 });
 
 describe("versioned backup", () => {
+  it("retains an old Unit 1 backup while merging and exporting Unit 2 progress", async () => {
+    await importBackup(serializeBackup(envelope([progress("u1-04-scarcity", "2026-09-29T12:00:00.000Z", "review")], [attempt])), "replace", true);
+    await saveProgress(progress("u2-01-demand", "2026-10-15T00:00:00.000Z", "learning"));
+    const backup = await createBackup(new Date("2026-10-15T01:00:00.000Z"));
+    expect(backup.schemaVersion).toBe(1);
+    expect(backup.progress.map((record) => record.knowledgePointId).sort()).toEqual(["u1-04-scarcity", "u2-01-demand"]);
+    await clearLearningData();
+    await importBackup(serializeBackup(backup), "replace", true);
+    expect(await getAllProgress()).toHaveLength(2);
+    expect(await getAllAttempts()).toEqual([attempt]);
+  });
   it("round-trips progress and attempts while excluding sensitive and session data", async () => {
     await saveProgress(progress("u1-04-scarcity", "2026-09-29T10:00:00.000Z"));
     await saveAttempt(attempt);

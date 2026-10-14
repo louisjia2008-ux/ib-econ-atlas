@@ -1,0 +1,100 @@
+- id: u2-18-firm-objectives-flash-1
+  knowledgePointId: u2-18-firm-objectives
+  type: flashcard
+  prompt:
+    zh-CN: 解释“企业的多重目标”，并说明一个关键条件。
+    en: Explain Alternative objectives of firms and state one important condition.
+  answer:
+    zh-CN: 企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。
+    en: Firms may seek profit, revenue, growth, market share, social objectives or
+      satisfactory profit. Managers and owners may have different objectives.
+  explanation:
+    zh-CN: 收入最大化忽略成本，不能直接当作利润最大化。
+    en: Revenue maximisation ignores costs and is not equivalent to profit
+      maximisation.
+- id: u2-18-firm-objectives-mcq-1
+  knowledgePointId: u2-18-firm-objectives
+  type: mcq
+  prompt:
+    zh-CN: 企业收入上升但成本增加更多，利润怎样？
+    en: Revenue rises but costs increase by more. What happens to profit?
+  options:
+    - id: a
+      zh-CN: 利润必然上升
+      en: Profit must rise
+    - id: b
+      zh-CN: 利润下降
+      en: Profit falls
+    - id: c
+      zh-CN: 利润一定为零
+      en: Profit is necessarily zero
+    - id: d
+      zh-CN: 收入下降
+      en: Revenue falls
+  correctOptionId: b
+  explanation:
+    zh-CN: 利润下降。
+      原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。
+      收入最大化忽略成本，不能直接当作利润最大化。
+    en: "Profit falls. Illustrative example: a platform charges low prices to build
+      market share despite a short-run loss. Low profit alone does not prove a
+      mistaken decision; consider future returns, financing and rivals'
+      responses. Revenue and profit maximisation differ. Revenue maximisation
+      ignores costs and is not equivalent to profit maximisation."
+- id: u2-18-firm-objectives-short-1
+  knowledgePointId: u2-18-firm-objectives
+  type: short-answer
+  prompt:
+    zh-CN: 解释企业的多重目标的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Alternative objectives of firms and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。
+      所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润
+      原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。
+    en: "Firms may seek profit, revenue, growth, market share, social objectives or
+      satisfactory profit. Managers and owners may have different objectives.
+      Owners and managers face different incentives; growth or reputation may
+      take priority; short-run output need not maximise profit Illustrative
+      example: a platform charges low prices to build market share despite a
+      short-run loss. Low profit alone does not prove a mistaken decision;
+      consider future returns, financing and rivals' responses. Revenue and
+      profit maximisation differ."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 目标
+        en: objectives
+      alternatives:
+        zh-CN:
+          - 目标
+          - 所有者与管理者面临不同激励
+        en:
+          - objectives
+          - Owners and managers face different incentives
+    - id: mechanism-2
+      label:
+        zh-CN: 收入
+        en: revenue
+      alternatives:
+        zh-CN:
+          - 收入
+          - 增长或声誉可能优先
+        en:
+          - revenue
+          - growth or reputation may take priority
+    - id: mechanism-3
+      label:
+        zh-CN: 成本
+        en: cost
+      alternatives:
+        zh-CN:
+          - 成本
+          - 短期产量不一定对应最大利润
+        en:
+          - cost
+          - short-run output need not maximise profit
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

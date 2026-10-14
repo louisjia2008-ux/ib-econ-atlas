@@ -1,0 +1,101 @@
+- id: u2-24-pes-flash-1
+  knowledgePointId: u2-24-pes
+  type: flashcard
+  prompt:
+    zh-CN: 解释“供给价格弹性 PES”，并说明一个关键条件。
+    en: Explain Price elasticity of supply and state one important condition.
+  answer:
+    zh-CN: PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。
+    en: PES equals percentage change in quantity supplied divided by percentage
+      change in price and measures producers' quantity response to a price
+      change.
+  explanation:
+    zh-CN: PES 衡量供给量反应，不衡量需求变化或供给移动。
+    en: PES measures quantity supplied response, not a demand change or a supply
+      shift.
+- id: u2-24-pes-mcq-1
+  knowledgePointId: u2-24-pes
+  type: mcq
+  prompt:
+    zh-CN: 价格涨 8%、供给量涨 12%，PES 为多少？
+    en: Price rises 8% and quantity supplied 12%. What is PES?
+  options:
+    - id: a
+      zh-CN: "0.67"
+      en: "0.67"
+    - id: b
+      zh-CN: "4"
+      en: "4"
+    - id: c
+      zh-CN: "96"
+      en: "96"
+    - id: d
+      zh-CN: "1.5"
+      en: "1.5"
+  correctOptionId: d
+  explanation:
+    zh-CN: 1.5。 原创例：价格上涨 10%，供给量增加
+      5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。 PES
+      衡量供给量反应，不衡量需求变化或供给移动。
+    en: "1.5. Illustrative example: price rises 10% and quantity supplied rises 5%,
+      so PES=0.5: inelastic. Completely fixed immediate output gives a vertical
+      supply curve, but not all short-run supply is perfectly inelastic. PES
+      measures quantity supplied response, not a demand change or a supply
+      shift."
+- id: u2-24-pes-short-1
+  knowledgePointId: u2-24-pes
+  type: short-answer
+  prompt:
+    zh-CN: 解释供给价格弹性 PES的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Price elasticity of supply and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: PES=供给量百分比变化/价格百分比变化，用于衡量生产者对价格变化的数量反应。
+      价格改变生产激励；投入和产能约束决定可增加的数量；百分比数量反应与价格反应比较 原创例：价格上涨 10%，供给量增加
+      5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。
+    en: "PES equals percentage change in quantity supplied divided by percentage
+      change in price and measures producers' quantity response to a price
+      change. Price changes incentives to produce; input and capacity limits
+      determine feasible expansion; compare percentage quantity and price
+      changes Illustrative example: price rises 10% and quantity supplied rises
+      5%, so PES=0.5: inelastic. Completely fixed immediate output gives a
+      vertical supply curve, but not all short-run supply is perfectly
+      inelastic."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 供给量
+        en: quantity supplied
+      alternatives:
+        zh-CN:
+          - 供给量
+          - 价格改变生产激励
+        en:
+          - quantity supplied
+          - Price changes incentives to produce
+    - id: mechanism-2
+      label:
+        zh-CN: 百分比
+        en: percentage
+      alternatives:
+        zh-CN:
+          - 百分比
+          - 投入和产能约束决定可增加的数量
+        en:
+          - percentage
+          - input and capacity limits determine feasible expansion
+    - id: mechanism-3
+      label:
+        zh-CN: 价格
+        en: price
+      alternatives:
+        zh-CN:
+          - 价格
+          - 百分比数量反应与价格反应比较
+        en:
+          - price
+          - compare percentage quantity and price changes
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

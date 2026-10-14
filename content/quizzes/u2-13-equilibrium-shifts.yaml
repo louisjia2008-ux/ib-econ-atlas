@@ -1,0 +1,101 @@
+- id: u2-13-equilibrium-shifts-flash-1
+  knowledgePointId: u2-13-equilibrium-shifts
+  type: flashcard
+  prompt:
+    zh-CN: 解释“均衡变化与同时移动”，并说明一个关键条件。
+    en: Explain Equilibrium changes and simultaneous shifts and state one important
+      condition.
+  answer:
+    zh-CN: 非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。
+    en: Non-price changes shift demand or supply and produce a new equilibrium. With
+      simultaneous shifts, some effects depend on their relative magnitudes.
+  explanation:
+    zh-CN: 同时移动时必须保留不确定性，不能随意假定移动幅度相同。
+    en: Preserve ambiguity under simultaneous shifts rather than silently assuming
+      equal magnitudes.
+- id: u2-13-equilibrium-shifts-mcq-1
+  knowledgePointId: u2-13-equilibrium-shifts
+  type: mcq
+  prompt:
+    zh-CN: 需求与供给同时右移，什么可以确定？
+    en: Demand and supply both shift right. What can be determined?
+  options:
+    - id: a
+      zh-CN: 均衡数量增加
+      en: Equilibrium quantity rises
+    - id: b
+      zh-CN: 价格必然上升
+      en: Price must rise
+    - id: c
+      zh-CN: 价格必然下降
+      en: Price must fall
+    - id: d
+      zh-CN: 数量必然减少
+      en: Quantity must fall
+  correctOptionId: a
+  explanation:
+    zh-CN: 均衡数量增加。
+      原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。
+      同时移动时必须保留不确定性，不能随意假定移动幅度相同。
+    en: "Equilibrium quantity rises. Illustrative example: when demand and supply
+      both shift right, equilibrium quantity rises but price may rise, fall or
+      stay unchanged. Directions alone cannot determine price. With demand right
+      and supply left, price rises but quantity is ambiguous. Preserve ambiguity
+      under simultaneous shifts rather than silently assuming equal magnitudes."
+- id: u2-13-equilibrium-shifts-short-1
+  knowledgePointId: u2-13-equilibrium-shifts
+  type: short-answer
+  prompt:
+    zh-CN: 解释均衡变化与同时移动的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Equilibrium changes and simultaneous shifts and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 非价格因素使需求或供给移动，产生新的均衡；两条曲线同时移动时，有些方向需要比较移动幅度才能判断。
+      识别变化的决定因素；移动相关曲线而保持其他关系不变；比较新旧均衡价格和数量
+      原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。
+    en: "Non-price changes shift demand or supply and produce a new equilibrium.
+      With simultaneous shifts, some effects depend on their relative
+      magnitudes. Identify the changed determinant; shift the relevant curve
+      while holding other relationships constant; compare old and new
+      equilibrium price and quantity Illustrative example: when demand and
+      supply both shift right, equilibrium quantity rises but price may rise,
+      fall or stay unchanged. Directions alone cannot determine price. With
+      demand right and supply left, price rises but quantity is ambiguous."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 移动
+        en: shift
+      alternatives:
+        zh-CN:
+          - 移动
+          - 识别变化的决定因素
+        en:
+          - shift
+          - Identify the changed determinant
+    - id: mechanism-2
+      label:
+        zh-CN: 数量
+        en: quantity
+      alternatives:
+        zh-CN:
+          - 数量
+          - 移动相关曲线而保持其他关系不变
+        en:
+          - quantity
+          - shift the relevant curve while holding other relationships constant
+    - id: mechanism-3
+      label:
+        zh-CN: 不确定
+        en: ambiguous
+      alternatives:
+        zh-CN:
+          - 不确定
+          - 比较新旧均衡价格和数量
+        en:
+          - ambiguous
+          - compare old and new equilibrium price and quantity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,101 @@
+- id: u2-26-pes-application-flash-1
+  knowledgePointId: u2-26-pes-application
+  type: flashcard
+  prompt:
+    zh-CN: 解释“PES 的计算与政策含义”，并说明一个关键条件。
+    en: Explain PES calculations and policy implications and state one important
+      condition.
+  answer:
+    zh-CN: 判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。
+    en: "Supply elasticity matters for a policy's quantity effect: weak supply
+      response makes demand stimulation more likely to raise prices than greatly
+      expand output."
+  explanation:
+    zh-CN: 需求补助不能自动消除供给侧限制。
+    en: A demand subsidy does not automatically remove supply-side constraints.
+- id: u2-26-pes-application-mcq-1
+  knowledgePointId: u2-26-pes-application
+  type: mcq
+  prompt:
+    zh-CN: 固定数量供给遇到需求右移，主要结果是什么？
+    en: Demand shifts right against fixed quantity supply. What is the main result?
+  options:
+    - id: a
+      zh-CN: 数量上涨，价格不变
+      en: Quantity rises, price unchanged
+    - id: b
+      zh-CN: 价格上涨，数量不变
+      en: Price rises, quantity unchanged
+    - id: c
+      zh-CN: 价格与数量都下降
+      en: Both fall
+    - id: d
+      zh-CN: 供给自动无限扩张
+      en: Supply automatically expands without limit
+  correctOptionId: b
+  explanation:
+    zh-CN: 价格上涨，数量不变。 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算
+      PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。
+      需求补助不能自动消除供给侧限制。
+    en: "Price rises, quantity unchanged. Illustrative example: price rises from 20
+      to 22 and supply from 100 to 105. Using initial values,
+      PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can
+      raise rents in the short run rather than add many homes. A demand subsidy
+      does not automatically remove supply-side constraints."
+- id: u2-26-pes-application-short-1
+  knowledgePointId: u2-26-pes-application
+  type: short-answer
+  prompt:
+    zh-CN: 解释PES 的计算与政策含义的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of PES calculations and policy implications and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 判断政策的数量效应需要供给弹性；数量反应弱时，刺激需求更可能推高价格而非显著扩大产量。
+      需求刺激使需求右移；产能限制供给反应；供给越缺乏弹性价格反应通常越大 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算
+      PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。
+    en: "Supply elasticity matters for a policy's quantity effect: weak supply
+      response makes demand stimulation more likely to raise prices than greatly
+      expand output. Demand stimulus shifts demand right; capacity constrains
+      supply response; more inelastic supply normally creates a larger price
+      response Illustrative example: price rises from 20 to 22 and supply from
+      100 to 105. Using initial values, PES=(5/100)/(2/20)=0.5. With a fixed
+      housing stock, a rent subsidy can raise rents in the short run rather than
+      add many homes."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 产能
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 产能
+          - 需求刺激使需求右移
+        en:
+          - capacity
+          - Demand stimulus shifts demand right
+    - id: mechanism-2
+      label:
+        zh-CN: 价格
+        en: price
+      alternatives:
+        zh-CN:
+          - 价格
+          - 产能限制供给反应
+        en:
+          - price
+          - capacity constrains supply response
+    - id: mechanism-3
+      label:
+        zh-CN: 数量
+        en: quantity
+      alternatives:
+        zh-CN:
+          - 数量
+          - 供给越缺乏弹性价格反应通常越大
+        en:
+          - quantity
+          - more inelastic supply normally creates a larger price response
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

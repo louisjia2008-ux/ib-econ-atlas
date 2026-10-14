@@ -1,0 +1,97 @@
+- id: u2-27-price-ceiling-flash-1
+  knowledgePointId: u2-27-price-ceiling
+  type: flashcard
+  prompt:
+    zh-CN: 解释“最高限价”，并说明一个关键条件。
+    en: Explain Price ceilings and state one important condition.
+  answer:
+    zh-CN: 最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。
+    en: A price ceiling sets a legal maximum price. Below equilibrium it is binding
+      and normally creates excess demand.
+  explanation:
+    zh-CN: 高于均衡的最高限价通常没有约束力。
+    en: A ceiling above equilibrium is normally non-binding.
+- id: u2-27-price-ceiling-mcq-1
+  knowledgePointId: u2-27-price-ceiling
+  type: mcq
+  prompt:
+    zh-CN: 限价下 Qd=120、Qs=80，短缺多少？
+    en: At a ceiling Qd=120 and Qs=80. What is the shortage?
+  options:
+    - id: a
+      zh-CN: "80"
+      en: "80"
+    - id: b
+      zh-CN: "120"
+      en: "120"
+    - id: c
+      zh-CN: "40"
+      en: "40"
+    - id: d
+      zh-CN: "200"
+      en: "200"
+  correctOptionId: c
+  explanation:
+    zh-CN: 40。 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多
+      60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。 高于均衡的最高限价通常没有约束力。
+    en: "40. Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a
+      shortage of 40 and at most 60 legal trades. Queues, connections or black
+      markets may allocate goods. Low controlled rent does not guarantee access
+      for every low-income household. A ceiling above equilibrium is normally
+      non-binding."
+- id: u2-27-price-ceiling-short-1
+  knowledgePointId: u2-27-price-ceiling
+  type: short-answer
+  prompt:
+    zh-CN: 解释最高限价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Price ceilings and apply it to an example of your
+      own.
+  modelAnswer:
+    zh-CN: 最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。
+      价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 原创例：限价 6 元时 Qd=100、Qs=60，短缺为
+      40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。
+    en: "A price ceiling sets a legal maximum price. Below equilibrium it is binding
+      and normally creates excess demand. Price is held below equilibrium;
+      quantity demanded rises and quantity supplied falls; shortages require
+      non-price rationing Illustrative example: at a ceiling of six, Qd=100 and
+      Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues,
+      connections or black markets may allocate goods. Low controlled rent does
+      not guarantee access for every low-income household."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 低于均衡
+        en: below equilibrium
+      alternatives:
+        zh-CN:
+          - 低于均衡
+          - 价格被限制在均衡以下
+        en:
+          - below equilibrium
+          - Price is held below equilibrium
+    - id: mechanism-2
+      label:
+        zh-CN: 短缺
+        en: shortage
+      alternatives:
+        zh-CN:
+          - 短缺
+          - 买方需求量增加、卖方供给量减少
+        en:
+          - shortage
+          - quantity demanded rises and quantity supplied falls
+    - id: mechanism-3
+      label:
+        zh-CN: 配给
+        en: rationing
+      alternatives:
+        zh-CN:
+          - 配给
+          - 短缺需要非价格配给
+        en:
+          - rationing
+          - shortages require non-price rationing
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,42 @@
+id: u2-54-natural-monopoly
+slug: natural-monopoly
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.4"
+    pages:
+      - 220
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-49-scale
+terms:
+  - 自然垄断与价格监管
+  - Natural monopoly and price regulation
+  - 平均成本
+  - average cost
+  - 边际成本
+  - marginal cost
+  - 监管
+  - regulation
+synonyms:
+  zh-CN:
+    - 平均成本
+    - 边际成本
+    - 监管
+  en:
+    - average cost
+    - marginal cost
+    - regulation
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-54-natural-monopoly-flash-1
+  - u2-54-natural-monopoly-mcq-1
+  - u2-54-natural-monopoly-short-1

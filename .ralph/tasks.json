@@ -9,8 +9,8 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 19,
-  "status": "complete",
+  "current_iteration": 23,
+  "status": "running",
   "tasks": [
     {
       "id": "T001",
@@ -285,13 +285,33 @@
       "files_expected": [".ralph/current_task.md", ".ralph/final_report.md"],
       "attempts": 0,
       "last_error": "",
-      "notes": "Created the public repository, published safety baseline 0d8e11c as main, pushed the complete feature history, opened unmerged PR #1, attached it to the task, and observed both hosted CI jobs pass. Merge, Pages publication and Worker deployment remain outside this task."
+      "notes": "Created the public repository, published safety baseline 0d8e11c as main, pushed the complete feature history, opened unmerged PR #1, attached it to the task, and observed both hosted CI jobs pass. This historical checkpoint predates the later Unit 1 merge and deployment."
+    },
+    {
+      "id": "T020", "title": "Lock Unit 2 scope against current main", "type": "safety", "status": "done", "priority": "high", "dependencies": ["T019"],
+      "acceptance": ["Clean original branch preserved", "Unit 2 contract and 60-point coverage locked"], "verification": ["git status", "current main API identity"], "files_expected": [".ralph/unit-2-contract.md"], "attempts": 0, "last_error": "", "notes": "Feature branch starts from current main 1e7b938; no dependency update or live AI."
+    },
+    {
+      "id": "T021", "title": "Author original Unit 2 content and diagrams", "type": "content", "status": "done", "priority": "high", "dependencies": ["T020"],
+      "acceptance": ["60 bilingual points", "180 practice items", "12 original diagrams"], "verification": ["content validator", "all model answers score full keyword coverage"], "files_expected": ["content", "scripts/content-data/unit-2.mjs"], "attempts": 0, "last_error": "", "notes": "Sections 2.1–2.12 represented; 33 core and 27 HL points; examples explicitly illustrative."
+    },
+    {
+      "id": "T022", "title": "Integrate cross-unit learning and offline content", "type": "feature", "status": "done", "priority": "high", "dependencies": ["T021"],
+      "acceptance": ["Two-unit directories and dynamic counts", "Old backup compatibility", "All content chunks precached"], "verification": ["Vitest", "Playwright offline first-visit"], "files_expected": ["src", "scripts", "vite.config.ts"], "attempts": 0, "last_error": "", "notes": "82 tests and first browser run pass; Unit 1 IDs and persistence schema unchanged."
+    },
+    {
+      "id": "T023", "title": "Verify Unit 2 and inspect release visuals", "type": "verification", "status": "done", "priority": "high", "dependencies": ["T022"],
+      "acceptance": ["Full local verify", "Desktop/tablet/mobile and offline acceptance", "Visual screenshots inspected"], "verification": ["npm run verify", "npm run test:e2e"], "files_expected": ["docs/UNIT_2.md", "reports", ".ralph/final_report.md"], "attempts": 0, "last_error": "", "notes": "No production deployment included."
+    },
+    {
+      "id": "T024", "title": "Push Unit 2 and open an unmerged PR", "type": "delivery", "status": "in_progress", "priority": "high", "dependencies": ["T023"],
+      "acceptance": ["Feature commit pushed", "PR attached", "Hosted CI inspected"], "verification": ["git ls-remote", "gh pr view", "gh pr checks"], "files_expected": [".ralph"], "attempts": 0, "last_error": "", "notes": "User authorised feature-branch PR publication."
     }
   ],
   "blockers": [],
-  "last_successful_task": "T019",
+  "last_successful_task": "T023",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-09-30T19:19:00+08:00"
+  "updated_at": "2026-10-15T00:15:00+08:00"
 }

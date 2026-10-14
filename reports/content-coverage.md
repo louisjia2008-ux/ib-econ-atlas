@@ -2,20 +2,20 @@
 
 This report is generated from the checked-in source content by `npm run content:report`. Do not edit it by hand.
 
-## Unit 1 release slice
+## Published Units 1 and 2
 
 | Measure | Result |
 | --- | ---: |
-| Manifest knowledge points | 43 |
-| Implemented knowledge points | 43 |
-| Localised learning pages | 86 |
-| Chinese pages | 43 |
-| English pages | 43 |
-| Flashcards | 43 |
-| Multiple-choice questions | 43 |
-| Short-answer questions | 43 |
-| Total practice items | 129 |
-| Unique diagram assets | 1 |
+| Manifest knowledge points | 103 |
+| Implemented knowledge points | 103 |
+| Localised learning pages | 206 |
+| Chinese pages | 103 |
+| English pages | 103 |
+| Flashcards | 103 |
+| Multiple-choice questions | 103 |
+| Short-answer questions | 103 |
+| Total practice items | 309 |
+| Unique diagram assets | 13 |
 | Unique external example sources | 40 |
 
 ## Coverage by syllabus section
@@ -27,13 +27,25 @@ This report is generated from the checked-in source content by `npm run content:
 | 1.3 | 6 |
 | 1.4 | 6 |
 | 1.5 | 8 |
+| 2.1 | 5 |
+| 2.2 | 5 |
+| 2.3 | 5 |
+| 2.4 | 3 |
+| 2.5 | 5 |
+| 2.6 | 3 |
+| 2.7 | 6 |
+| 2.8 | 8 |
+| 2.9 | 3 |
+| 2.10 | 3 |
+| 2.11 | 11 |
+| 2.12 | 3 |
 
 ## Coverage by level
 
 | Level | Knowledge points |
 | --- | ---: |
-| core | 35 |
-| hl | 0 |
+| core | 68 |
+| hl | 27 |
 | extension | 8 |
 
 ## Enforced release properties

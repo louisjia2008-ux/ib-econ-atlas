@@ -15,13 +15,13 @@ Each knowledge point has one stable ID shared by two independently written langu
 
 ## Localised Markdown
 
-`zh.md` and `en.md` use YAML frontmatter for structured study fields and a Markdown body for the longer explanation. Required fields are title, takeaway, definition, causal chain, sourced real-world example, misconceptions, exam application, and summary.
+`zh.md` and `en.md` use YAML frontmatter for structured study fields and a Markdown body for the longer explanation. Required fields are title, takeaway, definition, causal chain, misconceptions, exam application, and summary. Real-world examples are optional and require a factual URL and observation date when present. Original hypothetical examples must be labelled illustrative and must not masquerade as dated observations.
 
 The two pages must agree on economic meaning, assumptions, and exceptions, but natural phrasing and explanatory order may differ by language.
 
 ## Practice
 
-Unit 1 currently provides three items per point:
+Units 1 and 2 provide three items per point:
 
 - a recall flashcard;
 - an automatically scored multiple-choice question;

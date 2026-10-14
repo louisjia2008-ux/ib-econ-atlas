@@ -1,0 +1,102 @@
+- id: u2-47-market-structures-flash-1
+  knowledgePointId: u2-47-market-structures
+  type: flashcard
+  prompt:
+    zh-CN: 解释“市场结构与进入壁垒”，并说明一个关键条件。
+    en: Explain Market structures and entry barriers and state one important
+      condition.
+  answer:
+    zh-CN: 市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。
+    en: Market structure describes firm numbers, product differentiation, entry
+      barriers and information conditions. Market power is the ability to
+      influence price.
+  explanation:
+    zh-CN: 企业规模大不自动等于垄断，必须先定义相关市场。
+    en: A large firm is not automatically a monopoly; first define the relevant
+      market.
+- id: u2-47-market-structures-mcq-1
+  knowledgePointId: u2-47-market-structures
+  type: mcq
+  prompt:
+    zh-CN: 哪项最可能构成进入壁垒？
+    en: Which is most likely an entry barrier?
+  options:
+    - id: a
+      zh-CN: 消费者容易比较价格
+      en: Easy price comparison
+    - id: b
+      zh-CN: 相同技术公开可得
+      en: Identical technology freely available
+    - id: c
+      zh-CN: 独家法律专利
+      en: An exclusive legal patent
+    - id: d
+      zh-CN: 新企业可无成本进入
+      en: Costless entry
+  correctOptionId: c
+  explanation:
+    zh-CN: 独家法律专利。
+      原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。
+      企业规模大不自动等于垄断，必须先定义相关市场。
+    en: "An exclusive legal patent. Illustrative example: a patented medicine may
+      lack close competition; generic entry after expiry can change pricing
+      power. Firm numbers are informative, but market definition, substitutes
+      and entry threats also matter. A large firm is not automatically a
+      monopoly; first define the relevant market."
+- id: u2-47-market-structures-short-1
+  knowledgePointId: u2-47-market-structures
+  type: short-answer
+  prompt:
+    zh-CN: 解释市场结构与进入壁垒的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Market structures and entry barriers and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。
+      专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权
+      原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。
+    en: "Market structure describes firm numbers, product differentiation, entry
+      barriers and information conditions. Market power is the ability to
+      influence price. Patents, scale advantages or strategic behaviour restrict
+      entry; competitive substitutes weaken; firms may gain pricing power
+      Illustrative example: a patented medicine may lack close competition;
+      generic entry after expiry can change pricing power. Firm numbers are
+      informative, but market definition, substitutes and entry threats also
+      matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 壁垒
+        en: barrier
+      alternatives:
+        zh-CN:
+          - 壁垒
+          - 专利、规模优势或战略行为限制进入
+        en:
+          - barrier
+          - Patents, scale advantages or strategic behaviour restrict entry
+    - id: mechanism-2
+      label:
+        zh-CN: 替代品
+        en: substitutes
+      alternatives:
+        zh-CN:
+          - 替代品
+          - 替代竞争减弱
+        en:
+          - substitutes
+          - competitive substitutes weaken
+    - id: mechanism-3
+      label:
+        zh-CN: 定价权
+        en: pricing power
+      alternatives:
+        zh-CN:
+          - 定价权
+          - 企业可能有更大定价权
+        en:
+          - pricing power
+          - firms may gain pricing power
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

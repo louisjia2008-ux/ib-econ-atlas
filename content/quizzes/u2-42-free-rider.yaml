@@ -1,0 +1,102 @@
+- id: u2-42-free-rider-flash-1
+  knowledgePointId: u2-42-free-rider
+  type: flashcard
+  prompt:
+    zh-CN: 解释“搭便车与市场提供不足”，并说明一个关键条件。
+    en: Explain Free riding and underprovision and state one important condition.
+  answer:
+    zh-CN: 搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。
+    en: Free riding means enjoying benefits without paying. Non-excludability
+      encourages concealed willingness to pay, making cost recovery difficult
+      and causing underprovision.
+  explanation:
+    zh-CN: 搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。
+    en: Simply raising the price cannot solve free riding when non-payers still
+      receive benefits.
+- id: u2-42-free-rider-mcq-1
+  knowledgePointId: u2-42-free-rider
+  type: mcq
+  prompt:
+    zh-CN: 为什么非排他性会导致提供不足？
+    en: Why can non-excludability lead to underprovision?
+  options:
+    - id: a
+      zh-CN: 所有人无收益
+      en: Nobody benefits
+    - id: b
+      zh-CN: 难以让所有受益者付费
+      en: It is hard to charge every beneficiary
+    - id: c
+      zh-CN: 生产成本必然为零
+      en: Production cost is necessarily zero
+    - id: d
+      zh-CN: 数量越多效用必然负
+      en: More output necessarily has negative utility
+  correctOptionId: b
+  explanation:
+    zh-CN: 难以让所有受益者付费。
+      原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。
+      搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。
+    en: "It is hard to charge every beneficiary. Illustrative example: neighbourhood
+      lighting benefits every household, including non-payers. Even if combined
+      benefit exceeds installation cost, voluntary charging may fail. Taxes or
+      community rules can coordinate financing without guaranteeing spending
+      efficiency. Simply raising the price cannot solve free riding when
+      non-payers still receive benefits."
+- id: u2-42-free-rider-short-1
+  knowledgePointId: u2-42-free-rider
+  type: short-answer
+  prompt:
+    zh-CN: 解释搭便车与市场提供不足的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Free riding and underprovision and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 搭便车是享受物品收益却不付费。非排他性使人有动机隐藏支付意愿，私人提供者难以收回成本，导致提供不足。
+      使用者可以不支付仍获益；自愿付款不足；私人融资难覆盖生产成本
+      原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。
+    en: "Free riding means enjoying benefits without paying. Non-excludability
+      encourages concealed willingness to pay, making cost recovery difficult
+      and causing underprovision. Users can benefit without payment; voluntary
+      contributions are insufficient; private financing may fail to cover
+      production costs Illustrative example: neighbourhood lighting benefits
+      every household, including non-payers. Even if combined benefit exceeds
+      installation cost, voluntary charging may fail. Taxes or community rules
+      can coordinate financing without guaranteeing spending efficiency."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 搭便车
+        en: free riding
+      alternatives:
+        zh-CN:
+          - 搭便车
+          - 使用者可以不支付仍获益
+        en:
+          - free riding
+          - Users can benefit without payment
+    - id: mechanism-2
+      label:
+        zh-CN: 付费
+        en: payment
+      alternatives:
+        zh-CN:
+          - 付费
+          - 自愿付款不足
+        en:
+          - payment
+          - voluntary contributions are insufficient
+    - id: mechanism-3
+      label:
+        zh-CN: 提供不足
+        en: underprovision
+      alternatives:
+        zh-CN:
+          - 提供不足
+          - 私人融资难覆盖生产成本
+        en:
+          - underprovision
+          - private financing may fail to cover production costs
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

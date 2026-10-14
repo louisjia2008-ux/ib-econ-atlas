@@ -1,0 +1,101 @@
+- id: u2-35-negative-consumption-flash-1
+  knowledgePointId: u2-35-negative-consumption
+  type: flashcard
+  prompt:
+    zh-CN: 解释“负消费外部性”，并说明一个关键条件。
+    en: Explain Negative consumption externalities and state one important
+      condition.
+  answer:
+    zh-CN: 负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。
+    en: A negative consumption externality imposes uncompensated costs on third
+      parties and is normally represented by MSB equal to MPB minus marginal
+      external cost.
+  explanation:
+    zh-CN: 自身损害与第三方损害必须区分。
+    en: Distinguish harm to oneself from harm to third parties.
+- id: u2-35-negative-consumption-mcq-1
+  knowledgePointId: u2-35-negative-consumption
+  type: mcq
+  prompt:
+    zh-CN: 哪项最清楚属于负消费外部性？
+    en: Which most clearly represents a negative consumption externality?
+  options:
+    - id: a
+      zh-CN: 工厂支付自己的电费
+      en: A factory pays its own electricity bill
+    - id: b
+      zh-CN: 本人支付商品价格
+      en: The buyer pays the product price
+    - id: c
+      zh-CN: 邻居被消费噪音打扰
+      en: Neighbours disturbed by consumption noise
+    - id: d
+      zh-CN: 学习提高本人工资
+      en: Study raises the student's own wages
+  correctOptionId: c
+  explanation:
+    zh-CN: 邻居被消费噪音打扰。 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则
+      MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。 自身损害与第三方损害必须区分。
+    en: "Neighbours disturbed by consumption noise. Illustrative example: loud
+      night-time music disturbs neighbours. MSB lies below MPB; without
+      production externalities MSC=MPC. Harm to the consumer's own health is not
+      an external cost, although it may involve imperfect information and
+      demerit goods. Distinguish harm to oneself from harm to third parties."
+- id: u2-35-negative-consumption-short-1
+  knowledgePointId: u2-35-negative-consumption
+  type: short-answer
+  prompt:
+    zh-CN: 解释负消费外部性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Negative consumption externalities and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 负消费外部性是消费给未获补偿的第三方造成成本，通常表现为 MSB=MPB−外部边际成本。
+      消费者获得私人收益；消费对他人造成损害；社会边际收益低于私人收益并导致过度消费 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB
+      下方，若没有生产外部性则 MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。
+    en: "A negative consumption externality imposes uncompensated costs on third
+      parties and is normally represented by MSB equal to MPB minus marginal
+      external cost. The consumer receives private benefit; consumption harms
+      others; social marginal benefit lies below private benefit and consumption
+      is excessive Illustrative example: loud night-time music disturbs
+      neighbours. MSB lies below MPB; without production externalities MSC=MPC.
+      Harm to the consumer's own health is not an external cost, although it may
+      involve imperfect information and demerit goods."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 第三方
+        en: third party
+      alternatives:
+        zh-CN:
+          - 第三方
+          - 消费者获得私人收益
+        en:
+          - third party
+          - The consumer receives private benefit
+    - id: mechanism-2
+      label:
+        zh-CN: MSB
+        en: MSB
+      alternatives:
+        zh-CN:
+          - MSB
+          - 消费对他人造成损害
+        en:
+          - MSB
+          - consumption harms others
+    - id: mechanism-3
+      label:
+        zh-CN: 过度消费
+        en: overconsumption
+      alternatives:
+        zh-CN:
+          - 过度消费
+          - 社会边际收益低于私人收益并导致过度消费
+        en:
+          - overconsumption
+          - social marginal benefit lies below private benefit and consumption
+            is excessive
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

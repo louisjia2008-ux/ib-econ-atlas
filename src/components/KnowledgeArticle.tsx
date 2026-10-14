@@ -1,6 +1,8 @@
 import { Check, ChevronRight, GraduationCap, Sparkles } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { PPCExplorer } from "../features/diagrams/PPCExplorer";
+import { MicroDiagram } from "../features/diagrams/MicroDiagram";
+import { syllabusTitles as sectionTitles } from "../features/navigation/directory";
 import type { KnowledgePoint, Locale } from "../types/content";
 
 interface KnowledgeArticleProps {
@@ -23,14 +25,6 @@ interface KnowledgeArticleProps {
   onNext: (() => void) | undefined;
 }
 
-const sectionTitles: Record<string, Record<Locale, string>> = {
-  "1.1": { "zh-CN": "经济学的本质", en: "The nature of economics" },
-  "1.2": { "zh-CN": "基本经济问题与制度", en: "Basic questions and systems" },
-  "1.3": { "zh-CN": "模型与 PPC", en: "Models and the PPC" },
-  "1.4": { "zh-CN": "经济学方法", en: "Methods in economics" },
-  "1.5": { "zh-CN": "经济思想史", en: "History of economic thought" },
-};
-
 const levelLabels = {
   core: "CORE · SL / HL",
   hl: "HL",
@@ -40,12 +34,12 @@ const levelLabels = {
 export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext }: KnowledgeArticleProps) {
   const content = point.content[locale];
   const otherLocale: Locale = locale === "zh-CN" ? "en" : "zh-CN";
-  const numericId = point.meta.id.match(/^u1-(\d+)/)?.[1] ?? "—";
+  const numericId = point.meta.id.match(/^u\d+-(\d+)/)?.[1] ?? "—";
 
   return (
     <article className="knowledge-article">
       <nav className="breadcrumbs" aria-label="Breadcrumb">
-        <span>Unit 1</span>
+        <span>Unit {point.meta.section.split(".")[0]}</span>
         <ChevronRight size={13} />
         <span>{sectionTitles[point.meta.section]?.[locale] ?? point.meta.section}</span>
         <ChevronRight size={13} />
@@ -102,6 +96,7 @@ export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext }: 
       </section>
 
       {point.meta.diagramIds.includes("ppc-core") && <PPCExplorer locale={locale} />}
+      {point.meta.diagramIds.filter((id) => id !== "ppc-core").map((id) => <MicroDiagram key={id} id={id} locale={locale} />)}
 
       {content.realWorldExample && (
         <section className="article-section" aria-labelledby="application-title">

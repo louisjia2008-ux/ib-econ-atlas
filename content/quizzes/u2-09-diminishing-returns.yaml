@@ -1,0 +1,99 @@
+- id: u2-09-diminishing-returns-flash-1
+  knowledgePointId: u2-09-diminishing-returns
+  type: flashcard
+  prompt:
+    zh-CN: 解释“边际报酬递减”，并说明一个关键条件。
+    en: Explain Diminishing marginal returns and state one important condition.
+  answer:
+    zh-CN: 短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。
+    en: With at least one input fixed in the short run, successive additions of a
+      variable input eventually yield less extra output.
+  explanation:
+    zh-CN: 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。
+    en: Diminishing returns concerns fixed inputs and differs from diseconomies when
+      all inputs vary in the long run.
+- id: u2-09-diminishing-returns-mcq-1
+  knowledgePointId: u2-09-diminishing-returns
+  type: mcq
+  prompt:
+    zh-CN: 总产量从 25 增至 35，新增工人的边际产量是多少？
+    en: Total output rises from 25 to 35. What is the added worker's marginal
+      product?
+  options:
+    - id: a
+      zh-CN: "10"
+      en: "10"
+    - id: b
+      zh-CN: "35"
+      en: "35"
+    - id: c
+      zh-CN: "25"
+      en: "25"
+    - id: d
+      zh-CN: "60"
+      en: "60"
+  correctOptionId: a
+  explanation:
+    zh-CN: 10。 原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为
+      10。总产量仍在上升；技术不变是这一比较的条件。 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。
+    en: "10. Illustrative example: one oven with one, two and three workers produces
+      10, 25 and 35 units. The second worker adds 15, the third adds ten. Total
+      output still rises. Technology must be held constant for this comparison.
+      Diminishing returns concerns fixed inputs and differs from diseconomies
+      when all inputs vary in the long run."
+- id: u2-09-diminishing-returns-short-1
+  knowledgePointId: u2-09-diminishing-returns
+  type: short-answer
+  prompt:
+    zh-CN: 解释边际报酬递减的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Diminishing marginal returns and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 短期至少一个投入固定时，连续增加一种可变投入，超过某点后额外产量会下降。 资本等投入固定；可变投入不断增加；拥挤使边际产量下降并推高边际成本
+      原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为
+      10。总产量仍在上升；技术不变是这一比较的条件。
+    en: "With at least one input fixed in the short run, successive additions of a
+      variable input eventually yield less extra output. Capital or another
+      input is fixed; variable inputs increase; crowding reduces marginal
+      product and raises marginal cost Illustrative example: one oven with one,
+      two and three workers produces 10, 25 and 35 units. The second worker adds
+      15, the third adds ten. Total output still rises. Technology must be held
+      constant for this comparison."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 固定投入
+        en: fixed input
+      alternatives:
+        zh-CN:
+          - 固定投入
+          - 资本等投入固定
+        en:
+          - fixed input
+          - Capital or another input is fixed
+    - id: mechanism-2
+      label:
+        zh-CN: 边际产量
+        en: marginal product
+      alternatives:
+        zh-CN:
+          - 边际产量
+          - 可变投入不断增加
+        en:
+          - marginal product
+          - variable inputs increase
+    - id: mechanism-3
+      label:
+        zh-CN: 边际成本
+        en: marginal cost
+      alternatives:
+        zh-CN:
+          - 边际成本
+          - 拥挤使边际产量下降并推高边际成本
+        en:
+          - marginal cost
+          - crowding reduces marginal product and raises marginal cost
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

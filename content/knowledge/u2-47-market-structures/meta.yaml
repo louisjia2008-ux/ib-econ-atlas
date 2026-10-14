@@ -1,0 +1,42 @@
+id: u2-47-market-structures
+slug: market-structures
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.1"
+    pages:
+      - 196
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-48-cost-curves
+  - u2-49-scale
+  - u2-50-revenue-profit
+terms:
+  - 市场结构与进入壁垒
+  - Market structures and entry barriers
+  - 壁垒
+  - barrier
+  - 替代品
+  - substitutes
+  - 定价权
+  - pricing power
+synonyms:
+  zh-CN:
+    - 壁垒
+    - 替代品
+    - 定价权
+  en:
+    - barrier
+    - substitutes
+    - pricing power
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-47-market-structures-flash-1
+  - u2-47-market-structures-mcq-1
+  - u2-47-market-structures-short-1

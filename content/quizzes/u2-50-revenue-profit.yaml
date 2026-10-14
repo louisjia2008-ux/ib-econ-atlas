@@ -1,0 +1,103 @@
+- id: u2-50-revenue-profit-flash-1
+  knowledgePointId: u2-50-revenue-profit
+  type: flashcard
+  prompt:
+    zh-CN: 解释“收益、经济利润与正常利润”，并说明一个关键条件。
+    en: Explain Revenue, economic and normal profit and state one important
+      condition.
+  answer:
+    zh-CN: TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。
+    en: TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and implicit
+      opportunity costs. Normal profit is included in economic cost, so zero
+      economic profit can sustain production.
+  explanation:
+    zh-CN: 垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。
+    en: A monopolist's MR can lie below AR because the lower price may apply to all
+      units sold.
+- id: u2-50-revenue-profit-mcq-1
+  knowledgePointId: u2-50-revenue-profit
+  type: mcq
+  prompt:
+    zh-CN: 收入 150、显性成本 100、隐性成本 30，经济利润多少？
+    en: Revenue is 150, explicit cost 100, implicit cost 30. What is economic
+      profit?
+  options:
+    - id: a
+      zh-CN: "50"
+      en: "50"
+    - id: b
+      zh-CN: "20"
+      en: "20"
+    - id: c
+      zh-CN: "120"
+      en: "120"
+    - id: d
+      zh-CN: "150"
+      en: "150"
+  correctOptionId: b
+  explanation:
+    zh-CN: 20。 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为
+      180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。 垄断降价扩大销售时 MR 可低于
+      AR，因为较低价格可能适用于所有销售。
+    en: "20. Illustrative example: revenue 200, explicit costs 140 and implicit
+      costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180
+      gives zero economic profit while covering all opportunity costs. Normal
+      profit is not zero accounting income. A monopolist's MR can lie below AR
+      because the lower price may apply to all units sold."
+- id: u2-50-revenue-profit-short-1
+  knowledgePointId: u2-50-revenue-profit
+  type: short-answer
+  prompt:
+    zh-CN: 解释收益、经济利润与正常利润的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Revenue, economic and normal profit and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: TR=P×Q，AR=TR/Q，MR=ΔTR/ΔQ。经济利润扣除显性与隐性机会成本；正常利润已包含在经济成本中，经济利润为零仍可维持生产。
+      销售产生收入；扣除支付与机会成本；剩余为超额经济利润或亏损 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润
+      20。若收入为 180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。
+    en: "TR=P×Q, AR=TR/Q and MR=ΔTR/ΔQ. Economic profit deducts explicit and
+      implicit opportunity costs. Normal profit is included in economic cost, so
+      zero economic profit can sustain production. Sales generate revenue;
+      deduct payments and opportunity costs; the remainder is economic profit or
+      loss Illustrative example: revenue 200, explicit costs 140 and implicit
+      costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180
+      gives zero economic profit while covering all opportunity costs. Normal
+      profit is not zero accounting income."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 机会成本
+        en: opportunity cost
+      alternatives:
+        zh-CN:
+          - 机会成本
+          - 销售产生收入
+        en:
+          - opportunity cost
+          - Sales generate revenue
+    - id: mechanism-2
+      label:
+        zh-CN: 经济利润
+        en: economic profit
+      alternatives:
+        zh-CN:
+          - 经济利润
+          - 扣除支付与机会成本
+        en:
+          - economic profit
+          - deduct payments and opportunity costs
+    - id: mechanism-3
+      label:
+        zh-CN: 正常利润
+        en: normal profit
+      alternatives:
+        zh-CN:
+          - 正常利润
+          - 剩余为超额经济利润或亏损
+        en:
+          - normal profit
+          - the remainder is economic profit or loss
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -43,6 +43,11 @@ export default defineConfig({
     }),
   ],
   build: {
+    rolldownOptions: {
+      output: {
+        codeSplitting: { groups: [{ name: "learning-content", test: /generated\/content/ }] },
+      },
+    },
     sourcemap: true,
   },
 });

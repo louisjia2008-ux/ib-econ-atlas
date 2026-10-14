@@ -1,0 +1,40 @@
+id: u2-20-ped-determinants
+slug: ped-determinants
+section: "2.5"
+level: core
+syllabusRefs:
+  - 2.5 Elasticity of demand
+textbookRefs:
+  - chapter: "3"
+    section: "3.1"
+    pages:
+      - 85
+prerequisites:
+  - u2-01-demand
+related:
+  - u2-19-ped
+  - u2-21-ped-revenue
+  - u2-22-yed
+terms:
+  - PED 的决定因素
+  - Determinants of PED
+  - 替代品
+  - substitutes
+  - 时间
+  - time
+  - 反应
+  - responsiveness
+synonyms:
+  zh-CN:
+    - 替代品
+    - 时间
+    - 反应
+  en:
+    - substitutes
+    - time
+    - responsiveness
+diagramIds: []
+quizIds:
+  - u2-20-ped-determinants-flash-1
+  - u2-20-ped-determinants-mcq-1
+  - u2-20-ped-determinants-short-1

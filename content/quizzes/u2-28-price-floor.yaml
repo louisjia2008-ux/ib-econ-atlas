@@ -1,0 +1,100 @@
+- id: u2-28-price-floor-flash-1
+  knowledgePointId: u2-28-price-floor
+  type: flashcard
+  prompt:
+    zh-CN: 解释“最低限价与最低工资”，并说明一个关键条件。
+    en: Explain Price floors and minimum wages and state one important condition.
+  answer:
+    zh-CN: 最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。
+    en: A price floor sets a legal minimum price. Above equilibrium it is binding
+      and creates excess supply. A minimum wage can create excess labour supply
+      in the competitive labour-market model.
+  explanation:
+    zh-CN: 低于均衡的最低限价通常不改变市场交易。
+    en: A floor below equilibrium normally does not change market trades.
+- id: u2-28-price-floor-mcq-1
+  knowledgePointId: u2-28-price-floor
+  type: mcq
+  prompt:
+    zh-CN: 最低价下 Qs=75、Qd=50，过剩多少？
+    en: At a floor Qs=75 and Qd=50. What is the surplus?
+  options:
+    - id: a
+      zh-CN: "50"
+      en: "50"
+    - id: b
+      zh-CN: "75"
+      en: "75"
+    - id: c
+      zh-CN: "125"
+      en: "125"
+    - id: d
+      zh-CN: "25"
+      en: "25"
+  correctOptionId: d
+  explanation:
+    zh-CN: 25。 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以
+      30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。 低于均衡的最低限价通常不改变市场交易。
+    en: "25. Illustrative example: a farm price floor yields Qs=90 and Qd=60, a
+      surplus of 30. Buying all the surplus costs the floor price times 30.
+      Labour outcomes also depend on employer power, enforcement and
+      productivity; the competitive prediction is not a universal empirical
+      fact. A floor below equilibrium normally does not change market trades."
+- id: u2-28-price-floor-short-1
+  knowledgePointId: u2-28-price-floor
+  type: short-answer
+  prompt:
+    zh-CN: 解释最低限价与最低工资的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Price floors and minimum wages and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。
+      价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 原创例：农业最低价下 Qs=90、Qd=60，过剩
+      30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。
+    en: "A price floor sets a legal minimum price. Above equilibrium it is binding
+      and creates excess supply. A minimum wage can create excess labour supply
+      in the competitive labour-market model. Price is held above equilibrium;
+      supply rises and demand falls; surplus may be bought by government or
+      accumulate Illustrative example: a farm price floor yields Qs=90 and
+      Qd=60, a surplus of 30. Buying all the surplus costs the floor price times
+      30. Labour outcomes also depend on employer power, enforcement and
+      productivity; the competitive prediction is not a universal empirical
+      fact."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 高于均衡
+        en: above equilibrium
+      alternatives:
+        zh-CN:
+          - 高于均衡
+          - 价格被保持在均衡以上
+        en:
+          - above equilibrium
+          - Price is held above equilibrium
+    - id: mechanism-2
+      label:
+        zh-CN: 过剩
+        en: surplus
+      alternatives:
+        zh-CN:
+          - 过剩
+          - 供给量上升、需求量下降
+        en:
+          - surplus
+          - supply rises and demand falls
+    - id: mechanism-3
+      label:
+        zh-CN: 政府购买
+        en: government purchase
+      alternatives:
+        zh-CN:
+          - 政府购买
+          - 过剩可能由政府购买或积累
+        en:
+          - government purchase
+          - surplus may be bought by government or accumulate
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

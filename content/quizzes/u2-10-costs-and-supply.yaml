@@ -1,0 +1,101 @@
+- id: u2-10-costs-and-supply-flash-1
+  knowledgePointId: u2-10-costs-and-supply
+  type: flashcard
+  prompt:
+    zh-CN: 解释“边际成本与供给决策”，并说明一个关键条件。
+    en: Explain Marginal cost and supply decisions and state one important
+      condition.
+  answer:
+    zh-CN: 边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。
+    en: Marginal cost, MC, is the addition to total cost from one more unit.
+      Producers compare incremental revenue and cost when choosing output.
+  explanation:
+    zh-CN: 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。
+    en: Price equal to MC does not prove total profit is positive; price must also
+      be compared with average cost.
+- id: u2-10-costs-and-supply-mcq-1
+  knowledgePointId: u2-10-costs-and-supply
+  type: mcq
+  prompt:
+    zh-CN: 增加一单位使成本由 60 变为 68，MC 为多少？
+    en: One more unit raises total cost from 60 to 68. What is MC?
+  options:
+    - id: a
+      zh-CN: "68"
+      en: "68"
+    - id: b
+      zh-CN: "8"
+      en: "8"
+    - id: c
+      zh-CN: "60"
+      en: "60"
+    - id: d
+      zh-CN: "128"
+      en: "128"
+  correctOptionId: b
+  explanation:
+    zh-CN: 8。 原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3
+      的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。
+    en: "8. Illustrative example: output rises from ten to eleven and total cost
+      from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the
+      extra unit adds three to profit. Fixed cost matters for entry but does not
+      directly alter this unit's MC. Price equal to MC does not prove total
+      profit is positive; price must also be compared with average cost."
+- id: u2-10-costs-and-supply-short-1
+  knowledgePointId: u2-10-costs-and-supply
+  type: short-answer
+  prompt:
+    zh-CN: 解释边际成本与供给决策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Marginal cost and supply decisions and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 边际成本 MC 是多生产一单位引起的总成本增加；生产者比较额外收益与额外成本来选择产量。
+      额外单位需要更多投入；边际收益超过边际成本时增产提高利润；达到合适的边际条件后停止扩张 原创例：产量从 10 到 11，总成本从 80 到
+      92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3 的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。
+    en: "Marginal cost, MC, is the addition to total cost from one more unit.
+      Producers compare incremental revenue and cost when choosing output. Extra
+      output requires inputs; expansion increases profit when marginal revenue
+      exceeds marginal cost; stop expanding at the relevant marginal condition
+      Illustrative example: output rises from ten to eleven and total cost from
+      80 to 92, so MC is 12. At a price-taking firm's price of 15, the extra
+      unit adds three to profit. Fixed cost matters for entry but does not
+      directly alter this unit's MC."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 额外成本
+        en: extra cost
+      alternatives:
+        zh-CN:
+          - 额外成本
+          - 额外单位需要更多投入
+        en:
+          - extra cost
+          - Extra output requires inputs
+    - id: mechanism-2
+      label:
+        zh-CN: 边际收益
+        en: marginal revenue
+      alternatives:
+        zh-CN:
+          - 边际收益
+          - 边际收益超过边际成本时增产提高利润
+        en:
+          - marginal revenue
+          - expansion increases profit when marginal revenue exceeds marginal
+            cost
+    - id: mechanism-3
+      label:
+        zh-CN: 利润
+        en: profit
+      alternatives:
+        zh-CN:
+          - 利润
+          - 达到合适的边际条件后停止扩张
+        en:
+          - profit
+          - stop expanding at the relevant marginal condition
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

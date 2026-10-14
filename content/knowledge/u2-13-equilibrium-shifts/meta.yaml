@@ -1,0 +1,42 @@
+id: u2-13-equilibrium-shifts
+slug: equilibrium-shifts
+section: "2.3"
+level: core
+syllabusRefs:
+  - 2.3 Competitive market equilibrium
+textbookRefs:
+  - chapter: "2"
+    section: "2.4"
+    pages:
+      - 57
+prerequisites:
+  - u2-01-demand
+  - u2-06-supply
+related:
+  - u2-11-equilibrium
+  - u2-12-shortage-surplus
+  - u2-14-price-mechanism
+terms:
+  - 均衡变化与同时移动
+  - Equilibrium changes and simultaneous shifts
+  - 移动
+  - shift
+  - 数量
+  - quantity
+  - 不确定
+  - ambiguous
+synonyms:
+  zh-CN:
+    - 移动
+    - 数量
+    - 不确定
+  en:
+    - shift
+    - quantity
+    - ambiguous
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-13-equilibrium-shifts-flash-1
+  - u2-13-equilibrium-shifts-mcq-1
+  - u2-13-equilibrium-shifts-short-1

@@ -1,0 +1,39 @@
+id: u2-16-bounded-rationality
+slug: bounded-rationality
+section: "2.4"
+level: hl
+syllabusRefs:
+  - 2.4 Critique of maximizing behaviour
+textbookRefs:
+  - chapter: "2"
+    section: "2.6"
+    pages:
+      - 72
+prerequisites:
+  - u1-24-economic-models
+related:
+  - u2-17-biases-nudges
+  - u2-18-firm-objectives
+terms:
+  - 理性选择与有限理性
+  - Rational choice and bounded rationality
+  - 信息
+  - information
+  - 决策成本
+  - decision costs
+  - 满意
+  - satisficing
+synonyms:
+  zh-CN:
+    - 信息
+    - 决策成本
+    - 满意
+  en:
+    - information
+    - decision costs
+    - satisficing
+diagramIds: []
+quizIds:
+  - u2-16-bounded-rationality-flash-1
+  - u2-16-bounded-rationality-mcq-1
+  - u2-16-bounded-rationality-short-1

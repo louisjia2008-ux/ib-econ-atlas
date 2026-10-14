@@ -1,0 +1,99 @@
+- id: u2-34-negative-production-flash-1
+  knowledgePointId: u2-34-negative-production
+  type: flashcard
+  prompt:
+    zh-CN: 解释“负生产外部性”，并说明一个关键条件。
+    en: Explain Negative production externalities and state one important condition.
+  answer:
+    zh-CN: 负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。
+    en: A negative production externality imposes uncompensated costs on third
+      parties. MSC equals MPC plus marginal external cost and exceeds private
+      marginal cost.
+  explanation:
+    zh-CN: 将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。
+    en: Showing pollution as MSB below MPB confuses production and consumption
+      externalities.
+- id: u2-34-negative-production-mcq-1
+  knowledgePointId: u2-34-negative-production
+  type: mcq
+  prompt:
+    zh-CN: 负生产外部性下，哪项关系成立？
+    en: With a negative production externality, which relationship holds?
+  options:
+    - id: a
+      zh-CN: MSC<MPC
+      en: MSC<MPC
+    - id: b
+      zh-CN: MSC>MPC
+      en: MSC>MPC
+    - id: c
+      zh-CN: MSB 必然大于 MPB
+      en: MSB must exceed MPB
+    - id: d
+      zh-CN: 市场必然生产不足
+      en: The market necessarily underproduces
+  correctOptionId: b
+  explanation:
+    zh-CN: MSC>MPC。 原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC 上方，假定 MSB=MPB，以 MSC 与 MSB
+      相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。 将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。
+    en: "MSC>MPC. Illustrative example: factory discharge raises downstream
+      water-treatment costs. Draw MSC above MPC, assume MSB=MPB and locate Q*
+      where MSC meets MSB. Between Q* and Qm, social costs exceed benefits.
+      Showing pollution as MSB below MPB confuses production and consumption
+      externalities."
+- id: u2-34-negative-production-short-1
+  knowledgePointId: u2-34-negative-production
+  type: short-answer
+  prompt:
+    zh-CN: 解释负生产外部性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Negative production externalities and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 负生产外部性是生产给未获补偿的第三方造成成本，因而 MSC=MPC+外部边际成本，并高于私人边际成本。
+      生产造成第三方损害；企业没有承担全部成本；私人均衡产量高于社会最优 原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC
+      上方，假定 MSB=MPB，以 MSC 与 MSB 相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。
+    en: "A negative production externality imposes uncompensated costs on third
+      parties. MSC equals MPC plus marginal external cost and exceeds private
+      marginal cost. Production damages third parties; firms do not bear the
+      full cost; private equilibrium output exceeds the social optimum
+      Illustrative example: factory discharge raises downstream water-treatment
+      costs. Draw MSC above MPC, assume MSB=MPB and locate Q* where MSC meets
+      MSB. Between Q* and Qm, social costs exceed benefits."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 第三方
+        en: third parties
+      alternatives:
+        zh-CN:
+          - 第三方
+          - 生产造成第三方损害
+        en:
+          - third parties
+          - Production damages third parties
+    - id: mechanism-2
+      label:
+        zh-CN: MSC
+        en: MSC
+      alternatives:
+        zh-CN:
+          - MSC
+          - 企业没有承担全部成本
+        en:
+          - MSC
+          - firms do not bear the full cost
+    - id: mechanism-3
+      label:
+        zh-CN: 过度生产
+        en: overproduction
+      alternatives:
+        zh-CN:
+          - 过度生产
+          - 私人均衡产量高于社会最优
+        en:
+          - overproduction
+          - private equilibrium output exceeds the social optimum
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

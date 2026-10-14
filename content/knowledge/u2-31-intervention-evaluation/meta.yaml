@@ -1,0 +1,43 @@
+id: u2-31-intervention-evaluation
+slug: intervention-evaluation
+section: "2.7"
+level: core
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.1"
+    pages:
+      - 113
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-27-price-ceiling
+  - u2-28-price-floor
+  - u2-29-indirect-tax
+terms:
+  - 干预的利益相关者与评价
+  - Stakeholders and intervention evaluation
+  - 利益相关者
+  - stakeholders
+  - 财政成本
+  - fiscal cost
+  - 弹性
+  - elasticity
+synonyms:
+  zh-CN:
+    - 利益相关者
+    - 财政成本
+    - 弹性
+  en:
+    - stakeholders
+    - fiscal cost
+    - elasticity
+diagramIds:
+  - tax-wedge
+quizIds:
+  - u2-31-intervention-evaluation-flash-1
+  - u2-31-intervention-evaluation-mcq-1
+  - u2-31-intervention-evaluation-short-1

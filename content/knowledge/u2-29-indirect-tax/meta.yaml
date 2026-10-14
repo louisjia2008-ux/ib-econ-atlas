@@ -1,0 +1,43 @@
+id: u2-29-indirect-tax
+slug: indirect-tax
+section: "2.7"
+level: core
+syllabusRefs:
+  - 2.7 Government intervention
+textbookRefs:
+  - chapter: "4"
+    section: "4.3"
+    pages:
+      - 127
+prerequisites:
+  - u2-11-equilibrium
+  - u2-19-ped
+  - u2-24-pes
+related:
+  - u2-27-price-ceiling
+  - u2-28-price-floor
+  - u2-30-subsidy
+terms:
+  - 间接税与税收负担
+  - Indirect taxes and tax incidence
+  - 楔子
+  - wedge
+  - 弹性
+  - elasticity
+  - 负担
+  - incidence
+synonyms:
+  zh-CN:
+    - 楔子
+    - 弹性
+    - 负担
+  en:
+    - wedge
+    - elasticity
+    - incidence
+diagramIds:
+  - tax-wedge
+quizIds:
+  - u2-29-indirect-tax-flash-1
+  - u2-29-indirect-tax-mcq-1
+  - u2-29-indirect-tax-short-1

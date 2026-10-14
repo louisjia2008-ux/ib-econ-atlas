@@ -1,0 +1,100 @@
+- id: u2-59-income-wealth-flash-1
+  knowledgePointId: u2-59-income-wealth
+  type: flashcard
+  prompt:
+    zh-CN: 解释“收入、财富与机会”，并说明一个关键条件。
+    en: Explain Income, wealth and opportunity and state one important condition.
+  answer:
+    zh-CN: 收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。
+    en: Income is a flow over a period; wealth is a stock of net assets at a date.
+      Assets, skills, inheritance and market power influence opportunities and
+      distribution.
+  explanation:
+    zh-CN: 财富是资产减负债，不是把当年收入加到资产中重复计算。
+    en: Wealth is assets minus liabilities, not assets plus the year's income
+      counted again.
+- id: u2-59-income-wealth-mcq-1
+  knowledgePointId: u2-59-income-wealth
+  type: mcq
+  prompt:
+    zh-CN: 资产 90、负债 35，净财富多少？
+    en: Assets are 90 and liabilities 35. What is net wealth?
+  options:
+    - id: a
+      zh-CN: "125"
+      en: "125"
+    - id: b
+      zh-CN: "90"
+      en: "90"
+    - id: c
+      zh-CN: "55"
+      en: "55"
+    - id: d
+      zh-CN: "35"
+      en: "35"
+  correctOptionId: c
+  explanation:
+    zh-CN: 55。 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120
+      万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。 财富是资产减负债，不是把当年收入加到资产中重复计算。
+    en: "55. Illustrative example: a household earns 300,000 yearly, owns assets of
+      two million and owes 800,000: net wealth is 1.2 million. Income and wealth
+      can diverge, as for a retired asset owner. A single measure may
+      misidentify policy beneficiaries. Wealth is assets minus liabilities, not
+      assets plus the year's income counted again."
+- id: u2-59-income-wealth-short-1
+  knowledgePointId: u2-59-income-wealth
+  type: short-answer
+  prompt:
+    zh-CN: 解释收入、财富与机会的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Income, wealth and opportunity and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 收入是一定时期的流量，财富是某时点净资产的存量；资产、技能、继承和市场势力会影响经济机会与分配。
+      资产与教育条件不同；影响收入和未来资产积累；机会差异可能跨代持续 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120
+      万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。
+    en: "Income is a flow over a period; wealth is a stock of net assets at a date.
+      Assets, skills, inheritance and market power influence opportunities and
+      distribution. Assets and educational conditions differ; income and future
+      asset accumulation respond; opportunity gaps may persist across
+      generations Illustrative example: a household earns 300,000 yearly, owns
+      assets of two million and owes 800,000: net wealth is 1.2 million. Income
+      and wealth can diverge, as for a retired asset owner. A single measure may
+      misidentify policy beneficiaries."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 流量
+        en: flow
+      alternatives:
+        zh-CN:
+          - 流量
+          - 资产与教育条件不同
+        en:
+          - flow
+          - Assets and educational conditions differ
+    - id: mechanism-2
+      label:
+        zh-CN: 存量
+        en: stock
+      alternatives:
+        zh-CN:
+          - 存量
+          - 影响收入和未来资产积累
+        en:
+          - stock
+          - income and future asset accumulation respond
+    - id: mechanism-3
+      label:
+        zh-CN: 资产减负债
+        en: assets minus liabilities
+      alternatives:
+        zh-CN:
+          - 资产减负债
+          - 机会差异可能跨代持续
+        en:
+          - assets minus liabilities
+          - opportunity gaps may persist across generations
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

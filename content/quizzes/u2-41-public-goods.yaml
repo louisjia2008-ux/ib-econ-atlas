@@ -1,0 +1,102 @@
+- id: u2-41-public-goods-flash-1
+  knowledgePointId: u2-41-public-goods
+  type: flashcard
+  prompt:
+    zh-CN: 解释“公共物品的特征”，并说明一个关键条件。
+    en: Explain Characteristics of public goods and state one important condition.
+  answer:
+    zh-CN: 纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。
+    en: "A pure public good is both non-rival and non-excludable: one person's use
+      does not reduce availability to others, and non-payers are difficult to
+      exclude."
+  explanation:
+    zh-CN: 公共提供不等于公共物品，收费学校仍可排他。
+    en: Public provision is not the same as a public good; a school can still
+      exclude users.
+- id: u2-41-public-goods-mcq-1
+  knowledgePointId: u2-41-public-goods
+  type: mcq
+  prompt:
+    zh-CN: 纯公共物品需要哪两种特征？
+    en: Which two characteristics define a pure public good?
+  options:
+    - id: a
+      zh-CN: 非竞争与非排他
+      en: Non-rivalry and non-excludability
+    - id: b
+      zh-CN: 竞争与排他
+      en: Rivalry and excludability
+    - id: c
+      zh-CN: 只有政府拥有
+      en: Government ownership alone
+    - id: d
+      zh-CN: 价格高和利润低
+      en: High price and low profit
+  correctOptionId: a
+  explanation:
+    zh-CN: 非竞争与非排他。
+      原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。
+      公共提供不等于公共物品，收费学校仍可排他。
+    en: "Non-rivalry and non-excludability. Illustrative example: national defence
+      generally protects one more resident without reducing protection for
+      others and cannot easily exclude non-payers. A congested road is rival at
+      peak times, so it cannot always be treated as a pure public good. Public
+      provision is not the same as a public good; a school can still exclude
+      users."
+- id: u2-41-public-goods-short-1
+  knowledgePointId: u2-41-public-goods
+  type: short-answer
+  prompt:
+    zh-CN: 解释公共物品的特征的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Characteristics of public goods and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 纯公共物品同时具有非竞争性和非排他性：一人使用不减少他人可用数量，而且难以阻止未付费者使用。
+      额外使用者不消耗同一服务；阻止使用者的成本高；按个人使用收费难以融资
+      原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。
+    en: "A pure public good is both non-rival and non-excludable: one person's use
+      does not reduce availability to others, and non-payers are difficult to
+      exclude. An additional user does not consume the same service away;
+      exclusion is difficult or costly; individual use charges struggle to
+      finance provision Illustrative example: national defence generally
+      protects one more resident without reducing protection for others and
+      cannot easily exclude non-payers. A congested road is rival at peak times,
+      so it cannot always be treated as a pure public good."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 非竞争
+        en: non-rival
+      alternatives:
+        zh-CN:
+          - 非竞争
+          - 额外使用者不消耗同一服务
+        en:
+          - non-rival
+          - An additional user does not consume the same service away
+    - id: mechanism-2
+      label:
+        zh-CN: 非排他
+        en: non-excludable
+      alternatives:
+        zh-CN:
+          - 非排他
+          - 阻止使用者的成本高
+        en:
+          - non-excludable
+          - exclusion is difficult or costly
+    - id: mechanism-3
+      label:
+        zh-CN: 使用
+        en: use
+      alternatives:
+        zh-CN:
+          - 使用
+          - 按个人使用收费难以融资
+        en:
+          - use
+          - individual use charges struggle to finance provision
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

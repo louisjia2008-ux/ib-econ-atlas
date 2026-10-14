@@ -1,0 +1,42 @@
+id: u2-56-oligopoly
+slug: oligopoly
+section: "2.11"
+level: hl
+syllabusRefs:
+  - 2.11 Market power
+textbookRefs:
+  - chapter: "7"
+    section: "7.6"
+    pages:
+      - 230
+prerequisites:
+  - u2-15-surplus-efficiency
+  - u2-10-costs-and-supply
+related:
+  - u2-47-market-structures
+  - u2-48-cost-curves
+  - u2-49-scale
+terms:
+  - 寡头、相互依赖与博弈
+  - Oligopoly, interdependence and game theory
+  - 相互依赖
+  - interdependence
+  - 优势策略
+  - dominant strategy
+  - 背离
+  - deviate
+synonyms:
+  zh-CN:
+    - 相互依赖
+    - 优势策略
+    - 背离
+  en:
+    - interdependence
+    - dominant strategy
+    - deviate
+diagramIds:
+  - monopoly
+quizIds:
+  - u2-56-oligopoly-flash-1
+  - u2-56-oligopoly-mcq-1
+  - u2-56-oligopoly-short-1

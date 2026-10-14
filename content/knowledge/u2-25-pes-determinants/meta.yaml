@@ -1,0 +1,39 @@
+id: u2-25-pes-determinants
+slug: pes-determinants
+section: "2.6"
+level: core
+syllabusRefs:
+  - 2.6 Elasticity of supply
+textbookRefs:
+  - chapter: "3"
+    section: "3.3"
+    pages:
+      - 104
+prerequisites:
+  - u2-06-supply
+related:
+  - u2-24-pes
+  - u2-26-pes-application
+terms:
+  - PES、产能与时间
+  - PES, capacity and time
+  - 闲置产能
+  - spare capacity
+  - 时间
+  - time
+  - 投入
+  - inputs
+synonyms:
+  zh-CN:
+    - 闲置产能
+    - 时间
+    - 投入
+  en:
+    - spare capacity
+    - time
+    - inputs
+diagramIds: []
+quizIds:
+  - u2-25-pes-determinants-flash-1
+  - u2-25-pes-determinants-mcq-1
+  - u2-25-pes-determinants-short-1

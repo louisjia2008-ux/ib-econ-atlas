@@ -1,7 +1,7 @@
 # Current Task
 
-- Task: `T019` - publish the feature branch and open the unmerged release PR.
-- Result: complete. Public repository `louisjia2008-ux/ib-econ-atlas` exists; `main` begins at safety checkpoint `0d8e11c`; the complete feature history is on `codex/unit-1-mvp`; PR #1 is open and unmerged.
-- Verification: remote branch SHAs matched the intended local commits; PR base/head/state were verified; GitHub-hosted `verify` and `browser` jobs passed.
-- Preserved boundary: the Cambridge PDF and credentials remain untracked; Pages and the optional Worker are not deployed.
-- Next external decision: merge PR #1 only after explicit owner confirmation, then separately verify the main-only Pages deployment.
+- Task: `T024` - push verified Unit 2 and create an unmerged PR on `codex/unit-2-microeconomics`.
+- Acceptance: 60 new bilingual points, three practice types each, 12 original diagrams, cross-unit navigation and backup compatibility; verify desktop/tablet/mobile plus first-visit offline access.
+- Scope: Unit 2 content, integration, tests, documentation and recovery records.
+- Verification complete: full local gate, 82 unit tests, 16 browser checks and desktop/mobile visual inspection.
+- Next action: publish feature commit, open and attach the PR, then inspect hosted CI.

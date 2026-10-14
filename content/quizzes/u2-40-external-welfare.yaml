@@ -1,0 +1,101 @@
+- id: u2-40-external-welfare-flash-1
+  knowledgePointId: u2-40-external-welfare
+  type: flashcard
+  prompt:
+    zh-CN: 解释“外部性与福利损失计算”，并说明一个关键条件。
+    en: Explain Externalities and welfare-loss calculations and state one important
+      condition.
+  answer:
+    zh-CN: 外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。
+    en: Externality welfare loss accumulates the gap between social marginal cost
+      and benefit between market and optimal quantities. A linear model permits
+      a triangle-area calculation.
+  explanation:
+    zh-CN: 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。
+    en: The triangle's height must be the relevant social cost-benefit gap, not an
+      arbitrary market price.
+- id: u2-40-external-welfare-mcq-1
+  knowledgePointId: u2-40-external-welfare
+  type: mcq
+  prompt:
+    zh-CN: 线性福利三角形底为 12、高为 5，损失多少？
+    en: A linear welfare triangle has base 12 and height five. What is the loss?
+  options:
+    - id: a
+      zh-CN: "60"
+      en: "60"
+    - id: b
+      zh-CN: "12"
+      en: "12"
+    - id: c
+      zh-CN: "5"
+      en: "5"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: d
+  explanation:
+    zh-CN: 30。 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q*
+      处外部边际成本，不应机械采用 Qm 处的差额。 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。
+    en: "30. Illustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the
+      gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax
+      equals marginal external cost at Q*, not mechanically the gap at Qm. The
+      triangle's height must be the relevant social cost-benefit gap, not an
+      arbitrary market price."
+- id: u2-40-external-welfare-short-1
+  knowledgePointId: u2-40-external-welfare
+  type: short-answer
+  prompt:
+    zh-CN: 解释外部性与福利损失计算的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Externalities and welfare-loss calculations and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 外部性福利损失是市场数量与社会最优数量之间，社会边际成本与收益差额的累积；线性模型下可计算三角形面积。 先确定市场与社会数量；比较错误配置单位的
+      MSC 与 MSB；累加差额而非把税收视为损失 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为
+      ½×20×6=60。最优矫正税应等于 Q* 处外部边际成本，不应机械采用 Qm 处的差额。
+    en: "Externality welfare loss accumulates the gap between social marginal cost
+      and benefit between market and optimal quantities. A linear model permits
+      a triangle-area calculation. Identify market and optimal quantities;
+      compare MSC and MSB on misallocated units; sum the gaps rather than
+      treating tax revenue as the loss Illustrative example: Q*=80, Qm=100 and
+      MSC−MSB is six at Qm. If the gap grows linearly from zero, loss is
+      ½×20×6=60. An optimal corrective tax equals marginal external cost at Q*,
+      not mechanically the gap at Qm."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 社会最优
+        en: social optimum
+      alternatives:
+        zh-CN:
+          - 社会最优
+          - 先确定市场与社会数量
+        en:
+          - social optimum
+          - Identify market and optimal quantities
+    - id: mechanism-2
+      label:
+        zh-CN: 边际差额
+        en: marginal gap
+      alternatives:
+        zh-CN:
+          - 边际差额
+          - 比较错误配置单位的 MSC 与 MSB
+        en:
+          - marginal gap
+          - compare MSC and MSB on misallocated units
+    - id: mechanism-3
+      label:
+        zh-CN: 三角形
+        en: triangle
+      alternatives:
+        zh-CN:
+          - 三角形
+          - 累加差额而非把税收视为损失
+        en:
+          - triangle
+          - sum the gaps rather than treating tax revenue as the loss
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

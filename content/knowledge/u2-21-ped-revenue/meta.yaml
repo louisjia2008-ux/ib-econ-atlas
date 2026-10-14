@@ -1,0 +1,40 @@
+id: u2-21-ped-revenue
+slug: ped-revenue
+section: "2.5"
+level: core
+syllabusRefs:
+  - 2.5 Elasticity of demand
+textbookRefs:
+  - chapter: "3"
+    section: "3.1"
+    pages:
+      - 85
+prerequisites:
+  - u2-01-demand
+related:
+  - u2-19-ped
+  - u2-20-ped-determinants
+  - u2-22-yed
+terms:
+  - PED 与总收入
+  - PED and total revenue
+  - P×Q
+  - P×Q
+  - 百分比
+  - percentage
+  - 收入
+  - revenue
+synonyms:
+  zh-CN:
+    - P×Q
+    - 百分比
+    - 收入
+  en:
+    - P×Q
+    - percentage
+    - revenue
+diagramIds: []
+quizIds:
+  - u2-21-ped-revenue-flash-1
+  - u2-21-ped-revenue-mcq-1
+  - u2-21-ped-revenue-short-1

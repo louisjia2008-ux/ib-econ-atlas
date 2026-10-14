@@ -1,0 +1,99 @@
+- id: u2-25-pes-determinants-flash-1
+  knowledgePointId: u2-25-pes-determinants
+  type: flashcard
+  prompt:
+    zh-CN: 解释“PES、产能与时间”，并说明一个关键条件。
+    en: Explain PES, capacity and time and state one important condition.
+  answer:
+    zh-CN: 闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。
+    en: Spare capacity, inventories, factor mobility, production periods and
+      adjustment time determine how readily supply responds to price.
+  explanation:
+    zh-CN: 时间更长通常提高 PES，但不是无条件保证。
+    en: More time normally increases PES but does not guarantee it under every
+      constraint.
+- id: u2-25-pes-determinants-mcq-1
+  knowledgePointId: u2-25-pes-determinants
+  type: mcq
+  prompt:
+    zh-CN: 其他条件相同，哪项通常提高 PES？
+    en: Other things equal, which normally raises PES?
+  options:
+    - id: a
+      zh-CN: 更多闲置产能
+      en: More spare capacity
+    - id: b
+      zh-CN: 更长生产周期
+      en: A longer production period
+    - id: c
+      zh-CN: 投入完全不可移动
+      en: Completely immobile inputs
+    - id: d
+      zh-CN: 不能储存且满产
+      en: No storage and full capacity
+  correctOptionId: a
+  explanation:
+    zh-CN: 更多闲置产能。
+      原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。
+      时间更长通常提高 PES，但不是无条件保证。
+    en: "More spare capacity. Illustrative example: a printer with idle machines can
+      respond quickly to higher prices, while an orchard needs years to grow
+      mature trees. Long-run input flexibility normally raises elasticity, but
+      land and ecological limits may persist. More time normally increases PES
+      but does not guarantee it under every constraint."
+- id: u2-25-pes-determinants-short-1
+  knowledgePointId: u2-25-pes-determinants
+  type: short-answer
+  prompt:
+    zh-CN: 解释PES、产能与时间的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of PES, capacity and time and apply it to an example
+      of your own.
+  modelAnswer:
+    zh-CN: 闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。 可动用库存或闲置机器；生产可迅速扩张；供给反应较大且 PES 通常较高
+      原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。
+    en: "Spare capacity, inventories, factor mobility, production periods and
+      adjustment time determine how readily supply responds to price.
+      Inventories or idle machines are available; production expands quickly;
+      quantity response is larger and PES is normally higher Illustrative
+      example: a printer with idle machines can respond quickly to higher
+      prices, while an orchard needs years to grow mature trees. Long-run input
+      flexibility normally raises elasticity, but land and ecological limits may
+      persist."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 闲置产能
+        en: spare capacity
+      alternatives:
+        zh-CN:
+          - 闲置产能
+          - 可动用库存或闲置机器
+        en:
+          - spare capacity
+          - Inventories or idle machines are available
+    - id: mechanism-2
+      label:
+        zh-CN: 时间
+        en: time
+      alternatives:
+        zh-CN:
+          - 时间
+          - 生产可迅速扩张
+        en:
+          - time
+          - production expands quickly
+    - id: mechanism-3
+      label:
+        zh-CN: 投入
+        en: inputs
+      alternatives:
+        zh-CN:
+          - 投入
+          - 供给反应较大且 PES 通常较高
+        en:
+          - inputs
+          - quantity response is larger and PES is normally higher
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

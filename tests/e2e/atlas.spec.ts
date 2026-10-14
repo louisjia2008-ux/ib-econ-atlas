@@ -3,6 +3,59 @@ import { expect, test } from "@playwright/test";
 
 const studyRoute = "/ib-econ-atlas/#/study/u1-04-scarcity";
 
+test("Unit 2 bilingual study and diagrams adapt at every release width", async ({ page }) => {
+  await page.goto("/ib-econ-atlas/#/study/u2-34-negative-production");
+  await expect(page.getByRole("heading", { level: 1, name: "负生产外部性" })).toBeVisible();
+  await expect(page.getByRole("navigation", { name: "Breadcrumb" })).toContainText("Unit 2");
+  await expect(page.getByAltText(/MSC>MPC/)).toBeVisible();
+  await expect(page.locator(".micro-diagram table")).toContainText("Qm");
+  await expectNoHorizontalOverflow(page);
+  await page.getByRole("button", { name: "Switch to English" }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "Negative production externalities" })).toBeVisible();
+  await expect(page.locator(".micro-diagram table")).toContainText("Private output");
+  await expectNoHorizontalOverflow(page);
+});
+
+test("Unit 2 directory, scope, HL filter and review compose", async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "Shared desktop navigation and review state.");
+  await page.goto("/ib-econ-atlas/#/study/u2-01-demand");
+  await expect(page.getByText("Unit 2 · 微观经济学", { exact: true })).toBeVisible();
+  await page.getByRole("tab", { name: "教材目录" }).click();
+  await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 2 · 竞争市场" })).toBeVisible();
+  await page.getByRole("tab", { name: "考纲目录" }).click();
+  await page.getByRole("button", { name: "选择范围: 需求", exact: true }).click();
+  await expect(page.getByText("5 / 103", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "SL", exact: true }).click();
+  await expect(page.getByRole("button", { name: "边际效用与消费者选择", exact: true })).toHaveCount(0);
+  await page.goto("/ib-econ-atlas/#/review");
+  await page.getByRole("button", { name: "闪卡", exact: true }).click();
+  await page.getByRole("button", { name: "生成复习题组" }).click();
+  await expect(page.getByRole("button", { name: "显示答案" })).toBeVisible();
+  await page.getByRole("button", { name: "显示答案" }).click();
+  await expect(page.locator("main")).toContainText(/需求/);
+});
+
+test("Unit 2 is cached before first visit and opens offline with its diagrams", async ({ page, context }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "One context verifies the shared precache.");
+  await page.goto(studyRoute);
+  await page.evaluate(async () => { await navigator.serviceWorker.ready; });
+  await page.reload();
+  await page.waitForFunction(() => Boolean(navigator.serviceWorker.controller));
+  await context.setOffline(true);
+  try {
+    await page.goto("/ib-econ-atlas/#/study/u2-34-negative-production");
+    await expect(page.getByRole("heading", { level: 1, name: "负生产外部性" })).toBeVisible();
+    await expect(page.getByAltText(/MSC>MPC/)).toBeVisible();
+    expect(await page.locator(".micro-diagram img").evaluate((image) => (image as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
+    await page.getByRole("searchbox").fill("adverse selection");
+    await expect(page.getByRole("button", { name: /逆向选择/ }).first()).toBeVisible();
+    await page.getByRole("button", { name: /逆向选择/ }).first().click();
+    await expect(page.getByRole("heading", { level: 1, name: "信息不对称与逆向选择" })).toBeVisible();
+    await page.reload();
+    await expect(page.getByRole("heading", { level: 1, name: "信息不对称与逆向选择" })).toBeVisible();
+  } finally { await context.setOffline(false); }
+});
+
 async function expectNoHorizontalOverflow(page: import("@playwright/test").Page) {
   const metrics = await page.evaluate(() => ({
     viewport: window.innerWidth,
@@ -75,11 +128,11 @@ test("the global level filter applies to progress and resets an active review", 
   test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared level state.");
   await page.goto("/ib-econ-atlas/#/progress");
   const newCount = page.locator(".stat-grid article").filter({ hasText: "未学" }).getByRole("strong");
-  await expect(newCount).toHaveText("43");
+  await expect(newCount).toHaveText("103");
   await page.getByRole("button", { name: "SL", exact: true }).click();
-  await expect(newCount).toHaveText("35");
+  await expect(newCount).toHaveText("68");
   await page.getByRole("button", { name: "HL", exact: true }).click();
-  await expect(newCount).toHaveText("35");
+  await expect(newCount).toHaveText("95");
   await page.goto("/ib-econ-atlas/#/review");
   await page.getByRole("button", { name: "闪卡", exact: true }).click();
   await page.getByRole("button", { name: "生成复习题组" }).click();
@@ -103,7 +156,7 @@ test("bilingual fuzzy search, directory modes, and session scope compose", async
 
   await page.goto(studyRoute);
   await page.getByRole("button", { name: "选择范围: 经济学的本质" }).click();
-  await expect(page.getByText("15 / 43", { exact: true })).toBeVisible();
+  await expect(page.getByText("15 / 103", { exact: true })).toBeVisible();
   await page.goto("/ib-econ-atlas/#/progress");
   await expect(page.getByText("当前仅统计考试范围内的 15 个知识点。")).toBeVisible();
   await page.goto(studyRoute);

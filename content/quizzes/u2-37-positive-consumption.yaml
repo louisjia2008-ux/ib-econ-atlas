@@ -1,0 +1,102 @@
+- id: u2-37-positive-consumption-flash-1
+  knowledgePointId: u2-37-positive-consumption
+  type: flashcard
+  prompt:
+    zh-CN: 解释“正消费外部性与优值品”，并说明一个关键条件。
+    en: Explain Positive consumption externalities and merit goods and state one
+      important condition.
+  answer:
+    zh-CN: 正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。
+    en: A positive consumption externality benefits third parties, so MSB exceeds
+      MPB. A merit good may be underconsumed because buyers underestimate
+      private benefits; these concepts may overlap but are distinct.
+  explanation:
+    zh-CN: 教育或医疗并不是因为有社会价值就自动成为纯公共物品。
+    en: Education or healthcare does not automatically become a pure public good
+      because it has social value.
+- id: u2-37-positive-consumption-mcq-1
+  knowledgePointId: u2-37-positive-consumption
+  type: mcq
+  prompt:
+    zh-CN: 正消费外部性的图中哪项成立？
+    en: Which holds in a positive consumption externality diagram?
+  options:
+    - id: a
+      zh-CN: MSB>MPB
+      en: MSB>MPB
+    - id: b
+      zh-CN: MSB<MPB
+      en: MSB<MPB
+    - id: c
+      zh-CN: MSC 必然为零
+      en: MSC must be zero
+    - id: d
+      zh-CN: 市场数量一定过多
+      en: Market output must be excessive
+  correctOptionId: a
+  explanation:
+    zh-CN: MSB>MPB。 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB
+      上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。 教育或医疗并不是因为有社会价值就自动成为纯公共物品。
+    en: "MSB>MPB. Illustrative example: vaccination may reduce transmission risk and
+      benefit others. Draw MSB above MPB. Subsidies, public provision and
+      information can increase uptake, but capacity, trust and the size of
+      external benefit determine effectiveness. Education or healthcare does not
+      automatically become a pure public good because it has social value."
+- id: u2-37-positive-consumption-short-1
+  knowledgePointId: u2-37-positive-consumption
+  type: short-answer
+  prompt:
+    zh-CN: 解释正消费外部性与优值品的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Positive consumption externalities and merit goods
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 正消费外部性使第三方获益，MSB 高于 MPB；优值品可能因消费者低估其私人收益而消费不足，两种概念可重叠但并不相同。
+      消费者只比较私人收益与价格；第三方收益未进入其选择；市场数量低于社会最优 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB
+      上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。
+    en: "A positive consumption externality benefits third parties, so MSB exceeds
+      MPB. A merit good may be underconsumed because buyers underestimate
+      private benefits; these concepts may overlap but are distinct. Consumers
+      compare private benefit and price; third-party gains are absent from their
+      choice; market consumption is below the social optimum Illustrative
+      example: vaccination may reduce transmission risk and benefit others. Draw
+      MSB above MPB. Subsidies, public provision and information can increase
+      uptake, but capacity, trust and the size of external benefit determine
+      effectiveness."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 第三方收益
+        en: external benefit
+      alternatives:
+        zh-CN:
+          - 第三方收益
+          - 消费者只比较私人收益与价格
+        en:
+          - external benefit
+          - Consumers compare private benefit and price
+    - id: mechanism-2
+      label:
+        zh-CN: MSB
+        en: MSB
+      alternatives:
+        zh-CN:
+          - MSB
+          - 第三方收益未进入其选择
+        en:
+          - MSB
+          - third-party gains are absent from their choice
+    - id: mechanism-3
+      label:
+        zh-CN: 消费不足
+        en: underconsumption
+      alternatives:
+        zh-CN:
+          - 消费不足
+          - 市场数量低于社会最优
+        en:
+          - underconsumption
+          - market consumption is below the social optimum
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

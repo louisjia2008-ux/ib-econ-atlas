@@ -1,0 +1,42 @@
+id: u2-02-law-of-demand
+slug: law-of-demand
+section: "2.1"
+level: core
+syllabusRefs:
+  - 2.1 Demand
+textbookRefs:
+  - chapter: "2"
+    section: "2.2"
+    pages:
+      - 43
+prerequisites:
+  - u1-04-scarcity
+  - u1-14-opportunity-cost
+related:
+  - u2-01-demand
+  - u2-03-demand-shifts
+  - u2-04-market-demand
+terms:
+  - 需求定律
+  - The law of demand
+  - 其他条件不变
+  - ceteris paribus
+  - 替代
+  - substitution
+  - 购买力
+  - purchasing power
+synonyms:
+  zh-CN:
+    - 其他条件不变
+    - 替代
+    - 购买力
+  en:
+    - ceteris paribus
+    - substitution
+    - purchasing power
+diagramIds:
+  - demand-supply
+quizIds:
+  - u2-02-law-of-demand-flash-1
+  - u2-02-law-of-demand-mcq-1
+  - u2-02-law-of-demand-short-1

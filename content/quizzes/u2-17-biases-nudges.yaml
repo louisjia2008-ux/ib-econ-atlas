@@ -1,0 +1,100 @@
+- id: u2-17-biases-nudges-flash-1
+  knowledgePointId: u2-17-biases-nudges
+  type: flashcard
+  prompt:
+    zh-CN: 解释“行为偏差与助推”，并说明一个关键条件。
+    en: Explain Behavioural biases and nudges and state one important condition.
+  answer:
+    zh-CN: 锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。
+    en: Anchoring, loss aversion, present bias and defaults can influence choices. A
+      nudge changes choice architecture while preserving freedom to choose.
+  explanation:
+    zh-CN: 助推不是税收或禁止；减少选择自由的措施需要另行分类。
+    en: A nudge is not a tax or prohibition; policies restricting choice require a
+      different classification.
+- id: u2-17-biases-nudges-mcq-1
+  knowledgePointId: u2-17-biases-nudges
+  type: mcq
+  prompt:
+    zh-CN: 默认加入且可自由退出的储蓄方案最接近什么？
+    en: Default enrolment in saving with a free opt-out is closest to what?
+  options:
+    - id: a
+      zh-CN: 助推
+      en: A nudge
+    - id: b
+      zh-CN: 强制禁令
+      en: A compulsory ban
+    - id: c
+      zh-CN: 单位生产补贴
+      en: A per-unit production subsidy
+    - id: d
+      zh-CN: 价格下限
+      en: A price floor
+  correctOptionId: a
+  explanation:
+    zh-CN: 助推。
+      原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。
+      助推不是税收或禁止；减少选择自由的措施需要另行分类。
+    en: "A nudge. Illustrative example: pension saving changes from opt-in to
+      default enrolment with an opt-out. Participation may rise. A default is
+      not compulsion. Evaluate ease of opting out, who benefits and potential
+      manipulation. A nudge is not a tax or prohibition; policies restricting
+      choice require a different classification."
+- id: u2-17-biases-nudges-short-1
+  knowledgePointId: u2-17-biases-nudges
+  type: short-answer
+  prompt:
+    zh-CN: 解释行为偏差与助推的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Behavioural biases and nudges and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。
+      注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变
+      原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。
+    en: "Anchoring, loss aversion, present bias and defaults can influence choices.
+      A nudge changes choice architecture while preserving freedom to choose.
+      Presentation influences attention and judgement; defaults or framing alter
+      reference points; choices can change even without a price change
+      Illustrative example: pension saving changes from opt-in to default
+      enrolment with an opt-out. Participation may rise. A default is not
+      compulsion. Evaluate ease of opting out, who benefits and potential
+      manipulation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 默认
+        en: default
+      alternatives:
+        zh-CN:
+          - 默认
+          - 注意力与判断受到呈现方式影响
+        en:
+          - default
+          - Presentation influences attention and judgement
+    - id: mechanism-2
+      label:
+        zh-CN: 选择环境
+        en: choice architecture
+      alternatives:
+        zh-CN:
+          - 选择环境
+          - 默认或框架改变心理参照
+        en:
+          - choice architecture
+          - defaults or framing alter reference points
+    - id: mechanism-3
+      label:
+        zh-CN: 退出
+        en: opt-out
+      alternatives:
+        zh-CN:
+          - 退出
+          - 选择在价格未变时也可改变
+        en:
+          - opt-out
+          - choices can change even without a price change
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

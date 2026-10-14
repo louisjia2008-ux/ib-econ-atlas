@@ -1,0 +1,104 @@
+- id: u2-43-public-provision-flash-1
+  knowledgePointId: u2-43-public-provision
+  type: flashcard
+  prompt:
+    zh-CN: 解释“公共物品的提供与评价”，并说明一个关键条件。
+    en: Explain Provision and evaluation of public goods and state one important
+      condition.
+  answer:
+    zh-CN: 政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。
+    en: Government may finance public goods through taxation and produce them
+      directly or contract production out. Financing, producer identity and the
+      good's characteristics are separate questions.
+  explanation:
+    zh-CN: 市场提供不足支持干预理由，但不证明任意政府项目都值得实施。
+    en: Underprovision supports a case for intervention but does not prove every
+      government project is worthwhile.
+- id: u2-43-public-provision-mcq-1
+  knowledgePointId: u2-43-public-provision
+  type: mcq
+  prompt:
+    zh-CN: 税收融资、私人承包安装路灯属于什么？
+    en: Tax-financed lighting installed by a private contractor represents what?
+  options:
+    - id: a
+      zh-CN: 路灯因此必然成为私人品
+      en: Lighting necessarily becomes a private good
+    - id: b
+      zh-CN: 完全自愿付费
+      en: Entirely voluntary funding
+    - id: c
+      zh-CN: 公共融资与私人生产并存
+      en: Public financing with private production
+    - id: d
+      zh-CN: 不存在机会成本
+      en: No opportunity cost
+  correctOptionId: c
+  explanation:
+    zh-CN: 公共融资与私人生产并存。
+      原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。
+      市场提供不足支持干预理由，但不证明任意政府项目都值得实施。
+    en: "Public financing with private production. Illustrative example: a city pays
+      for street lighting from taxes while a private contractor installs it.
+      Public financing can coexist with private production. Evaluate residents'
+      benefits, opportunity cost, competitive tendering and maintenance
+      accountability. Underprovision supports a case for intervention but does
+      not prove every government project is worthwhile."
+- id: u2-43-public-provision-short-1
+  knowledgePointId: u2-43-public-provision
+  type: short-answer
+  prompt:
+    zh-CN: 解释公共物品的提供与评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Provision and evaluation of public goods and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 政府可用税收融资并直接提供或委托生产公共物品；融资方式、生产者身份和物品性质是不同问题。
+      强制融资减少搭便车；选择供给数量与生产方式；监督成本、质量和分配
+      原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。
+    en: "Government may finance public goods through taxation and produce them
+      directly or contract production out. Financing, producer identity and the
+      good's characteristics are separate questions. Compulsory financing
+      reduces free riding; choose quantity and production method; monitor cost,
+      quality and distribution Illustrative example: a city pays for street
+      lighting from taxes while a private contractor installs it. Public
+      financing can coexist with private production. Evaluate residents'
+      benefits, opportunity cost, competitive tendering and maintenance
+      accountability."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 融资
+        en: financing
+      alternatives:
+        zh-CN:
+          - 融资
+          - 强制融资减少搭便车
+        en:
+          - financing
+          - Compulsory financing reduces free riding
+    - id: mechanism-2
+      label:
+        zh-CN: 机会成本
+        en: opportunity cost
+      alternatives:
+        zh-CN:
+          - 机会成本
+          - 选择供给数量与生产方式
+        en:
+          - opportunity cost
+          - choose quantity and production method
+    - id: mechanism-3
+      label:
+        zh-CN: 监督
+        en: monitoring
+      alternatives:
+        zh-CN:
+          - 监督
+          - 监督成本、质量和分配
+        en:
+          - monitoring
+          - monitor cost, quality and distribution
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

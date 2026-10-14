@@ -1,0 +1,104 @@
+- id: u2-39-externality-policies-flash-1
+  knowledgePointId: u2-39-externality-policies
+  type: flashcard
+  prompt:
+    zh-CN: 解释“外部性政策与可持续性”，并说明一个关键条件。
+    en: Explain Externality policies and sustainability and state one important
+      condition.
+  answer:
+    zh-CN: 税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。
+    en: Taxes, subsidies, regulation, tradable permits and rights can incorporate
+      external effects into private decisions. The choice depends on
+      information, enforcement cost and distribution.
+  explanation:
+    zh-CN: 纠正外部性未必消除全部污染；最优并不总是零排放。
+    en: Correction need not eliminate all pollution; the optimum is not always zero
+      emissions.
+- id: u2-39-externality-policies-mcq-1
+  knowledgePointId: u2-39-externality-policies
+  type: mcq
+  prompt:
+    zh-CN: 交易许可与排放税的关键区别是什么？
+    en: What is a key difference between permits and an emissions tax?
+  options:
+    - id: a
+      zh-CN: 两者都不需要监测
+      en: Neither requires monitoring
+    - id: b
+      zh-CN: 税一定消除排放
+      en: Tax necessarily eliminates emissions
+    - id: c
+      zh-CN: 许可确定总量，税确定单位价格
+      en: Permits fix the total cap; tax fixes the unit price
+    - id: d
+      zh-CN: 许可完全没有成本
+      en: Permits have no costs
+  correctOptionId: c
+  explanation:
+    zh-CN: 许可确定总量，税确定单位价格。
+      原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。
+      纠正外部性未必消除全部污染；最优并不总是零排放。
+    en: "Permits fix the total cap; tax fixes the unit price. Illustrative example:
+      an emissions tax fixes the price per emission unit, while permits fix the
+      allowed total quantity. Taxes need information about harm and abatement
+      response; permits need monitoring, a sound cap and reliable trading. Both
+      may pass some costs to consumers. Correction need not eliminate all
+      pollution; the optimum is not always zero emissions."
+- id: u2-39-externality-policies-short-1
+  knowledgePointId: u2-39-externality-policies
+  type: short-answer
+  prompt:
+    zh-CN: 解释外部性政策与可持续性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Externality policies and sustainability and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 税、补贴、法规、交易许可和产权安排可以将外部影响纳入私人决策；政策选择取决于信息、执行成本和分配影响。
+      识别未计价的社会影响；调整价格或数量约束；比较纠正效果与执行和分配成本
+      原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。
+    en: "Taxes, subsidies, regulation, tradable permits and rights can incorporate
+      external effects into private decisions. The choice depends on
+      information, enforcement cost and distribution. Identify unpriced social
+      effects; adjust prices or quantity constraints; compare correction with
+      enforcement and distribution costs Illustrative example: an emissions tax
+      fixes the price per emission unit, while permits fix the allowed total
+      quantity. Taxes need information about harm and abatement response;
+      permits need monitoring, a sound cap and reliable trading. Both may pass
+      some costs to consumers."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 内部化
+        en: internalise
+      alternatives:
+        zh-CN:
+          - 内部化
+          - 识别未计价的社会影响
+        en:
+          - internalise
+          - Identify unpriced social effects
+    - id: mechanism-2
+      label:
+        zh-CN: 监测
+        en: monitoring
+      alternatives:
+        zh-CN:
+          - 监测
+          - 调整价格或数量约束
+        en:
+          - monitoring
+          - adjust prices or quantity constraints
+    - id: mechanism-3
+      label:
+        zh-CN: 可持续
+        en: sustainable
+      alternatives:
+        zh-CN:
+          - 可持续
+          - 比较纠正效果与执行和分配成本
+        en:
+          - sustainable
+          - compare correction with enforcement and distribution costs
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

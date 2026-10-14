@@ -1,0 +1,39 @@
+id: u2-58-equity-distribution
+slug: equity-distribution
+section: "2.12"
+level: hl
+syllabusRefs:
+  - 2.12 Markets and equity
+textbookRefs:
+  - chapter: "6"
+    section: "6.5"
+    pages:
+      - 191
+prerequisites:
+  - u1-35-equality-equity
+related:
+  - u2-59-income-wealth
+  - u2-60-redistribution
+terms:
+  - 市场分配与公平
+  - Market distribution and equity
+  - 收入
+  - income
+  - 公平
+  - equity
+  - 效率
+  - efficiency
+synonyms:
+  zh-CN:
+    - 收入
+    - 公平
+    - 效率
+  en:
+    - income
+    - equity
+    - efficiency
+diagramIds: []
+quizIds:
+  - u2-58-equity-distribution-flash-1
+  - u2-58-equity-distribution-mcq-1
+  - u2-58-equity-distribution-short-1

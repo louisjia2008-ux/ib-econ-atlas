@@ -1,0 +1,102 @@
+- id: u2-15-surplus-efficiency-flash-1
+  knowledgePointId: u2-15-surplus-efficiency
+  type: flashcard
+  prompt:
+    zh-CN: 解释“消费者剩余、生产者剩余与效率”，并说明一个关键条件。
+    en: Explain Surplus and allocative efficiency and state one important condition.
+  answer:
+    zh-CN: 消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。
+    en: Consumer surplus is willingness to pay above the price paid; producer
+      surplus is price received above marginal supply cost. Competitive
+      equilibrium can maximise their sum when market-failure assumptions are
+      absent.
+  explanation:
+    zh-CN: 生产者剩余不等于利润，因为它通常没有扣除固定成本。
+    en: Producer surplus is not identical to profit because fixed costs have not
+      generally been deducted.
+- id: u2-15-surplus-efficiency-mcq-1
+  knowledgePointId: u2-15-surplus-efficiency
+  type: mcq
+  prompt:
+    zh-CN: 支付意愿 18、价格 12，消费者剩余是多少？
+    en: Willingness to pay is 18 and price 12. What is consumer surplus?
+  options:
+    - id: a
+      zh-CN: "12"
+      en: "12"
+    - id: b
+      zh-CN: "18"
+      en: "18"
+    - id: c
+      zh-CN: "6"
+      en: "6"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: c
+  explanation:
+    zh-CN: 6。 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本
+      4，私人总剩余并不完整代表社会净收益。 生产者剩余不等于利润，因为它通常没有扣除固定成本。
+    en: "6. Illustrative example: willingness to pay is 15, price is ten and
+      marginal cost is seven. Consumer surplus is five, producer surplus three
+      and total surplus eight. An external pollution cost of four would make
+      private surplus an incomplete welfare measure. Producer surplus is not
+      identical to profit because fixed costs have not generally been deducted."
+- id: u2-15-surplus-efficiency-short-1
+  knowledgePointId: u2-15-surplus-efficiency
+  type: short-answer
+  prompt:
+    zh-CN: 解释消费者剩余、生产者剩余与效率的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Surplus and allocative efficiency and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。
+      需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 原创例：一件商品支付意愿 15、成交价
+      10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。
+    en: "Consumer surplus is willingness to pay above the price paid; producer
+      surplus is price received above marginal supply cost. Competitive
+      equilibrium can maximise their sum when market-failure assumptions are
+      absent. Demand represents marginal benefit and supply marginal cost; units
+      whose benefits exceed costs are traded; total surplus is maximised at
+      MB=MC Illustrative example: willingness to pay is 15, price is ten and
+      marginal cost is seven. Consumer surplus is five, producer surplus three
+      and total surplus eight. An external pollution cost of four would make
+      private surplus an incomplete welfare measure."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 支付意愿
+        en: willingness to pay
+      alternatives:
+        zh-CN:
+          - 支付意愿
+          - 需求代表边际利益、供给代表边际成本
+        en:
+          - willingness to pay
+          - Demand represents marginal benefit and supply marginal cost
+    - id: mechanism-2
+      label:
+        zh-CN: 边际成本
+        en: marginal cost
+      alternatives:
+        zh-CN:
+          - 边际成本
+          - 交易使利益超过成本的单位被生产
+        en:
+          - marginal cost
+          - units whose benefits exceed costs are traded
+    - id: mechanism-3
+      label:
+        zh-CN: 总剩余
+        en: total surplus
+      alternatives:
+        zh-CN:
+          - 总剩余
+          - MB=MC 时总剩余达到最大
+        en:
+          - total surplus
+          - total surplus is maximised at MB=MC
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

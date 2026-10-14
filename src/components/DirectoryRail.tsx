@@ -74,7 +74,7 @@ export function DirectoryRail({ points, locale, mode, level, scopeIds, progressR
         <div className="scope-row">
           <div>
             <p>{locale === "zh-CN" ? "本次考试范围" : "Current exam scope"}</p>
-            <span>{scopeIds.size > 0 ? `${scopeIds.size} / 43` : locale === "zh-CN" ? "全部内容" : "All content"}</span>
+            <span>{scopeIds.size > 0 ? `${scopeIds.size} / ${points.length}` : locale === "zh-CN" ? "全部内容" : "All content"}</span>
           </div>
           {scopeIds.size > 0 && <button className="scope-clear" type="button" onClick={() => onScopeChange(new Set())} aria-label="Clear scope"><X size={15} /></button>}
         </div>
@@ -84,7 +84,7 @@ export function DirectoryRail({ points, locale, mode, level, scopeIds, progressR
       <nav className="course-tree">
         {groups.map((group) => (
           <div key={group.id}>
-            <div className="unit-heading"><span>{group.title[locale]}</span><small>43 / 43 {locale === "zh-CN" ? "已发布" : "published"}</small></div>
+            <div className="unit-heading"><span>{group.title[locale]}</span><small>{new Set(group.sections.flatMap((section) => section.pointIds)).size} {locale === "zh-CN" ? "已发布" : "published"}</small></div>
             {group.sections.map((section) => {
               const visibleIds = section.pointIds.filter((id) => {
                 const point = pointById.get(id);
@@ -127,7 +127,7 @@ export function DirectoryRail({ points, locale, mode, level, scopeIds, progressR
       </nav>
 
       <div className="rail-progress">
-        <div><span>{scopeIds.size > 0 ? (locale === "zh-CN" ? "当前范围掌握进度" : "Scope mastery progress") : (locale === "zh-CN" ? "Unit 1 掌握进度" : "Unit 1 mastery progress")}</span><strong>{progressPercent}%</strong></div>
+        <div><span>{scopeIds.size > 0 ? (locale === "zh-CN" ? "当前范围掌握进度" : "Scope mastery progress") : (locale === "zh-CN" ? "已发布内容掌握进度" : "Published content mastery")}</span><strong>{progressPercent}%</strong></div>
         <div className="progress-track" aria-label={`${progressPercent}%`}><span style={{ width: `${progressPercent}%` }} /></div>
       </div>
     </aside>
