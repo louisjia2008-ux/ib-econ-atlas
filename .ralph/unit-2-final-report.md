@@ -26,4 +26,4 @@ Examples and numbers are labelled illustrative. The cards are an original study 
 
 The production shell is approximately 620 kB minified (192 kB gzip), and the content chunk approximately 893 kB (154 kB gzip); Vite retains a non-fatal chunk-size warning. Both are within the existing precache limit and offline acceptance passed. Microeconomic charts are static; the existing PPC is interactive. Physical touch-device, Safari and Firefox acceptance were not performed.
 
-Publication: pending final local verification and authorized feature-branch PR creation.
+Publication: [PR #9](https://github.com/louisjia2008-ux/ib-econ-atlas/pull/9) is open and attached to the task. Implementation commit 5d96dc0 passed hosted `verify` (45s) and `browser` (60s) in [run 38597660911](https://github.com/louisjia2008-ux/ib-econ-atlas/actions/runs/38597660911). The delivery checkpoint changes recovery records only; its final CI result is verified at handoff. PR remains unmerged and Unit 2 is not deployed.

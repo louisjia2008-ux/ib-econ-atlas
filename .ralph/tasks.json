@@ -9,8 +9,8 @@
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 23,
-  "status": "running",
+  "current_iteration": 24,
+  "status": "complete",
   "tasks": [
     {
       "id": "T001",
@@ -304,14 +304,14 @@
       "acceptance": ["Full local verify", "Desktop/tablet/mobile and offline acceptance", "Visual screenshots inspected"], "verification": ["npm run verify", "npm run test:e2e"], "files_expected": ["docs/UNIT_2.md", "reports", ".ralph/final_report.md"], "attempts": 0, "last_error": "", "notes": "No production deployment included."
     },
     {
-      "id": "T024", "title": "Push Unit 2 and open an unmerged PR", "type": "delivery", "status": "in_progress", "priority": "high", "dependencies": ["T023"],
-      "acceptance": ["Feature commit pushed", "PR attached", "Hosted CI inspected"], "verification": ["git ls-remote", "gh pr view", "gh pr checks"], "files_expected": [".ralph"], "attempts": 0, "last_error": "", "notes": "User authorised feature-branch PR publication."
+      "id": "T024", "title": "Push Unit 2 and open an unmerged PR", "type": "delivery", "status": "done", "priority": "high", "dependencies": ["T023"],
+      "acceptance": ["Feature commit pushed", "PR attached", "Hosted CI inspected"], "verification": ["git ls-remote", "gh pr view", "gh pr checks"], "files_expected": [".ralph"], "attempts": 0, "last_error": "", "notes": "PR #9 opened and attached; implementation commit 5d96dc0 passed hosted verify and browser in run 38597660911. PR remains unmerged."
     }
   ],
   "blockers": [],
-  "last_successful_task": "T023",
+  "last_successful_task": "T024",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",
-  "updated_at": "2026-10-15T00:15:00+08:00"
+  "updated_at": "2026-10-15T00:26:00+08:00"
 }

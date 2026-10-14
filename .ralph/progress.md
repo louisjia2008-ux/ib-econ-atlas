@@ -1,5 +1,12 @@
 # Progress Log
 
+## 2026-10-15 — T024 Unit 2 PR delivery
+
+- Published implementation 5d96dc0 to codex/unit-2-microeconomics and opened/attached PR #9 targeting main.
+- Hosted run 38597660911 passed verify (45s) and browser (60s).
+- Final delivery record contains no product-code changes; check the final PR head and CI at handoff.
+- Completed scope: Unit 2 implementation, verification and unmerged PR. No production deployment or live AI activity.
+
 ## 2026-10-15 — T020–T023 Unit 2 extension
 
 - Locked the 60-point Unit 2 scope from current main 1e7b938 on codex/unit-2-microeconomics.
