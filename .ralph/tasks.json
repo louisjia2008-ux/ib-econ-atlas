@@ -1,16 +1,16 @@
 {
   "version": "0.1",
   "project": "ib-econ-atlas",
-  "goal_summary": "Build and verify the complete bilingual Unit 1 study PWA without publishing copyrighted source material or live AI credentials.",
+  "goal_summary": "Extend the released Unit 1/2 PWA with original bilingual Unit 3 macroeconomics; verify and submit an unmerged PR. Unit 3 contract supersedes historical release scope.",
   "acceptance_criteria": [
-    "Exactly 43 bilingual validated knowledge points",
+    "Preserve 103 existing points and add 56 bilingual Unit 3 points with 168 practice items",
     "Search, study, review, persistence, backup, PPC and PWA workflows pass",
     "Worker contract is secure and mock-tested",
     "Source PDF and secrets are untracked"
   ],
   "max_iterations": 30,
-  "current_iteration": 24,
-  "status": "complete",
+  "current_iteration": 28,
+  "status": "RALPH_CONTINUE",
   "tasks": [
     {
       "id": "T001",
@@ -307,9 +307,15 @@
       "id": "T024", "title": "Push Unit 2 and open an unmerged PR", "type": "delivery", "status": "done", "priority": "high", "dependencies": ["T023"],
       "acceptance": ["Feature commit pushed", "PR attached", "Hosted CI inspected"], "verification": ["git ls-remote", "gh pr view", "gh pr checks"], "files_expected": [".ralph"], "attempts": 0, "last_error": "", "notes": "PR #9 opened and attached; implementation commit 5d96dc0 passed hosted verify and browser in run 38597660911. PR remains unmerged."
     }
+    ,
+    { "id": "T025", "title": "Lock Unit 3 scope and current main", "type": "safety", "status": "done", "dependencies": ["T024"], "notes": "Unit 2 PR #9 subsequently merged/deployed by user authority; current base 95cf4fa. Unit 3 contract locked." },
+    { "id": "T026", "title": "Author Unit 3 original bilingual content and diagrams", "type": "content", "status": "done", "dependencies": ["T025"], "notes": "56 points, 168 practice items, eight macro diagrams; 3.1–3.7 and chapters 8–13 mapped." },
+    { "id": "T027", "title": "Integrate three-unit navigation, search and persistence", "type": "feature", "status": "done", "dependencies": ["T026"], "notes": "86 tests pass; Unit 2 regeneration preserves Unit 3 and previous source content remains unchanged." },
+    { "id": "T028", "title": "Verify Unit 3 browser, offline and release gates", "type": "verification", "status": "in_progress", "dependencies": ["T027"], "notes": "Full browser run found a test locator using Good instead of existing Okay label; corrected and strengthened offline saved-progress check. Rerun pending." },
+    { "id": "T029", "title": "Push verified Unit 3 and submit unmerged PR", "type": "delivery", "status": "pending", "dependencies": ["T028"], "notes": "Attach created PR; inspect hosted CI at final head. No merge or deployment." }
   ],
   "blockers": [],
-  "last_successful_task": "T024",
+  "last_successful_task": "T027",
   "last_failed_task": null,
   "no_diff_iterations": 0,
   "created_at": "2026-09-29T22:20:00+08:00",

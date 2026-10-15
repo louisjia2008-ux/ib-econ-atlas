@@ -1,0 +1,40 @@
+id: u3-02-gdp
+slug: gdp
+section: "3.1"
+level: core
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.2"
+    pages:
+      - 250
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+  - u3-03-expenditure
+  - u3-04-nominal-real
+terms:
+  - 国内生产总值与增加值
+  - GDP and value added
+  - 最终
+  - final
+  - 境内
+  - domestic
+  - 增加值
+  - value added
+synonyms:
+  zh-CN:
+    - 最终
+    - 境内
+    - 增加值
+  en:
+    - final
+    - domestic
+    - value added
+diagramIds: []
+quizIds:
+  - u3-02-gdp-flash-1
+  - u3-02-gdp-mcq-1
+  - u3-02-gdp-short-1

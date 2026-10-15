@@ -1,0 +1,41 @@
+id: u3-53-interventionist-supply
+slug: interventionist-supply
+section: "3.7"
+level: core
+syllabusRefs:
+  - 3.7 Supply-side policies
+textbookRefs:
+  - chapter: "13"
+    section: "13.6"
+    pages:
+      - 412
+prerequisites:
+  - u3-15-lras
+related:
+  - u3-52-market-based-supply
+  - u3-54-labour-market
+  - u3-55-infrastructure-innovation
+terms:
+  - 干预型供给侧政策
+  - Interventionist supply-side policies
+  - 瓶颈
+  - bottlenecks
+  - 投资
+  - investment
+  - 潜在产出
+  - potential output
+synonyms:
+  zh-CN:
+    - 瓶颈
+    - 投资
+    - 潜在产出
+  en:
+    - bottlenecks
+    - investment
+    - potential output
+diagramIds:
+  - macro-lras
+quizIds:
+  - u3-53-interventionist-supply-flash-1
+  - u3-53-interventionist-supply-mcq-1
+  - u3-53-interventionist-supply-short-1

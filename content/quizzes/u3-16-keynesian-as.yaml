@@ -1,0 +1,103 @@
+- id: u3-16-keynesian-as-flash-1
+  knowledgePointId: u3-16-keynesian-as
+  type: flashcard
+  prompt:
+    zh-CN: 解释“凯恩斯总供给模型”，并说明一个关键条件。
+    en: Explain The Keynesian aggregate supply model and state one important
+      condition.
+  answer:
+    zh-CN: 凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。
+    en: The Keynesian AS schematic is relatively flat with substantial spare
+      resources, rises near full employment and becomes vertical at capacity.
+      AD's output and price effects depend on the relevant range.
+  explanation:
+    zh-CN: 曲线水平区间不表示资源永久无限。
+    en: A flat range does not imply permanently unlimited resources.
+- id: u3-16-keynesian-as-mcq-1
+  knowledgePointId: u3-16-keynesian-as
+  type: mcq
+  prompt:
+    zh-CN: 凯恩斯 AS 平坦区间中 AD 右移，主要结果是什么？
+    en: In the flat range of Keynesian AS, what is the main effect of higher AD?
+  options:
+    - id: a
+      zh-CN: 只有价格上涨
+      en: Only higher prices
+    - id: b
+      zh-CN: 实际产出必降
+      en: Real output must fall
+    - id: c
+      zh-CN: 所有失业永远消失
+      en: All unemployment disappears forever
+    - id: d
+      zh-CN: 实际产出增加，价格变化较小
+      en: Higher real output with little price change
+  correctOptionId: d
+  explanation:
+    zh-CN: 实际产出增加，价格变化较小。
+      原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。
+      曲线水平区间不表示资源永久无限。
+    en: "Higher real output with little price change. Illustrative example: extra
+      public spending in a recession may mainly raise output, while at full
+      capacity it mainly raises prices. Downward wage rigidity and weak
+      confidence can sustain equilibrium below full employment. Explain
+      assumptions before contrasting neoclassical adjustment. A flat range does
+      not imply permanently unlimited resources."
+- id: u3-16-keynesian-as-short-1
+  knowledgePointId: u3-16-keynesian-as
+  type: short-answer
+  prompt:
+    zh-CN: 解释凯恩斯总供给模型的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The Keynesian aggregate supply model and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。
+      闲置资源允许较低成本扩张；产能瓶颈随利用率上升；接近满负荷时需求扩张主要推高价格
+      原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。
+    en: "The Keynesian AS schematic is relatively flat with substantial spare
+      resources, rises near full employment and becomes vertical at capacity.
+      AD's output and price effects depend on the relevant range. Idle resources
+      permit low-cost expansion; bottlenecks develop as utilisation rises; near
+      capacity demand expansion mainly raises prices Illustrative example: extra
+      public spending in a recession may mainly raise output, while at full
+      capacity it mainly raises prices. Downward wage rigidity and weak
+      confidence can sustain equilibrium below full employment. Explain
+      assumptions before contrasting neoclassical adjustment."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 闲置资源
+        en: spare resources
+      alternatives:
+        zh-CN:
+          - 闲置资源
+          - 闲置资源允许较低成本扩张
+        en:
+          - spare resources
+          - Idle resources permit low-cost expansion
+    - id: mechanism-2
+      label:
+        zh-CN: 瓶颈
+        en: bottlenecks
+      alternatives:
+        zh-CN:
+          - 瓶颈
+          - 产能瓶颈随利用率上升
+        en:
+          - bottlenecks
+          - bottlenecks develop as utilisation rises
+    - id: mechanism-3
+      label:
+        zh-CN: 刚性
+        en: rigidity
+      alternatives:
+        zh-CN:
+          - 刚性
+          - 接近满负荷时需求扩张主要推高价格
+        en:
+          - rigidity
+          - near capacity demand expansion mainly raises prices
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,101 @@
+- id: u3-41-expansionary-monetary-flash-1
+  knowledgePointId: u3-41-expansionary-monetary
+  type: flashcard
+  prompt:
+    zh-CN: 解释“扩张性货币政策”，并说明一个关键条件。
+    en: Explain Expansionary monetary policy and state one important condition.
+  answer:
+    zh-CN: 扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。
+    en: Expansionary monetary policy eases financial conditions to support aggregate
+      demand, usually when demand is weak. Output and price responses depend on
+      spare capacity.
+  explanation:
+    zh-CN: 总需求右移不是潜在产出自动增加。
+    en: A rightward AD shift does not automatically increase potential output.
+- id: u3-41-expansionary-monetary-mcq-1
+  knowledgePointId: u3-41-expansionary-monetary
+  type: mcq
+  prompt:
+    zh-CN: 存在闲置产能时，成功的需求刺激可能怎样？
+    en: With spare capacity, what may successful demand stimulus do?
+  options:
+    - id: a
+      zh-CN: 提高实际产出并缩小负缺口
+      en: Raise real output and narrow a negative gap
+    - id: b
+      zh-CN: 必然只提高物价
+      en: Necessarily only raise prices
+    - id: c
+      zh-CN: 必然使 LRAS 左移
+      en: Necessarily shift LRAS left
+    - id: d
+      zh-CN: 消除一切结构失业
+      en: Eliminate all structural unemployment
+  correctOptionId: a
+  explanation:
+    zh-CN: 提高实际产出并缩小负缺口。
+      原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。
+      总需求右移不是潜在产出自动增加。
+    en: "Raise real output and narrow a negative gap. Illustrative example: with
+      idle equipment, cheaper finance restores some investment, raising output
+      and employment. Demand may respond weakly if banks restrict lending or
+      households repay debt. Near capacity, price pressure is greater. A
+      rightward AD shift does not automatically increase potential output."
+- id: u3-41-expansionary-monetary-short-1
+  knowledgePointId: u3-41-expansionary-monetary
+  type: short-answer
+  prompt:
+    zh-CN: 解释扩张性货币政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Expansionary monetary policy and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。
+      降低利率或放松信贷条件；利率敏感支出增加使总需求右移；负产出缺口可能缩小
+      原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。
+    en: "Expansionary monetary policy eases financial conditions to support
+      aggregate demand, usually when demand is weak. Output and price responses
+      depend on spare capacity. Lower interest rates or ease credit conditions;
+      interest-sensitive spending increases and aggregate demand shifts right; a
+      negative output gap may narrow Illustrative example: with idle equipment,
+      cheaper finance restores some investment, raising output and employment.
+      Demand may respond weakly if banks restrict lending or households repay
+      debt. Near capacity, price pressure is greater."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 降低利率
+        en: lower interest rates
+      alternatives:
+        zh-CN:
+          - 降低利率
+          - 降低利率或放松信贷条件
+        en:
+          - lower interest rates
+          - Lower interest rates or ease credit conditions
+    - id: mechanism-2
+      label:
+        zh-CN: 总需求右移
+        en: aggregate demand shifts right
+      alternatives:
+        zh-CN:
+          - 总需求右移
+          - 利率敏感支出增加使总需求右移
+        en:
+          - aggregate demand shifts right
+          - interest-sensitive spending increases and aggregate demand shifts
+            right
+    - id: mechanism-3
+      label:
+        zh-CN: 负产出缺口
+        en: negative output gap
+      alternatives:
+        zh-CN:
+          - 负产出缺口
+          - 负产出缺口可能缩小
+        en:
+          - negative output gap
+          - a negative output gap may narrow
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -61,7 +61,7 @@ const coverage = `# Content coverage report
 
 This report is generated from the checked-in source content by \`npm run content:report\`. Do not edit it by hand.
 
-## Published Units 1 and 2
+## Authored Units 1, 2 and 3
 
 | Measure | Result |
 | --- | ---: |

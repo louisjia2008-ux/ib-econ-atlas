@@ -1,0 +1,101 @@
+- id: u3-25-demand-pull-flash-1
+  knowledgePointId: u3-25-demand-pull
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求拉动型通胀”，并说明一个关键条件。
+    en: Explain Demand-pull inflation and state one important condition.
+  answer:
+    zh-CN: 需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。
+    en: Demand-pull inflation arises when AD grows too quickly relative to
+      productive capacity, creating broad price pressure when supply response is
+      constrained.
+  explanation:
+    zh-CN: 单一商品涨价不必然意味着总体需求拉动通胀。
+    en: A price rise in one product does not necessarily imply economy-wide
+      demand-pull inflation.
+- id: u3-25-demand-pull-mcq-1
+  knowledgePointId: u3-25-demand-pull
+  type: mcq
+  prompt:
+    zh-CN: 接近满产时 AD 大幅右移主要增加哪种风险？
+    en: What risk rises when AD expands strongly near full capacity?
+  options:
+    - id: a
+      zh-CN: 需求拉动型通胀
+      en: Demand-pull inflation
+    - id: b
+      zh-CN: 总体价格必降
+      en: A necessary price-level fall
+    - id: c
+      zh-CN: 自然失业永远为零
+      en: Permanently zero natural unemployment
+    - id: d
+      zh-CN: 潜在产能必立刻翻倍
+      en: Instantly doubled capacity
+  correctOptionId: a
+  explanation:
+    zh-CN: 需求拉动型通胀。
+      原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。
+      单一商品涨价不必然意味着总体需求拉动通胀。
+    en: "Demand-pull inflation. Illustrative example: rapid credit and consumption
+      growth near full employment meets limited production response, raising
+      price pressure. With substantial spare resources, the same demand rise may
+      generate more real growth and less inflation. A price rise in one product
+      does not necessarily imply economy-wide demand-pull inflation."
+- id: u3-25-demand-pull-short-1
+  knowledgePointId: u3-25-demand-pull
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求拉动型通胀的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Demand-pull inflation and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。 消费、投资或其他支出增加；AD
+      右移接近或超过产能；工资与价格承受上涨压力
+      原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。
+    en: "Demand-pull inflation arises when AD grows too quickly relative to
+      productive capacity, creating broad price pressure when supply response is
+      constrained. Consumption, investment or other spending rises; AD shifts
+      right toward or beyond capacity; wages and prices face upward pressure
+      Illustrative example: rapid credit and consumption growth near full
+      employment meets limited production response, raising price pressure. With
+      substantial spare resources, the same demand rise may generate more real
+      growth and less inflation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 总需求
+        en: aggregate demand
+      alternatives:
+        zh-CN:
+          - 总需求
+          - 消费、投资或其他支出增加
+        en:
+          - aggregate demand
+          - Consumption, investment or other spending rises
+    - id: mechanism-2
+      label:
+        zh-CN: 产能
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 产能
+          - AD 右移接近或超过产能
+        en:
+          - capacity
+          - AD shifts right toward or beyond capacity
+    - id: mechanism-3
+      label:
+        zh-CN: 物价上涨
+        en: price pressure
+      alternatives:
+        zh-CN:
+          - 物价上涨
+          - 工资与价格承受上涨压力
+        en:
+          - price pressure
+          - wages and prices face upward pressure
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

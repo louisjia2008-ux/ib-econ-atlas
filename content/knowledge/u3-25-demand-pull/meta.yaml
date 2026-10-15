@@ -1,0 +1,41 @@
+id: u3-25-demand-pull
+slug: demand-pull
+section: "3.3"
+level: core
+syllabusRefs:
+  - 3.3 Macroeconomic objectives
+textbookRefs:
+  - chapter: "10"
+    section: "10.2"
+    pages:
+      - 308
+prerequisites:
+  - u3-17-macro-equilibrium
+related:
+  - u3-21-unemployment-rate
+  - u3-22-unemployment-types
+  - u3-23-unemployment-costs
+terms:
+  - 需求拉动型通胀
+  - Demand-pull inflation
+  - 总需求
+  - aggregate demand
+  - 产能
+  - capacity
+  - 物价上涨
+  - price pressure
+synonyms:
+  zh-CN:
+    - 总需求
+    - 产能
+    - 物价上涨
+  en:
+    - aggregate demand
+    - capacity
+    - price pressure
+diagramIds:
+  - macro-ad-expansion
+quizIds:
+  - u3-25-demand-pull-flash-1
+  - u3-25-demand-pull-mcq-1
+  - u3-25-demand-pull-short-1

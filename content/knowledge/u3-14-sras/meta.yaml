@@ -1,0 +1,41 @@
+id: u3-14-sras
+slug: sras
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.2"
+    pages:
+      - 276
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-12-consumption
+  - u3-13-investment
+terms:
+  - 短期总供给 SRAS
+  - Short-run aggregate supply
+  - 成本
+  - costs
+  - 价格水平
+  - price level
+  - 实际产出
+  - real output
+synonyms:
+  zh-CN:
+    - 成本
+    - 价格水平
+    - 实际产出
+  en:
+    - costs
+    - price level
+    - real output
+diagramIds:
+  - macro-supply-shock
+quizIds:
+  - u3-14-sras-flash-1
+  - u3-14-sras-mcq-1
+  - u3-14-sras-short-1

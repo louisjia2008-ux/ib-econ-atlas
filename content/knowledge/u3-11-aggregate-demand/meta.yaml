@@ -1,0 +1,41 @@
+id: u3-11-aggregate-demand
+slug: aggregate-demand
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.1"
+    pages:
+      - 272
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-12-consumption
+  - u3-13-investment
+  - u3-14-sras
+terms:
+  - 总需求与 AD 曲线
+  - Aggregate demand and the AD curve
+  - 计划支出
+  - planned spending
+  - 价格水平
+  - price level
+  - 实际 GDP
+  - real GDP
+synonyms:
+  zh-CN:
+    - 计划支出
+    - 价格水平
+    - 实际 GDP
+  en:
+    - planned spending
+    - price level
+    - real GDP
+diagramIds:
+  - macro-ad-as
+quizIds:
+  - u3-11-aggregate-demand-flash-1
+  - u3-11-aggregate-demand-mcq-1
+  - u3-11-aggregate-demand-short-1

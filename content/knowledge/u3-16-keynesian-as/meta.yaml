@@ -1,0 +1,41 @@
+id: u3-16-keynesian-as
+slug: keynesian-as
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.4"
+    pages:
+      - 286
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-12-consumption
+  - u3-13-investment
+terms:
+  - 凯恩斯总供给模型
+  - The Keynesian aggregate supply model
+  - 闲置资源
+  - spare resources
+  - 瓶颈
+  - bottlenecks
+  - 刚性
+  - rigidity
+synonyms:
+  zh-CN:
+    - 闲置资源
+    - 瓶颈
+    - 刚性
+  en:
+    - spare resources
+    - bottlenecks
+    - rigidity
+diagramIds:
+  - macro-keynesian
+quizIds:
+  - u3-16-keynesian-as-flash-1
+  - u3-16-keynesian-as-mcq-1
+  - u3-16-keynesian-as-short-1

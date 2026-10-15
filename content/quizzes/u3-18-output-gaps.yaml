@@ -1,0 +1,99 @@
+- id: u3-18-output-gaps-flash-1
+  knowledgePointId: u3-18-output-gaps
+  type: flashcard
+  prompt:
+    zh-CN: 解释“衰退缺口与通胀缺口”，并说明一个关键条件。
+    en: Explain Recessionary and inflationary gaps and state one important
+      condition.
+  answer:
+    zh-CN: 负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。
+    en: A negative output gap means actual output below potential; a positive gap
+      means above potential. The gap compares output with estimated capacity,
+      not simply with its growth rate.
+  explanation:
+    zh-CN: 负缺口不等同于当期实际增长一定为负。
+    en: A negative gap does not require negative current growth.
+- id: u3-18-output-gaps-mcq-1
+  knowledgePointId: u3-18-output-gaps
+  type: mcq
+  prompt:
+    zh-CN: Y=108、Yf=100，产出缺口为多少？
+    en: Y=108 and Yf=100. What is the output gap?
+  options:
+    - id: a
+      zh-CN: -8%
+      en: -8%
+    - id: b
+      zh-CN: +8%
+      en: +8%
+    - id: c
+      zh-CN: 108%
+      en: 108%
+    - id: d
+      zh-CN: 0%
+      en: 0%
+  correctOptionId: b
+  explanation:
+    zh-CN: +8%。 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至
+      950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。 负缺口不等同于当期实际增长一定为负。
+    en: "+8%. Illustrative example: potential GDP=1000 and actual GDP=950 give a gap
+      of about -5%. Output can grow from 930 to 950 and still have a negative
+      gap. Potential is unobservable, so estimation error affects policy
+      choices. A negative gap does not require negative current growth."
+- id: u3-18-output-gaps-short-1
+  knowledgePointId: u3-18-output-gaps
+  type: short-answer
+  prompt:
+    zh-CN: 解释衰退缺口与通胀缺口的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Recessionary and inflationary gaps and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。
+      估计可持续潜在产出；比较实际产出与潜在产出；识别闲置资源或过度需求压力 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为
+      -5%。即使实际 GDP 从 930 增至 950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。
+    en: "A negative output gap means actual output below potential; a positive gap
+      means above potential. The gap compares output with estimated capacity,
+      not simply with its growth rate. Estimate sustainable potential output;
+      compare actual with potential; identify spare resources or excess-demand
+      pressure Illustrative example: potential GDP=1000 and actual GDP=950 give
+      a gap of about -5%. Output can grow from 930 to 950 and still have a
+      negative gap. Potential is unobservable, so estimation error affects
+      policy choices."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 实际产出
+        en: actual output
+      alternatives:
+        zh-CN:
+          - 实际产出
+          - 估计可持续潜在产出
+        en:
+          - actual output
+          - Estimate sustainable potential output
+    - id: mechanism-2
+      label:
+        zh-CN: 潜在产出
+        en: potential output
+      alternatives:
+        zh-CN:
+          - 潜在产出
+          - 比较实际产出与潜在产出
+        en:
+          - potential output
+          - compare actual with potential
+    - id: mechanism-3
+      label:
+        zh-CN: 缺口
+        en: gap
+      alternatives:
+        zh-CN:
+          - 缺口
+          - 识别闲置资源或过度需求压力
+        en:
+          - gap
+          - identify spare resources or excess-demand pressure
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

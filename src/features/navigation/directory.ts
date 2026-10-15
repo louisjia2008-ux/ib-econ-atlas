@@ -30,11 +30,19 @@ export const syllabusTitles: Record<string, Record<Locale, string>> = {
   "2.10": { "zh-CN": "信息不对称", en: "Asymmetric information" },
   "2.11": { "zh-CN": "市场势力", en: "Market power" },
   "2.12": { "zh-CN": "市场与公平", en: "Markets and equity" },
+  "3.1": { "zh-CN": "经济活动的衡量与波动", en: "Measuring economic activity and its variations" },
+  "3.2": { "zh-CN": "总需求与总供给", en: "Aggregate demand and aggregate supply" },
+  "3.3": { "zh-CN": "宏观经济目标", en: "Macroeconomic objectives" },
+  "3.4": { "zh-CN": "不平等与贫困", en: "Economics of inequality and poverty" },
+  "3.5": { "zh-CN": "货币政策", en: "Monetary policy" },
+  "3.6": { "zh-CN": "财政政策", en: "Fiscal policy" },
+  "3.7": { "zh-CN": "供给侧政策", en: "Supply-side policies" },
 };
 
 const unitTitles: Record<string, Record<Locale, string>> = {
   "1": { "zh-CN": "Unit 1 · 经济学导论", en: "Unit 1 · Introduction to economics" },
   "2": { "zh-CN": "Unit 2 · 微观经济学", en: "Unit 2 · Microeconomics" },
+  "3": { "zh-CN": "Unit 3 · 宏观经济学", en: "Unit 3 · Macroeconomics" },
 };
 const chapterTitles: Record<string, Record<Locale, string>> = {
   "1": { "zh-CN": "经济学基础", en: "Foundations" },
@@ -44,6 +52,12 @@ const chapterTitles: Record<string, Record<Locale, string>> = {
   "5": { "zh-CN": "共同资源与负外部性", en: "Common resources and negative externalities" },
   "6": { "zh-CN": "正外部性、公共物品与信息", en: "Positive externalities, public goods and information" },
   "7": { "zh-CN": "市场势力", en: "Market power" },
+  "8": { "zh-CN": "经济活动的衡量", en: "Measuring economic activity" },
+  "9": { "zh-CN": "总需求与总供给", en: "Aggregate demand and aggregate supply" },
+  "10": { "zh-CN": "失业与通胀", en: "Unemployment and inflation" },
+  "11": { "zh-CN": "增长、债务与目标冲突", en: "Growth, debt and conflicting objectives" },
+  "12": { "zh-CN": "不平等与贫困", en: "Inequality and poverty" },
+  "13": { "zh-CN": "宏观经济政策", en: "Macroeconomic policies" },
 };
 
 export function buildSyllabusDirectory(points: KnowledgePoint[]): DirectoryGroup[] {

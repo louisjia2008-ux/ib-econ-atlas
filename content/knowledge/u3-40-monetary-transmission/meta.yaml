@@ -1,0 +1,40 @@
+id: u3-40-monetary-transmission
+slug: monetary-transmission
+section: "3.5"
+level: core
+syllabusRefs:
+  - 3.5 Monetary policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.2"
+    pages:
+      - 387
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-39-money-interest
+  - u3-41-expansionary-monetary
+  - u3-42-contractionary-monetary
+terms:
+  - 货币政策传导
+  - Monetary transmission
+  - 融资成本
+  - financing costs
+  - 消费投资
+  - consumption and investment
+  - 总需求
+  - aggregate demand
+synonyms:
+  zh-CN:
+    - 融资成本
+    - 消费投资
+    - 总需求
+  en:
+    - financing costs
+    - consumption and investment
+    - aggregate demand
+diagramIds: []
+quizIds:
+  - u3-40-monetary-transmission-flash-1
+  - u3-40-monetary-transmission-mcq-1
+  - u3-40-monetary-transmission-short-1

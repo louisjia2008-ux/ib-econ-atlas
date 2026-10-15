@@ -1,0 +1,101 @@
+- id: u3-30-public-debt-flash-1
+  knowledgePointId: u3-30-public-debt
+  type: flashcard
+  prompt:
+    zh-CN: 解释“政府债务与可持续性”，并说明一个关键条件。
+    en: Explain Government debt and sustainability and state one important
+      condition.
+  answer:
+    zh-CN: 预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。
+    en: A budget deficit is a flow of spending above revenue over a period; public
+      debt is an accumulated stock. Sustainability depends on growth, interest
+      rates, the primary balance, currency and repayment capacity.
+  explanation:
+    zh-CN: 政府债务增加不意味着债务占 GDP 比率必然增加。
+    en: More government debt does not necessarily imply a higher debt-to-GDP ratio.
+- id: u3-30-public-debt-mcq-1
+  knowledgePointId: u3-30-public-debt
+  type: mcq
+  prompt:
+    zh-CN: 债务 240、GDP 400，债务率多少？
+    en: Debt is 240 and GDP 400. What is the debt ratio?
+  options:
+    - id: a
+      zh-CN: 40%
+      en: 40%
+    - id: b
+      zh-CN: 60%
+      en: 60%
+    - id: c
+      zh-CN: 166.7%
+      en: 166.7%
+    - id: d
+      zh-CN: 640%
+      en: 640%
+  correctOptionId: b
+  explanation:
+    zh-CN: 60%。 原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约
+      57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。 政府债务增加不意味着债务占 GDP 比率必然增加。
+    en: "60%. Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt
+      rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is
+      no universal safe threshold; use of borrowing, maturity and credibility
+      matter. More government debt does not necessarily imply a higher
+      debt-to-GDP ratio."
+- id: u3-30-public-debt-short-1
+  knowledgePointId: u3-30-public-debt
+  type: short-answer
+  prompt:
+    zh-CN: 解释政府债务与可持续性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Government debt and sustainability and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。
+      赤字通常增加融资需求；债务存量产生利息；增长与初级余额共同影响债务占 GDP 比率 原创例：债务 600、GDP 1000，债务率 60%。债务升至
+      630 而 GDP 升至 1100，债务率反而降至约 57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。
+    en: "A budget deficit is a flow of spending above revenue over a period; public
+      debt is an accumulated stock. Sustainability depends on growth, interest
+      rates, the primary balance, currency and repayment capacity. Deficits
+      normally increase financing needs; debt stocks generate interest costs;
+      growth and primary balances jointly affect the debt-to-GDP ratio
+      Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt
+      rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is
+      no universal safe threshold; use of borrowing, maturity and credibility
+      matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 存量
+        en: stock
+      alternatives:
+        zh-CN:
+          - 存量
+          - 赤字通常增加融资需求
+        en:
+          - stock
+          - Deficits normally increase financing needs
+    - id: mechanism-2
+      label:
+        zh-CN: 赤字
+        en: deficit
+      alternatives:
+        zh-CN:
+          - 赤字
+          - 债务存量产生利息
+        en:
+          - deficit
+          - debt stocks generate interest costs
+    - id: mechanism-3
+      label:
+        zh-CN: 增长
+        en: growth
+      alternatives:
+        zh-CN:
+          - 增长
+          - 增长与初级余额共同影响债务占 GDP 比率
+        en:
+          - growth
+          - growth and primary balances jointly affect the debt-to-GDP ratio
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

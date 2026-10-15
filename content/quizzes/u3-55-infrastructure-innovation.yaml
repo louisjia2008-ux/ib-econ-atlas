@@ -1,0 +1,104 @@
+- id: u3-55-infrastructure-innovation-flash-1
+  knowledgePointId: u3-55-infrastructure-innovation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“基础设施与创新”，并说明一个关键条件。
+    en: Explain Infrastructure and innovation and state one important condition.
+  answer:
+    zh-CN: 交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。
+    en: Transport, digital networks and research can raise productivity and generate
+      external benefits. Evaluate additional benefits, opportunity costs,
+      maintenance and governance.
+  explanation:
+    zh-CN: 增加投资流量不保证资本服务质量和长期回报。
+    en: Higher investment flows do not guarantee capital-service quality or long-run
+      returns.
+- id: u3-55-infrastructure-innovation-mcq-1
+  knowledgePointId: u3-55-infrastructure-innovation
+  type: mcq
+  prompt:
+    zh-CN: 评估公共研发支持应考察什么？
+    en: What should evaluation of public research support consider?
+  options:
+    - id: a
+      zh-CN: 只统计补贴总额
+      en: Only total subsidy spending
+    - id: b
+      zh-CN: 假定研发全部成功
+      en: Assume all research succeeds
+    - id: c
+      zh-CN: 额外创新、外部收益与机会成本
+      en: Additional innovation, external benefits and opportunity cost
+    - id: d
+      zh-CN: 排除维护和治理
+      en: Exclude maintenance and governance
+  correctOptionId: c
+  explanation:
+    zh-CN: 额外创新、外部收益与机会成本。
+      原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。
+      增加投资流量不保证资本服务质量和长期回报。
+    en: "Additional innovation, external benefits and opportunity cost. Illustrative
+      example: reliable electricity reduces downtime, while research support may
+      generate knowledge spillovers. Underused projects, rent-seeking or poor
+      maintenance can make costs exceed benefits. Research outcomes are
+      uncertain; not every subsidy produces additional innovation. Higher
+      investment flows do not guarantee capital-service quality or long-run
+      returns."
+- id: u3-55-infrastructure-innovation-short-1
+  knowledgePointId: u3-55-infrastructure-innovation
+  type: short-answer
+  prompt:
+    zh-CN: 解释基础设施与创新的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Infrastructure and innovation and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。
+      识别网络或知识瓶颈；投资降低成本或扩大技术能力；长期供给增加但收益取决于使用与维护
+      原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。
+    en: "Transport, digital networks and research can raise productivity and
+      generate external benefits. Evaluate additional benefits, opportunity
+      costs, maintenance and governance. Identify network or knowledge
+      bottlenecks; investment lowers costs or expands technological capability;
+      long-run supply grows but benefits depend on use and maintenance
+      Illustrative example: reliable electricity reduces downtime, while
+      research support may generate knowledge spillovers. Underused projects,
+      rent-seeking or poor maintenance can make costs exceed benefits. Research
+      outcomes are uncertain; not every subsidy produces additional innovation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 知识瓶颈
+        en: knowledge bottlenecks
+      alternatives:
+        zh-CN:
+          - 知识瓶颈
+          - 识别网络或知识瓶颈
+        en:
+          - knowledge bottlenecks
+          - Identify network or knowledge bottlenecks
+    - id: mechanism-2
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 投资降低成本或扩大技术能力
+        en:
+          - costs
+          - investment lowers costs or expands technological capability
+    - id: mechanism-3
+      label:
+        zh-CN: 长期供给
+        en: long-run supply
+      alternatives:
+        zh-CN:
+          - 长期供给
+          - 长期供给增加但收益取决于使用与维护
+        en:
+          - long-run supply
+          - long-run supply grows but benefits depend on use and maintenance
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

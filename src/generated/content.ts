@@ -1254,6 +1254,678 @@ export const manifestEntries = [
     "pages": [
       191
     ]
+  },
+  {
+    "id": "u3-01-circular-flow",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "收入循环与五部门经济",
+      "en": "Circular flow and the five-sector economy"
+    },
+    "pages": [
+      248
+    ]
+  },
+  {
+    "id": "u3-02-gdp",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "国内生产总值与增加值",
+      "en": "GDP and value added"
+    },
+    "pages": [
+      250
+    ]
+  },
+  {
+    "id": "u3-03-expenditure",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "支出法 GDP",
+      "en": "GDP by expenditure"
+    },
+    "pages": [
+      256
+    ]
+  },
+  {
+    "id": "u3-04-nominal-real",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "名义与实际 GDP",
+      "en": "Nominal and real GDP"
+    },
+    "pages": [
+      250
+    ]
+  },
+  {
+    "id": "u3-05-deflator",
+    "section": "3.1",
+    "level": "hl",
+    "title": {
+      "zh-CN": "GDP 平减指数与核算计算",
+      "en": "GDP deflator and national-account calculations"
+    },
+    "pages": [
+      256
+    ]
+  },
+  {
+    "id": "u3-06-gni",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "GNI、折旧与净收入",
+      "en": "GNI, depreciation and net income"
+    },
+    "pages": [
+      250
+    ]
+  },
+  {
+    "id": "u3-07-per-capita-ppp",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "人均实际收入与 PPP",
+      "en": "Real income per capita and PPP"
+    },
+    "pages": [
+      264
+    ]
+  },
+  {
+    "id": "u3-08-business-cycle",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "经济周期与趋势",
+      "en": "Business cycles and trend output"
+    },
+    "pages": [
+      260
+    ]
+  },
+  {
+    "id": "u3-09-gdp-limitations",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "GDP 与生活水平的局限",
+      "en": "GDP and limits as a living-standard measure"
+    },
+    "pages": [
+      264
+    ]
+  },
+  {
+    "id": "u3-10-wellbeing-indicators",
+    "section": "3.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "替代福利指标",
+      "en": "Alternative wellbeing indicators"
+    },
+    "pages": [
+      264
+    ]
+  },
+  {
+    "id": "u3-11-aggregate-demand",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "总需求与 AD 曲线",
+      "en": "Aggregate demand and the AD curve"
+    },
+    "pages": [
+      272
+    ]
+  },
+  {
+    "id": "u3-12-consumption",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "消费与总需求移动",
+      "en": "Consumption and shifts in aggregate demand"
+    },
+    "pages": [
+      272
+    ]
+  },
+  {
+    "id": "u3-13-investment",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "投资与加速、信心和利率",
+      "en": "Investment, confidence and interest rates"
+    },
+    "pages": [
+      272
+    ]
+  },
+  {
+    "id": "u3-14-sras",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "短期总供给 SRAS",
+      "en": "Short-run aggregate supply"
+    },
+    "pages": [
+      276
+    ]
+  },
+  {
+    "id": "u3-15-lras",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "长期总供给与潜在产出",
+      "en": "Long-run aggregate supply and potential output"
+    },
+    "pages": [
+      281
+    ]
+  },
+  {
+    "id": "u3-16-keynesian-as",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "凯恩斯总供给模型",
+      "en": "The Keynesian aggregate supply model"
+    },
+    "pages": [
+      286
+    ]
+  },
+  {
+    "id": "u3-17-macro-equilibrium",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "宏观均衡与比较静态",
+      "en": "Macroeconomic equilibrium and comparative statics"
+    },
+    "pages": [
+      276
+    ]
+  },
+  {
+    "id": "u3-18-output-gaps",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "衰退缺口与通胀缺口",
+      "en": "Recessionary and inflationary gaps"
+    },
+    "pages": [
+      292
+    ]
+  },
+  {
+    "id": "u3-19-macro-shocks",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求冲击、供给冲击与滞胀",
+      "en": "Demand shocks, supply shocks and stagflation"
+    },
+    "pages": [
+      276
+    ]
+  },
+  {
+    "id": "u3-20-potential-growth",
+    "section": "3.2",
+    "level": "core",
+    "title": {
+      "zh-CN": "潜在增长与总供给右移",
+      "en": "Potential growth and rightward aggregate supply shifts"
+    },
+    "pages": [
+      290
+    ]
+  },
+  {
+    "id": "u3-21-unemployment-rate",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "失业率与劳动参与率",
+      "en": "Unemployment and participation rates"
+    },
+    "pages": [
+      298
+    ]
+  },
+  {
+    "id": "u3-22-unemployment-types",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "失业类型与自然失业",
+      "en": "Types of unemployment and natural unemployment"
+    },
+    "pages": [
+      298
+    ]
+  },
+  {
+    "id": "u3-23-unemployment-costs",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "失业的经济与社会成本",
+      "en": "Economic and social costs of unemployment"
+    },
+    "pages": [
+      298
+    ]
+  },
+  {
+    "id": "u3-24-cpi",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "CPI 与通胀率计算",
+      "en": "CPI and inflation calculations"
+    },
+    "pages": [
+      308
+    ]
+  },
+  {
+    "id": "u3-25-demand-pull",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "需求拉动型通胀",
+      "en": "Demand-pull inflation"
+    },
+    "pages": [
+      308
+    ]
+  },
+  {
+    "id": "u3-26-cost-push",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "成本推动型通胀",
+      "en": "Cost-push inflation"
+    },
+    "pages": [
+      313
+    ]
+  },
+  {
+    "id": "u3-27-disinflation-deflation",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "通胀放缓、通缩与实际债务",
+      "en": "Disinflation, deflation and real debt"
+    },
+    "pages": [
+      316
+    ]
+  },
+  {
+    "id": "u3-28-growth-measure",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "实际经济增长的衡量",
+      "en": "Measuring real economic growth"
+    },
+    "pages": [
+      332
+    ]
+  },
+  {
+    "id": "u3-29-growth-evaluation",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "增长的来源、收益与代价",
+      "en": "Sources, benefits and costs of growth"
+    },
+    "pages": [
+      338
+    ]
+  },
+  {
+    "id": "u3-30-public-debt",
+    "section": "3.3",
+    "level": "hl",
+    "title": {
+      "zh-CN": "政府债务与可持续性",
+      "en": "Government debt and sustainability"
+    },
+    "pages": [
+      346
+    ]
+  },
+  {
+    "id": "u3-31-phillips-curve",
+    "section": "3.3",
+    "level": "hl",
+    "title": {
+      "zh-CN": "短期与长期菲利普斯曲线",
+      "en": "Short-run and long-run Phillips curves"
+    },
+    "pages": [
+      322
+    ]
+  },
+  {
+    "id": "u3-32-objective-conflicts",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "宏观目标的冲突与协同",
+      "en": "Conflicts and complementarities among objectives"
+    },
+    "pages": [
+      350
+    ]
+  },
+  {
+    "id": "u3-33-poverty",
+    "section": "3.4",
+    "level": "core",
+    "title": {
+      "zh-CN": "绝对贫困与相对贫困",
+      "en": "Absolute and relative poverty"
+    },
+    "pages": [
+      359
+    ]
+  },
+  {
+    "id": "u3-34-inequality-causes",
+    "section": "3.4",
+    "level": "core",
+    "title": {
+      "zh-CN": "不平等与贫困的成因",
+      "en": "Causes of inequality and poverty"
+    },
+    "pages": [
+      365
+    ]
+  },
+  {
+    "id": "u3-35-lorenz-gini",
+    "section": "3.4",
+    "level": "hl",
+    "title": {
+      "zh-CN": "洛伦兹曲线与基尼计算",
+      "en": "Lorenz curves and Gini calculations"
+    },
+    "pages": [
+      353
+    ]
+  },
+  {
+    "id": "u3-36-poverty-effects",
+    "section": "3.4",
+    "level": "core",
+    "title": {
+      "zh-CN": "不平等与贫困的影响",
+      "en": "Effects of inequality and poverty"
+    },
+    "pages": [
+      369
+    ]
+  },
+  {
+    "id": "u3-37-progressive-tax",
+    "section": "3.4",
+    "level": "core",
+    "title": {
+      "zh-CN": "累进税、转移支付与可支配收入",
+      "en": "Progressive taxes, transfers and disposable income"
+    },
+    "pages": [
+      371
+    ]
+  },
+  {
+    "id": "u3-38-poverty-policies",
+    "section": "3.4",
+    "level": "core",
+    "title": {
+      "zh-CN": "减贫与再分配政策评价",
+      "en": "Evaluating poverty and redistribution policies"
+    },
+    "pages": [
+      371
+    ]
+  },
+  {
+    "id": "u3-39-money-interest",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "中央银行与利率",
+      "en": "Central banks and interest rates"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-40-monetary-transmission",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "货币政策传导",
+      "en": "Monetary transmission"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-41-expansionary-monetary",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "扩张性货币政策",
+      "en": "Expansionary monetary policy"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-42-contractionary-monetary",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "紧缩性货币政策",
+      "en": "Contractionary monetary policy"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-43-unconventional-policy",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "非常规货币政策",
+      "en": "Unconventional monetary policy"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-44-monetary-limits",
+    "section": "3.5",
+    "level": "core",
+    "title": {
+      "zh-CN": "货币政策的有效性与约束",
+      "en": "Effectiveness and limits of monetary policy"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-45-fiscal-budget",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "财政预算与政策立场",
+      "en": "Fiscal budgets and policy stance"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-46-expansionary-fiscal",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "扩张性财政政策",
+      "en": "Expansionary fiscal policy"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-47-contractionary-fiscal",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "紧缩性财政政策",
+      "en": "Contractionary fiscal policy"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-48-automatic-stabilisers",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "自动稳定器",
+      "en": "Automatic stabilisers"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-49-multiplier",
+    "section": "3.6",
+    "level": "hl",
+    "title": {
+      "zh-CN": "凯恩斯乘数",
+      "en": "The Keynesian multiplier"
+    },
+    "pages": [
+      407
+    ]
+  },
+  {
+    "id": "u3-50-crowding-out",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "挤出效应",
+      "en": "Crowding out"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-51-fiscal-evaluation",
+    "section": "3.6",
+    "level": "core",
+    "title": {
+      "zh-CN": "财政政策评价",
+      "en": "Evaluating fiscal policy"
+    },
+    "pages": [
+      398
+    ]
+  },
+  {
+    "id": "u3-52-market-based-supply",
+    "section": "3.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "市场导向供给侧政策",
+      "en": "Market-based supply-side policies"
+    },
+    "pages": [
+      412
+    ]
+  },
+  {
+    "id": "u3-53-interventionist-supply",
+    "section": "3.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "干预型供给侧政策",
+      "en": "Interventionist supply-side policies"
+    },
+    "pages": [
+      412
+    ]
+  },
+  {
+    "id": "u3-54-labour-market",
+    "section": "3.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "劳动力市场政策",
+      "en": "Labour-market policies"
+    },
+    "pages": [
+      412
+    ]
+  },
+  {
+    "id": "u3-55-infrastructure-innovation",
+    "section": "3.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "基础设施与创新",
+      "en": "Infrastructure and innovation"
+    },
+    "pages": [
+      412
+    ]
+  },
+  {
+    "id": "u3-56-policy-mix",
+    "section": "3.7",
+    "level": "core",
+    "title": {
+      "zh-CN": "宏观政策组合与评价",
+      "en": "Macroeconomic policy mixes"
+    },
+    "pages": [
+      424
+    ]
   }
 ] as ManifestEntry[];
 
@@ -25715,6 +26387,12870 @@ export const knowledgePoints = [
               "en": [
                 "incentives",
                 "assess poverty, equity and behavioural responses"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-01-circular-flow",
+      "slug": "circular-flow",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.1",
+          "pages": [
+            248
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-02-gdp",
+        "u3-03-expenditure",
+        "u3-04-nominal-real"
+      ],
+      "terms": [
+        "收入循环与五部门经济",
+        "Circular flow and the five-sector economy",
+        "漏出",
+        "leakages",
+        "注入",
+        "injections",
+        "收入",
+        "income"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "漏出",
+          "注入",
+          "收入"
+        ],
+        "en": [
+          "leakages",
+          "injections",
+          "income"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-01-circular-flow-flash-1",
+        "u3-01-circular-flow-mcq-1",
+        "u3-01-circular-flow-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-01-circular-flow",
+        "locale": "zh-CN",
+        "title": "收入循环与五部门经济",
+        "takeaway": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+        "definition": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+        "causalChain": [
+          "家庭提供生产要素获得收入",
+          "收入用于消费或漏出",
+          "注入支出支持企业销售与下一轮收入"
+        ],
+        "misconceptions": [
+          "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。"
+        ],
+        "explanation": "家庭提供生产要素获得收入。收入用于消费或漏出。注入支出支持企业销售与下一轮收入。\n\n### 原创情境与推导\n\n原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。\n\n储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-01-circular-flow",
+        "locale": "en",
+        "title": "Circular flow and the five-sector economy",
+        "takeaway": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+        "definition": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+        "causalChain": [
+          "Households supply factors and receive income",
+          "income funds consumption or leakages",
+          "injections support firms' sales and the next round of income"
+        ],
+        "misconceptions": [
+          "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+          "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        ],
+        "explanation": "Households supply factors and receive income.  income funds consumption or leakages.  injections support firms' sales and the next round of income.\n\n### Original scenario and reasoning\n\nIllustrative example: households supply labour, receive wages and buy firms' output. S, T and M are leakages; I, G and X are injections. Simple steady equilibrium requires planned injections to equal planned leakages, not each individual item to equal its counterpart.\n\nSaving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-01-circular-flow-flash-1",
+        "knowledgePointId": "u3-01-circular-flow",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“收入循环与五部门经济”，并说明一个关键条件。",
+          "en": "Explain Circular flow and the five-sector economy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+        },
+        "explanation": {
+          "zh-CN": "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。",
+          "en": "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        }
+      },
+      {
+        "id": "u3-01-circular-flow-mcq-1",
+        "knowledgePointId": "u3-01-circular-flow",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪一项是收入循环的注入？",
+          "en": "Which is an injection into the circular flow?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "出口 X",
+            "en": "Exports X"
+          },
+          {
+            "id": "b",
+            "zh-CN": "储蓄 S",
+            "en": "Saving S"
+          },
+          {
+            "id": "c",
+            "zh-CN": "税收 T",
+            "en": "Taxes T"
+          },
+          {
+            "id": "d",
+            "zh-CN": "进口 M",
+            "en": "Imports M"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "出口 X。 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。",
+          "en": "Exports X. Illustrative example: households supply labour, receive wages and buy firms' output. S, T and M are leakages; I, G and X are injections. Simple steady equilibrium requires planned injections to equal planned leakages, not each individual item to equal its counterpart. Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        }
+      },
+      {
+        "id": "u3-01-circular-flow-short-1",
+        "knowledgePointId": "u3-01-circular-flow",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释收入循环与五部门经济的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Circular flow and the five-sector economy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。 家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。",
+          "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions. Households supply factors and receive income; income funds consumption or leakages; injections support firms' sales and the next round of income Illustrative example: households supply labour, receive wages and buy firms' output. S, T and M are leakages; I, G and X are injections. Simple steady equilibrium requires planned injections to equal planned leakages, not each individual item to equal its counterpart."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "漏出",
+              "en": "leakages"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "漏出",
+                "家庭提供生产要素获得收入"
+              ],
+              "en": [
+                "leakages",
+                "Households supply factors and receive income"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "注入",
+              "en": "injections"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "注入",
+                "收入用于消费或漏出"
+              ],
+              "en": [
+                "injections",
+                "income funds consumption or leakages"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "注入支出支持企业销售与下一轮收入"
+              ],
+              "en": [
+                "income",
+                "injections support firms' sales and the next round of income"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-02-gdp",
+      "slug": "gdp",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.2",
+          "pages": [
+            250
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-03-expenditure",
+        "u3-04-nominal-real"
+      ],
+      "terms": [
+        "国内生产总值与增加值",
+        "GDP and value added",
+        "最终",
+        "final",
+        "境内",
+        "domestic",
+        "增加值",
+        "value added"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "最终",
+          "境内",
+          "增加值"
+        ],
+        "en": [
+          "final",
+          "domestic",
+          "value added"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-02-gdp-flash-1",
+        "u3-02-gdp-mcq-1",
+        "u3-02-gdp-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-02-gdp",
+        "locale": "zh-CN",
+        "title": "国内生产总值与增加值",
+        "takeaway": "GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。",
+        "definition": "GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。",
+        "causalChain": [
+          "各生产阶段创造增加值",
+          "加总境内当期最终产出价值",
+          "生产、收入与支出在核算上相互对应"
+        ],
+        "misconceptions": [
+          "GDP 的境内标准与企业所有者国籍不同。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。",
+          "GDP 的境内标准与企业所有者国籍不同。"
+        ],
+        "explanation": "各生产阶段创造增加值。加总境内当期最终产出价值。生产、收入与支出在核算上相互对应。\n\n### 原创情境与推导\n\n原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的 115。购买旧房本身不是当期新产出，但当期中介服务可计入。\n\nGDP 的境内标准与企业所有者国籍不同。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-02-gdp",
+        "locale": "en",
+        "title": "GDP and value added",
+        "takeaway": "GDP is the market value of final goods and services produced within a country during a period. Summing value added avoids double counting intermediate products.",
+        "definition": "GDP is the market value of final goods and services produced within a country during a period. Summing value added avoids double counting intermediate products.",
+        "causalChain": [
+          "Each production stage adds value",
+          "sum current domestic final output value",
+          "production, income and expenditure correspond in national accounts"
+        ],
+        "misconceptions": [
+          "GDP follows domestic production, not the nationality of a firm's owners."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "GDP is the market value of final goods and services produced within a country during a period. Summing value added avoids double counting intermediate products.",
+          "GDP follows domestic production, not the nationality of a firm's owners."
+        ],
+        "explanation": "Each production stage adds value.  sum current domestic final output value.  production, income and expenditure correspond in national accounts.\n\n### Original scenario and reasoning\n\nIllustrative example: grain sells for 20, flour for 35 and final bread for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an existing house is not new current output, although current brokerage services can count.\n\nGDP follows domestic production, not the nationality of a firm's owners.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-02-gdp-flash-1",
+        "knowledgePointId": "u3-02-gdp",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“国内生产总值与增加值”，并说明一个关键条件。",
+          "en": "Explain GDP and value added and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。",
+          "en": "GDP is the market value of final goods and services produced within a country during a period. Summing value added avoids double counting intermediate products."
+        },
+        "explanation": {
+          "zh-CN": "GDP 的境内标准与企业所有者国籍不同。",
+          "en": "GDP follows domestic production, not the nationality of a firm's owners."
+        }
+      },
+      {
+        "id": "u3-02-gdp-mcq-1",
+        "knowledgePointId": "u3-02-gdp",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "中间品 30、最终品 80，只有这条产业链时应计多少最终产出？",
+          "en": "Intermediate output sells for 30 and final output for 80 in a single production chain. What final output value counts?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "110",
+            "en": "110"
+          },
+          {
+            "id": "b",
+            "zh-CN": "80",
+            "en": "80"
+          },
+          {
+            "id": "c",
+            "zh-CN": "30",
+            "en": "30"
+          },
+          {
+            "id": "d",
+            "zh-CN": "2400",
+            "en": "2400"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "80。 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的 115。购买旧房本身不是当期新产出，但当期中介服务可计入。 GDP 的境内标准与企业所有者国籍不同。",
+          "en": "80. Illustrative example: grain sells for 20, flour for 35 and final bread for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an existing house is not new current output, although current brokerage services can count. GDP follows domestic production, not the nationality of a firm's owners."
+        }
+      },
+      {
+        "id": "u3-02-gdp-short-1",
+        "knowledgePointId": "u3-02-gdp",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释国内生产总值与增加值的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GDP and value added and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。 各生产阶段创造增加值；加总境内当期最终产出价值；生产、收入与支出在核算上相互对应 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的 115。购买旧房本身不是当期新产出，但当期中介服务可计入。",
+          "en": "GDP is the market value of final goods and services produced within a country during a period. Summing value added avoids double counting intermediate products. Each production stage adds value; sum current domestic final output value; production, income and expenditure correspond in national accounts Illustrative example: grain sells for 20, flour for 35 and final bread for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an existing house is not new current output, although current brokerage services can count."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "最终",
+              "en": "final"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "最终",
+                "各生产阶段创造增加值"
+              ],
+              "en": [
+                "final",
+                "Each production stage adds value"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "境内",
+              "en": "domestic"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "境内",
+                "加总境内当期最终产出价值"
+              ],
+              "en": [
+                "domestic",
+                "sum current domestic final output value"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "增加值",
+              "en": "value added"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "增加值",
+                "生产、收入与支出在核算上相互对应"
+              ],
+              "en": [
+                "value added",
+                "production, income and expenditure correspond in national accounts"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-03-expenditure",
+      "slug": "expenditure",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.3",
+          "pages": [
+            256
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-04-nominal-real"
+      ],
+      "terms": [
+        "支出法 GDP",
+        "GDP by expenditure",
+        "消费",
+        "consumption",
+        "净出口",
+        "net exports",
+        "境内",
+        "domestic"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "消费",
+          "净出口",
+          "境内"
+        ],
+        "en": [
+          "consumption",
+          "net exports",
+          "domestic"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-03-expenditure-flash-1",
+        "u3-03-expenditure-mcq-1",
+        "u3-03-expenditure-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-03-expenditure",
+        "locale": "zh-CN",
+        "title": "支出法 GDP",
+        "takeaway": "支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。",
+        "definition": "支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。",
+        "causalChain": [
+          "加总家庭、企业、政府和国外支出",
+          "减去已含在支出中的进口",
+          "避免将金融交易或转移支付当作新产出"
+        ],
+        "misconceptions": [
+          "进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。",
+          "进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。"
+        ],
+        "explanation": "加总家庭、企业、政府和国外支出。减去已含在支出中的进口。避免将金融交易或转移支付当作新产出。\n\n### 原创情境与推导\n\n原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资 I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。\n\n进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-03-expenditure",
+        "locale": "en",
+        "title": "GDP by expenditure",
+        "takeaway": "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory change; G is government purchases of goods and services. Transfers do not directly enter G.",
+        "definition": "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory change; G is government purchases of goods and services. Transfers do not directly enter G.",
+        "causalChain": [
+          "Add household, business, government and foreign spending",
+          "subtract imports already included in spending",
+          "exclude financial trades and transfers as new output"
+        ],
+        "misconceptions": [
+          "Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory change; G is government purchases of goods and services. Transfers do not directly enter G.",
+          "Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
+        ],
+        "explanation": "Add household, business, government and foreign spending.  subtract imports already included in spending.  exclude financial trades and transfers as new output.\n\n### Original scenario and reasoning\n\nIllustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670. Buying shares transfers ownership rather than counting as I. Benefits may enter consumption when spent on new output. Imports are deducted to exclude foreign production.\n\nImports are deducted because GDP measures domestic output, not because imports are inherently harmful.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-03-expenditure-flash-1",
+        "knowledgePointId": "u3-03-expenditure",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“支出法 GDP”，并说明一个关键条件。",
+          "en": "Explain GDP by expenditure and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。",
+          "en": "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory change; G is government purchases of goods and services. Transfers do not directly enter G."
+        },
+        "explanation": {
+          "zh-CN": "进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。",
+          "en": "Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
+        }
+      },
+      {
+        "id": "u3-03-expenditure-mcq-1",
+        "knowledgePointId": "u3-03-expenditure",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "C=200、I=50、G=70、X=40、M=30，GDP 多少？",
+          "en": "C=200, I=50, G=70, X=40, M=30. What is GDP?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "390",
+            "en": "390"
+          },
+          {
+            "id": "b",
+            "zh-CN": "290",
+            "en": "290"
+          },
+          {
+            "id": "c",
+            "zh-CN": "330",
+            "en": "330"
+          },
+          {
+            "id": "d",
+            "zh-CN": "360",
+            "en": "360"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "330。 原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资 I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。",
+          "en": "330. Illustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670. Buying shares transfers ownership rather than counting as I. Benefits may enter consumption when spent on new output. Imports are deducted to exclude foreign production. Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
+        }
+      },
+      {
+        "id": "u3-03-expenditure-short-1",
+        "knowledgePointId": "u3-03-expenditure",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释支出法 GDP的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GDP by expenditure and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。 加总家庭、企业、政府和国外支出；减去已含在支出中的进口；避免将金融交易或转移支付当作新产出 原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资 I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。",
+          "en": "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory change; G is government purchases of goods and services. Transfers do not directly enter G. Add household, business, government and foreign spending; subtract imports already included in spending; exclude financial trades and transfers as new output Illustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670. Buying shares transfers ownership rather than counting as I. Benefits may enter consumption when spent on new output. Imports are deducted to exclude foreign production."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "消费",
+              "en": "consumption"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "消费",
+                "加总家庭、企业、政府和国外支出"
+              ],
+              "en": [
+                "consumption",
+                "Add household, business, government and foreign spending"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "净出口",
+              "en": "net exports"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "净出口",
+                "减去已含在支出中的进口"
+              ],
+              "en": [
+                "net exports",
+                "subtract imports already included in spending"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "境内",
+              "en": "domestic"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "境内",
+                "避免将金融交易或转移支付当作新产出"
+              ],
+              "en": [
+                "domestic",
+                "exclude financial trades and transfers as new output"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-04-nominal-real",
+      "slug": "nominal-real",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.2",
+          "pages": [
+            250
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "名义与实际 GDP",
+        "Nominal and real GDP",
+        "价格",
+        "prices",
+        "产量",
+        "volume",
+        "平减",
+        "deflate"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "价格",
+          "产量",
+          "平减"
+        ],
+        "en": [
+          "prices",
+          "volume",
+          "deflate"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-04-nominal-real-flash-1",
+        "u3-04-nominal-real-mcq-1",
+        "u3-04-nominal-real-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-04-nominal-real",
+        "locale": "zh-CN",
+        "title": "名义与实际 GDP",
+        "takeaway": "名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。",
+        "definition": "名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。",
+        "causalChain": [
+          "当期销售价值随价格和数量变化",
+          "用价格指数进行平减",
+          "比较可比价格下的产量"
+        ],
+        "misconceptions": [
+          "物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。",
+          "物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。"
+        ],
+        "explanation": "当期销售价值随价格和数量变化。用价格指数进行平减。比较可比价格下的产量。\n\n### 原创情境与推导\n\n原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从 1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。\n\n物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-04-nominal-real",
+        "locale": "en",
+        "title": "Nominal and real GDP",
+        "takeaway": "Nominal GDP values output at current prices. Real GDP removes price changes to reflect changes in output volume. Nominal growth can arise from both prices and quantities.",
+        "definition": "Nominal GDP values output at current prices. Real GDP removes price changes to reflect changes in output volume. Nominal growth can arise from both prices and quantities.",
+        "causalChain": [
+          "Current sales value changes with prices and quantities",
+          "deflate using a price index",
+          "compare output volumes at comparable prices"
+        ],
+        "misconceptions": [
+          "A nominal GDP fall caused by lower prices does not alone prove a real recession."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "Nominal GDP values output at current prices. Real GDP removes price changes to reflect changes in output volume. Nominal growth can arise from both prices and quantities.",
+          "A nominal GDP fall caused by lower prices does not alone prove a real recession."
+        ],
+        "explanation": "Current sales value changes with prices and quantities.  deflate using a price index.  compare output volumes at comparable prices.\n\n### Original scenario and reasoning\n\nIllustrative example: 100 units at price ten become 100 units at price twelve next year. Nominal GDP rises from 1000 to 1200 but real output does not grow. Fixed base-year prices are a teaching simplification; statistical offices may use chain-volume measures.\n\nA nominal GDP fall caused by lower prices does not alone prove a real recession.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-04-nominal-real-flash-1",
+        "knowledgePointId": "u3-04-nominal-real",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“名义与实际 GDP”，并说明一个关键条件。",
+          "en": "Explain Nominal and real GDP and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。",
+          "en": "Nominal GDP values output at current prices. Real GDP removes price changes to reflect changes in output volume. Nominal growth can arise from both prices and quantities."
+        },
+        "explanation": {
+          "zh-CN": "物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。",
+          "en": "A nominal GDP fall caused by lower prices does not alone prove a real recession."
+        }
+      },
+      {
+        "id": "u3-04-nominal-real-mcq-1",
+        "knowledgePointId": "u3-04-nominal-real",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "只有价格涨 10%、产量不变，哪项正确？",
+          "en": "Only prices rise 10%, with unchanged volume. Which is correct?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "实际 GDP 必涨 10%",
+            "en": "Real GDP must rise 10%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "两者都下降",
+            "en": "Both fall"
+          },
+          {
+            "id": "c",
+            "zh-CN": "产量必涨 10%",
+            "en": "Volume must rise 10%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "名义 GDP 增加，实际 GDP 不变",
+            "en": "Nominal GDP rises; real GDP is unchanged"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "名义 GDP 增加，实际 GDP 不变。 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从 1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。 物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。",
+          "en": "Nominal GDP rises; real GDP is unchanged. Illustrative example: 100 units at price ten become 100 units at price twelve next year. Nominal GDP rises from 1000 to 1200 but real output does not grow. Fixed base-year prices are a teaching simplification; statistical offices may use chain-volume measures. A nominal GDP fall caused by lower prices does not alone prove a real recession."
+        }
+      },
+      {
+        "id": "u3-04-nominal-real-short-1",
+        "knowledgePointId": "u3-04-nominal-real",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释名义与实际 GDP的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Nominal and real GDP and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。 当期销售价值随价格和数量变化；用价格指数进行平减；比较可比价格下的产量 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从 1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。",
+          "en": "Nominal GDP values output at current prices. Real GDP removes price changes to reflect changes in output volume. Nominal growth can arise from both prices and quantities. Current sales value changes with prices and quantities; deflate using a price index; compare output volumes at comparable prices Illustrative example: 100 units at price ten become 100 units at price twelve next year. Nominal GDP rises from 1000 to 1200 but real output does not grow. Fixed base-year prices are a teaching simplification; statistical offices may use chain-volume measures."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "价格",
+              "en": "prices"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格",
+                "当期销售价值随价格和数量变化"
+              ],
+              "en": [
+                "prices",
+                "Current sales value changes with prices and quantities"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "产量",
+              "en": "volume"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产量",
+                "用价格指数进行平减"
+              ],
+              "en": [
+                "volume",
+                "deflate using a price index"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "平减",
+              "en": "deflate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平减",
+                "比较可比价格下的产量"
+              ],
+              "en": [
+                "deflate",
+                "compare output volumes at comparable prices"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-05-deflator",
+      "slug": "deflator",
+      "section": "3.1",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.3",
+          "pages": [
+            256
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "GDP 平减指数与核算计算",
+        "GDP deflator and national-account calculations",
+        "名义",
+        "nominal",
+        "实际",
+        "real",
+        "指数",
+        "index"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "名义",
+          "实际",
+          "指数"
+        ],
+        "en": [
+          "nominal",
+          "real",
+          "index"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-05-deflator-flash-1",
+        "u3-05-deflator-mcq-1",
+        "u3-05-deflator-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-05-deflator",
+        "locale": "zh-CN",
+        "title": "GDP 平减指数与核算计算",
+        "takeaway": "GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。",
+        "definition": "GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。",
+        "causalChain": [
+          "将价格指数与基期 100 比较",
+          "名义值除以指数再乘 100",
+          "保持单位与估价口径一致"
+        ],
+        "misconceptions": [
+          "指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。",
+          "指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。"
+        ],
+        "explanation": "将价格指数与基期 100 比较。名义值除以指数再乘 100。保持单位与估价口径一致。\n\n### 原创情境与推导\n\n原创例：名义 GDP=660，平减指数=110，实际 GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。\n\n指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-05-deflator",
+        "locale": "en",
+        "title": "GDP deflator and national-account calculations",
+        "takeaway": "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging gives real GDP=nominal GDP/deflator×100. Output and income approaches require consistent valuation conventions.",
+        "definition": "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging gives real GDP=nominal GDP/deflator×100. Output and income approaches require consistent valuation conventions.",
+        "causalChain": [
+          "Compare the price index with base-period 100",
+          "divide nominal value by the index and multiply by 100",
+          "keep units and valuation consistent"
+        ],
+        "misconceptions": [
+          "An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging gives real GDP=nominal GDP/deflator×100. Output and income approaches require consistent valuation conventions.",
+          "An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
+        ],
+        "explanation": "Compare the price index with base-period 100.  divide nominal value by the index and multiply by 100.  keep units and valuation consistent.\n\n### Original scenario and reasoning\n\nIllustrative example: nominal GDP is 660 and the deflator 110, giving real GDP of 600. The output approach sums value added. The income approach sums compensation and operating surplus, with taxes less subsidies on production/imports needed for market-price consistency. Do not mix valuation bases.\n\nAn index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-05-deflator-flash-1",
+        "knowledgePointId": "u3-05-deflator",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“GDP 平减指数与核算计算”，并说明一个关键条件。",
+          "en": "Explain GDP deflator and national-account calculations and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。",
+          "en": "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging gives real GDP=nominal GDP/deflator×100. Output and income approaches require consistent valuation conventions."
+        },
+        "explanation": {
+          "zh-CN": "指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。",
+          "en": "An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
+        }
+      },
+      {
+        "id": "u3-05-deflator-mcq-1",
+        "knowledgePointId": "u3-05-deflator",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "名义 GDP=900、平减指数=120，实际 GDP 多少？",
+          "en": "Nominal GDP=900 and deflator=120. What is real GDP?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "750",
+            "en": "750"
+          },
+          {
+            "id": "b",
+            "zh-CN": "1080",
+            "en": "1080"
+          },
+          {
+            "id": "c",
+            "zh-CN": "780",
+            "en": "780"
+          },
+          {
+            "id": "d",
+            "zh-CN": "7.5",
+            "en": "7.5"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "750。 原创例：名义 GDP=660，平减指数=110，实际 GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。 指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。",
+          "en": "750. Illustrative example: nominal GDP is 660 and the deflator 110, giving real GDP of 600. The output approach sums value added. The income approach sums compensation and operating surplus, with taxes less subsidies on production/imports needed for market-price consistency. Do not mix valuation bases. An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
+        }
+      },
+      {
+        "id": "u3-05-deflator-short-1",
+        "knowledgePointId": "u3-05-deflator",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释GDP 平减指数与核算计算的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GDP deflator and national-account calculations and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。 将价格指数与基期 100 比较；名义值除以指数再乘 100；保持单位与估价口径一致 原创例：名义 GDP=660，平减指数=110，实际 GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。",
+          "en": "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging gives real GDP=nominal GDP/deflator×100. Output and income approaches require consistent valuation conventions. Compare the price index with base-period 100; divide nominal value by the index and multiply by 100; keep units and valuation consistent Illustrative example: nominal GDP is 660 and the deflator 110, giving real GDP of 600. The output approach sums value added. The income approach sums compensation and operating surplus, with taxes less subsidies on production/imports needed for market-price consistency. Do not mix valuation bases."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "名义",
+              "en": "nominal"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "名义",
+                "将价格指数与基期 100 比较"
+              ],
+              "en": [
+                "nominal",
+                "Compare the price index with base-period 100"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "实际",
+              "en": "real"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际",
+                "名义值除以指数再乘 100"
+              ],
+              "en": [
+                "real",
+                "divide nominal value by the index and multiply by 100"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "指数",
+              "en": "index"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "指数",
+                "保持单位与估价口径一致"
+              ],
+              "en": [
+                "index",
+                "keep units and valuation consistent"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-06-gni",
+      "slug": "gni",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.2",
+          "pages": [
+            250
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "GNI、折旧与净收入",
+        "GNI, depreciation and net income",
+        "居民",
+        "residents",
+        "初次收入",
+        "primary income",
+        "折旧",
+        "depreciation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "居民",
+          "初次收入",
+          "折旧"
+        ],
+        "en": [
+          "residents",
+          "primary income",
+          "depreciation"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-06-gni-flash-1",
+        "u3-06-gni-mcq-1",
+        "u3-06-gni-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-06-gni",
+        "locale": "zh-CN",
+        "title": "GNI、折旧与净收入",
+        "takeaway": "GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。",
+        "definition": "GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。",
+        "causalChain": [
+          "境内产出形成 GDP",
+          "加上居民从国外净获得的初次收入",
+          "扣除资本消耗得到净额"
+        ],
+        "misconceptions": [
+          "不能把所有跨境转账都当作初次收入，初次收入与转移应分开。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。",
+          "不能把所有跨境转账都当作初次收入，初次收入与转移应分开。"
+        ],
+        "explanation": "境内产出形成 GDP。加上居民从国外净获得的初次收入。扣除资本消耗得到净额。\n\n### 原创情境与推导\n\n原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI 的差别是境内生产与居民收入的边界，不是货币单位。\n\n不能把所有跨境转账都当作初次收入，初次收入与转移应分开。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-06-gni",
+        "locale": "en",
+        "title": "GNI, depreciation and net income",
+        "takeaway": "GNI equals GDP plus net primary income from abroad and focuses on residents' income. Net national income also deducts consumption of fixed capital, or depreciation.",
+        "definition": "GNI equals GDP plus net primary income from abroad and focuses on residents' income. Net national income also deducts consumption of fixed capital, or depreciation.",
+        "causalChain": [
+          "Domestic output forms GDP",
+          "add residents' net primary income from abroad",
+          "deduct capital consumption to obtain a net measure"
+        ],
+        "misconceptions": [
+          "Not every cross-border payment is primary income; distinguish primary income from transfers."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "GNI equals GDP plus net primary income from abroad and focuses on residents' income. Net national income also deducts consumption of fixed capital, or depreciation.",
+          "Not every cross-border payment is primary income; distinguish primary income from transfers."
+        ],
+        "explanation": "Domestic output forms GDP.  add residents' net primary income from abroad.  deduct capital consumption to obtain a net measure.\n\n### Original scenario and reasoning\n\nIllustrative example: GDP=500, primary income received from abroad=40 and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus GNI distinguishes domestic production from resident income, not different currencies.\n\nNot every cross-border payment is primary income; distinguish primary income from transfers.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-06-gni-flash-1",
+        "knowledgePointId": "u3-06-gni",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“GNI、折旧与净收入”，并说明一个关键条件。",
+          "en": "Explain GNI, depreciation and net income and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。",
+          "en": "GNI equals GDP plus net primary income from abroad and focuses on residents' income. Net national income also deducts consumption of fixed capital, or depreciation."
+        },
+        "explanation": {
+          "zh-CN": "不能把所有跨境转账都当作初次收入，初次收入与转移应分开。",
+          "en": "Not every cross-border payment is primary income; distinguish primary income from transfers."
+        }
+      },
+      {
+        "id": "u3-06-gni-mcq-1",
+        "knowledgePointId": "u3-06-gni",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "GDP=300，国外净初次收入=-20，GNI 多少？",
+          "en": "GDP=300 and net primary income from abroad=-20. What is GNI?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "320",
+            "en": "320"
+          },
+          {
+            "id": "b",
+            "zh-CN": "280",
+            "en": "280"
+          },
+          {
+            "id": "c",
+            "zh-CN": "300",
+            "en": "300"
+          },
+          {
+            "id": "d",
+            "zh-CN": "20",
+            "en": "20"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "280。 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI 的差别是境内生产与居民收入的边界，不是货币单位。 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。",
+          "en": "280. Illustrative example: GDP=500, primary income received from abroad=40 and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus GNI distinguishes domestic production from resident income, not different currencies. Not every cross-border payment is primary income; distinguish primary income from transfers."
+        }
+      },
+      {
+        "id": "u3-06-gni-short-1",
+        "knowledgePointId": "u3-06-gni",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释GNI、折旧与净收入的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GNI, depreciation and net income and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。 境内产出形成 GDP；加上居民从国外净获得的初次收入；扣除资本消耗得到净额 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI 的差别是境内生产与居民收入的边界，不是货币单位。",
+          "en": "GNI equals GDP plus net primary income from abroad and focuses on residents' income. Net national income also deducts consumption of fixed capital, or depreciation. Domestic output forms GDP; add residents' net primary income from abroad; deduct capital consumption to obtain a net measure Illustrative example: GDP=500, primary income received from abroad=40 and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus GNI distinguishes domestic production from resident income, not different currencies."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "居民",
+              "en": "residents"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "居民",
+                "境内产出形成 GDP"
+              ],
+              "en": [
+                "residents",
+                "Domestic output forms GDP"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "初次收入",
+              "en": "primary income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "初次收入",
+                "加上居民从国外净获得的初次收入"
+              ],
+              "en": [
+                "primary income",
+                "add residents' net primary income from abroad"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "折旧",
+              "en": "depreciation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "折旧",
+                "扣除资本消耗得到净额"
+              ],
+              "en": [
+                "depreciation",
+                "deduct capital consumption to obtain a net measure"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-07-per-capita-ppp",
+      "slug": "per-capita-ppp",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.5",
+          "pages": [
+            264
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "人均实际收入与 PPP",
+        "Real income per capita and PPP",
+        "人口",
+        "population",
+        "平均",
+        "average",
+        "购买力",
+        "purchasing power"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "人口",
+          "平均",
+          "购买力"
+        ],
+        "en": [
+          "population",
+          "average",
+          "purchasing power"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-07-per-capita-ppp-flash-1",
+        "u3-07-per-capita-ppp-mcq-1",
+        "u3-07-per-capita-ppp-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-07-per-capita-ppp",
+        "locale": "zh-CN",
+        "title": "人均实际收入与 PPP",
+        "takeaway": "人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。",
+        "definition": "人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。",
+        "causalChain": [
+          "总量增长可能伴随人口增长",
+          "除以人口观察平均水平",
+          "PPP 调整不同国家的购买力"
+        ],
+        "misconceptions": [
+          "人均值是平均数，不表示每个人都获得相同收入。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。",
+          "人均值是平均数，不表示每个人都获得相同收入。"
+        ],
+        "explanation": "总量增长可能伴随人口增长。除以人口观察平均水平。PPP 调整不同国家的购买力。\n\n### 原创情境与推导\n\n原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP 比较也不能揭示分配、公共服务质量或环境差异。\n\n人均值是平均数，不表示每个人都获得相同收入。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-07-per-capita-ppp",
+        "locale": "en",
+        "title": "Real income per capita and PPP",
+        "takeaway": "Real income per capita divides real income by population. Purchasing power parity adjusts cross-country price-level differences to compare command over comparable goods and services.",
+        "definition": "Real income per capita divides real income by population. Purchasing power parity adjusts cross-country price-level differences to compare command over comparable goods and services.",
+        "causalChain": [
+          "Aggregate growth may accompany population growth",
+          "divide by population to examine averages",
+          "PPP adjusts purchasing power across countries"
+        ],
+        "misconceptions": [
+          "A per-capita value is an average, not the income each person actually receives."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "Real income per capita divides real income by population. Purchasing power parity adjusts cross-country price-level differences to compare command over comparable goods and services.",
+          "A per-capita value is an average, not the income each person actually receives."
+        ],
+        "explanation": "Aggregate growth may accompany population growth.  divide by population to examine averages.  PPP adjusts purchasing power across countries.\n\n### Original scenario and reasoning\n\nIllustrative example: real GDP grows 4% and population 2%, so per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP comparisons still do not reveal distribution, service quality or environmental differences.\n\nA per-capita value is an average, not the income each person actually receives.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-07-per-capita-ppp-flash-1",
+        "knowledgePointId": "u3-07-per-capita-ppp",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“人均实际收入与 PPP”，并说明一个关键条件。",
+          "en": "Explain Real income per capita and PPP and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。",
+          "en": "Real income per capita divides real income by population. Purchasing power parity adjusts cross-country price-level differences to compare command over comparable goods and services."
+        },
+        "explanation": {
+          "zh-CN": "人均值是平均数，不表示每个人都获得相同收入。",
+          "en": "A per-capita value is an average, not the income each person actually receives."
+        }
+      },
+      {
+        "id": "u3-07-per-capita-ppp-mcq-1",
+        "knowledgePointId": "u3-07-per-capita-ppp",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "实际 GDP 不变、人口增加，人均实际 GDP 怎样？",
+          "en": "Real GDP is unchanged and population rises. What happens to real GDP per capita?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "上升",
+            "en": "Rises"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必然不变",
+            "en": "Necessarily unchanged"
+          },
+          {
+            "id": "c",
+            "zh-CN": "下降",
+            "en": "Falls"
+          },
+          {
+            "id": "d",
+            "zh-CN": "等于人口增长率",
+            "en": "Equals population growth"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "下降。 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP 比较也不能揭示分配、公共服务质量或环境差异。 人均值是平均数，不表示每个人都获得相同收入。",
+          "en": "Falls. Illustrative example: real GDP grows 4% and population 2%, so per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP comparisons still do not reveal distribution, service quality or environmental differences. A per-capita value is an average, not the income each person actually receives."
+        }
+      },
+      {
+        "id": "u3-07-per-capita-ppp-short-1",
+        "knowledgePointId": "u3-07-per-capita-ppp",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释人均实际收入与 PPP的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Real income per capita and PPP and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。 总量增长可能伴随人口增长；除以人口观察平均水平；PPP 调整不同国家的购买力 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP 比较也不能揭示分配、公共服务质量或环境差异。",
+          "en": "Real income per capita divides real income by population. Purchasing power parity adjusts cross-country price-level differences to compare command over comparable goods and services. Aggregate growth may accompany population growth; divide by population to examine averages; PPP adjusts purchasing power across countries Illustrative example: real GDP grows 4% and population 2%, so per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP comparisons still do not reveal distribution, service quality or environmental differences."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "人口",
+              "en": "population"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "人口",
+                "总量增长可能伴随人口增长"
+              ],
+              "en": [
+                "population",
+                "Aggregate growth may accompany population growth"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "平均",
+              "en": "average"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平均",
+                "除以人口观察平均水平"
+              ],
+              "en": [
+                "average",
+                "divide by population to examine averages"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "购买力",
+              "en": "purchasing power"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "购买力",
+                "PPP 调整不同国家的购买力"
+              ],
+              "en": [
+                "purchasing power",
+                "PPP adjusts purchasing power across countries"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-08-business-cycle",
+      "slug": "business-cycle",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.4",
+          "pages": [
+            260
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "经济周期与趋势",
+        "Business cycles and trend output",
+        "实际产出",
+        "real output",
+        "趋势",
+        "trend",
+        "波动",
+        "fluctuations"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "实际产出",
+          "趋势",
+          "波动"
+        ],
+        "en": [
+          "real output",
+          "trend",
+          "fluctuations"
+        ]
+      },
+      "diagramIds": [
+        "macro-cycle"
+      ],
+      "quizIds": [
+        "u3-08-business-cycle-flash-1",
+        "u3-08-business-cycle-mcq-1",
+        "u3-08-business-cycle-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-08-business-cycle",
+        "locale": "zh-CN",
+        "title": "经济周期与趋势",
+        "takeaway": "经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。",
+        "definition": "经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。",
+        "causalChain": [
+          "支出与供给冲击改变产出",
+          "实际活动偏离趋势",
+          "调整与政策可推动复苏或进一步收缩"
+        ],
+        "misconceptions": [
+          "增长放缓仍可为正，不等于实际产出已经下降。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。",
+          "增长放缓仍可为正，不等于实际产出已经下降。"
+        ],
+        "explanation": "支出与供给冲击改变产出。实际活动偏离趋势。调整与政策可推动复苏或进一步收缩。\n\n### 原创情境与推导\n\n原创例：实际产出从 100 到 104 后降到 102，再到 106，102 阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。\n\n增长放缓仍可为正，不等于实际产出已经下降。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-08-business-cycle",
+        "locale": "en",
+        "title": "Business cycles and trend output",
+        "takeaway": "The business cycle describes fluctuations in real activity around a longer-term trend: expansion, peak, contraction and trough. Neither duration nor amplitude is fixed.",
+        "definition": "The business cycle describes fluctuations in real activity around a longer-term trend: expansion, peak, contraction and trough. Neither duration nor amplitude is fixed.",
+        "causalChain": [
+          "Spending and supply shocks change output",
+          "actual activity deviates from trend",
+          "adjustment and policy may support recovery or further contraction"
+        ],
+        "misconceptions": [
+          "Slower growth can remain positive and is not necessarily falling real output."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "The business cycle describes fluctuations in real activity around a longer-term trend: expansion, peak, contraction and trough. Neither duration nor amplitude is fixed.",
+          "Slower growth can remain positive and is not necessarily falling real output."
+        ],
+        "explanation": "Spending and supply shocks change output.  actual activity deviates from trend.  adjustment and policy may support recovery or further contraction.\n\n### Original scenario and reasoning\n\nIllustrative example: real output moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction despite output remaining above its initial level. Two negative quarters is a common shorthand, not every agency's sole recession criterion.\n\nSlower growth can remain positive and is not necessarily falling real output.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-08-business-cycle-flash-1",
+        "knowledgePointId": "u3-08-business-cycle",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“经济周期与趋势”，并说明一个关键条件。",
+          "en": "Explain Business cycles and trend output and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。",
+          "en": "The business cycle describes fluctuations in real activity around a longer-term trend: expansion, peak, contraction and trough. Neither duration nor amplitude is fixed."
+        },
+        "explanation": {
+          "zh-CN": "增长放缓仍可为正，不等于实际产出已经下降。",
+          "en": "Slower growth can remain positive and is not necessarily falling real output."
+        }
+      },
+      {
+        "id": "u3-08-business-cycle-mcq-1",
+        "knowledgePointId": "u3-08-business-cycle",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "实际增长率由 5% 降到 2%，说明什么？",
+          "en": "Real growth slows from 5% to 2%. What follows?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "产出下降 3%",
+            "en": "Output falls 3%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必然发生通缩",
+            "en": "Deflation necessarily occurs"
+          },
+          {
+            "id": "c",
+            "zh-CN": "经济活动为零",
+            "en": "Activity is zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "产出仍增长，但增速放缓",
+            "en": "Output still grows, but more slowly"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "产出仍增长，但增速放缓。 原创例：实际产出从 100 到 104 后降到 102，再到 106，102 阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。 增长放缓仍可为正，不等于实际产出已经下降。",
+          "en": "Output still grows, but more slowly. Illustrative example: real output moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction despite output remaining above its initial level. Two negative quarters is a common shorthand, not every agency's sole recession criterion. Slower growth can remain positive and is not necessarily falling real output."
+        }
+      },
+      {
+        "id": "u3-08-business-cycle-short-1",
+        "knowledgePointId": "u3-08-business-cycle",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释经济周期与趋势的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Business cycles and trend output and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。 支出与供给冲击改变产出；实际活动偏离趋势；调整与政策可推动复苏或进一步收缩 原创例：实际产出从 100 到 104 后降到 102，再到 106，102 阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。",
+          "en": "The business cycle describes fluctuations in real activity around a longer-term trend: expansion, peak, contraction and trough. Neither duration nor amplitude is fixed. Spending and supply shocks change output; actual activity deviates from trend; adjustment and policy may support recovery or further contraction Illustrative example: real output moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction despite output remaining above its initial level. Two negative quarters is a common shorthand, not every agency's sole recession criterion."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "实际产出",
+              "en": "real output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际产出",
+                "支出与供给冲击改变产出"
+              ],
+              "en": [
+                "real output",
+                "Spending and supply shocks change output"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "趋势",
+              "en": "trend"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "趋势",
+                "实际活动偏离趋势"
+              ],
+              "en": [
+                "trend",
+                "actual activity deviates from trend"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "波动",
+              "en": "fluctuations"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "波动",
+                "调整与政策可推动复苏或进一步收缩"
+              ],
+              "en": [
+                "fluctuations",
+                "adjustment and policy may support recovery or further contraction"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-09-gdp-limitations",
+      "slug": "gdp-limitations",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.5",
+          "pages": [
+            264
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "GDP 与生活水平的局限",
+        "GDP and limits as a living-standard measure",
+        "福利",
+        "welfare",
+        "分配",
+        "distribution",
+        "环境",
+        "environment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "福利",
+          "分配",
+          "环境"
+        ],
+        "en": [
+          "welfare",
+          "distribution",
+          "environment"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-09-gdp-limitations-flash-1",
+        "u3-09-gdp-limitations-mcq-1",
+        "u3-09-gdp-limitations-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-09-gdp-limitations",
+        "locale": "zh-CN",
+        "title": "GDP 与生活水平的局限",
+        "takeaway": "GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。",
+        "definition": "GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。",
+        "causalChain": [
+          "核算记录有市场价值的产出",
+          "部分社会收益和成本未被完整记录",
+          "总量或人均增长不保证福利普遍改善"
+        ],
+        "misconceptions": [
+          "GDP 有局限不意味着它对衡量经济活动没有用途。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。",
+          "GDP 有局限不意味着它对衡量经济活动没有用途。"
+        ],
+        "explanation": "核算记录有市场价值的产出。部分社会收益和成本未被完整记录。总量或人均增长不保证福利普遍改善。\n\n### 原创情境与推导\n\n原创例：污染后的清理支出可增加 GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。\n\nGDP 有局限不意味着它对衡量经济活动没有用途。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-09-gdp-limitations",
+        "locale": "en",
+        "title": "GDP and limits as a living-standard measure",
+        "takeaway": "GDP measures production rather than comprehensive welfare. Non-market work, distribution, leisure, environmental damage and output composition affect its relationship with living standards.",
+        "definition": "GDP measures production rather than comprehensive welfare. Non-market work, distribution, leisure, environmental damage and output composition affect its relationship with living standards.",
+        "causalChain": [
+          "Accounts record market-valued output",
+          "some social gains and costs are incompletely recorded",
+          "aggregate or average growth does not guarantee broad welfare gains"
+        ],
+        "misconceptions": [
+          "GDP's limitations do not make it useless for measuring economic activity."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "GDP measures production rather than comprehensive welfare. Non-market work, distribution, leisure, environmental damage and output composition affect its relationship with living standards.",
+          "GDP's limitations do not make it useless for measuring economic activity."
+        ],
+        "explanation": "Accounts record market-valued output.  some social gains and costs are incompletely recorded.  aggregate or average growth does not guarantee broad welfare gains.\n\n### Original scenario and reasoning\n\nIllustrative example: pollution cleanup can add to GDP without making pollution beneficial. Unpaid care becoming paid care can raise recorded output without an equivalent increase in services. Cross-country comparisons also depend on informal activity and statistical quality.\n\nGDP's limitations do not make it useless for measuring economic activity.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-09-gdp-limitations-flash-1",
+        "knowledgePointId": "u3-09-gdp-limitations",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“GDP 与生活水平的局限”，并说明一个关键条件。",
+          "en": "Explain GDP and limits as a living-standard measure and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。",
+          "en": "GDP measures production rather than comprehensive welfare. Non-market work, distribution, leisure, environmental damage and output composition affect its relationship with living standards."
+        },
+        "explanation": {
+          "zh-CN": "GDP 有局限不意味着它对衡量经济活动没有用途。",
+          "en": "GDP's limitations do not make it useless for measuring economic activity."
+        }
+      },
+      {
+        "id": "u3-09-gdp-limitations-mcq-1",
+        "knowledgePointId": "u3-09-gdp-limitations",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项最直接说明 GDP 不是完整福利指标？",
+          "en": "Which most directly shows GDP is not comprehensive welfare?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "未充分反映环境损害与分配",
+            "en": "It incompletely captures environmental harm and distribution"
+          },
+          {
+            "id": "b",
+            "zh-CN": "GDP 不记录任何生产",
+            "en": "GDP records no production"
+          },
+          {
+            "id": "c",
+            "zh-CN": "GDP 必等于幸福",
+            "en": "GDP must equal happiness"
+          },
+          {
+            "id": "d",
+            "zh-CN": "人口不影响人均值",
+            "en": "Population never affects per-capita values"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "未充分反映环境损害与分配。 原创例：污染后的清理支出可增加 GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。 GDP 有局限不意味着它对衡量经济活动没有用途。",
+          "en": "It incompletely captures environmental harm and distribution. Illustrative example: pollution cleanup can add to GDP without making pollution beneficial. Unpaid care becoming paid care can raise recorded output without an equivalent increase in services. Cross-country comparisons also depend on informal activity and statistical quality. GDP's limitations do not make it useless for measuring economic activity."
+        }
+      },
+      {
+        "id": "u3-09-gdp-limitations-short-1",
+        "knowledgePointId": "u3-09-gdp-limitations",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释GDP 与生活水平的局限的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GDP and limits as a living-standard measure and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。 核算记录有市场价值的产出；部分社会收益和成本未被完整记录；总量或人均增长不保证福利普遍改善 原创例：污染后的清理支出可增加 GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。",
+          "en": "GDP measures production rather than comprehensive welfare. Non-market work, distribution, leisure, environmental damage and output composition affect its relationship with living standards. Accounts record market-valued output; some social gains and costs are incompletely recorded; aggregate or average growth does not guarantee broad welfare gains Illustrative example: pollution cleanup can add to GDP without making pollution beneficial. Unpaid care becoming paid care can raise recorded output without an equivalent increase in services. Cross-country comparisons also depend on informal activity and statistical quality."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "福利",
+              "en": "welfare"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "福利",
+                "核算记录有市场价值的产出"
+              ],
+              "en": [
+                "welfare",
+                "Accounts record market-valued output"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "分配",
+              "en": "distribution"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分配",
+                "部分社会收益和成本未被完整记录"
+              ],
+              "en": [
+                "distribution",
+                "some social gains and costs are incompletely recorded"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "环境",
+              "en": "environment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "环境",
+                "总量或人均增长不保证福利普遍改善"
+              ],
+              "en": [
+                "environment",
+                "aggregate or average growth does not guarantee broad welfare gains"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-10-wellbeing-indicators",
+      "slug": "wellbeing-indicators",
+      "section": "3.1",
+      "level": "core",
+      "syllabusRefs": [
+        "3.1 Measuring economic activity and its variations"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "8",
+          "section": "8.5",
+          "pages": [
+            264
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow",
+        "u3-02-gdp",
+        "u3-03-expenditure"
+      ],
+      "terms": [
+        "替代福利指标",
+        "Alternative wellbeing indicators",
+        "健康",
+        "health",
+        "教育",
+        "education",
+        "权重",
+        "weights"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "健康",
+          "教育",
+          "权重"
+        ],
+        "en": [
+          "health",
+          "education",
+          "weights"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-10-wellbeing-indicators-flash-1",
+        "u3-10-wellbeing-indicators-mcq-1",
+        "u3-10-wellbeing-indicators-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-10-wellbeing-indicators",
+        "locale": "zh-CN",
+        "title": "替代福利指标",
+        "takeaway": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。",
+        "definition": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。",
+        "causalChain": [
+          "明确希望衡量的福利维度",
+          "选择可比较的数据与权重",
+          "结合 GDP 解读综合指标的差异"
+        ],
+        "misconceptions": [
+          "不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。",
+          "不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。"
+        ],
+        "explanation": "明确希望衡量的福利维度。选择可比较的数据与权重。结合 GDP 解读综合指标的差异。\n\n### 原创情境与推导\n\n原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。\n\n不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+      },
+      "en": {
+        "id": "u3-10-wellbeing-indicators",
+        "locale": "en",
+        "title": "Alternative wellbeing indicators",
+        "takeaway": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis.",
+        "definition": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis.",
+        "causalChain": [
+          "Specify the wellbeing dimensions",
+          "select comparable data and weights",
+          "interpret composite indicators alongside GDP"
+        ],
+        "misconceptions": [
+          "Different indicators target different outcomes; no composite is completely objective or exhaustive."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis.",
+          "Different indicators target different outcomes; no composite is completely objective or exhaustive."
+        ],
+        "explanation": "Specify the wellbeing dimensions.  select comparable data and weights.  interpret composite indicators alongside GDP.\n\n### Original scenario and reasoning\n\nIllustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps.\n\nDifferent indicators target different outcomes; no composite is completely objective or exhaustive.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-10-wellbeing-indicators-flash-1",
+        "knowledgePointId": "u3-10-wellbeing-indicators",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“替代福利指标”，并说明一个关键条件。",
+          "en": "Explain Alternative wellbeing indicators and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。",
+          "en": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis."
+        },
+        "explanation": {
+          "zh-CN": "不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。",
+          "en": "Different indicators target different outcomes; no composite is completely objective or exhaustive."
+        }
+      },
+      {
+        "id": "u3-10-wellbeing-indicators-mcq-1",
+        "knowledgePointId": "u3-10-wellbeing-indicators",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评价综合福利指标时应检查什么？",
+          "en": "What should be checked when evaluating a composite wellbeing index?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只看排名变化",
+            "en": "Only changes in rank"
+          },
+          {
+            "id": "b",
+            "zh-CN": "维度、权重与数据可比性",
+            "en": "Dimensions, weights and data comparability"
+          },
+          {
+            "id": "c",
+            "zh-CN": "假设权重无价值判断",
+            "en": "Assume weights involve no judgement"
+          },
+          {
+            "id": "d",
+            "zh-CN": "忽略国内差距",
+            "en": "Ignore within-country gaps"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "维度、权重与数据可比性。 原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。 不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。",
+          "en": "Dimensions, weights and data comparability. Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps. Different indicators target different outcomes; no composite is completely objective or exhaustive."
+        }
+      },
+      {
+        "id": "u3-10-wellbeing-indicators-short-1",
+        "knowledgePointId": "u3-10-wellbeing-indicators",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释替代福利指标的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Alternative wellbeing indicators and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。 明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异 原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。",
+          "en": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis. Specify the wellbeing dimensions; select comparable data and weights; interpret composite indicators alongside GDP Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "健康",
+              "en": "health"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "健康",
+                "明确希望衡量的福利维度"
+              ],
+              "en": [
+                "health",
+                "Specify the wellbeing dimensions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "教育",
+              "en": "education"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "教育",
+                "选择可比较的数据与权重"
+              ],
+              "en": [
+                "education",
+                "select comparable data and weights"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "权重",
+              "en": "weights"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "权重",
+                "结合 GDP 解读综合指标的差异"
+              ],
+              "en": [
+                "weights",
+                "interpret composite indicators alongside GDP"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-11-aggregate-demand",
+      "slug": "aggregate-demand",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.1",
+          "pages": [
+            272
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-12-consumption",
+        "u3-13-investment",
+        "u3-14-sras"
+      ],
+      "terms": [
+        "总需求与 AD 曲线",
+        "Aggregate demand and the AD curve",
+        "计划支出",
+        "planned spending",
+        "价格水平",
+        "price level",
+        "实际 GDP",
+        "real GDP"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "计划支出",
+          "价格水平",
+          "实际 GDP"
+        ],
+        "en": [
+          "planned spending",
+          "price level",
+          "real GDP"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-as"
+      ],
+      "quizIds": [
+        "u3-11-aggregate-demand-flash-1",
+        "u3-11-aggregate-demand-mcq-1",
+        "u3-11-aggregate-demand-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-11-aggregate-demand",
+        "locale": "zh-CN",
+        "title": "总需求与 AD 曲线",
+        "takeaway": "总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。",
+        "definition": "总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。",
+        "causalChain": [
+          "总体价格水平变化影响实际财富、利率和净出口",
+          "计划总支出改变",
+          "沿 AD 曲线移动"
+        ],
+        "misconceptions": [
+          "AD 向下倾斜不能只用单一商品的替代效应解释。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。",
+          "AD 向下倾斜不能只用单一商品的替代效应解释。"
+        ],
+        "explanation": "总体价格水平变化影响实际财富、利率和净出口。计划总支出改变。沿 AD 曲线移动。\n\n### 原创情境与推导\n\n原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际 GDP，纵轴是总体价格水平，不是某一种产品价格和数量。\n\nAD 向下倾斜不能只用单一商品的替代效应解释。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-11-aggregate-demand",
+        "locale": "en",
+        "title": "Aggregate demand and the AD curve",
+        "takeaway": "Aggregate demand is planned total spending on domestic real output at each general price level, comprising C+I+G+(X−M).",
+        "definition": "Aggregate demand is planned total spending on domestic real output at each general price level, comprising C+I+G+(X−M).",
+        "causalChain": [
+          "The general price level affects real wealth, interest rates and net exports",
+          "planned spending changes",
+          "the economy moves along AD"
+        ],
+        "misconceptions": [
+          "AD's downward slope cannot be explained solely by substitution between individual goods."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "Aggregate demand is planned total spending on domestic real output at each general price level, comprising C+I+G+(X−M).",
+          "AD's downward slope cannot be explained solely by substitution between individual goods."
+        ],
+        "explanation": "The general price level affects real wealth, interest rates and net exports.  planned spending changes.  the economy moves along AD.\n\n### Original scenario and reasoning\n\nIllustrative example: a lower price level can raise the real value of money balances and improve export price competitiveness, increasing quantity of aggregate demand. The axes are real GDP and the general price level, not one product's price and quantity.\n\nAD's downward slope cannot be explained solely by substitution between individual goods.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-11-aggregate-demand-flash-1",
+        "knowledgePointId": "u3-11-aggregate-demand",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“总需求与 AD 曲线”，并说明一个关键条件。",
+          "en": "Explain Aggregate demand and the AD curve and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。",
+          "en": "Aggregate demand is planned total spending on domestic real output at each general price level, comprising C+I+G+(X−M)."
+        },
+        "explanation": {
+          "zh-CN": "AD 向下倾斜不能只用单一商品的替代效应解释。",
+          "en": "AD's downward slope cannot be explained solely by substitution between individual goods."
+        }
+      },
+      {
+        "id": "u3-11-aggregate-demand-mcq-1",
+        "knowledgePointId": "u3-11-aggregate-demand",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "AD–AS 图横轴应该是什么？",
+          "en": "What belongs on the horizontal axis of AD–AS?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "通胀率",
+            "en": "Inflation rate"
+          },
+          {
+            "id": "b",
+            "zh-CN": "单个企业产量",
+            "en": "One firm's output"
+          },
+          {
+            "id": "c",
+            "zh-CN": "实际 GDP",
+            "en": "Real GDP"
+          },
+          {
+            "id": "d",
+            "zh-CN": "名义利率",
+            "en": "Nominal interest rate"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "实际 GDP。 原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际 GDP，纵轴是总体价格水平，不是某一种产品价格和数量。 AD 向下倾斜不能只用单一商品的替代效应解释。",
+          "en": "Real GDP. Illustrative example: a lower price level can raise the real value of money balances and improve export price competitiveness, increasing quantity of aggregate demand. The axes are real GDP and the general price level, not one product's price and quantity. AD's downward slope cannot be explained solely by substitution between individual goods."
+        }
+      },
+      {
+        "id": "u3-11-aggregate-demand-short-1",
+        "knowledgePointId": "u3-11-aggregate-demand",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释总需求与 AD 曲线的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Aggregate demand and the AD curve and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。 总体价格水平变化影响实际财富、利率和净出口；计划总支出改变；沿 AD 曲线移动 原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际 GDP，纵轴是总体价格水平，不是某一种产品价格和数量。",
+          "en": "Aggregate demand is planned total spending on domestic real output at each general price level, comprising C+I+G+(X−M). The general price level affects real wealth, interest rates and net exports; planned spending changes; the economy moves along AD Illustrative example: a lower price level can raise the real value of money balances and improve export price competitiveness, increasing quantity of aggregate demand. The axes are real GDP and the general price level, not one product's price and quantity."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "计划支出",
+              "en": "planned spending"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "计划支出",
+                "总体价格水平变化影响实际财富、利率和净出口"
+              ],
+              "en": [
+                "planned spending",
+                "The general price level affects real wealth, interest rates and net exports"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "价格水平",
+              "en": "price level"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格水平",
+                "计划总支出改变"
+              ],
+              "en": [
+                "price level",
+                "planned spending changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "实际 GDP",
+              "en": "real GDP"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际 GDP",
+                "沿 AD 曲线移动"
+              ],
+              "en": [
+                "real GDP",
+                "the economy moves along AD"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-12-consumption",
+      "slug": "consumption",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.1",
+          "pages": [
+            272
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-13-investment",
+        "u3-14-sras"
+      ],
+      "terms": [
+        "消费与总需求移动",
+        "Consumption and shifts in aggregate demand",
+        "可支配收入",
+        "disposable income",
+        "信心",
+        "confidence",
+        "消费",
+        "consumption"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "可支配收入",
+          "信心",
+          "消费"
+        ],
+        "en": [
+          "disposable income",
+          "confidence",
+          "consumption"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-expansion"
+      ],
+      "quizIds": [
+        "u3-12-consumption-flash-1",
+        "u3-12-consumption-mcq-1",
+        "u3-12-consumption-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-12-consumption",
+        "locale": "zh-CN",
+        "title": "消费与总需求移动",
+        "takeaway": "消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。",
+        "definition": "消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。",
+        "causalChain": [
+          "可支配收入或信心改变",
+          "家庭计划消费改变",
+          "消费占比使总需求随之移动"
+        ],
+        "misconceptions": [
+          "收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。",
+          "收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。"
+        ],
+        "explanation": "可支配收入或信心改变。家庭计划消费改变。消费占比使总需求随之移动。\n\n### 原创情境与推导\n\n原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。\n\n收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-12-consumption",
+        "locale": "en",
+        "title": "Consumption and shifts in aggregate demand",
+        "takeaway": "Consumption depends on disposable income, wealth, confidence, interest rates, household debt and expectations. Changes in these determinants can shift AD at a given price level.",
+        "definition": "Consumption depends on disposable income, wealth, confidence, interest rates, household debt and expectations. Changes in these determinants can shift AD at a given price level.",
+        "causalChain": [
+          "Disposable income or confidence changes",
+          "households alter planned consumption",
+          "its expenditure share shifts aggregate demand"
+        ],
+        "misconceptions": [
+          "Consumption changes from higher income differ from movements along AD caused by a price-level change."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "Consumption depends on disposable income, wealth, confidence, interest rates, household debt and expectations. Changes in these determinants can shift AD at a given price level.",
+          "Consumption changes from higher income differ from movements along AD caused by a price-level change."
+        ],
+        "explanation": "Disposable income or confidence changes.  households alter planned consumption.  its expenditure share shifts aggregate demand.\n\n### Original scenario and reasoning\n\nIllustrative example: a tax cut raises disposable income, but households fearing job loss may save the increase. Distinguish the tax reduction from additional consumption rather than assuming every extra unit of income is spent.\n\nConsumption changes from higher income differ from movements along AD caused by a price-level change.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-12-consumption-flash-1",
+        "knowledgePointId": "u3-12-consumption",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“消费与总需求移动”，并说明一个关键条件。",
+          "en": "Explain Consumption and shifts in aggregate demand and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。",
+          "en": "Consumption depends on disposable income, wealth, confidence, interest rates, household debt and expectations. Changes in these determinants can shift AD at a given price level."
+        },
+        "explanation": {
+          "zh-CN": "收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。",
+          "en": "Consumption changes from higher income differ from movements along AD caused by a price-level change."
+        }
+      },
+      {
+        "id": "u3-12-consumption-mcq-1",
+        "knowledgePointId": "u3-12-consumption",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "信心下降导致家庭增加预防性储蓄，AD 通常怎样？",
+          "en": "Lower confidence raises precautionary saving. What normally happens to AD?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "右移",
+            "en": "Shifts right"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只沿 AD 移动",
+            "en": "Only a movement along AD"
+          },
+          {
+            "id": "c",
+            "zh-CN": "LRAS 必然立刻右移",
+            "en": "LRAS necessarily shifts right immediately"
+          },
+          {
+            "id": "d",
+            "zh-CN": "左移",
+            "en": "Shifts left"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "左移。 原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。 收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。",
+          "en": "Shifts left. Illustrative example: a tax cut raises disposable income, but households fearing job loss may save the increase. Distinguish the tax reduction from additional consumption rather than assuming every extra unit of income is spent. Consumption changes from higher income differ from movements along AD caused by a price-level change."
+        }
+      },
+      {
+        "id": "u3-12-consumption-short-1",
+        "knowledgePointId": "u3-12-consumption",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释消费与总需求移动的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Consumption and shifts in aggregate demand and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。 可支配收入或信心改变；家庭计划消费改变；消费占比使总需求随之移动 原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。",
+          "en": "Consumption depends on disposable income, wealth, confidence, interest rates, household debt and expectations. Changes in these determinants can shift AD at a given price level. Disposable income or confidence changes; households alter planned consumption; its expenditure share shifts aggregate demand Illustrative example: a tax cut raises disposable income, but households fearing job loss may save the increase. Distinguish the tax reduction from additional consumption rather than assuming every extra unit of income is spent."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "可支配收入",
+              "en": "disposable income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可支配收入",
+                "可支配收入或信心改变"
+              ],
+              "en": [
+                "disposable income",
+                "Disposable income or confidence changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "信心",
+              "en": "confidence"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信心",
+                "家庭计划消费改变"
+              ],
+              "en": [
+                "confidence",
+                "households alter planned consumption"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "消费",
+              "en": "consumption"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "消费",
+                "消费占比使总需求随之移动"
+              ],
+              "en": [
+                "consumption",
+                "its expenditure share shifts aggregate demand"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-13-investment",
+      "slug": "investment",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.1",
+          "pages": [
+            272
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-14-sras"
+      ],
+      "terms": [
+        "投资与加速、信心和利率",
+        "Investment, confidence and interest rates",
+        "预期回报",
+        "expected returns",
+        "融资成本",
+        "financing costs",
+        "产能",
+        "capacity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "预期回报",
+          "融资成本",
+          "产能"
+        ],
+        "en": [
+          "expected returns",
+          "financing costs",
+          "capacity"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-expansion"
+      ],
+      "quizIds": [
+        "u3-13-investment-flash-1",
+        "u3-13-investment-mcq-1",
+        "u3-13-investment-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-13-investment",
+        "locale": "zh-CN",
+        "title": "投资与加速、信心和利率",
+        "takeaway": "宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。",
+        "definition": "宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。",
+        "causalChain": [
+          "企业比较预期回报与融资成本",
+          "有利可图项目数量变化",
+          "投资既改变当前 AD 也可改变未来产能"
+        ],
+        "misconceptions": [
+          "投资的短期需求效应与长期供给效应应分别解释。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。",
+          "投资的短期需求效应与长期供给效应应分别解释。"
+        ],
+        "explanation": "企业比较预期回报与融资成本。有利可图项目数量变化。投资既改变当前 AD 也可改变未来产能。\n\n### 原创情境与推导\n\n原创例：项目预期回报 6%，借贷成本从 7% 降至 4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。\n\n投资的短期需求效应与长期供给效应应分别解释。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-13-investment",
+        "locale": "en",
+        "title": "Investment, confidence and interest rates",
+        "takeaway": "Macroeconomic investment means new capital and inventories, not security purchases. Expected returns, borrowing costs, confidence, technology, business taxes and spare capacity influence it.",
+        "definition": "Macroeconomic investment means new capital and inventories, not security purchases. Expected returns, borrowing costs, confidence, technology, business taxes and spare capacity influence it.",
+        "causalChain": [
+          "Firms compare expected returns with financing costs",
+          "the set of profitable projects changes",
+          "investment affects current AD and potentially future capacity"
+        ],
+        "misconceptions": [
+          "Explain investment's short-run demand and long-run supply effects separately."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "Macroeconomic investment means new capital and inventories, not security purchases. Expected returns, borrowing costs, confidence, technology, business taxes and spare capacity influence it.",
+          "Explain investment's short-run demand and long-run supply effects separately."
+        ],
+        "explanation": "Firms compare expected returns with financing costs.  the set of profitable projects changes.  investment affects current AD and potentially future capacity.\n\n### Original scenario and reasoning\n\nIllustrative example: a project expected to return 6% becomes more attractive when borrowing cost falls from 7% to 4%. Weak sales or substantial idle capacity can still prevent investment. Building a plant first adds demand; operating it later raises capacity.\n\nExplain investment's short-run demand and long-run supply effects separately.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-13-investment-flash-1",
+        "knowledgePointId": "u3-13-investment",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“投资与加速、信心和利率”，并说明一个关键条件。",
+          "en": "Explain Investment, confidence and interest rates and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。",
+          "en": "Macroeconomic investment means new capital and inventories, not security purchases. Expected returns, borrowing costs, confidence, technology, business taxes and spare capacity influence it."
+        },
+        "explanation": {
+          "zh-CN": "投资的短期需求效应与长期供给效应应分别解释。",
+          "en": "Explain investment's short-run demand and long-run supply effects separately."
+        }
+      },
+      {
+        "id": "u3-13-investment-mcq-1",
+        "knowledgePointId": "u3-13-investment",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "新建厂房对经济最合理的两阶段影响是什么？",
+          "en": "What is the most reasonable two-stage effect of building a new factory?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "先增加 AD，之后可能增加潜在产出",
+            "en": "Raises AD first, then may raise potential output"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只改变股票价格",
+            "en": "Only changes share prices"
+          },
+          {
+            "id": "c",
+            "zh-CN": "立刻消除全部失业",
+            "en": "Immediately eliminates all unemployment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "总是减少资本存量",
+            "en": "Always reduces the capital stock"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "先增加 AD，之后可能增加潜在产出。 原创例：项目预期回报 6%，借贷成本从 7% 降至 4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。 投资的短期需求效应与长期供给效应应分别解释。",
+          "en": "Raises AD first, then may raise potential output. Illustrative example: a project expected to return 6% becomes more attractive when borrowing cost falls from 7% to 4%. Weak sales or substantial idle capacity can still prevent investment. Building a plant first adds demand; operating it later raises capacity. Explain investment's short-run demand and long-run supply effects separately."
+        }
+      },
+      {
+        "id": "u3-13-investment-short-1",
+        "knowledgePointId": "u3-13-investment",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释投资与加速、信心和利率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Investment, confidence and interest rates and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。 企业比较预期回报与融资成本；有利可图项目数量变化；投资既改变当前 AD 也可改变未来产能 原创例：项目预期回报 6%，借贷成本从 7% 降至 4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。",
+          "en": "Macroeconomic investment means new capital and inventories, not security purchases. Expected returns, borrowing costs, confidence, technology, business taxes and spare capacity influence it. Firms compare expected returns with financing costs; the set of profitable projects changes; investment affects current AD and potentially future capacity Illustrative example: a project expected to return 6% becomes more attractive when borrowing cost falls from 7% to 4%. Weak sales or substantial idle capacity can still prevent investment. Building a plant first adds demand; operating it later raises capacity."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "预期回报",
+              "en": "expected returns"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "预期回报",
+                "企业比较预期回报与融资成本"
+              ],
+              "en": [
+                "expected returns",
+                "Firms compare expected returns with financing costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "融资成本",
+              "en": "financing costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资成本",
+                "有利可图项目数量变化"
+              ],
+              "en": [
+                "financing costs",
+                "the set of profitable projects changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "产能",
+              "en": "capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产能",
+                "投资既改变当前 AD 也可改变未来产能"
+              ],
+              "en": [
+                "capacity",
+                "investment affects current AD and potentially future capacity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-14-sras",
+      "slug": "sras",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.2",
+          "pages": [
+            276
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "短期总供给 SRAS",
+        "Short-run aggregate supply",
+        "成本",
+        "costs",
+        "价格水平",
+        "price level",
+        "实际产出",
+        "real output"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "成本",
+          "价格水平",
+          "实际产出"
+        ],
+        "en": [
+          "costs",
+          "price level",
+          "real output"
+        ]
+      },
+      "diagramIds": [
+        "macro-supply-shock"
+      ],
+      "quizIds": [
+        "u3-14-sras-flash-1",
+        "u3-14-sras-mcq-1",
+        "u3-14-sras-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-14-sras",
+        "locale": "zh-CN",
+        "title": "短期总供给 SRAS",
+        "takeaway": "SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。",
+        "definition": "SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。",
+        "causalChain": [
+          "投入价格相对固定时产品价格上升",
+          "实际生产利润率改善",
+          "企业沿 SRAS 增加产出"
+        ],
+        "misconceptions": [
+          "SRAS 左移是成本冲击，不能画成 AD 右移。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。",
+          "SRAS 左移是成本冲击，不能画成 AD 右移。"
+        ],
+        "explanation": "投入价格相对固定时产品价格上升。实际生产利润率改善。企业沿 SRAS 增加产出。\n\n### 原创情境与推导\n\n原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD 不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。\n\nSRAS 左移是成本冲击，不能画成 AD 右移。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-14-sras",
+        "locale": "en",
+        "title": "Short-run aggregate supply",
+        "takeaway": "SRAS relates the price level to real output when some input prices or wages do not fully adjust in the short run. Higher unit costs normally shift it left.",
+        "definition": "SRAS relates the price level to real output when some input prices or wages do not fully adjust in the short run. Higher unit costs normally shift it left.",
+        "causalChain": [
+          "Output prices rise relative to temporarily fixed input prices",
+          "production margins improve",
+          "firms expand output along SRAS"
+        ],
+        "misconceptions": [
+          "A leftward SRAS shift is a cost shock, not a rightward AD shift."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "SRAS relates the price level to real output when some input prices or wages do not fully adjust in the short run. Higher unit costs normally shift it left.",
+          "A leftward SRAS shift is a cost shock, not a rightward AD shift."
+        ],
+        "explanation": "Output prices rise relative to temporarily fixed input prices.  production margins improve.  firms expand output along SRAS.\n\n### Original scenario and reasoning\n\nIllustrative example: dearer energy shifts SRAS left, raising the price level and reducing real output with unchanged AD. If output and all input prices rise proportionately, the original short-run real-margin incentive cannot simply be assumed.\n\nA leftward SRAS shift is a cost shock, not a rightward AD shift.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-14-sras-flash-1",
+        "knowledgePointId": "u3-14-sras",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“短期总供给 SRAS”，并说明一个关键条件。",
+          "en": "Explain Short-run aggregate supply and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。",
+          "en": "SRAS relates the price level to real output when some input prices or wages do not fully adjust in the short run. Higher unit costs normally shift it left."
+        },
+        "explanation": {
+          "zh-CN": "SRAS 左移是成本冲击，不能画成 AD 右移。",
+          "en": "A leftward SRAS shift is a cost shock, not a rightward AD shift."
+        }
+      },
+      {
+        "id": "u3-14-sras-mcq-1",
+        "knowledgePointId": "u3-14-sras",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "进口能源成本上升、AD 不变，通常出现什么？",
+          "en": "Imported energy costs rise with AD unchanged. What normally follows?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "价格水平降、产出升",
+            "en": "Lower price level, higher output"
+          },
+          {
+            "id": "b",
+            "zh-CN": "价格水平升、实际产出降",
+            "en": "Higher price level, lower real output"
+          },
+          {
+            "id": "c",
+            "zh-CN": "两者都必然不变",
+            "en": "Both necessarily unchanged"
+          },
+          {
+            "id": "d",
+            "zh-CN": "LRAS 必然右移",
+            "en": "LRAS necessarily shifts right"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "价格水平升、实际产出降。 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD 不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。 SRAS 左移是成本冲击，不能画成 AD 右移。",
+          "en": "Higher price level, lower real output. Illustrative example: dearer energy shifts SRAS left, raising the price level and reducing real output with unchanged AD. If output and all input prices rise proportionately, the original short-run real-margin incentive cannot simply be assumed. A leftward SRAS shift is a cost shock, not a rightward AD shift."
+        }
+      },
+      {
+        "id": "u3-14-sras-short-1",
+        "knowledgePointId": "u3-14-sras",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释短期总供给 SRAS的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Short-run aggregate supply and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。 投入价格相对固定时产品价格上升；实际生产利润率改善；企业沿 SRAS 增加产出 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD 不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。",
+          "en": "SRAS relates the price level to real output when some input prices or wages do not fully adjust in the short run. Higher unit costs normally shift it left. Output prices rise relative to temporarily fixed input prices; production margins improve; firms expand output along SRAS Illustrative example: dearer energy shifts SRAS left, raising the price level and reducing real output with unchanged AD. If output and all input prices rise proportionately, the original short-run real-margin incentive cannot simply be assumed."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "成本",
+              "en": "costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "成本",
+                "投入价格相对固定时产品价格上升"
+              ],
+              "en": [
+                "costs",
+                "Output prices rise relative to temporarily fixed input prices"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "价格水平",
+              "en": "price level"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格水平",
+                "实际生产利润率改善"
+              ],
+              "en": [
+                "price level",
+                "production margins improve"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "实际产出",
+              "en": "real output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际产出",
+                "企业沿 SRAS 增加产出"
+              ],
+              "en": [
+                "real output",
+                "firms expand output along SRAS"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-15-lras",
+      "slug": "lras",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.3",
+          "pages": [
+            281
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "长期总供给与潜在产出",
+        "Long-run aggregate supply and potential output",
+        "长期",
+        "long run",
+        "潜在产出",
+        "potential output",
+        "工资调整",
+        "wage adjustment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "长期",
+          "潜在产出",
+          "工资调整"
+        ],
+        "en": [
+          "long run",
+          "potential output",
+          "wage adjustment"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-15-lras-flash-1",
+        "u3-15-lras-mcq-1",
+        "u3-15-lras-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-15-lras",
+        "locale": "zh-CN",
+        "title": "长期总供给与潜在产出",
+        "takeaway": "新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。",
+        "definition": "新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。",
+        "causalChain": [
+          "长期工资与投入价格调整",
+          "短期实际激励逐步消失",
+          "产出回到由生产能力决定的潜在水平"
+        ],
+        "misconceptions": [
+          "潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。",
+          "潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。"
+        ],
+        "explanation": "长期工资与投入价格调整。短期实际激励逐步消失。产出回到由生产能力决定的潜在水平。\n\n### 原创情境与推导\n\n原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf 而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。\n\n潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-15-lras",
+        "locale": "en",
+        "title": "Long-run aggregate supply and potential output",
+        "takeaway": "In the neoclassical model LRAS is vertical at potential output Yf. Long-run real output depends on resources, technology and institutions rather than continually raising the price level.",
+        "definition": "In the neoclassical model LRAS is vertical at potential output Yf. Long-run real output depends on resources, technology and institutions rather than continually raising the price level.",
+        "causalChain": [
+          "Wages and input prices adjust over time",
+          "short-run real incentives fade",
+          "output returns to the level determined by productive capacity"
+        ],
+        "misconceptions": [
+          "Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "In the neoclassical model LRAS is vertical at potential output Yf. Long-run real output depends on resources, technology and institutions rather than continually raising the price level.",
+          "Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
+        ],
+        "explanation": "Wages and input prices adjust over time.  short-run real incentives fade.  output returns to the level determined by productive capacity.\n\n### Original scenario and reasoning\n\nIllustrative example: higher AD may briefly push output above Yf. Rising wages then shift SRAS left, restoring Yf at a higher price level. This conclusion depends on wage-price adjustment and competitive assumptions, not an unconditional instant process.\n\nPotential output does not imply zero unemployment; frictional and structural unemployment may remain.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-15-lras-flash-1",
+        "knowledgePointId": "u3-15-lras",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“长期总供给与潜在产出”，并说明一个关键条件。",
+          "en": "Explain Long-run aggregate supply and potential output and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。",
+          "en": "In the neoclassical model LRAS is vertical at potential output Yf. Long-run real output depends on resources, technology and institutions rather than continually raising the price level."
+        },
+        "explanation": {
+          "zh-CN": "潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。",
+          "en": "Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
+        }
+      },
+      {
+        "id": "u3-15-lras-mcq-1",
+        "knowledgePointId": "u3-15-lras",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "新古典长期中，单纯增加 AD 能永久提高实际产出吗？",
+          "en": "In the neoclassical long run, can higher AD alone permanently raise real output?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "可以无限提高",
+            "en": "Yes, without limit"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只要价格翻倍即可",
+            "en": "Yes, by doubling prices"
+          },
+          {
+            "id": "c",
+            "zh-CN": "不能，需增加生产能力",
+            "en": "No; productive capacity must increase"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必然使产能下降",
+            "en": "It necessarily lowers capacity"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "不能，需增加生产能力。 原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf 而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。",
+          "en": "No; productive capacity must increase. Illustrative example: higher AD may briefly push output above Yf. Rising wages then shift SRAS left, restoring Yf at a higher price level. This conclusion depends on wage-price adjustment and competitive assumptions, not an unconditional instant process. Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
+        }
+      },
+      {
+        "id": "u3-15-lras-short-1",
+        "knowledgePointId": "u3-15-lras",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释长期总供给与潜在产出的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Long-run aggregate supply and potential output and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。 长期工资与投入价格调整；短期实际激励逐步消失；产出回到由生产能力决定的潜在水平 原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf 而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。",
+          "en": "In the neoclassical model LRAS is vertical at potential output Yf. Long-run real output depends on resources, technology and institutions rather than continually raising the price level. Wages and input prices adjust over time; short-run real incentives fade; output returns to the level determined by productive capacity Illustrative example: higher AD may briefly push output above Yf. Rising wages then shift SRAS left, restoring Yf at a higher price level. This conclusion depends on wage-price adjustment and competitive assumptions, not an unconditional instant process."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "长期",
+              "en": "long run"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期",
+                "长期工资与投入价格调整"
+              ],
+              "en": [
+                "long run",
+                "Wages and input prices adjust over time"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "潜在产出",
+              "en": "potential output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "潜在产出",
+                "短期实际激励逐步消失"
+              ],
+              "en": [
+                "potential output",
+                "short-run real incentives fade"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "工资调整",
+              "en": "wage adjustment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "工资调整",
+                "产出回到由生产能力决定的潜在水平"
+              ],
+              "en": [
+                "wage adjustment",
+                "output returns to the level determined by productive capacity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-16-keynesian-as",
+      "slug": "keynesian-as",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.4",
+          "pages": [
+            286
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "凯恩斯总供给模型",
+        "The Keynesian aggregate supply model",
+        "闲置资源",
+        "spare resources",
+        "瓶颈",
+        "bottlenecks",
+        "刚性",
+        "rigidity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "闲置资源",
+          "瓶颈",
+          "刚性"
+        ],
+        "en": [
+          "spare resources",
+          "bottlenecks",
+          "rigidity"
+        ]
+      },
+      "diagramIds": [
+        "macro-keynesian"
+      ],
+      "quizIds": [
+        "u3-16-keynesian-as-flash-1",
+        "u3-16-keynesian-as-mcq-1",
+        "u3-16-keynesian-as-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-16-keynesian-as",
+        "locale": "zh-CN",
+        "title": "凯恩斯总供给模型",
+        "takeaway": "凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。",
+        "definition": "凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。",
+        "causalChain": [
+          "闲置资源允许较低成本扩张",
+          "产能瓶颈随利用率上升",
+          "接近满负荷时需求扩张主要推高价格"
+        ],
+        "misconceptions": [
+          "曲线水平区间不表示资源永久无限。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。",
+          "曲线水平区间不表示资源永久无限。"
+        ],
+        "explanation": "闲置资源允许较低成本扩张。产能瓶颈随利用率上升。接近满负荷时需求扩张主要推高价格。\n\n### 原创情境与推导\n\n原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。\n\n曲线水平区间不表示资源永久无限。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-16-keynesian-as",
+        "locale": "en",
+        "title": "The Keynesian aggregate supply model",
+        "takeaway": "The Keynesian AS schematic is relatively flat with substantial spare resources, rises near full employment and becomes vertical at capacity. AD's output and price effects depend on the relevant range.",
+        "definition": "The Keynesian AS schematic is relatively flat with substantial spare resources, rises near full employment and becomes vertical at capacity. AD's output and price effects depend on the relevant range.",
+        "causalChain": [
+          "Idle resources permit low-cost expansion",
+          "bottlenecks develop as utilisation rises",
+          "near capacity demand expansion mainly raises prices"
+        ],
+        "misconceptions": [
+          "A flat range does not imply permanently unlimited resources."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "The Keynesian AS schematic is relatively flat with substantial spare resources, rises near full employment and becomes vertical at capacity. AD's output and price effects depend on the relevant range.",
+          "A flat range does not imply permanently unlimited resources."
+        ],
+        "explanation": "Idle resources permit low-cost expansion.  bottlenecks develop as utilisation rises.  near capacity demand expansion mainly raises prices.\n\n### Original scenario and reasoning\n\nIllustrative example: extra public spending in a recession may mainly raise output, while at full capacity it mainly raises prices. Downward wage rigidity and weak confidence can sustain equilibrium below full employment. Explain assumptions before contrasting neoclassical adjustment.\n\nA flat range does not imply permanently unlimited resources.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-16-keynesian-as-flash-1",
+        "knowledgePointId": "u3-16-keynesian-as",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“凯恩斯总供给模型”，并说明一个关键条件。",
+          "en": "Explain The Keynesian aggregate supply model and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。",
+          "en": "The Keynesian AS schematic is relatively flat with substantial spare resources, rises near full employment and becomes vertical at capacity. AD's output and price effects depend on the relevant range."
+        },
+        "explanation": {
+          "zh-CN": "曲线水平区间不表示资源永久无限。",
+          "en": "A flat range does not imply permanently unlimited resources."
+        }
+      },
+      {
+        "id": "u3-16-keynesian-as-mcq-1",
+        "knowledgePointId": "u3-16-keynesian-as",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "凯恩斯 AS 平坦区间中 AD 右移，主要结果是什么？",
+          "en": "In the flat range of Keynesian AS, what is the main effect of higher AD?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只有价格上涨",
+            "en": "Only higher prices"
+          },
+          {
+            "id": "b",
+            "zh-CN": "实际产出必降",
+            "en": "Real output must fall"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有失业永远消失",
+            "en": "All unemployment disappears forever"
+          },
+          {
+            "id": "d",
+            "zh-CN": "实际产出增加，价格变化较小",
+            "en": "Higher real output with little price change"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "实际产出增加，价格变化较小。 原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。 曲线水平区间不表示资源永久无限。",
+          "en": "Higher real output with little price change. Illustrative example: extra public spending in a recession may mainly raise output, while at full capacity it mainly raises prices. Downward wage rigidity and weak confidence can sustain equilibrium below full employment. Explain assumptions before contrasting neoclassical adjustment. A flat range does not imply permanently unlimited resources."
+        }
+      },
+      {
+        "id": "u3-16-keynesian-as-short-1",
+        "knowledgePointId": "u3-16-keynesian-as",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释凯恩斯总供给模型的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of The Keynesian aggregate supply model and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "凯恩斯 AS 示意模型在大量闲置资源时较平坦，接近充分就业时上升并最终趋于垂直；AD 对产出与物价的影响取决于所在区间。 闲置资源允许较低成本扩张；产能瓶颈随利用率上升；接近满负荷时需求扩张主要推高价格 原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。",
+          "en": "The Keynesian AS schematic is relatively flat with substantial spare resources, rises near full employment and becomes vertical at capacity. AD's output and price effects depend on the relevant range. Idle resources permit low-cost expansion; bottlenecks develop as utilisation rises; near capacity demand expansion mainly raises prices Illustrative example: extra public spending in a recession may mainly raise output, while at full capacity it mainly raises prices. Downward wage rigidity and weak confidence can sustain equilibrium below full employment. Explain assumptions before contrasting neoclassical adjustment."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "闲置资源",
+              "en": "spare resources"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "闲置资源",
+                "闲置资源允许较低成本扩张"
+              ],
+              "en": [
+                "spare resources",
+                "Idle resources permit low-cost expansion"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "瓶颈",
+              "en": "bottlenecks"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "瓶颈",
+                "产能瓶颈随利用率上升"
+              ],
+              "en": [
+                "bottlenecks",
+                "bottlenecks develop as utilisation rises"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "刚性",
+              "en": "rigidity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "刚性",
+                "接近满负荷时需求扩张主要推高价格"
+              ],
+              "en": [
+                "rigidity",
+                "near capacity demand expansion mainly raises prices"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-17-macro-equilibrium",
+      "slug": "macro-equilibrium",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.2",
+          "pages": [
+            276
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "宏观均衡与比较静态",
+        "Macroeconomic equilibrium and comparative statics",
+        "交点",
+        "intersection",
+        "曲线移动",
+        "shift",
+        "价格水平",
+        "price level"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "交点",
+          "曲线移动",
+          "价格水平"
+        ],
+        "en": [
+          "intersection",
+          "shift",
+          "price level"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-as"
+      ],
+      "quizIds": [
+        "u3-17-macro-equilibrium-flash-1",
+        "u3-17-macro-equilibrium-mcq-1",
+        "u3-17-macro-equilibrium-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-17-macro-equilibrium",
+        "locale": "zh-CN",
+        "title": "宏观均衡与比较静态",
+        "takeaway": "短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。",
+        "definition": "短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。",
+        "causalChain": [
+          "识别初始均衡",
+          "根据冲击移动对应曲线",
+          "比较新均衡并说明调整时间与假设"
+        ],
+        "misconceptions": [
+          "不能把纵轴价格水平直接写成通胀率。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。",
+          "不能把纵轴价格水平直接写成通胀率。"
+        ],
+        "explanation": "识别初始均衡。根据冲击移动对应曲线。比较新均衡并说明调整时间与假设。\n\n### 原创情境与推导\n\n原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS 同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。\n\n不能把纵轴价格水平直接写成通胀率。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-17-macro-equilibrium",
+        "locale": "en",
+        "title": "Macroeconomic equilibrium and comparative statics",
+        "takeaway": "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the price level and real output. Long-run equilibrium must also be consistent with potential output and the relevant long-run model.",
+        "definition": "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the price level and real output. Long-run equilibrium must also be consistent with potential output and the relevant long-run model.",
+        "causalChain": [
+          "Identify the initial equilibrium",
+          "shift the appropriate curve for the shock",
+          "compare the new equilibrium while stating timing and assumptions"
+        ],
+        "misconceptions": [
+          "Do not label an AD–AS price-level axis as the inflation rate."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the price level and real output. Long-run equilibrium must also be consistent with potential output and the relevant long-run model.",
+          "Do not label an AD–AS price-level axis as the inflation rate."
+        ],
+        "explanation": "Identify the initial equilibrium.  shift the appropriate curve for the shock.  compare the new equilibrium while stating timing and assumptions.\n\n### Original scenario and reasoning\n\nIllustrative example: stronger export demand shifts AD right, raising prices and output along upward SRAS. If AD and SRAS both shift right, output rises but the price direction depends on magnitudes. A higher price level does not by itself specify annual inflation.\n\nDo not label an AD–AS price-level axis as the inflation rate.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-17-macro-equilibrium-flash-1",
+        "knowledgePointId": "u3-17-macro-equilibrium",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“宏观均衡与比较静态”，并说明一个关键条件。",
+          "en": "Explain Macroeconomic equilibrium and comparative statics and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。",
+          "en": "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the price level and real output. Long-run equilibrium must also be consistent with potential output and the relevant long-run model."
+        },
+        "explanation": {
+          "zh-CN": "不能把纵轴价格水平直接写成通胀率。",
+          "en": "Do not label an AD–AS price-level axis as the inflation rate."
+        }
+      },
+      {
+        "id": "u3-17-macro-equilibrium-mcq-1",
+        "knowledgePointId": "u3-17-macro-equilibrium",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "AD 与 SRAS 都右移，能确定什么？",
+          "en": "AD and SRAS both shift right. What can be determined?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "实际产出增加",
+            "en": "Real output increases"
+          },
+          {
+            "id": "b",
+            "zh-CN": "价格一定上涨",
+            "en": "Prices must rise"
+          },
+          {
+            "id": "c",
+            "zh-CN": "价格一定下降",
+            "en": "Prices must fall"
+          },
+          {
+            "id": "d",
+            "zh-CN": "产出一定减少",
+            "en": "Output must fall"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "实际产出增加。 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS 同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。 不能把纵轴价格水平直接写成通胀率。",
+          "en": "Real output increases. Illustrative example: stronger export demand shifts AD right, raising prices and output along upward SRAS. If AD and SRAS both shift right, output rises but the price direction depends on magnitudes. A higher price level does not by itself specify annual inflation. Do not label an AD–AS price-level axis as the inflation rate."
+        }
+      },
+      {
+        "id": "u3-17-macro-equilibrium-short-1",
+        "knowledgePointId": "u3-17-macro-equilibrium",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释宏观均衡与比较静态的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Macroeconomic equilibrium and comparative statics and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。 识别初始均衡；根据冲击移动对应曲线；比较新均衡并说明调整时间与假设 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS 同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。",
+          "en": "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the price level and real output. Long-run equilibrium must also be consistent with potential output and the relevant long-run model. Identify the initial equilibrium; shift the appropriate curve for the shock; compare the new equilibrium while stating timing and assumptions Illustrative example: stronger export demand shifts AD right, raising prices and output along upward SRAS. If AD and SRAS both shift right, output rises but the price direction depends on magnitudes. A higher price level does not by itself specify annual inflation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "交点",
+              "en": "intersection"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "交点",
+                "识别初始均衡"
+              ],
+              "en": [
+                "intersection",
+                "Identify the initial equilibrium"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "曲线移动",
+              "en": "shift"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "曲线移动",
+                "根据冲击移动对应曲线"
+              ],
+              "en": [
+                "shift",
+                "shift the appropriate curve for the shock"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "价格水平",
+              "en": "price level"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "价格水平",
+                "比较新均衡并说明调整时间与假设"
+              ],
+              "en": [
+                "price level",
+                "compare the new equilibrium while stating timing and assumptions"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-18-output-gaps",
+      "slug": "output-gaps",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.6",
+          "pages": [
+            292
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "衰退缺口与通胀缺口",
+        "Recessionary and inflationary gaps",
+        "实际产出",
+        "actual output",
+        "潜在产出",
+        "potential output",
+        "缺口",
+        "gap"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "实际产出",
+          "潜在产出",
+          "缺口"
+        ],
+        "en": [
+          "actual output",
+          "potential output",
+          "gap"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-18-output-gaps-flash-1",
+        "u3-18-output-gaps-mcq-1",
+        "u3-18-output-gaps-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-18-output-gaps",
+        "locale": "zh-CN",
+        "title": "衰退缺口与通胀缺口",
+        "takeaway": "负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。",
+        "definition": "负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。",
+        "causalChain": [
+          "估计可持续潜在产出",
+          "比较实际产出与潜在产出",
+          "识别闲置资源或过度需求压力"
+        ],
+        "misconceptions": [
+          "负缺口不等同于当期实际增长一定为负。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。",
+          "负缺口不等同于当期实际增长一定为负。"
+        ],
+        "explanation": "估计可持续潜在产出。比较实际产出与潜在产出。识别闲置资源或过度需求压力。\n\n### 原创情境与推导\n\n原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至 950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。\n\n负缺口不等同于当期实际增长一定为负。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-18-output-gaps",
+        "locale": "en",
+        "title": "Recessionary and inflationary gaps",
+        "takeaway": "A negative output gap means actual output below potential; a positive gap means above potential. The gap compares output with estimated capacity, not simply with its growth rate.",
+        "definition": "A negative output gap means actual output below potential; a positive gap means above potential. The gap compares output with estimated capacity, not simply with its growth rate.",
+        "causalChain": [
+          "Estimate sustainable potential output",
+          "compare actual with potential",
+          "identify spare resources or excess-demand pressure"
+        ],
+        "misconceptions": [
+          "A negative gap does not require negative current growth."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "A negative output gap means actual output below potential; a positive gap means above potential. The gap compares output with estimated capacity, not simply with its growth rate.",
+          "A negative gap does not require negative current growth."
+        ],
+        "explanation": "Estimate sustainable potential output.  compare actual with potential.  identify spare resources or excess-demand pressure.\n\n### Original scenario and reasoning\n\nIllustrative example: potential GDP=1000 and actual GDP=950 give a gap of about -5%. Output can grow from 930 to 950 and still have a negative gap. Potential is unobservable, so estimation error affects policy choices.\n\nA negative gap does not require negative current growth.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-18-output-gaps-flash-1",
+        "knowledgePointId": "u3-18-output-gaps",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“衰退缺口与通胀缺口”，并说明一个关键条件。",
+          "en": "Explain Recessionary and inflationary gaps and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。",
+          "en": "A negative output gap means actual output below potential; a positive gap means above potential. The gap compares output with estimated capacity, not simply with its growth rate."
+        },
+        "explanation": {
+          "zh-CN": "负缺口不等同于当期实际增长一定为负。",
+          "en": "A negative gap does not require negative current growth."
+        }
+      },
+      {
+        "id": "u3-18-output-gaps-mcq-1",
+        "knowledgePointId": "u3-18-output-gaps",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "Y=108、Yf=100，产出缺口为多少？",
+          "en": "Y=108 and Yf=100. What is the output gap?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "-8%",
+            "en": "-8%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "+8%",
+            "en": "+8%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "108%",
+            "en": "108%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "0%",
+            "en": "0%"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "+8%。 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至 950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。 负缺口不等同于当期实际增长一定为负。",
+          "en": "+8%. Illustrative example: potential GDP=1000 and actual GDP=950 give a gap of about -5%. Output can grow from 930 to 950 and still have a negative gap. Potential is unobservable, so estimation error affects policy choices. A negative gap does not require negative current growth."
+        }
+      },
+      {
+        "id": "u3-18-output-gaps-short-1",
+        "knowledgePointId": "u3-18-output-gaps",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释衰退缺口与通胀缺口的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Recessionary and inflationary gaps and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "负产出缺口是实际产出低于潜在产出，正产出缺口是高于潜在水平；缺口是与估计潜力的比较而非单纯增长率。 估计可持续潜在产出；比较实际产出与潜在产出；识别闲置资源或过度需求压力 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至 950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。",
+          "en": "A negative output gap means actual output below potential; a positive gap means above potential. The gap compares output with estimated capacity, not simply with its growth rate. Estimate sustainable potential output; compare actual with potential; identify spare resources or excess-demand pressure Illustrative example: potential GDP=1000 and actual GDP=950 give a gap of about -5%. Output can grow from 930 to 950 and still have a negative gap. Potential is unobservable, so estimation error affects policy choices."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "实际产出",
+              "en": "actual output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际产出",
+                "估计可持续潜在产出"
+              ],
+              "en": [
+                "actual output",
+                "Estimate sustainable potential output"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "潜在产出",
+              "en": "potential output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "潜在产出",
+                "比较实际产出与潜在产出"
+              ],
+              "en": [
+                "potential output",
+                "compare actual with potential"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "缺口",
+              "en": "gap"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "缺口",
+                "识别闲置资源或过度需求压力"
+              ],
+              "en": [
+                "gap",
+                "identify spare resources or excess-demand pressure"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-19-macro-shocks",
+      "slug": "macro-shocks",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.2",
+          "pages": [
+            276
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "需求冲击、供给冲击与滞胀",
+        "Demand shocks, supply shocks and stagflation",
+        "供给冲击",
+        "supply shock",
+        "产出",
+        "output",
+        "物价",
+        "prices"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "供给冲击",
+          "产出",
+          "物价"
+        ],
+        "en": [
+          "supply shock",
+          "output",
+          "prices"
+        ]
+      },
+      "diagramIds": [
+        "macro-supply-shock"
+      ],
+      "quizIds": [
+        "u3-19-macro-shocks-flash-1",
+        "u3-19-macro-shocks-mcq-1",
+        "u3-19-macro-shocks-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-19-macro-shocks",
+        "locale": "zh-CN",
+        "title": "需求冲击、供给冲击与滞胀",
+        "takeaway": "负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。",
+        "definition": "负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。",
+        "causalChain": [
+          "先区分支出不足或成本产能问题",
+          "移动 AD 或 SRAS",
+          "政策选择面对不同目标冲突"
+        ],
+        "misconceptions": [
+          "一次价格水平冲击与持续的通胀过程也需要区分。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。",
+          "一次价格水平冲击与持续的通胀过程也需要区分。"
+        ],
+        "explanation": "先区分支出不足或成本产能问题。移动 AD 或 SRAS。政策选择面对不同目标冲突。\n\n### 原创情境与推导\n\n原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD 可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。\n\n一次价格水平冲击与持续的通胀过程也需要区分。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-19-macro-shocks",
+        "locale": "en",
+        "title": "Demand shocks, supply shocks and stagflation",
+        "takeaway": "A negative demand shock normally lowers output and price pressure. A negative supply shock can reduce output while raising the price level, creating stagflation pressure.",
+        "definition": "A negative demand shock normally lowers output and price pressure. A negative supply shock can reduce output while raising the price level, creating stagflation pressure.",
+        "causalChain": [
+          "Distinguish weak spending from cost/capacity problems",
+          "shift AD or SRAS",
+          "policy choices face different objective conflicts"
+        ],
+        "misconceptions": [
+          "Distinguish a one-off price-level shock from a continuing inflation process."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "A negative demand shock normally lowers output and price pressure. A negative supply shock can reduce output while raising the price level, creating stagflation pressure.",
+          "Distinguish a one-off price-level shock from a continuing inflation process."
+        ],
+        "explanation": "Distinguish weak spending from cost/capacity problems.  shift AD or SRAS.  policy choices face different objective conflicts.\n\n### Original scenario and reasoning\n\nIllustrative example: an energy shortage shifts SRAS left. Expanding AD can limit output losses but raise prices further; contracting AD can limit price pressure but worsen recession. Identify the shock rather than prescribe one policy for every inflation episode.\n\nDistinguish a one-off price-level shock from a continuing inflation process.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-19-macro-shocks-flash-1",
+        "knowledgePointId": "u3-19-macro-shocks",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求冲击、供给冲击与滞胀”，并说明一个关键条件。",
+          "en": "Explain Demand shocks, supply shocks and stagflation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。",
+          "en": "A negative demand shock normally lowers output and price pressure. A negative supply shock can reduce output while raising the price level, creating stagflation pressure."
+        },
+        "explanation": {
+          "zh-CN": "一次价格水平冲击与持续的通胀过程也需要区分。",
+          "en": "Distinguish a one-off price-level shock from a continuing inflation process."
+        }
+      },
+      {
+        "id": "u3-19-macro-shocks-mcq-1",
+        "knowledgePointId": "u3-19-macro-shocks",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "负供给冲击下扩张 AD 的主要权衡是什么？",
+          "en": "What is a main trade-off of expanding AD after an adverse supply shock?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "必同时降低价格与失业",
+            "en": "Must lower both prices and unemployment"
+          },
+          {
+            "id": "b",
+            "zh-CN": "立刻增加资源禀赋",
+            "en": "Immediately increases resources"
+          },
+          {
+            "id": "c",
+            "zh-CN": "支持产出但加重物价压力",
+            "en": "Supports output but intensifies price pressure"
+          },
+          {
+            "id": "d",
+            "zh-CN": "没有任何权衡",
+            "en": "No trade-off exists"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "支持产出但加重物价压力。 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD 可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。 一次价格水平冲击与持续的通胀过程也需要区分。",
+          "en": "Supports output but intensifies price pressure. Illustrative example: an energy shortage shifts SRAS left. Expanding AD can limit output losses but raise prices further; contracting AD can limit price pressure but worsen recession. Identify the shock rather than prescribe one policy for every inflation episode. Distinguish a one-off price-level shock from a continuing inflation process."
+        }
+      },
+      {
+        "id": "u3-19-macro-shocks-short-1",
+        "knowledgePointId": "u3-19-macro-shocks",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求冲击、供给冲击与滞胀的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Demand shocks, supply shocks and stagflation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。 先区分支出不足或成本产能问题；移动 AD 或 SRAS；政策选择面对不同目标冲突 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD 可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。",
+          "en": "A negative demand shock normally lowers output and price pressure. A negative supply shock can reduce output while raising the price level, creating stagflation pressure. Distinguish weak spending from cost/capacity problems; shift AD or SRAS; policy choices face different objective conflicts Illustrative example: an energy shortage shifts SRAS left. Expanding AD can limit output losses but raise prices further; contracting AD can limit price pressure but worsen recession. Identify the shock rather than prescribe one policy for every inflation episode."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "供给冲击",
+              "en": "supply shock"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给冲击",
+                "先区分支出不足或成本产能问题"
+              ],
+              "en": [
+                "supply shock",
+                "Distinguish weak spending from cost/capacity problems"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "产出",
+              "en": "output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产出",
+                "移动 AD 或 SRAS"
+              ],
+              "en": [
+                "output",
+                "shift AD or SRAS"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "物价",
+              "en": "prices"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "物价",
+                "政策选择面对不同目标冲突"
+              ],
+              "en": [
+                "prices",
+                "policy choices face different objective conflicts"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-20-potential-growth",
+      "slug": "potential-growth",
+      "section": "3.2",
+      "level": "core",
+      "syllabusRefs": [
+        "3.2 Aggregate demand and aggregate supply"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "9",
+          "section": "9.5",
+          "pages": [
+            290
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-02-gdp"
+      ],
+      "related": [
+        "u3-11-aggregate-demand",
+        "u3-12-consumption",
+        "u3-13-investment"
+      ],
+      "terms": [
+        "潜在增长与总供给右移",
+        "Potential growth and rightward aggregate supply shifts",
+        "生产率",
+        "productivity",
+        "产能",
+        "capacity",
+        "LRAS",
+        "LRAS"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "生产率",
+          "产能",
+          "LRAS"
+        ],
+        "en": [
+          "productivity",
+          "capacity",
+          "LRAS"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-20-potential-growth-flash-1",
+        "u3-20-potential-growth-mcq-1",
+        "u3-20-potential-growth-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-20-potential-growth",
+        "locale": "zh-CN",
+        "title": "潜在增长与总供给右移",
+        "takeaway": "资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。",
+        "definition": "资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。",
+        "causalChain": [
+          "生产要素或生产率改善",
+          "可持续生产能力增加",
+          "给定需求下增长伴随较低物价压力"
+        ],
+        "misconceptions": [
+          "实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。"
+        ],
+        "examApplication": [
+          "标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+        ],
+        "summary": [
+          "资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。",
+          "实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。"
+        ],
+        "explanation": "生产要素或生产率改善。可持续生产能力增加。给定需求下增长伴随较低物价压力。\n\n### 原创情境与推导\n\n原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。\n\n实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。\n\n标明物价水平与实际产出轴，区分 AD、SRAS、LRAS 及模型假设。"
+      },
+      "en": {
+        "id": "u3-20-potential-growth",
+        "locale": "en",
+        "title": "Potential growth and rightward aggregate supply shifts",
+        "takeaway": "More or better resources, technology and institutions can increase potential output, shifting LRAS right, and may reduce short-run unit costs, shifting SRAS right too.",
+        "definition": "More or better resources, technology and institutions can increase potential output, shifting LRAS right, and may reduce short-run unit costs, shifting SRAS right too.",
+        "causalChain": [
+          "Inputs or productivity improve",
+          "sustainable capacity expands",
+          "growth can occur with less price pressure at a given demand"
+        ],
+        "misconceptions": [
+          "Actual growth may merely close a negative gap rather than shift LRAS right."
+        ],
+        "examApplication": [
+          "Label price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+        ],
+        "summary": [
+          "More or better resources, technology and institutions can increase potential output, shifting LRAS right, and may reduce short-run unit costs, shifting SRAS right too.",
+          "Actual growth may merely close a negative gap rather than shift LRAS right."
+        ],
+        "explanation": "Inputs or productivity improve.  sustainable capacity expands.  growth can occur with less price pressure at a given demand.\n\n### Original scenario and reasoning\n\nIllustrative example: a more reliable electricity grid reduces downtime, lowering unit costs and expanding long-run capacity. More potential does not ensure immediate full utilisation; weak demand may leave actual output below the new potential.\n\nActual growth may merely close a negative gap rather than shift LRAS right.\n\nLabel price level and real output; distinguish AD, SRAS, LRAS and model assumptions."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-20-potential-growth-flash-1",
+        "knowledgePointId": "u3-20-potential-growth",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“潜在增长与总供给右移”，并说明一个关键条件。",
+          "en": "Explain Potential growth and rightward aggregate supply shifts and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。",
+          "en": "More or better resources, technology and institutions can increase potential output, shifting LRAS right, and may reduce short-run unit costs, shifting SRAS right too."
+        },
+        "explanation": {
+          "zh-CN": "实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。",
+          "en": "Actual growth may merely close a negative gap rather than shift LRAS right."
+        }
+      },
+      {
+        "id": "u3-20-potential-growth-mcq-1",
+        "knowledgePointId": "u3-20-potential-growth",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项最可能直接提高潜在产出？",
+          "en": "Which most directly raises potential output?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只有总体价格翻倍",
+            "en": "Only doubling the price level"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只增加名义支出且无资源变化",
+            "en": "Only more nominal spending with unchanged resources"
+          },
+          {
+            "id": "c",
+            "zh-CN": "闲置机器被永久销毁",
+            "en": "Permanently destroying idle machines"
+          },
+          {
+            "id": "d",
+            "zh-CN": "提高劳动力技能与技术",
+            "en": "Improved labour skills and technology"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "提高劳动力技能与技术。 原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。 实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。",
+          "en": "Improved labour skills and technology. Illustrative example: a more reliable electricity grid reduces downtime, lowering unit costs and expanding long-run capacity. More potential does not ensure immediate full utilisation; weak demand may leave actual output below the new potential. Actual growth may merely close a negative gap rather than shift LRAS right."
+        }
+      },
+      {
+        "id": "u3-20-potential-growth-short-1",
+        "knowledgePointId": "u3-20-potential-growth",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释潜在增长与总供给右移的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Potential growth and rightward aggregate supply shifts and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。 生产要素或生产率改善；可持续生产能力增加；给定需求下增长伴随较低物价压力 原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。",
+          "en": "More or better resources, technology and institutions can increase potential output, shifting LRAS right, and may reduce short-run unit costs, shifting SRAS right too. Inputs or productivity improve; sustainable capacity expands; growth can occur with less price pressure at a given demand Illustrative example: a more reliable electricity grid reduces downtime, lowering unit costs and expanding long-run capacity. More potential does not ensure immediate full utilisation; weak demand may leave actual output below the new potential."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "生产率",
+              "en": "productivity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产率",
+                "生产要素或生产率改善"
+              ],
+              "en": [
+                "productivity",
+                "Inputs or productivity improve"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "产能",
+              "en": "capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产能",
+                "可持续生产能力增加"
+              ],
+              "en": [
+                "capacity",
+                "sustainable capacity expands"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "LRAS",
+              "en": "LRAS"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "LRAS",
+                "给定需求下增长伴随较低物价压力"
+              ],
+              "en": [
+                "LRAS",
+                "growth can occur with less price pressure at a given demand"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-21-unemployment-rate",
+      "slug": "unemployment-rate",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.1",
+          "pages": [
+            298
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs",
+        "u3-24-cpi"
+      ],
+      "terms": [
+        "失业率与劳动参与率",
+        "Unemployment and participation rates",
+        "劳动力",
+        "labour force",
+        "失业",
+        "unemployment",
+        "参与",
+        "participation"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "劳动力",
+          "失业",
+          "参与"
+        ],
+        "en": [
+          "labour force",
+          "unemployment",
+          "participation"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-21-unemployment-rate-flash-1",
+        "u3-21-unemployment-rate-mcq-1",
+        "u3-21-unemployment-rate-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-21-unemployment-rate",
+        "locale": "zh-CN",
+        "title": "失业率与劳动参与率",
+        "takeaway": "失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。",
+        "definition": "失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。",
+        "causalChain": [
+          "区分就业、失业和非劳动力",
+          "用正确分母计算",
+          "参与变化可改变失业率而不反映就业同幅变化"
+        ],
+        "misconceptions": [
+          "失业率的分母不是总人口，也不是仅就业人数。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。",
+          "失业率的分母不是总人口，也不是仅就业人数。"
+        ],
+        "explanation": "区分就业、失业和非劳动力。用正确分母计算。参与变化可改变失业率而不反映就业同幅变化。\n\n### 原创情境与推导\n\n原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率 80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。\n\n失业率的分母不是总人口，也不是仅就业人数。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-21-unemployment-rate",
+        "locale": "en",
+        "title": "Unemployment and participation rates",
+        "takeaway": "The unemployment rate is unemployed people divided by the labour force times 100. The labour force includes employed people and those meeting the unemployment definition; participation uses the working-age population as denominator.",
+        "definition": "The unemployment rate is unemployed people divided by the labour force times 100. The labour force includes employed people and those meeting the unemployment definition; participation uses the working-age population as denominator.",
+        "causalChain": [
+          "Distinguish employment, unemployment and inactivity",
+          "calculate using the right denominator",
+          "participation changes can alter the rate without an equivalent employment change"
+        ],
+        "misconceptions": [
+          "The unemployment-rate denominator is neither total population nor employed people alone."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "The unemployment rate is unemployed people divided by the labour force times 100. The labour force includes employed people and those meeting the unemployment definition; participation uses the working-age population as denominator.",
+          "The unemployment-rate denominator is neither total population nor employed people alone."
+        ],
+        "explanation": "Distinguish employment, unemployment and inactivity.  calculate using the right denominator.  participation changes can alter the rate without an equivalent employment change.\n\n### Original scenario and reasoning\n\nIllustrative example: 900 employed, 100 unemployed and 1250 working-age people imply unemployment 10% and participation 80%. Discouraged workers leaving job search can lower unemployment without raising employment. Underemployment and informal work also matter.\n\nThe unemployment-rate denominator is neither total population nor employed people alone.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-21-unemployment-rate-flash-1",
+        "knowledgePointId": "u3-21-unemployment-rate",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“失业率与劳动参与率”，并说明一个关键条件。",
+          "en": "Explain Unemployment and participation rates and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。",
+          "en": "The unemployment rate is unemployed people divided by the labour force times 100. The labour force includes employed people and those meeting the unemployment definition; participation uses the working-age population as denominator."
+        },
+        "explanation": {
+          "zh-CN": "失业率的分母不是总人口，也不是仅就业人数。",
+          "en": "The unemployment-rate denominator is neither total population nor employed people alone."
+        }
+      },
+      {
+        "id": "u3-21-unemployment-rate-mcq-1",
+        "knowledgePointId": "u3-21-unemployment-rate",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "就业 180、失业 20，失业率为多少？",
+          "en": "There are 180 employed and 20 unemployed. What is the unemployment rate?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "10%",
+            "en": "10%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "11.11%",
+            "en": "11.11%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "20%",
+            "en": "20%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "90%",
+            "en": "90%"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "10%。 原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率 80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。 失业率的分母不是总人口，也不是仅就业人数。",
+          "en": "10%. Illustrative example: 900 employed, 100 unemployed and 1250 working-age people imply unemployment 10% and participation 80%. Discouraged workers leaving job search can lower unemployment without raising employment. Underemployment and informal work also matter. The unemployment-rate denominator is neither total population nor employed people alone."
+        }
+      },
+      {
+        "id": "u3-21-unemployment-rate-short-1",
+        "knowledgePointId": "u3-21-unemployment-rate",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释失业率与劳动参与率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Unemployment and participation rates and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。 区分就业、失业和非劳动力；用正确分母计算；参与变化可改变失业率而不反映就业同幅变化 原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率 80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。",
+          "en": "The unemployment rate is unemployed people divided by the labour force times 100. The labour force includes employed people and those meeting the unemployment definition; participation uses the working-age population as denominator. Distinguish employment, unemployment and inactivity; calculate using the right denominator; participation changes can alter the rate without an equivalent employment change Illustrative example: 900 employed, 100 unemployed and 1250 working-age people imply unemployment 10% and participation 80%. Discouraged workers leaving job search can lower unemployment without raising employment. Underemployment and informal work also matter."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "劳动力",
+              "en": "labour force"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "劳动力",
+                "区分就业、失业和非劳动力"
+              ],
+              "en": [
+                "labour force",
+                "Distinguish employment, unemployment and inactivity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "失业",
+              "en": "unemployment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "失业",
+                "用正确分母计算"
+              ],
+              "en": [
+                "unemployment",
+                "calculate using the right denominator"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "参与",
+              "en": "participation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "参与",
+                "参与变化可改变失业率而不反映就业同幅变化"
+              ],
+              "en": [
+                "participation",
+                "participation changes can alter the rate without an equivalent employment change"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-22-unemployment-types",
+      "slug": "unemployment-types",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.1",
+          "pages": [
+            298
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-23-unemployment-costs",
+        "u3-24-cpi"
+      ],
+      "terms": [
+        "失业类型与自然失业",
+        "Types of unemployment and natural unemployment",
+        "技能",
+        "skills",
+        "匹配",
+        "matching",
+        "需求不足",
+        "weak demand"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "技能",
+          "匹配",
+          "需求不足"
+        ],
+        "en": [
+          "skills",
+          "matching",
+          "weak demand"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-22-unemployment-types-flash-1",
+        "u3-22-unemployment-types-mcq-1",
+        "u3-22-unemployment-types-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-22-unemployment-types",
+        "locale": "zh-CN",
+        "title": "失业类型与自然失业",
+        "takeaway": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。",
+        "definition": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。",
+        "causalChain": [
+          "识别失业的主要机制",
+          "区分需求不足与匹配问题",
+          "选择与成因相符的政策"
+        ],
+        "misconceptions": [
+          "充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。",
+          "充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。"
+        ],
+        "explanation": "识别失业的主要机制。区分需求不足与匹配问题。选择与成因相符的政策。\n\n### 原创情境与推导\n\n原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。\n\n充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-22-unemployment-types",
+        "locale": "en",
+        "title": "Types of unemployment and natural unemployment",
+        "takeaway": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity.",
+        "definition": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity.",
+        "causalChain": [
+          "Identify the main mechanism",
+          "separate demand deficiency from matching problems",
+          "choose a policy that addresses the cause"
+        ],
+        "misconceptions": [
+          "Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity.",
+          "Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
+        ],
+        "explanation": "Identify the main mechanism.  separate demand deficiency from matching problems.  choose a policy that addresses the cause.\n\n### Original scenario and reasoning\n\nIllustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components.\n\nFull employment is not zero unemployment; the natural rate can change with institutions and matching conditions.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-22-unemployment-types-flash-1",
+        "knowledgePointId": "u3-22-unemployment-types",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“失业类型与自然失业”，并说明一个关键条件。",
+          "en": "Explain Types of unemployment and natural unemployment and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。",
+          "en": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity."
+        },
+        "explanation": {
+          "zh-CN": "充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。",
+          "en": "Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
+        }
+      },
+      {
+        "id": "u3-22-unemployment-types-mcq-1",
+        "knowledgePointId": "u3-22-unemployment-types",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "技能过时导致岗位与劳动者不匹配，属于什么？",
+          "en": "Obsolete skills cause a mismatch between workers and jobs. Which type is this?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "纯周期性失业",
+            "en": "Purely cyclical unemployment"
+          },
+          {
+            "id": "b",
+            "zh-CN": "结构性失业",
+            "en": "Structural unemployment"
+          },
+          {
+            "id": "c",
+            "zh-CN": "纯季节性失业",
+            "en": "Purely seasonal unemployment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "就业增加",
+            "en": "Higher employment"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "结构性失业。 原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。 充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。",
+          "en": "Structural unemployment. Illustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components. Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
+        }
+      },
+      {
+        "id": "u3-22-unemployment-types-short-1",
+        "knowledgePointId": "u3-22-unemployment-types",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释失业类型与自然失业的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Types of unemployment and natural unemployment and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。 识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策 原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。",
+          "en": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity. Identify the main mechanism; separate demand deficiency from matching problems; choose a policy that addresses the cause Illustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "技能",
+              "en": "skills"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "技能",
+                "识别失业的主要机制"
+              ],
+              "en": [
+                "skills",
+                "Identify the main mechanism"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "匹配",
+              "en": "matching"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "匹配",
+                "区分需求不足与匹配问题"
+              ],
+              "en": [
+                "matching",
+                "separate demand deficiency from matching problems"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "需求不足",
+              "en": "weak demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "需求不足",
+                "选择与成因相符的政策"
+              ],
+              "en": [
+                "weak demand",
+                "choose a policy that addresses the cause"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-23-unemployment-costs",
+      "slug": "unemployment-costs",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.1",
+          "pages": [
+            298
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-24-cpi"
+      ],
+      "terms": [
+        "失业的经济与社会成本",
+        "Economic and social costs of unemployment",
+        "收入",
+        "income",
+        "技能退化",
+        "skill loss",
+        "产出",
+        "output"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "收入",
+          "技能退化",
+          "产出"
+        ],
+        "en": [
+          "income",
+          "skill loss",
+          "output"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-23-unemployment-costs-flash-1",
+        "u3-23-unemployment-costs-mcq-1",
+        "u3-23-unemployment-costs-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-23-unemployment-costs",
+        "locale": "zh-CN",
+        "title": "失业的经济与社会成本",
+        "takeaway": "失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。",
+        "definition": "失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。",
+        "causalChain": [
+          "劳动资源未被利用",
+          "收入与需求下降",
+          "长期失业进一步损害技能和未来就业能力"
+        ],
+        "misconceptions": [
+          "财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。",
+          "财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。"
+        ],
+        "explanation": "劳动资源未被利用。收入与需求下降。长期失业进一步损害技能和未来就业能力。\n\n### 原创情境与推导\n\n原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。\n\n财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-23-unemployment-costs",
+        "locale": "en",
+        "title": "Economic and social costs of unemployment",
+        "takeaway": "Unemployment can reduce output, income and tax receipts, raise fiscal and social pressures, and cause skill loss, ill health and lasting exclusion.",
+        "definition": "Unemployment can reduce output, income and tax receipts, raise fiscal and social pressures, and cause skill loss, ill health and lasting exclusion.",
+        "causalChain": [
+          "Labour resources remain unused",
+          "income and demand fall",
+          "prolonged joblessness damages skills and future employability"
+        ],
+        "misconceptions": [
+          "Benefits can cushion household income without automatically restoring all lost output."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Unemployment can reduce output, income and tax receipts, raise fiscal and social pressures, and cause skill loss, ill health and lasting exclusion.",
+          "Benefits can cushion household income without automatically restoring all lost output."
+        ],
+        "explanation": "Labour resources remain unused.  income and demand fall.  prolonged joblessness damages skills and future employability.\n\n### Original scenario and reasoning\n\nIllustrative example: a factory closure affects workers' households, nearby shops and tax receipts. Training and job-search support may prevent a temporary shock becoming structural, but programme quality, mental health and regional vacancies affect outcomes.\n\nBenefits can cushion household income without automatically restoring all lost output.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-23-unemployment-costs-flash-1",
+        "knowledgePointId": "u3-23-unemployment-costs",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“失业的经济与社会成本”，并说明一个关键条件。",
+          "en": "Explain Economic and social costs of unemployment and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。",
+          "en": "Unemployment can reduce output, income and tax receipts, raise fiscal and social pressures, and cause skill loss, ill health and lasting exclusion."
+        },
+        "explanation": {
+          "zh-CN": "财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。",
+          "en": "Benefits can cushion household income without automatically restoring all lost output."
+        }
+      },
+      {
+        "id": "u3-23-unemployment-costs-mcq-1",
+        "knowledgePointId": "u3-23-unemployment-costs",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "长期失业可能怎样影响潜在产出？",
+          "en": "How can prolonged unemployment affect potential output?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "必然提高所有技能",
+            "en": "Necessarily improves every skill"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只改变名义价格",
+            "en": "Only changes nominal prices"
+          },
+          {
+            "id": "c",
+            "zh-CN": "技能退化可能降低潜在产出",
+            "en": "Skill loss can reduce potential output"
+          },
+          {
+            "id": "d",
+            "zh-CN": "完全没有长期影响",
+            "en": "Has no possible long-run effect"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "技能退化可能降低潜在产出。 原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。 财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。",
+          "en": "Skill loss can reduce potential output. Illustrative example: a factory closure affects workers' households, nearby shops and tax receipts. Training and job-search support may prevent a temporary shock becoming structural, but programme quality, mental health and regional vacancies affect outcomes. Benefits can cushion household income without automatically restoring all lost output."
+        }
+      },
+      {
+        "id": "u3-23-unemployment-costs-short-1",
+        "knowledgePointId": "u3-23-unemployment-costs",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释失业的经济与社会成本的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Economic and social costs of unemployment and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。 劳动资源未被利用；收入与需求下降；长期失业进一步损害技能和未来就业能力 原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。",
+          "en": "Unemployment can reduce output, income and tax receipts, raise fiscal and social pressures, and cause skill loss, ill health and lasting exclusion. Labour resources remain unused; income and demand fall; prolonged joblessness damages skills and future employability Illustrative example: a factory closure affects workers' households, nearby shops and tax receipts. Training and job-search support may prevent a temporary shock becoming structural, but programme quality, mental health and regional vacancies affect outcomes."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "劳动资源未被利用"
+              ],
+              "en": [
+                "income",
+                "Labour resources remain unused"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "技能退化",
+              "en": "skill loss"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "技能退化",
+                "收入与需求下降"
+              ],
+              "en": [
+                "skill loss",
+                "income and demand fall"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "产出",
+              "en": "output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产出",
+                "长期失业进一步损害技能和未来就业能力"
+              ],
+              "en": [
+                "output",
+                "prolonged joblessness damages skills and future employability"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-24-cpi",
+      "slug": "cpi",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.2",
+          "pages": [
+            308
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "CPI 与通胀率计算",
+        "CPI and inflation calculations",
+        "权重",
+        "weights",
+        "指数",
+        "index",
+        "百分比",
+        "percentage"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "权重",
+          "指数",
+          "百分比"
+        ],
+        "en": [
+          "weights",
+          "index",
+          "percentage"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-24-cpi-flash-1",
+        "u3-24-cpi-mcq-1",
+        "u3-24-cpi-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-24-cpi",
+        "locale": "zh-CN",
+        "title": "CPI 与通胀率计算",
+        "takeaway": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
+        "definition": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
+        "causalChain": [
+          "选定代表性商品及支出权重",
+          "计算篮子成本与指数",
+          "用相邻期指数变化计算通胀"
+        ],
+        "misconceptions": [
+          "指数增加的点数与百分比涨幅不是同一数值。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
+          "指数增加的点数与百分比涨幅不是同一数值。"
+        ],
+        "explanation": "选定代表性商品及支出权重。计算篮子成本与指数。用相邻期指数变化计算通胀。\n\n### 原创情境与推导\n\n原创例：CPI 从 120 升至 126，通胀率为 5%，不是 6%。不同家庭的能源或食品支出占比不同，实际感受可能不同；替代、新产品与质量变化也使固定篮子存在局限。\n\n指数增加的点数与百分比涨幅不是同一数值。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-24-cpi",
+        "locale": "en",
+        "title": "CPI and inflation calculations",
+        "takeaway": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness.",
+        "definition": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness.",
+        "causalChain": [
+          "Select representative goods and expenditure weights",
+          "compute basket cost and the index",
+          "calculate inflation from successive index changes"
+        ],
+        "misconceptions": [
+          "The index-point increase is not the same as the percentage increase."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness.",
+          "The index-point increase is not the same as the percentage increase."
+        ],
+        "explanation": "Select representative goods and expenditure weights.  compute basket cost and the index.  calculate inflation from successive index changes.\n\n### Original scenario and reasoning\n\nIllustrative example: CPI rises from 120 to 126, so inflation is 5%, not 6%. Households with different food and energy weights experience different changes. Substitution, new products and quality changes also limit a fixed basket.\n\nThe index-point increase is not the same as the percentage increase.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-24-cpi-flash-1",
+        "knowledgePointId": "u3-24-cpi",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“CPI 与通胀率计算”，并说明一个关键条件。",
+          "en": "Explain CPI and inflation calculations and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
+          "en": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness."
+        },
+        "explanation": {
+          "zh-CN": "指数增加的点数与百分比涨幅不是同一数值。",
+          "en": "The index-point increase is not the same as the percentage increase."
+        }
+      },
+      {
+        "id": "u3-24-cpi-mcq-1",
+        "knowledgePointId": "u3-24-cpi",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "CPI 从 150 到 156，通胀率多少？",
+          "en": "CPI rises from 150 to 156. What is inflation?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "6%",
+            "en": "6%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "56%",
+            "en": "56%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "104%",
+            "en": "104%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "4%",
+            "en": "4%"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "4%。 原创例：CPI 从 120 升至 126，通胀率为 5%，不是 6%。不同家庭的能源或食品支出占比不同，实际感受可能不同；替代、新产品与质量变化也使固定篮子存在局限。 指数增加的点数与百分比涨幅不是同一数值。",
+          "en": "4%. Illustrative example: CPI rises from 120 to 126, so inflation is 5%, not 6%. Households with different food and energy weights experience different changes. Substitution, new products and quality changes also limit a fixed basket. The index-point increase is not the same as the percentage increase."
+        }
+      },
+      {
+        "id": "u3-24-cpi-short-1",
+        "knowledgePointId": "u3-24-cpi",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释CPI 与通胀率计算的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of CPI and inflation calculations and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。 选定代表性商品及支出权重；计算篮子成本与指数；用相邻期指数变化计算通胀 原创例：CPI 从 120 升至 126，通胀率为 5%，不是 6%。不同家庭的能源或食品支出占比不同，实际感受可能不同；替代、新产品与质量变化也使固定篮子存在局限。",
+          "en": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness. Select representative goods and expenditure weights; compute basket cost and the index; calculate inflation from successive index changes Illustrative example: CPI rises from 120 to 126, so inflation is 5%, not 6%. Households with different food and energy weights experience different changes. Substitution, new products and quality changes also limit a fixed basket."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "权重",
+              "en": "weights"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "权重",
+                "选定代表性商品及支出权重"
+              ],
+              "en": [
+                "weights",
+                "Select representative goods and expenditure weights"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "指数",
+              "en": "index"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "指数",
+                "计算篮子成本与指数"
+              ],
+              "en": [
+                "index",
+                "compute basket cost and the index"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "用相邻期指数变化计算通胀"
+              ],
+              "en": [
+                "percentage",
+                "calculate inflation from successive index changes"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-25-demand-pull",
+      "slug": "demand-pull",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.2",
+          "pages": [
+            308
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "需求拉动型通胀",
+        "Demand-pull inflation",
+        "总需求",
+        "aggregate demand",
+        "产能",
+        "capacity",
+        "物价上涨",
+        "price pressure"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "总需求",
+          "产能",
+          "物价上涨"
+        ],
+        "en": [
+          "aggregate demand",
+          "capacity",
+          "price pressure"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-expansion"
+      ],
+      "quizIds": [
+        "u3-25-demand-pull-flash-1",
+        "u3-25-demand-pull-mcq-1",
+        "u3-25-demand-pull-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-25-demand-pull",
+        "locale": "zh-CN",
+        "title": "需求拉动型通胀",
+        "takeaway": "需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。",
+        "definition": "需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。",
+        "causalChain": [
+          "消费、投资或其他支出增加",
+          "AD 右移接近或超过产能",
+          "工资与价格承受上涨压力"
+        ],
+        "misconceptions": [
+          "单一商品涨价不必然意味着总体需求拉动通胀。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。",
+          "单一商品涨价不必然意味着总体需求拉动通胀。"
+        ],
+        "explanation": "消费、投资或其他支出增加。AD 右移接近或超过产能。工资与价格承受上涨压力。\n\n### 原创情境与推导\n\n原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。\n\n单一商品涨价不必然意味着总体需求拉动通胀。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-25-demand-pull",
+        "locale": "en",
+        "title": "Demand-pull inflation",
+        "takeaway": "Demand-pull inflation arises when AD grows too quickly relative to productive capacity, creating broad price pressure when supply response is constrained.",
+        "definition": "Demand-pull inflation arises when AD grows too quickly relative to productive capacity, creating broad price pressure when supply response is constrained.",
+        "causalChain": [
+          "Consumption, investment or other spending rises",
+          "AD shifts right toward or beyond capacity",
+          "wages and prices face upward pressure"
+        ],
+        "misconceptions": [
+          "A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Demand-pull inflation arises when AD grows too quickly relative to productive capacity, creating broad price pressure when supply response is constrained.",
+          "A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
+        ],
+        "explanation": "Consumption, investment or other spending rises.  AD shifts right toward or beyond capacity.  wages and prices face upward pressure.\n\n### Original scenario and reasoning\n\nIllustrative example: rapid credit and consumption growth near full employment meets limited production response, raising price pressure. With substantial spare resources, the same demand rise may generate more real growth and less inflation.\n\nA price rise in one product does not necessarily imply economy-wide demand-pull inflation.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-25-demand-pull-flash-1",
+        "knowledgePointId": "u3-25-demand-pull",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“需求拉动型通胀”，并说明一个关键条件。",
+          "en": "Explain Demand-pull inflation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。",
+          "en": "Demand-pull inflation arises when AD grows too quickly relative to productive capacity, creating broad price pressure when supply response is constrained."
+        },
+        "explanation": {
+          "zh-CN": "单一商品涨价不必然意味着总体需求拉动通胀。",
+          "en": "A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
+        }
+      },
+      {
+        "id": "u3-25-demand-pull-mcq-1",
+        "knowledgePointId": "u3-25-demand-pull",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "接近满产时 AD 大幅右移主要增加哪种风险？",
+          "en": "What risk rises when AD expands strongly near full capacity?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "需求拉动型通胀",
+            "en": "Demand-pull inflation"
+          },
+          {
+            "id": "b",
+            "zh-CN": "总体价格必降",
+            "en": "A necessary price-level fall"
+          },
+          {
+            "id": "c",
+            "zh-CN": "自然失业永远为零",
+            "en": "Permanently zero natural unemployment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "潜在产能必立刻翻倍",
+            "en": "Instantly doubled capacity"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "需求拉动型通胀。 原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。 单一商品涨价不必然意味着总体需求拉动通胀。",
+          "en": "Demand-pull inflation. Illustrative example: rapid credit and consumption growth near full employment meets limited production response, raising price pressure. With substantial spare resources, the same demand rise may generate more real growth and less inflation. A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
+        }
+      },
+      {
+        "id": "u3-25-demand-pull-short-1",
+        "knowledgePointId": "u3-25-demand-pull",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释需求拉动型通胀的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Demand-pull inflation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "需求拉动型通胀源于总需求相对生产能力增长过快，在供给反应受限时形成广泛物价上涨压力。 消费、投资或其他支出增加；AD 右移接近或超过产能；工资与价格承受上涨压力 原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。",
+          "en": "Demand-pull inflation arises when AD grows too quickly relative to productive capacity, creating broad price pressure when supply response is constrained. Consumption, investment or other spending rises; AD shifts right toward or beyond capacity; wages and prices face upward pressure Illustrative example: rapid credit and consumption growth near full employment meets limited production response, raising price pressure. With substantial spare resources, the same demand rise may generate more real growth and less inflation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "总需求",
+              "en": "aggregate demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求",
+                "消费、投资或其他支出增加"
+              ],
+              "en": [
+                "aggregate demand",
+                "Consumption, investment or other spending rises"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "产能",
+              "en": "capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产能",
+                "AD 右移接近或超过产能"
+              ],
+              "en": [
+                "capacity",
+                "AD shifts right toward or beyond capacity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "物价上涨",
+              "en": "price pressure"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "物价上涨",
+                "工资与价格承受上涨压力"
+              ],
+              "en": [
+                "price pressure",
+                "wages and prices face upward pressure"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-26-cost-push",
+      "slug": "cost-push",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.2",
+          "pages": [
+            313
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "成本推动型通胀",
+        "Cost-push inflation",
+        "单位成本",
+        "unit costs",
+        "SRAS",
+        "SRAS",
+        "生产率",
+        "productivity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "单位成本",
+          "SRAS",
+          "生产率"
+        ],
+        "en": [
+          "unit costs",
+          "SRAS",
+          "productivity"
+        ]
+      },
+      "diagramIds": [
+        "macro-supply-shock"
+      ],
+      "quizIds": [
+        "u3-26-cost-push-flash-1",
+        "u3-26-cost-push-mcq-1",
+        "u3-26-cost-push-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-26-cost-push",
+        "locale": "zh-CN",
+        "title": "成本推动型通胀",
+        "takeaway": "成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。",
+        "definition": "成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。",
+        "causalChain": [
+          "能源、工资相对生产率等成本增加",
+          "SRAS 左移",
+          "物价与失业可能同时上升"
+        ],
+        "misconceptions": [
+          "名义工资上升若被生产率提高抵消，不必增加单位劳动成本。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。",
+          "名义工资上升若被生产率提高抵消，不必增加单位劳动成本。"
+        ],
+        "explanation": "能源、工资相对生产率等成本增加。SRAS 左移。物价与失业可能同时上升。\n\n### 原创情境与推导\n\n原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。\n\n名义工资上升若被生产率提高抵消，不必增加单位劳动成本。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-26-cost-push",
+        "locale": "en",
+        "title": "Cost-push inflation",
+        "takeaway": "Cost-push inflation comes from higher unit costs or supply constraints. A leftward SRAS shift can combine price pressure with lower real output and higher unemployment.",
+        "definition": "Cost-push inflation comes from higher unit costs or supply constraints. A leftward SRAS shift can combine price pressure with lower real output and higher unemployment.",
+        "causalChain": [
+          "Energy costs or wages relative to productivity rise",
+          "SRAS shifts left",
+          "prices and unemployment may rise together"
+        ],
+        "misconceptions": [
+          "Higher nominal wages need not increase unit labour cost if offset by productivity gains."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Cost-push inflation comes from higher unit costs or supply constraints. A leftward SRAS shift can combine price pressure with lower real output and higher unemployment.",
+          "Higher nominal wages need not increase unit labour cost if offset by productivity gains."
+        ],
+        "explanation": "Energy costs or wages relative to productivity rise.  SRAS shifts left.  prices and unemployment may rise together.\n\n### Original scenario and reasoning\n\nIllustrative example: dearer transport energy affects many industries. Monetary tightening can restrain second-round demand and expectations but cannot directly produce energy and may deepen output losses. Distinguish the initial shock, expectations and continuing wage-price interactions.\n\nHigher nominal wages need not increase unit labour cost if offset by productivity gains.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-26-cost-push-flash-1",
+        "knowledgePointId": "u3-26-cost-push",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“成本推动型通胀”，并说明一个关键条件。",
+          "en": "Explain Cost-push inflation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。",
+          "en": "Cost-push inflation comes from higher unit costs or supply constraints. A leftward SRAS shift can combine price pressure with lower real output and higher unemployment."
+        },
+        "explanation": {
+          "zh-CN": "名义工资上升若被生产率提高抵消，不必增加单位劳动成本。",
+          "en": "Higher nominal wages need not increase unit labour cost if offset by productivity gains."
+        }
+      },
+      {
+        "id": "u3-26-cost-push-mcq-1",
+        "knowledgePointId": "u3-26-cost-push",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "工资涨 5%、生产率也涨约 5%，单位劳动成本怎样？",
+          "en": "Wages and productivity both rise about 5%. What happens to unit labour cost?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "必涨 10%",
+            "en": "Must rise 10%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "大致不变",
+            "en": "Approximately unchanged"
+          },
+          {
+            "id": "c",
+            "zh-CN": "必降到零",
+            "en": "Must fall to zero"
+          },
+          {
+            "id": "d",
+            "zh-CN": "无法计算任何方向即使增幅相同",
+            "en": "No inference is possible despite equal proportional changes"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "大致不变。 原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。 名义工资上升若被生产率提高抵消，不必增加单位劳动成本。",
+          "en": "Approximately unchanged. Illustrative example: dearer transport energy affects many industries. Monetary tightening can restrain second-round demand and expectations but cannot directly produce energy and may deepen output losses. Distinguish the initial shock, expectations and continuing wage-price interactions. Higher nominal wages need not increase unit labour cost if offset by productivity gains."
+        }
+      },
+      {
+        "id": "u3-26-cost-push-short-1",
+        "knowledgePointId": "u3-26-cost-push",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释成本推动型通胀的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Cost-push inflation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。 能源、工资相对生产率等成本增加；SRAS 左移；物价与失业可能同时上升 原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。",
+          "en": "Cost-push inflation comes from higher unit costs or supply constraints. A leftward SRAS shift can combine price pressure with lower real output and higher unemployment. Energy costs or wages relative to productivity rise; SRAS shifts left; prices and unemployment may rise together Illustrative example: dearer transport energy affects many industries. Monetary tightening can restrain second-round demand and expectations but cannot directly produce energy and may deepen output losses. Distinguish the initial shock, expectations and continuing wage-price interactions."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "单位成本",
+              "en": "unit costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "单位成本",
+                "能源、工资相对生产率等成本增加"
+              ],
+              "en": [
+                "unit costs",
+                "Energy costs or wages relative to productivity rise"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "SRAS",
+              "en": "SRAS"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "SRAS",
+                "SRAS 左移"
+              ],
+              "en": [
+                "SRAS",
+                "SRAS shifts left"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "生产率",
+              "en": "productivity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产率",
+                "物价与失业可能同时上升"
+              ],
+              "en": [
+                "productivity",
+                "prices and unemployment may rise together"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-27-disinflation-deflation",
+      "slug": "disinflation-deflation",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.2",
+          "pages": [
+            316
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "通胀放缓、通缩与实际债务",
+        "Disinflation, deflation and real debt",
+        "通胀放缓",
+        "disinflation",
+        "通缩",
+        "deflation",
+        "实际债务",
+        "real debt"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "通胀放缓",
+          "通缩",
+          "实际债务"
+        ],
+        "en": [
+          "disinflation",
+          "deflation",
+          "real debt"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-27-disinflation-deflation-flash-1",
+        "u3-27-disinflation-deflation-mcq-1",
+        "u3-27-disinflation-deflation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-27-disinflation-deflation",
+        "locale": "zh-CN",
+        "title": "通胀放缓、通缩与实际债务",
+        "takeaway": "通胀放缓是物价上涨速度下降；通缩是总体价格水平下降。意外通胀或通缩可改变固定名义债务的实际负担。",
+        "definition": "通胀放缓是物价上涨速度下降；通缩是总体价格水平下降。意外通胀或通缩可改变固定名义债务的实际负担。",
+        "causalChain": [
+          "区分物价水平与其变化率",
+          "通缩提高给定名义金额的购买力",
+          "实际债务与延迟支出可能加重需求疲弱"
+        ],
+        "misconceptions": [
+          "较低通胀率不等于较低价格水平。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "通胀放缓是物价上涨速度下降；通缩是总体价格水平下降。意外通胀或通缩可改变固定名义债务的实际负担。",
+          "较低通胀率不等于较低价格水平。"
+        ],
+        "explanation": "区分物价水平与其变化率。通缩提高给定名义金额的购买力。实际债务与延迟支出可能加重需求疲弱。\n\n### 原创情境与推导\n\n原创例：通胀率由 8% 到 3% 表示仍在涨价；由 3% 到 -1% 才出现通缩。若工资和收入随物价下降，固定还款负担可能更重。由生产率提高引起的降价与需求崩塌造成的通缩，政策含义不同。\n\n较低通胀率不等于较低价格水平。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-27-disinflation-deflation",
+        "locale": "en",
+        "title": "Disinflation, deflation and real debt",
+        "takeaway": "Disinflation is slower price growth; deflation is a falling general price level. Unexpected inflation or deflation can alter the real burden of fixed nominal debt.",
+        "definition": "Disinflation is slower price growth; deflation is a falling general price level. Unexpected inflation or deflation can alter the real burden of fixed nominal debt.",
+        "causalChain": [
+          "Separate the price level from its rate of change",
+          "deflation raises the purchasing power of a fixed nominal amount",
+          "real debt and delayed spending may weaken demand further"
+        ],
+        "misconceptions": [
+          "A lower inflation rate does not mean a lower price level."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Disinflation is slower price growth; deflation is a falling general price level. Unexpected inflation or deflation can alter the real burden of fixed nominal debt.",
+          "A lower inflation rate does not mean a lower price level."
+        ],
+        "explanation": "Separate the price level from its rate of change.  deflation raises the purchasing power of a fixed nominal amount.  real debt and delayed spending may weaken demand further.\n\n### Original scenario and reasoning\n\nIllustrative example: inflation falling from 8% to 3% still means prices rise; moving from 3% to -1% is deflation. Fixed repayments may become harder when wages and incomes fall. Productivity-driven price falls differ from demand-collapse deflation.\n\nA lower inflation rate does not mean a lower price level.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-27-disinflation-deflation-flash-1",
+        "knowledgePointId": "u3-27-disinflation-deflation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“通胀放缓、通缩与实际债务”，并说明一个关键条件。",
+          "en": "Explain Disinflation, deflation and real debt and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "通胀放缓是物价上涨速度下降；通缩是总体价格水平下降。意外通胀或通缩可改变固定名义债务的实际负担。",
+          "en": "Disinflation is slower price growth; deflation is a falling general price level. Unexpected inflation or deflation can alter the real burden of fixed nominal debt."
+        },
+        "explanation": {
+          "zh-CN": "较低通胀率不等于较低价格水平。",
+          "en": "A lower inflation rate does not mean a lower price level."
+        }
+      },
+      {
+        "id": "u3-27-disinflation-deflation-mcq-1",
+        "knowledgePointId": "u3-27-disinflation-deflation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "通胀从 6% 降至 2%，最准确的描述是什么？",
+          "en": "Inflation falls from 6% to 2%. What is the most accurate description?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "价格下降 4%",
+            "en": "Prices fall 4%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必然通缩",
+            "en": "Deflation necessarily"
+          },
+          {
+            "id": "c",
+            "zh-CN": "通胀放缓，价格仍上涨",
+            "en": "Disinflation; prices still rise"
+          },
+          {
+            "id": "d",
+            "zh-CN": "实际产出下降 2%",
+            "en": "Real output falls 2%"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "通胀放缓，价格仍上涨。 原创例：通胀率由 8% 到 3% 表示仍在涨价；由 3% 到 -1% 才出现通缩。若工资和收入随物价下降，固定还款负担可能更重。由生产率提高引起的降价与需求崩塌造成的通缩，政策含义不同。 较低通胀率不等于较低价格水平。",
+          "en": "Disinflation; prices still rise. Illustrative example: inflation falling from 8% to 3% still means prices rise; moving from 3% to -1% is deflation. Fixed repayments may become harder when wages and incomes fall. Productivity-driven price falls differ from demand-collapse deflation. A lower inflation rate does not mean a lower price level."
+        }
+      },
+      {
+        "id": "u3-27-disinflation-deflation-short-1",
+        "knowledgePointId": "u3-27-disinflation-deflation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释通胀放缓、通缩与实际债务的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Disinflation, deflation and real debt and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "通胀放缓是物价上涨速度下降；通缩是总体价格水平下降。意外通胀或通缩可改变固定名义债务的实际负担。 区分物价水平与其变化率；通缩提高给定名义金额的购买力；实际债务与延迟支出可能加重需求疲弱 原创例：通胀率由 8% 到 3% 表示仍在涨价；由 3% 到 -1% 才出现通缩。若工资和收入随物价下降，固定还款负担可能更重。由生产率提高引起的降价与需求崩塌造成的通缩，政策含义不同。",
+          "en": "Disinflation is slower price growth; deflation is a falling general price level. Unexpected inflation or deflation can alter the real burden of fixed nominal debt. Separate the price level from its rate of change; deflation raises the purchasing power of a fixed nominal amount; real debt and delayed spending may weaken demand further Illustrative example: inflation falling from 8% to 3% still means prices rise; moving from 3% to -1% is deflation. Fixed repayments may become harder when wages and incomes fall. Productivity-driven price falls differ from demand-collapse deflation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "通胀放缓",
+              "en": "disinflation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "通胀放缓",
+                "区分物价水平与其变化率"
+              ],
+              "en": [
+                "disinflation",
+                "Separate the price level from its rate of change"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "通缩",
+              "en": "deflation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "通缩",
+                "通缩提高给定名义金额的购买力"
+              ],
+              "en": [
+                "deflation",
+                "deflation raises the purchasing power of a fixed nominal amount"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "实际债务",
+              "en": "real debt"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际债务",
+                "实际债务与延迟支出可能加重需求疲弱"
+              ],
+              "en": [
+                "real debt",
+                "real debt and delayed spending may weaken demand further"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-28-growth-measure",
+      "slug": "growth-measure",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "11",
+          "section": "11.1",
+          "pages": [
+            332
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "实际经济增长的衡量",
+        "Measuring real economic growth",
+        "实际 GDP",
+        "real GDP",
+        "百分比",
+        "percentage",
+        "人口",
+        "population"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "实际 GDP",
+          "百分比",
+          "人口"
+        ],
+        "en": [
+          "real GDP",
+          "percentage",
+          "population"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-28-growth-measure-flash-1",
+        "u3-28-growth-measure-mcq-1",
+        "u3-28-growth-measure-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-28-growth-measure",
+        "locale": "zh-CN",
+        "title": "实际经济增长的衡量",
+        "takeaway": "实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。",
+        "definition": "实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。",
+        "causalChain": [
+          "剔除价格变化",
+          "比较相邻期间实际产出",
+          "结合人口与潜在产能判断增长性质"
+        ],
+        "misconceptions": [
+          "使用名义 GDP 增幅而不处理物价，会混淆产量与价格。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。",
+          "使用名义 GDP 增幅而不处理物价，会混淆产量与价格。"
+        ],
+        "explanation": "剔除价格变化。比较相邻期间实际产出。结合人口与潜在产能判断增长性质。\n\n### 原创情境与推导\n\n原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP 不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。\n\n使用名义 GDP 增幅而不处理物价，会混淆产量与价格。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-28-growth-measure",
+        "locale": "en",
+        "title": "Measuring real economic growth",
+        "takeaway": "Real growth is the percentage increase in real GDP. Per-capita growth also accounts for population; long-run potential growth differs from short-run recovery.",
+        "definition": "Real growth is the percentage increase in real GDP. Per-capita growth also accounts for population; long-run potential growth differs from short-run recovery.",
+        "causalChain": [
+          "Remove price changes",
+          "compare real output across periods",
+          "use population and capacity to interpret the nature of growth"
+        ],
+        "misconceptions": [
+          "Using nominal GDP growth without adjusting prices confuses volume with prices."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Real growth is the percentage increase in real GDP. Per-capita growth also accounts for population; long-run potential growth differs from short-run recovery.",
+          "Using nominal GDP growth without adjusting prices confuses volume with prices."
+        ],
+        "explanation": "Remove price changes.  compare real output across periods.  use population and capacity to interpret the nature of growth.\n\n### Original scenario and reasoning\n\nIllustrative example: real GDP rises from 800 to 840, giving growth of 5%. With population also growing 5%, real GDP per person is unchanged. Re-employing idle resources can close a gap rather than shift the production frontier.\n\nUsing nominal GDP growth without adjusting prices confuses volume with prices.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-28-growth-measure-flash-1",
+        "knowledgePointId": "u3-28-growth-measure",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“实际经济增长的衡量”，并说明一个关键条件。",
+          "en": "Explain Measuring real economic growth and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。",
+          "en": "Real growth is the percentage increase in real GDP. Per-capita growth also accounts for population; long-run potential growth differs from short-run recovery."
+        },
+        "explanation": {
+          "zh-CN": "使用名义 GDP 增幅而不处理物价，会混淆产量与价格。",
+          "en": "Using nominal GDP growth without adjusting prices confuses volume with prices."
+        }
+      },
+      {
+        "id": "u3-28-growth-measure-mcq-1",
+        "knowledgePointId": "u3-28-growth-measure",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "实际 GDP 从 500 到 525，增长率多少？",
+          "en": "Real GDP rises from 500 to 525. What is growth?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "25%",
+            "en": "25%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "105%",
+            "en": "105%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "0.05%",
+            "en": "0.05%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "5%",
+            "en": "5%"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "5%。 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP 不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。",
+          "en": "5%. Illustrative example: real GDP rises from 800 to 840, giving growth of 5%. With population also growing 5%, real GDP per person is unchanged. Re-employing idle resources can close a gap rather than shift the production frontier. Using nominal GDP growth without adjusting prices confuses volume with prices."
+        }
+      },
+      {
+        "id": "u3-28-growth-measure-short-1",
+        "knowledgePointId": "u3-28-growth-measure",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释实际经济增长的衡量的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Measuring real economic growth and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。 剔除价格变化；比较相邻期间实际产出；结合人口与潜在产能判断增长性质 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP 不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。",
+          "en": "Real growth is the percentage increase in real GDP. Per-capita growth also accounts for population; long-run potential growth differs from short-run recovery. Remove price changes; compare real output across periods; use population and capacity to interpret the nature of growth Illustrative example: real GDP rises from 800 to 840, giving growth of 5%. With population also growing 5%, real GDP per person is unchanged. Re-employing idle resources can close a gap rather than shift the production frontier."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "实际 GDP",
+              "en": "real GDP"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际 GDP",
+                "剔除价格变化"
+              ],
+              "en": [
+                "real GDP",
+                "Remove price changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "百分比",
+              "en": "percentage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "百分比",
+                "比较相邻期间实际产出"
+              ],
+              "en": [
+                "percentage",
+                "compare real output across periods"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "人口",
+              "en": "population"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "人口",
+                "结合人口与潜在产能判断增长性质"
+              ],
+              "en": [
+                "population",
+                "use population and capacity to interpret the nature of growth"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-29-growth-evaluation",
+      "slug": "growth-evaluation",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "11",
+          "section": "11.1",
+          "pages": [
+            338
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "增长的来源、收益与代价",
+        "Sources, benefits and costs of growth",
+        "生产能力",
+        "capacity",
+        "分配",
+        "distribution",
+        "环境成本",
+        "environmental costs"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "生产能力",
+          "分配",
+          "环境成本"
+        ],
+        "en": [
+          "capacity",
+          "distribution",
+          "environmental costs"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-29-growth-evaluation-flash-1",
+        "u3-29-growth-evaluation-mcq-1",
+        "u3-29-growth-evaluation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-29-growth-evaluation",
+        "locale": "zh-CN",
+        "title": "增长的来源、收益与代价",
+        "takeaway": "资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。",
+        "definition": "资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。",
+        "causalChain": [
+          "投资与创新提高生产能力",
+          "实际收入和税基扩大",
+          "结果取决于收益分配与资源环境约束"
+        ],
+        "misconceptions": [
+          "增长与发展及可持续性并非完全相同的概念。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。",
+          "增长与发展及可持续性并非完全相同的概念。"
+        ],
+        "explanation": "投资与创新提高生产能力。实际收入和税基扩大。结果取决于收益分配与资源环境约束。\n\n### 原创情境与推导\n\n原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。\n\n增长与发展及可持续性并非完全相同的概念。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-29-growth-evaluation",
+        "locale": "en",
+        "title": "Sources, benefits and costs of growth",
+        "takeaway": "Physical and human capital, technology and institutions support long-run growth. Growth can raise incomes and fiscal capacity while generating unequal gains and environmental costs.",
+        "definition": "Physical and human capital, technology and institutions support long-run growth. Growth can raise incomes and fiscal capacity while generating unequal gains and environmental costs.",
+        "causalChain": [
+          "Investment and innovation raise capacity",
+          "real incomes and the tax base expand",
+          "outcomes depend on distribution and environmental constraints"
+        ],
+        "misconceptions": [
+          "Growth, development and sustainability are not identical concepts."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Physical and human capital, technology and institutions support long-run growth. Growth can raise incomes and fiscal capacity while generating unequal gains and environmental costs.",
+          "Growth, development and sustainability are not identical concepts."
+        ],
+        "explanation": "Investment and innovation raise capacity.  real incomes and the tax base expand.  outcomes depend on distribution and environmental constraints.\n\n### Original scenario and reasoning\n\nIllustrative example: automation raises output but removes some jobs. Retraining, transferable skills and mobility affect how widely gains are shared. Cleaner technology lowers emissions per unit, but output expansion may offset part of the environmental improvement.\n\nGrowth, development and sustainability are not identical concepts.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-29-growth-evaluation-flash-1",
+        "knowledgePointId": "u3-29-growth-evaluation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“增长的来源、收益与代价”，并说明一个关键条件。",
+          "en": "Explain Sources, benefits and costs of growth and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。",
+          "en": "Physical and human capital, technology and institutions support long-run growth. Growth can raise incomes and fiscal capacity while generating unequal gains and environmental costs."
+        },
+        "explanation": {
+          "zh-CN": "增长与发展及可持续性并非完全相同的概念。",
+          "en": "Growth, development and sustainability are not identical concepts."
+        }
+      },
+      {
+        "id": "u3-29-growth-evaluation-mcq-1",
+        "knowledgePointId": "u3-29-growth-evaluation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评价增长是否改善福利时，哪项最有用？",
+          "en": "Which is most useful in judging whether growth improves welfare?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "结合人均收益、分配与环境成本",
+            "en": "Consider per-capita gains, distribution and environmental costs"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只看名义产值",
+            "en": "Only nominal output"
+          },
+          {
+            "id": "c",
+            "zh-CN": "假设所有人等量受益",
+            "en": "Assume identical gains for everyone"
+          },
+          {
+            "id": "d",
+            "zh-CN": "忽略机会成本",
+            "en": "Ignore opportunity cost"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "结合人均收益、分配与环境成本。 原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。 增长与发展及可持续性并非完全相同的概念。",
+          "en": "Consider per-capita gains, distribution and environmental costs. Illustrative example: automation raises output but removes some jobs. Retraining, transferable skills and mobility affect how widely gains are shared. Cleaner technology lowers emissions per unit, but output expansion may offset part of the environmental improvement. Growth, development and sustainability are not identical concepts."
+        }
+      },
+      {
+        "id": "u3-29-growth-evaluation-short-1",
+        "knowledgePointId": "u3-29-growth-evaluation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释增长的来源、收益与代价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Sources, benefits and costs of growth and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。 投资与创新提高生产能力；实际收入和税基扩大；结果取决于收益分配与资源环境约束 原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。",
+          "en": "Physical and human capital, technology and institutions support long-run growth. Growth can raise incomes and fiscal capacity while generating unequal gains and environmental costs. Investment and innovation raise capacity; real incomes and the tax base expand; outcomes depend on distribution and environmental constraints Illustrative example: automation raises output but removes some jobs. Retraining, transferable skills and mobility affect how widely gains are shared. Cleaner technology lowers emissions per unit, but output expansion may offset part of the environmental improvement."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "生产能力",
+              "en": "capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产能力",
+                "投资与创新提高生产能力"
+              ],
+              "en": [
+                "capacity",
+                "Investment and innovation raise capacity"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "分配",
+              "en": "distribution"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分配",
+                "实际收入和税基扩大"
+              ],
+              "en": [
+                "distribution",
+                "real incomes and the tax base expand"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "环境成本",
+              "en": "environmental costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "环境成本",
+                "结果取决于收益分配与资源环境约束"
+              ],
+              "en": [
+                "environmental costs",
+                "outcomes depend on distribution and environmental constraints"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-30-public-debt",
+      "slug": "public-debt",
+      "section": "3.3",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "11",
+          "section": "11.2",
+          "pages": [
+            346
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "政府债务与可持续性",
+        "Government debt and sustainability",
+        "存量",
+        "stock",
+        "赤字",
+        "deficit",
+        "增长",
+        "growth"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "存量",
+          "赤字",
+          "增长"
+        ],
+        "en": [
+          "stock",
+          "deficit",
+          "growth"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-30-public-debt-flash-1",
+        "u3-30-public-debt-mcq-1",
+        "u3-30-public-debt-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-30-public-debt",
+        "locale": "zh-CN",
+        "title": "政府债务与可持续性",
+        "takeaway": "预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。",
+        "definition": "预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。",
+        "causalChain": [
+          "赤字通常增加融资需求",
+          "债务存量产生利息",
+          "增长与初级余额共同影响债务占 GDP 比率"
+        ],
+        "misconceptions": [
+          "政府债务增加不意味着债务占 GDP 比率必然增加。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。",
+          "政府债务增加不意味着债务占 GDP 比率必然增加。"
+        ],
+        "explanation": "赤字通常增加融资需求。债务存量产生利息。增长与初级余额共同影响债务占 GDP 比率。\n\n### 原创情境与推导\n\n原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约 57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。\n\n政府债务增加不意味着债务占 GDP 比率必然增加。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-30-public-debt",
+        "locale": "en",
+        "title": "Government debt and sustainability",
+        "takeaway": "A budget deficit is a flow of spending above revenue over a period; public debt is an accumulated stock. Sustainability depends on growth, interest rates, the primary balance, currency and repayment capacity.",
+        "definition": "A budget deficit is a flow of spending above revenue over a period; public debt is an accumulated stock. Sustainability depends on growth, interest rates, the primary balance, currency and repayment capacity.",
+        "causalChain": [
+          "Deficits normally increase financing needs",
+          "debt stocks generate interest costs",
+          "growth and primary balances jointly affect the debt-to-GDP ratio"
+        ],
+        "misconceptions": [
+          "More government debt does not necessarily imply a higher debt-to-GDP ratio."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "A budget deficit is a flow of spending above revenue over a period; public debt is an accumulated stock. Sustainability depends on growth, interest rates, the primary balance, currency and repayment capacity.",
+          "More government debt does not necessarily imply a higher debt-to-GDP ratio."
+        ],
+        "explanation": "Deficits normally increase financing needs.  debt stocks generate interest costs.  growth and primary balances jointly affect the debt-to-GDP ratio.\n\n### Original scenario and reasoning\n\nIllustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is no universal safe threshold; use of borrowing, maturity and credibility matter.\n\nMore government debt does not necessarily imply a higher debt-to-GDP ratio.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-30-public-debt-flash-1",
+        "knowledgePointId": "u3-30-public-debt",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“政府债务与可持续性”，并说明一个关键条件。",
+          "en": "Explain Government debt and sustainability and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。",
+          "en": "A budget deficit is a flow of spending above revenue over a period; public debt is an accumulated stock. Sustainability depends on growth, interest rates, the primary balance, currency and repayment capacity."
+        },
+        "explanation": {
+          "zh-CN": "政府债务增加不意味着债务占 GDP 比率必然增加。",
+          "en": "More government debt does not necessarily imply a higher debt-to-GDP ratio."
+        }
+      },
+      {
+        "id": "u3-30-public-debt-mcq-1",
+        "knowledgePointId": "u3-30-public-debt",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "债务 240、GDP 400，债务率多少？",
+          "en": "Debt is 240 and GDP 400. What is the debt ratio?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "40%",
+            "en": "40%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "60%",
+            "en": "60%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "166.7%",
+            "en": "166.7%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "640%",
+            "en": "640%"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "60%。 原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约 57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。 政府债务增加不意味着债务占 GDP 比率必然增加。",
+          "en": "60%. Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is no universal safe threshold; use of borrowing, maturity and credibility matter. More government debt does not necessarily imply a higher debt-to-GDP ratio."
+        }
+      },
+      {
+        "id": "u3-30-public-debt-short-1",
+        "knowledgePointId": "u3-30-public-debt",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释政府债务与可持续性的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Government debt and sustainability and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "预算赤字是一定期间支出超过收入的流量，公共债务是累积存量。债务可持续性取决于增长、利率、初级余额、币种与偿付能力等。 赤字通常增加融资需求；债务存量产生利息；增长与初级余额共同影响债务占 GDP 比率 原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约 57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。",
+          "en": "A budget deficit is a flow of spending above revenue over a period; public debt is an accumulated stock. Sustainability depends on growth, interest rates, the primary balance, currency and repayment capacity. Deficits normally increase financing needs; debt stocks generate interest costs; growth and primary balances jointly affect the debt-to-GDP ratio Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is no universal safe threshold; use of borrowing, maturity and credibility matter."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "存量",
+              "en": "stock"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "存量",
+                "赤字通常增加融资需求"
+              ],
+              "en": [
+                "stock",
+                "Deficits normally increase financing needs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "赤字",
+              "en": "deficit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "赤字",
+                "债务存量产生利息"
+              ],
+              "en": [
+                "deficit",
+                "debt stocks generate interest costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "增长",
+              "en": "growth"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "增长",
+                "增长与初级余额共同影响债务占 GDP 比率"
+              ],
+              "en": [
+                "growth",
+                "growth and primary balances jointly affect the debt-to-GDP ratio"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-31-phillips-curve",
+      "slug": "phillips-curve",
+      "section": "3.3",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.3",
+          "pages": [
+            322
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "短期与长期菲利普斯曲线",
+        "Short-run and long-run Phillips curves",
+        "预期",
+        "expectations",
+        "自然失业率",
+        "natural rate",
+        "长期",
+        "long run"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "预期",
+          "自然失业率",
+          "长期"
+        ],
+        "en": [
+          "expectations",
+          "natural rate",
+          "long run"
+        ]
+      },
+      "diagramIds": [
+        "macro-phillips"
+      ],
+      "quizIds": [
+        "u3-31-phillips-curve-flash-1",
+        "u3-31-phillips-curve-mcq-1",
+        "u3-31-phillips-curve-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-31-phillips-curve",
+        "locale": "zh-CN",
+        "title": "短期与长期菲利普斯曲线",
+        "takeaway": "短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。",
+        "definition": "短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。",
+        "causalChain": [
+          "需求扩张短期减少周期性失业",
+          "工资价格预期随后调整",
+          "短期曲线移动使长期权衡消失"
+        ],
+        "misconceptions": [
+          "菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。",
+          "菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。"
+        ],
+        "explanation": "需求扩张短期减少周期性失业。工资价格预期随后调整。短期曲线移动使长期权衡消失。\n\n### 原创情境与推导\n\n原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC 上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。\n\n菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-31-phillips-curve",
+        "locale": "en",
+        "title": "Short-run and long-run Phillips curves",
+        "takeaway": "The short-run Phillips curve describes an inverse inflation–unemployment relationship at given expectations and supply conditions. In the expectations-adjusted long-run model, the curve is vertical at the natural rate.",
+        "definition": "The short-run Phillips curve describes an inverse inflation–unemployment relationship at given expectations and supply conditions. In the expectations-adjusted long-run model, the curve is vertical at the natural rate.",
+        "causalChain": [
+          "Demand expansion initially reduces cyclical unemployment",
+          "wage-price expectations adjust",
+          "the short-run curve shifts, removing the permanent long-run trade-off"
+        ],
+        "misconceptions": [
+          "Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "The short-run Phillips curve describes an inverse inflation–unemployment relationship at given expectations and supply conditions. In the expectations-adjusted long-run model, the curve is vertical at the natural rate.",
+          "Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
+        ],
+        "explanation": "Demand expansion initially reduces cyclical unemployment.  wage-price expectations adjust.  the short-run curve shifts, removing the permanent long-run trade-off.\n\n### Original scenario and reasoning\n\nIllustrative example: policy temporarily pushes unemployment below the natural rate, then expected inflation rises and SRPC shifts up. An energy shock can raise both inflation and unemployment, so one short-run curve is not a permanently stable policy menu.\n\nPhillips curves use inflation on the vertical axis; AD–AS uses the price level.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-31-phillips-curve-flash-1",
+        "knowledgePointId": "u3-31-phillips-curve",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“短期与长期菲利普斯曲线”，并说明一个关键条件。",
+          "en": "Explain Short-run and long-run Phillips curves and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。",
+          "en": "The short-run Phillips curve describes an inverse inflation–unemployment relationship at given expectations and supply conditions. In the expectations-adjusted long-run model, the curve is vertical at the natural rate."
+        },
+        "explanation": {
+          "zh-CN": "菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。",
+          "en": "Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
+        }
+      },
+      {
+        "id": "u3-31-phillips-curve-mcq-1",
+        "knowledgePointId": "u3-31-phillips-curve",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "长期菲利普斯曲线垂直表示什么？",
+          "en": "What does a vertical long-run Phillips curve imply?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "通胀永远为零",
+            "en": "Inflation is always zero"
+          },
+          {
+            "id": "b",
+            "zh-CN": "失业永远为零",
+            "en": "Unemployment is always zero"
+          },
+          {
+            "id": "c",
+            "zh-CN": "不存在永久的通胀—失业权衡",
+            "en": "No permanent inflation–unemployment trade-off"
+          },
+          {
+            "id": "d",
+            "zh-CN": "短期供给冲击不可能发生",
+            "en": "Short-run supply shocks cannot occur"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "不存在永久的通胀—失业权衡。 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC 上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。",
+          "en": "No permanent inflation–unemployment trade-off. Illustrative example: policy temporarily pushes unemployment below the natural rate, then expected inflation rises and SRPC shifts up. An energy shock can raise both inflation and unemployment, so one short-run curve is not a permanently stable policy menu. Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
+        }
+      },
+      {
+        "id": "u3-31-phillips-curve-short-1",
+        "knowledgePointId": "u3-31-phillips-curve",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释短期与长期菲利普斯曲线的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Short-run and long-run Phillips curves and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。 需求扩张短期减少周期性失业；工资价格预期随后调整；短期曲线移动使长期权衡消失 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC 上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。",
+          "en": "The short-run Phillips curve describes an inverse inflation–unemployment relationship at given expectations and supply conditions. In the expectations-adjusted long-run model, the curve is vertical at the natural rate. Demand expansion initially reduces cyclical unemployment; wage-price expectations adjust; the short-run curve shifts, removing the permanent long-run trade-off Illustrative example: policy temporarily pushes unemployment below the natural rate, then expected inflation rises and SRPC shifts up. An energy shock can raise both inflation and unemployment, so one short-run curve is not a permanently stable policy menu."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "预期",
+              "en": "expectations"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "预期",
+                "需求扩张短期减少周期性失业"
+              ],
+              "en": [
+                "expectations",
+                "Demand expansion initially reduces cyclical unemployment"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "自然失业率",
+              "en": "natural rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自然失业率",
+                "工资价格预期随后调整"
+              ],
+              "en": [
+                "natural rate",
+                "wage-price expectations adjust"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "长期",
+              "en": "long run"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期",
+                "短期曲线移动使长期权衡消失"
+              ],
+              "en": [
+                "long run",
+                "the short-run curve shifts, removing the permanent long-run trade-off"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-32-objective-conflicts",
+      "slug": "objective-conflicts",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "11",
+          "section": "11.3",
+          "pages": [
+            350
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "宏观目标的冲突与协同",
+        "Conflicts and complementarities among objectives",
+        "目标",
+        "objectives",
+        "短期",
+        "short run",
+        "生产率",
+        "productivity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "目标",
+          "短期",
+          "生产率"
+        ],
+        "en": [
+          "objectives",
+          "short run",
+          "productivity"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-32-objective-conflicts-flash-1",
+        "u3-32-objective-conflicts-mcq-1",
+        "u3-32-objective-conflicts-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-32-objective-conflicts",
+        "locale": "zh-CN",
+        "title": "宏观目标的冲突与协同",
+        "takeaway": "增长、低失业、价格稳定、公平、可持续性与债务目标可能冲突，也可能因生产率改善等共同推进；权衡依赖起点、冲击和时间。",
+        "definition": "增长、低失业、价格稳定、公平、可持续性与债务目标可能冲突，也可能因生产率改善等共同推进；权衡依赖起点、冲击和时间。",
+        "causalChain": [
+          "明确政策作用渠道",
+          "辨认各目标受影响方向",
+          "比较短期权衡与长期协同"
+        ],
+        "misconceptions": [
+          "目标之间的关系不是固定不变的，评价应写明条件。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "增长、低失业、价格稳定、公平、可持续性与债务目标可能冲突，也可能因生产率改善等共同推进；权衡依赖起点、冲击和时间。",
+          "目标之间的关系不是固定不变的，评价应写明条件。"
+        ],
+        "explanation": "明确政策作用渠道。辨认各目标受影响方向。比较短期权衡与长期协同。\n\n### 原创情境与推导\n\n原创例：扩张财政在负缺口时可增加就业，在满产时却更易推升物价。教育支出增加短期赤字，但若有效提高生产率，也可能扩大长期税基。不能仅凭一个目标改善就判定政策成功。\n\n目标之间的关系不是固定不变的，评价应写明条件。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-32-objective-conflicts",
+        "locale": "en",
+        "title": "Conflicts and complementarities among objectives",
+        "takeaway": "Growth, low unemployment, price stability, equity, sustainability and debt objectives can conflict or complement one another. Trade-offs depend on starting conditions, shocks and time horizons.",
+        "definition": "Growth, low unemployment, price stability, equity, sustainability and debt objectives can conflict or complement one another. Trade-offs depend on starting conditions, shocks and time horizons.",
+        "causalChain": [
+          "Specify the policy channel",
+          "identify effects on each objective",
+          "compare short-run trade-offs with long-run complementarities"
+        ],
+        "misconceptions": [
+          "Relationships between objectives are not fixed; state the conditions in evaluation."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "Growth, low unemployment, price stability, equity, sustainability and debt objectives can conflict or complement one another. Trade-offs depend on starting conditions, shocks and time horizons.",
+          "Relationships between objectives are not fixed; state the conditions in evaluation."
+        ],
+        "explanation": "Specify the policy channel.  identify effects on each objective.  compare short-run trade-offs with long-run complementarities.\n\n### Original scenario and reasoning\n\nIllustrative example: fiscal expansion can raise employment in a negative gap but more readily raise prices at capacity. Education spending increases the short-run deficit yet may expand the future tax base if it improves productivity. One improved objective alone does not establish success.\n\nRelationships between objectives are not fixed; state the conditions in evaluation.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-32-objective-conflicts-flash-1",
+        "knowledgePointId": "u3-32-objective-conflicts",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“宏观目标的冲突与协同”，并说明一个关键条件。",
+          "en": "Explain Conflicts and complementarities among objectives and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "增长、低失业、价格稳定、公平、可持续性与债务目标可能冲突，也可能因生产率改善等共同推进；权衡依赖起点、冲击和时间。",
+          "en": "Growth, low unemployment, price stability, equity, sustainability and debt objectives can conflict or complement one another. Trade-offs depend on starting conditions, shocks and time horizons."
+        },
+        "explanation": {
+          "zh-CN": "目标之间的关系不是固定不变的，评价应写明条件。",
+          "en": "Relationships between objectives are not fixed; state the conditions in evaluation."
+        }
+      },
+      {
+        "id": "u3-32-objective-conflicts-mcq-1",
+        "knowledgePointId": "u3-32-objective-conflicts",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪种政策更可能同时提高潜力并缓解长期物价压力？",
+          "en": "Which may raise capacity while easing long-run price pressure?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "满产时只增加名义需求",
+            "en": "Only more nominal demand at capacity"
+          },
+          {
+            "id": "b",
+            "zh-CN": "永久降低全部技能",
+            "en": "Permanently reducing skills"
+          },
+          {
+            "id": "c",
+            "zh-CN": "任意放弃成本评估",
+            "en": "Abandoning cost assessment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "有效提高生产率的投资",
+            "en": "Effective productivity-enhancing investment"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "有效提高生产率的投资。 原创例：扩张财政在负缺口时可增加就业，在满产时却更易推升物价。教育支出增加短期赤字，但若有效提高生产率，也可能扩大长期税基。不能仅凭一个目标改善就判定政策成功。 目标之间的关系不是固定不变的，评价应写明条件。",
+          "en": "Effective productivity-enhancing investment. Illustrative example: fiscal expansion can raise employment in a negative gap but more readily raise prices at capacity. Education spending increases the short-run deficit yet may expand the future tax base if it improves productivity. One improved objective alone does not establish success. Relationships between objectives are not fixed; state the conditions in evaluation."
+        }
+      },
+      {
+        "id": "u3-32-objective-conflicts-short-1",
+        "knowledgePointId": "u3-32-objective-conflicts",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释宏观目标的冲突与协同的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Conflicts and complementarities among objectives and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "增长、低失业、价格稳定、公平、可持续性与债务目标可能冲突，也可能因生产率改善等共同推进；权衡依赖起点、冲击和时间。 明确政策作用渠道；辨认各目标受影响方向；比较短期权衡与长期协同 原创例：扩张财政在负缺口时可增加就业，在满产时却更易推升物价。教育支出增加短期赤字，但若有效提高生产率，也可能扩大长期税基。不能仅凭一个目标改善就判定政策成功。",
+          "en": "Growth, low unemployment, price stability, equity, sustainability and debt objectives can conflict or complement one another. Trade-offs depend on starting conditions, shocks and time horizons. Specify the policy channel; identify effects on each objective; compare short-run trade-offs with long-run complementarities Illustrative example: fiscal expansion can raise employment in a negative gap but more readily raise prices at capacity. Education spending increases the short-run deficit yet may expand the future tax base if it improves productivity. One improved objective alone does not establish success."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "目标",
+              "en": "objectives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "目标",
+                "明确政策作用渠道"
+              ],
+              "en": [
+                "objectives",
+                "Specify the policy channel"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "短期",
+              "en": "short run"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "短期",
+                "辨认各目标受影响方向"
+              ],
+              "en": [
+                "short run",
+                "identify effects on each objective"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "生产率",
+              "en": "productivity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产率",
+                "比较短期权衡与长期协同"
+              ],
+              "en": [
+                "productivity",
+                "compare short-run trade-offs with long-run complementarities"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-33-poverty",
+      "slug": "poverty",
+      "section": "3.4",
+      "level": "core",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.2",
+          "pages": [
+            359
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-34-inequality-causes",
+        "u3-35-lorenz-gini",
+        "u3-36-poverty-effects"
+      ],
+      "terms": [
+        "绝对贫困与相对贫困",
+        "Absolute and relative poverty",
+        "基本需要",
+        "basic needs",
+        "中位收入",
+        "median income",
+        "相对",
+        "relative"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "基本需要",
+          "中位收入",
+          "相对"
+        ],
+        "en": [
+          "basic needs",
+          "median income",
+          "relative"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-33-poverty-flash-1",
+        "u3-33-poverty-mcq-1",
+        "u3-33-poverty-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-33-poverty",
+        "locale": "zh-CN",
+        "title": "绝对贫困与相对贫困",
+        "takeaway": "绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。",
+        "definition": "绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。",
+        "causalChain": [
+          "选择明确的贫困标准",
+          "比较家庭资源和需求",
+          "区分基本匮乏与社会相对排斥"
+        ],
+        "misconceptions": [
+          "贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。",
+          "贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。"
+        ],
+        "explanation": "选择明确的贫困标准。比较家庭资源和需求。区分基本匮乏与社会相对排斥。\n\n### 原创情境与推导\n\n原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。\n\n贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-33-poverty",
+        "locale": "en",
+        "title": "Absolute and relative poverty",
+        "takeaway": "Absolute poverty uses a minimum-resource standard for basic needs; relative poverty compares resources with typical living standards in a society. They answer different questions.",
+        "definition": "Absolute poverty uses a minimum-resource standard for basic needs; relative poverty compares resources with typical living standards in a society. They answer different questions.",
+        "causalChain": [
+          "Choose an explicit poverty standard",
+          "compare household resources and needs",
+          "distinguish basic deprivation from relative social exclusion"
+        ],
+        "misconceptions": [
+          "Poverty and inequality are related but distinct: everyone can be equally poor."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "Absolute poverty uses a minimum-resource standard for basic needs; relative poverty compares resources with typical living standards in a society. They answer different questions.",
+          "Poverty and inequality are related but distinct: everyone can be equally poor."
+        ],
+        "explanation": "Choose an explicit poverty standard.  compare household resources and needs.  distinguish basic deprivation from relative social exclusion.\n\n### Original scenario and reasoning\n\nIllustrative example: median income rises while a household's real income stays unchanged. Its relative position may worsen without necessarily losing the ability to buy basic food. Poverty thresholds depend on prices, household size and public services; an old monetary threshold is not timeless.\n\nPoverty and inequality are related but distinct: everyone can be equally poor.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-33-poverty-flash-1",
+        "knowledgePointId": "u3-33-poverty",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“绝对贫困与相对贫困”，并说明一个关键条件。",
+          "en": "Explain Absolute and relative poverty and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。",
+          "en": "Absolute poverty uses a minimum-resource standard for basic needs; relative poverty compares resources with typical living standards in a society. They answer different questions."
+        },
+        "explanation": {
+          "zh-CN": "贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。",
+          "en": "Poverty and inequality are related but distinct: everyone can be equally poor."
+        }
+      },
+      {
+        "id": "u3-33-poverty-mcq-1",
+        "knowledgePointId": "u3-33-poverty",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "按中位收入一定比例界定贫困，属于哪类？",
+          "en": "A threshold defined as a share of median income measures which poverty?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "相对贫困",
+            "en": "Relative poverty"
+          },
+          {
+            "id": "b",
+            "zh-CN": "只可能是绝对贫困",
+            "en": "Only absolute poverty"
+          },
+          {
+            "id": "c",
+            "zh-CN": "仅衡量通胀",
+            "en": "Only inflation"
+          },
+          {
+            "id": "d",
+            "zh-CN": "与收入无关",
+            "en": "Unrelated to income"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "相对贫困。 原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。 贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。",
+          "en": "Relative poverty. Illustrative example: median income rises while a household's real income stays unchanged. Its relative position may worsen without necessarily losing the ability to buy basic food. Poverty thresholds depend on prices, household size and public services; an old monetary threshold is not timeless. Poverty and inequality are related but distinct: everyone can be equally poor."
+        }
+      },
+      {
+        "id": "u3-33-poverty-short-1",
+        "knowledgePointId": "u3-33-poverty",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释绝对贫困与相对贫困的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Absolute and relative poverty and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。 选择明确的贫困标准；比较家庭资源和需求；区分基本匮乏与社会相对排斥 原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。",
+          "en": "Absolute poverty uses a minimum-resource standard for basic needs; relative poverty compares resources with typical living standards in a society. They answer different questions. Choose an explicit poverty standard; compare household resources and needs; distinguish basic deprivation from relative social exclusion Illustrative example: median income rises while a household's real income stays unchanged. Its relative position may worsen without necessarily losing the ability to buy basic food. Poverty thresholds depend on prices, household size and public services; an old monetary threshold is not timeless."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "基本需要",
+              "en": "basic needs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "基本需要",
+                "选择明确的贫困标准"
+              ],
+              "en": [
+                "basic needs",
+                "Choose an explicit poverty standard"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "中位收入",
+              "en": "median income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "中位收入",
+                "比较家庭资源和需求"
+              ],
+              "en": [
+                "median income",
+                "compare household resources and needs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "相对",
+              "en": "relative"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "相对",
+                "区分基本匮乏与社会相对排斥"
+              ],
+              "en": [
+                "relative",
+                "distinguish basic deprivation from relative social exclusion"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-34-inequality-causes",
+      "slug": "inequality-causes",
+      "section": "3.4",
+      "level": "core",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.3",
+          "pages": [
+            365
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-33-poverty",
+        "u3-35-lorenz-gini",
+        "u3-36-poverty-effects"
+      ],
+      "terms": [
+        "不平等与贫困的成因",
+        "Causes of inequality and poverty",
+        "机会",
+        "opportunity",
+        "教育",
+        "education",
+        "收入",
+        "income"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "机会",
+          "教育",
+          "收入"
+        ],
+        "en": [
+          "opportunity",
+          "education",
+          "income"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-34-inequality-causes-flash-1",
+        "u3-34-inequality-causes-mcq-1",
+        "u3-34-inequality-causes-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-34-inequality-causes",
+        "locale": "zh-CN",
+        "title": "不平等与贫困的成因",
+        "takeaway": "资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。",
+        "definition": "资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。",
+        "causalChain": [
+          "初始资源与机会不同",
+          "技能和收入积累出现差异",
+          "收入不足又限制下一轮教育和健康投入"
+        ],
+        "misconceptions": [
+          "收入差异不能仅凭表面相关性归因于某一个因素。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。",
+          "收入差异不能仅凭表面相关性归因于某一个因素。"
+        ],
+        "explanation": "初始资源与机会不同。技能和收入积累出现差异。收入不足又限制下一轮教育和健康投入。\n\n### 原创情境与推导\n\n原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。\n\n收入差异不能仅凭表面相关性归因于某一个因素。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-34-inequality-causes",
+        "locale": "en",
+        "title": "Causes of inequality and poverty",
+        "takeaway": "Assets, education, health, discrimination, institutions, regional opportunity and unemployment shape income and wealth. Poverty can limit human-capital investment and persist across generations.",
+        "definition": "Assets, education, health, discrimination, institutions, regional opportunity and unemployment shape income and wealth. Poverty can limit human-capital investment and persist across generations.",
+        "causalChain": [
+          "Initial resources and opportunities differ",
+          "skills and incomes accumulate unequally",
+          "low income then limits further education and health investment"
+        ],
+        "misconceptions": [
+          "Observed income differences cannot be attributed to one cause from correlation alone."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "Assets, education, health, discrimination, institutions, regional opportunity and unemployment shape income and wealth. Poverty can limit human-capital investment and persist across generations.",
+          "Observed income differences cannot be attributed to one cause from correlation alone."
+        ],
+        "explanation": "Initial resources and opportunities differ.  skills and incomes accumulate unequally.  low income then limits further education and health investment.\n\n### Original scenario and reasoning\n\nIllustrative example: missing transport and digital access restrict a child's training and future employment. This mechanism does not reduce outcomes to personal motivation. Policy should identify credit, information, service-supply and discrimination barriers.\n\nObserved income differences cannot be attributed to one cause from correlation alone.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-34-inequality-causes-flash-1",
+        "knowledgePointId": "u3-34-inequality-causes",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“不平等与贫困的成因”，并说明一个关键条件。",
+          "en": "Explain Causes of inequality and poverty and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。",
+          "en": "Assets, education, health, discrimination, institutions, regional opportunity and unemployment shape income and wealth. Poverty can limit human-capital investment and persist across generations."
+        },
+        "explanation": {
+          "zh-CN": "收入差异不能仅凭表面相关性归因于某一个因素。",
+          "en": "Observed income differences cannot be attributed to one cause from correlation alone."
+        }
+      },
+      {
+        "id": "u3-34-inequality-causes-mcq-1",
+        "knowledgePointId": "u3-34-inequality-causes",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪个机制可使贫困跨代持续？",
+          "en": "Which mechanism can perpetuate poverty across generations?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "贫困必然提高全部技能",
+            "en": "Poverty necessarily improves all skills"
+          },
+          {
+            "id": "b",
+            "zh-CN": "低收入限制教育投资并压低未来收入",
+            "en": "Low income limits education investment and future earnings"
+          },
+          {
+            "id": "c",
+            "zh-CN": "资源差异完全不存在",
+            "en": "Resource differences do not exist"
+          },
+          {
+            "id": "d",
+            "zh-CN": "只有价格水平决定技能",
+            "en": "Only the price level determines skills"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "低收入限制教育投资并压低未来收入。 原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。 收入差异不能仅凭表面相关性归因于某一个因素。",
+          "en": "Low income limits education investment and future earnings. Illustrative example: missing transport and digital access restrict a child's training and future employment. This mechanism does not reduce outcomes to personal motivation. Policy should identify credit, information, service-supply and discrimination barriers. Observed income differences cannot be attributed to one cause from correlation alone."
+        }
+      },
+      {
+        "id": "u3-34-inequality-causes-short-1",
+        "knowledgePointId": "u3-34-inequality-causes",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释不平等与贫困的成因的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Causes of inequality and poverty and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。 初始资源与机会不同；技能和收入积累出现差异；收入不足又限制下一轮教育和健康投入 原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。",
+          "en": "Assets, education, health, discrimination, institutions, regional opportunity and unemployment shape income and wealth. Poverty can limit human-capital investment and persist across generations. Initial resources and opportunities differ; skills and incomes accumulate unequally; low income then limits further education and health investment Illustrative example: missing transport and digital access restrict a child's training and future employment. This mechanism does not reduce outcomes to personal motivation. Policy should identify credit, information, service-supply and discrimination barriers."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "机会",
+              "en": "opportunity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "机会",
+                "初始资源与机会不同"
+              ],
+              "en": [
+                "opportunity",
+                "Initial resources and opportunities differ"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "教育",
+              "en": "education"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "教育",
+                "技能和收入积累出现差异"
+              ],
+              "en": [
+                "education",
+                "skills and incomes accumulate unequally"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "收入",
+              "en": "income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入",
+                "收入不足又限制下一轮教育和健康投入"
+              ],
+              "en": [
+                "income",
+                "low income then limits further education and health investment"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-35-lorenz-gini",
+      "slug": "lorenz-gini",
+      "section": "3.4",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.1",
+          "pages": [
+            353
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-33-poverty",
+        "u3-34-inequality-causes",
+        "u3-36-poverty-effects"
+      ],
+      "terms": [
+        "洛伦兹曲线与基尼计算",
+        "Lorenz curves and Gini calculations",
+        "累计",
+        "cumulative",
+        "面积",
+        "area",
+        "平等线",
+        "equality line"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "累计",
+          "面积",
+          "平等线"
+        ],
+        "en": [
+          "cumulative",
+          "area",
+          "equality line"
+        ]
+      },
+      "diagramIds": [
+        "macro-lorenz"
+      ],
+      "quizIds": [
+        "u3-35-lorenz-gini-flash-1",
+        "u3-35-lorenz-gini-mcq-1",
+        "u3-35-lorenz-gini-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-35-lorenz-gini",
+        "locale": "zh-CN",
+        "title": "洛伦兹曲线与基尼计算",
+        "takeaway": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
+        "definition": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
+        "causalChain": [
+          "按收入排序并累计份额",
+          "与完全平等线比较",
+          "面积差越大通常表示收入不平等越高"
+        ],
+        "misconceptions": [
+          "收入基尼不直接等于财富基尼，也不显示绝对贫困人数。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
+          "收入基尼不直接等于财富基尼，也不显示绝对贫困人数。"
+        ],
+        "explanation": "按收入排序并累计份额。与完全平等线比较。面积差越大通常表示收入不平等越高。\n\n### 原创情境与推导\n\n原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。\n\n收入基尼不直接等于财富基尼，也不显示绝对贫困人数。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-35-lorenz-gini",
+        "locale": "en",
+        "title": "Lorenz curves and Gini calculations",
+        "takeaway": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
+        "definition": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
+        "causalChain": [
+          "Rank incomes and cumulate shares",
+          "compare with perfect equality",
+          "a larger area gap normally indicates more inequality"
+        ],
+        "misconceptions": [
+          "An income Gini is not a wealth Gini and does not directly count absolute poverty."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
+          "An income Gini is not a wealth Gini and does not directly count absolute poverty."
+        ],
+        "explanation": "Rank incomes and cumulate shares.  compare with perfect equality.  a larger area gap normally indicates more inequality.\n\n### Original scenario and reasoning\n\nIllustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance.\n\nAn income Gini is not a wealth Gini and does not directly count absolute poverty.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-35-lorenz-gini-flash-1",
+        "knowledgePointId": "u3-35-lorenz-gini",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“洛伦兹曲线与基尼计算”，并说明一个关键条件。",
+          "en": "Explain Lorenz curves and Gini calculations and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
+          "en": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality."
+        },
+        "explanation": {
+          "zh-CN": "收入基尼不直接等于财富基尼，也不显示绝对贫困人数。",
+          "en": "An income Gini is not a wealth Gini and does not directly count absolute poverty."
+        }
+      },
+      {
+        "id": "u3-35-lorenz-gini-mcq-1",
+        "knowledgePointId": "u3-35-lorenz-gini",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "平等线下 0.5、洛伦兹下 0.35，Gini 为多少？",
+          "en": "Equality area is 0.5 and Lorenz area 0.35. What is Gini?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "0.15",
+            "en": "0.15"
+          },
+          {
+            "id": "b",
+            "zh-CN": "0.7",
+            "en": "0.7"
+          },
+          {
+            "id": "c",
+            "zh-CN": "0.3",
+            "en": "0.3"
+          },
+          {
+            "id": "d",
+            "zh-CN": "0.85",
+            "en": "0.85"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "0.3。 原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。 收入基尼不直接等于财富基尼，也不显示绝对贫困人数。",
+          "en": "0.3. Illustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance. An income Gini is not a wealth Gini and does not directly count absolute poverty."
+        }
+      },
+      {
+        "id": "u3-35-lorenz-gini-short-1",
+        "knowledgePointId": "u3-35-lorenz-gini",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释洛伦兹曲线与基尼计算的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Lorenz curves and Gini calculations and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。 按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。",
+          "en": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality. Rank incomes and cumulate shares; compare with perfect equality; a larger area gap normally indicates more inequality Illustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "累计",
+              "en": "cumulative"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "累计",
+                "按收入排序并累计份额"
+              ],
+              "en": [
+                "cumulative",
+                "Rank incomes and cumulate shares"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "面积",
+              "en": "area"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "面积",
+                "与完全平等线比较"
+              ],
+              "en": [
+                "area",
+                "compare with perfect equality"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "平等线",
+              "en": "equality line"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平等线",
+                "面积差越大通常表示收入不平等越高"
+              ],
+              "en": [
+                "equality line",
+                "a larger area gap normally indicates more inequality"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-36-poverty-effects",
+      "slug": "poverty-effects",
+      "section": "3.4",
+      "level": "core",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.4",
+          "pages": [
+            369
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-33-poverty",
+        "u3-34-inequality-causes",
+        "u3-35-lorenz-gini"
+      ],
+      "terms": [
+        "不平等与贫困的影响",
+        "Effects of inequality and poverty",
+        "健康",
+        "health",
+        "人力资本",
+        "human capital",
+        "生产率",
+        "productivity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "健康",
+          "人力资本",
+          "生产率"
+        ],
+        "en": [
+          "health",
+          "human capital",
+          "productivity"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-36-poverty-effects-flash-1",
+        "u3-36-poverty-effects-mcq-1",
+        "u3-36-poverty-effects-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-36-poverty-effects",
+        "locale": "zh-CN",
+        "title": "不平等与贫困的影响",
+        "takeaway": "贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。",
+        "definition": "贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。",
+        "causalChain": [
+          "资源匮乏影响服务获得",
+          "人力资本和社会参与受损",
+          "未来生产与税基可能因此减弱"
+        ],
+        "misconceptions": [
+          "效率与公平并非在所有政策下都必然冲突。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。",
+          "效率与公平并非在所有政策下都必然冲突。"
+        ],
+        "explanation": "资源匮乏影响服务获得。人力资本和社会参与受损。未来生产与税基可能因此减弱。\n\n### 原创情境与推导\n\n原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。\n\n效率与公平并非在所有政策下都必然冲突。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-36-poverty-effects",
+        "locale": "en",
+        "title": "Effects of inequality and poverty",
+        "takeaway": "Poverty can damage health, education and productivity. High inequality can weaken opportunity and social trust, while some differences in returns can also incentivise work and innovation.",
+        "definition": "Poverty can damage health, education and productivity. High inequality can weaken opportunity and social trust, while some differences in returns can also incentivise work and innovation.",
+        "causalChain": [
+          "Resource deprivation limits service access",
+          "human capital and participation suffer",
+          "future production and the tax base may weaken"
+        ],
+        "misconceptions": [
+          "Efficiency and equity need not conflict under every policy."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "Poverty can damage health, education and productivity. High inequality can weaken opportunity and social trust, while some differences in returns can also incentivise work and innovation.",
+          "Efficiency and equity need not conflict under every policy."
+        ],
+        "explanation": "Resource deprivation limits service access.  human capital and participation suffer.  future production and the tax base may weaken.\n\n### Original scenario and reasoning\n\nIllustrative example: malnutrition harms learning and adult work capacity; public health and school meals may interrupt the cycle. Assess income gaps by distinguishing opportunity inequality, incentives and rent extraction rather than treating all differences alike.\n\nEfficiency and equity need not conflict under every policy.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-36-poverty-effects-flash-1",
+        "knowledgePointId": "u3-36-poverty-effects",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“不平等与贫困的影响”，并说明一个关键条件。",
+          "en": "Explain Effects of inequality and poverty and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。",
+          "en": "Poverty can damage health, education and productivity. High inequality can weaken opportunity and social trust, while some differences in returns can also incentivise work and innovation."
+        },
+        "explanation": {
+          "zh-CN": "效率与公平并非在所有政策下都必然冲突。",
+          "en": "Efficiency and equity need not conflict under every policy."
+        }
+      },
+      {
+        "id": "u3-36-poverty-effects-mcq-1",
+        "knowledgePointId": "u3-36-poverty-effects",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "改善贫困儿童营养为何可能同时改善效率？",
+          "en": "Why can better nutrition for poor children also improve efficiency?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "消除全部资源成本",
+            "en": "Removes all resource costs"
+          },
+          {
+            "id": "b",
+            "zh-CN": "保证所有工资相同",
+            "en": "Guarantees identical wages"
+          },
+          {
+            "id": "c",
+            "zh-CN": "只增加名义物价",
+            "en": "Only raises nominal prices"
+          },
+          {
+            "id": "d",
+            "zh-CN": "改善健康、学习与未来生产率",
+            "en": "Improves health, learning and future productivity"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "改善健康、学习与未来生产率。 原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。 效率与公平并非在所有政策下都必然冲突。",
+          "en": "Improves health, learning and future productivity. Illustrative example: malnutrition harms learning and adult work capacity; public health and school meals may interrupt the cycle. Assess income gaps by distinguishing opportunity inequality, incentives and rent extraction rather than treating all differences alike. Efficiency and equity need not conflict under every policy."
+        }
+      },
+      {
+        "id": "u3-36-poverty-effects-short-1",
+        "knowledgePointId": "u3-36-poverty-effects",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释不平等与贫困的影响的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Effects of inequality and poverty and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。 资源匮乏影响服务获得；人力资本和社会参与受损；未来生产与税基可能因此减弱 原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。",
+          "en": "Poverty can damage health, education and productivity. High inequality can weaken opportunity and social trust, while some differences in returns can also incentivise work and innovation. Resource deprivation limits service access; human capital and participation suffer; future production and the tax base may weaken Illustrative example: malnutrition harms learning and adult work capacity; public health and school meals may interrupt the cycle. Assess income gaps by distinguishing opportunity inequality, incentives and rent extraction rather than treating all differences alike."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "健康",
+              "en": "health"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "健康",
+                "资源匮乏影响服务获得"
+              ],
+              "en": [
+                "health",
+                "Resource deprivation limits service access"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "人力资本",
+              "en": "human capital"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "人力资本",
+                "人力资本和社会参与受损"
+              ],
+              "en": [
+                "human capital",
+                "human capital and participation suffer"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "生产率",
+              "en": "productivity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产率",
+                "未来生产与税基可能因此减弱"
+              ],
+              "en": [
+                "productivity",
+                "future production and the tax base may weaken"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-37-progressive-tax",
+      "slug": "progressive-tax",
+      "section": "3.4",
+      "level": "core",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.5",
+          "pages": [
+            371
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-33-poverty",
+        "u3-34-inequality-causes",
+        "u3-35-lorenz-gini"
+      ],
+      "terms": [
+        "累进税、转移支付与可支配收入",
+        "Progressive taxes, transfers and disposable income",
+        "平均税率",
+        "average rate",
+        "边际税率",
+        "marginal rate",
+        "可支配收入",
+        "disposable income"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "平均税率",
+          "边际税率",
+          "可支配收入"
+        ],
+        "en": [
+          "average rate",
+          "marginal rate",
+          "disposable income"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-37-progressive-tax-flash-1",
+        "u3-37-progressive-tax-mcq-1",
+        "u3-37-progressive-tax-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-37-progressive-tax",
+        "locale": "zh-CN",
+        "title": "累进税、转移支付与可支配收入",
+        "takeaway": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
+        "definition": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
+        "causalChain": [
+          "确定各税档适用收入",
+          "分段计算税额而非全部收入乘最高税率",
+          "用转移和税收比较最终购买能力"
+        ],
+        "misconceptions": [
+          "最高边际税率不应直接乘以全部收入。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
+          "最高边际税率不应直接乘以全部收入。"
+        ],
+        "explanation": "确定各税档适用收入。分段计算税额而非全部收入乘最高税率。用转移和税收比较最终购买能力。\n\n### 原创情境与推导\n\n原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。\n\n最高边际税率不应直接乘以全部收入。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-37-progressive-tax",
+        "locale": "en",
+        "title": "Progressive taxes, transfers and disposable income",
+        "takeaway": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
+        "definition": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
+        "causalChain": [
+          "Identify income within each bracket",
+          "calculate tax progressively rather than applying the top rate to all income",
+          "compare purchasing power after taxes and transfers"
+        ],
+        "misconceptions": [
+          "Do not apply the highest marginal rate to all income."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
+          "Do not apply the highest marginal rate to all income."
+        ],
+        "explanation": "Identify income within each bracket.  calculate tax progressively rather than applying the top rate to all income.  compare purchasing power after taxes and transfers.\n\n### Original scenario and reasoning\n\nIllustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution.\n\nDo not apply the highest marginal rate to all income.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-37-progressive-tax-flash-1",
+        "knowledgePointId": "u3-37-progressive-tax",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“累进税、转移支付与可支配收入”，并说明一个关键条件。",
+          "en": "Explain Progressive taxes, transfers and disposable income and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
+          "en": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers."
+        },
+        "explanation": {
+          "zh-CN": "最高边际税率不应直接乘以全部收入。",
+          "en": "Do not apply the highest marginal rate to all income."
+        }
+      },
+      {
+        "id": "u3-37-progressive-tax-mcq-1",
+        "knowledgePointId": "u3-37-progressive-tax",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "收入 300、税额 45，平均税率多少？",
+          "en": "Income is 300 and tax 45. What is the average tax rate?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "15%",
+            "en": "15%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "45%",
+            "en": "45%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "6.67%",
+            "en": "6.67%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必等于最高边际税率",
+            "en": "Must equal the top marginal rate"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "15%。 原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。 最高边际税率不应直接乘以全部收入。",
+          "en": "15%. Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution. Do not apply the highest marginal rate to all income."
+        }
+      },
+      {
+        "id": "u3-37-progressive-tax-short-1",
+        "knowledgePointId": "u3-37-progressive-tax",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释累进税、转移支付与可支配收入的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Progressive taxes, transfers and disposable income and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。 确定各税档适用收入；分段计算税额而非全部收入乘最高税率；用转移和税收比较最终购买能力 原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。",
+          "en": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers. Identify income within each bracket; calculate tax progressively rather than applying the top rate to all income; compare purchasing power after taxes and transfers Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "平均税率",
+              "en": "average rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "平均税率",
+                "确定各税档适用收入"
+              ],
+              "en": [
+                "average rate",
+                "Identify income within each bracket"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "边际税率",
+              "en": "marginal rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "边际税率",
+                "分段计算税额而非全部收入乘最高税率"
+              ],
+              "en": [
+                "marginal rate",
+                "calculate tax progressively rather than applying the top rate to all income"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "可支配收入",
+              "en": "disposable income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可支配收入",
+                "用转移和税收比较最终购买能力"
+              ],
+              "en": [
+                "disposable income",
+                "compare purchasing power after taxes and transfers"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-38-poverty-policies",
+      "slug": "poverty-policies",
+      "section": "3.4",
+      "level": "core",
+      "syllabusRefs": [
+        "3.4 Economics of inequality and poverty"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "12",
+          "section": "12.5",
+          "pages": [
+            371
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-35-equality-equity"
+      ],
+      "related": [
+        "u3-33-poverty",
+        "u3-34-inequality-causes",
+        "u3-35-lorenz-gini"
+      ],
+      "terms": [
+        "减贫与再分配政策评价",
+        "Evaluating poverty and redistribution policies",
+        "针对性",
+        "targeting",
+        "覆盖",
+        "coverage",
+        "激励",
+        "incentives"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "针对性",
+          "覆盖",
+          "激励"
+        ],
+        "en": [
+          "targeting",
+          "coverage",
+          "incentives"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-38-poverty-policies-flash-1",
+        "u3-38-poverty-policies-mcq-1",
+        "u3-38-poverty-policies-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-38-poverty-policies",
+        "locale": "zh-CN",
+        "title": "减贫与再分配政策评价",
+        "takeaway": "税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。",
+        "definition": "税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。",
+        "causalChain": [
+          "识别收入或机会障碍",
+          "选择现金、服务或制度工具",
+          "用受益分布及行为反应评估结果"
+        ],
+        "misconceptions": [
+          "转移金额增加不等于实际贫困一定同幅减少。"
+        ],
+        "examApplication": [
+          "区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        ],
+        "summary": [
+          "税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。",
+          "转移金额增加不等于实际贫困一定同幅减少。"
+        ],
+        "explanation": "识别收入或机会障碍。选择现金、服务或制度工具。用受益分布及行为反应评估结果。\n\n### 原创情境与推导\n\n原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。\n\n转移金额增加不等于实际贫困一定同幅减少。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+      },
+      "en": {
+        "id": "u3-38-poverty-policies",
+        "locale": "en",
+        "title": "Evaluating poverty and redistribution policies",
+        "takeaway": "Taxes/transfers, education and health, employment support, minimum wages and social insurance can alter poverty and distribution. Compare coverage, incentives, cost, quality and long-run opportunity.",
+        "definition": "Taxes/transfers, education and health, employment support, minimum wages and social insurance can alter poverty and distribution. Compare coverage, incentives, cost, quality and long-run opportunity.",
+        "causalChain": [
+          "Identify income or opportunity barriers",
+          "choose cash, services or institutional tools",
+          "assess benefit distribution and behavioural responses"
+        ],
+        "misconceptions": [
+          "A larger transfer does not necessarily reduce real poverty by the same proportion."
+        ],
+        "examApplication": [
+          "Distinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        ],
+        "summary": [
+          "Taxes/transfers, education and health, employment support, minimum wages and social insurance can alter poverty and distribution. Compare coverage, incentives, cost, quality and long-run opportunity.",
+          "A larger transfer does not necessarily reduce real poverty by the same proportion."
+        ],
+        "explanation": "Identify income or opportunity barriers.  choose cash, services or institutional tools.  assess benefit distribution and behavioural responses.\n\n### Original scenario and reasoning\n\nIllustrative example: means-tested support improves targeting but may miss households without records; tapering benefits can reduce benefit cliffs. Universal schooling reaches more people, but unequal local quality means nominally free provision need not equalise opportunity.\n\nA larger transfer does not necessarily reduce real poverty by the same proportion.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-38-poverty-policies-flash-1",
+        "knowledgePointId": "u3-38-poverty-policies",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“减贫与再分配政策评价”，并说明一个关键条件。",
+          "en": "Explain Evaluating poverty and redistribution policies and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。",
+          "en": "Taxes/transfers, education and health, employment support, minimum wages and social insurance can alter poverty and distribution. Compare coverage, incentives, cost, quality and long-run opportunity."
+        },
+        "explanation": {
+          "zh-CN": "转移金额增加不等于实际贫困一定同幅减少。",
+          "en": "A larger transfer does not necessarily reduce real poverty by the same proportion."
+        }
+      },
+      {
+        "id": "u3-38-poverty-policies-mcq-1",
+        "knowledgePointId": "u3-38-poverty-policies",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评价收入审查补助应特别考察什么？",
+          "en": "What is particularly relevant to evaluating means-tested benefits?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "假设所有人都被准确识别",
+            "en": "Assume everyone is identified perfectly"
+          },
+          {
+            "id": "b",
+            "zh-CN": "针对性与覆盖遗漏",
+            "en": "Targeting and exclusion errors"
+          },
+          {
+            "id": "c",
+            "zh-CN": "忽略退出率和激励",
+            "en": "Ignore withdrawal rates and incentives"
+          },
+          {
+            "id": "d",
+            "zh-CN": "只比较项目名称",
+            "en": "Only compare programme names"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "针对性与覆盖遗漏。 原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。 转移金额增加不等于实际贫困一定同幅减少。",
+          "en": "Targeting and exclusion errors. Illustrative example: means-tested support improves targeting but may miss households without records; tapering benefits can reduce benefit cliffs. Universal schooling reaches more people, but unequal local quality means nominally free provision need not equalise opportunity. A larger transfer does not necessarily reduce real poverty by the same proportion."
+        }
+      },
+      {
+        "id": "u3-38-poverty-policies-short-1",
+        "knowledgePointId": "u3-38-poverty-policies",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释减贫与再分配政策评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Evaluating poverty and redistribution policies and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。 识别收入或机会障碍；选择现金、服务或制度工具；用受益分布及行为反应评估结果 原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。",
+          "en": "Taxes/transfers, education and health, employment support, minimum wages and social insurance can alter poverty and distribution. Compare coverage, incentives, cost, quality and long-run opportunity. Identify income or opportunity barriers; choose cash, services or institutional tools; assess benefit distribution and behavioural responses Illustrative example: means-tested support improves targeting but may miss households without records; tapering benefits can reduce benefit cliffs. Universal schooling reaches more people, but unequal local quality means nominally free provision need not equalise opportunity."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "针对性",
+              "en": "targeting"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "针对性",
+                "识别收入或机会障碍"
+              ],
+              "en": [
+                "targeting",
+                "Identify income or opportunity barriers"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "覆盖",
+              "en": "coverage"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "覆盖",
+                "选择现金、服务或制度工具"
+              ],
+              "en": [
+                "coverage",
+                "choose cash, services or institutional tools"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "激励",
+              "en": "incentives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "激励",
+                "用受益分布及行为反应评估结果"
+              ],
+              "en": [
+                "incentives",
+                "assess benefit distribution and behavioural responses"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-39-money-interest",
+      "slug": "money-interest",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary",
+        "u3-42-contractionary-monetary"
+      ],
+      "terms": [
+        "中央银行与利率",
+        "Central banks and interest rates",
+        "政策利率",
+        "policy rate",
+        "实际利率",
+        "real rate",
+        "融资成本",
+        "financing costs"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "政策利率",
+          "实际利率",
+          "融资成本"
+        ],
+        "en": [
+          "policy rate",
+          "real rate",
+          "financing costs"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-39-money-interest-flash-1",
+        "u3-39-money-interest-mcq-1",
+        "u3-39-money-interest-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-39-money-interest",
+        "locale": "zh-CN",
+        "title": "中央银行与利率",
+        "takeaway": "中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。",
+        "definition": "中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。",
+        "causalChain": [
+          "政策利率影响市场融资成本",
+          "借贷者比较实际成本",
+          "消费和投资计划随之调整"
+        ],
+        "misconceptions": [
+          "实际利率应使用预期通胀分析事前决策。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。",
+          "实际利率应使用预期通胀分析事前决策。"
+        ],
+        "explanation": "政策利率影响市场融资成本。借贷者比较实际成本。消费和投资计划随之调整。\n\n### 原创情境与推导\n\n原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为 4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。\n\n实际利率应使用预期通胀分析事前决策。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-39-money-interest",
+        "locale": "en",
+        "title": "Central banks and interest rates",
+        "takeaway": "Central banks influence spending through policy rates and financial conditions. The real interest rate is approximately the nominal rate minus expected inflation.",
+        "definition": "Central banks influence spending through policy rates and financial conditions. The real interest rate is approximately the nominal rate minus expected inflation.",
+        "causalChain": [
+          "Policy rates influence market financing costs",
+          "borrowers compare real costs",
+          "consumption and investment plans adjust"
+        ],
+        "misconceptions": [
+          "Use expected inflation when analysing ex-ante real rates."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Central banks influence spending through policy rates and financial conditions. The real interest rate is approximately the nominal rate minus expected inflation.",
+          "Use expected inflation when analysing ex-ante real rates."
+        ],
+        "explanation": "Policy rates influence market financing costs.  borrowers compare real costs.  consumption and investment plans adjust.\n\n### Original scenario and reasoning\n\nIllustrative example: a 6% nominal lending rate and 2% expected inflation imply an approximately 4% real rate. If bank risk premiums rise, lending rates need not fall alongside policy rates. Money is not income, and new lending does not directly equal new output.\n\nUse expected inflation when analysing ex-ante real rates.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-39-money-interest-flash-1",
+        "knowledgePointId": "u3-39-money-interest",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“中央银行与利率”，并说明一个关键条件。",
+          "en": "Explain Central banks and interest rates and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。",
+          "en": "Central banks influence spending through policy rates and financial conditions. The real interest rate is approximately the nominal rate minus expected inflation."
+        },
+        "explanation": {
+          "zh-CN": "实际利率应使用预期通胀分析事前决策。",
+          "en": "Use expected inflation when analysing ex-ante real rates."
+        }
+      },
+      {
+        "id": "u3-39-money-interest-mcq-1",
+        "knowledgePointId": "u3-39-money-interest",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "名义利率 5%、预期通胀 3%，近似实际利率？",
+          "en": "Nominal interest is 5% and expected inflation 3%. Approximate real interest?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "8%",
+            "en": "8%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "15%",
+            "en": "15%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "2%",
+            "en": "2%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必为零",
+            "en": "Necessarily zero"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "2%。 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为 4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。 实际利率应使用预期通胀分析事前决策。",
+          "en": "2%. Illustrative example: a 6% nominal lending rate and 2% expected inflation imply an approximately 4% real rate. If bank risk premiums rise, lending rates need not fall alongside policy rates. Money is not income, and new lending does not directly equal new output. Use expected inflation when analysing ex-ante real rates."
+        }
+      },
+      {
+        "id": "u3-39-money-interest-short-1",
+        "knowledgePointId": "u3-39-money-interest",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释中央银行与利率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Central banks and interest rates and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。 政策利率影响市场融资成本；借贷者比较实际成本；消费和投资计划随之调整 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为 4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。",
+          "en": "Central banks influence spending through policy rates and financial conditions. The real interest rate is approximately the nominal rate minus expected inflation. Policy rates influence market financing costs; borrowers compare real costs; consumption and investment plans adjust Illustrative example: a 6% nominal lending rate and 2% expected inflation imply an approximately 4% real rate. If bank risk premiums rise, lending rates need not fall alongside policy rates. Money is not income, and new lending does not directly equal new output."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "政策利率",
+              "en": "policy rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "政策利率",
+                "政策利率影响市场融资成本"
+              ],
+              "en": [
+                "policy rate",
+                "Policy rates influence market financing costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "实际利率",
+              "en": "real rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际利率",
+                "借贷者比较实际成本"
+              ],
+              "en": [
+                "real rate",
+                "borrowers compare real costs"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "融资成本",
+              "en": "financing costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资成本",
+                "消费和投资计划随之调整"
+              ],
+              "en": [
+                "financing costs",
+                "consumption and investment plans adjust"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-40-monetary-transmission",
+      "slug": "monetary-transmission",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-41-expansionary-monetary",
+        "u3-42-contractionary-monetary"
+      ],
+      "terms": [
+        "货币政策传导",
+        "Monetary transmission",
+        "融资成本",
+        "financing costs",
+        "消费投资",
+        "consumption and investment",
+        "总需求",
+        "aggregate demand"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "融资成本",
+          "消费投资",
+          "总需求"
+        ],
+        "en": [
+          "financing costs",
+          "consumption and investment",
+          "aggregate demand"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-40-monetary-transmission-flash-1",
+        "u3-40-monetary-transmission-mcq-1",
+        "u3-40-monetary-transmission-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-40-monetary-transmission",
+        "locale": "zh-CN",
+        "title": "货币政策传导",
+        "takeaway": "利率通过借贷、储蓄、资产价格、预期和汇率等渠道影响总需求；效果有时滞且取决于金融与汇率制度。",
+        "definition": "利率通过借贷、储蓄、资产价格、预期和汇率等渠道影响总需求；效果有时滞且取决于金融与汇率制度。",
+        "causalChain": [
+          "利率改变融资与储蓄回报",
+          "家庭企业调整消费投资",
+          "总需求变化影响实际产出和物价"
+        ],
+        "misconceptions": [
+          "降息不保证汇率或投资按固定幅度变化。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "利率通过借贷、储蓄、资产价格、预期和汇率等渠道影响总需求；效果有时滞且取决于金融与汇率制度。",
+          "降息不保证汇率或投资按固定幅度变化。"
+        ],
+        "explanation": "利率改变融资与储蓄回报。家庭企业调整消费投资。总需求变化影响实际产出和物价。\n\n### 原创情境与推导\n\n原创例：浮动汇率下，相对利率下降可能减少资本流入并使货币贬值，从而支持净出口；但进口成本也会上升。固定利率房贷较多时，家庭现金流反应可能较慢。\n\n降息不保证汇率或投资按固定幅度变化。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-40-monetary-transmission",
+        "locale": "en",
+        "title": "Monetary transmission",
+        "takeaway": "Interest rates affect aggregate demand through borrowing, saving, asset prices, expectations and exchange rates. Effects have lags and depend on financial and exchange-rate arrangements.",
+        "definition": "Interest rates affect aggregate demand through borrowing, saving, asset prices, expectations and exchange rates. Effects have lags and depend on financial and exchange-rate arrangements.",
+        "causalChain": [
+          "Rates change financing costs and saving returns",
+          "households and firms adjust consumption and investment",
+          "changing aggregate demand affects output and prices"
+        ],
+        "misconceptions": [
+          "A rate cut does not guarantee a fixed exchange-rate or investment response."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Interest rates affect aggregate demand through borrowing, saving, asset prices, expectations and exchange rates. Effects have lags and depend on financial and exchange-rate arrangements.",
+          "A rate cut does not guarantee a fixed exchange-rate or investment response."
+        ],
+        "explanation": "Rates change financing costs and saving returns.  households and firms adjust consumption and investment.  changing aggregate demand affects output and prices.\n\n### Original scenario and reasoning\n\nIllustrative example: under floating exchange rates, lower relative interest may reduce capital inflows and depreciate the currency, supporting net exports while raising import costs. Household cash-flow responses may be slower where fixed-rate mortgages dominate.\n\nA rate cut does not guarantee a fixed exchange-rate or investment response.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-40-monetary-transmission-flash-1",
+        "knowledgePointId": "u3-40-monetary-transmission",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“货币政策传导”，并说明一个关键条件。",
+          "en": "Explain Monetary transmission and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "利率通过借贷、储蓄、资产价格、预期和汇率等渠道影响总需求；效果有时滞且取决于金融与汇率制度。",
+          "en": "Interest rates affect aggregate demand through borrowing, saving, asset prices, expectations and exchange rates. Effects have lags and depend on financial and exchange-rate arrangements."
+        },
+        "explanation": {
+          "zh-CN": "降息不保证汇率或投资按固定幅度变化。",
+          "en": "A rate cut does not guarantee a fixed exchange-rate or investment response."
+        }
+      },
+      {
+        "id": "u3-40-monetary-transmission-mcq-1",
+        "knowledgePointId": "u3-40-monetary-transmission",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "什么会削弱降息的投资渠道？",
+          "en": "What weakens the investment channel of a rate cut?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "所有项目必然盈利",
+            "en": "Every project becomes profitable"
+          },
+          {
+            "id": "b",
+            "zh-CN": "贷款成本必然为零",
+            "en": "Borrowing necessarily becomes free"
+          },
+          {
+            "id": "c",
+            "zh-CN": "总需求不含投资",
+            "en": "Aggregate demand excludes investment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "企业对未来销售缺乏信心",
+            "en": "Firms lack confidence in future sales"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "企业对未来销售缺乏信心。 原创例：浮动汇率下，相对利率下降可能减少资本流入并使货币贬值，从而支持净出口；但进口成本也会上升。固定利率房贷较多时，家庭现金流反应可能较慢。 降息不保证汇率或投资按固定幅度变化。",
+          "en": "Firms lack confidence in future sales. Illustrative example: under floating exchange rates, lower relative interest may reduce capital inflows and depreciate the currency, supporting net exports while raising import costs. Household cash-flow responses may be slower where fixed-rate mortgages dominate. A rate cut does not guarantee a fixed exchange-rate or investment response."
+        }
+      },
+      {
+        "id": "u3-40-monetary-transmission-short-1",
+        "knowledgePointId": "u3-40-monetary-transmission",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释货币政策传导的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Monetary transmission and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "利率通过借贷、储蓄、资产价格、预期和汇率等渠道影响总需求；效果有时滞且取决于金融与汇率制度。 利率改变融资与储蓄回报；家庭企业调整消费投资；总需求变化影响实际产出和物价 原创例：浮动汇率下，相对利率下降可能减少资本流入并使货币贬值，从而支持净出口；但进口成本也会上升。固定利率房贷较多时，家庭现金流反应可能较慢。",
+          "en": "Interest rates affect aggregate demand through borrowing, saving, asset prices, expectations and exchange rates. Effects have lags and depend on financial and exchange-rate arrangements. Rates change financing costs and saving returns; households and firms adjust consumption and investment; changing aggregate demand affects output and prices Illustrative example: under floating exchange rates, lower relative interest may reduce capital inflows and depreciate the currency, supporting net exports while raising import costs. Household cash-flow responses may be slower where fixed-rate mortgages dominate."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "融资成本",
+              "en": "financing costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资成本",
+                "利率改变融资与储蓄回报"
+              ],
+              "en": [
+                "financing costs",
+                "Rates change financing costs and saving returns"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "消费投资",
+              "en": "consumption and investment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "消费投资",
+                "家庭企业调整消费投资"
+              ],
+              "en": [
+                "consumption and investment",
+                "households and firms adjust consumption and investment"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "总需求",
+              "en": "aggregate demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求",
+                "总需求变化影响实际产出和物价"
+              ],
+              "en": [
+                "aggregate demand",
+                "changing aggregate demand affects output and prices"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-41-expansionary-monetary",
+      "slug": "expansionary-monetary",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-42-contractionary-monetary"
+      ],
+      "terms": [
+        "扩张性货币政策",
+        "Expansionary monetary policy",
+        "降低利率",
+        "lower interest rates",
+        "总需求右移",
+        "aggregate demand shifts right",
+        "负产出缺口",
+        "negative output gap"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "降低利率",
+          "总需求右移",
+          "负产出缺口"
+        ],
+        "en": [
+          "lower interest rates",
+          "aggregate demand shifts right",
+          "negative output gap"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-expansion"
+      ],
+      "quizIds": [
+        "u3-41-expansionary-monetary-flash-1",
+        "u3-41-expansionary-monetary-mcq-1",
+        "u3-41-expansionary-monetary-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-41-expansionary-monetary",
+        "locale": "zh-CN",
+        "title": "扩张性货币政策",
+        "takeaway": "扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。",
+        "definition": "扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。",
+        "causalChain": [
+          "降低利率或放松信贷条件",
+          "利率敏感支出增加使总需求右移",
+          "负产出缺口可能缩小"
+        ],
+        "misconceptions": [
+          "总需求右移不是潜在产出自动增加。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。",
+          "总需求右移不是潜在产出自动增加。"
+        ],
+        "explanation": "降低利率或放松信贷条件。利率敏感支出增加使总需求右移。负产出缺口可能缩小。\n\n### 原创情境与推导\n\n原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。\n\n总需求右移不是潜在产出自动增加。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-41-expansionary-monetary",
+        "locale": "en",
+        "title": "Expansionary monetary policy",
+        "takeaway": "Expansionary monetary policy eases financial conditions to support aggregate demand, usually when demand is weak. Output and price responses depend on spare capacity.",
+        "definition": "Expansionary monetary policy eases financial conditions to support aggregate demand, usually when demand is weak. Output and price responses depend on spare capacity.",
+        "causalChain": [
+          "Lower interest rates or ease credit conditions",
+          "interest-sensitive spending increases and aggregate demand shifts right",
+          "a negative output gap may narrow"
+        ],
+        "misconceptions": [
+          "A rightward AD shift does not automatically increase potential output."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Expansionary monetary policy eases financial conditions to support aggregate demand, usually when demand is weak. Output and price responses depend on spare capacity.",
+          "A rightward AD shift does not automatically increase potential output."
+        ],
+        "explanation": "Lower interest rates or ease credit conditions.  interest-sensitive spending increases and aggregate demand shifts right.  a negative output gap may narrow.\n\n### Original scenario and reasoning\n\nIllustrative example: with idle equipment, cheaper finance restores some investment, raising output and employment. Demand may respond weakly if banks restrict lending or households repay debt. Near capacity, price pressure is greater.\n\nA rightward AD shift does not automatically increase potential output.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-41-expansionary-monetary-flash-1",
+        "knowledgePointId": "u3-41-expansionary-monetary",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“扩张性货币政策”，并说明一个关键条件。",
+          "en": "Explain Expansionary monetary policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。",
+          "en": "Expansionary monetary policy eases financial conditions to support aggregate demand, usually when demand is weak. Output and price responses depend on spare capacity."
+        },
+        "explanation": {
+          "zh-CN": "总需求右移不是潜在产出自动增加。",
+          "en": "A rightward AD shift does not automatically increase potential output."
+        }
+      },
+      {
+        "id": "u3-41-expansionary-monetary-mcq-1",
+        "knowledgePointId": "u3-41-expansionary-monetary",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "存在闲置产能时，成功的需求刺激可能怎样？",
+          "en": "With spare capacity, what may successful demand stimulus do?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "提高实际产出并缩小负缺口",
+            "en": "Raise real output and narrow a negative gap"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必然只提高物价",
+            "en": "Necessarily only raise prices"
+          },
+          {
+            "id": "c",
+            "zh-CN": "必然使 LRAS 左移",
+            "en": "Necessarily shift LRAS left"
+          },
+          {
+            "id": "d",
+            "zh-CN": "消除一切结构失业",
+            "en": "Eliminate all structural unemployment"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "提高实际产出并缩小负缺口。 原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。 总需求右移不是潜在产出自动增加。",
+          "en": "Raise real output and narrow a negative gap. Illustrative example: with idle equipment, cheaper finance restores some investment, raising output and employment. Demand may respond weakly if banks restrict lending or households repay debt. Near capacity, price pressure is greater. A rightward AD shift does not automatically increase potential output."
+        }
+      },
+      {
+        "id": "u3-41-expansionary-monetary-short-1",
+        "knowledgePointId": "u3-41-expansionary-monetary",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释扩张性货币政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Expansionary monetary policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "扩张性货币政策放松金融条件以支持总需求，通常用于需求不足；产出与物价反应取决于闲置产能。 降低利率或放松信贷条件；利率敏感支出增加使总需求右移；负产出缺口可能缩小 原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。",
+          "en": "Expansionary monetary policy eases financial conditions to support aggregate demand, usually when demand is weak. Output and price responses depend on spare capacity. Lower interest rates or ease credit conditions; interest-sensitive spending increases and aggregate demand shifts right; a negative output gap may narrow Illustrative example: with idle equipment, cheaper finance restores some investment, raising output and employment. Demand may respond weakly if banks restrict lending or households repay debt. Near capacity, price pressure is greater."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "降低利率",
+              "en": "lower interest rates"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "降低利率",
+                "降低利率或放松信贷条件"
+              ],
+              "en": [
+                "lower interest rates",
+                "Lower interest rates or ease credit conditions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "总需求右移",
+              "en": "aggregate demand shifts right"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求右移",
+                "利率敏感支出增加使总需求右移"
+              ],
+              "en": [
+                "aggregate demand shifts right",
+                "interest-sensitive spending increases and aggregate demand shifts right"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "负产出缺口",
+              "en": "negative output gap"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "负产出缺口",
+                "负产出缺口可能缩小"
+              ],
+              "en": [
+                "negative output gap",
+                "a negative output gap may narrow"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-42-contractionary-monetary",
+      "slug": "contractionary-monetary",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "紧缩性货币政策",
+        "Contractionary monetary policy",
+        "提高政策利率",
+        "raise policy interest rates",
+        "总需求",
+        "aggregate demand",
+        "周期性失业",
+        "cyclical unemployment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "提高政策利率",
+          "总需求",
+          "周期性失业"
+        ],
+        "en": [
+          "raise policy interest rates",
+          "aggregate demand",
+          "cyclical unemployment"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-42-contractionary-monetary-flash-1",
+        "u3-42-contractionary-monetary-mcq-1",
+        "u3-42-contractionary-monetary-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-42-contractionary-monetary",
+        "locale": "zh-CN",
+        "title": "紧缩性货币政策",
+        "takeaway": "紧缩性货币政策提高融资成本或收紧金融条件以减弱总需求和通胀压力，但可能牺牲短期产出与就业。",
+        "definition": "紧缩性货币政策提高融资成本或收紧金融条件以减弱总需求和通胀压力，但可能牺牲短期产出与就业。",
+        "causalChain": [
+          "提高政策利率",
+          "消费投资增速减弱使总需求相对降低",
+          "通胀压力下降但周期性失业可能增加"
+        ],
+        "misconceptions": [
+          "抑制通胀通常指降低涨价速度，不等于物价水平下降。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "紧缩性货币政策提高融资成本或收紧金融条件以减弱总需求和通胀压力，但可能牺牲短期产出与就业。",
+          "抑制通胀通常指降低涨价速度，不等于物价水平下降。"
+        ],
+        "explanation": "提高政策利率。消费投资增速减弱使总需求相对降低。通胀压力下降但周期性失业可能增加。\n\n### 原创情境与推导\n\n原创例：为缓和过热需求而加息后，住宅投资放缓。若通胀来自能源供给中断，加息不能直接恢复能源供给，降低通胀可能需要更大的产出代价。固定利率合同也会延迟影响。\n\n抑制通胀通常指降低涨价速度，不等于物价水平下降。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-42-contractionary-monetary",
+        "locale": "en",
+        "title": "Contractionary monetary policy",
+        "takeaway": "Contractionary monetary policy raises financing costs or tightens financial conditions to weaken aggregate demand and inflation pressure, potentially sacrificing short-run output and employment.",
+        "definition": "Contractionary monetary policy raises financing costs or tightens financial conditions to weaken aggregate demand and inflation pressure, potentially sacrificing short-run output and employment.",
+        "causalChain": [
+          "Raise policy interest rates",
+          "consumption and investment weaken and aggregate demand is lower than otherwise",
+          "inflation pressure falls but cyclical unemployment may rise"
+        ],
+        "misconceptions": [
+          "Reducing inflation usually means slower price increases, not a falling price level."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Contractionary monetary policy raises financing costs or tightens financial conditions to weaken aggregate demand and inflation pressure, potentially sacrificing short-run output and employment.",
+          "Reducing inflation usually means slower price increases, not a falling price level."
+        ],
+        "explanation": "Raise policy interest rates.  consumption and investment weaken and aggregate demand is lower than otherwise.  inflation pressure falls but cyclical unemployment may rise.\n\n### Original scenario and reasoning\n\nIllustrative example: higher rates intended to cool excessive demand slow housing investment. If inflation reflects an energy supply disruption, tightening cannot directly restore energy supply and may entail a larger output cost. Fixed-rate contracts can delay the effect.\n\nReducing inflation usually means slower price increases, not a falling price level.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-42-contractionary-monetary-flash-1",
+        "knowledgePointId": "u3-42-contractionary-monetary",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“紧缩性货币政策”，并说明一个关键条件。",
+          "en": "Explain Contractionary monetary policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "紧缩性货币政策提高融资成本或收紧金融条件以减弱总需求和通胀压力，但可能牺牲短期产出与就业。",
+          "en": "Contractionary monetary policy raises financing costs or tightens financial conditions to weaken aggregate demand and inflation pressure, potentially sacrificing short-run output and employment."
+        },
+        "explanation": {
+          "zh-CN": "抑制通胀通常指降低涨价速度，不等于物价水平下降。",
+          "en": "Reducing inflation usually means slower price increases, not a falling price level."
+        }
+      },
+      {
+        "id": "u3-42-contractionary-monetary-mcq-1",
+        "knowledgePointId": "u3-42-contractionary-monetary",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "加息应对供给冲击的主要限制？",
+          "en": "A major limitation of raising rates against a supply shock?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "立即增加能源产量",
+            "en": "Immediately increases energy production"
+          },
+          {
+            "id": "b",
+            "zh-CN": "不能直接修复供给且可能压低产出",
+            "en": "It cannot directly repair supply and may reduce output"
+          },
+          {
+            "id": "c",
+            "zh-CN": "没有时滞",
+            "en": "Has no lag"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必然提高所有企业利润",
+            "en": "Necessarily raises every firm's profit"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "不能直接修复供给且可能压低产出。 原创例：为缓和过热需求而加息后，住宅投资放缓。若通胀来自能源供给中断，加息不能直接恢复能源供给，降低通胀可能需要更大的产出代价。固定利率合同也会延迟影响。 抑制通胀通常指降低涨价速度，不等于物价水平下降。",
+          "en": "It cannot directly repair supply and may reduce output. Illustrative example: higher rates intended to cool excessive demand slow housing investment. If inflation reflects an energy supply disruption, tightening cannot directly restore energy supply and may entail a larger output cost. Fixed-rate contracts can delay the effect. Reducing inflation usually means slower price increases, not a falling price level."
+        }
+      },
+      {
+        "id": "u3-42-contractionary-monetary-short-1",
+        "knowledgePointId": "u3-42-contractionary-monetary",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释紧缩性货币政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Contractionary monetary policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "紧缩性货币政策提高融资成本或收紧金融条件以减弱总需求和通胀压力，但可能牺牲短期产出与就业。 提高政策利率；消费投资增速减弱使总需求相对降低；通胀压力下降但周期性失业可能增加 原创例：为缓和过热需求而加息后，住宅投资放缓。若通胀来自能源供给中断，加息不能直接恢复能源供给，降低通胀可能需要更大的产出代价。固定利率合同也会延迟影响。",
+          "en": "Contractionary monetary policy raises financing costs or tightens financial conditions to weaken aggregate demand and inflation pressure, potentially sacrificing short-run output and employment. Raise policy interest rates; consumption and investment weaken and aggregate demand is lower than otherwise; inflation pressure falls but cyclical unemployment may rise Illustrative example: higher rates intended to cool excessive demand slow housing investment. If inflation reflects an energy supply disruption, tightening cannot directly restore energy supply and may entail a larger output cost. Fixed-rate contracts can delay the effect."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "提高政策利率",
+              "en": "raise policy interest rates"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "提高政策利率",
+                "提高政策利率"
+              ],
+              "en": [
+                "raise policy interest rates",
+                "Raise policy interest rates"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "总需求",
+              "en": "aggregate demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求",
+                "消费投资增速减弱使总需求相对降低"
+              ],
+              "en": [
+                "aggregate demand",
+                "consumption and investment weaken and aggregate demand is lower than otherwise"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "周期性失业",
+              "en": "cyclical unemployment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "周期性失业",
+                "通胀压力下降但周期性失业可能增加"
+              ],
+              "en": [
+                "cyclical unemployment",
+                "inflation pressure falls but cyclical unemployment may rise"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-43-unconventional-policy",
+      "slug": "unconventional-policy",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "非常规货币政策",
+        "Unconventional monetary policy",
+        "购买金融资产",
+        "buys financial assets",
+        "融资条件",
+        "financing conditions",
+        "信贷需求",
+        "credit demand"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "购买金融资产",
+          "融资条件",
+          "信贷需求"
+        ],
+        "en": [
+          "buys financial assets",
+          "financing conditions",
+          "credit demand"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-43-unconventional-policy-flash-1",
+        "u3-43-unconventional-policy-mcq-1",
+        "u3-43-unconventional-policy-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-43-unconventional-policy",
+        "locale": "zh-CN",
+        "title": "非常规货币政策",
+        "takeaway": "量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。",
+        "definition": "量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。",
+        "causalChain": [
+          "中央银行购买金融资产",
+          "资产价格和流动性变化影响融资条件",
+          "支出反应取决于信贷需求与信心"
+        ],
+        "misconceptions": [
+          "准备金增长不等于消费、贷款或 CPI 按相同比例增长。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。",
+          "准备金增长不等于消费、贷款或 CPI 按相同比例增长。"
+        ],
+        "explanation": "中央银行购买金融资产。资产价格和流动性变化影响融资条件。支出反应取决于信贷需求与信心。\n\n### 原创情境与推导\n\n原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。\n\n准备金增长不等于消费、贷款或 CPI 按相同比例增长。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-43-unconventional-policy",
+        "locale": "en",
+        "title": "Unconventional monetary policy",
+        "takeaway": "Tools such as quantitative easing influence asset yields, liquidity and expectations when conventional rate cuts have limited room. Financial asset purchases are not government purchases of goods and services.",
+        "definition": "Tools such as quantitative easing influence asset yields, liquidity and expectations when conventional rate cuts have limited room. Financial asset purchases are not government purchases of goods and services.",
+        "causalChain": [
+          "The central bank buys financial assets",
+          "asset prices and liquidity alter financing conditions",
+          "spending responses depend on credit demand and confidence"
+        ],
+        "misconceptions": [
+          "Reserve growth is not proportional growth in consumption, lending or CPI."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Tools such as quantitative easing influence asset yields, liquidity and expectations when conventional rate cuts have limited room. Financial asset purchases are not government purchases of goods and services.",
+          "Reserve growth is not proportional growth in consumption, lending or CPI."
+        ],
+        "explanation": "The central bank buys financial assets.  asset prices and liquidity alter financing conditions.  spending responses depend on credit demand and confidence.\n\n### Original scenario and reasoning\n\nIllustrative example: central-bank purchases of long-term bonds may lower long-term yields, but more reserves do not compel banks to lend. Asset price increases may benefit asset owners disproportionately, and policy reversal can create market risks.\n\nReserve growth is not proportional growth in consumption, lending or CPI.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-43-unconventional-policy-flash-1",
+        "knowledgePointId": "u3-43-unconventional-policy",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“非常规货币政策”，并说明一个关键条件。",
+          "en": "Explain Unconventional monetary policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。",
+          "en": "Tools such as quantitative easing influence asset yields, liquidity and expectations when conventional rate cuts have limited room. Financial asset purchases are not government purchases of goods and services."
+        },
+        "explanation": {
+          "zh-CN": "准备金增长不等于消费、贷款或 CPI 按相同比例增长。",
+          "en": "Reserve growth is not proportional growth in consumption, lending or CPI."
+        }
+      },
+      {
+        "id": "u3-43-unconventional-policy-mcq-1",
+        "knowledgePointId": "u3-43-unconventional-policy",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "量化宽松首先涉及什么操作？",
+          "en": "What operation is central to quantitative easing?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "政府直接购买更多课桌",
+            "en": "Government directly buys more desks"
+          },
+          {
+            "id": "b",
+            "zh-CN": "自动免除所有私人债务",
+            "en": "Automatically cancels all private debt"
+          },
+          {
+            "id": "c",
+            "zh-CN": "中央银行购买金融资产",
+            "en": "Central-bank purchases of financial assets"
+          },
+          {
+            "id": "d",
+            "zh-CN": "保证所有人增加贷款",
+            "en": "Guarantees everyone borrows more"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "中央银行购买金融资产。 原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。 准备金增长不等于消费、贷款或 CPI 按相同比例增长。",
+          "en": "Central-bank purchases of financial assets. Illustrative example: central-bank purchases of long-term bonds may lower long-term yields, but more reserves do not compel banks to lend. Asset price increases may benefit asset owners disproportionately, and policy reversal can create market risks. Reserve growth is not proportional growth in consumption, lending or CPI."
+        }
+      },
+      {
+        "id": "u3-43-unconventional-policy-short-1",
+        "knowledgePointId": "u3-43-unconventional-policy",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释非常规货币政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Unconventional monetary policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。 中央银行购买金融资产；资产价格和流动性变化影响融资条件；支出反应取决于信贷需求与信心 原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。",
+          "en": "Tools such as quantitative easing influence asset yields, liquidity and expectations when conventional rate cuts have limited room. Financial asset purchases are not government purchases of goods and services. The central bank buys financial assets; asset prices and liquidity alter financing conditions; spending responses depend on credit demand and confidence Illustrative example: central-bank purchases of long-term bonds may lower long-term yields, but more reserves do not compel banks to lend. Asset price increases may benefit asset owners disproportionately, and policy reversal can create market risks."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "购买金融资产",
+              "en": "buys financial assets"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "购买金融资产",
+                "中央银行购买金融资产"
+              ],
+              "en": [
+                "buys financial assets",
+                "The central bank buys financial assets"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "融资条件",
+              "en": "financing conditions"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资条件",
+                "资产价格和流动性变化影响融资条件"
+              ],
+              "en": [
+                "financing conditions",
+                "asset prices and liquidity alter financing conditions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "信贷需求",
+              "en": "credit demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "信贷需求",
+                "支出反应取决于信贷需求与信心"
+              ],
+              "en": [
+                "credit demand",
+                "spending responses depend on credit demand and confidence"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-44-monetary-limits",
+      "slug": "monetary-limits",
+      "section": "3.5",
+      "level": "core",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "货币政策的有效性与约束",
+        "Effectiveness and limits of monetary policy",
+        "供给问题",
+        "supply problems",
+        "时滞",
+        "lags",
+        "金融稳定",
+        "financial stability"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "供给问题",
+          "时滞",
+          "金融稳定"
+        ],
+        "en": [
+          "supply problems",
+          "lags",
+          "financial stability"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-44-monetary-limits-flash-1",
+        "u3-44-monetary-limits-mcq-1",
+        "u3-44-monetary-limits-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-44-monetary-limits",
+        "locale": "zh-CN",
+        "title": "货币政策的有效性与约束",
+        "takeaway": "货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。",
+        "definition": "货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。",
+        "causalChain": [
+          "识别需求或供给问题",
+          "检查金融渠道与时滞",
+          "比较通胀就业分配及金融稳定的权衡"
+        ],
+        "misconceptions": [
+          "同一利率对储户、借款者和不同地区影响不同。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。",
+          "同一利率对储户、借款者和不同地区影响不同。"
+        ],
+        "explanation": "识别需求或供给问题。检查金融渠道与时滞。比较通胀就业分配及金融稳定的权衡。\n\n### 原创情境与推导\n\n原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。\n\n同一利率对储户、借款者和不同地区影响不同。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-44-monetary-limits",
+        "locale": "en",
+        "title": "Effectiveness and limits of monetary policy",
+        "takeaway": "Monetary effectiveness depends on confidence, debt, bank transmission, expectations, openness and the source of shocks. Independence and credibility also influence outcomes.",
+        "definition": "Monetary effectiveness depends on confidence, debt, bank transmission, expectations, openness and the source of shocks. Independence and credibility also influence outcomes.",
+        "causalChain": [
+          "Identify demand or supply problems",
+          "examine financial channels and lags",
+          "compare trade-offs involving inflation, employment, distribution and financial stability"
+        ],
+        "misconceptions": [
+          "The same interest rate affects savers, borrowers and regions differently."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Monetary effectiveness depends on confidence, debt, bank transmission, expectations, openness and the source of shocks. Independence and credibility also influence outcomes.",
+          "The same interest rate affects savers, borrowers and regions differently."
+        ],
+        "explanation": "Identify demand or supply problems.  examine financial channels and lags.  compare trade-offs involving inflation, employment, distribution and financial stability.\n\n### Original scenario and reasoning\n\nIllustrative example: in recession, firms expecting weak sales may not revive investment after a small cut near the effective lower bound. A credible inflation target can anchor expectations, but independence does not remove accountability or exposure to supply shocks.\n\nThe same interest rate affects savers, borrowers and regions differently.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-44-monetary-limits-flash-1",
+        "knowledgePointId": "u3-44-monetary-limits",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“货币政策的有效性与约束”，并说明一个关键条件。",
+          "en": "Explain Effectiveness and limits of monetary policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。",
+          "en": "Monetary effectiveness depends on confidence, debt, bank transmission, expectations, openness and the source of shocks. Independence and credibility also influence outcomes."
+        },
+        "explanation": {
+          "zh-CN": "同一利率对储户、借款者和不同地区影响不同。",
+          "en": "The same interest rate affects savers, borrowers and regions differently."
+        }
+      },
+      {
+        "id": "u3-44-monetary-limits-mcq-1",
+        "knowledgePointId": "u3-44-monetary-limits",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评价货币政策时最合理的做法？",
+          "en": "What is a sound approach to evaluating monetary policy?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只看是否宣布降息",
+            "en": "Only check whether a cut was announced"
+          },
+          {
+            "id": "b",
+            "zh-CN": "假定所有人反应相同",
+            "en": "Assume identical responses"
+          },
+          {
+            "id": "c",
+            "zh-CN": "忽略银行信贷条件",
+            "en": "Ignore bank credit conditions"
+          },
+          {
+            "id": "d",
+            "zh-CN": "结合冲击来源、传导与时滞",
+            "en": "Consider shock origin, transmission and lags"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "结合冲击来源、传导与时滞。 原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。 同一利率对储户、借款者和不同地区影响不同。",
+          "en": "Consider shock origin, transmission and lags. Illustrative example: in recession, firms expecting weak sales may not revive investment after a small cut near the effective lower bound. A credible inflation target can anchor expectations, but independence does not remove accountability or exposure to supply shocks. The same interest rate affects savers, borrowers and regions differently."
+        }
+      },
+      {
+        "id": "u3-44-monetary-limits-short-1",
+        "knowledgePointId": "u3-44-monetary-limits",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释货币政策的有效性与约束的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Effectiveness and limits of monetary policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。 识别需求或供给问题；检查金融渠道与时滞；比较通胀就业分配及金融稳定的权衡 原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。",
+          "en": "Monetary effectiveness depends on confidence, debt, bank transmission, expectations, openness and the source of shocks. Independence and credibility also influence outcomes. Identify demand or supply problems; examine financial channels and lags; compare trade-offs involving inflation, employment, distribution and financial stability Illustrative example: in recession, firms expecting weak sales may not revive investment after a small cut near the effective lower bound. A credible inflation target can anchor expectations, but independence does not remove accountability or exposure to supply shocks."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "供给问题",
+              "en": "supply problems"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给问题",
+                "识别需求或供给问题"
+              ],
+              "en": [
+                "supply problems",
+                "Identify demand or supply problems"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "时滞",
+              "en": "lags"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "时滞",
+                "检查金融渠道与时滞"
+              ],
+              "en": [
+                "lags",
+                "examine financial channels and lags"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "金融稳定",
+              "en": "financial stability"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "金融稳定",
+                "比较通胀就业分配及金融稳定的权衡"
+              ],
+              "en": [
+                "financial stability",
+                "compare trade-offs involving inflation, employment, distribution and financial stability"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-45-fiscal-budget",
+      "slug": "fiscal-budget",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-46-expansionary-fiscal",
+        "u3-47-contractionary-fiscal",
+        "u3-48-automatic-stabilisers"
+      ],
+      "terms": [
+        "财政预算与政策立场",
+        "Fiscal budgets and policy stance",
+        "预算余额",
+        "budget balance",
+        "衰退",
+        "recession",
+        "主动政策",
+        "discretionary policy"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "预算余额",
+          "衰退",
+          "主动政策"
+        ],
+        "en": [
+          "budget balance",
+          "recession",
+          "discretionary policy"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-45-fiscal-budget-flash-1",
+        "u3-45-fiscal-budget-mcq-1",
+        "u3-45-fiscal-budget-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-45-fiscal-budget",
+        "locale": "zh-CN",
+        "title": "财政预算与政策立场",
+        "takeaway": "财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。",
+        "definition": "财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。",
+        "causalChain": [
+          "支出与收入形成预算余额",
+          "衰退减少税收并增加部分转移",
+          "辨别自动变化和主动政策立场"
+        ],
+        "misconceptions": [
+          "预算盈余或赤字的绝对水平不能单独识别政策变化。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。",
+          "预算盈余或赤字的绝对水平不能单独识别政策变化。"
+        ],
+        "explanation": "支出与收入形成预算余额。衰退减少税收并增加部分转移。辨别自动变化和主动政策立场。\n\n### 原创情境与推导\n\n原创例：收入 90、支出 100，期间赤字为 10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。\n\n预算盈余或赤字的绝对水平不能单独识别政策变化。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-45-fiscal-budget",
+        "locale": "en",
+        "title": "Fiscal budgets and policy stance",
+        "takeaway": "Fiscal policy affects demand and distribution through government spending and taxation. A deficit is a flow, public debt a stock, and the economic cycle also affects the budget balance.",
+        "definition": "Fiscal policy affects demand and distribution through government spending and taxation. A deficit is a flow, public debt a stock, and the economic cycle also affects the budget balance.",
+        "causalChain": [
+          "Spending and revenue determine the budget balance",
+          "recession lowers taxes and raises some transfers",
+          "distinguish automatic changes from discretionary policy stance"
+        ],
+        "misconceptions": [
+          "The level of a surplus or deficit alone cannot identify a policy change."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Fiscal policy affects demand and distribution through government spending and taxation. A deficit is a flow, public debt a stock, and the economic cycle also affects the budget balance.",
+          "The level of a surplus or deficit alone cannot identify a policy change."
+        ],
+        "explanation": "Spending and revenue determine the budget balance.  recession lowers taxes and raises some transfers.  distinguish automatic changes from discretionary policy stance.\n\n### Original scenario and reasoning\n\nIllustrative example: revenue of 90 and spending of 100 imply a period deficit of 10, not total debt. A recession-driven larger deficit need not mean a newly announced stimulus. Structural balances try to remove cyclical effects but depend on estimated potential output.\n\nThe level of a surplus or deficit alone cannot identify a policy change.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-45-fiscal-budget-flash-1",
+        "knowledgePointId": "u3-45-fiscal-budget",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“财政预算与政策立场”，并说明一个关键条件。",
+          "en": "Explain Fiscal budgets and policy stance and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。",
+          "en": "Fiscal policy affects demand and distribution through government spending and taxation. A deficit is a flow, public debt a stock, and the economic cycle also affects the budget balance."
+        },
+        "explanation": {
+          "zh-CN": "预算盈余或赤字的绝对水平不能单独识别政策变化。",
+          "en": "The level of a surplus or deficit alone cannot identify a policy change."
+        }
+      },
+      {
+        "id": "u3-45-fiscal-budget-mcq-1",
+        "knowledgePointId": "u3-45-fiscal-budget",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "税收 80、支出 95，预算状况？",
+          "en": "Revenue is 80 and expenditure 95. Budget position?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "赤字 15",
+            "en": "Deficit of 15"
+          },
+          {
+            "id": "b",
+            "zh-CN": "盈余 15",
+            "en": "Surplus of 15"
+          },
+          {
+            "id": "c",
+            "zh-CN": "债务总额 15",
+            "en": "Total debt of 15"
+          },
+          {
+            "id": "d",
+            "zh-CN": "预算平衡",
+            "en": "Balanced budget"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "赤字 15。 原创例：收入 90、支出 100，期间赤字为 10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。 预算盈余或赤字的绝对水平不能单独识别政策变化。",
+          "en": "Deficit of 15. Illustrative example: revenue of 90 and spending of 100 imply a period deficit of 10, not total debt. A recession-driven larger deficit need not mean a newly announced stimulus. Structural balances try to remove cyclical effects but depend on estimated potential output. The level of a surplus or deficit alone cannot identify a policy change."
+        }
+      },
+      {
+        "id": "u3-45-fiscal-budget-short-1",
+        "knowledgePointId": "u3-45-fiscal-budget",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释财政预算与政策立场的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Fiscal budgets and policy stance and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。 支出与收入形成预算余额；衰退减少税收并增加部分转移；辨别自动变化和主动政策立场 原创例：收入 90、支出 100，期间赤字为 10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。",
+          "en": "Fiscal policy affects demand and distribution through government spending and taxation. A deficit is a flow, public debt a stock, and the economic cycle also affects the budget balance. Spending and revenue determine the budget balance; recession lowers taxes and raises some transfers; distinguish automatic changes from discretionary policy stance Illustrative example: revenue of 90 and spending of 100 imply a period deficit of 10, not total debt. A recession-driven larger deficit need not mean a newly announced stimulus. Structural balances try to remove cyclical effects but depend on estimated potential output."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "预算余额",
+              "en": "budget balance"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "预算余额",
+                "支出与收入形成预算余额"
+              ],
+              "en": [
+                "budget balance",
+                "Spending and revenue determine the budget balance"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "衰退",
+              "en": "recession"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "衰退",
+                "衰退减少税收并增加部分转移"
+              ],
+              "en": [
+                "recession",
+                "recession lowers taxes and raises some transfers"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "主动政策",
+              "en": "discretionary policy"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "主动政策",
+                "辨别自动变化和主动政策立场"
+              ],
+              "en": [
+                "discretionary policy",
+                "distinguish automatic changes from discretionary policy stance"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-46-expansionary-fiscal",
+      "slug": "expansionary-fiscal",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-47-contractionary-fiscal",
+        "u3-48-automatic-stabilisers"
+      ],
+      "terms": [
+        "扩张性财政政策",
+        "Expansionary fiscal policy",
+        "可支配收入",
+        "disposable income",
+        "后续消费",
+        "further consumption",
+        "总需求右移",
+        "aggregate demand shifts right"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "可支配收入",
+          "后续消费",
+          "总需求右移"
+        ],
+        "en": [
+          "disposable income",
+          "further consumption",
+          "aggregate demand shifts right"
+        ]
+      },
+      "diagramIds": [
+        "macro-ad-expansion"
+      ],
+      "quizIds": [
+        "u3-46-expansionary-fiscal-flash-1",
+        "u3-46-expansionary-fiscal-mcq-1",
+        "u3-46-expansionary-fiscal-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-46-expansionary-fiscal",
+        "locale": "zh-CN",
+        "title": "扩张性财政政策",
+        "takeaway": "增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。",
+        "definition": "增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。",
+        "causalChain": [
+          "增加购买或提高可支配收入",
+          "初始支出带来收入及后续消费",
+          "总需求右移并可能缩小衰退缺口"
+        ],
+        "misconceptions": [
+          "转移支付不是国民收入核算中的政府最终购买。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。",
+          "转移支付不是国民收入核算中的政府最终购买。"
+        ],
+        "explanation": "增加购买或提高可支配收入。初始支出带来收入及后续消费。总需求右移并可能缩小衰退缺口。\n\n### 原创情境与推导\n\n原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。\n\n转移支付不是国民收入核算中的政府最终购买。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-46-expansionary-fiscal",
+        "locale": "en",
+        "title": "Expansionary fiscal policy",
+        "takeaway": "Higher government purchases, tax cuts or transfers can support aggregate demand. Purchases enter G directly; transfers affect demand indirectly through recipients' spending.",
+        "definition": "Higher government purchases, tax cuts or transfers can support aggregate demand. Purchases enter G directly; transfers affect demand indirectly through recipients' spending.",
+        "causalChain": [
+          "Increase purchases or disposable income",
+          "initial spending creates income and further consumption",
+          "aggregate demand shifts right and may narrow a recessionary gap"
+        ],
+        "misconceptions": [
+          "Transfers are not government final purchases in national accounting."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Higher government purchases, tax cuts or transfers can support aggregate demand. Purchases enter G directly; transfers affect demand indirectly through recipients' spending.",
+          "Transfers are not government final purchases in national accounting."
+        ],
+        "explanation": "Increase purchases or disposable income.  initial spending creates income and further consumption.  aggregate demand shifts right and may narrow a recessionary gap.\n\n### Original scenario and reasoning\n\nIllustrative example: repairs to public facilities directly raise purchases, whereas only the spent portion of household support generates current demand. Output may respond more with idle resources; imports, saving and implementation delays weaken domestic effects.\n\nTransfers are not government final purchases in national accounting.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-46-expansionary-fiscal-flash-1",
+        "knowledgePointId": "u3-46-expansionary-fiscal",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“扩张性财政政策”，并说明一个关键条件。",
+          "en": "Explain Expansionary fiscal policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。",
+          "en": "Higher government purchases, tax cuts or transfers can support aggregate demand. Purchases enter G directly; transfers affect demand indirectly through recipients' spending."
+        },
+        "explanation": {
+          "zh-CN": "转移支付不是国民收入核算中的政府最终购买。",
+          "en": "Transfers are not government final purchases in national accounting."
+        }
+      },
+      {
+        "id": "u3-46-expansionary-fiscal-mcq-1",
+        "knowledgePointId": "u3-46-expansionary-fiscal",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项直接增加总需求中的 G？",
+          "en": "Which directly increases G in aggregate demand?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "支付失业补助本身",
+            "en": "An unemployment benefit payment itself"
+          },
+          {
+            "id": "b",
+            "zh-CN": "政府购买道路维修服务",
+            "en": "Government purchases road repair services"
+          },
+          {
+            "id": "c",
+            "zh-CN": "个人买旧股票",
+            "en": "A person buys existing shares"
+          },
+          {
+            "id": "d",
+            "zh-CN": "家庭增加储蓄",
+            "en": "Households increase saving"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "政府购买道路维修服务。 原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。 转移支付不是国民收入核算中的政府最终购买。",
+          "en": "Government purchases road repair services. Illustrative example: repairs to public facilities directly raise purchases, whereas only the spent portion of household support generates current demand. Output may respond more with idle resources; imports, saving and implementation delays weaken domestic effects. Transfers are not government final purchases in national accounting."
+        }
+      },
+      {
+        "id": "u3-46-expansionary-fiscal-short-1",
+        "knowledgePointId": "u3-46-expansionary-fiscal",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释扩张性财政政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Expansionary fiscal policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。 增加购买或提高可支配收入；初始支出带来收入及后续消费；总需求右移并可能缩小衰退缺口 原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。",
+          "en": "Higher government purchases, tax cuts or transfers can support aggregate demand. Purchases enter G directly; transfers affect demand indirectly through recipients' spending. Increase purchases or disposable income; initial spending creates income and further consumption; aggregate demand shifts right and may narrow a recessionary gap Illustrative example: repairs to public facilities directly raise purchases, whereas only the spent portion of household support generates current demand. Output may respond more with idle resources; imports, saving and implementation delays weaken domestic effects."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "可支配收入",
+              "en": "disposable income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可支配收入",
+                "增加购买或提高可支配收入"
+              ],
+              "en": [
+                "disposable income",
+                "Increase purchases or disposable income"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "后续消费",
+              "en": "further consumption"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "后续消费",
+                "初始支出带来收入及后续消费"
+              ],
+              "en": [
+                "further consumption",
+                "initial spending creates income and further consumption"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "总需求右移",
+              "en": "aggregate demand shifts right"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求右移",
+                "总需求右移并可能缩小衰退缺口"
+              ],
+              "en": [
+                "aggregate demand shifts right",
+                "aggregate demand shifts right and may narrow a recessionary gap"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-47-contractionary-fiscal",
+      "slug": "contractionary-fiscal",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-46-expansionary-fiscal",
+        "u3-48-automatic-stabilisers"
+      ],
+      "terms": [
+        "紧缩性财政政策",
+        "Contractionary fiscal policy",
+        "提高税收",
+        "raise taxes",
+        "可支配收入",
+        "disposable income",
+        "通胀压力",
+        "inflation pressure"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "提高税收",
+          "可支配收入",
+          "通胀压力"
+        ],
+        "en": [
+          "raise taxes",
+          "disposable income",
+          "inflation pressure"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-47-contractionary-fiscal-flash-1",
+        "u3-47-contractionary-fiscal-mcq-1",
+        "u3-47-contractionary-fiscal-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-47-contractionary-fiscal",
+        "locale": "zh-CN",
+        "title": "紧缩性财政政策",
+        "takeaway": "削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。",
+        "definition": "削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。",
+        "causalChain": [
+          "削减购买或提高税收",
+          "直接需求或可支配收入降低",
+          "总需求相对左移使通胀压力减弱"
+        ],
+        "misconceptions": [
+          "财政改善的直接核算效果与最终宏观效果应区分。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。",
+          "财政改善的直接核算效果与最终宏观效果应区分。"
+        ],
+        "explanation": "削减购买或提高税收。直接需求或可支配收入降低。总需求相对左移使通胀压力减弱。\n\n### 原创情境与推导\n\n原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。\n\n财政改善的直接核算效果与最终宏观效果应区分。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-47-contractionary-fiscal",
+        "locale": "en",
+        "title": "Contractionary fiscal policy",
+        "takeaway": "Spending cuts or tax rises can lower aggregate demand to cool overheating or improve fiscal balances. Output, distribution and long-run supply effects depend on the policy mix.",
+        "definition": "Spending cuts or tax rises can lower aggregate demand to cool overheating or improve fiscal balances. Output, distribution and long-run supply effects depend on the policy mix.",
+        "causalChain": [
+          "Cut purchases or raise taxes",
+          "direct demand or disposable income falls",
+          "aggregate demand shifts relatively left and inflation pressure weakens"
+        ],
+        "misconceptions": [
+          "Distinguish direct accounting effects from final macroeconomic effects."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Spending cuts or tax rises can lower aggregate demand to cool overheating or improve fiscal balances. Output, distribution and long-run supply effects depend on the policy mix.",
+          "Distinguish direct accounting effects from final macroeconomic effects."
+        ],
+        "explanation": "Cut purchases or raise taxes.  direct demand or disposable income falls.  aggregate demand shifts relatively left and inflation pressure weakens.\n\n### Original scenario and reasoning\n\nIllustrative example: higher income tax during overheating may restrain consumption, but cutting effective training may also damage long-run capacity. In recession, tightening may shrink the tax base, so a unit spending cut need not reduce the deficit by a full unit.\n\nDistinguish direct accounting effects from final macroeconomic effects.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-47-contractionary-fiscal-flash-1",
+        "knowledgePointId": "u3-47-contractionary-fiscal",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“紧缩性财政政策”，并说明一个关键条件。",
+          "en": "Explain Contractionary fiscal policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。",
+          "en": "Spending cuts or tax rises can lower aggregate demand to cool overheating or improve fiscal balances. Output, distribution and long-run supply effects depend on the policy mix."
+        },
+        "explanation": {
+          "zh-CN": "财政改善的直接核算效果与最终宏观效果应区分。",
+          "en": "Distinguish direct accounting effects from final macroeconomic effects."
+        }
+      },
+      {
+        "id": "u3-47-contractionary-fiscal-mcq-1",
+        "knowledgePointId": "u3-47-contractionary-fiscal",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "紧缩政策的合理风险提示？",
+          "en": "A reasonable risk of fiscal tightening?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "产出必然上升",
+            "en": "Output necessarily rises"
+          },
+          {
+            "id": "b",
+            "zh-CN": "分配不可能改变",
+            "en": "Distribution cannot change"
+          },
+          {
+            "id": "c",
+            "zh-CN": "需求和税基可能同时下降",
+            "en": "Demand and the tax base may both fall"
+          },
+          {
+            "id": "d",
+            "zh-CN": "所有削支都提高潜在产出",
+            "en": "Every spending cut raises potential output"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "需求和税基可能同时下降。 原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。 财政改善的直接核算效果与最终宏观效果应区分。",
+          "en": "Demand and the tax base may both fall. Illustrative example: higher income tax during overheating may restrain consumption, but cutting effective training may also damage long-run capacity. In recession, tightening may shrink the tax base, so a unit spending cut need not reduce the deficit by a full unit. Distinguish direct accounting effects from final macroeconomic effects."
+        }
+      },
+      {
+        "id": "u3-47-contractionary-fiscal-short-1",
+        "knowledgePointId": "u3-47-contractionary-fiscal",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释紧缩性财政政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Contractionary fiscal policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。 削减购买或提高税收；直接需求或可支配收入降低；总需求相对左移使通胀压力减弱 原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。",
+          "en": "Spending cuts or tax rises can lower aggregate demand to cool overheating or improve fiscal balances. Output, distribution and long-run supply effects depend on the policy mix. Cut purchases or raise taxes; direct demand or disposable income falls; aggregate demand shifts relatively left and inflation pressure weakens Illustrative example: higher income tax during overheating may restrain consumption, but cutting effective training may also damage long-run capacity. In recession, tightening may shrink the tax base, so a unit spending cut need not reduce the deficit by a full unit."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "提高税收",
+              "en": "raise taxes"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "提高税收",
+                "削减购买或提高税收"
+              ],
+              "en": [
+                "raise taxes",
+                "Cut purchases or raise taxes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "可支配收入",
+              "en": "disposable income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可支配收入",
+                "直接需求或可支配收入降低"
+              ],
+              "en": [
+                "disposable income",
+                "direct demand or disposable income falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "通胀压力",
+              "en": "inflation pressure"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "通胀压力",
+                "总需求相对左移使通胀压力减弱"
+              ],
+              "en": [
+                "inflation pressure",
+                "aggregate demand shifts relatively left and inflation pressure weakens"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-48-automatic-stabilisers",
+      "slug": "automatic-stabilisers",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-46-expansionary-fiscal",
+        "u3-47-contractionary-fiscal"
+      ],
+      "terms": [
+        "自动稳定器",
+        "Automatic stabilisers",
+        "福利支出",
+        "benefits",
+        "可支配收入",
+        "disposable income",
+        "总需求",
+        "aggregate demand"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "福利支出",
+          "可支配收入",
+          "总需求"
+        ],
+        "en": [
+          "benefits",
+          "disposable income",
+          "aggregate demand"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-48-automatic-stabilisers-flash-1",
+        "u3-48-automatic-stabilisers-mcq-1",
+        "u3-48-automatic-stabilisers-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-48-automatic-stabilisers",
+        "locale": "zh-CN",
+        "title": "自动稳定器",
+        "takeaway": "税收与符合资格的转移随收入和就业自动变化，可缓和周期波动，无须每次通过新的主动决策。",
+        "definition": "税收与符合资格的转移随收入和就业自动变化，可缓和周期波动，无须每次通过新的主动决策。",
+        "causalChain": [
+          "衰退降低税款并提高部分福利支出",
+          "可支配收入跌幅得到缓冲",
+          "消费与总需求的下降减弱"
+        ],
+        "misconceptions": [
+          "自动不等于没有制度设计，也不等于新刺激法案。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "税收与符合资格的转移随收入和就业自动变化，可缓和周期波动，无须每次通过新的主动决策。",
+          "自动不等于没有制度设计，也不等于新刺激法案。"
+        ],
+        "explanation": "衰退降低税款并提高部分福利支出。可支配收入跌幅得到缓冲。消费与总需求的下降减弱。\n\n### 原创情境与推导\n\n原创例：失业增加后，原有失业保险规则自动支付更多补助，预算趋向赤字。它缓冲而非消除衰退；覆盖有限、资格限制或低替代率会削弱稳定作用。景气时税收回升则有反向作用。\n\n自动不等于没有制度设计，也不等于新刺激法案。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-48-automatic-stabilisers",
+        "locale": "en",
+        "title": "Automatic stabilisers",
+        "takeaway": "Taxes and eligible transfers change automatically with income and employment, moderating cyclical fluctuations without a fresh discretionary decision each time.",
+        "definition": "Taxes and eligible transfers change automatically with income and employment, moderating cyclical fluctuations without a fresh discretionary decision each time.",
+        "causalChain": [
+          "Recession lowers tax payments and raises some benefits",
+          "disposable income falls less sharply",
+          "consumption and aggregate demand decline less"
+        ],
+        "misconceptions": [
+          "Automatic does not mean undesigned or a new stimulus law."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Taxes and eligible transfers change automatically with income and employment, moderating cyclical fluctuations without a fresh discretionary decision each time.",
+          "Automatic does not mean undesigned or a new stimulus law."
+        ],
+        "explanation": "Recession lowers tax payments and raises some benefits.  disposable income falls less sharply.  consumption and aggregate demand decline less.\n\n### Original scenario and reasoning\n\nIllustrative example: existing unemployment insurance rules automatically pay more benefits as unemployment rises, pushing the budget toward deficit. They cushion rather than eliminate recession; limited coverage, eligibility restrictions or low replacement rates weaken stabilisation. Recovering tax revenues work in reverse during expansion.\n\nAutomatic does not mean undesigned or a new stimulus law.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-48-automatic-stabilisers-flash-1",
+        "knowledgePointId": "u3-48-automatic-stabilisers",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“自动稳定器”，并说明一个关键条件。",
+          "en": "Explain Automatic stabilisers and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "税收与符合资格的转移随收入和就业自动变化，可缓和周期波动，无须每次通过新的主动决策。",
+          "en": "Taxes and eligible transfers change automatically with income and employment, moderating cyclical fluctuations without a fresh discretionary decision each time."
+        },
+        "explanation": {
+          "zh-CN": "自动不等于没有制度设计，也不等于新刺激法案。",
+          "en": "Automatic does not mean undesigned or a new stimulus law."
+        }
+      },
+      {
+        "id": "u3-48-automatic-stabilisers-mcq-1",
+        "knowledgePointId": "u3-48-automatic-stabilisers",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项属于自动稳定器？",
+          "en": "Which is an automatic stabiliser?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "临时新批准的大型基建",
+            "en": "A newly approved infrastructure programme"
+          },
+          {
+            "id": "b",
+            "zh-CN": "临时改变税率的投票",
+            "en": "A vote to change tax rates"
+          },
+          {
+            "id": "c",
+            "zh-CN": "央行新一次降息",
+            "en": "A fresh central-bank rate cut"
+          },
+          {
+            "id": "d",
+            "zh-CN": "按既有规则随失业增加的福利支出",
+            "en": "Benefits rising with unemployment under existing rules"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "按既有规则随失业增加的福利支出。 原创例：失业增加后，原有失业保险规则自动支付更多补助，预算趋向赤字。它缓冲而非消除衰退；覆盖有限、资格限制或低替代率会削弱稳定作用。景气时税收回升则有反向作用。 自动不等于没有制度设计，也不等于新刺激法案。",
+          "en": "Benefits rising with unemployment under existing rules. Illustrative example: existing unemployment insurance rules automatically pay more benefits as unemployment rises, pushing the budget toward deficit. They cushion rather than eliminate recession; limited coverage, eligibility restrictions or low replacement rates weaken stabilisation. Recovering tax revenues work in reverse during expansion. Automatic does not mean undesigned or a new stimulus law."
+        }
+      },
+      {
+        "id": "u3-48-automatic-stabilisers-short-1",
+        "knowledgePointId": "u3-48-automatic-stabilisers",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释自动稳定器的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Automatic stabilisers and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "税收与符合资格的转移随收入和就业自动变化，可缓和周期波动，无须每次通过新的主动决策。 衰退降低税款并提高部分福利支出；可支配收入跌幅得到缓冲；消费与总需求的下降减弱 原创例：失业增加后，原有失业保险规则自动支付更多补助，预算趋向赤字。它缓冲而非消除衰退；覆盖有限、资格限制或低替代率会削弱稳定作用。景气时税收回升则有反向作用。",
+          "en": "Taxes and eligible transfers change automatically with income and employment, moderating cyclical fluctuations without a fresh discretionary decision each time. Recession lowers tax payments and raises some benefits; disposable income falls less sharply; consumption and aggregate demand decline less Illustrative example: existing unemployment insurance rules automatically pay more benefits as unemployment rises, pushing the budget toward deficit. They cushion rather than eliminate recession; limited coverage, eligibility restrictions or low replacement rates weaken stabilisation. Recovering tax revenues work in reverse during expansion."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "福利支出",
+              "en": "benefits"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "福利支出",
+                "衰退降低税款并提高部分福利支出"
+              ],
+              "en": [
+                "benefits",
+                "Recession lowers tax payments and raises some benefits"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "可支配收入",
+              "en": "disposable income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "可支配收入",
+                "可支配收入跌幅得到缓冲"
+              ],
+              "en": [
+                "disposable income",
+                "disposable income falls less sharply"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "总需求",
+              "en": "aggregate demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "总需求",
+                "消费与总需求的下降减弱"
+              ],
+              "en": [
+                "aggregate demand",
+                "consumption and aggregate demand decline less"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-49-multiplier",
+      "slug": "multiplier",
+      "section": "3.6",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.4",
+          "pages": [
+            407
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-46-expansionary-fiscal",
+        "u3-47-contractionary-fiscal"
+      ],
+      "terms": [
+        "凯恩斯乘数",
+        "The Keynesian multiplier",
+        "首轮收入",
+        "first-round income",
+        "国内支出",
+        "domestic spending",
+        "进口",
+        "imports"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "首轮收入",
+          "国内支出",
+          "进口"
+        ],
+        "en": [
+          "first-round income",
+          "domestic spending",
+          "imports"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-49-multiplier-flash-1",
+        "u3-49-multiplier-mcq-1",
+        "u3-49-multiplier-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-49-multiplier",
+        "locale": "zh-CN",
+        "title": "凯恩斯乘数",
+        "takeaway": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。",
+        "definition": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。",
+        "causalChain": [
+          "自主支出创造首轮收入",
+          "部分收入形成下一轮国内支出",
+          "储蓄税收进口使后续轮次逐渐缩小"
+        ],
+        "misconceptions": [
+          "不要混用税前与税后收入口径的边际倾向。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。",
+          "不要混用税前与税后收入口径的边际倾向。"
+        ],
+        "explanation": "自主支出创造首轮收入。部分收入形成下一轮国内支出。储蓄税收进口使后续轮次逐渐缩小。\n\n### 原创情境与推导\n\n原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。\n\n不要混用税前与税后收入口径的边际倾向。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-49-multiplier",
+        "locale": "en",
+        "title": "The Keynesian multiplier",
+        "takeaway": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change.",
+        "definition": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change.",
+        "causalChain": [
+          "Autonomous spending creates first-round income",
+          "part funds further domestic spending",
+          "saving, taxes and imports shrink subsequent rounds"
+        ],
+        "misconceptions": [
+          "Do not mix marginal propensities measured against pre-tax and post-tax income."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change.",
+          "Do not mix marginal propensities measured against pre-tax and post-tax income."
+        ],
+        "explanation": "Autonomous spending creates first-round income.  part funds further domestic spending.  saving, taxes and imports shrink subsequent rounds.\n\n### Original scenario and reasoning\n\nIllustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ.\n\nDo not mix marginal propensities measured against pre-tax and post-tax income.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-49-multiplier-flash-1",
+        "knowledgePointId": "u3-49-multiplier",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“凯恩斯乘数”，并说明一个关键条件。",
+          "en": "Explain The Keynesian multiplier and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。",
+          "en": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change."
+        },
+        "explanation": {
+          "zh-CN": "不要混用税前与税后收入口径的边际倾向。",
+          "en": "Do not mix marginal propensities measured against pre-tax and post-tax income."
+        }
+      },
+      {
+        "id": "u3-49-multiplier-mcq-1",
+        "knowledgePointId": "u3-49-multiplier",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "总边际漏出 0.4，初始支出增加 8，模型 ΔY？",
+          "en": "Total marginal leakage is 0.4 and initial spending rises by 8. Model ΔY?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "20",
+            "en": "20"
+          },
+          {
+            "id": "b",
+            "zh-CN": "3.2",
+            "en": "3.2"
+          },
+          {
+            "id": "c",
+            "zh-CN": "8",
+            "en": "8"
+          },
+          {
+            "id": "d",
+            "zh-CN": "0.05",
+            "en": "0.05"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "20。 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。 不要混用税前与税后收入口径的边际倾向。",
+          "en": "20. Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ. Do not mix marginal propensities measured against pre-tax and post-tax income."
+        }
+      },
+      {
+        "id": "u3-49-multiplier-short-1",
+        "knowledgePointId": "u3-49-multiplier",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释凯恩斯乘数的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of The Keynesian multiplier and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。 自主支出创造首轮收入；部分收入形成下一轮国内支出；储蓄税收进口使后续轮次逐渐缩小 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。",
+          "en": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change. Autonomous spending creates first-round income; part funds further domestic spending; saving, taxes and imports shrink subsequent rounds Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "首轮收入",
+              "en": "first-round income"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "首轮收入",
+                "自主支出创造首轮收入"
+              ],
+              "en": [
+                "first-round income",
+                "Autonomous spending creates first-round income"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "国内支出",
+              "en": "domestic spending"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "国内支出",
+                "部分收入形成下一轮国内支出"
+              ],
+              "en": [
+                "domestic spending",
+                "part funds further domestic spending"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "进口",
+              "en": "imports"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "进口",
+                "储蓄税收进口使后续轮次逐渐缩小"
+              ],
+              "en": [
+                "imports",
+                "saving, taxes and imports shrink subsequent rounds"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-50-crowding-out",
+      "slug": "crowding-out",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-46-expansionary-fiscal",
+        "u3-47-contractionary-fiscal"
+      ],
+      "terms": [
+        "挤出效应",
+        "Crowding out",
+        "融资",
+        "financing",
+        "投入成本",
+        "input costs",
+        "私人投资",
+        "private investment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "融资",
+          "投入成本",
+          "私人投资"
+        ],
+        "en": [
+          "financing",
+          "input costs",
+          "private investment"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-50-crowding-out-flash-1",
+        "u3-50-crowding-out-mcq-1",
+        "u3-50-crowding-out-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-50-crowding-out",
+        "locale": "zh-CN",
+        "title": "挤出效应",
+        "takeaway": "政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。",
+        "definition": "政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。",
+        "causalChain": [
+          "政府扩张增加融资或资源需求",
+          "利率或投入成本可能上升",
+          "部分私人投资消费或净出口被抵消"
+        ],
+        "misconceptions": [
+          "政府借款增加不能单独证明私人投资等额下降。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。",
+          "政府借款增加不能单独证明私人投资等额下降。"
+        ],
+        "explanation": "政府扩张增加融资或资源需求。利率或投入成本可能上升。部分私人投资消费或净出口被抵消。\n\n### 原创情境与推导\n\n原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。\n\n政府借款增加不能单独证明私人投资等额下降。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-50-crowding-out",
+        "locale": "en",
+        "title": "Crowding out",
+        "takeaway": "Fiscal expansion may displace private spending through interest rates, competition for resources or exchange rates. Its extent depends on capacity, monetary policy and financing conditions; full crowding out is not inevitable.",
+        "definition": "Fiscal expansion may displace private spending through interest rates, competition for resources or exchange rates. Its extent depends on capacity, monetary policy and financing conditions; full crowding out is not inevitable.",
+        "causalChain": [
+          "Fiscal expansion raises financing or resource demand",
+          "interest rates or input costs may rise",
+          "some private investment, consumption or net exports are offset"
+        ],
+        "misconceptions": [
+          "Higher government borrowing alone does not prove an equal fall in private investment."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Fiscal expansion may displace private spending through interest rates, competition for resources or exchange rates. Its extent depends on capacity, monetary policy and financing conditions; full crowding out is not inevitable.",
+          "Higher government borrowing alone does not prove an equal fall in private investment."
+        ],
+        "explanation": "Fiscal expansion raises financing or resource demand.  interest rates or input costs may rise.  some private investment, consumption or net exports are offset.\n\n### Original scenario and reasoning\n\nIllustrative example: at capacity, public works compete for construction workers and raise private project costs. Such pressure may be weaker in a deep recession with monetary accommodation. Transport investment may also lower firms' costs and crowd investment in over time.\n\nHigher government borrowing alone does not prove an equal fall in private investment.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-50-crowding-out-flash-1",
+        "knowledgePointId": "u3-50-crowding-out",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“挤出效应”，并说明一个关键条件。",
+          "en": "Explain Crowding out and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。",
+          "en": "Fiscal expansion may displace private spending through interest rates, competition for resources or exchange rates. Its extent depends on capacity, monetary policy and financing conditions; full crowding out is not inevitable."
+        },
+        "explanation": {
+          "zh-CN": "政府借款增加不能单独证明私人投资等额下降。",
+          "en": "Higher government borrowing alone does not prove an equal fall in private investment."
+        }
+      },
+      {
+        "id": "u3-50-crowding-out-mcq-1",
+        "knowledgePointId": "u3-50-crowding-out",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪种条件下资源挤出更可能较强？",
+          "en": "When is resource crowding out more likely to be strong?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "大量工人设备闲置",
+            "en": "Extensive idle labour and equipment"
+          },
+          {
+            "id": "b",
+            "zh-CN": "经济接近产能上限",
+            "en": "The economy is close to capacity"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有公共投资毫无成本",
+            "en": "All public investment is costless"
+          },
+          {
+            "id": "d",
+            "zh-CN": "利率永远不变即可排除资源竞争",
+            "en": "Fixed interest alone rules out resource competition"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "经济接近产能上限。 原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。 政府借款增加不能单独证明私人投资等额下降。",
+          "en": "The economy is close to capacity. Illustrative example: at capacity, public works compete for construction workers and raise private project costs. Such pressure may be weaker in a deep recession with monetary accommodation. Transport investment may also lower firms' costs and crowd investment in over time. Higher government borrowing alone does not prove an equal fall in private investment."
+        }
+      },
+      {
+        "id": "u3-50-crowding-out-short-1",
+        "knowledgePointId": "u3-50-crowding-out",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释挤出效应的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Crowding out and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。 政府扩张增加融资或资源需求；利率或投入成本可能上升；部分私人投资消费或净出口被抵消 原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。",
+          "en": "Fiscal expansion may displace private spending through interest rates, competition for resources or exchange rates. Its extent depends on capacity, monetary policy and financing conditions; full crowding out is not inevitable. Fiscal expansion raises financing or resource demand; interest rates or input costs may rise; some private investment, consumption or net exports are offset Illustrative example: at capacity, public works compete for construction workers and raise private project costs. Such pressure may be weaker in a deep recession with monetary accommodation. Transport investment may also lower firms' costs and crowd investment in over time."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "融资",
+              "en": "financing"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "融资",
+                "政府扩张增加融资或资源需求"
+              ],
+              "en": [
+                "financing",
+                "Fiscal expansion raises financing or resource demand"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "投入成本",
+              "en": "input costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "投入成本",
+                "利率或投入成本可能上升"
+              ],
+              "en": [
+                "input costs",
+                "interest rates or input costs may rise"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "私人投资",
+              "en": "private investment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "私人投资",
+                "部分私人投资消费或净出口被抵消"
+              ],
+              "en": [
+                "private investment",
+                "some private investment, consumption or net exports are offset"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-51-fiscal-evaluation",
+      "slug": "fiscal-evaluation",
+      "section": "3.6",
+      "level": "core",
+      "syllabusRefs": [
+        "3.6 Fiscal policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.3",
+          "pages": [
+            398
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-45-fiscal-budget",
+        "u3-46-expansionary-fiscal",
+        "u3-47-contractionary-fiscal"
+      ],
+      "terms": [
+        "财政政策评价",
+        "Evaluating fiscal policy",
+        "产出缺口",
+        "output gap",
+        "漏出",
+        "leakages",
+        "长期财政供给",
+        "long-run fiscal and supply"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "产出缺口",
+          "漏出",
+          "长期财政供给"
+        ],
+        "en": [
+          "output gap",
+          "leakages",
+          "long-run fiscal and supply"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-51-fiscal-evaluation-flash-1",
+        "u3-51-fiscal-evaluation-mcq-1",
+        "u3-51-fiscal-evaluation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-51-fiscal-evaluation",
+        "locale": "zh-CN",
+        "title": "财政政策评价",
+        "takeaway": "财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。",
+        "definition": "财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。",
+        "causalChain": [
+          "判断产出缺口与政策目标",
+          "检查设计审批执行及漏出",
+          "权衡短期稳定与长期财政供给结果"
+        ],
+        "misconceptions": [
+          "不能仅凭赤字大小或单一乘数宣布政策成功。"
+        ],
+        "examApplication": [
+          "区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        ],
+        "summary": [
+          "财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。",
+          "不能仅凭赤字大小或单一乘数宣布政策成功。"
+        ],
+        "explanation": "判断产出缺口与政策目标。检查设计审批执行及漏出。权衡短期稳定与长期财政供给结果。\n\n### 原创情境与推导\n\n原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。\n\n不能仅凭赤字大小或单一乘数宣布政策成功。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+      },
+      "en": {
+        "id": "u3-51-fiscal-evaluation",
+        "locale": "en",
+        "title": "Evaluating fiscal policy",
+        "takeaway": "Fiscal evaluation compares multipliers, lags, debt sustainability, distribution and supply effects, reaching conditional conclusions based on economic conditions and the spending-tax mix.",
+        "definition": "Fiscal evaluation compares multipliers, lags, debt sustainability, distribution and supply effects, reaching conditional conclusions based on economic conditions and the spending-tax mix.",
+        "causalChain": [
+          "Identify the output gap and objective",
+          "examine design, approval, implementation and leakages",
+          "weigh short-run stabilisation against long-run fiscal and supply outcomes"
+        ],
+        "misconceptions": [
+          "Neither deficit size nor a single multiplier establishes policy success."
+        ],
+        "examApplication": [
+          "Distinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        ],
+        "summary": [
+          "Fiscal evaluation compares multipliers, lags, debt sustainability, distribution and supply effects, reaching conditional conclusions based on economic conditions and the spending-tax mix.",
+          "Neither deficit size nor a single multiplier establishes policy success."
+        ],
+        "explanation": "Identify the output gap and objective.  examine design, approval, implementation and leakages.  weigh short-run stabilisation against long-run fiscal and supply outcomes.\n\n### Original scenario and reasoning\n\nIllustrative example: cash support may stabilise demand sooner, whereas rail construction has long preparation but may raise future capacity. High import propensity reduces domestic demand effects, yet imported equipment can expand supply. Financing currency, interest and future tax bases all matter for debt risk.\n\nNeither deficit size nor a single multiplier establishes policy success.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-51-fiscal-evaluation-flash-1",
+        "knowledgePointId": "u3-51-fiscal-evaluation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“财政政策评价”，并说明一个关键条件。",
+          "en": "Explain Evaluating fiscal policy and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。",
+          "en": "Fiscal evaluation compares multipliers, lags, debt sustainability, distribution and supply effects, reaching conditional conclusions based on economic conditions and the spending-tax mix."
+        },
+        "explanation": {
+          "zh-CN": "不能仅凭赤字大小或单一乘数宣布政策成功。",
+          "en": "Neither deficit size nor a single multiplier establishes policy success."
+        }
+      },
+      {
+        "id": "u3-51-fiscal-evaluation-mcq-1",
+        "knowledgePointId": "u3-51-fiscal-evaluation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "比较现金支持与基建时应考虑什么？",
+          "en": "What matters when comparing cash support and infrastructure?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只看名称是否积极",
+            "en": "Only whether the name sounds positive"
+          },
+          {
+            "id": "b",
+            "zh-CN": "假定进口完全无影响",
+            "en": "Assume imports have no effects"
+          },
+          {
+            "id": "c",
+            "zh-CN": "实施时滞与长期供给效果",
+            "en": "Implementation lags and long-run supply effects"
+          },
+          {
+            "id": "d",
+            "zh-CN": "忽略融资和分配",
+            "en": "Ignore financing and distribution"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "实施时滞与长期供给效果。 原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。 不能仅凭赤字大小或单一乘数宣布政策成功。",
+          "en": "Implementation lags and long-run supply effects. Illustrative example: cash support may stabilise demand sooner, whereas rail construction has long preparation but may raise future capacity. High import propensity reduces domestic demand effects, yet imported equipment can expand supply. Financing currency, interest and future tax bases all matter for debt risk. Neither deficit size nor a single multiplier establishes policy success."
+        }
+      },
+      {
+        "id": "u3-51-fiscal-evaluation-short-1",
+        "knowledgePointId": "u3-51-fiscal-evaluation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释财政政策评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Evaluating fiscal policy and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。 判断产出缺口与政策目标；检查设计审批执行及漏出；权衡短期稳定与长期财政供给结果 原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。",
+          "en": "Fiscal evaluation compares multipliers, lags, debt sustainability, distribution and supply effects, reaching conditional conclusions based on economic conditions and the spending-tax mix. Identify the output gap and objective; examine design, approval, implementation and leakages; weigh short-run stabilisation against long-run fiscal and supply outcomes Illustrative example: cash support may stabilise demand sooner, whereas rail construction has long preparation but may raise future capacity. High import propensity reduces domestic demand effects, yet imported equipment can expand supply. Financing currency, interest and future tax bases all matter for debt risk."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "产出缺口",
+              "en": "output gap"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "产出缺口",
+                "判断产出缺口与政策目标"
+              ],
+              "en": [
+                "output gap",
+                "Identify the output gap and objective"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "漏出",
+              "en": "leakages"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "漏出",
+                "检查设计审批执行及漏出"
+              ],
+              "en": [
+                "leakages",
+                "examine design, approval, implementation and leakages"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "长期财政供给",
+              "en": "long-run fiscal and supply"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期财政供给",
+                "权衡短期稳定与长期财政供给结果"
+              ],
+              "en": [
+                "long-run fiscal and supply",
+                "weigh short-run stabilisation against long-run fiscal and supply outcomes"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-52-market-based-supply",
+      "slug": "market-based-supply",
+      "section": "3.7",
+      "level": "core",
+      "syllabusRefs": [
+        "3.7 Supply-side policies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.6",
+          "pages": [
+            412
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-15-lras"
+      ],
+      "related": [
+        "u3-53-interventionist-supply",
+        "u3-54-labour-market",
+        "u3-55-infrastructure-innovation"
+      ],
+      "terms": [
+        "市场导向供给侧政策",
+        "Market-based supply-side policies",
+        "竞争",
+        "competitive",
+        "效率",
+        "efficiency",
+        "生产能力",
+        "productive capacity"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "竞争",
+          "效率",
+          "生产能力"
+        ],
+        "en": [
+          "competitive",
+          "efficiency",
+          "productive capacity"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-52-market-based-supply-flash-1",
+        "u3-52-market-based-supply-mcq-1",
+        "u3-52-market-based-supply-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-52-market-based-supply",
+        "locale": "zh-CN",
+        "title": "市场导向供给侧政策",
+        "takeaway": "竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。",
+        "definition": "竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。",
+        "causalChain": [
+          "改变竞争或激励约束",
+          "企业改善效率投资与创新",
+          "生产能力可能提高使长期总供给右移"
+        ],
+        "misconceptions": [
+          "放松管制不应被理解为移除一切安全和环境规则。"
+        ],
+        "examApplication": [
+          "解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+        ],
+        "summary": [
+          "竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。",
+          "放松管制不应被理解为移除一切安全和环境规则。"
+        ],
+        "explanation": "改变竞争或激励约束。企业改善效率投资与创新。生产能力可能提高使长期总供给右移。\n\n### 原创情境与推导\n\n原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。\n\n放松管制不应被理解为移除一切安全和环境规则。\n\n解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+      },
+      "en": {
+        "id": "u3-52-market-based-supply",
+        "locale": "en",
+        "title": "Market-based supply-side policies",
+        "takeaway": "Competition, appropriate deregulation, tax incentives and privatisation seek to improve allocation and production incentives. Results depend on competitive conditions and institutional design.",
+        "definition": "Competition, appropriate deregulation, tax incentives and privatisation seek to improve allocation and production incentives. Results depend on competitive conditions and institutional design.",
+        "causalChain": [
+          "Change competitive or incentive constraints",
+          "firms improve efficiency, investment and innovation",
+          "productive capacity may rise and LRAS shift right"
+        ],
+        "misconceptions": [
+          "Deregulation need not mean removing all safety and environmental rules."
+        ],
+        "examApplication": [
+          "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+        ],
+        "summary": [
+          "Competition, appropriate deregulation, tax incentives and privatisation seek to improve allocation and production incentives. Results depend on competitive conditions and institutional design.",
+          "Deregulation need not mean removing all safety and environmental rules."
+        ],
+        "explanation": "Change competitive or incentive constraints.  firms improve efficiency, investment and innovation.  productive capacity may rise and LRAS shift right.\n\n### Original scenario and reasoning\n\nIllustrative example: removing unnecessary entry barriers may strengthen competition, but selling a public monopoly as a private monopoly does not guarantee efficiency or affordability. Tax cuts that fail to induce investment may lose revenue without delivering expected capacity.\n\nDeregulation need not mean removing all safety and environmental rules.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-52-market-based-supply-flash-1",
+        "knowledgePointId": "u3-52-market-based-supply",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“市场导向供给侧政策”，并说明一个关键条件。",
+          "en": "Explain Market-based supply-side policies and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。",
+          "en": "Competition, appropriate deregulation, tax incentives and privatisation seek to improve allocation and production incentives. Results depend on competitive conditions and institutional design."
+        },
+        "explanation": {
+          "zh-CN": "放松管制不应被理解为移除一切安全和环境规则。",
+          "en": "Deregulation need not mean removing all safety and environmental rules."
+        }
+      },
+      {
+        "id": "u3-52-market-based-supply-mcq-1",
+        "knowledgePointId": "u3-52-market-based-supply",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "私有化改善效率的重要条件？",
+          "en": "An important condition for privatisation to improve efficiency?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "必然形成不受监管垄断",
+            "en": "Necessarily unregulated monopoly"
+          },
+          {
+            "id": "b",
+            "zh-CN": "所有公共服务同时取消",
+            "en": "All public services abolished"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有市场失灵自动消失",
+            "en": "All market failures automatically disappear"
+          },
+          {
+            "id": "d",
+            "zh-CN": "有效竞争或合适监管",
+            "en": "Effective competition or appropriate regulation"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "有效竞争或合适监管。 原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。 放松管制不应被理解为移除一切安全和环境规则。",
+          "en": "Effective competition or appropriate regulation. Illustrative example: removing unnecessary entry barriers may strengthen competition, but selling a public monopoly as a private monopoly does not guarantee efficiency or affordability. Tax cuts that fail to induce investment may lose revenue without delivering expected capacity. Deregulation need not mean removing all safety and environmental rules."
+        }
+      },
+      {
+        "id": "u3-52-market-based-supply-short-1",
+        "knowledgePointId": "u3-52-market-based-supply",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释市场导向供给侧政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Market-based supply-side policies and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。 改变竞争或激励约束；企业改善效率投资与创新；生产能力可能提高使长期总供给右移 原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。",
+          "en": "Competition, appropriate deregulation, tax incentives and privatisation seek to improve allocation and production incentives. Results depend on competitive conditions and institutional design. Change competitive or incentive constraints; firms improve efficiency, investment and innovation; productive capacity may rise and LRAS shift right Illustrative example: removing unnecessary entry barriers may strengthen competition, but selling a public monopoly as a private monopoly does not guarantee efficiency or affordability. Tax cuts that fail to induce investment may lose revenue without delivering expected capacity."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "竞争",
+              "en": "competitive"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "竞争",
+                "改变竞争或激励约束"
+              ],
+              "en": [
+                "competitive",
+                "Change competitive or incentive constraints"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "效率",
+              "en": "efficiency"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "效率",
+                "企业改善效率投资与创新"
+              ],
+              "en": [
+                "efficiency",
+                "firms improve efficiency, investment and innovation"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "生产能力",
+              "en": "productive capacity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "生产能力",
+                "生产能力可能提高使长期总供给右移"
+              ],
+              "en": [
+                "productive capacity",
+                "productive capacity may rise and LRAS shift right"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-53-interventionist-supply",
+      "slug": "interventionist-supply",
+      "section": "3.7",
+      "level": "core",
+      "syllabusRefs": [
+        "3.7 Supply-side policies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.6",
+          "pages": [
+            412
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-15-lras"
+      ],
+      "related": [
+        "u3-52-market-based-supply",
+        "u3-54-labour-market",
+        "u3-55-infrastructure-innovation"
+      ],
+      "terms": [
+        "干预型供给侧政策",
+        "Interventionist supply-side policies",
+        "瓶颈",
+        "bottlenecks",
+        "投资",
+        "investment",
+        "潜在产出",
+        "potential output"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "瓶颈",
+          "投资",
+          "潜在产出"
+        ],
+        "en": [
+          "bottlenecks",
+          "investment",
+          "potential output"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-53-interventionist-supply-flash-1",
+        "u3-53-interventionist-supply-mcq-1",
+        "u3-53-interventionist-supply-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-53-interventionist-supply",
+        "locale": "zh-CN",
+        "title": "干预型供给侧政策",
+        "takeaway": "教育、培训、医疗、基础设施和研发支持旨在提升生产率与潜在产出，常针对外部收益、信息或协调失灵。",
+        "definition": "教育、培训、医疗、基础设施和研发支持旨在提升生产率与潜在产出，常针对外部收益、信息或协调失灵。",
+        "causalChain": [
+          "识别技能健康或资本瓶颈",
+          "公共服务和投资改善生产条件",
+          "生产率与潜在产出可能长期增加"
+        ],
+        "misconceptions": [
+          "投入金额不是生产率改善的充分证据。"
+        ],
+        "examApplication": [
+          "解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+        ],
+        "summary": [
+          "教育、培训、医疗、基础设施和研发支持旨在提升生产率与潜在产出，常针对外部收益、信息或协调失灵。",
+          "投入金额不是生产率改善的充分证据。"
+        ],
+        "explanation": "识别技能健康或资本瓶颈。公共服务和投资改善生产条件。生产率与潜在产出可能长期增加。\n\n### 原创情境与推导\n\n原创例：针对实际岗位需求的培训可减少技能错配，但没有雇主需求的课程未必增加就业。教育支出当期可能提高总需求，只有改善技能和生产率时才支持长期总供给，且往往需要较长时间。\n\n投入金额不是生产率改善的充分证据。\n\n解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+      },
+      "en": {
+        "id": "u3-53-interventionist-supply",
+        "locale": "en",
+        "title": "Interventionist supply-side policies",
+        "takeaway": "Education, training, health, infrastructure and research support aim to raise productivity and potential output, often addressing external benefits, information or coordination failures.",
+        "definition": "Education, training, health, infrastructure and research support aim to raise productivity and potential output, often addressing external benefits, information or coordination failures.",
+        "causalChain": [
+          "Identify skill, health or capital bottlenecks",
+          "public services and investment improve production conditions",
+          "productivity and potential output may increase over time"
+        ],
+        "misconceptions": [
+          "Spending amounts are not sufficient evidence of productivity gains."
+        ],
+        "examApplication": [
+          "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+        ],
+        "summary": [
+          "Education, training, health, infrastructure and research support aim to raise productivity and potential output, often addressing external benefits, information or coordination failures.",
+          "Spending amounts are not sufficient evidence of productivity gains."
+        ],
+        "explanation": "Identify skill, health or capital bottlenecks.  public services and investment improve production conditions.  productivity and potential output may increase over time.\n\n### Original scenario and reasoning\n\nIllustrative example: training aligned with actual vacancies may reduce mismatch, whereas courses without employer demand may not increase employment. Education spending can raise current demand, but supports long-run supply only if skills and productivity improve, often after a long lag.\n\nSpending amounts are not sufficient evidence of productivity gains.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-53-interventionist-supply-flash-1",
+        "knowledgePointId": "u3-53-interventionist-supply",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“干预型供给侧政策”，并说明一个关键条件。",
+          "en": "Explain Interventionist supply-side policies and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "教育、培训、医疗、基础设施和研发支持旨在提升生产率与潜在产出，常针对外部收益、信息或协调失灵。",
+          "en": "Education, training, health, infrastructure and research support aim to raise productivity and potential output, often addressing external benefits, information or coordination failures."
+        },
+        "explanation": {
+          "zh-CN": "投入金额不是生产率改善的充分证据。",
+          "en": "Spending amounts are not sufficient evidence of productivity gains."
+        }
+      },
+      {
+        "id": "u3-53-interventionist-supply-mcq-1",
+        "knowledgePointId": "u3-53-interventionist-supply",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "教育支出提高 LRAS 的关键渠道？",
+          "en": "The key channel through which education spending raises LRAS?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "提高技能与劳动生产率",
+            "en": "Improved skills and labour productivity"
+          },
+          {
+            "id": "b",
+            "zh-CN": "仅仅提高当期 G 的账面值",
+            "en": "Only a higher accounting value of current G"
+          },
+          {
+            "id": "c",
+            "zh-CN": "保证立即消除贫困",
+            "en": "Guaranteed immediate elimination of poverty"
+          },
+          {
+            "id": "d",
+            "zh-CN": "自动使所有物价下降",
+            "en": "Automatically lowers every price"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "提高技能与劳动生产率。 原创例：针对实际岗位需求的培训可减少技能错配，但没有雇主需求的课程未必增加就业。教育支出当期可能提高总需求，只有改善技能和生产率时才支持长期总供给，且往往需要较长时间。 投入金额不是生产率改善的充分证据。",
+          "en": "Improved skills and labour productivity. Illustrative example: training aligned with actual vacancies may reduce mismatch, whereas courses without employer demand may not increase employment. Education spending can raise current demand, but supports long-run supply only if skills and productivity improve, often after a long lag. Spending amounts are not sufficient evidence of productivity gains."
+        }
+      },
+      {
+        "id": "u3-53-interventionist-supply-short-1",
+        "knowledgePointId": "u3-53-interventionist-supply",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释干预型供给侧政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Interventionist supply-side policies and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "教育、培训、医疗、基础设施和研发支持旨在提升生产率与潜在产出，常针对外部收益、信息或协调失灵。 识别技能健康或资本瓶颈；公共服务和投资改善生产条件；生产率与潜在产出可能长期增加 原创例：针对实际岗位需求的培训可减少技能错配，但没有雇主需求的课程未必增加就业。教育支出当期可能提高总需求，只有改善技能和生产率时才支持长期总供给，且往往需要较长时间。",
+          "en": "Education, training, health, infrastructure and research support aim to raise productivity and potential output, often addressing external benefits, information or coordination failures. Identify skill, health or capital bottlenecks; public services and investment improve production conditions; productivity and potential output may increase over time Illustrative example: training aligned with actual vacancies may reduce mismatch, whereas courses without employer demand may not increase employment. Education spending can raise current demand, but supports long-run supply only if skills and productivity improve, often after a long lag."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "瓶颈",
+              "en": "bottlenecks"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "瓶颈",
+                "识别技能健康或资本瓶颈"
+              ],
+              "en": [
+                "bottlenecks",
+                "Identify skill, health or capital bottlenecks"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "投资",
+              "en": "investment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "投资",
+                "公共服务和投资改善生产条件"
+              ],
+              "en": [
+                "investment",
+                "public services and investment improve production conditions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "潜在产出",
+              "en": "potential output"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "潜在产出",
+                "生产率与潜在产出可能长期增加"
+              ],
+              "en": [
+                "potential output",
+                "productivity and potential output may increase over time"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-54-labour-market",
+      "slug": "labour-market",
+      "section": "3.7",
+      "level": "core",
+      "syllabusRefs": [
+        "3.7 Supply-side policies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.6",
+          "pages": [
+            412
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-15-lras"
+      ],
+      "related": [
+        "u3-52-market-based-supply",
+        "u3-53-interventionist-supply",
+        "u3-55-infrastructure-innovation"
+      ],
+      "terms": [
+        "劳动力市场政策",
+        "Labour-market policies",
+        "结构性失业",
+        "structural unemployment",
+        "匹配",
+        "matching",
+        "自然失业率",
+        "natural unemployment rate"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "结构性失业",
+          "匹配",
+          "自然失业率"
+        ],
+        "en": [
+          "structural unemployment",
+          "matching",
+          "natural unemployment rate"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-54-labour-market-flash-1",
+        "u3-54-labour-market-mcq-1",
+        "u3-54-labour-market-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-54-labour-market",
+        "locale": "zh-CN",
+        "title": "劳动力市场政策",
+        "takeaway": "培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。",
+        "definition": "培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。",
+        "causalChain": [
+          "诊断摩擦性或结构性失业原因",
+          "改善匹配技能或地区流动",
+          "可持续就业增加并可能降低自然失业率"
+        ],
+        "misconceptions": [
+          "培训不直接解决总需求不足造成的所有周期性失业。"
+        ],
+        "examApplication": [
+          "解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+        ],
+        "summary": [
+          "培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。",
+          "培训不直接解决总需求不足造成的所有周期性失业。"
+        ],
+        "explanation": "诊断摩擦性或结构性失业原因。改善匹配技能或地区流动。可持续就业增加并可能降低自然失业率。\n\n### 原创情境与推导\n\n原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。\n\n培训不直接解决总需求不足造成的所有周期性失业。\n\n解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+      },
+      "en": {
+        "id": "u3-54-labour-market",
+        "locale": "en",
+        "title": "Labour-market policies",
+        "takeaway": "Training, job information, mobility support and labour reforms can affect matching and incentives. Evaluate efficiency alongside income security and labour rights.",
+        "definition": "Training, job information, mobility support and labour reforms can affect matching and incentives. Evaluate efficiency alongside income security and labour rights.",
+        "causalChain": [
+          "Diagnose frictional or structural unemployment",
+          "improve matching, skills or regional mobility",
+          "sustainable employment rises and the natural unemployment rate may fall"
+        ],
+        "misconceptions": [
+          "Training does not directly solve all cyclical unemployment caused by weak demand."
+        ],
+        "examApplication": [
+          "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+        ],
+        "summary": [
+          "Training, job information, mobility support and labour reforms can affect matching and incentives. Evaluate efficiency alongside income security and labour rights.",
+          "Training does not directly solve all cyclical unemployment caused by weak demand."
+        ],
+        "explanation": "Diagnose frictional or structural unemployment.  improve matching, skills or regional mobility.  sustainable employment rises and the natural unemployment rate may fall.\n\n### Original scenario and reasoning\n\nIllustrative example: public vacancy platforms improve information and relocation support aids regional job search, but housing costs and caring duties may still restrict mobility. Weaker protections may lower some hiring costs while increasing insecurity; lower wages alone are not a complete evaluation.\n\nTraining does not directly solve all cyclical unemployment caused by weak demand.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-54-labour-market-flash-1",
+        "knowledgePointId": "u3-54-labour-market",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“劳动力市场政策”，并说明一个关键条件。",
+          "en": "Explain Labour-market policies and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。",
+          "en": "Training, job information, mobility support and labour reforms can affect matching and incentives. Evaluate efficiency alongside income security and labour rights."
+        },
+        "explanation": {
+          "zh-CN": "培训不直接解决总需求不足造成的所有周期性失业。",
+          "en": "Training does not directly solve all cyclical unemployment caused by weak demand."
+        }
+      },
+      {
+        "id": "u3-54-labour-market-mcq-1",
+        "knowledgePointId": "u3-54-labour-market",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "岗位信息服务最直接针对什么？",
+          "en": "What do vacancy information services most directly address?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "所有能源进口价格",
+            "en": "All imported energy prices"
+          },
+          {
+            "id": "b",
+            "zh-CN": "求职与岗位之间的信息和匹配障碍",
+            "en": "Information and matching barriers between jobs and applicants"
+          },
+          {
+            "id": "c",
+            "zh-CN": "直接增加货币供给",
+            "en": "Directly increasing money supply"
+          },
+          {
+            "id": "d",
+            "zh-CN": "保证每个岗位都永久存在",
+            "en": "Guaranteeing every job exists permanently"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "求职与岗位之间的信息和匹配障碍。 原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。 培训不直接解决总需求不足造成的所有周期性失业。",
+          "en": "Information and matching barriers between jobs and applicants. Illustrative example: public vacancy platforms improve information and relocation support aids regional job search, but housing costs and caring duties may still restrict mobility. Weaker protections may lower some hiring costs while increasing insecurity; lower wages alone are not a complete evaluation. Training does not directly solve all cyclical unemployment caused by weak demand."
+        }
+      },
+      {
+        "id": "u3-54-labour-market-short-1",
+        "knowledgePointId": "u3-54-labour-market",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释劳动力市场政策的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Labour-market policies and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。 诊断摩擦性或结构性失业原因；改善匹配技能或地区流动；可持续就业增加并可能降低自然失业率 原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。",
+          "en": "Training, job information, mobility support and labour reforms can affect matching and incentives. Evaluate efficiency alongside income security and labour rights. Diagnose frictional or structural unemployment; improve matching, skills or regional mobility; sustainable employment rises and the natural unemployment rate may fall Illustrative example: public vacancy platforms improve information and relocation support aids regional job search, but housing costs and caring duties may still restrict mobility. Weaker protections may lower some hiring costs while increasing insecurity; lower wages alone are not a complete evaluation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "结构性失业",
+              "en": "structural unemployment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "结构性失业",
+                "诊断摩擦性或结构性失业原因"
+              ],
+              "en": [
+                "structural unemployment",
+                "Diagnose frictional or structural unemployment"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "匹配",
+              "en": "matching"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "匹配",
+                "改善匹配技能或地区流动"
+              ],
+              "en": [
+                "matching",
+                "improve matching, skills or regional mobility"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "自然失业率",
+              "en": "natural unemployment rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自然失业率",
+                "可持续就业增加并可能降低自然失业率"
+              ],
+              "en": [
+                "natural unemployment rate",
+                "sustainable employment rises and the natural unemployment rate may fall"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-55-infrastructure-innovation",
+      "slug": "infrastructure-innovation",
+      "section": "3.7",
+      "level": "core",
+      "syllabusRefs": [
+        "3.7 Supply-side policies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.6",
+          "pages": [
+            412
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-15-lras"
+      ],
+      "related": [
+        "u3-52-market-based-supply",
+        "u3-53-interventionist-supply",
+        "u3-54-labour-market"
+      ],
+      "terms": [
+        "基础设施与创新",
+        "Infrastructure and innovation",
+        "知识瓶颈",
+        "knowledge bottlenecks",
+        "成本",
+        "costs",
+        "长期供给",
+        "long-run supply"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "知识瓶颈",
+          "成本",
+          "长期供给"
+        ],
+        "en": [
+          "knowledge bottlenecks",
+          "costs",
+          "long-run supply"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-55-infrastructure-innovation-flash-1",
+        "u3-55-infrastructure-innovation-mcq-1",
+        "u3-55-infrastructure-innovation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-55-infrastructure-innovation",
+        "locale": "zh-CN",
+        "title": "基础设施与创新",
+        "takeaway": "交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。",
+        "definition": "交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。",
+        "causalChain": [
+          "识别网络或知识瓶颈",
+          "投资降低成本或扩大技术能力",
+          "长期供给增加但收益取决于使用与维护"
+        ],
+        "misconceptions": [
+          "增加投资流量不保证资本服务质量和长期回报。"
+        ],
+        "examApplication": [
+          "解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+        ],
+        "summary": [
+          "交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。",
+          "增加投资流量不保证资本服务质量和长期回报。"
+        ],
+        "explanation": "识别网络或知识瓶颈。投资降低成本或扩大技术能力。长期供给增加但收益取决于使用与维护。\n\n### 原创情境与推导\n\n原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。\n\n增加投资流量不保证资本服务质量和长期回报。\n\n解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+      },
+      "en": {
+        "id": "u3-55-infrastructure-innovation",
+        "locale": "en",
+        "title": "Infrastructure and innovation",
+        "takeaway": "Transport, digital networks and research can raise productivity and generate external benefits. Evaluate additional benefits, opportunity costs, maintenance and governance.",
+        "definition": "Transport, digital networks and research can raise productivity and generate external benefits. Evaluate additional benefits, opportunity costs, maintenance and governance.",
+        "causalChain": [
+          "Identify network or knowledge bottlenecks",
+          "investment lowers costs or expands technological capability",
+          "long-run supply grows but benefits depend on use and maintenance"
+        ],
+        "misconceptions": [
+          "Higher investment flows do not guarantee capital-service quality or long-run returns."
+        ],
+        "examApplication": [
+          "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+        ],
+        "summary": [
+          "Transport, digital networks and research can raise productivity and generate external benefits. Evaluate additional benefits, opportunity costs, maintenance and governance.",
+          "Higher investment flows do not guarantee capital-service quality or long-run returns."
+        ],
+        "explanation": "Identify network or knowledge bottlenecks.  investment lowers costs or expands technological capability.  long-run supply grows but benefits depend on use and maintenance.\n\n### Original scenario and reasoning\n\nIllustrative example: reliable electricity reduces downtime, while research support may generate knowledge spillovers. Underused projects, rent-seeking or poor maintenance can make costs exceed benefits. Research outcomes are uncertain; not every subsidy produces additional innovation.\n\nHigher investment flows do not guarantee capital-service quality or long-run returns.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-55-infrastructure-innovation-flash-1",
+        "knowledgePointId": "u3-55-infrastructure-innovation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“基础设施与创新”，并说明一个关键条件。",
+          "en": "Explain Infrastructure and innovation and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。",
+          "en": "Transport, digital networks and research can raise productivity and generate external benefits. Evaluate additional benefits, opportunity costs, maintenance and governance."
+        },
+        "explanation": {
+          "zh-CN": "增加投资流量不保证资本服务质量和长期回报。",
+          "en": "Higher investment flows do not guarantee capital-service quality or long-run returns."
+        }
+      },
+      {
+        "id": "u3-55-infrastructure-innovation-mcq-1",
+        "knowledgePointId": "u3-55-infrastructure-innovation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评估公共研发支持应考察什么？",
+          "en": "What should evaluation of public research support consider?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只统计补贴总额",
+            "en": "Only total subsidy spending"
+          },
+          {
+            "id": "b",
+            "zh-CN": "假定研发全部成功",
+            "en": "Assume all research succeeds"
+          },
+          {
+            "id": "c",
+            "zh-CN": "额外创新、外部收益与机会成本",
+            "en": "Additional innovation, external benefits and opportunity cost"
+          },
+          {
+            "id": "d",
+            "zh-CN": "排除维护和治理",
+            "en": "Exclude maintenance and governance"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "额外创新、外部收益与机会成本。 原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。 增加投资流量不保证资本服务质量和长期回报。",
+          "en": "Additional innovation, external benefits and opportunity cost. Illustrative example: reliable electricity reduces downtime, while research support may generate knowledge spillovers. Underused projects, rent-seeking or poor maintenance can make costs exceed benefits. Research outcomes are uncertain; not every subsidy produces additional innovation. Higher investment flows do not guarantee capital-service quality or long-run returns."
+        }
+      },
+      {
+        "id": "u3-55-infrastructure-innovation-short-1",
+        "knowledgePointId": "u3-55-infrastructure-innovation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释基础设施与创新的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Infrastructure and innovation and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "交通、数字网络和研发可提高生产率并产生外部收益；项目应按额外收益、机会成本、维护和治理能力评价。 识别网络或知识瓶颈；投资降低成本或扩大技术能力；长期供给增加但收益取决于使用与维护 原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。",
+          "en": "Transport, digital networks and research can raise productivity and generate external benefits. Evaluate additional benefits, opportunity costs, maintenance and governance. Identify network or knowledge bottlenecks; investment lowers costs or expands technological capability; long-run supply grows but benefits depend on use and maintenance Illustrative example: reliable electricity reduces downtime, while research support may generate knowledge spillovers. Underused projects, rent-seeking or poor maintenance can make costs exceed benefits. Research outcomes are uncertain; not every subsidy produces additional innovation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "知识瓶颈",
+              "en": "knowledge bottlenecks"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "知识瓶颈",
+                "识别网络或知识瓶颈"
+              ],
+              "en": [
+                "knowledge bottlenecks",
+                "Identify network or knowledge bottlenecks"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "成本",
+              "en": "costs"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "成本",
+                "投资降低成本或扩大技术能力"
+              ],
+              "en": [
+                "costs",
+                "investment lowers costs or expands technological capability"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "长期供给",
+              "en": "long-run supply"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "长期供给",
+                "长期供给增加但收益取决于使用与维护"
+              ],
+              "en": [
+                "long-run supply",
+                "long-run supply grows but benefits depend on use and maintenance"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-56-policy-mix",
+      "slug": "policy-mix",
+      "section": "3.7",
+      "level": "core",
+      "syllabusRefs": [
+        "3.7 Supply-side policies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.7",
+          "pages": [
+            424
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-15-lras"
+      ],
+      "related": [
+        "u3-52-market-based-supply",
+        "u3-53-interventionist-supply",
+        "u3-54-labour-market"
+      ],
+      "terms": [
+        "宏观政策组合与评价",
+        "Macroeconomic policy mixes",
+        "供给瓶颈",
+        "supply bottlenecks",
+        "短期稳定",
+        "short-run stabilisation",
+        "多目标",
+        "objectives"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "供给瓶颈",
+          "短期稳定",
+          "多目标"
+        ],
+        "en": [
+          "supply bottlenecks",
+          "short-run stabilisation",
+          "objectives"
+        ]
+      },
+      "diagramIds": [
+        "macro-lras"
+      ],
+      "quizIds": [
+        "u3-56-policy-mix-flash-1",
+        "u3-56-policy-mix-mcq-1",
+        "u3-56-policy-mix-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-56-policy-mix",
+        "locale": "zh-CN",
+        "title": "宏观政策组合与评价",
+        "takeaway": "需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。",
+        "definition": "需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。",
+        "causalChain": [
+          "判断需求不足或供给瓶颈",
+          "协调短期稳定与长期能力政策",
+          "用多目标和时间尺度评价净效果"
+        ],
+        "misconceptions": [
+          "没有脱离经济情境的万能政策排名。"
+        ],
+        "examApplication": [
+          "解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+        ],
+        "summary": [
+          "需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。",
+          "没有脱离经济情境的万能政策排名。"
+        ],
+        "explanation": "判断需求不足或供给瓶颈。协调短期稳定与长期能力政策。用多目标和时间尺度评价净效果。\n\n### 原创情境与推导\n\n原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。\n\n没有脱离经济情境的万能政策排名。\n\n解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。"
+      },
+      "en": {
+        "id": "u3-56-policy-mix",
+        "locale": "en",
+        "title": "Macroeconomic policy mixes",
+        "takeaway": "Demand management and supply reforms operate through different mechanisms and time horizons. Combine them according to shocks, capacity, distribution, environment and fiscal-financial constraints.",
+        "definition": "Demand management and supply reforms operate through different mechanisms and time horizons. Combine them according to shocks, capacity, distribution, environment and fiscal-financial constraints.",
+        "causalChain": [
+          "Diagnose weak demand or supply bottlenecks",
+          "coordinate short-run stabilisation with long-run capacity policies",
+          "evaluate net effects across objectives and time horizons"
+        ],
+        "misconceptions": [
+          "There is no context-free ranking of universally best policies."
+        ],
+        "examApplication": [
+          "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+        ],
+        "summary": [
+          "Demand management and supply reforms operate through different mechanisms and time horizons. Combine them according to shocks, capacity, distribution, environment and fiscal-financial constraints.",
+          "There is no context-free ranking of universally best policies."
+        ],
+        "explanation": "Diagnose weak demand or supply bottlenecks.  coordinate short-run stabilisation with long-run capacity policies.  evaluate net effects across objectives and time horizons.\n\n### Original scenario and reasoning\n\nIllustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter.\n\nThere is no context-free ranking of universally best policies.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-56-policy-mix-flash-1",
+        "knowledgePointId": "u3-56-policy-mix",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“宏观政策组合与评价”，并说明一个关键条件。",
+          "en": "Explain Macroeconomic policy mixes and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。",
+          "en": "Demand management and supply reforms operate through different mechanisms and time horizons. Combine them according to shocks, capacity, distribution, environment and fiscal-financial constraints."
+        },
+        "explanation": {
+          "zh-CN": "没有脱离经济情境的万能政策排名。",
+          "en": "There is no context-free ranking of universally best policies."
+        }
+      },
+      {
+        "id": "u3-56-policy-mix-mcq-1",
+        "knowledgePointId": "u3-56-policy-mix",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "需求低迷与技能错配同时存在，合理分析是？",
+          "en": "With weak demand and skills mismatch together, what is a reasonable analysis?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只靠培训立即消除所有失业",
+            "en": "Training alone instantly removes all unemployment"
+          },
+          {
+            "id": "b",
+            "zh-CN": "任何刺激都无通胀风险",
+            "en": "All stimulus has no inflation risk"
+          },
+          {
+            "id": "c",
+            "zh-CN": "不必考虑时滞",
+            "en": "Lags need not be considered"
+          },
+          {
+            "id": "d",
+            "zh-CN": "区分短期需求与长期匹配政策并协调",
+            "en": "Distinguish and coordinate short-run demand and long-run matching policies"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "区分短期需求与长期匹配政策并协调。 原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。 没有脱离经济情境的万能政策排名。",
+          "en": "Distinguish and coordinate short-run demand and long-run matching policies. Illustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter. There is no context-free ranking of universally best policies."
+        }
+      },
+      {
+        "id": "u3-56-policy-mix-short-1",
+        "knowledgePointId": "u3-56-policy-mix",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释宏观政策组合与评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Macroeconomic policy mixes and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。 判断需求不足或供给瓶颈；协调短期稳定与长期能力政策；用多目标和时间尺度评价净效果 原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。",
+          "en": "Demand management and supply reforms operate through different mechanisms and time horizons. Combine them according to shocks, capacity, distribution, environment and fiscal-financial constraints. Diagnose weak demand or supply bottlenecks; coordinate short-run stabilisation with long-run capacity policies; evaluate net effects across objectives and time horizons Illustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "供给瓶颈",
+              "en": "supply bottlenecks"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给瓶颈",
+                "判断需求不足或供给瓶颈"
+              ],
+              "en": [
+                "supply bottlenecks",
+                "Diagnose weak demand or supply bottlenecks"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "短期稳定",
+              "en": "short-run stabilisation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "短期稳定",
+                "协调短期稳定与长期能力政策"
+              ],
+              "en": [
+                "short-run stabilisation",
+                "coordinate short-run stabilisation with long-run capacity policies"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "多目标",
+              "en": "objectives"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "多目标",
+                "用多目标和时间尺度评价净效果"
+              ],
+              "en": [
+                "objectives",
+                "evaluate net effects across objectives and time horizons"
               ]
             }
           }

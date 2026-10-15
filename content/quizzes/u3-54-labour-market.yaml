@@ -1,0 +1,105 @@
+- id: u3-54-labour-market-flash-1
+  knowledgePointId: u3-54-labour-market
+  type: flashcard
+  prompt:
+    zh-CN: 解释“劳动力市场政策”，并说明一个关键条件。
+    en: Explain Labour-market policies and state one important condition.
+  answer:
+    zh-CN: 培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。
+    en: Training, job information, mobility support and labour reforms can affect
+      matching and incentives. Evaluate efficiency alongside income security and
+      labour rights.
+  explanation:
+    zh-CN: 培训不直接解决总需求不足造成的所有周期性失业。
+    en: Training does not directly solve all cyclical unemployment caused by weak
+      demand.
+- id: u3-54-labour-market-mcq-1
+  knowledgePointId: u3-54-labour-market
+  type: mcq
+  prompt:
+    zh-CN: 岗位信息服务最直接针对什么？
+    en: What do vacancy information services most directly address?
+  options:
+    - id: a
+      zh-CN: 所有能源进口价格
+      en: All imported energy prices
+    - id: b
+      zh-CN: 求职与岗位之间的信息和匹配障碍
+      en: Information and matching barriers between jobs and applicants
+    - id: c
+      zh-CN: 直接增加货币供给
+      en: Directly increasing money supply
+    - id: d
+      zh-CN: 保证每个岗位都永久存在
+      en: Guaranteeing every job exists permanently
+  correctOptionId: b
+  explanation:
+    zh-CN: 求职与岗位之间的信息和匹配障碍。
+      原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。
+      培训不直接解决总需求不足造成的所有周期性失业。
+    en: "Information and matching barriers between jobs and applicants. Illustrative
+      example: public vacancy platforms improve information and relocation
+      support aids regional job search, but housing costs and caring duties may
+      still restrict mobility. Weaker protections may lower some hiring costs
+      while increasing insecurity; lower wages alone are not a complete
+      evaluation. Training does not directly solve all cyclical unemployment
+      caused by weak demand."
+- id: u3-54-labour-market-short-1
+  knowledgePointId: u3-54-labour-market
+  type: short-answer
+  prompt:
+    zh-CN: 解释劳动力市场政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Labour-market policies and apply it to an example
+      of your own.
+  modelAnswer:
+    zh-CN: 培训、就业信息、流动性支持与劳动制度改革可影响就业匹配和激励；效率、收入保障及劳动权利需要共同评价。
+      诊断摩擦性或结构性失业原因；改善匹配技能或地区流动；可持续就业增加并可能降低自然失业率
+      原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。
+    en: "Training, job information, mobility support and labour reforms can affect
+      matching and incentives. Evaluate efficiency alongside income security and
+      labour rights. Diagnose frictional or structural unemployment; improve
+      matching, skills or regional mobility; sustainable employment rises and
+      the natural unemployment rate may fall Illustrative example: public
+      vacancy platforms improve information and relocation support aids regional
+      job search, but housing costs and caring duties may still restrict
+      mobility. Weaker protections may lower some hiring costs while increasing
+      insecurity; lower wages alone are not a complete evaluation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 结构性失业
+        en: structural unemployment
+      alternatives:
+        zh-CN:
+          - 结构性失业
+          - 诊断摩擦性或结构性失业原因
+        en:
+          - structural unemployment
+          - Diagnose frictional or structural unemployment
+    - id: mechanism-2
+      label:
+        zh-CN: 匹配
+        en: matching
+      alternatives:
+        zh-CN:
+          - 匹配
+          - 改善匹配技能或地区流动
+        en:
+          - matching
+          - improve matching, skills or regional mobility
+    - id: mechanism-3
+      label:
+        zh-CN: 自然失业率
+        en: natural unemployment rate
+      alternatives:
+        zh-CN:
+          - 自然失业率
+          - 可持续就业增加并可能降低自然失业率
+        en:
+          - natural unemployment rate
+          - sustainable employment rises and the natural unemployment rate may
+            fall
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

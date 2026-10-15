@@ -1,0 +1,41 @@
+id: u3-46-expansionary-fiscal
+slug: expansionary-fiscal
+section: "3.6"
+level: core
+syllabusRefs:
+  - 3.6 Fiscal policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.3"
+    pages:
+      - 398
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-45-fiscal-budget
+  - u3-47-contractionary-fiscal
+  - u3-48-automatic-stabilisers
+terms:
+  - 扩张性财政政策
+  - Expansionary fiscal policy
+  - 可支配收入
+  - disposable income
+  - 后续消费
+  - further consumption
+  - 总需求右移
+  - aggregate demand shifts right
+synonyms:
+  zh-CN:
+    - 可支配收入
+    - 后续消费
+    - 总需求右移
+  en:
+    - disposable income
+    - further consumption
+    - aggregate demand shifts right
+diagramIds:
+  - macro-ad-expansion
+quizIds:
+  - u3-46-expansionary-fiscal-flash-1
+  - u3-46-expansionary-fiscal-mcq-1
+  - u3-46-expansionary-fiscal-short-1

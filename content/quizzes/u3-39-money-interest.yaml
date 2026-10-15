@@ -1,0 +1,99 @@
+- id: u3-39-money-interest-flash-1
+  knowledgePointId: u3-39-money-interest
+  type: flashcard
+  prompt:
+    zh-CN: 解释“中央银行与利率”，并说明一个关键条件。
+    en: Explain Central banks and interest rates and state one important condition.
+  answer:
+    zh-CN: 中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。
+    en: Central banks influence spending through policy rates and financial
+      conditions. The real interest rate is approximately the nominal rate minus
+      expected inflation.
+  explanation:
+    zh-CN: 实际利率应使用预期通胀分析事前决策。
+    en: Use expected inflation when analysing ex-ante real rates.
+- id: u3-39-money-interest-mcq-1
+  knowledgePointId: u3-39-money-interest
+  type: mcq
+  prompt:
+    zh-CN: 名义利率 5%、预期通胀 3%，近似实际利率？
+    en: Nominal interest is 5% and expected inflation 3%. Approximate real interest?
+  options:
+    - id: a
+      zh-CN: 8%
+      en: 8%
+    - id: b
+      zh-CN: 15%
+      en: 15%
+    - id: c
+      zh-CN: 2%
+      en: 2%
+    - id: d
+      zh-CN: 必为零
+      en: Necessarily zero
+  correctOptionId: c
+  explanation:
+    zh-CN: 2%。 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为
+      4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。 实际利率应使用预期通胀分析事前决策。
+    en: "2%. Illustrative example: a 6% nominal lending rate and 2% expected
+      inflation imply an approximately 4% real rate. If bank risk premiums rise,
+      lending rates need not fall alongside policy rates. Money is not income,
+      and new lending does not directly equal new output. Use expected inflation
+      when analysing ex-ante real rates."
+- id: u3-39-money-interest-short-1
+  knowledgePointId: u3-39-money-interest
+  type: short-answer
+  prompt:
+    zh-CN: 解释中央银行与利率的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Central banks and interest rates and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 中央银行通过政策利率及金融条件影响支出；实际利率近似等于名义利率减预期通胀率。
+      政策利率影响市场融资成本；借贷者比较实际成本；消费和投资计划随之调整 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为
+      4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。
+    en: "Central banks influence spending through policy rates and financial
+      conditions. The real interest rate is approximately the nominal rate minus
+      expected inflation. Policy rates influence market financing costs;
+      borrowers compare real costs; consumption and investment plans adjust
+      Illustrative example: a 6% nominal lending rate and 2% expected inflation
+      imply an approximately 4% real rate. If bank risk premiums rise, lending
+      rates need not fall alongside policy rates. Money is not income, and new
+      lending does not directly equal new output."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 政策利率
+        en: policy rate
+      alternatives:
+        zh-CN:
+          - 政策利率
+          - 政策利率影响市场融资成本
+        en:
+          - policy rate
+          - Policy rates influence market financing costs
+    - id: mechanism-2
+      label:
+        zh-CN: 实际利率
+        en: real rate
+      alternatives:
+        zh-CN:
+          - 实际利率
+          - 借贷者比较实际成本
+        en:
+          - real rate
+          - borrowers compare real costs
+    - id: mechanism-3
+      label:
+        zh-CN: 融资成本
+        en: financing costs
+      alternatives:
+        zh-CN:
+          - 融资成本
+          - 消费和投资计划随之调整
+        en:
+          - financing costs
+          - consumption and investment plans adjust
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

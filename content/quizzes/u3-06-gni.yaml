@@ -1,0 +1,100 @@
+- id: u3-06-gni-flash-1
+  knowledgePointId: u3-06-gni
+  type: flashcard
+  prompt:
+    zh-CN: 解释“GNI、折旧与净收入”，并说明一个关键条件。
+    en: Explain GNI, depreciation and net income and state one important condition.
+  answer:
+    zh-CN: GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。
+    en: GNI equals GDP plus net primary income from abroad and focuses on residents'
+      income. Net national income also deducts consumption of fixed capital, or
+      depreciation.
+  explanation:
+    zh-CN: 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。
+    en: Not every cross-border payment is primary income; distinguish primary income
+      from transfers.
+- id: u3-06-gni-mcq-1
+  knowledgePointId: u3-06-gni
+  type: mcq
+  prompt:
+    zh-CN: GDP=300，国外净初次收入=-20，GNI 多少？
+    en: GDP=300 and net primary income from abroad=-20. What is GNI?
+  options:
+    - id: a
+      zh-CN: "320"
+      en: "320"
+    - id: b
+      zh-CN: "280"
+      en: "280"
+    - id: c
+      zh-CN: "300"
+      en: "300"
+    - id: d
+      zh-CN: "20"
+      en: "20"
+  correctOptionId: b
+  explanation:
+    zh-CN: 280。 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI
+      的差别是境内生产与居民收入的边界，不是货币单位。 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。
+    en: "280. Illustrative example: GDP=500, primary income received from abroad=40
+      and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus
+      GNI distinguishes domestic production from resident income, not different
+      currencies. Not every cross-border payment is primary income; distinguish
+      primary income from transfers."
+- id: u3-06-gni-short-1
+  knowledgePointId: u3-06-gni
+  type: short-answer
+  prompt:
+    zh-CN: 解释GNI、折旧与净收入的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GNI, depreciation and net income and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: GNI=GDP+来自国外的净初次收入，关注居民收入；净国民收入还扣除固定资本消耗，即折旧。 境内产出形成
+      GDP；加上居民从国外净获得的初次收入；扣除资本消耗得到净额 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧
+      30 时 NNI=485。GDP 与 GNI 的差别是境内生产与居民收入的边界，不是货币单位。
+    en: "GNI equals GDP plus net primary income from abroad and focuses on
+      residents' income. Net national income also deducts consumption of fixed
+      capital, or depreciation. Domestic output forms GDP; add residents' net
+      primary income from abroad; deduct capital consumption to obtain a net
+      measure Illustrative example: GDP=500, primary income received from
+      abroad=40 and paid abroad=25 give GNI=515. With depreciation 30, NNI=485.
+      GDP versus GNI distinguishes domestic production from resident income, not
+      different currencies."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 居民
+        en: residents
+      alternatives:
+        zh-CN:
+          - 居民
+          - 境内产出形成 GDP
+        en:
+          - residents
+          - Domestic output forms GDP
+    - id: mechanism-2
+      label:
+        zh-CN: 初次收入
+        en: primary income
+      alternatives:
+        zh-CN:
+          - 初次收入
+          - 加上居民从国外净获得的初次收入
+        en:
+          - primary income
+          - add residents' net primary income from abroad
+    - id: mechanism-3
+      label:
+        zh-CN: 折旧
+        en: depreciation
+      alternatives:
+        zh-CN:
+          - 折旧
+          - 扣除资本消耗得到净额
+        en:
+          - depreciation
+          - deduct capital consumption to obtain a net measure
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

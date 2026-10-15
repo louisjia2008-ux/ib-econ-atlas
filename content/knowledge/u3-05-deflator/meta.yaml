@@ -1,0 +1,40 @@
+id: u3-05-deflator
+slug: deflator
+section: "3.1"
+level: hl
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.3"
+    pages:
+      - 256
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+  - u3-02-gdp
+  - u3-03-expenditure
+terms:
+  - GDP 平减指数与核算计算
+  - GDP deflator and national-account calculations
+  - 名义
+  - nominal
+  - 实际
+  - real
+  - 指数
+  - index
+synonyms:
+  zh-CN:
+    - 名义
+    - 实际
+    - 指数
+  en:
+    - nominal
+    - real
+    - index
+diagramIds: []
+quizIds:
+  - u3-05-deflator-flash-1
+  - u3-05-deflator-mcq-1
+  - u3-05-deflator-short-1

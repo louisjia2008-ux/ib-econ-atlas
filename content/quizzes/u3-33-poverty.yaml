@@ -1,0 +1,103 @@
+- id: u3-33-poverty-flash-1
+  knowledgePointId: u3-33-poverty
+  type: flashcard
+  prompt:
+    zh-CN: 解释“绝对贫困与相对贫困”，并说明一个关键条件。
+    en: Explain Absolute and relative poverty and state one important condition.
+  answer:
+    zh-CN: 绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。
+    en: Absolute poverty uses a minimum-resource standard for basic needs; relative
+      poverty compares resources with typical living standards in a society.
+      They answer different questions.
+  explanation:
+    zh-CN: 贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。
+    en: "Poverty and inequality are related but distinct: everyone can be equally
+      poor."
+- id: u3-33-poverty-mcq-1
+  knowledgePointId: u3-33-poverty
+  type: mcq
+  prompt:
+    zh-CN: 按中位收入一定比例界定贫困，属于哪类？
+    en: A threshold defined as a share of median income measures which poverty?
+  options:
+    - id: a
+      zh-CN: 相对贫困
+      en: Relative poverty
+    - id: b
+      zh-CN: 只可能是绝对贫困
+      en: Only absolute poverty
+    - id: c
+      zh-CN: 仅衡量通胀
+      en: Only inflation
+    - id: d
+      zh-CN: 与收入无关
+      en: Unrelated to income
+  correctOptionId: a
+  explanation:
+    zh-CN: 相对贫困。
+      原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。
+      贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。
+    en: "Relative poverty. Illustrative example: median income rises while a
+      household's real income stays unchanged. Its relative position may worsen
+      without necessarily losing the ability to buy basic food. Poverty
+      thresholds depend on prices, household size and public services; an old
+      monetary threshold is not timeless. Poverty and inequality are related but
+      distinct: everyone can be equally poor."
+- id: u3-33-poverty-short-1
+  knowledgePointId: u3-33-poverty
+  type: short-answer
+  prompt:
+    zh-CN: 解释绝对贫困与相对贫困的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Absolute and relative poverty and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 绝对贫困依据满足基本需要的最低资源标准，相对贫困依据本社会典型收入或生活标准；两者回答不同问题。
+      选择明确的贫困标准；比较家庭资源和需求；区分基本匮乏与社会相对排斥
+      原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。
+    en: "Absolute poverty uses a minimum-resource standard for basic needs; relative
+      poverty compares resources with typical living standards in a society.
+      They answer different questions. Choose an explicit poverty standard;
+      compare household resources and needs; distinguish basic deprivation from
+      relative social exclusion Illustrative example: median income rises while
+      a household's real income stays unchanged. Its relative position may
+      worsen without necessarily losing the ability to buy basic food. Poverty
+      thresholds depend on prices, household size and public services; an old
+      monetary threshold is not timeless."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 基本需要
+        en: basic needs
+      alternatives:
+        zh-CN:
+          - 基本需要
+          - 选择明确的贫困标准
+        en:
+          - basic needs
+          - Choose an explicit poverty standard
+    - id: mechanism-2
+      label:
+        zh-CN: 中位收入
+        en: median income
+      alternatives:
+        zh-CN:
+          - 中位收入
+          - 比较家庭资源和需求
+        en:
+          - median income
+          - compare household resources and needs
+    - id: mechanism-3
+      label:
+        zh-CN: 相对
+        en: relative
+      alternatives:
+        zh-CN:
+          - 相对
+          - 区分基本匮乏与社会相对排斥
+        en:
+          - relative
+          - distinguish basic deprivation from relative social exclusion
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

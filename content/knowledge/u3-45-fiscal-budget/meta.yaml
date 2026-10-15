@@ -1,0 +1,40 @@
+id: u3-45-fiscal-budget
+slug: fiscal-budget
+section: "3.6"
+level: core
+syllabusRefs:
+  - 3.6 Fiscal policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.3"
+    pages:
+      - 398
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-46-expansionary-fiscal
+  - u3-47-contractionary-fiscal
+  - u3-48-automatic-stabilisers
+terms:
+  - 财政预算与政策立场
+  - Fiscal budgets and policy stance
+  - 预算余额
+  - budget balance
+  - 衰退
+  - recession
+  - 主动政策
+  - discretionary policy
+synonyms:
+  zh-CN:
+    - 预算余额
+    - 衰退
+    - 主动政策
+  en:
+    - budget balance
+    - recession
+    - discretionary policy
+diagramIds: []
+quizIds:
+  - u3-45-fiscal-budget-flash-1
+  - u3-45-fiscal-budget-mcq-1
+  - u3-45-fiscal-budget-short-1

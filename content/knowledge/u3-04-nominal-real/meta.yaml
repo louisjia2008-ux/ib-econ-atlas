@@ -1,0 +1,40 @@
+id: u3-04-nominal-real
+slug: nominal-real
+section: "3.1"
+level: core
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.2"
+    pages:
+      - 250
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+  - u3-02-gdp
+  - u3-03-expenditure
+terms:
+  - 名义与实际 GDP
+  - Nominal and real GDP
+  - 价格
+  - prices
+  - 产量
+  - volume
+  - 平减
+  - deflate
+synonyms:
+  zh-CN:
+    - 价格
+    - 产量
+    - 平减
+  en:
+    - prices
+    - volume
+    - deflate
+diagramIds: []
+quizIds:
+  - u3-04-nominal-real-flash-1
+  - u3-04-nominal-real-mcq-1
+  - u3-04-nominal-real-short-1

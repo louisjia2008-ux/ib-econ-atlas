@@ -1,0 +1,41 @@
+id: u3-19-macro-shocks
+slug: macro-shocks
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.2"
+    pages:
+      - 276
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-12-consumption
+  - u3-13-investment
+terms:
+  - 需求冲击、供给冲击与滞胀
+  - Demand shocks, supply shocks and stagflation
+  - 供给冲击
+  - supply shock
+  - 产出
+  - output
+  - 物价
+  - prices
+synonyms:
+  zh-CN:
+    - 供给冲击
+    - 产出
+    - 物价
+  en:
+    - supply shock
+    - output
+    - prices
+diagramIds:
+  - macro-supply-shock
+quizIds:
+  - u3-19-macro-shocks-flash-1
+  - u3-19-macro-shocks-mcq-1
+  - u3-19-macro-shocks-short-1

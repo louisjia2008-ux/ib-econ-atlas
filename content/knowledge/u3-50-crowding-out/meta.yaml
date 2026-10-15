@@ -1,0 +1,40 @@
+id: u3-50-crowding-out
+slug: crowding-out
+section: "3.6"
+level: core
+syllabusRefs:
+  - 3.6 Fiscal policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.3"
+    pages:
+      - 398
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-45-fiscal-budget
+  - u3-46-expansionary-fiscal
+  - u3-47-contractionary-fiscal
+terms:
+  - 挤出效应
+  - Crowding out
+  - 融资
+  - financing
+  - 投入成本
+  - input costs
+  - 私人投资
+  - private investment
+synonyms:
+  zh-CN:
+    - 融资
+    - 投入成本
+    - 私人投资
+  en:
+    - financing
+    - input costs
+    - private investment
+diagramIds: []
+quizIds:
+  - u3-50-crowding-out-flash-1
+  - u3-50-crowding-out-mcq-1
+  - u3-50-crowding-out-short-1

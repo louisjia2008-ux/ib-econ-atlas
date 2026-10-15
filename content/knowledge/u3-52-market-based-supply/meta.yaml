@@ -1,0 +1,41 @@
+id: u3-52-market-based-supply
+slug: market-based-supply
+section: "3.7"
+level: core
+syllabusRefs:
+  - 3.7 Supply-side policies
+textbookRefs:
+  - chapter: "13"
+    section: "13.6"
+    pages:
+      - 412
+prerequisites:
+  - u3-15-lras
+related:
+  - u3-53-interventionist-supply
+  - u3-54-labour-market
+  - u3-55-infrastructure-innovation
+terms:
+  - 市场导向供给侧政策
+  - Market-based supply-side policies
+  - 竞争
+  - competitive
+  - 效率
+  - efficiency
+  - 生产能力
+  - productive capacity
+synonyms:
+  zh-CN:
+    - 竞争
+    - 效率
+    - 生产能力
+  en:
+    - competitive
+    - efficiency
+    - productive capacity
+diagramIds:
+  - macro-lras
+quizIds:
+  - u3-52-market-based-supply-flash-1
+  - u3-52-market-based-supply-mcq-1
+  - u3-52-market-based-supply-short-1

@@ -1,0 +1,104 @@
+- id: u3-38-poverty-policies-flash-1
+  knowledgePointId: u3-38-poverty-policies
+  type: flashcard
+  prompt:
+    zh-CN: 解释“减贫与再分配政策评价”，并说明一个关键条件。
+    en: Explain Evaluating poverty and redistribution policies and state one
+      important condition.
+  answer:
+    zh-CN: 税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。
+    en: Taxes/transfers, education and health, employment support, minimum wages and
+      social insurance can alter poverty and distribution. Compare coverage,
+      incentives, cost, quality and long-run opportunity.
+  explanation:
+    zh-CN: 转移金额增加不等于实际贫困一定同幅减少。
+    en: A larger transfer does not necessarily reduce real poverty by the same
+      proportion.
+- id: u3-38-poverty-policies-mcq-1
+  knowledgePointId: u3-38-poverty-policies
+  type: mcq
+  prompt:
+    zh-CN: 评价收入审查补助应特别考察什么？
+    en: What is particularly relevant to evaluating means-tested benefits?
+  options:
+    - id: a
+      zh-CN: 假设所有人都被准确识别
+      en: Assume everyone is identified perfectly
+    - id: b
+      zh-CN: 针对性与覆盖遗漏
+      en: Targeting and exclusion errors
+    - id: c
+      zh-CN: 忽略退出率和激励
+      en: Ignore withdrawal rates and incentives
+    - id: d
+      zh-CN: 只比较项目名称
+      en: Only compare programme names
+  correctOptionId: b
+  explanation:
+    zh-CN: 针对性与覆盖遗漏。
+      原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。
+      转移金额增加不等于实际贫困一定同幅减少。
+    en: "Targeting and exclusion errors. Illustrative example: means-tested support
+      improves targeting but may miss households without records; tapering
+      benefits can reduce benefit cliffs. Universal schooling reaches more
+      people, but unequal local quality means nominally free provision need not
+      equalise opportunity. A larger transfer does not necessarily reduce real
+      poverty by the same proportion."
+- id: u3-38-poverty-policies-short-1
+  knowledgePointId: u3-38-poverty-policies
+  type: short-answer
+  prompt:
+    zh-CN: 解释减贫与再分配政策评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Evaluating poverty and redistribution policies and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 税转移、教育医疗、就业支持、最低工资和社会保险可改变贫困与分配；应比较覆盖、激励、成本、服务质量和长期机会。
+      识别收入或机会障碍；选择现金、服务或制度工具；用受益分布及行为反应评估结果
+      原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。
+    en: "Taxes/transfers, education and health, employment support, minimum wages
+      and social insurance can alter poverty and distribution. Compare coverage,
+      incentives, cost, quality and long-run opportunity. Identify income or
+      opportunity barriers; choose cash, services or institutional tools; assess
+      benefit distribution and behavioural responses Illustrative example:
+      means-tested support improves targeting but may miss households without
+      records; tapering benefits can reduce benefit cliffs. Universal schooling
+      reaches more people, but unequal local quality means nominally free
+      provision need not equalise opportunity."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 针对性
+        en: targeting
+      alternatives:
+        zh-CN:
+          - 针对性
+          - 识别收入或机会障碍
+        en:
+          - targeting
+          - Identify income or opportunity barriers
+    - id: mechanism-2
+      label:
+        zh-CN: 覆盖
+        en: coverage
+      alternatives:
+        zh-CN:
+          - 覆盖
+          - 选择现金、服务或制度工具
+        en:
+          - coverage
+          - choose cash, services or institutional tools
+    - id: mechanism-3
+      label:
+        zh-CN: 激励
+        en: incentives
+      alternatives:
+        zh-CN:
+          - 激励
+          - 用受益分布及行为反应评估结果
+        en:
+          - incentives
+          - assess benefit distribution and behavioural responses
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

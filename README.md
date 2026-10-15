@@ -4,13 +4,14 @@ IB Econ Atlas 是一个以个人复习为核心、可由社区共同维护的中
 
 IB Econ Atlas is an open-source bilingual study workspace for the 2022–2029 IB Diploma Programme Economics course. It is an original curriculum-aligned knowledge base, search tool, and review system—not a digitised or translated textbook.
 
-> 当前状态 / Current status: Unit 1 已上线；本分支新增 Unit 2 微观经济学，待 PR 审核。Unit 1 is live; this branch adds Unit 2 microeconomics for PR review. AI 尚未配置；功能分支合并到 `main` 后才会部署到 GitHub Pages。
+> 当前状态 / Current status: Unit 1、Unit 2 已上线；本分支新增 Unit 3 宏观经济学，待 PR 审核。Units 1 and 2 are live; this branch adds Unit 3 macroeconomics for PR review. AI 尚未配置；功能分支合并到 `main` 后才会部署到 GitHub Pages。
 
 ## 已实现 / What is included
 
-- 43 个 Unit 1 知识点与 60 个 Unit 2 知识点：共 103 点、206 篇中文/英文学习页面。
+- Unit 1 / 2 / 3 分别有 43 / 60 / 56 个知识点：共 159 点、318 篇中文/英文学习页面。
 - Unit 2 覆盖 2.1–2.12：33 个 SL/HL 共用点、27 个 HL 点，含原创推导、教学情境、误区、考试提示和总结。Full coverage map: [Unit 2](docs/UNIT_2.md).
-- 309 道复习材料：每个知识点各有闪卡、选择题和关键词简答题；Unit 2 新增 180 道。
+- Unit 3 覆盖 3.1–3.7：51 个 SL/HL 共用点、5 个 HL 深入点。覆盖与边界见 [Unit 3](docs/UNIT_3.md)。
+- 477 道复习材料：每个知识点各有闪卡、选择题和关键词简答题；Unit 3 新增 168 道。
 - 考纲目录与 Cambridge 教材页码索引两套导航；稳定 ID 建立映射，不分发教材文件。
 - 中英文跨语言模糊搜索、同义词、拼写容错、考纲代码、SL/HL/Extension 和临时考试范围过滤。
 - 闪卡、选择题、简答题和混合复习；简答显示关键词命中、遗漏、覆盖率与人工修正。
@@ -18,6 +19,7 @@ IB Econ Atlas is an open-source bilingual study workspace for the 2022–2029 IB
 - IndexedDB 本地进度、原子化 JSON 合并/替换导入，以及不包含 AI 访问码和临时范围的备份。
 - 可键盘和触控操作的 PPC，附静态 SVG 与表格替代视图。
 - 12 幅原创微观 SVG 示意图，含供需、税补、限价、四类外部性、企业边际决策及物品分类，附双语文字替代。
+- 8 幅原创宏观 SVG 示意图：AD–AS、需求扩张、供给冲击、LRAS、凯恩斯 AS、经济周期、菲利普斯曲线和洛伦兹曲线，附双语文字替代与假设提示。
 - PWA 离线缓存、提示式更新与 Hash Router 深链接。
 - 可选 Cloudflare Worker AI 边界：只读取 Worker 自带的 Atlas 内容 bundle，并校验站内 citation。
 
@@ -35,6 +37,7 @@ Vite 默认使用仓库子路径。打开终端显示的 `/ib-econ-atlas/` URL�
 ```text
 /#/study/u1-04-scarcity
 /#/study/u2-01-demand
+/#/study/u3-02-gdp
 /#/search
 /#/review
 /#/progress

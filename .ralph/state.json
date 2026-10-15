@@ -1,14 +1,14 @@
 {
   "version": "0.1",
-  "status": "complete",
-  "completion": "RALPH_DONE",
-  "current_iteration": 24,
-  "current_task_id": "T024",
-  "last_task_id": "T024",
+  "status": "RALPH_CONTINUE",
+  "completion": "RALPH_CONTINUE",
+  "current_iteration": 29,
+  "current_task_id": "T029",
+  "last_task_id": "T028",
   "last_verification": {
     "status": "PASS",
-    "command": "npm run verify; npm run test:e2e; headed Chromium visuals; gh pr checks 9",
-    "summary": "103-point validation, 82 unit/contract tests, 16 applicable browser checks and offline acceptance pass; hosted verify and browser passed for 5d96dc0; PR #9 attached and unmerged."
+    "command": "npm run verify; npm run test:e2e; headed Chromium visuals; authoring round-trip and compiled deep comparison",
+    "summary": "159 points; 86 tests; 21 applicable browser checks pass, 24 intentionally skipped; offline progress survives reload. Old 103 compiled points deeply unchanged. PR/hosted CI pending."
   },
   "blockers": [],
   "no_diff_iterations": 0,

@@ -1,0 +1,106 @@
+- id: u3-21-unemployment-rate-flash-1
+  knowledgePointId: u3-21-unemployment-rate
+  type: flashcard
+  prompt:
+    zh-CN: 解释“失业率与劳动参与率”，并说明一个关键条件。
+    en: Explain Unemployment and participation rates and state one important
+      condition.
+  answer:
+    zh-CN: 失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。
+    en: The unemployment rate is unemployed people divided by the labour force times
+      100. The labour force includes employed people and those meeting the
+      unemployment definition; participation uses the working-age population as
+      denominator.
+  explanation:
+    zh-CN: 失业率的分母不是总人口，也不是仅就业人数。
+    en: The unemployment-rate denominator is neither total population nor employed
+      people alone.
+- id: u3-21-unemployment-rate-mcq-1
+  knowledgePointId: u3-21-unemployment-rate
+  type: mcq
+  prompt:
+    zh-CN: 就业 180、失业 20，失业率为多少？
+    en: There are 180 employed and 20 unemployed. What is the unemployment rate?
+  options:
+    - id: a
+      zh-CN: 10%
+      en: 10%
+    - id: b
+      zh-CN: 11.11%
+      en: 11.11%
+    - id: c
+      zh-CN: 20%
+      en: 20%
+    - id: d
+      zh-CN: 90%
+      en: 90%
+  correctOptionId: a
+  explanation:
+    zh-CN: 10%。 原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率
+      80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。 失业率的分母不是总人口，也不是仅就业人数。
+    en: "10%. Illustrative example: 900 employed, 100 unemployed and 1250
+      working-age people imply unemployment 10% and participation 80%.
+      Discouraged workers leaving job search can lower unemployment without
+      raising employment. Underemployment and informal work also matter. The
+      unemployment-rate denominator is neither total population nor employed
+      people alone."
+- id: u3-21-unemployment-rate-short-1
+  knowledgePointId: u3-21-unemployment-rate
+  type: short-answer
+  prompt:
+    zh-CN: 解释失业率与劳动参与率的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Unemployment and participation rates and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 失业率=失业人数/劳动力人数×100；劳动力包括就业者和符合统计定义的失业者，劳动参与率使用工作年龄人口作分母。
+      区分就业、失业和非劳动力；用正确分母计算；参与变化可改变失业率而不反映就业同幅变化 原创例：就业 900、失业 100、工作年龄人口
+      1250，失业率 10%、参与率 80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。
+    en: "The unemployment rate is unemployed people divided by the labour force
+      times 100. The labour force includes employed people and those meeting the
+      unemployment definition; participation uses the working-age population as
+      denominator. Distinguish employment, unemployment and inactivity;
+      calculate using the right denominator; participation changes can alter the
+      rate without an equivalent employment change Illustrative example: 900
+      employed, 100 unemployed and 1250 working-age people imply unemployment
+      10% and participation 80%. Discouraged workers leaving job search can
+      lower unemployment without raising employment. Underemployment and
+      informal work also matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 劳动力
+        en: labour force
+      alternatives:
+        zh-CN:
+          - 劳动力
+          - 区分就业、失业和非劳动力
+        en:
+          - labour force
+          - Distinguish employment, unemployment and inactivity
+    - id: mechanism-2
+      label:
+        zh-CN: 失业
+        en: unemployment
+      alternatives:
+        zh-CN:
+          - 失业
+          - 用正确分母计算
+        en:
+          - unemployment
+          - calculate using the right denominator
+    - id: mechanism-3
+      label:
+        zh-CN: 参与
+        en: participation
+      alternatives:
+        zh-CN:
+          - 参与
+          - 参与变化可改变失业率而不反映就业同幅变化
+        en:
+          - participation
+          - participation changes can alter the rate without an equivalent
+            employment change
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

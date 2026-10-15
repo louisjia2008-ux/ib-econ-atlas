@@ -1,0 +1,103 @@
+- id: u3-01-circular-flow-flash-1
+  knowledgePointId: u3-01-circular-flow
+  type: flashcard
+  prompt:
+    zh-CN: 解释“收入循环与五部门经济”，并说明一个关键条件。
+    en: Explain Circular flow and the five-sector economy and state one important
+      condition.
+  answer:
+    zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+    en: The circular flow links income, spending and production among households,
+      firms, finance, government and the foreign sector. Real and monetary flows
+      normally run in opposite directions.
+  explanation:
+    zh-CN: 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。
+    en: Saving is not money that vanishes; finance can channel funds into investment
+      without making planned saving and investment automatically identical.
+- id: u3-01-circular-flow-mcq-1
+  knowledgePointId: u3-01-circular-flow
+  type: mcq
+  prompt:
+    zh-CN: 哪一项是收入循环的注入？
+    en: Which is an injection into the circular flow?
+  options:
+    - id: a
+      zh-CN: 出口 X
+      en: Exports X
+    - id: b
+      zh-CN: 储蓄 S
+      en: Saving S
+    - id: c
+      zh-CN: 税收 T
+      en: Taxes T
+    - id: d
+      zh-CN: 进口 M
+      en: Imports M
+  correctOptionId: a
+  explanation:
+    zh-CN: 出口 X。 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X
+      是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。
+    en: "Exports X. Illustrative example: households supply labour, receive wages
+      and buy firms' output. S, T and M are leakages; I, G and X are injections.
+      Simple steady equilibrium requires planned injections to equal planned
+      leakages, not each individual item to equal its counterpart. Saving is not
+      money that vanishes; finance can channel funds into investment without
+      making planned saving and investment automatically identical."
+- id: u3-01-circular-flow-short-1
+  knowledgePointId: u3-01-circular-flow
+  type: short-answer
+  prompt:
+    zh-CN: 解释收入循环与五部门经济的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Circular flow and the five-sector economy and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+      家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收
+      T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。
+    en: "The circular flow links income, spending and production among households,
+      firms, finance, government and the foreign sector. Real and monetary flows
+      normally run in opposite directions. Households supply factors and receive
+      income; income funds consumption or leakages; injections support firms'
+      sales and the next round of income Illustrative example: households supply
+      labour, receive wages and buy firms' output. S, T and M are leakages; I, G
+      and X are injections. Simple steady equilibrium requires planned
+      injections to equal planned leakages, not each individual item to equal
+      its counterpart."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 漏出
+        en: leakages
+      alternatives:
+        zh-CN:
+          - 漏出
+          - 家庭提供生产要素获得收入
+        en:
+          - leakages
+          - Households supply factors and receive income
+    - id: mechanism-2
+      label:
+        zh-CN: 注入
+        en: injections
+      alternatives:
+        zh-CN:
+          - 注入
+          - 收入用于消费或漏出
+        en:
+          - injections
+          - income funds consumption or leakages
+    - id: mechanism-3
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 注入支出支持企业销售与下一轮收入
+        en:
+          - income
+          - injections support firms' sales and the next round of income
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,102 @@
+- id: u3-43-unconventional-policy-flash-1
+  knowledgePointId: u3-43-unconventional-policy
+  type: flashcard
+  prompt:
+    zh-CN: 解释“非常规货币政策”，并说明一个关键条件。
+    en: Explain Unconventional monetary policy and state one important condition.
+  answer:
+    zh-CN: 量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。
+    en: Tools such as quantitative easing influence asset yields, liquidity and
+      expectations when conventional rate cuts have limited room. Financial
+      asset purchases are not government purchases of goods and services.
+  explanation:
+    zh-CN: 准备金增长不等于消费、贷款或 CPI 按相同比例增长。
+    en: Reserve growth is not proportional growth in consumption, lending or CPI.
+- id: u3-43-unconventional-policy-mcq-1
+  knowledgePointId: u3-43-unconventional-policy
+  type: mcq
+  prompt:
+    zh-CN: 量化宽松首先涉及什么操作？
+    en: What operation is central to quantitative easing?
+  options:
+    - id: a
+      zh-CN: 政府直接购买更多课桌
+      en: Government directly buys more desks
+    - id: b
+      zh-CN: 自动免除所有私人债务
+      en: Automatically cancels all private debt
+    - id: c
+      zh-CN: 中央银行购买金融资产
+      en: Central-bank purchases of financial assets
+    - id: d
+      zh-CN: 保证所有人增加贷款
+      en: Guarantees everyone borrows more
+  correctOptionId: c
+  explanation:
+    zh-CN: 中央银行购买金融资产。
+      原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。
+      准备金增长不等于消费、贷款或 CPI 按相同比例增长。
+    en: "Central-bank purchases of financial assets. Illustrative example:
+      central-bank purchases of long-term bonds may lower long-term yields, but
+      more reserves do not compel banks to lend. Asset price increases may
+      benefit asset owners disproportionately, and policy reversal can create
+      market risks. Reserve growth is not proportional growth in consumption,
+      lending or CPI."
+- id: u3-43-unconventional-policy-short-1
+  knowledgePointId: u3-43-unconventional-policy
+  type: short-answer
+  prompt:
+    zh-CN: 解释非常规货币政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Unconventional monetary policy and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 量化宽松等工具在常规降息空间有限时影响资产收益率、流动性和预期；购买金融资产不等同于政府购买商品服务。
+      中央银行购买金融资产；资产价格和流动性变化影响融资条件；支出反应取决于信贷需求与信心
+      原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。
+    en: "Tools such as quantitative easing influence asset yields, liquidity and
+      expectations when conventional rate cuts have limited room. Financial
+      asset purchases are not government purchases of goods and services. The
+      central bank buys financial assets; asset prices and liquidity alter
+      financing conditions; spending responses depend on credit demand and
+      confidence Illustrative example: central-bank purchases of long-term bonds
+      may lower long-term yields, but more reserves do not compel banks to lend.
+      Asset price increases may benefit asset owners disproportionately, and
+      policy reversal can create market risks."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 购买金融资产
+        en: buys financial assets
+      alternatives:
+        zh-CN:
+          - 购买金融资产
+          - 中央银行购买金融资产
+        en:
+          - buys financial assets
+          - The central bank buys financial assets
+    - id: mechanism-2
+      label:
+        zh-CN: 融资条件
+        en: financing conditions
+      alternatives:
+        zh-CN:
+          - 融资条件
+          - 资产价格和流动性变化影响融资条件
+        en:
+          - financing conditions
+          - asset prices and liquidity alter financing conditions
+    - id: mechanism-3
+      label:
+        zh-CN: 信贷需求
+        en: credit demand
+      alternatives:
+        zh-CN:
+          - 信贷需求
+          - 支出反应取决于信贷需求与信心
+        en:
+          - credit demand
+          - spending responses depend on credit demand and confidence
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,100 @@
+- id: u3-02-gdp-flash-1
+  knowledgePointId: u3-02-gdp
+  type: flashcard
+  prompt:
+    zh-CN: 解释“国内生产总值与增加值”，并说明一个关键条件。
+    en: Explain GDP and value added and state one important condition.
+  answer:
+    zh-CN: GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。
+    en: GDP is the market value of final goods and services produced within a
+      country during a period. Summing value added avoids double counting
+      intermediate products.
+  explanation:
+    zh-CN: GDP 的境内标准与企业所有者国籍不同。
+    en: GDP follows domestic production, not the nationality of a firm's owners.
+- id: u3-02-gdp-mcq-1
+  knowledgePointId: u3-02-gdp
+  type: mcq
+  prompt:
+    zh-CN: 中间品 30、最终品 80，只有这条产业链时应计多少最终产出？
+    en: Intermediate output sells for 30 and final output for 80 in a single
+      production chain. What final output value counts?
+  options:
+    - id: a
+      zh-CN: "110"
+      en: "110"
+    - id: b
+      zh-CN: "80"
+      en: "80"
+    - id: c
+      zh-CN: "30"
+      en: "30"
+    - id: d
+      zh-CN: "2400"
+      en: "2400"
+  correctOptionId: b
+  explanation:
+    zh-CN: 80。 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的
+      115。购买旧房本身不是当期新产出，但当期中介服务可计入。 GDP 的境内标准与企业所有者国籍不同。
+    en: "80. Illustrative example: grain sells for 20, flour for 35 and final bread
+      for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an
+      existing house is not new current output, although current brokerage
+      services can count. GDP follows domestic production, not the nationality
+      of a firm's owners."
+- id: u3-02-gdp-short-1
+  knowledgePointId: u3-02-gdp
+  type: short-answer
+  prompt:
+    zh-CN: 解释国内生产总值与增加值的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GDP and value added and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: GDP 是一定时期在一国境内生产的最终商品与服务的市场价值；按增加值核算可避免中间产品重复计算。
+      各生产阶段创造增加值；加总境内当期最终产出价值；生产、收入与支出在核算上相互对应 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包
+      60，增加值为 20+15+25=60，而非销售额相加的 115。购买旧房本身不是当期新产出，但当期中介服务可计入。
+    en: "GDP is the market value of final goods and services produced within a
+      country during a period. Summing value added avoids double counting
+      intermediate products. Each production stage adds value; sum current
+      domestic final output value; production, income and expenditure correspond
+      in national accounts Illustrative example: grain sells for 20, flour for
+      35 and final bread for 60. Value added is 20+15+25=60, not sales summed to
+      115. Buying an existing house is not new current output, although current
+      brokerage services can count."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 最终
+        en: final
+      alternatives:
+        zh-CN:
+          - 最终
+          - 各生产阶段创造增加值
+        en:
+          - final
+          - Each production stage adds value
+    - id: mechanism-2
+      label:
+        zh-CN: 境内
+        en: domestic
+      alternatives:
+        zh-CN:
+          - 境内
+          - 加总境内当期最终产出价值
+        en:
+          - domestic
+          - sum current domestic final output value
+    - id: mechanism-3
+      label:
+        zh-CN: 增加值
+        en: value added
+      alternatives:
+        zh-CN:
+          - 增加值
+          - 生产、收入与支出在核算上相互对应
+        en:
+          - value added
+          - production, income and expenditure correspond in national accounts
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

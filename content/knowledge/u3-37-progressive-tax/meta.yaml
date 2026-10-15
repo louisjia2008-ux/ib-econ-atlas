@@ -1,0 +1,40 @@
+id: u3-37-progressive-tax
+slug: progressive-tax
+section: "3.4"
+level: core
+syllabusRefs:
+  - 3.4 Economics of inequality and poverty
+textbookRefs:
+  - chapter: "12"
+    section: "12.5"
+    pages:
+      - 371
+prerequisites:
+  - u1-35-equality-equity
+related:
+  - u3-33-poverty
+  - u3-34-inequality-causes
+  - u3-35-lorenz-gini
+terms:
+  - 累进税、转移支付与可支配收入
+  - Progressive taxes, transfers and disposable income
+  - 平均税率
+  - average rate
+  - 边际税率
+  - marginal rate
+  - 可支配收入
+  - disposable income
+synonyms:
+  zh-CN:
+    - 平均税率
+    - 边际税率
+    - 可支配收入
+  en:
+    - average rate
+    - marginal rate
+    - disposable income
+diagramIds: []
+quizIds:
+  - u3-37-progressive-tax-flash-1
+  - u3-37-progressive-tax-mcq-1
+  - u3-37-progressive-tax-short-1

@@ -1,0 +1,102 @@
+- id: u3-04-nominal-real-flash-1
+  knowledgePointId: u3-04-nominal-real
+  type: flashcard
+  prompt:
+    zh-CN: 解释“名义与实际 GDP”，并说明一个关键条件。
+    en: Explain Nominal and real GDP and state one important condition.
+  answer:
+    zh-CN: 名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。
+    en: Nominal GDP values output at current prices. Real GDP removes price changes
+      to reflect changes in output volume. Nominal growth can arise from both
+      prices and quantities.
+  explanation:
+    zh-CN: 物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。
+    en: A nominal GDP fall caused by lower prices does not alone prove a real
+      recession.
+- id: u3-04-nominal-real-mcq-1
+  knowledgePointId: u3-04-nominal-real
+  type: mcq
+  prompt:
+    zh-CN: 只有价格涨 10%、产量不变，哪项正确？
+    en: Only prices rise 10%, with unchanged volume. Which is correct?
+  options:
+    - id: a
+      zh-CN: 实际 GDP 必涨 10%
+      en: Real GDP must rise 10%
+    - id: b
+      zh-CN: 两者都下降
+      en: Both fall
+    - id: c
+      zh-CN: 产量必涨 10%
+      en: Volume must rise 10%
+    - id: d
+      zh-CN: 名义 GDP 增加，实际 GDP 不变
+      en: Nominal GDP rises; real GDP is unchanged
+  correctOptionId: d
+  explanation:
+    zh-CN: 名义 GDP 增加，实际 GDP 不变。 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从
+      1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。 物价下降导致名义 GDP
+      下降，并不单独证明实际经济衰退。
+    en: "Nominal GDP rises; real GDP is unchanged. Illustrative example: 100 units
+      at price ten become 100 units at price twelve next year. Nominal GDP rises
+      from 1000 to 1200 but real output does not grow. Fixed base-year prices
+      are a teaching simplification; statistical offices may use chain-volume
+      measures. A nominal GDP fall caused by lower prices does not alone prove a
+      real recession."
+- id: u3-04-nominal-real-short-1
+  knowledgePointId: u3-04-nominal-real
+  type: short-answer
+  prompt:
+    zh-CN: 解释名义与实际 GDP的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Nominal and real GDP and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 名义 GDP 用当期价格衡量产出，实际 GDP 排除价格变化以反映产量变化；名义增长可以同时来自价格和数量。
+      当期销售价值随价格和数量变化；用价格指数进行平减；比较可比价格下的产量 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价
+      12，名义 GDP 从 1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。
+    en: "Nominal GDP values output at current prices. Real GDP removes price changes
+      to reflect changes in output volume. Nominal growth can arise from both
+      prices and quantities. Current sales value changes with prices and
+      quantities; deflate using a price index; compare output volumes at
+      comparable prices Illustrative example: 100 units at price ten become 100
+      units at price twelve next year. Nominal GDP rises from 1000 to 1200 but
+      real output does not grow. Fixed base-year prices are a teaching
+      simplification; statistical offices may use chain-volume measures."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 价格
+        en: prices
+      alternatives:
+        zh-CN:
+          - 价格
+          - 当期销售价值随价格和数量变化
+        en:
+          - prices
+          - Current sales value changes with prices and quantities
+    - id: mechanism-2
+      label:
+        zh-CN: 产量
+        en: volume
+      alternatives:
+        zh-CN:
+          - 产量
+          - 用价格指数进行平减
+        en:
+          - volume
+          - deflate using a price index
+    - id: mechanism-3
+      label:
+        zh-CN: 平减
+        en: deflate
+      alternatives:
+        zh-CN:
+          - 平减
+          - 比较可比价格下的产量
+        en:
+          - deflate
+          - compare output volumes at comparable prices
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

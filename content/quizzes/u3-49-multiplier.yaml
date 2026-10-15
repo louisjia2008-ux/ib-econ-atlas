@@ -1,0 +1,104 @@
+- id: u3-49-multiplier-flash-1
+  knowledgePointId: u3-49-multiplier
+  type: flashcard
+  prompt:
+    zh-CN: 解释“凯恩斯乘数”，并说明一个关键条件。
+    en: Explain The Keynesian multiplier and state one important condition.
+  answer:
+    zh-CN: 简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。
+    en: In a simple open-economy model, with marginal leakages measured against the
+      same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times
+      the initial autonomous spending change.
+  explanation:
+    zh-CN: 不要混用税前与税后收入口径的边际倾向。
+    en: Do not mix marginal propensities measured against pre-tax and post-tax
+      income.
+- id: u3-49-multiplier-mcq-1
+  knowledgePointId: u3-49-multiplier
+  type: mcq
+  prompt:
+    zh-CN: 总边际漏出 0.4，初始支出增加 8，模型 ΔY？
+    en: Total marginal leakage is 0.4 and initial spending rises by 8. Model ΔY?
+  options:
+    - id: a
+      zh-CN: "20"
+      en: "20"
+    - id: b
+      zh-CN: "3.2"
+      en: "3.2"
+    - id: c
+      zh-CN: "8"
+      en: "8"
+    - id: d
+      zh-CN: "0.05"
+      en: "0.05"
+  correctOptionId: a
+  explanation:
+    zh-CN: 20。 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为
+      1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。 不要混用税前与税后收入口径的边际倾向。
+    en: "20. Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of
+      extra government purchases generates 20 of model income. Only without
+      taxes and imports does k simplify to 1/(1−MPC). The model assumes spare
+      capacity and unchanged prices and omits crowding out and policy responses;
+      real outcomes can differ. Do not mix marginal propensities measured
+      against pre-tax and post-tax income."
+- id: u3-49-multiplier-short-1
+  knowledgePointId: u3-49-multiplier
+  type: short-answer
+  prompt:
+    zh-CN: 解释凯恩斯乘数的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The Keynesian multiplier and apply it to an example
+      of your own.
+  modelAnswer:
+    zh-CN: 简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。
+      自主支出创造首轮收入；部分收入形成下一轮国内支出；储蓄税收进口使后续轮次逐渐缩小
+      原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为
+      1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。
+    en: "In a simple open-economy model, with marginal leakages measured against the
+      same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times
+      the initial autonomous spending change. Autonomous spending creates
+      first-round income; part funds further domestic spending; saving, taxes
+      and imports shrink subsequent rounds Illustrative example: MPS=0.2,
+      MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases
+      generates 20 of model income. Only without taxes and imports does k
+      simplify to 1/(1−MPC). The model assumes spare capacity and unchanged
+      prices and omits crowding out and policy responses; real outcomes can
+      differ."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 首轮收入
+        en: first-round income
+      alternatives:
+        zh-CN:
+          - 首轮收入
+          - 自主支出创造首轮收入
+        en:
+          - first-round income
+          - Autonomous spending creates first-round income
+    - id: mechanism-2
+      label:
+        zh-CN: 国内支出
+        en: domestic spending
+      alternatives:
+        zh-CN:
+          - 国内支出
+          - 部分收入形成下一轮国内支出
+        en:
+          - domestic spending
+          - part funds further domestic spending
+    - id: mechanism-3
+      label:
+        zh-CN: 进口
+        en: imports
+      alternatives:
+        zh-CN:
+          - 进口
+          - 储蓄税收进口使后续轮次逐渐缩小
+        en:
+          - imports
+          - saving, taxes and imports shrink subsequent rounds
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

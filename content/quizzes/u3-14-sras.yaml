@@ -1,0 +1,100 @@
+- id: u3-14-sras-flash-1
+  knowledgePointId: u3-14-sras
+  type: flashcard
+  prompt:
+    zh-CN: 解释“短期总供给 SRAS”，并说明一个关键条件。
+    en: Explain Short-run aggregate supply and state one important condition.
+  answer:
+    zh-CN: SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。
+    en: SRAS relates the price level to real output when some input prices or wages
+      do not fully adjust in the short run. Higher unit costs normally shift it
+      left.
+  explanation:
+    zh-CN: SRAS 左移是成本冲击，不能画成 AD 右移。
+    en: A leftward SRAS shift is a cost shock, not a rightward AD shift.
+- id: u3-14-sras-mcq-1
+  knowledgePointId: u3-14-sras
+  type: mcq
+  prompt:
+    zh-CN: 进口能源成本上升、AD 不变，通常出现什么？
+    en: Imported energy costs rise with AD unchanged. What normally follows?
+  options:
+    - id: a
+      zh-CN: 价格水平降、产出升
+      en: Lower price level, higher output
+    - id: b
+      zh-CN: 价格水平升、实际产出降
+      en: Higher price level, lower real output
+    - id: c
+      zh-CN: 两者都必然不变
+      en: Both necessarily unchanged
+    - id: d
+      zh-CN: LRAS 必然右移
+      en: LRAS necessarily shifts right
+  correctOptionId: b
+  explanation:
+    zh-CN: 价格水平升、实际产出降。 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD
+      不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。 SRAS 左移是成本冲击，不能画成 AD
+      右移。
+    en: "Higher price level, lower real output. Illustrative example: dearer energy
+      shifts SRAS left, raising the price level and reducing real output with
+      unchanged AD. If output and all input prices rise proportionately, the
+      original short-run real-margin incentive cannot simply be assumed. A
+      leftward SRAS shift is a cost shock, not a rightward AD shift."
+- id: u3-14-sras-short-1
+  knowledgePointId: u3-14-sras
+  type: short-answer
+  prompt:
+    zh-CN: 解释短期总供给 SRAS的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Short-run aggregate supply and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: SRAS 表示短期部分投入价格或工资调整不充分时，总体价格水平与企业愿意生产的实际产出关系。单位成本提高通常使其左移。
+      投入价格相对固定时产品价格上升；实际生产利润率改善；企业沿 SRAS 增加产出 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD
+      不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。
+    en: "SRAS relates the price level to real output when some input prices or wages
+      do not fully adjust in the short run. Higher unit costs normally shift it
+      left. Output prices rise relative to temporarily fixed input prices;
+      production margins improve; firms expand output along SRAS Illustrative
+      example: dearer energy shifts SRAS left, raising the price level and
+      reducing real output with unchanged AD. If output and all input prices
+      rise proportionately, the original short-run real-margin incentive cannot
+      simply be assumed."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 投入价格相对固定时产品价格上升
+        en:
+          - costs
+          - Output prices rise relative to temporarily fixed input prices
+    - id: mechanism-2
+      label:
+        zh-CN: 价格水平
+        en: price level
+      alternatives:
+        zh-CN:
+          - 价格水平
+          - 实际生产利润率改善
+        en:
+          - price level
+          - production margins improve
+    - id: mechanism-3
+      label:
+        zh-CN: 实际产出
+        en: real output
+      alternatives:
+        zh-CN:
+          - 实际产出
+          - 企业沿 SRAS 增加产出
+        en:
+          - real output
+          - firms expand output along SRAS
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

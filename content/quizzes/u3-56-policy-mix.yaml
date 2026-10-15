@@ -1,0 +1,105 @@
+- id: u3-56-policy-mix-flash-1
+  knowledgePointId: u3-56-policy-mix
+  type: flashcard
+  prompt:
+    zh-CN: 解释“宏观政策组合与评价”，并说明一个关键条件。
+    en: Explain Macroeconomic policy mixes and state one important condition.
+  answer:
+    zh-CN: 需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。
+    en: Demand management and supply reforms operate through different mechanisms
+      and time horizons. Combine them according to shocks, capacity,
+      distribution, environment and fiscal-financial constraints.
+  explanation:
+    zh-CN: 没有脱离经济情境的万能政策排名。
+    en: There is no context-free ranking of universally best policies.
+- id: u3-56-policy-mix-mcq-1
+  knowledgePointId: u3-56-policy-mix
+  type: mcq
+  prompt:
+    zh-CN: 需求低迷与技能错配同时存在，合理分析是？
+    en: With weak demand and skills mismatch together, what is a reasonable
+      analysis?
+  options:
+    - id: a
+      zh-CN: 只靠培训立即消除所有失业
+      en: Training alone instantly removes all unemployment
+    - id: b
+      zh-CN: 任何刺激都无通胀风险
+      en: All stimulus has no inflation risk
+    - id: c
+      zh-CN: 不必考虑时滞
+      en: Lags need not be considered
+    - id: d
+      zh-CN: 区分短期需求与长期匹配政策并协调
+      en: Distinguish and coordinate short-run demand and long-run matching policies
+  correctOptionId: d
+  explanation:
+    zh-CN: 区分短期需求与长期匹配政策并协调。
+      原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。
+      没有脱离经济情境的万能政策排名。
+    en: "Distinguish and coordinate short-run demand and long-run matching policies.
+      Illustrative example: weak demand alongside skills mismatch can justify
+      short-run demand support with long-run training; training alone may not
+      immediately create jobs. In an overheated economy, stimulating demand may
+      worsen inflation before new capacity arrives, so sequencing and
+      implementation matter. There is no context-free ranking of universally
+      best policies."
+- id: u3-56-policy-mix-short-1
+  knowledgePointId: u3-56-policy-mix
+  type: short-answer
+  prompt:
+    zh-CN: 解释宏观政策组合与评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Macroeconomic policy mixes and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 需求管理与供给改革作用于不同机制和时间尺度，应按冲击来源、产能、分配、环境与财政金融约束组合使用。
+      判断需求不足或供给瓶颈；协调短期稳定与长期能力政策；用多目标和时间尺度评价净效果
+      原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。
+    en: "Demand management and supply reforms operate through different mechanisms
+      and time horizons. Combine them according to shocks, capacity,
+      distribution, environment and fiscal-financial constraints. Diagnose weak
+      demand or supply bottlenecks; coordinate short-run stabilisation with
+      long-run capacity policies; evaluate net effects across objectives and
+      time horizons Illustrative example: weak demand alongside skills mismatch
+      can justify short-run demand support with long-run training; training
+      alone may not immediately create jobs. In an overheated economy,
+      stimulating demand may worsen inflation before new capacity arrives, so
+      sequencing and implementation matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 供给瓶颈
+        en: supply bottlenecks
+      alternatives:
+        zh-CN:
+          - 供给瓶颈
+          - 判断需求不足或供给瓶颈
+        en:
+          - supply bottlenecks
+          - Diagnose weak demand or supply bottlenecks
+    - id: mechanism-2
+      label:
+        zh-CN: 短期稳定
+        en: short-run stabilisation
+      alternatives:
+        zh-CN:
+          - 短期稳定
+          - 协调短期稳定与长期能力政策
+        en:
+          - short-run stabilisation
+          - coordinate short-run stabilisation with long-run capacity policies
+    - id: mechanism-3
+      label:
+        zh-CN: 多目标
+        en: objectives
+      alternatives:
+        zh-CN:
+          - 多目标
+          - 用多目标和时间尺度评价净效果
+        en:
+          - objectives
+          - evaluate net effects across objectives and time horizons
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

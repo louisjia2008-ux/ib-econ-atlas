@@ -1,0 +1,103 @@
+- id: u3-34-inequality-causes-flash-1
+  knowledgePointId: u3-34-inequality-causes
+  type: flashcard
+  prompt:
+    zh-CN: 解释“不平等与贫困的成因”，并说明一个关键条件。
+    en: Explain Causes of inequality and poverty and state one important condition.
+  answer:
+    zh-CN: 资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。
+    en: Assets, education, health, discrimination, institutions, regional
+      opportunity and unemployment shape income and wealth. Poverty can limit
+      human-capital investment and persist across generations.
+  explanation:
+    zh-CN: 收入差异不能仅凭表面相关性归因于某一个因素。
+    en: Observed income differences cannot be attributed to one cause from
+      correlation alone.
+- id: u3-34-inequality-causes-mcq-1
+  knowledgePointId: u3-34-inequality-causes
+  type: mcq
+  prompt:
+    zh-CN: 哪个机制可使贫困跨代持续？
+    en: Which mechanism can perpetuate poverty across generations?
+  options:
+    - id: a
+      zh-CN: 贫困必然提高全部技能
+      en: Poverty necessarily improves all skills
+    - id: b
+      zh-CN: 低收入限制教育投资并压低未来收入
+      en: Low income limits education investment and future earnings
+    - id: c
+      zh-CN: 资源差异完全不存在
+      en: Resource differences do not exist
+    - id: d
+      zh-CN: 只有价格水平决定技能
+      en: Only the price level determines skills
+  correctOptionId: b
+  explanation:
+    zh-CN: 低收入限制教育投资并压低未来收入。
+      原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。
+      收入差异不能仅凭表面相关性归因于某一个因素。
+    en: "Low income limits education investment and future earnings. Illustrative
+      example: missing transport and digital access restrict a child's training
+      and future employment. This mechanism does not reduce outcomes to personal
+      motivation. Policy should identify credit, information, service-supply and
+      discrimination barriers. Observed income differences cannot be attributed
+      to one cause from correlation alone."
+- id: u3-34-inequality-causes-short-1
+  knowledgePointId: u3-34-inequality-causes
+  type: short-answer
+  prompt:
+    zh-CN: 解释不平等与贫困的成因的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Causes of inequality and poverty and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 资产、教育、健康、歧视、制度、地区机会与失业共同影响收入和财富；贫困可能限制人力资本投入并跨代持续。
+      初始资源与机会不同；技能和收入积累出现差异；收入不足又限制下一轮教育和健康投入
+      原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。
+    en: "Assets, education, health, discrimination, institutions, regional
+      opportunity and unemployment shape income and wealth. Poverty can limit
+      human-capital investment and persist across generations. Initial resources
+      and opportunities differ; skills and incomes accumulate unequally; low
+      income then limits further education and health investment Illustrative
+      example: missing transport and digital access restrict a child's training
+      and future employment. This mechanism does not reduce outcomes to personal
+      motivation. Policy should identify credit, information, service-supply and
+      discrimination barriers."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 机会
+        en: opportunity
+      alternatives:
+        zh-CN:
+          - 机会
+          - 初始资源与机会不同
+        en:
+          - opportunity
+          - Initial resources and opportunities differ
+    - id: mechanism-2
+      label:
+        zh-CN: 教育
+        en: education
+      alternatives:
+        zh-CN:
+          - 教育
+          - 技能和收入积累出现差异
+        en:
+          - education
+          - skills and incomes accumulate unequally
+    - id: mechanism-3
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 收入不足又限制下一轮教育和健康投入
+        en:
+          - income
+          - low income then limits further education and health investment
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

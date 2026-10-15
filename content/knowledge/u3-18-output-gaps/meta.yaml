@@ -1,0 +1,40 @@
+id: u3-18-output-gaps
+slug: output-gaps
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.6"
+    pages:
+      - 292
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-12-consumption
+  - u3-13-investment
+terms:
+  - 衰退缺口与通胀缺口
+  - Recessionary and inflationary gaps
+  - 实际产出
+  - actual output
+  - 潜在产出
+  - potential output
+  - 缺口
+  - gap
+synonyms:
+  zh-CN:
+    - 实际产出
+    - 潜在产出
+    - 缺口
+  en:
+    - actual output
+    - potential output
+    - gap
+diagramIds: []
+quizIds:
+  - u3-18-output-gaps-flash-1
+  - u3-18-output-gaps-mcq-1
+  - u3-18-output-gaps-short-1

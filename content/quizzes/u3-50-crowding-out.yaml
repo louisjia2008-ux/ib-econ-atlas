@@ -1,0 +1,105 @@
+- id: u3-50-crowding-out-flash-1
+  knowledgePointId: u3-50-crowding-out
+  type: flashcard
+  prompt:
+    zh-CN: 解释“挤出效应”，并说明一个关键条件。
+    en: Explain Crowding out and state one important condition.
+  answer:
+    zh-CN: 政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。
+    en: Fiscal expansion may displace private spending through interest rates,
+      competition for resources or exchange rates. Its extent depends on
+      capacity, monetary policy and financing conditions; full crowding out is
+      not inevitable.
+  explanation:
+    zh-CN: 政府借款增加不能单独证明私人投资等额下降。
+    en: Higher government borrowing alone does not prove an equal fall in private
+      investment.
+- id: u3-50-crowding-out-mcq-1
+  knowledgePointId: u3-50-crowding-out
+  type: mcq
+  prompt:
+    zh-CN: 哪种条件下资源挤出更可能较强？
+    en: When is resource crowding out more likely to be strong?
+  options:
+    - id: a
+      zh-CN: 大量工人设备闲置
+      en: Extensive idle labour and equipment
+    - id: b
+      zh-CN: 经济接近产能上限
+      en: The economy is close to capacity
+    - id: c
+      zh-CN: 所有公共投资毫无成本
+      en: All public investment is costless
+    - id: d
+      zh-CN: 利率永远不变即可排除资源竞争
+      en: Fixed interest alone rules out resource competition
+  correctOptionId: b
+  explanation:
+    zh-CN: 经济接近产能上限。
+      原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。
+      政府借款增加不能单独证明私人投资等额下降。
+    en: "The economy is close to capacity. Illustrative example: at capacity, public
+      works compete for construction workers and raise private project costs.
+      Such pressure may be weaker in a deep recession with monetary
+      accommodation. Transport investment may also lower firms' costs and crowd
+      investment in over time. Higher government borrowing alone does not prove
+      an equal fall in private investment."
+- id: u3-50-crowding-out-short-1
+  knowledgePointId: u3-50-crowding-out
+  type: short-answer
+  prompt:
+    zh-CN: 解释挤出效应的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Crowding out and apply it to an example of your
+      own.
+  modelAnswer:
+    zh-CN: 政府扩张可能经利率、资源竞争或汇率挤出私人支出，但程度取决于产能、货币政策和融资条件，并非必然完全挤出。
+      政府扩张增加融资或资源需求；利率或投入成本可能上升；部分私人投资消费或净出口被抵消
+      原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。
+    en: "Fiscal expansion may displace private spending through interest rates,
+      competition for resources or exchange rates. Its extent depends on
+      capacity, monetary policy and financing conditions; full crowding out is
+      not inevitable. Fiscal expansion raises financing or resource demand;
+      interest rates or input costs may rise; some private investment,
+      consumption or net exports are offset Illustrative example: at capacity,
+      public works compete for construction workers and raise private project
+      costs. Such pressure may be weaker in a deep recession with monetary
+      accommodation. Transport investment may also lower firms' costs and crowd
+      investment in over time."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 融资
+        en: financing
+      alternatives:
+        zh-CN:
+          - 融资
+          - 政府扩张增加融资或资源需求
+        en:
+          - financing
+          - Fiscal expansion raises financing or resource demand
+    - id: mechanism-2
+      label:
+        zh-CN: 投入成本
+        en: input costs
+      alternatives:
+        zh-CN:
+          - 投入成本
+          - 利率或投入成本可能上升
+        en:
+          - input costs
+          - interest rates or input costs may rise
+    - id: mechanism-3
+      label:
+        zh-CN: 私人投资
+        en: private investment
+      alternatives:
+        zh-CN:
+          - 私人投资
+          - 部分私人投资消费或净出口被抵消
+        en:
+          - private investment
+          - some private investment, consumption or net exports are offset
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

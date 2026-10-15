@@ -1,0 +1,104 @@
+- id: u3-10-wellbeing-indicators-flash-1
+  knowledgePointId: u3-10-wellbeing-indicators
+  type: flashcard
+  prompt:
+    zh-CN: 解释“替代福利指标”，并说明一个关键条件。
+    en: Explain Alternative wellbeing indicators and state one important condition.
+  answer:
+    zh-CN: 替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。
+    en: Alternative indicators can combine income, health, education, subjective
+      satisfaction and ecological pressure. Choosing dimensions and weights
+      involves judgement, so a ranking cannot replace analysis.
+  explanation:
+    zh-CN: 不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。
+    en: Different indicators target different outcomes; no composite is completely
+      objective or exhaustive.
+- id: u3-10-wellbeing-indicators-mcq-1
+  knowledgePointId: u3-10-wellbeing-indicators
+  type: mcq
+  prompt:
+    zh-CN: 评价综合福利指标时应检查什么？
+    en: What should be checked when evaluating a composite wellbeing index?
+  options:
+    - id: a
+      zh-CN: 只看排名变化
+      en: Only changes in rank
+    - id: b
+      zh-CN: 维度、权重与数据可比性
+      en: Dimensions, weights and data comparability
+    - id: c
+      zh-CN: 假设权重无价值判断
+      en: Assume weights involve no judgement
+    - id: d
+      zh-CN: 忽略国内差距
+      en: Ignore within-country gaps
+  correctOptionId: b
+  explanation:
+    zh-CN: 维度、权重与数据可比性。
+      原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。
+      不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。
+    en: "Dimensions, weights and data comparability. Illustrative example: two
+      countries have similar income per person but different health prospects
+      and educational opportunities. Human-development measures complement
+      income. Subjective happiness also depends on culture and survey design,
+      while composites can conceal internal group gaps. Different indicators
+      target different outcomes; no composite is completely objective or
+      exhaustive."
+- id: u3-10-wellbeing-indicators-short-1
+  knowledgePointId: u3-10-wellbeing-indicators
+  type: short-answer
+  prompt:
+    zh-CN: 解释替代福利指标的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Alternative wellbeing indicators and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。
+      明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异
+      原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。
+    en: "Alternative indicators can combine income, health, education, subjective
+      satisfaction and ecological pressure. Choosing dimensions and weights
+      involves judgement, so a ranking cannot replace analysis. Specify the
+      wellbeing dimensions; select comparable data and weights; interpret
+      composite indicators alongside GDP Illustrative example: two countries
+      have similar income per person but different health prospects and
+      educational opportunities. Human-development measures complement income.
+      Subjective happiness also depends on culture and survey design, while
+      composites can conceal internal group gaps."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 健康
+        en: health
+      alternatives:
+        zh-CN:
+          - 健康
+          - 明确希望衡量的福利维度
+        en:
+          - health
+          - Specify the wellbeing dimensions
+    - id: mechanism-2
+      label:
+        zh-CN: 教育
+        en: education
+      alternatives:
+        zh-CN:
+          - 教育
+          - 选择可比较的数据与权重
+        en:
+          - education
+          - select comparable data and weights
+    - id: mechanism-3
+      label:
+        zh-CN: 权重
+        en: weights
+      alternatives:
+        zh-CN:
+          - 权重
+          - 结合 GDP 解读综合指标的差异
+        en:
+          - weights
+          - interpret composite indicators alongside GDP
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

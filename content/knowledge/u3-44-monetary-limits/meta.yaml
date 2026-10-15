@@ -1,0 +1,40 @@
+id: u3-44-monetary-limits
+slug: monetary-limits
+section: "3.5"
+level: core
+syllabusRefs:
+  - 3.5 Monetary policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.2"
+    pages:
+      - 387
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-39-money-interest
+  - u3-40-monetary-transmission
+  - u3-41-expansionary-monetary
+terms:
+  - 货币政策的有效性与约束
+  - Effectiveness and limits of monetary policy
+  - 供给问题
+  - supply problems
+  - 时滞
+  - lags
+  - 金融稳定
+  - financial stability
+synonyms:
+  zh-CN:
+    - 供给问题
+    - 时滞
+    - 金融稳定
+  en:
+    - supply problems
+    - lags
+    - financial stability
+diagramIds: []
+quizIds:
+  - u3-44-monetary-limits-flash-1
+  - u3-44-monetary-limits-mcq-1
+  - u3-44-monetary-limits-short-1
