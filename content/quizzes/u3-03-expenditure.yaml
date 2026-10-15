@@ -1,0 +1,101 @@
+- id: u3-03-expenditure-flash-1
+  knowledgePointId: u3-03-expenditure
+  type: flashcard
+  prompt:
+    zh-CN: 解释“支出法 GDP”，并说明一个关键条件。
+    en: Explain GDP by expenditure and state one important condition.
+  answer:
+    zh-CN: 支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。
+    en: Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory
+      change; G is government purchases of goods and services. Transfers do not
+      directly enter G.
+  explanation:
+    zh-CN: 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。
+    en: Imports are deducted because GDP measures domestic output, not because
+      imports are inherently harmful.
+- id: u3-03-expenditure-mcq-1
+  knowledgePointId: u3-03-expenditure
+  type: mcq
+  prompt:
+    zh-CN: C=200、I=50、G=70、X=40、M=30，GDP 多少？
+    en: C=200, I=50, G=70, X=40, M=30. What is GDP?
+  options:
+    - id: a
+      zh-CN: "390"
+      en: "390"
+    - id: b
+      zh-CN: "290"
+      en: "290"
+    - id: c
+      zh-CN: "330"
+      en: "330"
+    - id: d
+      zh-CN: "360"
+      en: "360"
+  correctOptionId: c
+  explanation:
+    zh-CN: 330。 原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资
+      I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。
+    en: "330. Illustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670.
+      Buying shares transfers ownership rather than counting as I. Benefits may
+      enter consumption when spent on new output. Imports are deducted to
+      exclude foreign production. Imports are deducted because GDP measures
+      domestic output, not because imports are inherently harmful."
+- id: u3-03-expenditure-short-1
+  knowledgePointId: u3-03-expenditure
+  type: short-answer
+  prompt:
+    zh-CN: 解释支出法 GDP的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GDP by expenditure and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 支出法 GDP=C+I+G+(X−M)，其中 I 是实际资本形成与存货变化，G 是政府商品服务购买，转移支付不直接计入 G。
+      加总家庭、企业、政府和国外支出；减去已含在支出中的进口；避免将金融交易或转移支付当作新产出
+      原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资
+      I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。
+    en: "Expenditure GDP=C+I+G+(X−M). I covers real capital formation and inventory
+      change; G is government purchases of goods and services. Transfers do not
+      directly enter G. Add household, business, government and foreign
+      spending; subtract imports already included in spending; exclude financial
+      trades and transfers as new output Illustrative example: C=400, I=100,
+      G=150, X=80 and M=60 give GDP=670. Buying shares transfers ownership
+      rather than counting as I. Benefits may enter consumption when spent on
+      new output. Imports are deducted to exclude foreign production."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 消费
+        en: consumption
+      alternatives:
+        zh-CN:
+          - 消费
+          - 加总家庭、企业、政府和国外支出
+        en:
+          - consumption
+          - Add household, business, government and foreign spending
+    - id: mechanism-2
+      label:
+        zh-CN: 净出口
+        en: net exports
+      alternatives:
+        zh-CN:
+          - 净出口
+          - 减去已含在支出中的进口
+        en:
+          - net exports
+          - subtract imports already included in spending
+    - id: mechanism-3
+      label:
+        zh-CN: 境内
+        en: domestic
+      alternatives:
+        zh-CN:
+          - 境内
+          - 避免将金融交易或转移支付当作新产出
+        en:
+          - domestic
+          - exclude financial trades and transfers as new output
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

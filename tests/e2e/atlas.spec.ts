@@ -3,6 +3,68 @@ import { expect, test } from "@playwright/test";
 
 const studyRoute = "/ib-econ-atlas/#/study/u1-04-scarcity";
 
+test("Unit 3 bilingual macro diagrams fit every release viewport", async ({ page }) => {
+  await page.goto("/ib-econ-atlas/#/study/u3-19-macro-shocks");
+  await expect(page.getByRole("heading", { level: 1, name: "需求冲击、供给冲击与滞胀" })).toBeVisible();
+  await expect(page.getByRole("navigation", { name: "Breadcrumb" })).toContainText("Unit 3");
+  await expect(page.locator(".micro-diagram table")).toContainText("Y1<Y0");
+  await expectNoHorizontalOverflow(page);
+  await page.getByRole("button", { name: "Switch to English" }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "Demand shocks, supply shocks and stagflation" })).toBeVisible();
+  await expect(page.locator(".micro-diagram table")).toContainText("With AD unchanged");
+  await expectNoHorizontalOverflow(page);
+});
+
+test("Unit 3 directory, HL filter and scoped practice compose", async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "Shared desktop directory state.");
+  await page.goto("/ib-econ-atlas/#/study/u3-49-multiplier");
+  await expect(page.getByText("Unit 3 · 宏观经济学", { exact: true })).toBeVisible();
+  await page.getByRole("tab", { name: "教材目录" }).click();
+  await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 13 · 宏观经济政策" })).toBeVisible();
+  await page.getByRole("tab", { name: "考纲目录" }).click();
+  await page.getByRole("button", { name: "选择范围: 财政政策", exact: true }).click();
+  await expect(page.getByText("7 / 159", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "SL", exact: true }).click();
+  await expect(page.getByRole("button", { name: "凯恩斯乘数", exact: true })).toHaveCount(0);
+  await page.getByRole("button", { name: "全部 + 扩展", exact: true }).click();
+  await page.goto("/ib-econ-atlas/#/review");
+  await page.getByRole("button", { name: "选择题", exact: true }).click();
+  await page.getByRole("button", { name: "生成复习题组" }).click();
+  await expect(page.getByRole("button", { name: "提交答案" })).toBeVisible();
+});
+
+test("Unit 3 first visit, bilingual diagrams, search and review work offline", async ({ page, context }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "Shared service-worker precache.");
+  await page.goto(studyRoute);
+  await page.evaluate(async () => { await navigator.serviceWorker.ready; });
+  await page.reload();
+  await page.waitForFunction(() => Boolean(navigator.serviceWorker.controller));
+  await context.setOffline(true);
+  try {
+    await page.goto("/ib-econ-atlas/#/study/u3-19-macro-shocks");
+    await expect(page.getByRole("heading", { level: 1, name: "需求冲击、供给冲击与滞胀" })).toBeVisible();
+    expect(await page.locator(".micro-diagram img").evaluate((image) => (image as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
+    await page.getByRole("button", { name: "Switch to English" }).click();
+    await expect(page.getByRole("heading", { level: 1, name: "Demand shocks, supply shocks and stagflation" })).toBeVisible();
+    await page.getByRole("searchbox").fill("凯恩斯乘数");
+    await page.getByRole("button", { name: /Keynesian multiplier/ }).first().click();
+    await expect(page.getByRole("heading", { level: 1, name: "The Keynesian multiplier" })).toBeVisible();
+    await page.reload();
+    await expect(page.getByRole("heading", { level: 1, name: "The Keynesian multiplier" })).toBeVisible();
+    await page.getByRole("button", { name: "Select scope: Fiscal policy", exact: true }).click();
+    await page.goto("/ib-econ-atlas/#/review");
+    await page.getByRole("button", { name: "Flashcards", exact: true }).click();
+    await page.getByRole("button", { name: "Build review session" }).click();
+    await page.getByRole("button", { name: "Show answer" }).click();
+    await page.getByRole("button", { name: "Okay", exact: true }).click();
+    await expect(page.getByText("2 / 7", { exact: true })).toBeVisible();
+    await page.goto("/ib-econ-atlas/#/progress");
+    await expect(page.locator(".stat-grid article").filter({ hasText: "Learning" }).getByRole("strong")).toHaveText("1");
+    await page.reload();
+    await expect(page.locator(".stat-grid article").filter({ hasText: "Learning" }).getByRole("strong")).toHaveText("1");
+  } finally { await context.setOffline(false); }
+});
+
 test("Unit 2 bilingual study and diagrams adapt at every release width", async ({ page }) => {
   await page.goto("/ib-econ-atlas/#/study/u2-34-negative-production");
   await expect(page.getByRole("heading", { level: 1, name: "负生产外部性" })).toBeVisible();
@@ -24,7 +86,7 @@ test("Unit 2 directory, scope, HL filter and review compose", async ({ page }, t
   await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 2 · 竞争市场" })).toBeVisible();
   await page.getByRole("tab", { name: "考纲目录" }).click();
   await page.getByRole("button", { name: "选择范围: 需求", exact: true }).click();
-  await expect(page.getByText("5 / 103", { exact: true })).toBeVisible();
+  await expect(page.getByText("5 / 159", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "SL", exact: true }).click();
   await expect(page.getByRole("button", { name: "边际效用与消费者选择", exact: true })).toHaveCount(0);
   await page.goto("/ib-econ-atlas/#/review");
@@ -128,11 +190,11 @@ test("the global level filter applies to progress and resets an active review", 
   test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared level state.");
   await page.goto("/ib-econ-atlas/#/progress");
   const newCount = page.locator(".stat-grid article").filter({ hasText: "未学" }).getByRole("strong");
-  await expect(newCount).toHaveText("103");
+  await expect(newCount).toHaveText("159");
   await page.getByRole("button", { name: "SL", exact: true }).click();
-  await expect(newCount).toHaveText("68");
+  await expect(newCount).toHaveText("119");
   await page.getByRole("button", { name: "HL", exact: true }).click();
-  await expect(newCount).toHaveText("95");
+  await expect(newCount).toHaveText("151");
   await page.goto("/ib-econ-atlas/#/review");
   await page.getByRole("button", { name: "闪卡", exact: true }).click();
   await page.getByRole("button", { name: "生成复习题组" }).click();
@@ -156,7 +218,7 @@ test("bilingual fuzzy search, directory modes, and session scope compose", async
 
   await page.goto(studyRoute);
   await page.getByRole("button", { name: "选择范围: 经济学的本质" }).click();
-  await expect(page.getByText("15 / 103", { exact: true })).toBeVisible();
+  await expect(page.getByText("15 / 159", { exact: true })).toBeVisible();
   await page.goto("/ib-econ-atlas/#/progress");
   await expect(page.getByText("当前仅统计考试范围内的 15 个知识点。")).toBeVisible();
   await page.goto(studyRoute);

@@ -1,0 +1,101 @@
+- id: u3-07-per-capita-ppp-flash-1
+  knowledgePointId: u3-07-per-capita-ppp
+  type: flashcard
+  prompt:
+    zh-CN: 解释“人均实际收入与 PPP”，并说明一个关键条件。
+    en: Explain Real income per capita and PPP and state one important condition.
+  answer:
+    zh-CN: 人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。
+    en: Real income per capita divides real income by population. Purchasing power
+      parity adjusts cross-country price-level differences to compare command
+      over comparable goods and services.
+  explanation:
+    zh-CN: 人均值是平均数，不表示每个人都获得相同收入。
+    en: A per-capita value is an average, not the income each person actually
+      receives.
+- id: u3-07-per-capita-ppp-mcq-1
+  knowledgePointId: u3-07-per-capita-ppp
+  type: mcq
+  prompt:
+    zh-CN: 实际 GDP 不变、人口增加，人均实际 GDP 怎样？
+    en: Real GDP is unchanged and population rises. What happens to real GDP per
+      capita?
+  options:
+    - id: a
+      zh-CN: 上升
+      en: Rises
+    - id: b
+      zh-CN: 必然不变
+      en: Necessarily unchanged
+    - id: c
+      zh-CN: 下降
+      en: Falls
+    - id: d
+      zh-CN: 等于人口增长率
+      en: Equals population growth
+  correctOptionId: c
+  explanation:
+    zh-CN: 下降。 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP
+      比较也不能揭示分配、公共服务质量或环境差异。 人均值是平均数，不表示每个人都获得相同收入。
+    en: "Falls. Illustrative example: real GDP grows 4% and population 2%, so
+      per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP
+      comparisons still do not reveal distribution, service quality or
+      environmental differences. A per-capita value is an average, not the
+      income each person actually receives."
+- id: u3-07-per-capita-ppp-short-1
+  knowledgePointId: u3-07-per-capita-ppp
+  type: short-answer
+  prompt:
+    zh-CN: 解释人均实际收入与 PPP的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Real income per capita and PPP and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 人均实际收入将实际收入除以人口；购买力平价 PPP 调整跨国价格水平差异，以比较购买相近商品服务的能力。
+      总量增长可能伴随人口增长；除以人口观察平均水平；PPP 调整不同国家的购买力 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP
+      增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP 比较也不能揭示分配、公共服务质量或环境差异。
+    en: "Real income per capita divides real income by population. Purchasing power
+      parity adjusts cross-country price-level differences to compare command
+      over comparable goods and services. Aggregate growth may accompany
+      population growth; divide by population to examine averages; PPP adjusts
+      purchasing power across countries Illustrative example: real GDP grows 4%
+      and population 2%, so per-capita growth is about 2%, precisely
+      1.04/1.02−1≈1.96%. PPP comparisons still do not reveal distribution,
+      service quality or environmental differences."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 人口
+        en: population
+      alternatives:
+        zh-CN:
+          - 人口
+          - 总量增长可能伴随人口增长
+        en:
+          - population
+          - Aggregate growth may accompany population growth
+    - id: mechanism-2
+      label:
+        zh-CN: 平均
+        en: average
+      alternatives:
+        zh-CN:
+          - 平均
+          - 除以人口观察平均水平
+        en:
+          - average
+          - divide by population to examine averages
+    - id: mechanism-3
+      label:
+        zh-CN: 购买力
+        en: purchasing power
+      alternatives:
+        zh-CN:
+          - 购买力
+          - PPP 调整不同国家的购买力
+        en:
+          - purchasing power
+          - PPP adjusts purchasing power across countries
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

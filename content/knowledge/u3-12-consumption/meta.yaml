@@ -1,0 +1,41 @@
+id: u3-12-consumption
+slug: consumption
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.1"
+    pages:
+      - 272
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-13-investment
+  - u3-14-sras
+terms:
+  - 消费与总需求移动
+  - Consumption and shifts in aggregate demand
+  - 可支配收入
+  - disposable income
+  - 信心
+  - confidence
+  - 消费
+  - consumption
+synonyms:
+  zh-CN:
+    - 可支配收入
+    - 信心
+    - 消费
+  en:
+    - disposable income
+    - confidence
+    - consumption
+diagramIds:
+  - macro-ad-expansion
+quizIds:
+  - u3-12-consumption-flash-1
+  - u3-12-consumption-mcq-1
+  - u3-12-consumption-short-1

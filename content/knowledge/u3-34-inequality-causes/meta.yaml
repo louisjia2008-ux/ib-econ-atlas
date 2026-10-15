@@ -1,0 +1,40 @@
+id: u3-34-inequality-causes
+slug: inequality-causes
+section: "3.4"
+level: core
+syllabusRefs:
+  - 3.4 Economics of inequality and poverty
+textbookRefs:
+  - chapter: "12"
+    section: "12.3"
+    pages:
+      - 365
+prerequisites:
+  - u1-35-equality-equity
+related:
+  - u3-33-poverty
+  - u3-35-lorenz-gini
+  - u3-36-poverty-effects
+terms:
+  - 不平等与贫困的成因
+  - Causes of inequality and poverty
+  - 机会
+  - opportunity
+  - 教育
+  - education
+  - 收入
+  - income
+synonyms:
+  zh-CN:
+    - 机会
+    - 教育
+    - 收入
+  en:
+    - opportunity
+    - education
+    - income
+diagramIds: []
+quizIds:
+  - u3-34-inequality-causes-flash-1
+  - u3-34-inequality-causes-mcq-1
+  - u3-34-inequality-causes-short-1

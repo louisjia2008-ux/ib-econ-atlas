@@ -1,0 +1,104 @@
+- id: u3-31-phillips-curve-flash-1
+  knowledgePointId: u3-31-phillips-curve
+  type: flashcard
+  prompt:
+    zh-CN: 解释“短期与长期菲利普斯曲线”，并说明一个关键条件。
+    en: Explain Short-run and long-run Phillips curves and state one important
+      condition.
+  answer:
+    zh-CN: 短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。
+    en: The short-run Phillips curve describes an inverse inflation–unemployment
+      relationship at given expectations and supply conditions. In the
+      expectations-adjusted long-run model, the curve is vertical at the natural
+      rate.
+  explanation:
+    zh-CN: 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。
+    en: Phillips curves use inflation on the vertical axis; AD–AS uses the price
+      level.
+- id: u3-31-phillips-curve-mcq-1
+  knowledgePointId: u3-31-phillips-curve
+  type: mcq
+  prompt:
+    zh-CN: 长期菲利普斯曲线垂直表示什么？
+    en: What does a vertical long-run Phillips curve imply?
+  options:
+    - id: a
+      zh-CN: 通胀永远为零
+      en: Inflation is always zero
+    - id: b
+      zh-CN: 失业永远为零
+      en: Unemployment is always zero
+    - id: c
+      zh-CN: 不存在永久的通胀—失业权衡
+      en: No permanent inflation–unemployment trade-off
+    - id: d
+      zh-CN: 短期供给冲击不可能发生
+      en: Short-run supply shocks cannot occur
+  correctOptionId: c
+  explanation:
+    zh-CN: 不存在永久的通胀—失业权衡。 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC
+      上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。
+    en: "No permanent inflation–unemployment trade-off. Illustrative example: policy
+      temporarily pushes unemployment below the natural rate, then expected
+      inflation rises and SRPC shifts up. An energy shock can raise both
+      inflation and unemployment, so one short-run curve is not a permanently
+      stable policy menu. Phillips curves use inflation on the vertical axis;
+      AD–AS uses the price level."
+- id: u3-31-phillips-curve-short-1
+  knowledgePointId: u3-31-phillips-curve
+  type: short-answer
+  prompt:
+    zh-CN: 解释短期与长期菲利普斯曲线的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Short-run and long-run Phillips curves and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 短期菲利普斯曲线描述给定预期与供给条件下通胀和失业的反向关系；长期预期调整模型中的曲线在自然失业率处垂直。
+      需求扩张短期减少周期性失业；工资价格预期随后调整；短期曲线移动使长期权衡消失 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC
+      上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。
+    en: "The short-run Phillips curve describes an inverse inflation–unemployment
+      relationship at given expectations and supply conditions. In the
+      expectations-adjusted long-run model, the curve is vertical at the natural
+      rate. Demand expansion initially reduces cyclical unemployment; wage-price
+      expectations adjust; the short-run curve shifts, removing the permanent
+      long-run trade-off Illustrative example: policy temporarily pushes
+      unemployment below the natural rate, then expected inflation rises and
+      SRPC shifts up. An energy shock can raise both inflation and unemployment,
+      so one short-run curve is not a permanently stable policy menu."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 预期
+        en: expectations
+      alternatives:
+        zh-CN:
+          - 预期
+          - 需求扩张短期减少周期性失业
+        en:
+          - expectations
+          - Demand expansion initially reduces cyclical unemployment
+    - id: mechanism-2
+      label:
+        zh-CN: 自然失业率
+        en: natural rate
+      alternatives:
+        zh-CN:
+          - 自然失业率
+          - 工资价格预期随后调整
+        en:
+          - natural rate
+          - wage-price expectations adjust
+    - id: mechanism-3
+      label:
+        zh-CN: 长期
+        en: long run
+      alternatives:
+        zh-CN:
+          - 长期
+          - 短期曲线移动使长期权衡消失
+        en:
+          - long run
+          - the short-run curve shifts, removing the permanent long-run trade-off
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

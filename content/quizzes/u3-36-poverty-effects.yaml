@@ -1,0 +1,102 @@
+- id: u3-36-poverty-effects-flash-1
+  knowledgePointId: u3-36-poverty-effects
+  type: flashcard
+  prompt:
+    zh-CN: 解释“不平等与贫困的影响”，并说明一个关键条件。
+    en: Explain Effects of inequality and poverty and state one important condition.
+  answer:
+    zh-CN: 贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。
+    en: Poverty can damage health, education and productivity. High inequality can
+      weaken opportunity and social trust, while some differences in returns can
+      also incentivise work and innovation.
+  explanation:
+    zh-CN: 效率与公平并非在所有政策下都必然冲突。
+    en: Efficiency and equity need not conflict under every policy.
+- id: u3-36-poverty-effects-mcq-1
+  knowledgePointId: u3-36-poverty-effects
+  type: mcq
+  prompt:
+    zh-CN: 改善贫困儿童营养为何可能同时改善效率？
+    en: Why can better nutrition for poor children also improve efficiency?
+  options:
+    - id: a
+      zh-CN: 消除全部资源成本
+      en: Removes all resource costs
+    - id: b
+      zh-CN: 保证所有工资相同
+      en: Guarantees identical wages
+    - id: c
+      zh-CN: 只增加名义物价
+      en: Only raises nominal prices
+    - id: d
+      zh-CN: 改善健康、学习与未来生产率
+      en: Improves health, learning and future productivity
+  correctOptionId: d
+  explanation:
+    zh-CN: 改善健康、学习与未来生产率。
+      原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。
+      效率与公平并非在所有政策下都必然冲突。
+    en: "Improves health, learning and future productivity. Illustrative example:
+      malnutrition harms learning and adult work capacity; public health and
+      school meals may interrupt the cycle. Assess income gaps by distinguishing
+      opportunity inequality, incentives and rent extraction rather than
+      treating all differences alike. Efficiency and equity need not conflict
+      under every policy."
+- id: u3-36-poverty-effects-short-1
+  knowledgePointId: u3-36-poverty-effects
+  type: short-answer
+  prompt:
+    zh-CN: 解释不平等与贫困的影响的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Effects of inequality and poverty and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 贫困可损害健康、教育与生产率；高不平等可削弱机会与社会信任，但某些回报差异也提供工作和创新激励。
+      资源匮乏影响服务获得；人力资本和社会参与受损；未来生产与税基可能因此减弱
+      原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。
+    en: "Poverty can damage health, education and productivity. High inequality can
+      weaken opportunity and social trust, while some differences in returns can
+      also incentivise work and innovation. Resource deprivation limits service
+      access; human capital and participation suffer; future production and the
+      tax base may weaken Illustrative example: malnutrition harms learning and
+      adult work capacity; public health and school meals may interrupt the
+      cycle. Assess income gaps by distinguishing opportunity inequality,
+      incentives and rent extraction rather than treating all differences
+      alike."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 健康
+        en: health
+      alternatives:
+        zh-CN:
+          - 健康
+          - 资源匮乏影响服务获得
+        en:
+          - health
+          - Resource deprivation limits service access
+    - id: mechanism-2
+      label:
+        zh-CN: 人力资本
+        en: human capital
+      alternatives:
+        zh-CN:
+          - 人力资本
+          - 人力资本和社会参与受损
+        en:
+          - human capital
+          - human capital and participation suffer
+    - id: mechanism-3
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 未来生产与税基可能因此减弱
+        en:
+          - productivity
+          - future production and the tax base may weaken
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

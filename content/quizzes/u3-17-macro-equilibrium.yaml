@@ -1,0 +1,101 @@
+- id: u3-17-macro-equilibrium-flash-1
+  knowledgePointId: u3-17-macro-equilibrium
+  type: flashcard
+  prompt:
+    zh-CN: 解释“宏观均衡与比较静态”，并说明一个关键条件。
+    en: Explain Macroeconomic equilibrium and comparative statics and state one
+      important condition.
+  answer:
+    zh-CN: 短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。
+    en: Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the
+      price level and real output. Long-run equilibrium must also be consistent
+      with potential output and the relevant long-run model.
+  explanation:
+    zh-CN: 不能把纵轴价格水平直接写成通胀率。
+    en: Do not label an AD–AS price-level axis as the inflation rate.
+- id: u3-17-macro-equilibrium-mcq-1
+  knowledgePointId: u3-17-macro-equilibrium
+  type: mcq
+  prompt:
+    zh-CN: AD 与 SRAS 都右移，能确定什么？
+    en: AD and SRAS both shift right. What can be determined?
+  options:
+    - id: a
+      zh-CN: 实际产出增加
+      en: Real output increases
+    - id: b
+      zh-CN: 价格一定上涨
+      en: Prices must rise
+    - id: c
+      zh-CN: 价格一定下降
+      en: Prices must fall
+    - id: d
+      zh-CN: 产出一定减少
+      en: Output must fall
+  correctOptionId: a
+  explanation:
+    zh-CN: 实际产出增加。 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS
+      同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。 不能把纵轴价格水平直接写成通胀率。
+    en: "Real output increases. Illustrative example: stronger export demand shifts
+      AD right, raising prices and output along upward SRAS. If AD and SRAS both
+      shift right, output rises but the price direction depends on magnitudes. A
+      higher price level does not by itself specify annual inflation. Do not
+      label an AD–AS price-level axis as the inflation rate."
+- id: u3-17-macro-equilibrium-short-1
+  knowledgePointId: u3-17-macro-equilibrium
+  type: short-answer
+  prompt:
+    zh-CN: 解释宏观均衡与比较静态的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Macroeconomic equilibrium and comparative statics
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 短期宏观均衡由 AD 与 SRAS 交点确定总体价格水平和实际产出；长期均衡还需与潜在产出及相应长期模型一致。
+      识别初始均衡；根据冲击移动对应曲线；比较新均衡并说明调整时间与假设 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若
+      AD 和 SRAS 同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。
+    en: "Short-run macroeconomic equilibrium is the AD–SRAS intersection giving the
+      price level and real output. Long-run equilibrium must also be consistent
+      with potential output and the relevant long-run model. Identify the
+      initial equilibrium; shift the appropriate curve for the shock; compare
+      the new equilibrium while stating timing and assumptions Illustrative
+      example: stronger export demand shifts AD right, raising prices and output
+      along upward SRAS. If AD and SRAS both shift right, output rises but the
+      price direction depends on magnitudes. A higher price level does not by
+      itself specify annual inflation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 交点
+        en: intersection
+      alternatives:
+        zh-CN:
+          - 交点
+          - 识别初始均衡
+        en:
+          - intersection
+          - Identify the initial equilibrium
+    - id: mechanism-2
+      label:
+        zh-CN: 曲线移动
+        en: shift
+      alternatives:
+        zh-CN:
+          - 曲线移动
+          - 根据冲击移动对应曲线
+        en:
+          - shift
+          - shift the appropriate curve for the shock
+    - id: mechanism-3
+      label:
+        zh-CN: 价格水平
+        en: price level
+      alternatives:
+        zh-CN:
+          - 价格水平
+          - 比较新均衡并说明调整时间与假设
+        en:
+          - price level
+          - compare the new equilibrium while stating timing and assumptions
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

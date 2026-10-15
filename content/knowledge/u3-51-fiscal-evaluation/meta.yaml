@@ -1,0 +1,40 @@
+id: u3-51-fiscal-evaluation
+slug: fiscal-evaluation
+section: "3.6"
+level: core
+syllabusRefs:
+  - 3.6 Fiscal policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.3"
+    pages:
+      - 398
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-45-fiscal-budget
+  - u3-46-expansionary-fiscal
+  - u3-47-contractionary-fiscal
+terms:
+  - 财政政策评价
+  - Evaluating fiscal policy
+  - 产出缺口
+  - output gap
+  - 漏出
+  - leakages
+  - 长期财政供给
+  - long-run fiscal and supply
+synonyms:
+  zh-CN:
+    - 产出缺口
+    - 漏出
+    - 长期财政供给
+  en:
+    - output gap
+    - leakages
+    - long-run fiscal and supply
+diagramIds: []
+quizIds:
+  - u3-51-fiscal-evaluation-flash-1
+  - u3-51-fiscal-evaluation-mcq-1
+  - u3-51-fiscal-evaluation-short-1

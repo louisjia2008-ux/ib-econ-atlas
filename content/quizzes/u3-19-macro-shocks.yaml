@@ -1,0 +1,101 @@
+- id: u3-19-macro-shocks-flash-1
+  knowledgePointId: u3-19-macro-shocks
+  type: flashcard
+  prompt:
+    zh-CN: 解释“需求冲击、供给冲击与滞胀”，并说明一个关键条件。
+    en: Explain Demand shocks, supply shocks and stagflation and state one important
+      condition.
+  answer:
+    zh-CN: 负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。
+    en: A negative demand shock normally lowers output and price pressure. A
+      negative supply shock can reduce output while raising the price level,
+      creating stagflation pressure.
+  explanation:
+    zh-CN: 一次价格水平冲击与持续的通胀过程也需要区分。
+    en: Distinguish a one-off price-level shock from a continuing inflation process.
+- id: u3-19-macro-shocks-mcq-1
+  knowledgePointId: u3-19-macro-shocks
+  type: mcq
+  prompt:
+    zh-CN: 负供给冲击下扩张 AD 的主要权衡是什么？
+    en: What is a main trade-off of expanding AD after an adverse supply shock?
+  options:
+    - id: a
+      zh-CN: 必同时降低价格与失业
+      en: Must lower both prices and unemployment
+    - id: b
+      zh-CN: 立刻增加资源禀赋
+      en: Immediately increases resources
+    - id: c
+      zh-CN: 支持产出但加重物价压力
+      en: Supports output but intensifies price pressure
+    - id: d
+      zh-CN: 没有任何权衡
+      en: No trade-off exists
+  correctOptionId: c
+  explanation:
+    zh-CN: 支持产出但加重物价压力。 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD
+      可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。 一次价格水平冲击与持续的通胀过程也需要区分。
+    en: "Supports output but intensifies price pressure. Illustrative example: an
+      energy shortage shifts SRAS left. Expanding AD can limit output losses but
+      raise prices further; contracting AD can limit price pressure but worsen
+      recession. Identify the shock rather than prescribe one policy for every
+      inflation episode. Distinguish a one-off price-level shock from a
+      continuing inflation process."
+- id: u3-19-macro-shocks-short-1
+  knowledgePointId: u3-19-macro-shocks
+  type: short-answer
+  prompt:
+    zh-CN: 解释需求冲击、供给冲击与滞胀的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Demand shocks, supply shocks and stagflation and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 负需求冲击通常降低产出与价格压力；负供给冲击可能同时减少产出并提高价格水平，形成滞胀压力。 先区分支出不足或成本产能问题；移动 AD 或
+      SRAS；政策选择面对不同目标冲突 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD
+      可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。
+    en: "A negative demand shock normally lowers output and price pressure. A
+      negative supply shock can reduce output while raising the price level,
+      creating stagflation pressure. Distinguish weak spending from
+      cost/capacity problems; shift AD or SRAS; policy choices face different
+      objective conflicts Illustrative example: an energy shortage shifts SRAS
+      left. Expanding AD can limit output losses but raise prices further;
+      contracting AD can limit price pressure but worsen recession. Identify the
+      shock rather than prescribe one policy for every inflation episode."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 供给冲击
+        en: supply shock
+      alternatives:
+        zh-CN:
+          - 供给冲击
+          - 先区分支出不足或成本产能问题
+        en:
+          - supply shock
+          - Distinguish weak spending from cost/capacity problems
+    - id: mechanism-2
+      label:
+        zh-CN: 产出
+        en: output
+      alternatives:
+        zh-CN:
+          - 产出
+          - 移动 AD 或 SRAS
+        en:
+          - output
+          - shift AD or SRAS
+    - id: mechanism-3
+      label:
+        zh-CN: 物价
+        en: prices
+      alternatives:
+        zh-CN:
+          - 物价
+          - 政策选择面对不同目标冲突
+        en:
+          - prices
+          - policy choices face different objective conflicts
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

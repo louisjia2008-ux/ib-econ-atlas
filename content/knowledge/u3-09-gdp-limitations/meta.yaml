@@ -1,0 +1,40 @@
+id: u3-09-gdp-limitations
+slug: gdp-limitations
+section: "3.1"
+level: core
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.5"
+    pages:
+      - 264
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+  - u3-02-gdp
+  - u3-03-expenditure
+terms:
+  - GDP 与生活水平的局限
+  - GDP and limits as a living-standard measure
+  - 福利
+  - welfare
+  - 分配
+  - distribution
+  - 环境
+  - environment
+synonyms:
+  zh-CN:
+    - 福利
+    - 分配
+    - 环境
+  en:
+    - welfare
+    - distribution
+    - environment
+diagramIds: []
+quizIds:
+  - u3-09-gdp-limitations-flash-1
+  - u3-09-gdp-limitations-mcq-1
+  - u3-09-gdp-limitations-short-1

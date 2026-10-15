@@ -1,8 +1,9 @@
-# Current Task
+# Current Task — Unit 3
 
-- Task: `T024` - push verified Unit 2 and create an unmerged PR on `codex/unit-2-microeconomics`.
-- Acceptance: 60 new bilingual points, three practice types each, 12 original diagrams, cross-unit navigation and backup compatibility; verify desktop/tablet/mobile plus first-visit offline access.
-- Scope: Unit 2 content, integration, tests, documentation and recovery records.
-- Verification complete: full local gate, 82 unit tests, 16 browser checks and desktop/mobile visual inspection.
-- Result: complete. PR #9 is open and attached; hosted verify and browser passed for implementation commit 5d96dc0.
-- Final boundary: PR is unmerged; Unit 2 has not been deployed. T020–T024 are complete.
+- Task: T029 — push verified Unit 3 and submit an unmerged PR.
+- Base: main 95cf4fa (Unit 2 PR #9 merged and deployed by prior explicit request).
+- Scope: 56 bilingual points, 168 practice items, eight original diagrams, three-unit navigation and offline/backup compatibility. See unit-3-contract.md.
+- T025–T028 complete. Full local verify, 86 unit/contract tests and 21 applicable browser checks pass (24 intentionally skipped project cases). Desktop Chinese, mobile English and mobile diagram screenshots inspected.
+- Offline first-visit, bilingual search, scoped review and saved progress across reload pass. All 103 old compiled points are deeply identical to origin/main.
+- T029 complete: PR #10 created, attached and unmerged; implementation 559acd0 passed hosted verify/browser in run 38658796959. Final recovery-record CI is inspected again at handoff. RALPH_DONE.
+- No Unit 3 merge, deployment, live AI or dependency changes authorised in this task.

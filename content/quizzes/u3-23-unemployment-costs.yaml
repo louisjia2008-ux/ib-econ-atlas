@@ -1,0 +1,102 @@
+- id: u3-23-unemployment-costs-flash-1
+  knowledgePointId: u3-23-unemployment-costs
+  type: flashcard
+  prompt:
+    zh-CN: 解释“失业的经济与社会成本”，并说明一个关键条件。
+    en: Explain Economic and social costs of unemployment and state one important
+      condition.
+  answer:
+    zh-CN: 失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。
+    en: Unemployment can reduce output, income and tax receipts, raise fiscal and
+      social pressures, and cause skill loss, ill health and lasting exclusion.
+  explanation:
+    zh-CN: 财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。
+    en: Benefits can cushion household income without automatically restoring all
+      lost output.
+- id: u3-23-unemployment-costs-mcq-1
+  knowledgePointId: u3-23-unemployment-costs
+  type: mcq
+  prompt:
+    zh-CN: 长期失业可能怎样影响潜在产出？
+    en: How can prolonged unemployment affect potential output?
+  options:
+    - id: a
+      zh-CN: 必然提高所有技能
+      en: Necessarily improves every skill
+    - id: b
+      zh-CN: 只改变名义价格
+      en: Only changes nominal prices
+    - id: c
+      zh-CN: 技能退化可能降低潜在产出
+      en: Skill loss can reduce potential output
+    - id: d
+      zh-CN: 完全没有长期影响
+      en: Has no possible long-run effect
+  correctOptionId: c
+  explanation:
+    zh-CN: 技能退化可能降低潜在产出。
+      原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。
+      财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。
+    en: "Skill loss can reduce potential output. Illustrative example: a factory
+      closure affects workers' households, nearby shops and tax receipts.
+      Training and job-search support may prevent a temporary shock becoming
+      structural, but programme quality, mental health and regional vacancies
+      affect outcomes. Benefits can cushion household income without
+      automatically restoring all lost output."
+- id: u3-23-unemployment-costs-short-1
+  knowledgePointId: u3-23-unemployment-costs
+  type: short-answer
+  prompt:
+    zh-CN: 解释失业的经济与社会成本的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Economic and social costs of unemployment and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 失业会损失产出、收入和税收，增加财政与社会压力，并可能造成技能退化、健康损害和长期排斥。
+      劳动资源未被利用；收入与需求下降；长期失业进一步损害技能和未来就业能力
+      原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。
+    en: "Unemployment can reduce output, income and tax receipts, raise fiscal and
+      social pressures, and cause skill loss, ill health and lasting exclusion.
+      Labour resources remain unused; income and demand fall; prolonged
+      joblessness damages skills and future employability Illustrative example:
+      a factory closure affects workers' households, nearby shops and tax
+      receipts. Training and job-search support may prevent a temporary shock
+      becoming structural, but programme quality, mental health and regional
+      vacancies affect outcomes."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 劳动资源未被利用
+        en:
+          - income
+          - Labour resources remain unused
+    - id: mechanism-2
+      label:
+        zh-CN: 技能退化
+        en: skill loss
+      alternatives:
+        zh-CN:
+          - 技能退化
+          - 收入与需求下降
+        en:
+          - skill loss
+          - income and demand fall
+    - id: mechanism-3
+      label:
+        zh-CN: 产出
+        en: output
+      alternatives:
+        zh-CN:
+          - 产出
+          - 长期失业进一步损害技能和未来就业能力
+        en:
+          - output
+          - prolonged joblessness damages skills and future employability
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

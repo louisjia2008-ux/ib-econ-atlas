@@ -1,0 +1,102 @@
+- id: u3-26-cost-push-flash-1
+  knowledgePointId: u3-26-cost-push
+  type: flashcard
+  prompt:
+    zh-CN: 解释“成本推动型通胀”，并说明一个关键条件。
+    en: Explain Cost-push inflation and state one important condition.
+  answer:
+    zh-CN: 成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。
+    en: Cost-push inflation comes from higher unit costs or supply constraints. A
+      leftward SRAS shift can combine price pressure with lower real output and
+      higher unemployment.
+  explanation:
+    zh-CN: 名义工资上升若被生产率提高抵消，不必增加单位劳动成本。
+    en: Higher nominal wages need not increase unit labour cost if offset by
+      productivity gains.
+- id: u3-26-cost-push-mcq-1
+  knowledgePointId: u3-26-cost-push
+  type: mcq
+  prompt:
+    zh-CN: 工资涨 5%、生产率也涨约 5%，单位劳动成本怎样？
+    en: Wages and productivity both rise about 5%. What happens to unit labour cost?
+  options:
+    - id: a
+      zh-CN: 必涨 10%
+      en: Must rise 10%
+    - id: b
+      zh-CN: 大致不变
+      en: Approximately unchanged
+    - id: c
+      zh-CN: 必降到零
+      en: Must fall to zero
+    - id: d
+      zh-CN: 无法计算任何方向即使增幅相同
+      en: No inference is possible despite equal proportional changes
+  correctOptionId: b
+  explanation:
+    zh-CN: 大致不变。
+      原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。
+      名义工资上升若被生产率提高抵消，不必增加单位劳动成本。
+    en: "Approximately unchanged. Illustrative example: dearer transport energy
+      affects many industries. Monetary tightening can restrain second-round
+      demand and expectations but cannot directly produce energy and may deepen
+      output losses. Distinguish the initial shock, expectations and continuing
+      wage-price interactions. Higher nominal wages need not increase unit
+      labour cost if offset by productivity gains."
+- id: u3-26-cost-push-short-1
+  knowledgePointId: u3-26-cost-push
+  type: short-answer
+  prompt:
+    zh-CN: 解释成本推动型通胀的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Cost-push inflation and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 成本推动型通胀来自单位生产成本或供给限制引起的物价压力；SRAS 左移可能伴随实际产出下降和失业上升。 能源、工资相对生产率等成本增加；SRAS
+      左移；物价与失业可能同时上升
+      原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。
+    en: "Cost-push inflation comes from higher unit costs or supply constraints. A
+      leftward SRAS shift can combine price pressure with lower real output and
+      higher unemployment. Energy costs or wages relative to productivity rise;
+      SRAS shifts left; prices and unemployment may rise together Illustrative
+      example: dearer transport energy affects many industries. Monetary
+      tightening can restrain second-round demand and expectations but cannot
+      directly produce energy and may deepen output losses. Distinguish the
+      initial shock, expectations and continuing wage-price interactions."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 单位成本
+        en: unit costs
+      alternatives:
+        zh-CN:
+          - 单位成本
+          - 能源、工资相对生产率等成本增加
+        en:
+          - unit costs
+          - Energy costs or wages relative to productivity rise
+    - id: mechanism-2
+      label:
+        zh-CN: SRAS
+        en: SRAS
+      alternatives:
+        zh-CN:
+          - SRAS
+          - SRAS 左移
+        en:
+          - SRAS
+          - SRAS shifts left
+    - id: mechanism-3
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 物价与失业可能同时上升
+        en:
+          - productivity
+          - prices and unemployment may rise together
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

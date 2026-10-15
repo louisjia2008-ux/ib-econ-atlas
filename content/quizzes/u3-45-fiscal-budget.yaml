@@ -1,0 +1,101 @@
+- id: u3-45-fiscal-budget-flash-1
+  knowledgePointId: u3-45-fiscal-budget
+  type: flashcard
+  prompt:
+    zh-CN: 解释“财政预算与政策立场”，并说明一个关键条件。
+    en: Explain Fiscal budgets and policy stance and state one important condition.
+  answer:
+    zh-CN: 财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。
+    en: Fiscal policy affects demand and distribution through government spending
+      and taxation. A deficit is a flow, public debt a stock, and the economic
+      cycle also affects the budget balance.
+  explanation:
+    zh-CN: 预算盈余或赤字的绝对水平不能单独识别政策变化。
+    en: The level of a surplus or deficit alone cannot identify a policy change.
+- id: u3-45-fiscal-budget-mcq-1
+  knowledgePointId: u3-45-fiscal-budget
+  type: mcq
+  prompt:
+    zh-CN: 税收 80、支出 95，预算状况？
+    en: Revenue is 80 and expenditure 95. Budget position?
+  options:
+    - id: a
+      zh-CN: 赤字 15
+      en: Deficit of 15
+    - id: b
+      zh-CN: 盈余 15
+      en: Surplus of 15
+    - id: c
+      zh-CN: 债务总额 15
+      en: Total debt of 15
+    - id: d
+      zh-CN: 预算平衡
+      en: Balanced budget
+  correctOptionId: a
+  explanation:
+    zh-CN: 赤字 15。 原创例：收入 90、支出 100，期间赤字为
+      10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。
+      预算盈余或赤字的绝对水平不能单独识别政策变化。
+    en: "Deficit of 15. Illustrative example: revenue of 90 and spending of 100
+      imply a period deficit of 10, not total debt. A recession-driven larger
+      deficit need not mean a newly announced stimulus. Structural balances try
+      to remove cyclical effects but depend on estimated potential output. The
+      level of a surplus or deficit alone cannot identify a policy change."
+- id: u3-45-fiscal-budget-short-1
+  knowledgePointId: u3-45-fiscal-budget
+  type: short-answer
+  prompt:
+    zh-CN: 解释财政预算与政策立场的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Fiscal budgets and policy stance and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 财政政策通过政府支出和税收影响需求与分配；赤字是期间流量，公共债务是时点存量，预算余额也受经济周期影响。
+      支出与收入形成预算余额；衰退减少税收并增加部分转移；辨别自动变化和主动政策立场 原创例：收入 90、支出 100，期间赤字为
+      10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。
+    en: "Fiscal policy affects demand and distribution through government spending
+      and taxation. A deficit is a flow, public debt a stock, and the economic
+      cycle also affects the budget balance. Spending and revenue determine the
+      budget balance; recession lowers taxes and raises some transfers;
+      distinguish automatic changes from discretionary policy stance
+      Illustrative example: revenue of 90 and spending of 100 imply a period
+      deficit of 10, not total debt. A recession-driven larger deficit need not
+      mean a newly announced stimulus. Structural balances try to remove
+      cyclical effects but depend on estimated potential output."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 预算余额
+        en: budget balance
+      alternatives:
+        zh-CN:
+          - 预算余额
+          - 支出与收入形成预算余额
+        en:
+          - budget balance
+          - Spending and revenue determine the budget balance
+    - id: mechanism-2
+      label:
+        zh-CN: 衰退
+        en: recession
+      alternatives:
+        zh-CN:
+          - 衰退
+          - 衰退减少税收并增加部分转移
+        en:
+          - recession
+          - recession lowers taxes and raises some transfers
+    - id: mechanism-3
+      label:
+        zh-CN: 主动政策
+        en: discretionary policy
+      alternatives:
+        zh-CN:
+          - 主动政策
+          - 辨别自动变化和主动政策立场
+        en:
+          - discretionary policy
+          - distinguish automatic changes from discretionary policy stance
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

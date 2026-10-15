@@ -1,0 +1,40 @@
+id: u3-28-growth-measure
+slug: growth-measure
+section: "3.3"
+level: core
+syllabusRefs:
+  - 3.3 Macroeconomic objectives
+textbookRefs:
+  - chapter: "11"
+    section: "11.1"
+    pages:
+      - 332
+prerequisites:
+  - u3-17-macro-equilibrium
+related:
+  - u3-21-unemployment-rate
+  - u3-22-unemployment-types
+  - u3-23-unemployment-costs
+terms:
+  - 实际经济增长的衡量
+  - Measuring real economic growth
+  - 实际 GDP
+  - real GDP
+  - 百分比
+  - percentage
+  - 人口
+  - population
+synonyms:
+  zh-CN:
+    - 实际 GDP
+    - 百分比
+    - 人口
+  en:
+    - real GDP
+    - percentage
+    - population
+diagramIds: []
+quizIds:
+  - u3-28-growth-measure-flash-1
+  - u3-28-growth-measure-mcq-1
+  - u3-28-growth-measure-short-1

@@ -1,0 +1,41 @@
+id: u3-13-investment
+slug: investment
+section: "3.2"
+level: core
+syllabusRefs:
+  - 3.2 Aggregate demand and aggregate supply
+textbookRefs:
+  - chapter: "9"
+    section: "9.1"
+    pages:
+      - 272
+prerequisites:
+  - u3-02-gdp
+related:
+  - u3-11-aggregate-demand
+  - u3-12-consumption
+  - u3-14-sras
+terms:
+  - 投资与加速、信心和利率
+  - Investment, confidence and interest rates
+  - 预期回报
+  - expected returns
+  - 融资成本
+  - financing costs
+  - 产能
+  - capacity
+synonyms:
+  zh-CN:
+    - 预期回报
+    - 融资成本
+    - 产能
+  en:
+    - expected returns
+    - financing costs
+    - capacity
+diagramIds:
+  - macro-ad-expansion
+quizIds:
+  - u3-13-investment-flash-1
+  - u3-13-investment-mcq-1
+  - u3-13-investment-short-1

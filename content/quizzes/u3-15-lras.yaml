@@ -1,0 +1,104 @@
+- id: u3-15-lras-flash-1
+  knowledgePointId: u3-15-lras
+  type: flashcard
+  prompt:
+    zh-CN: 解释“长期总供给与潜在产出”，并说明一个关键条件。
+    en: Explain Long-run aggregate supply and potential output and state one
+      important condition.
+  answer:
+    zh-CN: 新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。
+    en: In the neoclassical model LRAS is vertical at potential output Yf. Long-run
+      real output depends on resources, technology and institutions rather than
+      continually raising the price level.
+  explanation:
+    zh-CN: 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。
+    en: Potential output does not imply zero unemployment; frictional and structural
+      unemployment may remain.
+- id: u3-15-lras-mcq-1
+  knowledgePointId: u3-15-lras
+  type: mcq
+  prompt:
+    zh-CN: 新古典长期中，单纯增加 AD 能永久提高实际产出吗？
+    en: In the neoclassical long run, can higher AD alone permanently raise real
+      output?
+  options:
+    - id: a
+      zh-CN: 可以无限提高
+      en: Yes, without limit
+    - id: b
+      zh-CN: 只要价格翻倍即可
+      en: Yes, by doubling prices
+    - id: c
+      zh-CN: 不能，需增加生产能力
+      en: No; productive capacity must increase
+    - id: d
+      zh-CN: 必然使产能下降
+      en: It necessarily lowers capacity
+  correctOptionId: c
+  explanation:
+    zh-CN: 不能，需增加生产能力。 原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf
+      而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。
+    en: "No; productive capacity must increase. Illustrative example: higher AD may
+      briefly push output above Yf. Rising wages then shift SRAS left, restoring
+      Yf at a higher price level. This conclusion depends on wage-price
+      adjustment and competitive assumptions, not an unconditional instant
+      process. Potential output does not imply zero unemployment; frictional and
+      structural unemployment may remain."
+- id: u3-15-lras-short-1
+  knowledgePointId: u3-15-lras
+  type: short-answer
+  prompt:
+    zh-CN: 解释长期总供给与潜在产出的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Long-run aggregate supply and potential output and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 新古典模型中 LRAS 在潜在产出 Yf 处垂直；长期实际产出由资源、技术和制度决定，而非持续提高价格水平。
+      长期工资与投入价格调整；短期实际激励逐步消失；产出回到由生产能力决定的潜在水平 原创例：AD 增加可短期推动产出超过
+      Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf 而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。
+    en: "In the neoclassical model LRAS is vertical at potential output Yf. Long-run
+      real output depends on resources, technology and institutions rather than
+      continually raising the price level. Wages and input prices adjust over
+      time; short-run real incentives fade; output returns to the level
+      determined by productive capacity Illustrative example: higher AD may
+      briefly push output above Yf. Rising wages then shift SRAS left, restoring
+      Yf at a higher price level. This conclusion depends on wage-price
+      adjustment and competitive assumptions, not an unconditional instant
+      process."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 长期
+        en: long run
+      alternatives:
+        zh-CN:
+          - 长期
+          - 长期工资与投入价格调整
+        en:
+          - long run
+          - Wages and input prices adjust over time
+    - id: mechanism-2
+      label:
+        zh-CN: 潜在产出
+        en: potential output
+      alternatives:
+        zh-CN:
+          - 潜在产出
+          - 短期实际激励逐步消失
+        en:
+          - potential output
+          - short-run real incentives fade
+    - id: mechanism-3
+      label:
+        zh-CN: 工资调整
+        en: wage adjustment
+      alternatives:
+        zh-CN:
+          - 工资调整
+          - 产出回到由生产能力决定的潜在水平
+        en:
+          - wage adjustment
+          - output returns to the level determined by productive capacity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

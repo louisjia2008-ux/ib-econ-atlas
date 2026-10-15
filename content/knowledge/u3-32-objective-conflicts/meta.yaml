@@ -1,0 +1,40 @@
+id: u3-32-objective-conflicts
+slug: objective-conflicts
+section: "3.3"
+level: core
+syllabusRefs:
+  - 3.3 Macroeconomic objectives
+textbookRefs:
+  - chapter: "11"
+    section: "11.3"
+    pages:
+      - 350
+prerequisites:
+  - u3-17-macro-equilibrium
+related:
+  - u3-21-unemployment-rate
+  - u3-22-unemployment-types
+  - u3-23-unemployment-costs
+terms:
+  - 宏观目标的冲突与协同
+  - Conflicts and complementarities among objectives
+  - 目标
+  - objectives
+  - 短期
+  - short run
+  - 生产率
+  - productivity
+synonyms:
+  zh-CN:
+    - 目标
+    - 短期
+    - 生产率
+  en:
+    - objectives
+    - short run
+    - productivity
+diagramIds: []
+quizIds:
+  - u3-32-objective-conflicts-flash-1
+  - u3-32-objective-conflicts-mcq-1
+  - u3-32-objective-conflicts-short-1

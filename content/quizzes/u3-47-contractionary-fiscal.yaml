@@ -1,0 +1,103 @@
+- id: u3-47-contractionary-fiscal-flash-1
+  knowledgePointId: u3-47-contractionary-fiscal
+  type: flashcard
+  prompt:
+    zh-CN: 解释“紧缩性财政政策”，并说明一个关键条件。
+    en: Explain Contractionary fiscal policy and state one important condition.
+  answer:
+    zh-CN: 削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。
+    en: Spending cuts or tax rises can lower aggregate demand to cool overheating or
+      improve fiscal balances. Output, distribution and long-run supply effects
+      depend on the policy mix.
+  explanation:
+    zh-CN: 财政改善的直接核算效果与最终宏观效果应区分。
+    en: Distinguish direct accounting effects from final macroeconomic effects.
+- id: u3-47-contractionary-fiscal-mcq-1
+  knowledgePointId: u3-47-contractionary-fiscal
+  type: mcq
+  prompt:
+    zh-CN: 紧缩政策的合理风险提示？
+    en: A reasonable risk of fiscal tightening?
+  options:
+    - id: a
+      zh-CN: 产出必然上升
+      en: Output necessarily rises
+    - id: b
+      zh-CN: 分配不可能改变
+      en: Distribution cannot change
+    - id: c
+      zh-CN: 需求和税基可能同时下降
+      en: Demand and the tax base may both fall
+    - id: d
+      zh-CN: 所有削支都提高潜在产出
+      en: Every spending cut raises potential output
+  correctOptionId: c
+  explanation:
+    zh-CN: 需求和税基可能同时下降。
+      原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。
+      财政改善的直接核算效果与最终宏观效果应区分。
+    en: "Demand and the tax base may both fall. Illustrative example: higher income
+      tax during overheating may restrain consumption, but cutting effective
+      training may also damage long-run capacity. In recession, tightening may
+      shrink the tax base, so a unit spending cut need not reduce the deficit by
+      a full unit. Distinguish direct accounting effects from final
+      macroeconomic effects."
+- id: u3-47-contractionary-fiscal-short-1
+  knowledgePointId: u3-47-contractionary-fiscal
+  type: short-answer
+  prompt:
+    zh-CN: 解释紧缩性财政政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Contractionary fiscal policy and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 削减支出或增税可降低总需求以缓和过热或改善财政状况；对产出、分配与长期供给的影响取决于措施构成。
+      削减购买或提高税收；直接需求或可支配收入降低；总需求相对左移使通胀压力减弱
+      原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。
+    en: "Spending cuts or tax rises can lower aggregate demand to cool overheating
+      or improve fiscal balances. Output, distribution and long-run supply
+      effects depend on the policy mix. Cut purchases or raise taxes; direct
+      demand or disposable income falls; aggregate demand shifts relatively left
+      and inflation pressure weakens Illustrative example: higher income tax
+      during overheating may restrain consumption, but cutting effective
+      training may also damage long-run capacity. In recession, tightening may
+      shrink the tax base, so a unit spending cut need not reduce the deficit by
+      a full unit."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 提高税收
+        en: raise taxes
+      alternatives:
+        zh-CN:
+          - 提高税收
+          - 削减购买或提高税收
+        en:
+          - raise taxes
+          - Cut purchases or raise taxes
+    - id: mechanism-2
+      label:
+        zh-CN: 可支配收入
+        en: disposable income
+      alternatives:
+        zh-CN:
+          - 可支配收入
+          - 直接需求或可支配收入降低
+        en:
+          - disposable income
+          - direct demand or disposable income falls
+    - id: mechanism-3
+      label:
+        zh-CN: 通胀压力
+        en: inflation pressure
+      alternatives:
+        zh-CN:
+          - 通胀压力
+          - 总需求相对左移使通胀压力减弱
+        en:
+          - inflation pressure
+          - aggregate demand shifts relatively left and inflation pressure
+            weakens
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

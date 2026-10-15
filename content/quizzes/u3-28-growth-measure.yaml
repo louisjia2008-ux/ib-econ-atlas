@@ -1,0 +1,99 @@
+- id: u3-28-growth-measure-flash-1
+  knowledgePointId: u3-28-growth-measure
+  type: flashcard
+  prompt:
+    zh-CN: 解释“实际经济增长的衡量”，并说明一个关键条件。
+    en: Explain Measuring real economic growth and state one important condition.
+  answer:
+    zh-CN: 实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。
+    en: Real growth is the percentage increase in real GDP. Per-capita growth also
+      accounts for population; long-run potential growth differs from short-run
+      recovery.
+  explanation:
+    zh-CN: 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。
+    en: Using nominal GDP growth without adjusting prices confuses volume with
+      prices.
+- id: u3-28-growth-measure-mcq-1
+  knowledgePointId: u3-28-growth-measure
+  type: mcq
+  prompt:
+    zh-CN: 实际 GDP 从 500 到 525，增长率多少？
+    en: Real GDP rises from 500 to 525. What is growth?
+  options:
+    - id: a
+      zh-CN: 25%
+      en: 25%
+    - id: b
+      zh-CN: 105%
+      en: 105%
+    - id: c
+      zh-CN: 0.05%
+      en: 0.05%
+    - id: d
+      zh-CN: 5%
+      en: 5%
+  correctOptionId: d
+  explanation:
+    zh-CN: 5%。 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP
+      不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。
+    en: "5%. Illustrative example: real GDP rises from 800 to 840, giving growth of
+      5%. With population also growing 5%, real GDP per person is unchanged.
+      Re-employing idle resources can close a gap rather than shift the
+      production frontier. Using nominal GDP growth without adjusting prices
+      confuses volume with prices."
+- id: u3-28-growth-measure-short-1
+  knowledgePointId: u3-28-growth-measure
+  type: short-answer
+  prompt:
+    zh-CN: 解释实际经济增长的衡量的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Measuring real economic growth and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 实际经济增长率是实际 GDP 的百分比增幅；人均实际增长还需考虑人口，长期潜在增长与短期复苏并不相同。
+      剔除价格变化；比较相邻期间实际产出；结合人口与潜在产能判断增长性质 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长
+      5%，人均实际 GDP 不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。
+    en: "Real growth is the percentage increase in real GDP. Per-capita growth also
+      accounts for population; long-run potential growth differs from short-run
+      recovery. Remove price changes; compare real output across periods; use
+      population and capacity to interpret the nature of growth Illustrative
+      example: real GDP rises from 800 to 840, giving growth of 5%. With
+      population also growing 5%, real GDP per person is unchanged. Re-employing
+      idle resources can close a gap rather than shift the production frontier."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 实际 GDP
+        en: real GDP
+      alternatives:
+        zh-CN:
+          - 实际 GDP
+          - 剔除价格变化
+        en:
+          - real GDP
+          - Remove price changes
+    - id: mechanism-2
+      label:
+        zh-CN: 百分比
+        en: percentage
+      alternatives:
+        zh-CN:
+          - 百分比
+          - 比较相邻期间实际产出
+        en:
+          - percentage
+          - compare real output across periods
+    - id: mechanism-3
+      label:
+        zh-CN: 人口
+        en: population
+      alternatives:
+        zh-CN:
+          - 人口
+          - 结合人口与潜在产能判断增长性质
+        en:
+          - population
+          - use population and capacity to interpret the nature of growth
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

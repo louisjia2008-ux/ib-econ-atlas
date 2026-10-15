@@ -1,0 +1,103 @@
+- id: u3-29-growth-evaluation-flash-1
+  knowledgePointId: u3-29-growth-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“增长的来源、收益与代价”，并说明一个关键条件。
+    en: Explain Sources, benefits and costs of growth and state one important
+      condition.
+  answer:
+    zh-CN: 资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。
+    en: Physical and human capital, technology and institutions support long-run
+      growth. Growth can raise incomes and fiscal capacity while generating
+      unequal gains and environmental costs.
+  explanation:
+    zh-CN: 增长与发展及可持续性并非完全相同的概念。
+    en: Growth, development and sustainability are not identical concepts.
+- id: u3-29-growth-evaluation-mcq-1
+  knowledgePointId: u3-29-growth-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 评价增长是否改善福利时，哪项最有用？
+    en: Which is most useful in judging whether growth improves welfare?
+  options:
+    - id: a
+      zh-CN: 结合人均收益、分配与环境成本
+      en: Consider per-capita gains, distribution and environmental costs
+    - id: b
+      zh-CN: 只看名义产值
+      en: Only nominal output
+    - id: c
+      zh-CN: 假设所有人等量受益
+      en: Assume identical gains for everyone
+    - id: d
+      zh-CN: 忽略机会成本
+      en: Ignore opportunity cost
+  correctOptionId: a
+  explanation:
+    zh-CN: 结合人均收益、分配与环境成本。
+      原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。
+      增长与发展及可持续性并非完全相同的概念。
+    en: "Consider per-capita gains, distribution and environmental costs.
+      Illustrative example: automation raises output but removes some jobs.
+      Retraining, transferable skills and mobility affect how widely gains are
+      shared. Cleaner technology lowers emissions per unit, but output expansion
+      may offset part of the environmental improvement. Growth, development and
+      sustainability are not identical concepts."
+- id: u3-29-growth-evaluation-short-1
+  knowledgePointId: u3-29-growth-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释增长的来源、收益与代价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Sources, benefits and costs of growth and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 资本、人力资本、技术和制度改善可支持长期增长；增长可增加收入和财政空间，也可能带来分配不均与环境代价。
+      投资与创新提高生产能力；实际收入和税基扩大；结果取决于收益分配与资源环境约束
+      原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。
+    en: "Physical and human capital, technology and institutions support long-run
+      growth. Growth can raise incomes and fiscal capacity while generating
+      unequal gains and environmental costs. Investment and innovation raise
+      capacity; real incomes and the tax base expand; outcomes depend on
+      distribution and environmental constraints Illustrative example:
+      automation raises output but removes some jobs. Retraining, transferable
+      skills and mobility affect how widely gains are shared. Cleaner technology
+      lowers emissions per unit, but output expansion may offset part of the
+      environmental improvement."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 生产能力
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 生产能力
+          - 投资与创新提高生产能力
+        en:
+          - capacity
+          - Investment and innovation raise capacity
+    - id: mechanism-2
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 实际收入和税基扩大
+        en:
+          - distribution
+          - real incomes and the tax base expand
+    - id: mechanism-3
+      label:
+        zh-CN: 环境成本
+        en: environmental costs
+      alternatives:
+        zh-CN:
+          - 环境成本
+          - 结果取决于收益分配与资源环境约束
+        en:
+          - environmental costs
+          - outcomes depend on distribution and environmental constraints
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

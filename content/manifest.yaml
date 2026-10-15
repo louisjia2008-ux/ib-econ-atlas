@@ -846,6 +846,454 @@ entries:
       en: Redistribution and policy trade-offs
     pages:
       - 191
+  - id: u3-01-circular-flow
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 收入循环与五部门经济
+      en: Circular flow and the five-sector economy
+    pages:
+      - 248
+  - id: u3-02-gdp
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 国内生产总值与增加值
+      en: GDP and value added
+    pages:
+      - 250
+  - id: u3-03-expenditure
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 支出法 GDP
+      en: GDP by expenditure
+    pages:
+      - 256
+  - id: u3-04-nominal-real
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 名义与实际 GDP
+      en: Nominal and real GDP
+    pages:
+      - 250
+  - id: u3-05-deflator
+    section: "3.1"
+    level: hl
+    title:
+      zh-CN: GDP 平减指数与核算计算
+      en: GDP deflator and national-account calculations
+    pages:
+      - 256
+  - id: u3-06-gni
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: GNI、折旧与净收入
+      en: GNI, depreciation and net income
+    pages:
+      - 250
+  - id: u3-07-per-capita-ppp
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 人均实际收入与 PPP
+      en: Real income per capita and PPP
+    pages:
+      - 264
+  - id: u3-08-business-cycle
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 经济周期与趋势
+      en: Business cycles and trend output
+    pages:
+      - 260
+  - id: u3-09-gdp-limitations
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: GDP 与生活水平的局限
+      en: GDP and limits as a living-standard measure
+    pages:
+      - 264
+  - id: u3-10-wellbeing-indicators
+    section: "3.1"
+    level: core
+    title:
+      zh-CN: 替代福利指标
+      en: Alternative wellbeing indicators
+    pages:
+      - 264
+  - id: u3-11-aggregate-demand
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 总需求与 AD 曲线
+      en: Aggregate demand and the AD curve
+    pages:
+      - 272
+  - id: u3-12-consumption
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 消费与总需求移动
+      en: Consumption and shifts in aggregate demand
+    pages:
+      - 272
+  - id: u3-13-investment
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 投资与加速、信心和利率
+      en: Investment, confidence and interest rates
+    pages:
+      - 272
+  - id: u3-14-sras
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 短期总供给 SRAS
+      en: Short-run aggregate supply
+    pages:
+      - 276
+  - id: u3-15-lras
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 长期总供给与潜在产出
+      en: Long-run aggregate supply and potential output
+    pages:
+      - 281
+  - id: u3-16-keynesian-as
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 凯恩斯总供给模型
+      en: The Keynesian aggregate supply model
+    pages:
+      - 286
+  - id: u3-17-macro-equilibrium
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 宏观均衡与比较静态
+      en: Macroeconomic equilibrium and comparative statics
+    pages:
+      - 276
+  - id: u3-18-output-gaps
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 衰退缺口与通胀缺口
+      en: Recessionary and inflationary gaps
+    pages:
+      - 292
+  - id: u3-19-macro-shocks
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 需求冲击、供给冲击与滞胀
+      en: Demand shocks, supply shocks and stagflation
+    pages:
+      - 276
+  - id: u3-20-potential-growth
+    section: "3.2"
+    level: core
+    title:
+      zh-CN: 潜在增长与总供给右移
+      en: Potential growth and rightward aggregate supply shifts
+    pages:
+      - 290
+  - id: u3-21-unemployment-rate
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 失业率与劳动参与率
+      en: Unemployment and participation rates
+    pages:
+      - 298
+  - id: u3-22-unemployment-types
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 失业类型与自然失业
+      en: Types of unemployment and natural unemployment
+    pages:
+      - 298
+  - id: u3-23-unemployment-costs
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 失业的经济与社会成本
+      en: Economic and social costs of unemployment
+    pages:
+      - 298
+  - id: u3-24-cpi
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: CPI 与通胀率计算
+      en: CPI and inflation calculations
+    pages:
+      - 308
+  - id: u3-25-demand-pull
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 需求拉动型通胀
+      en: Demand-pull inflation
+    pages:
+      - 308
+  - id: u3-26-cost-push
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 成本推动型通胀
+      en: Cost-push inflation
+    pages:
+      - 313
+  - id: u3-27-disinflation-deflation
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 通胀放缓、通缩与实际债务
+      en: Disinflation, deflation and real debt
+    pages:
+      - 316
+  - id: u3-28-growth-measure
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 实际经济增长的衡量
+      en: Measuring real economic growth
+    pages:
+      - 332
+  - id: u3-29-growth-evaluation
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 增长的来源、收益与代价
+      en: Sources, benefits and costs of growth
+    pages:
+      - 338
+  - id: u3-30-public-debt
+    section: "3.3"
+    level: hl
+    title:
+      zh-CN: 政府债务与可持续性
+      en: Government debt and sustainability
+    pages:
+      - 346
+  - id: u3-31-phillips-curve
+    section: "3.3"
+    level: hl
+    title:
+      zh-CN: 短期与长期菲利普斯曲线
+      en: Short-run and long-run Phillips curves
+    pages:
+      - 322
+  - id: u3-32-objective-conflicts
+    section: "3.3"
+    level: core
+    title:
+      zh-CN: 宏观目标的冲突与协同
+      en: Conflicts and complementarities among objectives
+    pages:
+      - 350
+  - id: u3-33-poverty
+    section: "3.4"
+    level: core
+    title:
+      zh-CN: 绝对贫困与相对贫困
+      en: Absolute and relative poverty
+    pages:
+      - 359
+  - id: u3-34-inequality-causes
+    section: "3.4"
+    level: core
+    title:
+      zh-CN: 不平等与贫困的成因
+      en: Causes of inequality and poverty
+    pages:
+      - 365
+  - id: u3-35-lorenz-gini
+    section: "3.4"
+    level: hl
+    title:
+      zh-CN: 洛伦兹曲线与基尼计算
+      en: Lorenz curves and Gini calculations
+    pages:
+      - 353
+  - id: u3-36-poverty-effects
+    section: "3.4"
+    level: core
+    title:
+      zh-CN: 不平等与贫困的影响
+      en: Effects of inequality and poverty
+    pages:
+      - 369
+  - id: u3-37-progressive-tax
+    section: "3.4"
+    level: core
+    title:
+      zh-CN: 累进税、转移支付与可支配收入
+      en: Progressive taxes, transfers and disposable income
+    pages:
+      - 371
+  - id: u3-38-poverty-policies
+    section: "3.4"
+    level: core
+    title:
+      zh-CN: 减贫与再分配政策评价
+      en: Evaluating poverty and redistribution policies
+    pages:
+      - 371
+  - id: u3-39-money-interest
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 中央银行与利率
+      en: Central banks and interest rates
+    pages:
+      - 387
+  - id: u3-40-monetary-transmission
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 货币政策传导
+      en: Monetary transmission
+    pages:
+      - 387
+  - id: u3-41-expansionary-monetary
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 扩张性货币政策
+      en: Expansionary monetary policy
+    pages:
+      - 387
+  - id: u3-42-contractionary-monetary
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 紧缩性货币政策
+      en: Contractionary monetary policy
+    pages:
+      - 387
+  - id: u3-43-unconventional-policy
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 非常规货币政策
+      en: Unconventional monetary policy
+    pages:
+      - 387
+  - id: u3-44-monetary-limits
+    section: "3.5"
+    level: core
+    title:
+      zh-CN: 货币政策的有效性与约束
+      en: Effectiveness and limits of monetary policy
+    pages:
+      - 387
+  - id: u3-45-fiscal-budget
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 财政预算与政策立场
+      en: Fiscal budgets and policy stance
+    pages:
+      - 398
+  - id: u3-46-expansionary-fiscal
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 扩张性财政政策
+      en: Expansionary fiscal policy
+    pages:
+      - 398
+  - id: u3-47-contractionary-fiscal
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 紧缩性财政政策
+      en: Contractionary fiscal policy
+    pages:
+      - 398
+  - id: u3-48-automatic-stabilisers
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 自动稳定器
+      en: Automatic stabilisers
+    pages:
+      - 398
+  - id: u3-49-multiplier
+    section: "3.6"
+    level: hl
+    title:
+      zh-CN: 凯恩斯乘数
+      en: The Keynesian multiplier
+    pages:
+      - 407
+  - id: u3-50-crowding-out
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 挤出效应
+      en: Crowding out
+    pages:
+      - 398
+  - id: u3-51-fiscal-evaluation
+    section: "3.6"
+    level: core
+    title:
+      zh-CN: 财政政策评价
+      en: Evaluating fiscal policy
+    pages:
+      - 398
+  - id: u3-52-market-based-supply
+    section: "3.7"
+    level: core
+    title:
+      zh-CN: 市场导向供给侧政策
+      en: Market-based supply-side policies
+    pages:
+      - 412
+  - id: u3-53-interventionist-supply
+    section: "3.7"
+    level: core
+    title:
+      zh-CN: 干预型供给侧政策
+      en: Interventionist supply-side policies
+    pages:
+      - 412
+  - id: u3-54-labour-market
+    section: "3.7"
+    level: core
+    title:
+      zh-CN: 劳动力市场政策
+      en: Labour-market policies
+    pages:
+      - 412
+  - id: u3-55-infrastructure-innovation
+    section: "3.7"
+    level: core
+    title:
+      zh-CN: 基础设施与创新
+      en: Infrastructure and innovation
+    pages:
+      - 412
+  - id: u3-56-policy-mix
+    section: "3.7"
+    level: core
+    title:
+      zh-CN: 宏观政策组合与评价
+      en: Macroeconomic policy mixes
+    pages:
+      - 424
 releaseCounts:
   "1.1": 15
   "1.2": 8
@@ -864,3 +1312,10 @@ releaseCounts:
   "2.10": 3
   "2.11": 11
   "2.12": 3
+  "3.1": 10
+  "3.2": 10
+  "3.3": 12
+  "3.4": 6
+  "3.5": 6
+  "3.6": 7
+  "3.7": 5

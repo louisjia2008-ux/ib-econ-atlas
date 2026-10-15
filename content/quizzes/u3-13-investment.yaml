@@ -1,0 +1,104 @@
+- id: u3-13-investment-flash-1
+  knowledgePointId: u3-13-investment
+  type: flashcard
+  prompt:
+    zh-CN: 解释“投资与加速、信心和利率”，并说明一个关键条件。
+    en: Explain Investment, confidence and interest rates and state one important
+      condition.
+  answer:
+    zh-CN: 宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。
+    en: Macroeconomic investment means new capital and inventories, not security
+      purchases. Expected returns, borrowing costs, confidence, technology,
+      business taxes and spare capacity influence it.
+  explanation:
+    zh-CN: 投资的短期需求效应与长期供给效应应分别解释。
+    en: Explain investment's short-run demand and long-run supply effects
+      separately.
+- id: u3-13-investment-mcq-1
+  knowledgePointId: u3-13-investment
+  type: mcq
+  prompt:
+    zh-CN: 新建厂房对经济最合理的两阶段影响是什么？
+    en: What is the most reasonable two-stage effect of building a new factory?
+  options:
+    - id: a
+      zh-CN: 先增加 AD，之后可能增加潜在产出
+      en: Raises AD first, then may raise potential output
+    - id: b
+      zh-CN: 只改变股票价格
+      en: Only changes share prices
+    - id: c
+      zh-CN: 立刻消除全部失业
+      en: Immediately eliminates all unemployment
+    - id: d
+      zh-CN: 总是减少资本存量
+      en: Always reduces the capital stock
+  correctOptionId: a
+  explanation:
+    zh-CN: 先增加 AD，之后可能增加潜在产出。 原创例：项目预期回报 6%，借贷成本从 7% 降至
+      4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。
+      投资的短期需求效应与长期供给效应应分别解释。
+    en: "Raises AD first, then may raise potential output. Illustrative example: a
+      project expected to return 6% becomes more attractive when borrowing cost
+      falls from 7% to 4%. Weak sales or substantial idle capacity can still
+      prevent investment. Building a plant first adds demand; operating it later
+      raises capacity. Explain investment's short-run demand and long-run supply
+      effects separately."
+- id: u3-13-investment-short-1
+  knowledgePointId: u3-13-investment
+  type: short-answer
+  prompt:
+    zh-CN: 解释投资与加速、信心和利率的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Investment, confidence and interest rates and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 宏观投资是新增资本与存货，不是购买证券；它受预期回报、借贷成本、信心、技术、企业税和闲置产能影响。
+      企业比较预期回报与融资成本；有利可图项目数量变化；投资既改变当前 AD 也可改变未来产能 原创例：项目预期回报 6%，借贷成本从 7% 降至
+      4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。
+    en: "Macroeconomic investment means new capital and inventories, not security
+      purchases. Expected returns, borrowing costs, confidence, technology,
+      business taxes and spare capacity influence it. Firms compare expected
+      returns with financing costs; the set of profitable projects changes;
+      investment affects current AD and potentially future capacity Illustrative
+      example: a project expected to return 6% becomes more attractive when
+      borrowing cost falls from 7% to 4%. Weak sales or substantial idle
+      capacity can still prevent investment. Building a plant first adds demand;
+      operating it later raises capacity."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 预期回报
+        en: expected returns
+      alternatives:
+        zh-CN:
+          - 预期回报
+          - 企业比较预期回报与融资成本
+        en:
+          - expected returns
+          - Firms compare expected returns with financing costs
+    - id: mechanism-2
+      label:
+        zh-CN: 融资成本
+        en: financing costs
+      alternatives:
+        zh-CN:
+          - 融资成本
+          - 有利可图项目数量变化
+        en:
+          - financing costs
+          - the set of profitable projects changes
+    - id: mechanism-3
+      label:
+        zh-CN: 产能
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 产能
+          - 投资既改变当前 AD 也可改变未来产能
+        en:
+          - capacity
+          - investment affects current AD and potentially future capacity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

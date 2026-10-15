@@ -1,0 +1,40 @@
+id: u3-39-money-interest
+slug: money-interest
+section: "3.5"
+level: core
+syllabusRefs:
+  - 3.5 Monetary policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.2"
+    pages:
+      - 387
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-40-monetary-transmission
+  - u3-41-expansionary-monetary
+  - u3-42-contractionary-monetary
+terms:
+  - 中央银行与利率
+  - Central banks and interest rates
+  - 政策利率
+  - policy rate
+  - 实际利率
+  - real rate
+  - 融资成本
+  - financing costs
+synonyms:
+  zh-CN:
+    - 政策利率
+    - 实际利率
+    - 融资成本
+  en:
+    - policy rate
+    - real rate
+    - financing costs
+diagramIds: []
+quizIds:
+  - u3-39-money-interest-flash-1
+  - u3-39-money-interest-mcq-1
+  - u3-39-money-interest-short-1

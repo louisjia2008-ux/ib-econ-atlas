@@ -1,0 +1,103 @@
+- id: u3-09-gdp-limitations-flash-1
+  knowledgePointId: u3-09-gdp-limitations
+  type: flashcard
+  prompt:
+    zh-CN: 解释“GDP 与生活水平的局限”，并说明一个关键条件。
+    en: Explain GDP and limits as a living-standard measure and state one important
+      condition.
+  answer:
+    zh-CN: GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。
+    en: GDP measures production rather than comprehensive welfare. Non-market work,
+      distribution, leisure, environmental damage and output composition affect
+      its relationship with living standards.
+  explanation:
+    zh-CN: GDP 有局限不意味着它对衡量经济活动没有用途。
+    en: GDP's limitations do not make it useless for measuring economic activity.
+- id: u3-09-gdp-limitations-mcq-1
+  knowledgePointId: u3-09-gdp-limitations
+  type: mcq
+  prompt:
+    zh-CN: 哪项最直接说明 GDP 不是完整福利指标？
+    en: Which most directly shows GDP is not comprehensive welfare?
+  options:
+    - id: a
+      zh-CN: 未充分反映环境损害与分配
+      en: It incompletely captures environmental harm and distribution
+    - id: b
+      zh-CN: GDP 不记录任何生产
+      en: GDP records no production
+    - id: c
+      zh-CN: GDP 必等于幸福
+      en: GDP must equal happiness
+    - id: d
+      zh-CN: 人口不影响人均值
+      en: Population never affects per-capita values
+  correctOptionId: a
+  explanation:
+    zh-CN: 未充分反映环境损害与分配。 原创例：污染后的清理支出可增加
+      GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。 GDP
+      有局限不意味着它对衡量经济活动没有用途。
+    en: "It incompletely captures environmental harm and distribution. Illustrative
+      example: pollution cleanup can add to GDP without making pollution
+      beneficial. Unpaid care becoming paid care can raise recorded output
+      without an equivalent increase in services. Cross-country comparisons also
+      depend on informal activity and statistical quality. GDP's limitations do
+      not make it useless for measuring economic activity."
+- id: u3-09-gdp-limitations-short-1
+  knowledgePointId: u3-09-gdp-limitations
+  type: short-answer
+  prompt:
+    zh-CN: 解释GDP 与生活水平的局限的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GDP and limits as a living-standard measure and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: GDP 衡量生产而不是完整福利；非市场劳动、分配、闲暇、环境损害及产出构成都影响它与生活水平的联系。
+      核算记录有市场价值的产出；部分社会收益和成本未被完整记录；总量或人均增长不保证福利普遍改善 原创例：污染后的清理支出可增加
+      GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。
+    en: "GDP measures production rather than comprehensive welfare. Non-market work,
+      distribution, leisure, environmental damage and output composition affect
+      its relationship with living standards. Accounts record market-valued
+      output; some social gains and costs are incompletely recorded; aggregate
+      or average growth does not guarantee broad welfare gains Illustrative
+      example: pollution cleanup can add to GDP without making pollution
+      beneficial. Unpaid care becoming paid care can raise recorded output
+      without an equivalent increase in services. Cross-country comparisons also
+      depend on informal activity and statistical quality."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 福利
+        en: welfare
+      alternatives:
+        zh-CN:
+          - 福利
+          - 核算记录有市场价值的产出
+        en:
+          - welfare
+          - Accounts record market-valued output
+    - id: mechanism-2
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 部分社会收益和成本未被完整记录
+        en:
+          - distribution
+          - some social gains and costs are incompletely recorded
+    - id: mechanism-3
+      label:
+        zh-CN: 环境
+        en: environment
+      alternatives:
+        zh-CN:
+          - 环境
+          - 总量或人均增长不保证福利普遍改善
+        en:
+          - environment
+          - aggregate or average growth does not guarantee broad welfare gains
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

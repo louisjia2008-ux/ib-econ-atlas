@@ -1,0 +1,40 @@
+id: u3-01-circular-flow
+slug: circular-flow
+section: "3.1"
+level: core
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.1"
+    pages:
+      - 248
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-02-gdp
+  - u3-03-expenditure
+  - u3-04-nominal-real
+terms:
+  - 收入循环与五部门经济
+  - Circular flow and the five-sector economy
+  - 漏出
+  - leakages
+  - 注入
+  - injections
+  - 收入
+  - income
+synonyms:
+  zh-CN:
+    - 漏出
+    - 注入
+    - 收入
+  en:
+    - leakages
+    - injections
+    - income
+diagramIds: []
+quizIds:
+  - u3-01-circular-flow-flash-1
+  - u3-01-circular-flow-mcq-1
+  - u3-01-circular-flow-short-1

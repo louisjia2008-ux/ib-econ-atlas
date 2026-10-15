@@ -1,0 +1,40 @@
+id: u3-43-unconventional-policy
+slug: unconventional-policy
+section: "3.5"
+level: core
+syllabusRefs:
+  - 3.5 Monetary policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.2"
+    pages:
+      - 387
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-39-money-interest
+  - u3-40-monetary-transmission
+  - u3-41-expansionary-monetary
+terms:
+  - 非常规货币政策
+  - Unconventional monetary policy
+  - 购买金融资产
+  - buys financial assets
+  - 融资条件
+  - financing conditions
+  - 信贷需求
+  - credit demand
+synonyms:
+  zh-CN:
+    - 购买金融资产
+    - 融资条件
+    - 信贷需求
+  en:
+    - buys financial assets
+    - financing conditions
+    - credit demand
+diagramIds: []
+quizIds:
+  - u3-43-unconventional-policy-flash-1
+  - u3-43-unconventional-policy-mcq-1
+  - u3-43-unconventional-policy-short-1

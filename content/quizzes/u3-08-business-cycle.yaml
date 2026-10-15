@@ -1,0 +1,100 @@
+- id: u3-08-business-cycle-flash-1
+  knowledgePointId: u3-08-business-cycle
+  type: flashcard
+  prompt:
+    zh-CN: 解释“经济周期与趋势”，并说明一个关键条件。
+    en: Explain Business cycles and trend output and state one important condition.
+  answer:
+    zh-CN: 经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。
+    en: "The business cycle describes fluctuations in real activity around a
+      longer-term trend: expansion, peak, contraction and trough. Neither
+      duration nor amplitude is fixed."
+  explanation:
+    zh-CN: 增长放缓仍可为正，不等于实际产出已经下降。
+    en: Slower growth can remain positive and is not necessarily falling real
+      output.
+- id: u3-08-business-cycle-mcq-1
+  knowledgePointId: u3-08-business-cycle
+  type: mcq
+  prompt:
+    zh-CN: 实际增长率由 5% 降到 2%，说明什么？
+    en: Real growth slows from 5% to 2%. What follows?
+  options:
+    - id: a
+      zh-CN: 产出下降 3%
+      en: Output falls 3%
+    - id: b
+      zh-CN: 必然发生通缩
+      en: Deflation necessarily occurs
+    - id: c
+      zh-CN: 经济活动为零
+      en: Activity is zero
+    - id: d
+      zh-CN: 产出仍增长，但增速放缓
+      en: Output still grows, but more slowly
+  correctOptionId: d
+  explanation:
+    zh-CN: 产出仍增长，但增速放缓。 原创例：实际产出从 100 到 104 后降到 102，再到 106，102
+      阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。 增长放缓仍可为正，不等于实际产出已经下降。
+    en: "Output still grows, but more slowly. Illustrative example: real output
+      moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction
+      despite output remaining above its initial level. Two negative quarters is
+      a common shorthand, not every agency's sole recession criterion. Slower
+      growth can remain positive and is not necessarily falling real output."
+- id: u3-08-business-cycle-short-1
+  knowledgePointId: u3-08-business-cycle
+  type: short-answer
+  prompt:
+    zh-CN: 解释经济周期与趋势的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Business cycles and trend output and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 经济周期是实际经济活动围绕长期趋势的波动，通常描述扩张、高峰、收缩与低谷；周期并非固定长度或振幅。
+      支出与供给冲击改变产出；实际活动偏离趋势；调整与政策可推动复苏或进一步收缩 原创例：实际产出从 100 到 104 后降到 102，再到
+      106，102 阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。
+    en: "The business cycle describes fluctuations in real activity around a
+      longer-term trend: expansion, peak, contraction and trough. Neither
+      duration nor amplitude is fixed. Spending and supply shocks change output;
+      actual activity deviates from trend; adjustment and policy may support
+      recovery or further contraction Illustrative example: real output moves
+      from 100 to 104, then 102 and 106. The fall to 102 is a contraction
+      despite output remaining above its initial level. Two negative quarters is
+      a common shorthand, not every agency's sole recession criterion."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 实际产出
+        en: real output
+      alternatives:
+        zh-CN:
+          - 实际产出
+          - 支出与供给冲击改变产出
+        en:
+          - real output
+          - Spending and supply shocks change output
+    - id: mechanism-2
+      label:
+        zh-CN: 趋势
+        en: trend
+      alternatives:
+        zh-CN:
+          - 趋势
+          - 实际活动偏离趋势
+        en:
+          - trend
+          - actual activity deviates from trend
+    - id: mechanism-3
+      label:
+        zh-CN: 波动
+        en: fluctuations
+      alternatives:
+        zh-CN:
+          - 波动
+          - 调整与政策可推动复苏或进一步收缩
+        en:
+          - fluctuations
+          - adjustment and policy may support recovery or further contraction
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

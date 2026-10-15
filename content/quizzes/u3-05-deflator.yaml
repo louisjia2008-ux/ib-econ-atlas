@@ -1,0 +1,104 @@
+- id: u3-05-deflator-flash-1
+  knowledgePointId: u3-05-deflator
+  type: flashcard
+  prompt:
+    zh-CN: 解释“GDP 平减指数与核算计算”，并说明一个关键条件。
+    en: Explain GDP deflator and national-account calculations and state one
+      important condition.
+  answer:
+    zh-CN: GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。
+    en: The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging
+      gives real GDP=nominal GDP/deflator×100. Output and income approaches
+      require consistent valuation conventions.
+  explanation:
+    zh-CN: 指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。
+    en: An index of 110 means prices are 10% above the base, not necessarily 10%
+      inflation in the latest year.
+- id: u3-05-deflator-mcq-1
+  knowledgePointId: u3-05-deflator
+  type: mcq
+  prompt:
+    zh-CN: 名义 GDP=900、平减指数=120，实际 GDP 多少？
+    en: Nominal GDP=900 and deflator=120. What is real GDP?
+  options:
+    - id: a
+      zh-CN: "750"
+      en: "750"
+    - id: b
+      zh-CN: "1080"
+      en: "1080"
+    - id: c
+      zh-CN: "780"
+      en: "780"
+    - id: d
+      zh-CN: "7.5"
+      en: "7.5"
+  correctOptionId: a
+  explanation:
+    zh-CN: 750。 原创例：名义 GDP=660，平减指数=110，实际
+      GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。 指数
+      110 表示相对基期价格高 10%，不是当年通胀必然为 10%。
+    en: "750. Illustrative example: nominal GDP is 660 and the deflator 110, giving
+      real GDP of 600. The output approach sums value added. The income approach
+      sums compensation and operating surplus, with taxes less subsidies on
+      production/imports needed for market-price consistency. Do not mix
+      valuation bases. An index of 110 means prices are 10% above the base, not
+      necessarily 10% inflation in the latest year."
+- id: u3-05-deflator-short-1
+  knowledgePointId: u3-05-deflator
+  type: short-answer
+  prompt:
+    zh-CN: 解释GDP 平减指数与核算计算的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GDP deflator and national-account calculations and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: GDP 平减指数=名义 GDP/实际 GDP×100；重排可得实际 GDP=名义 GDP/平减指数×100。产出法与收入法需使用一致估价口径。
+      将价格指数与基期 100 比较；名义值除以指数再乘 100；保持单位与估价口径一致 原创例：名义 GDP=660，平减指数=110，实际
+      GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。
+    en: "The GDP deflator is nominal GDP divided by real GDP times 100. Rearranging
+      gives real GDP=nominal GDP/deflator×100. Output and income approaches
+      require consistent valuation conventions. Compare the price index with
+      base-period 100; divide nominal value by the index and multiply by 100;
+      keep units and valuation consistent Illustrative example: nominal GDP is
+      660 and the deflator 110, giving real GDP of 600. The output approach sums
+      value added. The income approach sums compensation and operating surplus,
+      with taxes less subsidies on production/imports needed for market-price
+      consistency. Do not mix valuation bases."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 名义
+        en: nominal
+      alternatives:
+        zh-CN:
+          - 名义
+          - 将价格指数与基期 100 比较
+        en:
+          - nominal
+          - Compare the price index with base-period 100
+    - id: mechanism-2
+      label:
+        zh-CN: 实际
+        en: real
+      alternatives:
+        zh-CN:
+          - 实际
+          - 名义值除以指数再乘 100
+        en:
+          - real
+          - divide nominal value by the index and multiply by 100
+    - id: mechanism-3
+      label:
+        zh-CN: 指数
+        en: index
+      alternatives:
+        zh-CN:
+          - 指数
+          - 保持单位与估价口径一致
+        en:
+          - index
+          - keep units and valuation consistent
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

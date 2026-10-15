@@ -1,0 +1,102 @@
+- id: u3-52-market-based-supply-flash-1
+  knowledgePointId: u3-52-market-based-supply
+  type: flashcard
+  prompt:
+    zh-CN: 解释“市场导向供给侧政策”，并说明一个关键条件。
+    en: Explain Market-based supply-side policies and state one important condition.
+  answer:
+    zh-CN: 竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。
+    en: Competition, appropriate deregulation, tax incentives and privatisation seek
+      to improve allocation and production incentives. Results depend on
+      competitive conditions and institutional design.
+  explanation:
+    zh-CN: 放松管制不应被理解为移除一切安全和环境规则。
+    en: Deregulation need not mean removing all safety and environmental rules.
+- id: u3-52-market-based-supply-mcq-1
+  knowledgePointId: u3-52-market-based-supply
+  type: mcq
+  prompt:
+    zh-CN: 私有化改善效率的重要条件？
+    en: An important condition for privatisation to improve efficiency?
+  options:
+    - id: a
+      zh-CN: 必然形成不受监管垄断
+      en: Necessarily unregulated monopoly
+    - id: b
+      zh-CN: 所有公共服务同时取消
+      en: All public services abolished
+    - id: c
+      zh-CN: 所有市场失灵自动消失
+      en: All market failures automatically disappear
+    - id: d
+      zh-CN: 有效竞争或合适监管
+      en: Effective competition or appropriate regulation
+  correctOptionId: d
+  explanation:
+    zh-CN: 有效竞争或合适监管。
+      原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。
+      放松管制不应被理解为移除一切安全和环境规则。
+    en: "Effective competition or appropriate regulation. Illustrative example:
+      removing unnecessary entry barriers may strengthen competition, but
+      selling a public monopoly as a private monopoly does not guarantee
+      efficiency or affordability. Tax cuts that fail to induce investment may
+      lose revenue without delivering expected capacity. Deregulation need not
+      mean removing all safety and environmental rules."
+- id: u3-52-market-based-supply-short-1
+  knowledgePointId: u3-52-market-based-supply
+  type: short-answer
+  prompt:
+    zh-CN: 解释市场导向供给侧政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Market-based supply-side policies and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 竞争、适度放松管制、税收激励和私有化等政策试图改善资源配置与生产激励；成效取决于竞争环境和制度设计。
+      改变竞争或激励约束；企业改善效率投资与创新；生产能力可能提高使长期总供给右移
+      原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。
+    en: "Competition, appropriate deregulation, tax incentives and privatisation
+      seek to improve allocation and production incentives. Results depend on
+      competitive conditions and institutional design. Change competitive or
+      incentive constraints; firms improve efficiency, investment and
+      innovation; productive capacity may rise and LRAS shift right Illustrative
+      example: removing unnecessary entry barriers may strengthen competition,
+      but selling a public monopoly as a private monopoly does not guarantee
+      efficiency or affordability. Tax cuts that fail to induce investment may
+      lose revenue without delivering expected capacity."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 竞争
+        en: competitive
+      alternatives:
+        zh-CN:
+          - 竞争
+          - 改变竞争或激励约束
+        en:
+          - competitive
+          - Change competitive or incentive constraints
+    - id: mechanism-2
+      label:
+        zh-CN: 效率
+        en: efficiency
+      alternatives:
+        zh-CN:
+          - 效率
+          - 企业改善效率投资与创新
+        en:
+          - efficiency
+          - firms improve efficiency, investment and innovation
+    - id: mechanism-3
+      label:
+        zh-CN: 生产能力
+        en: productive capacity
+      alternatives:
+        zh-CN:
+          - 生产能力
+          - 生产能力可能提高使长期总供给右移
+        en:
+          - productive capacity
+          - productive capacity may rise and LRAS shift right
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

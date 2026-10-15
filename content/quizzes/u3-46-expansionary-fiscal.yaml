@@ -1,0 +1,102 @@
+- id: u3-46-expansionary-fiscal-flash-1
+  knowledgePointId: u3-46-expansionary-fiscal
+  type: flashcard
+  prompt:
+    zh-CN: 解释“扩张性财政政策”，并说明一个关键条件。
+    en: Explain Expansionary fiscal policy and state one important condition.
+  answer:
+    zh-CN: 增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。
+    en: Higher government purchases, tax cuts or transfers can support aggregate
+      demand. Purchases enter G directly; transfers affect demand indirectly
+      through recipients' spending.
+  explanation:
+    zh-CN: 转移支付不是国民收入核算中的政府最终购买。
+    en: Transfers are not government final purchases in national accounting.
+- id: u3-46-expansionary-fiscal-mcq-1
+  knowledgePointId: u3-46-expansionary-fiscal
+  type: mcq
+  prompt:
+    zh-CN: 哪项直接增加总需求中的 G？
+    en: Which directly increases G in aggregate demand?
+  options:
+    - id: a
+      zh-CN: 支付失业补助本身
+      en: An unemployment benefit payment itself
+    - id: b
+      zh-CN: 政府购买道路维修服务
+      en: Government purchases road repair services
+    - id: c
+      zh-CN: 个人买旧股票
+      en: A person buys existing shares
+    - id: d
+      zh-CN: 家庭增加储蓄
+      en: Households increase saving
+  correctOptionId: b
+  explanation:
+    zh-CN: 政府购买道路维修服务。
+      原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。
+      转移支付不是国民收入核算中的政府最终购买。
+    en: "Government purchases road repair services. Illustrative example: repairs to
+      public facilities directly raise purchases, whereas only the spent portion
+      of household support generates current demand. Output may respond more
+      with idle resources; imports, saving and implementation delays weaken
+      domestic effects. Transfers are not government final purchases in national
+      accounting."
+- id: u3-46-expansionary-fiscal-short-1
+  knowledgePointId: u3-46-expansionary-fiscal
+  type: short-answer
+  prompt:
+    zh-CN: 解释扩张性财政政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Expansionary fiscal policy and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 增加政府购买、减税或增加转移可支持总需求；政府购买直接计入 G，转移支付则通过受益者支出间接影响需求。
+      增加购买或提高可支配收入；初始支出带来收入及后续消费；总需求右移并可能缩小衰退缺口
+      原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。
+    en: "Higher government purchases, tax cuts or transfers can support aggregate
+      demand. Purchases enter G directly; transfers affect demand indirectly
+      through recipients' spending. Increase purchases or disposable income;
+      initial spending creates income and further consumption; aggregate demand
+      shifts right and may narrow a recessionary gap Illustrative example:
+      repairs to public facilities directly raise purchases, whereas only the
+      spent portion of household support generates current demand. Output may
+      respond more with idle resources; imports, saving and implementation
+      delays weaken domestic effects."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 可支配收入
+        en: disposable income
+      alternatives:
+        zh-CN:
+          - 可支配收入
+          - 增加购买或提高可支配收入
+        en:
+          - disposable income
+          - Increase purchases or disposable income
+    - id: mechanism-2
+      label:
+        zh-CN: 后续消费
+        en: further consumption
+      alternatives:
+        zh-CN:
+          - 后续消费
+          - 初始支出带来收入及后续消费
+        en:
+          - further consumption
+          - initial spending creates income and further consumption
+    - id: mechanism-3
+      label:
+        zh-CN: 总需求右移
+        en: aggregate demand shifts right
+      alternatives:
+        zh-CN:
+          - 总需求右移
+          - 总需求右移并可能缩小衰退缺口
+        en:
+          - aggregate demand shifts right
+          - aggregate demand shifts right and may narrow a recessionary gap
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

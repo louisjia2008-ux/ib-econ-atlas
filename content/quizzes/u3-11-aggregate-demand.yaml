@@ -1,0 +1,102 @@
+- id: u3-11-aggregate-demand-flash-1
+  knowledgePointId: u3-11-aggregate-demand
+  type: flashcard
+  prompt:
+    zh-CN: 解释“总需求与 AD 曲线”，并说明一个关键条件。
+    en: Explain Aggregate demand and the AD curve and state one important condition.
+  answer:
+    zh-CN: 总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。
+    en: Aggregate demand is planned total spending on domestic real output at each
+      general price level, comprising C+I+G+(X−M).
+  explanation:
+    zh-CN: AD 向下倾斜不能只用单一商品的替代效应解释。
+    en: AD's downward slope cannot be explained solely by substitution between
+      individual goods.
+- id: u3-11-aggregate-demand-mcq-1
+  knowledgePointId: u3-11-aggregate-demand
+  type: mcq
+  prompt:
+    zh-CN: AD–AS 图横轴应该是什么？
+    en: What belongs on the horizontal axis of AD–AS?
+  options:
+    - id: a
+      zh-CN: 通胀率
+      en: Inflation rate
+    - id: b
+      zh-CN: 单个企业产量
+      en: One firm's output
+    - id: c
+      zh-CN: 实际 GDP
+      en: Real GDP
+    - id: d
+      zh-CN: 名义利率
+      en: Nominal interest rate
+  correctOptionId: c
+  explanation:
+    zh-CN: 实际 GDP。 原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际
+      GDP，纵轴是总体价格水平，不是某一种产品价格和数量。 AD 向下倾斜不能只用单一商品的替代效应解释。
+    en: "Real GDP. Illustrative example: a lower price level can raise the real
+      value of money balances and improve export price competitiveness,
+      increasing quantity of aggregate demand. The axes are real GDP and the
+      general price level, not one product's price and quantity. AD's downward
+      slope cannot be explained solely by substitution between individual
+      goods."
+- id: u3-11-aggregate-demand-short-1
+  knowledgePointId: u3-11-aggregate-demand
+  type: short-answer
+  prompt:
+    zh-CN: 解释总需求与 AD 曲线的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Aggregate demand and the AD curve and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 总需求 AD 是给定总体价格水平下对境内实际产出的计划总支出，组成是 C+I+G+(X−M)。
+      总体价格水平变化影响实际财富、利率和净出口；计划总支出改变；沿 AD 曲线移动
+      原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际
+      GDP，纵轴是总体价格水平，不是某一种产品价格和数量。
+    en: "Aggregate demand is planned total spending on domestic real output at each
+      general price level, comprising C+I+G+(X−M). The general price level
+      affects real wealth, interest rates and net exports; planned spending
+      changes; the economy moves along AD Illustrative example: a lower price
+      level can raise the real value of money balances and improve export price
+      competitiveness, increasing quantity of aggregate demand. The axes are
+      real GDP and the general price level, not one product's price and
+      quantity."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 计划支出
+        en: planned spending
+      alternatives:
+        zh-CN:
+          - 计划支出
+          - 总体价格水平变化影响实际财富、利率和净出口
+        en:
+          - planned spending
+          - The general price level affects real wealth, interest rates and net
+            exports
+    - id: mechanism-2
+      label:
+        zh-CN: 价格水平
+        en: price level
+      alternatives:
+        zh-CN:
+          - 价格水平
+          - 计划总支出改变
+        en:
+          - price level
+          - planned spending changes
+    - id: mechanism-3
+      label:
+        zh-CN: 实际 GDP
+        en: real GDP
+      alternatives:
+        zh-CN:
+          - 实际 GDP
+          - 沿 AD 曲线移动
+        en:
+          - real GDP
+          - the economy moves along AD
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

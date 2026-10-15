@@ -1,0 +1,102 @@
+- id: u3-20-potential-growth-flash-1
+  knowledgePointId: u3-20-potential-growth
+  type: flashcard
+  prompt:
+    zh-CN: 解释“潜在增长与总供给右移”，并说明一个关键条件。
+    en: Explain Potential growth and rightward aggregate supply shifts and state one
+      important condition.
+  answer:
+    zh-CN: 资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。
+    en: More or better resources, technology and institutions can increase potential
+      output, shifting LRAS right, and may reduce short-run unit costs, shifting
+      SRAS right too.
+  explanation:
+    zh-CN: 实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。
+    en: Actual growth may merely close a negative gap rather than shift LRAS right.
+- id: u3-20-potential-growth-mcq-1
+  knowledgePointId: u3-20-potential-growth
+  type: mcq
+  prompt:
+    zh-CN: 哪项最可能直接提高潜在产出？
+    en: Which most directly raises potential output?
+  options:
+    - id: a
+      zh-CN: 只有总体价格翻倍
+      en: Only doubling the price level
+    - id: b
+      zh-CN: 只增加名义支出且无资源变化
+      en: Only more nominal spending with unchanged resources
+    - id: c
+      zh-CN: 闲置机器被永久销毁
+      en: Permanently destroying idle machines
+    - id: d
+      zh-CN: 提高劳动力技能与技术
+      en: Improved labour skills and technology
+  correctOptionId: d
+  explanation:
+    zh-CN: 提高劳动力技能与技术。
+      原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。
+      实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。
+    en: "Improved labour skills and technology. Illustrative example: a more
+      reliable electricity grid reduces downtime, lowering unit costs and
+      expanding long-run capacity. More potential does not ensure immediate full
+      utilisation; weak demand may leave actual output below the new potential.
+      Actual growth may merely close a negative gap rather than shift LRAS
+      right."
+- id: u3-20-potential-growth-short-1
+  knowledgePointId: u3-20-potential-growth
+  type: short-answer
+  prompt:
+    zh-CN: 解释潜在增长与总供给右移的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Potential growth and rightward aggregate supply
+      shifts and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 资源数量、质量、技术或制度改善可提高潜在产出，使 LRAS 右移，并可能降低短期单位成本使 SRAS 右移。
+      生产要素或生产率改善；可持续生产能力增加；给定需求下增长伴随较低物价压力
+      原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。
+    en: "More or better resources, technology and institutions can increase
+      potential output, shifting LRAS right, and may reduce short-run unit
+      costs, shifting SRAS right too. Inputs or productivity improve;
+      sustainable capacity expands; growth can occur with less price pressure at
+      a given demand Illustrative example: a more reliable electricity grid
+      reduces downtime, lowering unit costs and expanding long-run capacity.
+      More potential does not ensure immediate full utilisation; weak demand may
+      leave actual output below the new potential."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 生产要素或生产率改善
+        en:
+          - productivity
+          - Inputs or productivity improve
+    - id: mechanism-2
+      label:
+        zh-CN: 产能
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 产能
+          - 可持续生产能力增加
+        en:
+          - capacity
+          - sustainable capacity expands
+    - id: mechanism-3
+      label:
+        zh-CN: LRAS
+        en: LRAS
+      alternatives:
+        zh-CN:
+          - LRAS
+          - 给定需求下增长伴随较低物价压力
+        en:
+          - LRAS
+          - growth can occur with less price pressure at a given demand
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

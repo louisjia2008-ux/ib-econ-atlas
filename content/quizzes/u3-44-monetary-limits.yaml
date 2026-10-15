@@ -1,0 +1,104 @@
+- id: u3-44-monetary-limits-flash-1
+  knowledgePointId: u3-44-monetary-limits
+  type: flashcard
+  prompt:
+    zh-CN: 解释“货币政策的有效性与约束”，并说明一个关键条件。
+    en: Explain Effectiveness and limits of monetary policy and state one important
+      condition.
+  answer:
+    zh-CN: 货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。
+    en: Monetary effectiveness depends on confidence, debt, bank transmission,
+      expectations, openness and the source of shocks. Independence and
+      credibility also influence outcomes.
+  explanation:
+    zh-CN: 同一利率对储户、借款者和不同地区影响不同。
+    en: The same interest rate affects savers, borrowers and regions differently.
+- id: u3-44-monetary-limits-mcq-1
+  knowledgePointId: u3-44-monetary-limits
+  type: mcq
+  prompt:
+    zh-CN: 评价货币政策时最合理的做法？
+    en: What is a sound approach to evaluating monetary policy?
+  options:
+    - id: a
+      zh-CN: 只看是否宣布降息
+      en: Only check whether a cut was announced
+    - id: b
+      zh-CN: 假定所有人反应相同
+      en: Assume identical responses
+    - id: c
+      zh-CN: 忽略银行信贷条件
+      en: Ignore bank credit conditions
+    - id: d
+      zh-CN: 结合冲击来源、传导与时滞
+      en: Consider shock origin, transmission and lags
+  correctOptionId: d
+  explanation:
+    zh-CN: 结合冲击来源、传导与时滞。
+      原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。
+      同一利率对储户、借款者和不同地区影响不同。
+    en: "Consider shock origin, transmission and lags. Illustrative example: in
+      recession, firms expecting weak sales may not revive investment after a
+      small cut near the effective lower bound. A credible inflation target can
+      anchor expectations, but independence does not remove accountability or
+      exposure to supply shocks. The same interest rate affects savers,
+      borrowers and regions differently."
+- id: u3-44-monetary-limits-short-1
+  knowledgePointId: u3-44-monetary-limits
+  type: short-answer
+  prompt:
+    zh-CN: 解释货币政策的有效性与约束的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Effectiveness and limits of monetary policy and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 货币政策效果取决于信心、债务、银行传导、预期、开放程度和冲击来源；独立性与可信度也影响政策结果。
+      识别需求或供给问题；检查金融渠道与时滞；比较通胀就业分配及金融稳定的权衡
+      原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。
+    en: "Monetary effectiveness depends on confidence, debt, bank transmission,
+      expectations, openness and the source of shocks. Independence and
+      credibility also influence outcomes. Identify demand or supply problems;
+      examine financial channels and lags; compare trade-offs involving
+      inflation, employment, distribution and financial stability Illustrative
+      example: in recession, firms expecting weak sales may not revive
+      investment after a small cut near the effective lower bound. A credible
+      inflation target can anchor expectations, but independence does not remove
+      accountability or exposure to supply shocks."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 供给问题
+        en: supply problems
+      alternatives:
+        zh-CN:
+          - 供给问题
+          - 识别需求或供给问题
+        en:
+          - supply problems
+          - Identify demand or supply problems
+    - id: mechanism-2
+      label:
+        zh-CN: 时滞
+        en: lags
+      alternatives:
+        zh-CN:
+          - 时滞
+          - 检查金融渠道与时滞
+        en:
+          - lags
+          - examine financial channels and lags
+    - id: mechanism-3
+      label:
+        zh-CN: 金融稳定
+        en: financial stability
+      alternatives:
+        zh-CN:
+          - 金融稳定
+          - 比较通胀就业分配及金融稳定的权衡
+        en:
+          - financial stability
+          - compare trade-offs involving inflation, employment, distribution and
+            financial stability
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

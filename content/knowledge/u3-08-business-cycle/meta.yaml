@@ -1,0 +1,41 @@
+id: u3-08-business-cycle
+slug: business-cycle
+section: "3.1"
+level: core
+syllabusRefs:
+  - 3.1 Measuring economic activity and its variations
+textbookRefs:
+  - chapter: "8"
+    section: "8.4"
+    pages:
+      - 260
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+  - u3-02-gdp
+  - u3-03-expenditure
+terms:
+  - 经济周期与趋势
+  - Business cycles and trend output
+  - 实际产出
+  - real output
+  - 趋势
+  - trend
+  - 波动
+  - fluctuations
+synonyms:
+  zh-CN:
+    - 实际产出
+    - 趋势
+    - 波动
+  en:
+    - real output
+    - trend
+    - fluctuations
+diagramIds:
+  - macro-cycle
+quizIds:
+  - u3-08-business-cycle-flash-1
+  - u3-08-business-cycle-mcq-1
+  - u3-08-business-cycle-short-1

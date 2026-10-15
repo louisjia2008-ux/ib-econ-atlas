@@ -1,0 +1,101 @@
+- id: u3-12-consumption-flash-1
+  knowledgePointId: u3-12-consumption
+  type: flashcard
+  prompt:
+    zh-CN: 解释“消费与总需求移动”，并说明一个关键条件。
+    en: Explain Consumption and shifts in aggregate demand and state one important
+      condition.
+  answer:
+    zh-CN: 消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。
+    en: Consumption depends on disposable income, wealth, confidence, interest
+      rates, household debt and expectations. Changes in these determinants can
+      shift AD at a given price level.
+  explanation:
+    zh-CN: 收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。
+    en: Consumption changes from higher income differ from movements along AD caused
+      by a price-level change.
+- id: u3-12-consumption-mcq-1
+  knowledgePointId: u3-12-consumption
+  type: mcq
+  prompt:
+    zh-CN: 信心下降导致家庭增加预防性储蓄，AD 通常怎样？
+    en: Lower confidence raises precautionary saving. What normally happens to AD?
+  options:
+    - id: a
+      zh-CN: 右移
+      en: Shifts right
+    - id: b
+      zh-CN: 只沿 AD 移动
+      en: Only a movement along AD
+    - id: c
+      zh-CN: LRAS 必然立刻右移
+      en: LRAS necessarily shifts right immediately
+    - id: d
+      zh-CN: 左移
+      en: Shifts left
+  correctOptionId: d
+  explanation:
+    zh-CN: 左移。 原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。
+      收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。
+    en: "Shifts left. Illustrative example: a tax cut raises disposable income, but
+      households fearing job loss may save the increase. Distinguish the tax
+      reduction from additional consumption rather than assuming every extra
+      unit of income is spent. Consumption changes from higher income differ
+      from movements along AD caused by a price-level change."
+- id: u3-12-consumption-short-1
+  knowledgePointId: u3-12-consumption
+  type: short-answer
+  prompt:
+    zh-CN: 解释消费与总需求移动的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Consumption and shifts in aggregate demand and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 消费受可支配收入、财富、信心、利率、家庭债务及预期影响；在价格水平不变时这些因素可移动 AD。
+      可支配收入或信心改变；家庭计划消费改变；消费占比使总需求随之移动
+      原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。
+    en: "Consumption depends on disposable income, wealth, confidence, interest
+      rates, household debt and expectations. Changes in these determinants can
+      shift AD at a given price level. Disposable income or confidence changes;
+      households alter planned consumption; its expenditure share shifts
+      aggregate demand Illustrative example: a tax cut raises disposable income,
+      but households fearing job loss may save the increase. Distinguish the tax
+      reduction from additional consumption rather than assuming every extra
+      unit of income is spent."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 可支配收入
+        en: disposable income
+      alternatives:
+        zh-CN:
+          - 可支配收入
+          - 可支配收入或信心改变
+        en:
+          - disposable income
+          - Disposable income or confidence changes
+    - id: mechanism-2
+      label:
+        zh-CN: 信心
+        en: confidence
+      alternatives:
+        zh-CN:
+          - 信心
+          - 家庭计划消费改变
+        en:
+          - confidence
+          - households alter planned consumption
+    - id: mechanism-3
+      label:
+        zh-CN: 消费
+        en: consumption
+      alternatives:
+        zh-CN:
+          - 消费
+          - 消费占比使总需求随之移动
+        en:
+          - consumption
+          - its expenditure share shifts aggregate demand
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

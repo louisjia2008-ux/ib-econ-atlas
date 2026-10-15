@@ -4,20 +4,23 @@ import { buildCoursebookDirectory, buildSyllabusDirectory } from "./directory";
 import { isGroupSelected, loadScope, saveScope, scopeStorageKey, toggleScopeGroup } from "./scope";
 
 describe("directory mapping", () => {
-  it("maps 43 Unit 1 and 60 Unit 2 points into separate syllabus groups", () => {
+  it("maps all three units into separate syllabus groups", () => {
     const ids = buildSyllabusDirectory(knowledgePoints).flatMap((group) => group.sections.flatMap((section) => section.pointIds));
-    expect(new Set(ids).size).toBe(103);
-    expect(buildSyllabusDirectory(knowledgePoints).map((group) => group.sections.flatMap((section) => section.pointIds).length)).toEqual([43, 60]);
+    expect(new Set(ids).size).toBe(159);
+    expect(buildSyllabusDirectory(knowledgePoints).map((group) => group.sections.flatMap((section) => section.pointIds).length)).toEqual([43, 60, 56]);
     expect(buildSyllabusDirectory(knowledgePoints)[1]?.sections).toHaveLength(12);
+    expect(buildSyllabusDirectory(knowledgePoints)[2]?.sections).toHaveLength(7);
   });
 
-  it("maps all 103 points into the coursebook tree without cross-unit leakage", () => {
+  it("maps all 159 points into the coursebook tree without cross-unit leakage", () => {
     const ids = buildCoursebookDirectory(knowledgePoints).flatMap((group) => group.sections.flatMap((section) => section.pointIds));
-    expect(new Set(ids).size).toBe(103);
+    expect(new Set(ids).size).toBe(159);
     const groups = buildCoursebookDirectory(knowledgePoints);
     expect(groups[1]?.sections).toHaveLength(6);
     expect(groups[0]?.sections.flatMap((section) => section.pointIds).every((id) => id.startsWith("u1-"))).toBe(true);
     expect(groups[1]?.sections.flatMap((section) => section.pointIds).every((id) => id.startsWith("u2-"))).toBe(true);
+    expect(groups[2]?.sections).toHaveLength(6);
+    expect(groups[2]?.sections.flatMap((section) => section.pointIds).every((id) => id.startsWith("u3-"))).toBe(true);
   });
 });
 

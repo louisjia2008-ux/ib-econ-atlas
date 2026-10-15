@@ -1,0 +1,102 @@
+- id: u3-37-progressive-tax-flash-1
+  knowledgePointId: u3-37-progressive-tax
+  type: flashcard
+  prompt:
+    zh-CN: 解释“累进税、转移支付与可支配收入”，并说明一个关键条件。
+    en: Explain Progressive taxes, transfers and disposable income and state one
+      important condition.
+  answer:
+    zh-CN: 累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。
+    en: Under progressive taxation the average tax rate rises with income. The
+      marginal rate applies to additional income; the average rate is total
+      tax/income. Disposable income subtracts direct taxes and adds transfers.
+  explanation:
+    zh-CN: 最高边际税率不应直接乘以全部收入。
+    en: Do not apply the highest marginal rate to all income.
+- id: u3-37-progressive-tax-mcq-1
+  knowledgePointId: u3-37-progressive-tax
+  type: mcq
+  prompt:
+    zh-CN: 收入 300、税额 45，平均税率多少？
+    en: Income is 300 and tax 45. What is the average tax rate?
+  options:
+    - id: a
+      zh-CN: 15%
+      en: 15%
+    - id: b
+      zh-CN: 45%
+      en: 45%
+    - id: c
+      zh-CN: 6.67%
+      en: 6.67%
+    - id: d
+      zh-CN: 必等于最高边际税率
+      en: Must equal the top marginal rate
+  correctOptionId: a
+  explanation:
+    zh-CN: 15%。 原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15
+      后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。 最高边际税率不应直接乘以全部收入。
+    en: "15%. Illustrative example: the first 100 is tax-free and the next 100 taxed
+      at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate
+      20%. A transfer of 15 gives disposable income 195. Indirect taxes,
+      avoidance and services also affect distribution. Do not apply the highest
+      marginal rate to all income."
+- id: u3-37-progressive-tax-short-1
+  knowledgePointId: u3-37-progressive-tax
+  type: short-answer
+  prompt:
+    zh-CN: 解释累进税、转移支付与可支配收入的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Progressive taxes, transfers and disposable income
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。
+      确定各税档适用收入；分段计算税额而非全部收入乘最高税率；用转移和税收比较最终购买能力 原创例：前 100 免税，其后 100 按 20%，收入
+      200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。
+    en: "Under progressive taxation the average tax rate rises with income. The
+      marginal rate applies to additional income; the average rate is total
+      tax/income. Disposable income subtracts direct taxes and adds transfers.
+      Identify income within each bracket; calculate tax progressively rather
+      than applying the top rate to all income; compare purchasing power after
+      taxes and transfers Illustrative example: the first 100 is tax-free and
+      the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10%
+      and marginal rate 20%. A transfer of 15 gives disposable income 195.
+      Indirect taxes, avoidance and services also affect distribution."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 平均税率
+        en: average rate
+      alternatives:
+        zh-CN:
+          - 平均税率
+          - 确定各税档适用收入
+        en:
+          - average rate
+          - Identify income within each bracket
+    - id: mechanism-2
+      label:
+        zh-CN: 边际税率
+        en: marginal rate
+      alternatives:
+        zh-CN:
+          - 边际税率
+          - 分段计算税额而非全部收入乘最高税率
+        en:
+          - marginal rate
+          - calculate tax progressively rather than applying the top rate to all
+            income
+    - id: mechanism-3
+      label:
+        zh-CN: 可支配收入
+        en: disposable income
+      alternatives:
+        zh-CN:
+          - 可支配收入
+          - 用转移和税收比较最终购买能力
+        en:
+          - disposable income
+          - compare purchasing power after taxes and transfers
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

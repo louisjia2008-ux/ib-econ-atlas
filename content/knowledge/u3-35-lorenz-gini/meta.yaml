@@ -1,0 +1,41 @@
+id: u3-35-lorenz-gini
+slug: lorenz-gini
+section: "3.4"
+level: hl
+syllabusRefs:
+  - 3.4 Economics of inequality and poverty
+textbookRefs:
+  - chapter: "12"
+    section: "12.1"
+    pages:
+      - 353
+prerequisites:
+  - u1-35-equality-equity
+related:
+  - u3-33-poverty
+  - u3-34-inequality-causes
+  - u3-36-poverty-effects
+terms:
+  - 洛伦兹曲线与基尼计算
+  - Lorenz curves and Gini calculations
+  - 累计
+  - cumulative
+  - 面积
+  - area
+  - 平等线
+  - equality line
+synonyms:
+  zh-CN:
+    - 累计
+    - 面积
+    - 平等线
+  en:
+    - cumulative
+    - area
+    - equality line
+diagramIds:
+  - macro-lorenz
+quizIds:
+  - u3-35-lorenz-gini-flash-1
+  - u3-35-lorenz-gini-mcq-1
+  - u3-35-lorenz-gini-short-1

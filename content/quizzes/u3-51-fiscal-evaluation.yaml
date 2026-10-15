@@ -1,0 +1,105 @@
+- id: u3-51-fiscal-evaluation-flash-1
+  knowledgePointId: u3-51-fiscal-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“财政政策评价”，并说明一个关键条件。
+    en: Explain Evaluating fiscal policy and state one important condition.
+  answer:
+    zh-CN: 财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。
+    en: Fiscal evaluation compares multipliers, lags, debt sustainability,
+      distribution and supply effects, reaching conditional conclusions based on
+      economic conditions and the spending-tax mix.
+  explanation:
+    zh-CN: 不能仅凭赤字大小或单一乘数宣布政策成功。
+    en: Neither deficit size nor a single multiplier establishes policy success.
+- id: u3-51-fiscal-evaluation-mcq-1
+  knowledgePointId: u3-51-fiscal-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 比较现金支持与基建时应考虑什么？
+    en: What matters when comparing cash support and infrastructure?
+  options:
+    - id: a
+      zh-CN: 只看名称是否积极
+      en: Only whether the name sounds positive
+    - id: b
+      zh-CN: 假定进口完全无影响
+      en: Assume imports have no effects
+    - id: c
+      zh-CN: 实施时滞与长期供给效果
+      en: Implementation lags and long-run supply effects
+    - id: d
+      zh-CN: 忽略融资和分配
+      en: Ignore financing and distribution
+  correctOptionId: c
+  explanation:
+    zh-CN: 实施时滞与长期供给效果。
+      原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。
+      不能仅凭赤字大小或单一乘数宣布政策成功。
+    en: "Implementation lags and long-run supply effects. Illustrative example: cash
+      support may stabilise demand sooner, whereas rail construction has long
+      preparation but may raise future capacity. High import propensity reduces
+      domestic demand effects, yet imported equipment can expand supply.
+      Financing currency, interest and future tax bases all matter for debt
+      risk. Neither deficit size nor a single multiplier establishes policy
+      success."
+- id: u3-51-fiscal-evaluation-short-1
+  knowledgePointId: u3-51-fiscal-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释财政政策评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Evaluating fiscal policy and apply it to an example
+      of your own.
+  modelAnswer:
+    zh-CN: 财政评价应比较乘数、时滞、债务可持续性、分配和供给效应，并按经济状况与支出税收构成作条件性判断。
+      判断产出缺口与政策目标；检查设计审批执行及漏出；权衡短期稳定与长期财政供给结果
+      原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。
+    en: "Fiscal evaluation compares multipliers, lags, debt sustainability,
+      distribution and supply effects, reaching conditional conclusions based on
+      economic conditions and the spending-tax mix. Identify the output gap and
+      objective; examine design, approval, implementation and leakages; weigh
+      short-run stabilisation against long-run fiscal and supply outcomes
+      Illustrative example: cash support may stabilise demand sooner, whereas
+      rail construction has long preparation but may raise future capacity. High
+      import propensity reduces domestic demand effects, yet imported equipment
+      can expand supply. Financing currency, interest and future tax bases all
+      matter for debt risk."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 产出缺口
+        en: output gap
+      alternatives:
+        zh-CN:
+          - 产出缺口
+          - 判断产出缺口与政策目标
+        en:
+          - output gap
+          - Identify the output gap and objective
+    - id: mechanism-2
+      label:
+        zh-CN: 漏出
+        en: leakages
+      alternatives:
+        zh-CN:
+          - 漏出
+          - 检查设计审批执行及漏出
+        en:
+          - leakages
+          - examine design, approval, implementation and leakages
+    - id: mechanism-3
+      label:
+        zh-CN: 长期财政供给
+        en: long-run fiscal and supply
+      alternatives:
+        zh-CN:
+          - 长期财政供给
+          - 权衡短期稳定与长期财政供给结果
+        en:
+          - long-run fiscal and supply
+          - weigh short-run stabilisation against long-run fiscal and supply
+            outcomes
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.
