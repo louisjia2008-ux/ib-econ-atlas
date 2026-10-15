@@ -1,6 +1,6 @@
 # IB Econ Atlas — Unit 1 MVP acceptance report
 
-This is the historical Unit 1 report. Unit 1 was subsequently merged and deployed. The current Unit 2 extension and its verification evidence are recorded in [unit-2-final-report.md](unit-2-final-report.md).
+This is the historical Unit 1 report. Units 1 and 2 were subsequently merged and deployed by explicit owner authority. The current Unit 3 extension and its verification evidence are recorded in [unit-3-final-report.md](unit-3-final-report.md); the previous extension remains in [unit-2-final-report.md](unit-2-final-report.md). Historical unmerged statements below describe their original checkpoints, not current PR state.
 
 Status: implementation and the authorised public-PR gate are complete; merge and production deployment remain owner-gated.
 

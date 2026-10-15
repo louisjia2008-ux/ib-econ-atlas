@@ -73,4 +73,4 @@
 
 # Unit 3 continuation — 2026-10-15
 
-T025–T028 complete from released main 95cf4fa. Added 56 bilingual points, 168 practice items, eight macro diagrams and three-unit navigation. Full verify, 86 tests and 21 browser checks pass; 24 project cases intentionally skipped. Offline saved progress and inspected desktop/mobile screenshots pass. All 103 old compiled points are deeply unchanged. T029 unmerged PR delivery follows. Unit 3 contract supersedes earlier unit-specific non-goals; no merge/deployment is included.
+T025–T029 complete from released main 95cf4fa. Added 56 bilingual points, 168 practice items, eight macro diagrams and three-unit navigation. Full verify, 86 tests and 21 browser checks pass; 24 project cases intentionally skipped. Offline saved progress and inspected desktop/mobile screenshots pass. All 103 old compiled points are deeply unchanged. PR #10 opened and attached; hosted verify/browser passed for implementation 559acd0 in run 38658796959. Final record-only CI inspected at handoff. Unit 3 contract supersedes earlier unit-specific non-goals; no merge/deployment is included. RALPH_DONE.
