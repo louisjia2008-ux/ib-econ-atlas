@@ -1,0 +1,41 @@
+id: u4-02-free-trade-imports
+slug: free-trade-imports
+section: "4.1"
+level: core
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.1"
+    pages:
+      - 433
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-01-trade-benefits
+  - u4-03-free-trade-exports
+  - u4-04-absolute-advantage
+terms:
+  - 小国自由贸易与进口
+  - Free trade and imports in a small economy
+  - 世界价格
+  - world price
+  - 进口
+  - imports
+  - 差额
+  - gap
+synonyms:
+  zh-CN:
+    - 世界价格
+    - 进口
+    - 差额
+  en:
+    - world price
+    - imports
+    - gap
+diagramIds:
+  - global-imports
+quizIds:
+  - u4-02-free-trade-imports-flash-1
+  - u4-02-free-trade-imports-mcq-1
+  - u4-02-free-trade-imports-short-1

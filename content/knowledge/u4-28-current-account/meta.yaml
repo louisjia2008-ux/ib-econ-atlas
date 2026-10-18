@@ -1,0 +1,40 @@
+id: u4-28-current-account
+slug: current-account
+section: "4.6"
+level: core
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "16"
+    section: "16.4"
+    pages:
+      - 509
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+  - u4-31-current-account-imbalances
+terms:
+  - 经常账户的构成
+  - Components of the current account
+  - 货物
+  - goods
+  - 收入
+  - income
+  - 经常账户
+  - current account
+synonyms:
+  zh-CN:
+    - 货物
+    - 收入
+    - 经常账户
+  en:
+    - goods
+    - income
+    - current account
+diagramIds: []
+quizIds:
+  - u4-28-current-account-flash-1
+  - u4-28-current-account-mcq-1
+  - u4-28-current-account-short-1

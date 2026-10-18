@@ -1,0 +1,41 @@
+id: u4-03-free-trade-exports
+slug: free-trade-exports
+section: "4.1"
+level: core
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.1"
+    pages:
+      - 433
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-01-trade-benefits
+  - u4-02-free-trade-imports
+  - u4-04-absolute-advantage
+terms:
+  - 小国自由贸易与出口
+  - Free trade and exports in a small economy
+  - 世界价格
+  - world price
+  - 出口
+  - exports
+  - 供给
+  - supply
+synonyms:
+  zh-CN:
+    - 世界价格
+    - 出口
+    - 供给
+  en:
+    - world price
+    - exports
+    - supply
+diagramIds:
+  - global-exports
+quizIds:
+  - u4-03-free-trade-exports-flash-1
+  - u4-03-free-trade-exports-mcq-1
+  - u4-03-free-trade-exports-short-1

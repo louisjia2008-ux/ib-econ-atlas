@@ -1,0 +1,41 @@
+id: u4-21-floating-exchange-rate
+slug: floating-exchange-rate
+section: "4.5"
+level: core
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "16"
+    section: "16.1"
+    pages:
+      - 491
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-22-currency-demand-supply
+  - u4-23-exchange-rate-effects
+  - u4-24-fixed-exchange-rate
+terms:
+  - 浮动汇率与报价方向
+  - Floating exchange rates and quotation
+  - 报价
+  - quotation
+  - 需求
+  - demand
+  - 升值
+  - appreciation
+synonyms:
+  zh-CN:
+    - 报价
+    - 需求
+    - 升值
+  en:
+    - quotation
+    - demand
+    - appreciation
+diagramIds:
+  - global-currency
+quizIds:
+  - u4-21-floating-exchange-rate-flash-1
+  - u4-21-floating-exchange-rate-mcq-1
+  - u4-21-floating-exchange-rate-short-1

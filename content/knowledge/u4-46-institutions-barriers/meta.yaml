@@ -1,0 +1,40 @@
+id: u4-46-institutions-barriers
+slug: institutions-barriers
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.3"
+    pages:
+      - 581
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-43-human-capital-infrastructure
+  - u4-44-primary-dependence
+terms:
+  - 制度、冲突与社会排斥
+  - Institutions, conflict and social exclusion
+  - 规则
+  - rules
+  - 排斥
+  - exclusion
+  - 投资
+  - investment
+synonyms:
+  zh-CN:
+    - 规则
+    - 排斥
+    - 投资
+  en:
+    - rules
+    - exclusion
+    - investment
+diagramIds: []
+quizIds:
+  - u4-46-institutions-barriers-flash-1
+  - u4-46-institutions-barriers-mcq-1
+  - u4-46-institutions-barriers-short-1

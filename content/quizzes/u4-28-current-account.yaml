@@ -1,0 +1,98 @@
+- id: u4-28-current-account-flash-1
+  knowledgePointId: u4-28-current-account
+  type: flashcard
+  prompt:
+    zh-CN: 解释“经常账户的构成”，并说明一个关键条件。
+    en: Explain Components of the current account and state one important condition.
+  answer:
+    zh-CN: 经常账户记录货物、服务、初次收入及二次收入的跨境净流量；贸易余额只是其中一部分。
+    en: The current account records net cross-border goods, services, primary income
+      and secondary income flows. The trade balance is only part of it.
+  explanation:
+    zh-CN: 海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。
+    en: Income on foreign investment is primary income; purchasing foreign shares
+      belongs to the financial account.
+- id: u4-28-current-account-mcq-1
+  knowledgePointId: u4-28-current-account
+  type: mcq
+  prompt:
+    zh-CN: 货物 −10、服务 +4、收入净额 +2，经常账户多少？
+    en: Goods −10, services +4 and combined income +2 give what current balance?
+  options:
+    - id: a
+      zh-CN: "16"
+      en: "16"
+    - id: b
+      zh-CN: −16
+      en: −16
+    - id: c
+      zh-CN: "4"
+      en: "4"
+    - id: d
+      zh-CN: −4
+      en: −4
+  correctOptionId: d
+  explanation:
+    zh-CN: −4。 原创假设：货物 −20、服务 +10、初次收入 −5、二次收入 +3，经常账户为 −12；收到海外亲属汇款通常属二次收入。
+      海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。
+    en: "−4. Hypothetical scenario: goods −20, services +10, primary income −5 and
+      secondary income +3 give a current-account balance of −12. Family
+      remittances received normally enter secondary income. Income on foreign
+      investment is primary income; purchasing foreign shares belongs to the
+      financial account."
+- id: u4-28-current-account-short-1
+  knowledgePointId: u4-28-current-account
+  type: short-answer
+  prompt:
+    zh-CN: 解释经常账户的构成的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Components of the current account and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 经常账户记录货物、服务、初次收入及二次收入的跨境净流量；贸易余额只是其中一部分。
+      货物服务出口形成贷项；向国外支付收入形成借项；各项净额相加得到经常账户余额 原创假设：货物 −20、服务 +10、初次收入 −5、二次收入
+      +3，经常账户为 −12；收到海外亲属汇款通常属二次收入。
+    en: "The current account records net cross-border goods, services, primary
+      income and secondary income flows. The trade balance is only part of it.
+      Goods and service exports create credits; income paid abroad creates
+      debits; component balances sum to the current account Hypothetical
+      scenario: goods −20, services +10, primary income −5 and secondary income
+      +3 give a current-account balance of −12. Family remittances received
+      normally enter secondary income."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 货物
+        en: goods
+      alternatives:
+        zh-CN:
+          - 货物
+          - 货物服务出口形成贷项
+        en:
+          - goods
+          - Goods and service exports create credits
+    - id: mechanism-2
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 向国外支付收入形成借项
+        en:
+          - income
+          - income paid abroad creates debits
+    - id: mechanism-3
+      label:
+        zh-CN: 经常账户
+        en: current account
+      alternatives:
+        zh-CN:
+          - 经常账户
+          - 各项净额相加得到经常账户余额
+        en:
+          - current account
+          - component balances sum to the current account
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

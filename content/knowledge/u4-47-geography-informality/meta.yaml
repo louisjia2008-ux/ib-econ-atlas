@@ -1,0 +1,40 @@
+id: u4-47-geography-informality
+slug: geography-informality
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.2"
+    pages:
+      - 566
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-43-human-capital-infrastructure
+  - u4-44-primary-dependence
+terms:
+  - 地理、非正规经济与多重障碍
+  - Geography, informality and interacting barriers
+  - 成本
+  - costs
+  - 非正规
+  - informal
+  - 约束
+  - constraints
+synonyms:
+  zh-CN:
+    - 成本
+    - 非正规
+    - 约束
+  en:
+    - costs
+    - informal
+    - constraints
+diagramIds: []
+quizIds:
+  - u4-47-geography-informality-flash-1
+  - u4-47-geography-informality-mcq-1
+  - u4-47-geography-informality-short-1

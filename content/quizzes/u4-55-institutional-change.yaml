@@ -1,0 +1,102 @@
+- id: u4-55-institutional-change-flash-1
+  knowledgePointId: u4-55-institutional-change
+  type: flashcard
+  prompt:
+    zh-CN: 解释“制度改革、包容性金融与赋权”，并说明一个关键条件。
+    en: Explain Institutional reform, inclusive finance and empowerment and state
+      one important condition.
+  answer:
+    zh-CN: 可信法治、透明预算、可获得的金融服务和性别平等可改善参与和投资，但改革需结合当地执行能力。
+    en: Credible rule of law, transparent budgets, accessible finance and gender
+      equality can improve participation and investment, with reforms adapted to
+      local implementation capacity.
+  explanation:
+    zh-CN: 数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。
+    en: Account counts do not establish effective inclusion; fees, literacy, safety
+      and actual use matter.
+- id: u4-55-institutional-change-mcq-1
+  knowledgePointId: u4-55-institutional-change
+  type: mcq
+  prompt:
+    zh-CN: 评估小额信贷最应看哪项？
+    en: What most matters when evaluating microcredit?
+  options:
+    - id: a
+      zh-CN: 只看发放笔数
+      en: Only number of loans
+    - id: b
+      zh-CN: 贷款越大必越好
+      en: Larger loans are always better
+    - id: c
+      zh-CN: 净收入、还款压力与实际用途
+      en: Net income, repayment stress and actual use
+    - id: d
+      zh-CN: 不看利率与风险
+      en: Ignore rates and risks
+  correctOptionId: c
+  explanation:
+    zh-CN: 净收入、还款压力与实际用途。 原创假设：小额贷款配合储蓄、保险和培训可帮助经营；对无稳定现金流的家庭高息放贷可能加重负担，不能假设借款即脱贫。
+      数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。
+    en: "Net income, repayment stress and actual use. Hypothetical scenario:
+      microcredit combined with saving, insurance and training may support
+      enterprise. High-interest lending to households without stable cash flow
+      can worsen burdens; borrowing does not itself establish poverty reduction.
+      Account counts do not establish effective inclusion; fees, literacy,
+      safety and actual use matter."
+- id: u4-55-institutional-change-short-1
+  knowledgePointId: u4-55-institutional-change
+  type: short-answer
+  prompt:
+    zh-CN: 解释制度改革、包容性金融与赋权的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Institutional reform, inclusive finance and
+      empowerment and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 可信法治、透明预算、可获得的金融服务和性别平等可改善参与和投资，但改革需结合当地执行能力。
+      规则与信息改善降低风险；弱势群体获得融资和机会；监督与执行维持信任
+      原创假设：小额贷款配合储蓄、保险和培训可帮助经营；对无稳定现金流的家庭高息放贷可能加重负担，不能假设借款即脱贫。
+    en: "Credible rule of law, transparent budgets, accessible finance and gender
+      equality can improve participation and investment, with reforms adapted to
+      local implementation capacity. Better rules and information reduce risk;
+      excluded groups gain finance and opportunities; oversight and enforcement
+      maintain trust Hypothetical scenario: microcredit combined with saving,
+      insurance and training may support enterprise. High-interest lending to
+      households without stable cash flow can worsen burdens; borrowing does not
+      itself establish poverty reduction."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 规则
+        en: rules
+      alternatives:
+        zh-CN:
+          - 规则
+          - 规则与信息改善降低风险
+        en:
+          - rules
+          - Better rules and information reduce risk
+    - id: mechanism-2
+      label:
+        zh-CN: 融资
+        en: finance
+      alternatives:
+        zh-CN:
+          - 融资
+          - 弱势群体获得融资和机会
+        en:
+          - finance
+          - excluded groups gain finance and opportunities
+    - id: mechanism-3
+      label:
+        zh-CN: 参与
+        en: participation
+      alternatives:
+        zh-CN:
+          - 参与
+          - 监督与执行维持信任
+        en:
+          - participation
+          - oversight and enforcement maintain trust
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

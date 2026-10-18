@@ -1,0 +1,99 @@
+- id: u4-24-fixed-exchange-rate-flash-1
+  knowledgePointId: u4-24-fixed-exchange-rate
+  type: flashcard
+  prompt:
+    zh-CN: 解释“固定汇率与储备干预”，并说明一个关键条件。
+    en: Explain Fixed exchange rates and reserve intervention and state one
+      important condition.
+  answer:
+    zh-CN: 固定汇率由当局维持目标平价；本币面临贬值压力时，央行可卖外汇储备买本币，但储备有限。
+    en: Authorities maintain a target parity in a fixed regime. Under downward
+      pressure they can sell foreign reserves and buy home currency, but
+      reserves are finite.
+  explanation:
+    zh-CN: 官方下调固定平价称法定贬值；这不同于浮动市场的贬值。
+    en: An official reduction of fixed parity is devaluation, distinct from market
+      depreciation.
+- id: u4-24-fixed-exchange-rate-mcq-1
+  knowledgePointId: u4-24-fixed-exchange-rate
+  type: mcq
+  prompt:
+    zh-CN: 如何用储备抵抗本币贬值压力？
+    en: How can reserves resist downward pressure on home currency?
+  options:
+    - id: a
+      zh-CN: 卖本币买外币
+      en: Sell home currency and buy foreign currency
+    - id: b
+      zh-CN: 完全不交易且保证平价
+      en: Never trade yet guarantee parity
+    - id: c
+      zh-CN: 印本币必提高其价格
+      en: Print home currency to necessarily raise its price
+    - id: d
+      zh-CN: 卖外币买本币
+      en: Sell foreign currency and buy home currency
+  correctOptionId: d
+  explanation:
+    zh-CN: 卖外币买本币。 原创假设：目标 1 本币=0.5 美元，市场需求下滑；卖美元买本币可支持目标，持续干预可能需要加息或政策调整。
+      官方下调固定平价称法定贬值；这不同于浮动市场的贬值。
+    en: "Sell foreign currency and buy home currency. Hypothetical scenario: the
+      target is 0.5 dollars per home unit and demand falls. Selling dollars to
+      buy home currency supports the target; sustained pressure may require
+      higher rates or policy adjustment. An official reduction of fixed parity
+      is devaluation, distinct from market depreciation."
+- id: u4-24-fixed-exchange-rate-short-1
+  knowledgePointId: u4-24-fixed-exchange-rate
+  type: short-answer
+  prompt:
+    zh-CN: 解释固定汇率与储备干预的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Fixed exchange rates and reserve intervention and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 固定汇率由当局维持目标平价；本币面临贬值压力时，央行可卖外汇储备买本币，但储备有限。 市场汇率低于目标；央行买本币增加需求；外汇储备下降以支持平价
+      原创假设：目标 1 本币=0.5 美元，市场需求下滑；卖美元买本币可支持目标，持续干预可能需要加息或政策调整。
+    en: "Authorities maintain a target parity in a fixed regime. Under downward
+      pressure they can sell foreign reserves and buy home currency, but
+      reserves are finite. The market rate falls below parity; central-bank
+      home-currency purchases add demand; foreign reserves decline to defend the
+      peg Hypothetical scenario: the target is 0.5 dollars per home unit and
+      demand falls. Selling dollars to buy home currency supports the target;
+      sustained pressure may require higher rates or policy adjustment."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 平价
+        en: parity
+      alternatives:
+        zh-CN:
+          - 平价
+          - 市场汇率低于目标
+        en:
+          - parity
+          - The market rate falls below parity
+    - id: mechanism-2
+      label:
+        zh-CN: 储备
+        en: reserves
+      alternatives:
+        zh-CN:
+          - 储备
+          - 央行买本币增加需求
+        en:
+          - reserves
+          - central-bank home-currency purchases add demand
+    - id: mechanism-3
+      label:
+        zh-CN: 买本币
+        en: buy home currency
+      alternatives:
+        zh-CN:
+          - 买本币
+          - 外汇储备下降以支持平价
+        en:
+          - buy home currency
+          - foreign reserves decline to defend the peg
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

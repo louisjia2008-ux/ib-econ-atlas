@@ -1,0 +1,100 @@
+- id: u4-41-measurement-limits-flash-1
+  knowledgePointId: u4-41-measurement-limits
+  type: flashcard
+  prompt:
+    zh-CN: 解释“发展数据的可比性与局限”，并说明一个关键条件。
+    en: Explain Comparability and limits of development data and state one important
+      condition.
+  answer:
+    zh-CN: 发展比较应使用可比年份、定义和人口组，注意非正规经济、统计能力、均值掩盖差异与相关不等于因果。
+    en: Development comparisons need comparable years, definitions and population
+      groups, with attention to informality, statistical capacity, hidden
+      disparities and correlation versus causation.
+  explanation:
+    zh-CN: 两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。
+    en: Two improving indicators alone do not prove a policy caused improvement;
+      missing data are not zero.
+- id: u4-41-measurement-limits-mcq-1
+  knowledgePointId: u4-41-measurement-limits
+  type: mcq
+  prompt:
+    zh-CN: 某地区没有卫生数据应如何处理？
+    en: How should missing health data for a region be handled?
+  options:
+    - id: a
+      zh-CN: 标明缺失并限制结论
+      en: Mark it missing and limit conclusions
+    - id: b
+      zh-CN: 填为零并排名
+      en: Insert zero and rank
+    - id: c
+      zh-CN: 默认全国平均完全适用
+      en: Assume the national mean applies exactly
+    - id: d
+      zh-CN: 宣称没有健康问题
+      en: Declare no health problems
+  correctOptionId: a
+  explanation:
+    zh-CN: 标明缺失并限制结论。 原创假设：农村调查遗漏偏远家庭，可能高估全国服务覆盖；比较政策前后还需考虑经济周期和其他政策。
+      两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。
+    en: "Mark it missing and limit conclusions. Hypothetical scenario: omitting
+      remote households can overstate national service coverage. Before-after
+      policy comparisons also need business-cycle and other-policy context. Two
+      improving indicators alone do not prove a policy caused improvement;
+      missing data are not zero."
+- id: u4-41-measurement-limits-short-1
+  knowledgePointId: u4-41-measurement-limits
+  type: short-answer
+  prompt:
+    zh-CN: 解释发展数据的可比性与局限的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Comparability and limits of development data and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 发展比较应使用可比年份、定义和人口组，注意非正规经济、统计能力、均值掩盖差异与相关不等于因果。
+      检查来源和定义；统一年份与可比单位；结合定量指标和情境解释
+      原创假设：农村调查遗漏偏远家庭，可能高估全国服务覆盖；比较政策前后还需考虑经济周期和其他政策。
+    en: "Development comparisons need comparable years, definitions and population
+      groups, with attention to informality, statistical capacity, hidden
+      disparities and correlation versus causation. Check sources and
+      definitions; align years and comparable units; combine quantitative
+      measures with context Hypothetical scenario: omitting remote households
+      can overstate national service coverage. Before-after policy comparisons
+      also need business-cycle and other-policy context."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 可比
+        en: comparable
+      alternatives:
+        zh-CN:
+          - 可比
+          - 检查来源和定义
+        en:
+          - comparable
+          - Check sources and definitions
+    - id: mechanism-2
+      label:
+        zh-CN: 数据
+        en: data
+      alternatives:
+        zh-CN:
+          - 数据
+          - 统一年份与可比单位
+        en:
+          - data
+          - align years and comparable units
+    - id: mechanism-3
+      label:
+        zh-CN: 局限
+        en: limits
+      alternatives:
+        zh-CN:
+          - 局限
+          - 结合定量指标和情境解释
+        en:
+          - limits
+          - combine quantitative measures with context
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

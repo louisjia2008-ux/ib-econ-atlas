@@ -1,0 +1,40 @@
+id: u4-23-exchange-rate-effects
+slug: exchange-rate-effects
+section: "4.5"
+level: core
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "16"
+    section: "16.2"
+    pages:
+      - 500
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-21-floating-exchange-rate
+  - u4-22-currency-demand-supply
+  - u4-24-fixed-exchange-rate
+terms:
+  - 升贬值的经济影响
+  - Effects of appreciation and depreciation
+  - 贬值
+  - depreciation
+  - 进口成本
+  - import costs
+  - 弹性
+  - elasticities
+synonyms:
+  zh-CN:
+    - 贬值
+    - 进口成本
+    - 弹性
+  en:
+    - depreciation
+    - import costs
+    - elasticities
+diagramIds: []
+quizIds:
+  - u4-23-exchange-rate-effects-flash-1
+  - u4-23-exchange-rate-effects-mcq-1
+  - u4-23-exchange-rate-effects-short-1

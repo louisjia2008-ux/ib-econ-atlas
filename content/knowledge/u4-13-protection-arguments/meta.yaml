@@ -1,0 +1,40 @@
+id: u4-13-protection-arguments
+slug: protection-arguments
+section: "4.3"
+level: core
+syllabusRefs:
+  - 4.3 Arguments for and against trade protection
+textbookRefs:
+  - chapter: "15"
+    section: "15.1"
+    pages:
+      - 465
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-12-infant-industry
+  - u4-14-protection-evaluation
+  - u4-15-wto
+terms:
+  - 就业、安全与反倾销论据
+  - Employment, security and anti-dumping arguments
+  - 就业
+  - employment
+  - 成本
+  - costs
+  - 报复
+  - retaliation
+synonyms:
+  zh-CN:
+    - 就业
+    - 成本
+    - 报复
+  en:
+    - employment
+    - costs
+    - retaliation
+diagramIds: []
+quizIds:
+  - u4-13-protection-arguments-flash-1
+  - u4-13-protection-arguments-mcq-1
+  - u4-13-protection-arguments-short-1

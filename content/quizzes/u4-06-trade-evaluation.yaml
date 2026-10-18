@@ -1,0 +1,99 @@
+- id: u4-06-trade-evaluation-flash-1
+  knowledgePointId: u4-06-trade-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“贸易收益的条件与分配”，并说明一个关键条件。
+    en: Explain Conditions and distribution of trade gains and state one important
+      condition.
+  answer:
+    zh-CN: 贸易能提高配置效率，但长期发展收益取决于产业联系、技能、市场势力和收入分配。
+    en: Trade can improve allocative efficiency, while long-run development gains
+      depend on linkages, skills, market power and distribution.
+  explanation:
+    zh-CN: 把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。
+    en: Treating every import as a loss, or all trade as beneficial to everyone,
+      omits stakeholders.
+- id: u4-06-trade-evaluation-mcq-1
+  knowledgePointId: u4-06-trade-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 评价贸易开放最应补充哪个问题？
+    en: Which question best extends an evaluation of trade opening?
+  options:
+    - id: a
+      zh-CN: 出口是否永远越多越好
+      en: Whether more exports are always better
+    - id: b
+      zh-CN: 谁获益、谁付出调整成本
+      en: Who gains and who bears adjustment costs
+    - id: c
+      zh-CN: 为何消费者剩余必为零
+      en: Why consumer surplus must be zero
+    - id: d
+      zh-CN: 为何不再需要生产要素
+      en: Why factors of production are no longer needed
+  correctOptionId: b
+  explanation:
+    zh-CN: 谁获益、谁付出调整成本。 原创假设：廉价进口降低家庭支出，但偏远地区唯一工厂关闭；就业转移需要时间，不能用全国净收益否定地区损失。
+      把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。
+    en: "Who gains and who bears adjustment costs. Hypothetical scenario: cheaper
+      imports lower household spending but close a remote region's only factory.
+      Reallocation takes time; national net gains do not erase local losses.
+      Treating every import as a loss, or all trade as beneficial to everyone,
+      omits stakeholders."
+- id: u4-06-trade-evaluation-short-1
+  knowledgePointId: u4-06-trade-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释贸易收益的条件与分配的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Conditions and distribution of trade gains and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 贸易能提高配置效率，但长期发展收益取决于产业联系、技能、市场势力和收入分配。
+      进口竞争促使资源重新配置；部分企业和工人承担调整成本；再培训与社会保障影响净收益分布
+      原创假设：廉价进口降低家庭支出，但偏远地区唯一工厂关闭；就业转移需要时间，不能用全国净收益否定地区损失。
+    en: "Trade can improve allocative efficiency, while long-run development gains
+      depend on linkages, skills, market power and distribution. Import
+      competition reallocates resources; some firms and workers bear adjustment
+      costs; retraining and social protection affect the distribution of net
+      gains Hypothetical scenario: cheaper imports lower household spending but
+      close a remote region's only factory. Reallocation takes time; national
+      net gains do not erase local losses."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 效率
+        en: efficiency
+      alternatives:
+        zh-CN:
+          - 效率
+          - 进口竞争促使资源重新配置
+        en:
+          - efficiency
+          - Import competition reallocates resources
+    - id: mechanism-2
+      label:
+        zh-CN: 调整
+        en: adjustment
+      alternatives:
+        zh-CN:
+          - 调整
+          - 部分企业和工人承担调整成本
+        en:
+          - adjustment
+          - some firms and workers bear adjustment costs
+    - id: mechanism-3
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 再培训与社会保障影响净收益分布
+        en:
+          - distribution
+          - retraining and social protection affect the distribution of net gains
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

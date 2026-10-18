@@ -28,12 +28,14 @@ requireCondition(manifest.version === 1, "Manifest version must be 1.");
 requireCondition(entries.filter((entry) => entry.id.startsWith("u1-")).length === 43, "Unit 1 must preserve its 43 entries.");
 requireCondition(entries.filter((entry) => entry.id.startsWith("u2-")).length === 60, "Unit 2 must contain 60 entries.");
 requireCondition(entries.filter((entry) => entry.id.startsWith("u3-")).length === 56, "Unit 3 must contain 56 entries.");
+requireCondition(entries.filter((entry) => entry.id.startsWith("u4-")).length === 56, "Unit 4 must contain 56 entries.");
 requireCondition(manifestIds.size === entries.length, "Manifest knowledge-point IDs must be unique.");
 
 const expectedSectionCounts = { "1.1": 15, "1.2": 8, "1.3": 6, "1.4": 6, "1.5": 8,
   "2.1": 5, "2.2": 5, "2.3": 5, "2.4": 3, "2.5": 5, "2.6": 3,
   "2.7": 6, "2.8": 8, "2.9": 3, "2.10": 3, "2.11": 11, "2.12": 3,
-  "3.1": 10, "3.2": 10, "3.3": 12, "3.4": 6, "3.5": 6, "3.6": 7, "3.7": 5 };
+  "3.1": 10, "3.2": 10, "3.3": 12, "3.4": 6, "3.5": 6, "3.6": 7, "3.7": 5,
+  "4.1": 6, "4.2": 5, "4.3": 4, "4.4": 5, "4.5": 7, "4.6": 7, "4.7": 3, "4.8": 4, "4.9": 6, "4.10": 9 };
 for (const [section, count] of Object.entries(expectedSectionCounts)) {
   const actual = entries.filter((entry) => entry.section === section).length;
   requireCondition(actual === count, `Section ${section} must contain ${count} entries; found ${actual}.`);

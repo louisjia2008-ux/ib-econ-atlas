@@ -1,0 +1,41 @@
+id: u4-09-production-subsidy
+slug: production-subsidy
+section: "4.2"
+level: core
+syllabusRefs:
+  - 4.2 Types of trade protection
+textbookRefs:
+  - chapter: "14"
+    section: "14.3"
+    pages:
+      - 444
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-07-tariff
+  - u4-08-quota
+  - u4-10-export-subsidy
+terms:
+  - 生产补贴与进口替代
+  - Production subsidies and import displacement
+  - 补贴
+  - subsidy
+  - 供给
+  - supply
+  - 财政成本
+  - fiscal cost
+synonyms:
+  zh-CN:
+    - 补贴
+    - 供给
+    - 财政成本
+  en:
+    - subsidy
+    - supply
+    - fiscal cost
+diagramIds:
+  - global-subsidy
+quizIds:
+  - u4-09-production-subsidy-flash-1
+  - u4-09-production-subsidy-mcq-1
+  - u4-09-production-subsidy-short-1

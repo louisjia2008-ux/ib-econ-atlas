@@ -1,0 +1,40 @@
+id: u4-30-bop-identity
+slug: bop-identity
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.1"
+    pages:
+      - 520
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-31-current-account-imbalances
+terms:
+  - 国际收支恒等式与符号
+  - Balance-of-payments identity and signs
+  - 符号
+  - convention
+  - 对应
+  - counterparts
+  - 储备
+  - reserves
+synonyms:
+  zh-CN:
+    - 符号
+    - 对应
+    - 储备
+  en:
+    - convention
+    - counterparts
+    - reserves
+diagramIds: []
+quizIds:
+  - u4-30-bop-identity-flash-1
+  - u4-30-bop-identity-mcq-1
+  - u4-30-bop-identity-short-1

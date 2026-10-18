@@ -1,0 +1,99 @@
+- id: u4-50-market-based-development-flash-1
+  knowledgePointId: u4-50-market-based-development
+  type: flashcard
+  prompt:
+    zh-CN: 解释“市场导向的发展政策”，并说明一个关键条件。
+    en: Explain Market-based development policies and state one important condition.
+  answer:
+    zh-CN: 自由化、私有化和放松不必要监管可增强竞争与激励，但需要竞争政策、公共利益保护和可执行制度。
+    en: Liberalisation, privatisation and removal of unnecessary regulation may
+      improve competition and incentives, supported by competition policy,
+      public-interest safeguards and effective institutions.
+  explanation:
+    zh-CN: 私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。
+    en: Privatisation is not synonymous with competition; one-off sale revenue does
+      not prove lasting fiscal improvement.
+- id: u4-50-market-based-development-mcq-1
+  knowledgePointId: u4-50-market-based-development
+  type: mcq
+  prompt:
+    zh-CN: 自然垄断私有化应重点配合什么？
+    en: What particularly needs to accompany natural-monopoly privatisation?
+  options:
+    - id: a
+      zh-CN: 自动取消所有监管
+      en: Automatically remove all regulation
+    - id: b
+      zh-CN: 价格质量监管与问责
+      en: Price-quality regulation and accountability
+    - id: c
+      zh-CN: 保证企业无成本
+      en: Guarantee zero costs
+    - id: d
+      zh-CN: 只比较出售当天收入
+      en: Only compare sale-day revenue
+  correctOptionId: b
+  explanation:
+    zh-CN: 价格质量监管与问责。 原创假设：出售国有供水企业若不设置价格和质量监管，可能仅把公共垄断变为私人垄断；结果要看覆盖、质量和价格。
+      私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。
+    en: "Price-quality regulation and accountability. Hypothetical scenario: selling
+      a public water supplier without price or quality regulation may merely
+      create a private monopoly. Assess coverage, quality and prices.
+      Privatisation is not synonymous with competition; one-off sale revenue
+      does not prove lasting fiscal improvement."
+- id: u4-50-market-based-development-short-1
+  knowledgePointId: u4-50-market-based-development
+  type: short-answer
+  prompt:
+    zh-CN: 解释市场导向的发展政策的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Market-based development policies and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 自由化、私有化和放松不必要监管可增强竞争与激励，但需要竞争政策、公共利益保护和可执行制度。
+      降低进入障碍；竞争与产权激励改善效率；监管处理垄断与外部性
+      原创假设：出售国有供水企业若不设置价格和质量监管，可能仅把公共垄断变为私人垄断；结果要看覆盖、质量和价格。
+    en: "Liberalisation, privatisation and removal of unnecessary regulation may
+      improve competition and incentives, supported by competition policy,
+      public-interest safeguards and effective institutions. Lower entry
+      barriers; competition and ownership incentives improve efficiency;
+      regulation addresses monopoly and externalities Hypothetical scenario:
+      selling a public water supplier without price or quality regulation may
+      merely create a private monopoly. Assess coverage, quality and prices."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 竞争
+        en: competition
+      alternatives:
+        zh-CN:
+          - 竞争
+          - 降低进入障碍
+        en:
+          - competition
+          - Lower entry barriers
+    - id: mechanism-2
+      label:
+        zh-CN: 激励
+        en: incentives
+      alternatives:
+        zh-CN:
+          - 激励
+          - 竞争与产权激励改善效率
+        en:
+          - incentives
+          - competition and ownership incentives improve efficiency
+    - id: mechanism-3
+      label:
+        zh-CN: 监管
+        en: regulation
+      alternatives:
+        zh-CN:
+          - 监管
+          - 监管处理垄断与外部性
+        en:
+          - regulation
+          - regulation addresses monopoly and externalities
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

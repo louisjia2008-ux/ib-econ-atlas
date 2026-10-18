@@ -1,0 +1,98 @@
+- id: u4-22-currency-demand-supply-flash-1
+  knowledgePointId: u4-22-currency-demand-supply
+  type: flashcard
+  prompt:
+    zh-CN: 解释“外汇需求与供给的决定因素”，并说明一个关键条件。
+    en: Explain Determinants of currency demand and supply and state one important
+      condition.
+  answer:
+    zh-CN: 外国购买本国出口和资产形成对本币需求；本国购买进口和外国资产形成本币供给。
+    en: Foreign purchases of home exports and assets create demand for home
+      currency; home purchases of imports and foreign assets create its supply.
+  explanation:
+    zh-CN: 利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。
+    en: The interest-rate link is conditional; speculation, inflation expectations
+      and capital restrictions also affect flows.
+- id: u4-22-currency-demand-supply-mcq-1
+  knowledgePointId: u4-22-currency-demand-supply
+  type: mcq
+  prompt:
+    zh-CN: 其他条件不变，外国更想购买本国资产会怎样？
+    en: Other things equal, what follows greater foreign demand for home assets?
+  options:
+    - id: a
+      zh-CN: 本币需求必左移
+      en: Currency demand must shift left
+    - id: b
+      zh-CN: 本币需求右移
+      en: Demand for home currency shifts right
+    - id: c
+      zh-CN: 进口自动为零
+      en: Imports automatically become zero
+    - id: d
+      zh-CN: 汇率必不变
+      en: The rate cannot change
+  correctOptionId: b
+  explanation:
+    zh-CN: 本币需求右移。 原创假设：在风险与预期不变时，本国利率相对上升吸引资产购买，本币需求增加，可能升值；风险溢价上升可抵消此效应。
+      利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。
+    en: "Demand for home currency shifts right. Hypothetical scenario: holding risk
+      and expectations constant, a higher relative home interest rate attracts
+      asset purchases and can appreciate the currency. A rising risk premium may
+      offset this. The interest-rate link is conditional; speculation, inflation
+      expectations and capital restrictions also affect flows."
+- id: u4-22-currency-demand-supply-short-1
+  knowledgePointId: u4-22-currency-demand-supply
+  type: short-answer
+  prompt:
+    zh-CN: 解释外汇需求与供给的决定因素的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Determinants of currency demand and supply and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 外国购买本国出口和资产形成对本币需求；本国购买进口和外国资产形成本币供给。 外国需求或相对回报改变；本币需求或供给移动；浮动汇率调整
+      原创假设：在风险与预期不变时，本国利率相对上升吸引资产购买，本币需求增加，可能升值；风险溢价上升可抵消此效应。
+    en: "Foreign purchases of home exports and assets create demand for home
+      currency; home purchases of imports and foreign assets create its supply.
+      Foreign demand or relative returns change; home-currency demand or supply
+      shifts; the floating rate adjusts Hypothetical scenario: holding risk and
+      expectations constant, a higher relative home interest rate attracts asset
+      purchases and can appreciate the currency. A rising risk premium may
+      offset this."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 出口
+        en: exports
+      alternatives:
+        zh-CN:
+          - 出口
+          - 外国需求或相对回报改变
+        en:
+          - exports
+          - Foreign demand or relative returns change
+    - id: mechanism-2
+      label:
+        zh-CN: 资产
+        en: assets
+      alternatives:
+        zh-CN:
+          - 资产
+          - 本币需求或供给移动
+        en:
+          - assets
+          - home-currency demand or supply shifts
+    - id: mechanism-3
+      label:
+        zh-CN: 需求
+        en: demand
+      alternatives:
+        zh-CN:
+          - 需求
+          - 浮动汇率调整
+        en:
+          - demand
+          - the floating rate adjusts
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

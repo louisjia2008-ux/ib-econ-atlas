@@ -1,0 +1,100 @@
+- id: u4-18-trade-creation-diversion-flash-1
+  knowledgePointId: u4-18-trade-creation-diversion
+  type: flashcard
+  prompt:
+    zh-CN: 解释“贸易创造与贸易转移”，并说明一个关键条件。
+    en: Explain Trade creation and trade diversion and state one important
+      condition.
+  answer:
+    zh-CN: 贸易创造以低成本成员进口替代高成本本国产出；贸易转移则以较高成本成员进口替代低成本非成员进口。
+    en: Trade creation replaces costly domestic output with cheaper member imports.
+      Trade diversion replaces cheaper non-member imports with higher-cost
+      member imports.
+  explanation:
+    zh-CN: 消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。
+    en: A lower consumer price alone does not establish better global allocation;
+      compare suppliers' real costs.
+- id: u4-18-trade-creation-diversion-mcq-1
+  knowledgePointId: u4-18-trade-creation-diversion
+  type: mcq
+  prompt:
+    zh-CN: 从成本 8 的非成员转向成本 10 的成员，属于什么？
+    en: Switching from a non-member costing eight to a member costing ten is what?
+  options:
+    - id: a
+      zh-CN: 贸易创造
+      en: Trade creation
+    - id: b
+      zh-CN: 贸易转移
+      en: Trade diversion
+    - id: c
+      zh-CN: 绝对优势自动提高
+      en: Automatically higher absolute advantage
+    - id: d
+      zh-CN: 货币贬值
+      en: Currency depreciation
+  correctOptionId: b
+  explanation:
+    zh-CN: 贸易转移。 原创假设：非成员成本 8、成员成本 10，对外税 4。入盟后免税成员价 10 低于非成员含税价 12，转向成员属于贸易转移。
+      消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。
+    en: "Trade diversion. Hypothetical scenario: a non-member costs eight and a
+      member ten; the external tariff is four. After integration, the member
+      price ten undercuts the non-member landed price twelve. Switching is trade
+      diversion. A lower consumer price alone does not establish better global
+      allocation; compare suppliers' real costs."
+- id: u4-18-trade-creation-diversion-short-1
+  knowledgePointId: u4-18-trade-creation-diversion
+  type: short-answer
+  prompt:
+    zh-CN: 解释贸易创造与贸易转移的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Trade creation and trade diversion and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 贸易创造以低成本成员进口替代高成本本国产出；贸易转移则以较高成本成员进口替代低成本非成员进口。
+      内部关税取消改变相对价格；采购来源改变；比较真实资源成本与关税收入变化 原创假设：非成员成本 8、成员成本 10，对外税 4。入盟后免税成员价 10
+      低于非成员含税价 12，转向成员属于贸易转移。
+    en: "Trade creation replaces costly domestic output with cheaper member imports.
+      Trade diversion replaces cheaper non-member imports with higher-cost
+      member imports. Removing internal tariffs changes relative prices;
+      sourcing changes; compare real resource costs and tariff revenue changes
+      Hypothetical scenario: a non-member costs eight and a member ten; the
+      external tariff is four. After integration, the member price ten undercuts
+      the non-member landed price twelve. Switching is trade diversion."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 内部关税取消改变相对价格
+        en:
+          - costs
+          - Removing internal tariffs changes relative prices
+    - id: mechanism-2
+      label:
+        zh-CN: 成员
+        en: member
+      alternatives:
+        zh-CN:
+          - 成员
+          - 采购来源改变
+        en:
+          - member
+          - sourcing changes
+    - id: mechanism-3
+      label:
+        zh-CN: 转移
+        en: diversion
+      alternatives:
+        zh-CN:
+          - 转移
+          - 比较真实资源成本与关税收入变化
+        en:
+          - diversion
+          - compare real resource costs and tariff revenue changes
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

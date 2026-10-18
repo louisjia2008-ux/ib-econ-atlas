@@ -1,0 +1,40 @@
+id: u4-27-exchange-policy-trilemma
+slug: exchange-policy-trilemma
+section: "4.5"
+level: hl
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "17"
+    section: "17.2"
+    pages:
+      - 523
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-21-floating-exchange-rate
+  - u4-22-currency-demand-supply
+  - u4-23-exchange-rate-effects
+terms:
+  - 汇率制度与政策约束
+  - Exchange regimes and policy constraints
+  - 资本流动
+  - capital mobility
+  - 固定汇率
+  - fixed exchange rate
+  - 货币政策
+  - monetary policy
+synonyms:
+  zh-CN:
+    - 资本流动
+    - 固定汇率
+    - 货币政策
+  en:
+    - capital mobility
+    - fixed exchange rate
+    - monetary policy
+diagramIds: []
+quizIds:
+  - u4-27-exchange-policy-trilemma-flash-1
+  - u4-27-exchange-policy-trilemma-mcq-1
+  - u4-27-exchange-policy-trilemma-short-1

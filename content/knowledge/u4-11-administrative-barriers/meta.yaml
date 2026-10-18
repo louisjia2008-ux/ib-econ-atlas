@@ -1,0 +1,40 @@
+id: u4-11-administrative-barriers
+slug: administrative-barriers
+section: "4.2"
+level: core
+syllabusRefs:
+  - 4.2 Types of trade protection
+textbookRefs:
+  - chapter: "14"
+    section: "14.3"
+    pages:
+      - 444
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-07-tariff
+  - u4-08-quota
+  - u4-09-production-subsidy
+terms:
+  - 行政壁垒与标准
+  - Administrative barriers and standards
+  - 合规
+  - compliance
+  - 成本
+  - costs
+  - 歧视
+  - discrimination
+synonyms:
+  zh-CN:
+    - 合规
+    - 成本
+    - 歧视
+  en:
+    - compliance
+    - costs
+    - discrimination
+diagramIds: []
+quizIds:
+  - u4-11-administrative-barriers-flash-1
+  - u4-11-administrative-barriers-mcq-1
+  - u4-11-administrative-barriers-short-1

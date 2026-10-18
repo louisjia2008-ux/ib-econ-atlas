@@ -1,0 +1,40 @@
+id: u4-05-comparative-advantage
+slug: comparative-advantage
+section: "4.1"
+level: hl
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.2"
+    pages:
+      - 438
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-01-trade-benefits
+  - u4-02-free-trade-imports
+  - u4-03-free-trade-exports
+terms:
+  - 比较优势与贸易区间
+  - Comparative advantage and the trading interval
+  - 机会成本
+  - opportunity cost
+  - 专业化
+  - specialisation
+  - 交换比率
+  - trading ratio
+synonyms:
+  zh-CN:
+    - 机会成本
+    - 专业化
+    - 交换比率
+  en:
+    - opportunity cost
+    - specialisation
+    - trading ratio
+diagramIds: []
+quizIds:
+  - u4-05-comparative-advantage-flash-1
+  - u4-05-comparative-advantage-mcq-1
+  - u4-05-comparative-advantage-short-1

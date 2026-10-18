@@ -1,0 +1,40 @@
+id: u4-06-trade-evaluation
+slug: trade-evaluation
+section: "4.1"
+level: core
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.1"
+    pages:
+      - 433
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-01-trade-benefits
+  - u4-02-free-trade-imports
+  - u4-03-free-trade-exports
+terms:
+  - 贸易收益的条件与分配
+  - Conditions and distribution of trade gains
+  - 效率
+  - efficiency
+  - 调整
+  - adjustment
+  - 分配
+  - distribution
+synonyms:
+  zh-CN:
+    - 效率
+    - 调整
+    - 分配
+  en:
+    - efficiency
+    - adjustment
+    - distribution
+diagramIds: []
+quizIds:
+  - u4-06-trade-evaluation-flash-1
+  - u4-06-trade-evaluation-mcq-1
+  - u4-06-trade-evaluation-short-1

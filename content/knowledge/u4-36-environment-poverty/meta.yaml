@@ -1,0 +1,39 @@
+id: u4-36-environment-poverty
+slug: environment-poverty
+section: "4.7"
+level: core
+syllabusRefs:
+  - 4.7 Sustainable development
+textbookRefs:
+  - chapter: "18"
+    section: "18.1"
+    pages:
+      - 540
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-35-sustainable-development
+  - u4-37-sdg-policy
+terms:
+  - 贫困、环境与共同资源
+  - Poverty, environment and common resources
+  - 贫困
+  - poverty
+  - 资源
+  - resources
+  - 生计
+  - livelihoods
+synonyms:
+  zh-CN:
+    - 贫困
+    - 资源
+    - 生计
+  en:
+    - poverty
+    - resources
+    - livelihoods
+diagramIds: []
+quizIds:
+  - u4-36-environment-poverty-flash-1
+  - u4-36-environment-poverty-mcq-1
+  - u4-36-environment-poverty-short-1

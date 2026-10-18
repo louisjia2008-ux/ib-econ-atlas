@@ -1,0 +1,106 @@
+- id: u4-05-comparative-advantage-flash-1
+  knowledgePointId: u4-05-comparative-advantage
+  type: flashcard
+  prompt:
+    zh-CN: 解释“比较优势与贸易区间”，并说明一个关键条件。
+    en: Explain Comparative advantage and the trading interval and state one
+      important condition.
+  answer:
+    zh-CN: 比较优势是较低机会成本；互利交换比率须位于双方机会成本之间，且须考虑模型假设。
+    en: Comparative advantage means lower opportunity cost. A mutually beneficial
+      trading ratio lies between the two opportunity costs, subject to model
+      assumptions.
+  explanation:
+    zh-CN: 即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。
+    en: Even an economy with absolute advantage in both goods can gain from
+      different opportunity costs; adjustment and externalities can weaken
+      gains.
+- id: u4-05-comparative-advantage-mcq-1
+  knowledgePointId: u4-05-comparative-advantage
+  type: mcq
+  prompt:
+    zh-CN: 两国 1 布成本为 2 粮和 3 粮，哪个比率可能互利？
+    en: If one cloth costs two and three grain respectively, which ratio can benefit
+      both?
+  options:
+    - id: a
+      zh-CN: 1 布换 2.5 粮
+      en: One cloth for 2.5 grain
+    - id: b
+      zh-CN: 1 布换 1 粮
+      en: One cloth for one grain
+    - id: c
+      zh-CN: 1 布换 4 粮
+      en: One cloth for four grain
+    - id: d
+      zh-CN: 机会成本相同时必有专业化收益
+      en: Equal opportunity costs guarantee specialisation gains
+  correctOptionId: a
+  explanation:
+    zh-CN: 1 布换 2.5 粮。 原创假设：A 可产 10 布或 20 粮，B 可产 6 布或 18 粮。1 布成本分别为 2 粮、3 粮；A 专业化布，按
+      1 布换 2.5 粮双方可获益。假设资源可转移、充分就业且忽略运费。
+      即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。
+    en: "One cloth for 2.5 grain. Hypothetical scenario: A can make ten cloth or
+      twenty grain; B six cloth or eighteen grain. One cloth costs two grain in
+      A and three in B. A specialises in cloth; trading at 2.5 grain per cloth
+      can benefit both. Assume mobile domestic resources, full employment and no
+      freight costs. Even an economy with absolute advantage in both goods can
+      gain from different opportunity costs; adjustment and externalities can
+      weaken gains."
+- id: u4-05-comparative-advantage-short-1
+  knowledgePointId: u4-05-comparative-advantage
+  type: short-answer
+  prompt:
+    zh-CN: 解释比较优势与贸易区间的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Comparative advantage and the trading interval and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 比较优势是较低机会成本；互利交换比率须位于双方机会成本之间，且须考虑模型假设。 计算放弃的另一商品；比较机会成本；在两者之间确定互利交换比率
+      原创假设：A 可产 10 布或 20 粮，B 可产 6 布或 18 粮。1 布成本分别为 2 粮、3 粮；A 专业化布，按 1 布换 2.5
+      粮双方可获益。假设资源可转移、充分就业且忽略运费。
+    en: "Comparative advantage means lower opportunity cost. A mutually beneficial
+      trading ratio lies between the two opportunity costs, subject to model
+      assumptions. Calculate the other good forgone; compare opportunity costs;
+      choose a trading ratio between them Hypothetical scenario: A can make ten
+      cloth or twenty grain; B six cloth or eighteen grain. One cloth costs two
+      grain in A and three in B. A specialises in cloth; trading at 2.5 grain
+      per cloth can benefit both. Assume mobile domestic resources, full
+      employment and no freight costs."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 机会成本
+        en: opportunity cost
+      alternatives:
+        zh-CN:
+          - 机会成本
+          - 计算放弃的另一商品
+        en:
+          - opportunity cost
+          - Calculate the other good forgone
+    - id: mechanism-2
+      label:
+        zh-CN: 专业化
+        en: specialisation
+      alternatives:
+        zh-CN:
+          - 专业化
+          - 比较机会成本
+        en:
+          - specialisation
+          - compare opportunity costs
+    - id: mechanism-3
+      label:
+        zh-CN: 交换比率
+        en: trading ratio
+      alternatives:
+        zh-CN:
+          - 交换比率
+          - 在两者之间确定互利交换比率
+        en:
+          - trading ratio
+          - choose a trading ratio between them
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

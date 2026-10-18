@@ -1294,6 +1294,454 @@ entries:
       en: Macroeconomic policy mixes
     pages:
       - 424
+  - id: u4-01-trade-benefits
+    section: "4.1"
+    level: core
+    title:
+      zh-CN: 贸易、专业化与竞争
+      en: Trade, specialisation and competition
+    pages:
+      - 433
+  - id: u4-02-free-trade-imports
+    section: "4.1"
+    level: core
+    title:
+      zh-CN: 小国自由贸易与进口
+      en: Free trade and imports in a small economy
+    pages:
+      - 433
+  - id: u4-03-free-trade-exports
+    section: "4.1"
+    level: core
+    title:
+      zh-CN: 小国自由贸易与出口
+      en: Free trade and exports in a small economy
+    pages:
+      - 433
+  - id: u4-04-absolute-advantage
+    section: "4.1"
+    level: hl
+    title:
+      zh-CN: 绝对优势
+      en: Absolute advantage
+    pages:
+      - 438
+  - id: u4-05-comparative-advantage
+    section: "4.1"
+    level: hl
+    title:
+      zh-CN: 比较优势与贸易区间
+      en: Comparative advantage and the trading interval
+    pages:
+      - 438
+  - id: u4-06-trade-evaluation
+    section: "4.1"
+    level: core
+    title:
+      zh-CN: 贸易收益的条件与分配
+      en: Conditions and distribution of trade gains
+    pages:
+      - 433
+  - id: u4-07-tariff
+    section: "4.2"
+    level: core
+    title:
+      zh-CN: 关税与小国福利
+      en: Tariffs and small-country welfare
+    pages:
+      - 444
+  - id: u4-08-quota
+    section: "4.2"
+    level: core
+    title:
+      zh-CN: 进口配额与配额租
+      en: Import quotas and quota rents
+    pages:
+      - 444
+  - id: u4-09-production-subsidy
+    section: "4.2"
+    level: core
+    title:
+      zh-CN: 生产补贴与进口替代
+      en: Production subsidies and import displacement
+    pages:
+      - 444
+  - id: u4-10-export-subsidy
+    section: "4.2"
+    level: hl
+    title:
+      zh-CN: 出口补贴
+      en: Export subsidies
+    pages:
+      - 444
+  - id: u4-11-administrative-barriers
+    section: "4.2"
+    level: core
+    title:
+      zh-CN: 行政壁垒与标准
+      en: Administrative barriers and standards
+    pages:
+      - 444
+  - id: u4-12-infant-industry
+    section: "4.3"
+    level: core
+    title:
+      zh-CN: 幼稚产业与战略保护
+      en: Infant industries and strategic protection
+    pages:
+      - 465
+  - id: u4-13-protection-arguments
+    section: "4.3"
+    level: core
+    title:
+      zh-CN: 就业、安全与反倾销论据
+      en: Employment, security and anti-dumping arguments
+    pages:
+      - 465
+  - id: u4-14-protection-evaluation
+    section: "4.3"
+    level: core
+    title:
+      zh-CN: 保护政策的综合评价
+      en: Evaluating protection policies
+    pages:
+      - 465
+  - id: u4-15-wto
+    section: "4.3"
+    level: core
+    title:
+      zh-CN: 世界贸易组织与合作
+      en: The WTO and trade cooperation
+    pages:
+      - 483
+  - id: u4-16-trading-blocs
+    section: "4.4"
+    level: core
+    title:
+      zh-CN: 优惠协定、自由贸易区与关税同盟
+      en: Preferential agreements, free trade areas and customs unions
+    pages:
+      - 472
+  - id: u4-17-common-market
+    section: "4.4"
+    level: core
+    title:
+      zh-CN: 共同市场与经济一体化
+      en: Common markets and economic integration
+    pages:
+      - 472
+  - id: u4-18-trade-creation-diversion
+    section: "4.4"
+    level: hl
+    title:
+      zh-CN: 贸易创造与贸易转移
+      en: Trade creation and trade diversion
+    pages:
+      - 472
+  - id: u4-19-monetary-union
+    section: "4.4"
+    level: core
+    title:
+      zh-CN: 货币联盟的收益与代价
+      en: Benefits and costs of monetary union
+    pages:
+      - 482
+  - id: u4-20-integration-evaluation
+    section: "4.4"
+    level: hl
+    title:
+      zh-CN: 一体化的动态评价
+      en: Dynamic evaluation of integration
+    pages:
+      - 472
+  - id: u4-21-floating-exchange-rate
+    section: "4.5"
+    level: core
+    title:
+      zh-CN: 浮动汇率与报价方向
+      en: Floating exchange rates and quotation
+    pages:
+      - 491
+  - id: u4-22-currency-demand-supply
+    section: "4.5"
+    level: core
+    title:
+      zh-CN: 外汇需求与供给的决定因素
+      en: Determinants of currency demand and supply
+    pages:
+      - 491
+  - id: u4-23-exchange-rate-effects
+    section: "4.5"
+    level: core
+    title:
+      zh-CN: 升贬值的经济影响
+      en: Effects of appreciation and depreciation
+    pages:
+      - 500
+  - id: u4-24-fixed-exchange-rate
+    section: "4.5"
+    level: core
+    title:
+      zh-CN: 固定汇率与储备干预
+      en: Fixed exchange rates and reserve intervention
+    pages:
+      - 504
+  - id: u4-25-managed-exchange-rate
+    section: "4.5"
+    level: core
+    title:
+      zh-CN: 管理浮动与制度比较
+      en: Managed floating and regime comparison
+    pages:
+      - 504
+  - id: u4-26-exchange-calculations
+    section: "4.5"
+    level: hl
+    title:
+      zh-CN: 汇率换算与百分比
+      en: Currency conversion and percentage changes
+    pages:
+      - 491
+  - id: u4-27-exchange-policy-trilemma
+    section: "4.5"
+    level: hl
+    title:
+      zh-CN: 汇率制度与政策约束
+      en: Exchange regimes and policy constraints
+    pages:
+      - 523
+  - id: u4-28-current-account
+    section: "4.6"
+    level: core
+    title:
+      zh-CN: 经常账户的构成
+      en: Components of the current account
+    pages:
+      - 509
+  - id: u4-29-capital-financial-account
+    section: "4.6"
+    level: core
+    title:
+      zh-CN: 资本账户与金融账户
+      en: Capital and financial accounts
+    pages:
+      - 509
+  - id: u4-30-bop-identity
+    section: "4.6"
+    level: hl
+    title:
+      zh-CN: 国际收支恒等式与符号
+      en: Balance-of-payments identity and signs
+    pages:
+      - 520
+  - id: u4-31-current-account-imbalances
+    section: "4.6"
+    level: core
+    title:
+      zh-CN: 经常账户失衡的原因与可持续性
+      en: Causes and sustainability of current-account imbalances
+    pages:
+      - 530
+  - id: u4-32-marshall-lerner
+    section: "4.6"
+    level: hl
+    title:
+      zh-CN: 马歇尔—勒纳条件
+      en: The Marshall–Lerner condition
+    pages:
+      - 530
+  - id: u4-33-j-curve
+    section: "4.6"
+    level: hl
+    title:
+      zh-CN: J 曲线与调整时滞
+      en: The J-curve and adjustment lags
+    pages:
+      - 530
+  - id: u4-34-imbalance-policies
+    section: "4.6"
+    level: hl
+    title:
+      zh-CN: 支出转换、支出减少与供给侧措施
+      en: Expenditure switching, reduction and supply policies
+    pages:
+      - 530
+  - id: u4-35-sustainable-development
+    section: "4.7"
+    level: core
+    title:
+      zh-CN: 增长、发展与可持续性
+      en: Growth, development and sustainability
+    pages:
+      - 540
+  - id: u4-36-environment-poverty
+    section: "4.7"
+    level: core
+    title:
+      zh-CN: 贫困、环境与共同资源
+      en: Poverty, environment and common resources
+    pages:
+      - 540
+  - id: u4-37-sdg-policy
+    section: "4.7"
+    level: core
+    title:
+      zh-CN: 可持续发展目标与政策权衡
+      en: Sustainable development goals and policy trade-offs
+    pages:
+      - 540
+  - id: u4-38-development-indicators
+    section: "4.8"
+    level: core
+    title:
+      zh-CN: 人均收入与 PPP 比较
+      en: Income per capita and PPP comparison
+    pages:
+      - 541
+  - id: u4-39-hdi
+    section: "4.8"
+    level: core
+    title:
+      zh-CN: 人类发展指数
+      en: The Human Development Index
+    pages:
+      - 541
+  - id: u4-40-multidimensional-poverty
+    section: "4.8"
+    level: core
+    title:
+      zh-CN: 多维贫困与不平等调整
+      en: Multidimensional poverty and inequality adjustment
+    pages:
+      - 541
+  - id: u4-41-measurement-limits
+    section: "4.8"
+    level: core
+    title:
+      zh-CN: 发展数据的可比性与局限
+      en: Comparability and limits of development data
+    pages:
+      - 541
+  - id: u4-42-poverty-cycle
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 贫困循环与资本形成
+      en: Poverty cycles and capital formation
+    pages:
+      - 564
+  - id: u4-43-human-capital-infrastructure
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 人力资本与基础设施不足
+      en: Human-capital and infrastructure gaps
+    pages:
+      - 566
+  - id: u4-44-primary-dependence
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 初级产品依赖与贸易条件
+      en: Primary-product dependence and terms of trade
+    pages:
+      - 566
+  - id: u4-45-debt-finance-barriers
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 债务、金融排斥与资本外逃
+      en: Debt, financial exclusion and capital flight
+    pages:
+      - 566
+  - id: u4-46-institutions-barriers
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 制度、冲突与社会排斥
+      en: Institutions, conflict and social exclusion
+    pages:
+      - 581
+  - id: u4-47-geography-informality
+    section: "4.9"
+    level: core
+    title:
+      zh-CN: 地理、非正规经济与多重障碍
+      en: Geography, informality and interacting barriers
+    pages:
+      - 566
+  - id: u4-48-trade-strategies
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 进口替代与出口导向
+      en: Import substitution and export promotion
+    pages:
+      - 595
+  - id: u4-49-diversification-enterprise
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 多样化与社会企业
+      en: Diversification and social enterprise
+    pages:
+      - 599
+  - id: u4-50-market-based-development
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 市场导向的发展政策
+      en: Market-based development policies
+    pages:
+      - 602
+  - id: u4-51-public-services-development
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 公共服务、再分配与发展
+      en: Public services, redistribution and development
+    pages:
+      - 606
+  - id: u4-52-fdi-mncs
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 外国直接投资与跨国公司
+      en: Foreign direct investment and multinational firms
+    pages:
+      - 611
+  - id: u4-53-aid-ngos
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 援助、非政府组织与本地参与
+      en: Aid, NGOs and local participation
+    pages:
+      - 615
+  - id: u4-54-multilateral-debt-relief
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 多边机构与债务减免
+      en: Multilateral institutions and debt relief
+    pages:
+      - 623
+  - id: u4-55-institutional-change
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 制度改革、包容性金融与赋权
+      en: Institutional reform, inclusive finance and empowerment
+    pages:
+      - 627
+  - id: u4-56-development-policy-mix
+    section: "4.10"
+    level: core
+    title:
+      zh-CN: 发展战略组合与证据评价
+      en: Development policy mixes and evidence
+    pages:
+      - 633
 releaseCounts:
   "1.1": 15
   "1.2": 8
@@ -1319,3 +1767,13 @@ releaseCounts:
   "3.5": 6
   "3.6": 7
   "3.7": 5
+  "4.1": 6
+  "4.2": 5
+  "4.3": 4
+  "4.4": 5
+  "4.5": 7
+  "4.6": 7
+  "4.7": 3
+  "4.8": 4
+  "4.9": 6
+  "4.10": 9

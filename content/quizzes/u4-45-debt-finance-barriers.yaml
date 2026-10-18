@@ -1,0 +1,102 @@
+- id: u4-45-debt-finance-barriers-flash-1
+  knowledgePointId: u4-45-debt-finance-barriers
+  type: flashcard
+  prompt:
+    zh-CN: 解释“债务、金融排斥与资本外逃”，并说明一个关键条件。
+    en: Explain Debt, financial exclusion and capital flight and state one important
+      condition.
+  answer:
+    zh-CN: 高偿债负担可挤压公共投资；缺少抵押、保险和支付服务限制家庭企业投资；资本外逃削弱国内融资。
+    en: Heavy debt service can crowd out public investment; missing collateral,
+      insurance and payments constrain private investment, while capital flight
+      weakens domestic finance.
+  explanation:
+    zh-CN: 借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。
+    en: Borrowing is not inherently harmful; compare returns, rates, maturity,
+      currency and repayment capacity.
+- id: u4-45-debt-finance-barriers-mcq-1
+  knowledgePointId: u4-45-debt-finance-barriers
+  type: mcq
+  prompt:
+    zh-CN: 何种组合最增加偿债脆弱性？
+    en: Which combination most increases debt vulnerability?
+  options:
+    - id: a
+      zh-CN: 外币债务高且本币贬值
+      en: High foreign-currency debt and home depreciation
+    - id: b
+      zh-CN: 币种匹配改善
+      en: Improved currency matching
+    - id: c
+      zh-CN: 投资回报提高
+      en: Higher investment returns
+    - id: d
+      zh-CN: 期限风险降低
+      en: Lower maturity risk
+  correctOptionId: a
+  explanation:
+    zh-CN: 外币债务高且本币贬值。 原创假设：政府外币债务本息不变，本币贬值后本币税收需覆盖更多偿付；债务重组可缓解但涉及债权人协调与未来融资。
+      借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。
+    en: "High foreign-currency debt and home depreciation. Hypothetical scenario:
+      unchanged foreign-currency debt service requires more home-currency tax
+      revenue after depreciation. Restructuring may help but involves creditor
+      coordination and future borrowing access. Borrowing is not inherently
+      harmful; compare returns, rates, maturity, currency and repayment
+      capacity."
+- id: u4-45-debt-finance-barriers-short-1
+  knowledgePointId: u4-45-debt-finance-barriers
+  type: short-answer
+  prompt:
+    zh-CN: 解释债务、金融排斥与资本外逃的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Debt, financial exclusion and capital flight and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 高偿债负担可挤压公共投资；缺少抵押、保险和支付服务限制家庭企业投资；资本外逃削弱国内融资。
+      融资约束限制项目；外币债务暴露汇率风险；偿债挤压健康教育预算
+      原创假设：政府外币债务本息不变，本币贬值后本币税收需覆盖更多偿付；债务重组可缓解但涉及债权人协调与未来融资。
+    en: "Heavy debt service can crowd out public investment; missing collateral,
+      insurance and payments constrain private investment, while capital flight
+      weakens domestic finance. Finance constraints restrict projects;
+      foreign-currency debt exposes exchange risk; debt service squeezes health
+      and education budgets Hypothetical scenario: unchanged foreign-currency
+      debt service requires more home-currency tax revenue after depreciation.
+      Restructuring may help but involves creditor coordination and future
+      borrowing access."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 融资
+        en: finance
+      alternatives:
+        zh-CN:
+          - 融资
+          - 融资约束限制项目
+        en:
+          - finance
+          - Finance constraints restrict projects
+    - id: mechanism-2
+      label:
+        zh-CN: 债务
+        en: debt
+      alternatives:
+        zh-CN:
+          - 债务
+          - 外币债务暴露汇率风险
+        en:
+          - debt
+          - foreign-currency debt exposes exchange risk
+    - id: mechanism-3
+      label:
+        zh-CN: 偿债
+        en: debt service
+      alternatives:
+        zh-CN:
+          - 偿债
+          - 偿债挤压健康教育预算
+        en:
+          - debt service
+          - debt service squeezes health and education budgets
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

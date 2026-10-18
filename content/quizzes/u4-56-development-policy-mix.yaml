@@ -1,0 +1,102 @@
+- id: u4-56-development-policy-mix-flash-1
+  knowledgePointId: u4-56-development-policy-mix
+  type: flashcard
+  prompt:
+    zh-CN: 解释“发展战略组合与证据评价”，并说明一个关键条件。
+    en: Explain Development policy mixes and evidence and state one important
+      condition.
+  answer:
+    zh-CN: 有效战略应针对主要约束，结合市场激励与公共投入，按公平、可持续性、成本和可观察结果评价。
+    en: Effective strategies target binding constraints, combine market incentives
+      with public investment, and are evaluated through equity, sustainability,
+      cost and observed outcomes.
+  explanation:
+    zh-CN: 没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。
+    en: There is no single recipe for every country; spending and announcements
+      cannot replace outcome evidence.
+- id: u4-56-development-policy-mix-mcq-1
+  knowledgePointId: u4-56-development-policy-mix
+  type: mcq
+  prompt:
+    zh-CN: 怎样最能判断战略是否有效？
+    en: How can a strategy's effectiveness best be assessed?
+  options:
+    - id: a
+      zh-CN: 只按计划支出排名
+      en: Rank only planned spending
+    - id: b
+      zh-CN: 复制他国全部政策
+      en: Copy every policy from another country
+    - id: c
+      zh-CN: 忽略机会成本
+      en: Ignore opportunity cost
+    - id: d
+      zh-CN: 结合基线、可比结果与分配影响
+      en: Combine baselines, comparable outcomes and distributional effects
+  correctOptionId: d
+  explanation:
+    zh-CN: 结合基线、可比结果与分配影响。 原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。
+      没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。
+    en: "Combine baselines, comparable outcomes and distributional effects.
+      Hypothetical scenario: export processing needs roads, power, skills and
+      customs coordination. Comparison groups or phased introduction help assess
+      effects, alongside regional and gender differences. There is no single
+      recipe for every country; spending and announcements cannot replace
+      outcome evidence."
+- id: u4-56-development-policy-mix-short-1
+  knowledgePointId: u4-56-development-policy-mix
+  type: short-answer
+  prompt:
+    zh-CN: 解释发展战略组合与证据评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Development policy mixes and evidence and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 有效战略应针对主要约束，结合市场激励与公共投入，按公平、可持续性、成本和可观察结果评价。
+      识别约束与目标；选择互补政策并明确时序；用可信结果证据修正措施
+      原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。
+    en: "Effective strategies target binding constraints, combine market incentives
+      with public investment, and are evaluated through equity, sustainability,
+      cost and observed outcomes. Identify constraints and goals; choose
+      complementary policies and sequencing; revise measures using credible
+      outcome evidence Hypothetical scenario: export processing needs roads,
+      power, skills and customs coordination. Comparison groups or phased
+      introduction help assess effects, alongside regional and gender
+      differences."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 约束
+        en: constraints
+      alternatives:
+        zh-CN:
+          - 约束
+          - 识别约束与目标
+        en:
+          - constraints
+          - Identify constraints and goals
+    - id: mechanism-2
+      label:
+        zh-CN: 政策
+        en: policies
+      alternatives:
+        zh-CN:
+          - 政策
+          - 选择互补政策并明确时序
+        en:
+          - policies
+          - choose complementary policies and sequencing
+    - id: mechanism-3
+      label:
+        zh-CN: 证据
+        en: evidence
+      alternatives:
+        zh-CN:
+          - 证据
+          - 用可信结果证据修正措施
+        en:
+          - evidence
+          - revise measures using credible outcome evidence
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

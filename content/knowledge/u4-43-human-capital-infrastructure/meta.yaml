@@ -1,0 +1,40 @@
+id: u4-43-human-capital-infrastructure
+slug: human-capital-infrastructure
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.2"
+    pages:
+      - 566
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-44-primary-dependence
+  - u4-45-debt-finance-barriers
+terms:
+  - 人力资本与基础设施不足
+  - Human-capital and infrastructure gaps
+  - 健康
+  - health
+  - 基础设施
+  - infrastructure
+  - 成本
+  - costs
+synonyms:
+  zh-CN:
+    - 健康
+    - 基础设施
+    - 成本
+  en:
+    - health
+    - infrastructure
+    - costs
+diagramIds: []
+quizIds:
+  - u4-43-human-capital-infrastructure-flash-1
+  - u4-43-human-capital-infrastructure-mcq-1
+  - u4-43-human-capital-infrastructure-short-1

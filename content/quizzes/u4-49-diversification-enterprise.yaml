@@ -1,0 +1,100 @@
+- id: u4-49-diversification-enterprise-flash-1
+  knowledgePointId: u4-49-diversification-enterprise
+  type: flashcard
+  prompt:
+    zh-CN: 解释“多样化与社会企业”，并说明一个关键条件。
+    en: Explain Diversification and social enterprise and state one important
+      condition.
+  answer:
+    zh-CN: 产业和出口多样化减少对单一收入来源的依赖；社会企业以商业活动支持社会目标，但仍面临成本和治理约束。
+    en: Diversification reduces reliance on a single income source. Social
+      enterprises use business activity to pursue social goals but still face
+      cost and governance constraints.
+  explanation:
+    zh-CN: 项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。
+    en: More projects do not necessarily diversify risk; social intent does not
+      guarantee operational or impact success.
+- id: u4-49-diversification-enterprise-mcq-1
+  knowledgePointId: u4-49-diversification-enterprise
+  type: mcq
+  prompt:
+    zh-CN: 何种多样化更能降低风险？
+    en: What diversification most reduces risk?
+  options:
+    - id: a
+      zh-CN: 收入来源受不同冲击影响
+      en: Income sources exposed to different shocks
+    - id: b
+      zh-CN: 仅更改同一商品名称
+      en: Only renaming the same commodity
+    - id: c
+      zh-CN: 所有活动依赖同一买家
+      en: Every activity depends on one buyer
+    - id: d
+      zh-CN: 完全不看需求
+      en: Ignore demand entirely
+  correctOptionId: a
+  explanation:
+    zh-CN: 收入来源受不同冲击影响。 原创假设：咖啡合作社增加加工和生态旅游，可能提高附加值并分散风险；若两者都依赖同一气候或游客市场，风险分散有限。
+      项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。
+    en: "Income sources exposed to different shocks. Hypothetical scenario: a coffee
+      cooperative adds processing and ecotourism, potentially adding value and
+      spreading risk. Diversification is limited if both remain exposed to the
+      same climate or visitor market. More projects do not necessarily diversify
+      risk; social intent does not guarantee operational or impact success."
+- id: u4-49-diversification-enterprise-short-1
+  knowledgePointId: u4-49-diversification-enterprise
+  type: short-answer
+  prompt:
+    zh-CN: 解释多样化与社会企业的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Diversification and social enterprise and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 产业和出口多样化减少对单一收入来源的依赖；社会企业以商业活动支持社会目标，但仍面临成本和治理约束。
+      开发不同市场和产品；降低高度相关的收入风险；技能和融资支持新活动
+      原创假设：咖啡合作社增加加工和生态旅游，可能提高附加值并分散风险；若两者都依赖同一气候或游客市场，风险分散有限。
+    en: "Diversification reduces reliance on a single income source. Social
+      enterprises use business activity to pursue social goals but still face
+      cost and governance constraints. Develop different products and markets;
+      reduce highly correlated revenue risks; skills and finance support new
+      activities Hypothetical scenario: a coffee cooperative adds processing and
+      ecotourism, potentially adding value and spreading risk. Diversification
+      is limited if both remain exposed to the same climate or visitor market."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 多样化
+        en: diversification
+      alternatives:
+        zh-CN:
+          - 多样化
+          - 开发不同市场和产品
+        en:
+          - diversification
+          - Develop different products and markets
+    - id: mechanism-2
+      label:
+        zh-CN: 风险
+        en: risk
+      alternatives:
+        zh-CN:
+          - 风险
+          - 降低高度相关的收入风险
+        en:
+          - risk
+          - reduce highly correlated revenue risks
+    - id: mechanism-3
+      label:
+        zh-CN: 社会目标
+        en: social goals
+      alternatives:
+        zh-CN:
+          - 社会目标
+          - 技能和融资支持新活动
+        en:
+          - social goals
+          - skills and finance support new activities
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

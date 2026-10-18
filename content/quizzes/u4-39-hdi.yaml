@@ -1,0 +1,101 @@
+- id: u4-39-hdi-flash-1
+  knowledgePointId: u4-39-hdi
+  type: flashcard
+  prompt:
+    zh-CN: 解释“人类发展指数”，并说明一个关键条件。
+    en: Explain The Human Development Index and state one important condition.
+  answer:
+    zh-CN: HDI 综合健康、教育与生活水平，使用预期寿命、预期和平均受教育年限、PPP 人均 GNI，并以几何平均组合维度指数。
+    en: HDI combines health, education and living standards using life expectancy,
+      expected and mean schooling years, and PPP GNI per capita, with a
+      geometric mean of dimension indices.
+  explanation:
+    zh-CN: HDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。
+    en: HDI does not add raw units directly and is not a comprehensive ecological or
+      political-freedom measure.
+- id: u4-39-hdi-mcq-1
+  knowledgePointId: u4-39-hdi
+  type: mcq
+  prompt:
+    zh-CN: 哪个属于 HDI 的健康指标？
+    en: Which is HDI's health indicator?
+  options:
+    - id: a
+      zh-CN: 货物出口
+      en: Goods exports
+    - id: b
+      zh-CN: 汇率波动
+      en: Exchange-rate volatility
+    - id: c
+      zh-CN: 出生时预期寿命
+      en: Life expectancy at birth
+    - id: d
+      zh-CN: 关税收入
+      en: Tariff revenue
+  correctOptionId: c
+  explanation:
+    zh-CN: 出生时预期寿命。 原创假设：甲乙收入类似，甲的寿命与教育更高，HDI 可能更高；但国平均仍掩盖性别与地区差距。 HDI
+      不是三个原始单位直接相加，也不是完整的生态或政治自由指标。
+    en: "Life expectancy at birth. Hypothetical scenario: two economies have similar
+      income but one has better longevity and education, potentially giving it
+      higher HDI. National averages still hide gender and regional gaps. HDI
+      does not add raw units directly and is not a comprehensive ecological or
+      political-freedom measure."
+- id: u4-39-hdi-short-1
+  knowledgePointId: u4-39-hdi
+  type: short-answer
+  prompt:
+    zh-CN: 解释人类发展指数的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The Human Development Index and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: HDI 综合健康、教育与生活水平，使用预期寿命、预期和平均受教育年限、PPP 人均 GNI，并以几何平均组合维度指数。
+      将各维度标准化；教育指标组成教育维度；几何平均限制单一高维度完全补偿低维度 原创假设：甲乙收入类似，甲的寿命与教育更高，HDI
+      可能更高；但国平均仍掩盖性别与地区差距。
+    en: "HDI combines health, education and living standards using life expectancy,
+      expected and mean schooling years, and PPP GNI per capita, with a
+      geometric mean of dimension indices. Normalise dimensions; combine
+      schooling indicators into education; the geometric mean limits full
+      compensation of a weak dimension by a strong one Hypothetical scenario:
+      two economies have similar income but one has better longevity and
+      education, potentially giving it higher HDI. National averages still hide
+      gender and regional gaps."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 健康
+        en: health
+      alternatives:
+        zh-CN:
+          - 健康
+          - 将各维度标准化
+        en:
+          - health
+          - Normalise dimensions
+    - id: mechanism-2
+      label:
+        zh-CN: 教育
+        en: education
+      alternatives:
+        zh-CN:
+          - 教育
+          - 教育指标组成教育维度
+        en:
+          - education
+          - combine schooling indicators into education
+    - id: mechanism-3
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 几何平均限制单一高维度完全补偿低维度
+        en:
+          - income
+          - the geometric mean limits full compensation of a weak dimension by a
+            strong one
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

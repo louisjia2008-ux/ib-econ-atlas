@@ -1,0 +1,40 @@
+id: u4-39-hdi
+slug: hdi
+section: "4.8"
+level: core
+syllabusRefs:
+  - 4.8 Measuring development
+textbookRefs:
+  - chapter: "18"
+    section: "18.2"
+    pages:
+      - 541
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-38-development-indicators
+  - u4-40-multidimensional-poverty
+  - u4-41-measurement-limits
+terms:
+  - 人类发展指数
+  - The Human Development Index
+  - 健康
+  - health
+  - 教育
+  - education
+  - 收入
+  - income
+synonyms:
+  zh-CN:
+    - 健康
+    - 教育
+    - 收入
+  en:
+    - health
+    - education
+    - income
+diagramIds: []
+quizIds:
+  - u4-39-hdi-flash-1
+  - u4-39-hdi-mcq-1
+  - u4-39-hdi-short-1

@@ -1,0 +1,40 @@
+id: u4-20-integration-evaluation
+slug: integration-evaluation
+section: "4.4"
+level: hl
+syllabusRefs:
+  - 4.4 Economic integration
+textbookRefs:
+  - chapter: "15"
+    section: "15.2"
+    pages:
+      - 472
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-16-trading-blocs
+  - u4-17-common-market
+  - u4-18-trade-creation-diversion
+terms:
+  - 一体化的动态评价
+  - Dynamic evaluation of integration
+  - 投资
+  - investment
+  - 生产率
+  - productivity
+  - 分配
+  - distribution
+synonyms:
+  zh-CN:
+    - 投资
+    - 生产率
+    - 分配
+  en:
+    - investment
+    - productivity
+    - distribution
+diagramIds: []
+quizIds:
+  - u4-20-integration-evaluation-flash-1
+  - u4-20-integration-evaluation-mcq-1
+  - u4-20-integration-evaluation-short-1

@@ -1,0 +1,40 @@
+id: u4-26-exchange-calculations
+slug: exchange-calculations
+section: "4.5"
+level: hl
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "16"
+    section: "16.1"
+    pages:
+      - 491
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-21-floating-exchange-rate
+  - u4-22-currency-demand-supply
+  - u4-23-exchange-rate-effects
+terms:
+  - 汇率换算与百分比
+  - Currency conversion and percentage changes
+  - 单位
+  - units
+  - 换算
+  - conversion
+  - 初始
+  - initial
+synonyms:
+  zh-CN:
+    - 单位
+    - 换算
+    - 初始
+  en:
+    - units
+    - conversion
+    - initial
+diagramIds: []
+quizIds:
+  - u4-26-exchange-calculations-flash-1
+  - u4-26-exchange-calculations-mcq-1
+  - u4-26-exchange-calculations-short-1

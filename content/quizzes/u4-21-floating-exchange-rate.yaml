@@ -1,0 +1,98 @@
+- id: u4-21-floating-exchange-rate-flash-1
+  knowledgePointId: u4-21-floating-exchange-rate
+  type: flashcard
+  prompt:
+    zh-CN: 解释“浮动汇率与报价方向”，并说明一个关键条件。
+    en: Explain Floating exchange rates and quotation and state one important
+      condition.
+  answer:
+    zh-CN: 汇率是一种货币以另一种货币表示的价格；以美元每本币报价时，数值上升表示本币升值。
+    en: An exchange rate is one currency's price in another. With dollars per home
+      currency unit, a rise means home-currency appreciation.
+  explanation:
+    zh-CN: 不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。
+    en: Without stating numerator and denominator, a rising rate can be misread;
+      floating-rate changes are appreciation or depreciation.
+- id: u4-21-floating-exchange-rate-mcq-1
+  knowledgePointId: u4-21-floating-exchange-rate
+  type: mcq
+  prompt:
+    zh-CN: 美元每本币从 0.4 到 0.5，发生什么？
+    en: Dollars per home unit rise from 0.4 to 0.5. What happens?
+  options:
+    - id: a
+      zh-CN: 本币升值 25%
+      en: Home currency appreciates 25%
+    - id: b
+      zh-CN: 本币贬值 25%
+      en: Home currency depreciates 25%
+    - id: c
+      zh-CN: 本币升值 20%
+      en: Home currency appreciates 20%
+    - id: d
+      zh-CN: 报价毫无意义
+      en: The quotation has no meaning
+  correctOptionId: a
+  explanation:
+    zh-CN: 本币升值 25%。 原创假设：1 本币从 0.50 美元变为 0.60 美元，本币升值 20%；倒数报价从每美元 2 本币变为约
+      1.67，百分比并不对称。 不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。
+    en: "Home currency appreciates 25%. Hypothetical scenario: one home unit rises
+      from 0.50 to 0.60 dollars, a 20% appreciation. The inverse falls from two
+      home units per dollar to about 1.67; percentage changes are not symmetric.
+      Without stating numerator and denominator, a rising rate can be misread;
+      floating-rate changes are appreciation or depreciation."
+- id: u4-21-floating-exchange-rate-short-1
+  knowledgePointId: u4-21-floating-exchange-rate
+  type: short-answer
+  prompt:
+    zh-CN: 解释浮动汇率与报价方向的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Floating exchange rates and quotation and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 汇率是一种货币以另一种货币表示的价格；以美元每本币报价时，数值上升表示本币升值。
+      先定义报价单位；外汇需求与供给交点确定汇率；比较同一报价下的新旧价格 原创假设：1 本币从 0.50 美元变为 0.60 美元，本币升值
+      20%；倒数报价从每美元 2 本币变为约 1.67，百分比并不对称。
+    en: "An exchange rate is one currency's price in another. With dollars per home
+      currency unit, a rise means home-currency appreciation. Define quotation
+      units; currency demand and supply determine equilibrium; compare prices
+      using the same quotation Hypothetical scenario: one home unit rises from
+      0.50 to 0.60 dollars, a 20% appreciation. The inverse falls from two home
+      units per dollar to about 1.67; percentage changes are not symmetric."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 报价
+        en: quotation
+      alternatives:
+        zh-CN:
+          - 报价
+          - 先定义报价单位
+        en:
+          - quotation
+          - Define quotation units
+    - id: mechanism-2
+      label:
+        zh-CN: 需求
+        en: demand
+      alternatives:
+        zh-CN:
+          - 需求
+          - 外汇需求与供给交点确定汇率
+        en:
+          - demand
+          - currency demand and supply determine equilibrium
+    - id: mechanism-3
+      label:
+        zh-CN: 升值
+        en: appreciation
+      alternatives:
+        zh-CN:
+          - 升值
+          - 比较同一报价下的新旧价格
+        en:
+          - appreciation
+          - compare prices using the same quotation
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

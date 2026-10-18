@@ -1,0 +1,99 @@
+- id: u4-53-aid-ngos-flash-1
+  knowledgePointId: u4-53-aid-ngos
+  type: flashcard
+  prompt:
+    zh-CN: 解释“援助、非政府组织与本地参与”，并说明一个关键条件。
+    en: Explain Aid, NGOs and local participation and state one important condition.
+  answer:
+    zh-CN: 人道援助应对紧急需要，发展援助支持长期能力；赠款、贷款及附带条件的援助对受援者影响不同。
+    en: Humanitarian aid addresses emergencies, while development aid supports
+      long-term capabilities. Grants, loans and tied aid have different effects
+      on recipients.
+  explanation:
+    zh-CN: 援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。
+    en: Aid is not all free money; loans create repayment obligations and tied
+      procurement may raise costs.
+- id: u4-53-aid-ngos-mcq-1
+  knowledgePointId: u4-53-aid-ngos
+  type: mcq
+  prompt:
+    zh-CN: 什么最可能提高供水援助的持续性？
+    en: What most improves the durability of water aid?
+  options:
+    - id: a
+      zh-CN: 本地维修能力和参与
+      en: Local repair capacity and participation
+    - id: b
+      zh-CN: 只举行交付仪式
+      en: Only a handover ceremony
+    - id: c
+      zh-CN: 不提供维护经费
+      en: No maintenance funding
+    - id: d
+      zh-CN: 不问居民需求
+      en: No assessment of residents' needs
+  correctOptionId: a
+  explanation:
+    zh-CN: 本地维修能力和参与。 原创假设：灾后供水赠款能救急；若只采购捐助国昂贵设备且无本地维修培训，长期效果可能有限。NGO 也需协调和问责。
+      援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。
+    en: "Local repair capacity and participation. Hypothetical scenario: emergency
+      water grants help after disaster, but expensive donor-country equipment
+      without local repair training may not last. NGOs also need coordination
+      and accountability. Aid is not all free money; loans create repayment
+      obligations and tied procurement may raise costs."
+- id: u4-53-aid-ngos-short-1
+  knowledgePointId: u4-53-aid-ngos
+  type: short-answer
+  prompt:
+    zh-CN: 解释援助、非政府组织与本地参与的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Aid, NGOs and local participation and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 人道援助应对紧急需要，发展援助支持长期能力；赠款、贷款及附带条件的援助对受援者影响不同。
+      外部资源缓解约束；项目设计影响本地所有权；问责与评估决定持续效果
+      原创假设：灾后供水赠款能救急；若只采购捐助国昂贵设备且无本地维修培训，长期效果可能有限。NGO 也需协调和问责。
+    en: "Humanitarian aid addresses emergencies, while development aid supports
+      long-term capabilities. Grants, loans and tied aid have different effects
+      on recipients. External resources relax constraints; project design shapes
+      local ownership; accountability and evaluation determine lasting effects
+      Hypothetical scenario: emergency water grants help after disaster, but
+      expensive donor-country equipment without local repair training may not
+      last. NGOs also need coordination and accountability."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 援助
+        en: aid
+      alternatives:
+        zh-CN:
+          - 援助
+          - 外部资源缓解约束
+        en:
+          - aid
+          - External resources relax constraints
+    - id: mechanism-2
+      label:
+        zh-CN: 能力
+        en: capacity
+      alternatives:
+        zh-CN:
+          - 能力
+          - 项目设计影响本地所有权
+        en:
+          - capacity
+          - project design shapes local ownership
+    - id: mechanism-3
+      label:
+        zh-CN: 问责
+        en: accountability
+      alternatives:
+        zh-CN:
+          - 问责
+          - 问责与评估决定持续效果
+        en:
+          - accountability
+          - accountability and evaluation determine lasting effects
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

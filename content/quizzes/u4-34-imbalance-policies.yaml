@@ -1,0 +1,99 @@
+- id: u4-34-imbalance-policies-flash-1
+  knowledgePointId: u4-34-imbalance-policies
+  type: flashcard
+  prompt:
+    zh-CN: 解释“支出转换、支出减少与供给侧措施”，并说明一个关键条件。
+    en: Explain Expenditure switching, reduction and supply policies and state one
+      important condition.
+  answer:
+    zh-CN: 经常账户政策可转换支出来源、减少总支出或改善供给竞争力，各有时滞和宏观目标代价。
+    en: Current-account policies can switch spending sources, reduce total
+      expenditure or improve supply competitiveness, each with lags and
+      macroeconomic trade-offs.
+  explanation:
+    zh-CN: 不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。
+    en: Do not omit the exchange-rate counterchannel or treat deficit reduction
+      through demand compression as costless.
+- id: u4-34-imbalance-policies-mcq-1
+  knowledgePointId: u4-34-imbalance-policies
+  type: mcq
+  prompt:
+    zh-CN: 哪项属于长期供给改善？
+    en: Which is a long-run supply improvement?
+  options:
+    - id: a
+      zh-CN: 只减少消费
+      en: Only reducing consumption
+    - id: b
+      zh-CN: 提高技能和物流效率
+      en: Improving skills and logistics
+    - id: c
+      zh-CN: 直接配给所有进口
+      en: Directly rationing every import
+    - id: d
+      zh-CN: 仅改变记账符号
+      en: Only changing accounting signs
+  correctOptionId: b
+  explanation:
+    zh-CN: 提高技能和物流效率。 原创假设：加息压低消费和进口可能缩小逆差，却增加失业且可能吸引资本升值；培训与物流改善较慢但可提高出口能力。
+      不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。
+    en: "Improving skills and logistics. Hypothetical scenario: higher rates may cut
+      consumption and imports but raise unemployment and attract appreciating
+      capital flows. Training and logistics take longer but can improve export
+      capacity. Do not omit the exchange-rate counterchannel or treat deficit
+      reduction through demand compression as costless."
+- id: u4-34-imbalance-policies-short-1
+  knowledgePointId: u4-34-imbalance-policies
+  type: short-answer
+  prompt:
+    zh-CN: 解释支出转换、支出减少与供给侧措施的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Expenditure switching, reduction and supply
+      policies and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 经常账户政策可转换支出来源、减少总支出或改善供给竞争力，各有时滞和宏观目标代价。 转换政策改变相对价格；紧缩减少进口需求；生产率政策改善长期竞争力
+      原创假设：加息压低消费和进口可能缩小逆差，却增加失业且可能吸引资本升值；培训与物流改善较慢但可提高出口能力。
+    en: "Current-account policies can switch spending sources, reduce total
+      expenditure or improve supply competitiveness, each with lags and
+      macroeconomic trade-offs. Switching policies alter relative prices;
+      contraction reduces import demand; productivity policy improves long-run
+      competitiveness Hypothetical scenario: higher rates may cut consumption
+      and imports but raise unemployment and attract appreciating capital flows.
+      Training and logistics take longer but can improve export capacity."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 转换
+        en: switching
+      alternatives:
+        zh-CN:
+          - 转换
+          - 转换政策改变相对价格
+        en:
+          - switching
+          - Switching policies alter relative prices
+    - id: mechanism-2
+      label:
+        zh-CN: 紧缩
+        en: contraction
+      alternatives:
+        zh-CN:
+          - 紧缩
+          - 紧缩减少进口需求
+        en:
+          - contraction
+          - contraction reduces import demand
+    - id: mechanism-3
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 生产率政策改善长期竞争力
+        en:
+          - productivity
+          - productivity policy improves long-run competitiveness
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

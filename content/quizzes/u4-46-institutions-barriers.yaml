@@ -1,0 +1,99 @@
+- id: u4-46-institutions-barriers-flash-1
+  knowledgePointId: u4-46-institutions-barriers
+  type: flashcard
+  prompt:
+    zh-CN: 解释“制度、冲突与社会排斥”，并说明一个关键条件。
+    en: Explain Institutions, conflict and social exclusion and state one important
+      condition.
+  answer:
+    zh-CN: 腐败、产权不清、冲突和歧视可增加交易风险、降低投资并限制人们参与教育和就业。
+    en: Corruption, insecure rights, conflict and discrimination can raise
+      transaction risk, discourage investment and restrict access to education
+      and jobs.
+  explanation:
+    zh-CN: 制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。
+    en: A single ranking cannot explain institutions; reform depends on history,
+      implementation capacity and local participation.
+- id: u4-46-institutions-barriers-mcq-1
+  knowledgePointId: u4-46-institutions-barriers
+  type: mcq
+  prompt:
+    zh-CN: 产权改革促进投资还需要什么？
+    en: What else is needed for property-rights reform to support investment?
+  options:
+    - id: a
+      zh-CN: 只有书面法律即可
+      en: Written law alone suffices
+    - id: b
+      zh-CN: 可信执行与可获得的司法
+      en: Credible enforcement and accessible justice
+    - id: c
+      zh-CN: 完全忽略弱势群体
+      en: Ignore excluded groups
+    - id: d
+      zh-CN: 无需市场需求
+      en: No market demand
+  correctOptionId: b
+  explanation:
+    zh-CN: 可信执行与可获得的司法。 原创假设：女性难以持有土地或取得贷款，使高回报项目无法融资；法律改革还需执行、信息和安全保障。
+      制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。
+    en: "Credible enforcement and accessible justice. Hypothetical scenario: women
+      unable to own land or obtain credit cannot finance high-return projects.
+      Legal reform also needs enforcement, information and safety. A single
+      ranking cannot explain institutions; reform depends on history,
+      implementation capacity and local participation."
+- id: u4-46-institutions-barriers-short-1
+  knowledgePointId: u4-46-institutions-barriers
+  type: short-answer
+  prompt:
+    zh-CN: 解释制度、冲突与社会排斥的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Institutions, conflict and social exclusion and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 腐败、产权不清、冲突和歧视可增加交易风险、降低投资并限制人们参与教育和就业。 规则不透明增加不确定性；排斥限制人才配置；低投资与低信任阻碍发展
+      原创假设：女性难以持有土地或取得贷款，使高回报项目无法融资；法律改革还需执行、信息和安全保障。
+    en: "Corruption, insecure rights, conflict and discrimination can raise
+      transaction risk, discourage investment and restrict access to education
+      and jobs. Opaque rules increase uncertainty; exclusion misallocates
+      talent; weak investment and trust obstruct development Hypothetical
+      scenario: women unable to own land or obtain credit cannot finance
+      high-return projects. Legal reform also needs enforcement, information and
+      safety."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 规则
+        en: rules
+      alternatives:
+        zh-CN:
+          - 规则
+          - 规则不透明增加不确定性
+        en:
+          - rules
+          - Opaque rules increase uncertainty
+    - id: mechanism-2
+      label:
+        zh-CN: 排斥
+        en: exclusion
+      alternatives:
+        zh-CN:
+          - 排斥
+          - 排斥限制人才配置
+        en:
+          - exclusion
+          - exclusion misallocates talent
+    - id: mechanism-3
+      label:
+        zh-CN: 投资
+        en: investment
+      alternatives:
+        zh-CN:
+          - 投资
+          - 低投资与低信任阻碍发展
+        en:
+          - investment
+          - weak investment and trust obstruct development
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

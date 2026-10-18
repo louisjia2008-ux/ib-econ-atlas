@@ -1,0 +1,40 @@
+id: u4-18-trade-creation-diversion
+slug: trade-creation-diversion
+section: "4.4"
+level: hl
+syllabusRefs:
+  - 4.4 Economic integration
+textbookRefs:
+  - chapter: "15"
+    section: "15.2"
+    pages:
+      - 472
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-16-trading-blocs
+  - u4-17-common-market
+  - u4-19-monetary-union
+terms:
+  - 贸易创造与贸易转移
+  - Trade creation and trade diversion
+  - 成本
+  - costs
+  - 成员
+  - member
+  - 转移
+  - diversion
+synonyms:
+  zh-CN:
+    - 成本
+    - 成员
+    - 转移
+  en:
+    - costs
+    - member
+    - diversion
+diagramIds: []
+quizIds:
+  - u4-18-trade-creation-diversion-flash-1
+  - u4-18-trade-creation-diversion-mcq-1
+  - u4-18-trade-creation-diversion-short-1

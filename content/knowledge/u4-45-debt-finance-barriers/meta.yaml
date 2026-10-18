@@ -1,0 +1,40 @@
+id: u4-45-debt-finance-barriers
+slug: debt-finance-barriers
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.2"
+    pages:
+      - 566
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-43-human-capital-infrastructure
+  - u4-44-primary-dependence
+terms:
+  - 债务、金融排斥与资本外逃
+  - Debt, financial exclusion and capital flight
+  - 融资
+  - finance
+  - 债务
+  - debt
+  - 偿债
+  - debt service
+synonyms:
+  zh-CN:
+    - 融资
+    - 债务
+    - 偿债
+  en:
+    - finance
+    - debt
+    - debt service
+diagramIds: []
+quizIds:
+  - u4-45-debt-finance-barriers-flash-1
+  - u4-45-debt-finance-barriers-mcq-1
+  - u4-45-debt-finance-barriers-short-1

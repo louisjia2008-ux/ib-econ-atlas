@@ -1,0 +1,40 @@
+id: u4-10-export-subsidy
+slug: export-subsidy
+section: "4.2"
+level: hl
+syllabusRefs:
+  - 4.2 Types of trade protection
+textbookRefs:
+  - chapter: "14"
+    section: "14.3"
+    pages:
+      - 444
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-07-tariff
+  - u4-08-quota
+  - u4-09-production-subsidy
+terms:
+  - 出口补贴
+  - Export subsidies
+  - 出口
+  - exports
+  - 补贴
+  - subsidy
+  - 消费
+  - consumption
+synonyms:
+  zh-CN:
+    - 出口
+    - 补贴
+    - 消费
+  en:
+    - exports
+    - subsidy
+    - consumption
+diagramIds: []
+quizIds:
+  - u4-10-export-subsidy-flash-1
+  - u4-10-export-subsidy-mcq-1
+  - u4-10-export-subsidy-short-1

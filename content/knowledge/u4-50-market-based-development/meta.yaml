@@ -1,0 +1,40 @@
+id: u4-50-market-based-development
+slug: market-based-development
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.3"
+    pages:
+      - 602
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-51-public-services-development
+terms:
+  - 市场导向的发展政策
+  - Market-based development policies
+  - 竞争
+  - competition
+  - 激励
+  - incentives
+  - 监管
+  - regulation
+synonyms:
+  zh-CN:
+    - 竞争
+    - 激励
+    - 监管
+  en:
+    - competition
+    - incentives
+    - regulation
+diagramIds: []
+quizIds:
+  - u4-50-market-based-development-flash-1
+  - u4-50-market-based-development-mcq-1
+  - u4-50-market-based-development-short-1

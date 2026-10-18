@@ -1,0 +1,40 @@
+id: u4-49-diversification-enterprise
+slug: diversification-enterprise
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.2"
+    pages:
+      - 599
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-50-market-based-development
+  - u4-51-public-services-development
+terms:
+  - 多样化与社会企业
+  - Diversification and social enterprise
+  - 多样化
+  - diversification
+  - 风险
+  - risk
+  - 社会目标
+  - social goals
+synonyms:
+  zh-CN:
+    - 多样化
+    - 风险
+    - 社会目标
+  en:
+    - diversification
+    - risk
+    - social goals
+diagramIds: []
+quizIds:
+  - u4-49-diversification-enterprise-flash-1
+  - u4-49-diversification-enterprise-mcq-1
+  - u4-49-diversification-enterprise-short-1

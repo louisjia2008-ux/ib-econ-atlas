@@ -1,0 +1,100 @@
+- id: u4-42-poverty-cycle-flash-1
+  knowledgePointId: u4-42-poverty-cycle
+  type: flashcard
+  prompt:
+    zh-CN: 解释“贫困循环与资本形成”，并说明一个关键条件。
+    en: Explain Poverty cycles and capital formation and state one important
+      condition.
+  answer:
+    zh-CN: 低收入可能导致低储蓄、低投资与低生产率，进而维持低收入；这是一种可能自我强化的机制而非不可改变的命运。
+    en: Low income can limit saving and investment, keeping productivity and income
+      low. This is a potentially reinforcing mechanism, not an inevitable
+      destiny.
+  explanation:
+    zh-CN: 低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。
+    en: Low saving is only one barrier; credit cannot substitute for viable
+      projects, rights and demand.
+- id: u4-42-poverty-cycle-mcq-1
+  knowledgePointId: u4-42-poverty-cycle
+  type: mcq
+  prompt:
+    zh-CN: 哪条链说明贫困循环？
+    en: Which chain illustrates a poverty cycle?
+  options:
+    - id: a
+      zh-CN: 高收入必致低寿命
+      en: High income must lower longevity
+    - id: b
+      zh-CN: 低收入→低投资→低生产率
+      en: Low income → low investment → low productivity
+    - id: c
+      zh-CN: 贷款总能消除贫困
+      en: Loans always remove poverty
+    - id: d
+      zh-CN: 储蓄必直接消失
+      en: Saving must vanish
+  correctOptionId: b
+  explanation:
+    zh-CN: 低收入→低投资→低生产率。 原创假设：农户无法承担灌溉投资，旱季低产又使下年投资更难；公共灌溉、风险保险或适当融资可打断循环。
+      低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。
+    en: "Low income → low investment → low productivity. Hypothetical scenario: a
+      farmer cannot finance irrigation, and low dry-season yields reduce next
+      year's investment capacity. Public irrigation, insurance or suitable
+      finance can interrupt the cycle. Low saving is only one barrier; credit
+      cannot substitute for viable projects, rights and demand."
+- id: u4-42-poverty-cycle-short-1
+  knowledgePointId: u4-42-poverty-cycle
+  type: short-answer
+  prompt:
+    zh-CN: 解释贫困循环与资本形成的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Poverty cycles and capital formation and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 低收入可能导致低储蓄、低投资与低生产率，进而维持低收入；这是一种可能自我强化的机制而非不可改变的命运。
+      低收入限制储蓄；资金不足抑制资本形成；低生产率维持低收入
+      原创假设：农户无法承担灌溉投资，旱季低产又使下年投资更难；公共灌溉、风险保险或适当融资可打断循环。
+    en: "Low income can limit saving and investment, keeping productivity and income
+      low. This is a potentially reinforcing mechanism, not an inevitable
+      destiny. Low income restricts saving; limited finance constrains capital
+      formation; low productivity sustains low income Hypothetical scenario: a
+      farmer cannot finance irrigation, and low dry-season yields reduce next
+      year's investment capacity. Public irrigation, insurance or suitable
+      finance can interrupt the cycle."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 收入
+        en: income
+      alternatives:
+        zh-CN:
+          - 收入
+          - 低收入限制储蓄
+        en:
+          - income
+          - Low income restricts saving
+    - id: mechanism-2
+      label:
+        zh-CN: 投资
+        en: investment
+      alternatives:
+        zh-CN:
+          - 投资
+          - 资金不足抑制资本形成
+        en:
+          - investment
+          - limited finance constrains capital formation
+    - id: mechanism-3
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 低生产率维持低收入
+        en:
+          - productivity
+          - low productivity sustains low income
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

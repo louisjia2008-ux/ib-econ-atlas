@@ -1,0 +1,99 @@
+- id: u4-20-integration-evaluation-flash-1
+  knowledgePointId: u4-20-integration-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“一体化的动态评价”，并说明一个关键条件。
+    en: Explain Dynamic evaluation of integration and state one important condition.
+  answer:
+    zh-CN: 经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。
+    en: Integration may strengthen competition, investment and scale economies.
+      Gains depend on member differences, institutional quality and trade
+      creation relative to diversion.
+  explanation:
+    zh-CN: 更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。
+    en: More intraregional trade can reflect diversion; volumes alone do not
+      establish welfare gains.
+- id: u4-20-integration-evaluation-mcq-1
+  knowledgePointId: u4-20-integration-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 哪项最能支持长期一体化收益？
+    en: What most supports long-run integration gains?
+  options:
+    - id: a
+      zh-CN: 贸易量增加就足够
+      en: Higher trade volume alone suffices
+    - id: b
+      zh-CN: 永久保护所有低效企业
+      en: Permanently protecting every inefficient firm
+    - id: c
+      zh-CN: 不需协调制度
+      en: No institutional coordination is needed
+    - id: d
+      zh-CN: 竞争与技能投资提高生产率
+      en: Competition and skill investment raise productivity
+  correctOptionId: d
+  explanation:
+    zh-CN: 竞争与技能投资提高生产率。 原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。
+      更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。
+    en: "Competition and skill investment raise productivity. Hypothetical scenario:
+      a common market attracts car investment, concentrated near ports. Evaluate
+      regional funds, skills and cross-border public goods alongside trade
+      volumes. More intraregional trade can reflect diversion; volumes alone do
+      not establish welfare gains."
+- id: u4-20-integration-evaluation-short-1
+  knowledgePointId: u4-20-integration-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释一体化的动态评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Dynamic evaluation of integration and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。
+      市场扩大吸引投资；竞争促进生产率；地区集中和政策约束改变分配
+      原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。
+    en: "Integration may strengthen competition, investment and scale economies.
+      Gains depend on member differences, institutional quality and trade
+      creation relative to diversion. A larger market attracts investment;
+      competition encourages productivity; regional concentration and policy
+      constraints alter distribution Hypothetical scenario: a common market
+      attracts car investment, concentrated near ports. Evaluate regional funds,
+      skills and cross-border public goods alongside trade volumes."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 投资
+        en: investment
+      alternatives:
+        zh-CN:
+          - 投资
+          - 市场扩大吸引投资
+        en:
+          - investment
+          - A larger market attracts investment
+    - id: mechanism-2
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 竞争促进生产率
+        en:
+          - productivity
+          - competition encourages productivity
+    - id: mechanism-3
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 地区集中和政策约束改变分配
+        en:
+          - distribution
+          - regional concentration and policy constraints alter distribution
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

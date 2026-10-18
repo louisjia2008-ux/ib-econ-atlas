@@ -3,6 +3,48 @@ import { expect, test } from "@playwright/test";
 
 const studyRoute = "/ib-econ-atlas/#/study/u1-04-scarcity";
 
+test("Unit 4 tariff diagrams and language switch fit every release viewport", async ({ page }) => {
+  await page.goto("/ib-econ-atlas/#/study/u4-07-tariff");
+  await expect(page.getByRole("heading", { level: 1, name: "关税与小国福利" })).toBeVisible();
+  await expect(page.getByRole("navigation", { name: "Breadcrumb" })).toContainText("Unit 4");
+  await expect(page.locator(".micro-diagram table")).toContainText("Qd1−Qs1");
+  await expectNoHorizontalOverflow(page);
+  await page.getByRole("button", { name: "Switch to English" }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "Tariffs and small-country welfare" })).toBeVisible();
+  await expect(page.locator(".micro-diagram table")).toContainText("Post-tariff imports");
+  await expectNoHorizontalOverflow(page);
+});
+
+test("Unit 4 first visit, cross-language search and progress persist offline", async ({ page, context }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "One context verifies Unit 4 precache and persistence.");
+  await page.goto(studyRoute);
+  await page.evaluate(async () => { await navigator.serviceWorker.ready; });
+  await page.reload();
+  await page.waitForFunction(() => Boolean(navigator.serviceWorker.controller));
+  await context.setOffline(true);
+  try {
+    await page.goto("/ib-econ-atlas/#/study/u4-33-j-curve");
+    await expect(page.getByRole("heading", { level: 1, name: "J 曲线与调整时滞" })).toBeVisible();
+    await expect(page.locator(".micro-diagram img")).toBeVisible();
+    expect(await page.locator(".micro-diagram img").evaluate((image) => (image as HTMLImageElement).naturalWidth)).toBeGreaterThan(0);
+    await page.getByRole("button", { name: "Switch to English" }).click();
+    await page.getByRole("searchbox").fill("比较优势");
+    await page.getByRole("button", { name: /Comparative advantage and the trading interval/ }).first().click();
+    await expect(page.getByRole("heading", { level: 1, name: "Comparative advantage and the trading interval" })).toBeVisible();
+    await page.getByRole("button", { name: "Select scope: Benefits of international trade", exact: true }).click();
+    await page.goto("/ib-econ-atlas/#/review");
+    await page.getByRole("button", { name: "Flashcards", exact: true }).click();
+    await page.getByRole("button", { name: "Build review session" }).click();
+    await page.getByRole("button", { name: "Show answer" }).click();
+    await page.getByRole("button", { name: "Okay", exact: true }).click();
+    await expect(page.getByText("2 / 6", { exact: true })).toBeVisible();
+    await page.goto("/ib-econ-atlas/#/progress");
+    await expect(page.locator(".stat-grid article").filter({ hasText: "Learning" }).getByRole("strong")).toHaveText("1");
+    await page.reload();
+    await expect(page.locator(".stat-grid article").filter({ hasText: "Learning" }).getByRole("strong")).toHaveText("1");
+  } finally { await context.setOffline(false); }
+});
+
 test("Unit 3 bilingual macro diagrams fit every release viewport", async ({ page }) => {
   await page.goto("/ib-econ-atlas/#/study/u3-19-macro-shocks");
   await expect(page.getByRole("heading", { level: 1, name: "需求冲击、供给冲击与滞胀" })).toBeVisible();
@@ -23,7 +65,7 @@ test("Unit 3 directory, HL filter and scoped practice compose", async ({ page },
   await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 13 · 宏观经济政策" })).toBeVisible();
   await page.getByRole("tab", { name: "考纲目录" }).click();
   await page.getByRole("button", { name: "选择范围: 财政政策", exact: true }).click();
-  await expect(page.getByText("7 / 159", { exact: true })).toBeVisible();
+  await expect(page.getByText("7 / 215", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "SL", exact: true }).click();
   await expect(page.getByRole("button", { name: "凯恩斯乘数", exact: true })).toHaveCount(0);
   await page.getByRole("button", { name: "全部 + 扩展", exact: true }).click();
@@ -86,7 +128,7 @@ test("Unit 2 directory, scope, HL filter and review compose", async ({ page }, t
   await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 2 · 竞争市场" })).toBeVisible();
   await page.getByRole("tab", { name: "考纲目录" }).click();
   await page.getByRole("button", { name: "选择范围: 需求", exact: true }).click();
-  await expect(page.getByText("5 / 159", { exact: true })).toBeVisible();
+  await expect(page.getByText("5 / 215", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "SL", exact: true }).click();
   await expect(page.getByRole("button", { name: "边际效用与消费者选择", exact: true })).toHaveCount(0);
   await page.goto("/ib-econ-atlas/#/review");
@@ -190,11 +232,11 @@ test("the global level filter applies to progress and resets an active review", 
   test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared level state.");
   await page.goto("/ib-econ-atlas/#/progress");
   const newCount = page.locator(".stat-grid article").filter({ hasText: "未学" }).getByRole("strong");
-  await expect(newCount).toHaveText("159");
+  await expect(newCount).toHaveText("215");
   await page.getByRole("button", { name: "SL", exact: true }).click();
-  await expect(newCount).toHaveText("119");
+  await expect(newCount).toHaveText("164");
   await page.getByRole("button", { name: "HL", exact: true }).click();
-  await expect(newCount).toHaveText("151");
+  await expect(newCount).toHaveText("207");
   await page.goto("/ib-econ-atlas/#/review");
   await page.getByRole("button", { name: "闪卡", exact: true }).click();
   await page.getByRole("button", { name: "生成复习题组" }).click();
@@ -218,7 +260,7 @@ test("bilingual fuzzy search, directory modes, and session scope compose", async
 
   await page.goto(studyRoute);
   await page.getByRole("button", { name: "选择范围: 经济学的本质" }).click();
-  await expect(page.getByText("15 / 159", { exact: true })).toBeVisible();
+  await expect(page.getByText("15 / 215", { exact: true })).toBeVisible();
   await page.goto("/ib-econ-atlas/#/progress");
   await expect(page.getByText("当前仅统计考试范围内的 15 个知识点。")).toBeVisible();
   await page.goto(studyRoute);

@@ -1,0 +1,95 @@
+- id: u4-03-free-trade-exports-flash-1
+  knowledgePointId: u4-03-free-trade-exports
+  type: flashcard
+  prompt:
+    zh-CN: 解释“小国自由贸易与出口”，并说明一个关键条件。
+    en: Explain Free trade and exports in a small economy and state one important
+      condition.
+  answer:
+    zh-CN: 世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。
+    en: When the world price exceeds the autarky equilibrium price, domestic supply
+      exceeds demand and the surplus is exported.
+  explanation:
+    zh-CN: 出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。
+    en: Export receipts are not pure welfare gains; compare changes in consumer and
+      producer surplus.
+- id: u4-03-free-trade-exports-mcq-1
+  knowledgePointId: u4-03-free-trade-exports
+  type: mcq
+  prompt:
+    zh-CN: Qs=80、Qd=50，出口多少？
+    en: If Qs=80 and Qd=50, what are exports?
+  options:
+    - id: a
+      zh-CN: "130"
+      en: "130"
+    - id: b
+      zh-CN: "50"
+      en: "50"
+    - id: c
+      zh-CN: "30"
+      en: "30"
+    - id: d
+      zh-CN: "80"
+      en: "80"
+  correctOptionId: c
+  explanation:
+    zh-CN: 30。 原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。
+      出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。
+    en: "30. Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50.
+      Producers gain while domestic consumers pay a higher price. Export
+      receipts are not pure welfare gains; compare changes in consumer and
+      producer surplus."
+- id: u4-03-free-trade-exports-short-1
+  knowledgePointId: u4-03-free-trade-exports
+  type: short-answer
+  prompt:
+    zh-CN: 解释小国自由贸易与出口的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Free trade and exports in a small economy and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。 较高世界价格提高生产激励；国内消费者减少购买；出口等于供给减需求 原创假设：Pw=20
+      时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。
+    en: "When the world price exceeds the autarky equilibrium price, domestic supply
+      exceeds demand and the surplus is exported. A higher world price
+      encourages production; domestic consumers buy less; exports equal supply
+      minus demand Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports
+      are 50. Producers gain while domestic consumers pay a higher price."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 世界价格
+        en: world price
+      alternatives:
+        zh-CN:
+          - 世界价格
+          - 较高世界价格提高生产激励
+        en:
+          - world price
+          - A higher world price encourages production
+    - id: mechanism-2
+      label:
+        zh-CN: 出口
+        en: exports
+      alternatives:
+        zh-CN:
+          - 出口
+          - 国内消费者减少购买
+        en:
+          - exports
+          - domestic consumers buy less
+    - id: mechanism-3
+      label:
+        zh-CN: 供给
+        en: supply
+      alternatives:
+        zh-CN:
+          - 供给
+          - 出口等于供给减需求
+        en:
+          - supply
+          - exports equal supply minus demand
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

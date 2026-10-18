@@ -25,3 +25,6 @@ output/playwright/
 .DS_Store
 *.swp
 *.swo
+
+# Local browser acceptance snapshots
+.playwright-cli/

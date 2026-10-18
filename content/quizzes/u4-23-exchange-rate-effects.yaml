@@ -1,0 +1,100 @@
+- id: u4-23-exchange-rate-effects-flash-1
+  knowledgePointId: u4-23-exchange-rate-effects
+  type: flashcard
+  prompt:
+    zh-CN: 解释“升贬值的经济影响”，并说明一个关键条件。
+    en: Explain Effects of appreciation and depreciation and state one important
+      condition.
+  answer:
+    zh-CN: 本币贬值可降低出口外币价格并提高进口本币价格，但净出口、通胀和增长效果取决于弹性、传导与产能。
+    en: Depreciation can lower foreign-currency export prices and raise
+      home-currency import prices, while net exports, inflation and growth
+      depend on elasticities, pass-through and capacity.
+  explanation:
+    zh-CN: 贬值不保证贸易余额改善，也可能提高外币债务的本币负担。
+    en: Depreciation does not guarantee a better trade balance and can raise the
+      home-currency burden of foreign-currency debt.
+- id: u4-23-exchange-rate-effects-mcq-1
+  knowledgePointId: u4-23-exchange-rate-effects
+  type: mcq
+  prompt:
+    zh-CN: 本币贬值对外币债务可能有何影响？
+    en: What can depreciation do to foreign-currency debt?
+  options:
+    - id: a
+      zh-CN: 自动取消债务
+      en: Automatically cancel it
+    - id: b
+      zh-CN: 必使进口燃料变便宜
+      en: Necessarily cheapen imported fuel
+    - id: c
+      zh-CN: 增加本币偿债负担
+      en: Increase its home-currency repayment burden
+    - id: d
+      zh-CN: 必消除通胀
+      en: Necessarily remove inflation
+  correctOptionId: c
+  explanation:
+    zh-CN: 增加本币偿债负担。 原创假设：依赖进口燃料的企业成本上升，可能左移 SRAS；同时出口订单增加可右移 AD，不能只看一个渠道。
+      贬值不保证贸易余额改善，也可能提高外币债务的本币负担。
+    en: "Increase its home-currency repayment burden. Hypothetical scenario:
+      imported fuel becomes dearer, potentially shifting SRAS left, while more
+      export orders may shift AD right. Both channels matter. Depreciation does
+      not guarantee a better trade balance and can raise the home-currency
+      burden of foreign-currency debt."
+- id: u4-23-exchange-rate-effects-short-1
+  knowledgePointId: u4-23-exchange-rate-effects
+  type: short-answer
+  prompt:
+    zh-CN: 解释升贬值的经济影响的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Effects of appreciation and depreciation and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 本币贬值可降低出口外币价格并提高进口本币价格，但净出口、通胀和增长效果取决于弹性、传导与产能。
+      本币贬值改变相对价格；出口与进口数量逐步调整；净出口和进口成本共同影响 AD 与 AS 原创假设：依赖进口燃料的企业成本上升，可能左移
+      SRAS；同时出口订单增加可右移 AD，不能只看一个渠道。
+    en: "Depreciation can lower foreign-currency export prices and raise
+      home-currency import prices, while net exports, inflation and growth
+      depend on elasticities, pass-through and capacity. Depreciation changes
+      relative prices; export and import volumes adjust gradually; net exports
+      and import costs affect AD and AS Hypothetical scenario: imported fuel
+      becomes dearer, potentially shifting SRAS left, while more export orders
+      may shift AD right. Both channels matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 贬值
+        en: depreciation
+      alternatives:
+        zh-CN:
+          - 贬值
+          - 本币贬值改变相对价格
+        en:
+          - depreciation
+          - Depreciation changes relative prices
+    - id: mechanism-2
+      label:
+        zh-CN: 进口成本
+        en: import costs
+      alternatives:
+        zh-CN:
+          - 进口成本
+          - 出口与进口数量逐步调整
+        en:
+          - import costs
+          - export and import volumes adjust gradually
+    - id: mechanism-3
+      label:
+        zh-CN: 弹性
+        en: elasticities
+      alternatives:
+        zh-CN:
+          - 弹性
+          - 净出口和进口成本共同影响 AD 与 AS
+        en:
+          - elasticities
+          - net exports and import costs affect AD and AS
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

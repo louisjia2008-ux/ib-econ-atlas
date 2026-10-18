@@ -1,0 +1,40 @@
+id: u4-55-institutional-change
+slug: institutional-change
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.8"
+    pages:
+      - 627
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 制度改革、包容性金融与赋权
+  - Institutional reform, inclusive finance and empowerment
+  - 规则
+  - rules
+  - 融资
+  - finance
+  - 参与
+  - participation
+synonyms:
+  zh-CN:
+    - 规则
+    - 融资
+    - 参与
+  en:
+    - rules
+    - finance
+    - participation
+diagramIds: []
+quizIds:
+  - u4-55-institutional-change-flash-1
+  - u4-55-institutional-change-mcq-1
+  - u4-55-institutional-change-short-1

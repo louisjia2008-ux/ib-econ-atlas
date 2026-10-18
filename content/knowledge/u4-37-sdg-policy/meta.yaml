@@ -1,0 +1,39 @@
+id: u4-37-sdg-policy
+slug: sdg-policy
+section: "4.7"
+level: core
+syllabusRefs:
+  - 4.7 Sustainable development
+textbookRefs:
+  - chapter: "18"
+    section: "18.1"
+    pages:
+      - 540
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-35-sustainable-development
+  - u4-36-environment-poverty
+terms:
+  - 可持续发展目标与政策权衡
+  - Sustainable development goals and policy trade-offs
+  - 目标
+  - goals
+  - 指标
+  - indicators
+  - 权衡
+  - trade-offs
+synonyms:
+  zh-CN:
+    - 目标
+    - 指标
+    - 权衡
+  en:
+    - goals
+    - indicators
+    - trade-offs
+diagramIds: []
+quizIds:
+  - u4-37-sdg-policy-flash-1
+  - u4-37-sdg-policy-mcq-1
+  - u4-37-sdg-policy-short-1

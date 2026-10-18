@@ -1,0 +1,41 @@
+id: u4-07-tariff
+slug: tariff
+section: "4.2"
+level: core
+syllabusRefs:
+  - 4.2 Types of trade protection
+textbookRefs:
+  - chapter: "14"
+    section: "14.3"
+    pages:
+      - 444
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-08-quota
+  - u4-09-production-subsidy
+  - u4-10-export-subsidy
+terms:
+  - 关税与小国福利
+  - Tariffs and small-country welfare
+  - 关税
+  - tariff
+  - 进口
+  - imports
+  - 税收
+  - revenue
+synonyms:
+  zh-CN:
+    - 关税
+    - 进口
+    - 税收
+  en:
+    - tariff
+    - imports
+    - revenue
+diagramIds:
+  - global-tariff
+quizIds:
+  - u4-07-tariff-flash-1
+  - u4-07-tariff-mcq-1
+  - u4-07-tariff-short-1

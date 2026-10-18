@@ -1,0 +1,101 @@
+- id: u4-47-geography-informality-flash-1
+  knowledgePointId: u4-47-geography-informality
+  type: flashcard
+  prompt:
+    zh-CN: 解释“地理、非正规经济与多重障碍”，并说明一个关键条件。
+    en: Explain Geography, informality and interacting barriers and state one
+      important condition.
+  answer:
+    zh-CN: 内陆位置、气候风险和市场距离可能提高成本；非正规就业可提供生计，却常缺社会保障、融资和统计覆盖。
+    en: Landlocked locations, climate risks and distance can raise costs. Informal
+      work provides livelihoods but often lacks protection, finance and
+      statistical coverage.
+  explanation:
+    zh-CN: 地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。
+    en: Geography is not destiny, and informal activity is not all illegal;
+      formalisation should reduce costs and offer real benefits.
+- id: u4-47-geography-informality-mcq-1
+  knowledgePointId: u4-47-geography-informality
+  type: mcq
+  prompt:
+    zh-CN: 多重障碍同时存在时应怎样选政策？
+    en: How should policies be chosen with interacting barriers?
+  options:
+    - id: a
+      zh-CN: 假设一个措施必解决全部
+      en: Assume one measure solves everything
+    - id: b
+      zh-CN: 只处罚所有小商贩
+      en: Only penalise every small trader
+    - id: c
+      zh-CN: 识别主要瓶颈和互补投入
+      en: Identify binding constraints and complementary inputs
+    - id: d
+      zh-CN: 认定地理无法改变任何结果
+      en: Assume geography prevents any improvement
+  correctOptionId: c
+  explanation:
+    zh-CN: 识别主要瓶颈和互补投入。 原创假设：内陆农户同时面临差路、洪灾和无保险，仅取消营业许可费未必解决主要瓶颈；需识别互补约束。
+      地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。
+    en: "Identify binding constraints and complementary inputs. Hypothetical
+      scenario: landlocked farmers face poor roads, floods and no insurance.
+      Removing licence fees alone may not address binding constraints; identify
+      complementary barriers. Geography is not destiny, and informal activity is
+      not all illegal; formalisation should reduce costs and offer real
+      benefits."
+- id: u4-47-geography-informality-short-1
+  knowledgePointId: u4-47-geography-informality
+  type: short-answer
+  prompt:
+    zh-CN: 解释地理、非正规经济与多重障碍的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Geography, informality and interacting barriers and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 内陆位置、气候风险和市场距离可能提高成本；非正规就业可提供生计，却常缺社会保障、融资和统计覆盖。
+      距离与风险提高交易成本；企业留在小规模非正规经营；税基与公共服务能力受限
+      原创假设：内陆农户同时面临差路、洪灾和无保险，仅取消营业许可费未必解决主要瓶颈；需识别互补约束。
+    en: "Landlocked locations, climate risks and distance can raise costs. Informal
+      work provides livelihoods but often lacks protection, finance and
+      statistical coverage. Distance and risk raise transaction costs; firms
+      remain small and informal; the tax base and public-service capacity are
+      constrained Hypothetical scenario: landlocked farmers face poor roads,
+      floods and no insurance. Removing licence fees alone may not address
+      binding constraints; identify complementary barriers."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 距离与风险提高交易成本
+        en:
+          - costs
+          - Distance and risk raise transaction costs
+    - id: mechanism-2
+      label:
+        zh-CN: 非正规
+        en: informal
+      alternatives:
+        zh-CN:
+          - 非正规
+          - 企业留在小规模非正规经营
+        en:
+          - informal
+          - firms remain small and informal
+    - id: mechanism-3
+      label:
+        zh-CN: 约束
+        en: constraints
+      alternatives:
+        zh-CN:
+          - 约束
+          - 税基与公共服务能力受限
+        en:
+          - constraints
+          - the tax base and public-service capacity are constrained
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.
