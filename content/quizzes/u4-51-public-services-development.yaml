@@ -1,0 +1,100 @@
+- id: u4-51-public-services-development-flash-1
+  knowledgePointId: u4-51-public-services-development
+  type: flashcard
+  prompt:
+    zh-CN: 解释“公共服务、再分配与发展”，并说明一个关键条件。
+    en: Explain Public services, redistribution and development and state one
+      important condition.
+  answer:
+    zh-CN: 教育、健康、基础设施和定向转移可改善能力与机会，但财政空间、服务质量和执行决定结果。
+    en: Education, health, infrastructure and targeted transfers can improve
+      capabilities and opportunities; fiscal space, service quality and
+      implementation determine outcomes.
+  explanation:
+    zh-CN: 政府支出不是自动有效，必须比较机会成本、漏损和受益群体。
+    en: Public spending is not automatically effective; assess opportunity cost,
+      leakage and beneficiaries.
+- id: u4-51-public-services-development-mcq-1
+  knowledgePointId: u4-51-public-services-development
+  type: mcq
+  prompt:
+    zh-CN: 评估教育支出应看什么？
+    en: What should be assessed for education spending?
+  options:
+    - id: a
+      zh-CN: 只看预算增加
+      en: Only budget increases
+    - id: b
+      zh-CN: 不看服务质量
+      en: Ignore service quality
+    - id: c
+      zh-CN: 学习成果、覆盖和机会成本
+      en: Learning outcomes, access and opportunity cost
+    - id: d
+      zh-CN: 只统计建筑面积
+      en: Only floor area
+  correctOptionId: c
+  explanation:
+    zh-CN: 学习成果、覆盖和机会成本。 原创假设：儿童现金补助配合附近有质量的学校，可能改善出勤；若学校缺师资，仅要求出勤会增加家庭负担。
+      政府支出不是自动有效，必须比较机会成本、漏损和受益群体。
+    en: "Learning outcomes, access and opportunity cost. Hypothetical scenario:
+      child transfers combined with accessible quality schools may improve
+      attendance. Requiring attendance where teachers are absent can burden
+      families. Public spending is not automatically effective; assess
+      opportunity cost, leakage and beneficiaries."
+- id: u4-51-public-services-development-short-1
+  knowledgePointId: u4-51-public-services-development
+  type: short-answer
+  prompt:
+    zh-CN: 解释公共服务、再分配与发展的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Public services, redistribution and development and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 教育、健康、基础设施和定向转移可改善能力与机会，但财政空间、服务质量和执行决定结果。
+      公共服务降低个人进入障碍；健康技能提高参与和生产率；公平与增长可能相互促进
+      原创假设：儿童现金补助配合附近有质量的学校，可能改善出勤；若学校缺师资，仅要求出勤会增加家庭负担。
+    en: "Education, health, infrastructure and targeted transfers can improve
+      capabilities and opportunities; fiscal space, service quality and
+      implementation determine outcomes. Services lower individual barriers;
+      health and skills improve participation and productivity; equity and
+      growth may reinforce each other Hypothetical scenario: child transfers
+      combined with accessible quality schools may improve attendance. Requiring
+      attendance where teachers are absent can burden families."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 服务
+        en: services
+      alternatives:
+        zh-CN:
+          - 服务
+          - 公共服务降低个人进入障碍
+        en:
+          - services
+          - Services lower individual barriers
+    - id: mechanism-2
+      label:
+        zh-CN: 能力
+        en: capabilities
+      alternatives:
+        zh-CN:
+          - 能力
+          - 健康技能提高参与和生产率
+        en:
+          - capabilities
+          - health and skills improve participation and productivity
+    - id: mechanism-3
+      label:
+        zh-CN: 质量
+        en: quality
+      alternatives:
+        zh-CN:
+          - 质量
+          - 公平与增长可能相互促进
+        en:
+          - quality
+          - equity and growth may reinforce each other
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

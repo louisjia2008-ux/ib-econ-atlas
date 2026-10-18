@@ -1,0 +1,99 @@
+- id: u4-35-sustainable-development-flash-1
+  knowledgePointId: u4-35-sustainable-development
+  type: flashcard
+  prompt:
+    zh-CN: 解释“增长、发展与可持续性”，并说明一个关键条件。
+    en: Explain Growth, development and sustainability and state one important
+      condition.
+  answer:
+    zh-CN: 经济发展涵盖健康、教育、机会和生活质量；可持续发展要求满足当前需要而不损害后代满足需要的能力。
+    en: Development concerns health, education, opportunity and quality of life.
+      Sustainable development meets present needs without compromising future
+      generations' ability to meet theirs.
+  explanation:
+    zh-CN: 增长可能资助发展，但并非充分条件；可持续性也包含代际公平。
+    en: Growth can finance development but is not sufficient; sustainability
+      includes intergenerational equity.
+- id: u4-35-sustainable-development-mcq-1
+  knowledgePointId: u4-35-sustainable-development
+  type: mcq
+  prompt:
+    zh-CN: GDP 增长但水源污染扩大，应补充衡量什么？
+    en: If GDP rises while water pollution worsens, what else should be measured?
+  options:
+    - id: a
+      zh-CN: 只看 GDP 总量
+      en: Only total GDP
+    - id: b
+      zh-CN: 只看出口收入
+      en: Only export receipts
+    - id: c
+      zh-CN: 健康与自然资本损失
+      en: Health and natural-capital losses
+    - id: d
+      zh-CN: 不需考虑未来
+      en: No need to consider the future
+  correctOptionId: c
+  explanation:
+    zh-CN: 健康与自然资本损失。 原创假设：采矿提高 GDP，但污染水源并挤压农业，不能只用产出增长判断发展；需衡量健康、收入分配和生态损失。
+      增长可能资助发展，但并非充分条件；可持续性也包含代际公平。
+    en: "Health and natural-capital losses. Hypothetical scenario: mining raises GDP
+      but pollutes water and harms farming. Evaluate health, distribution and
+      ecological losses alongside output. Growth can finance development but is
+      not sufficient; sustainability includes intergenerational equity."
+- id: u4-35-sustainable-development-short-1
+  knowledgePointId: u4-35-sustainable-development
+  type: short-answer
+  prompt:
+    zh-CN: 解释增长、发展与可持续性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Growth, development and sustainability and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 经济发展涵盖健康、教育、机会和生活质量；可持续发展要求满足当前需要而不损害后代满足需要的能力。
+      产出增长扩大可用资源；分配与公共服务影响能力；自然资本保护维持未来选择 原创假设：采矿提高
+      GDP，但污染水源并挤压农业，不能只用产出增长判断发展；需衡量健康、收入分配和生态损失。
+    en: "Development concerns health, education, opportunity and quality of life.
+      Sustainable development meets present needs without compromising future
+      generations' ability to meet theirs. Output growth expands available
+      resources; distribution and public services shape capabilities;
+      natural-capital protection preserves future options Hypothetical scenario:
+      mining raises GDP but pollutes water and harms farming. Evaluate health,
+      distribution and ecological losses alongside output."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 发展
+        en: development
+      alternatives:
+        zh-CN:
+          - 发展
+          - 产出增长扩大可用资源
+        en:
+          - development
+          - Output growth expands available resources
+    - id: mechanism-2
+      label:
+        zh-CN: 自然资本
+        en: natural capital
+      alternatives:
+        zh-CN:
+          - 自然资本
+          - 分配与公共服务影响能力
+        en:
+          - natural capital
+          - distribution and public services shape capabilities
+    - id: mechanism-3
+      label:
+        zh-CN: 后代
+        en: future generations
+      alternatives:
+        zh-CN:
+          - 后代
+          - 自然资本保护维持未来选择
+        en:
+          - future generations
+          - natural-capital protection preserves future options
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

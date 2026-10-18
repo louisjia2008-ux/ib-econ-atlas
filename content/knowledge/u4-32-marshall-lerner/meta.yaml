@@ -1,0 +1,40 @@
+id: u4-32-marshall-lerner
+slug: marshall-lerner
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.4"
+    pages:
+      - 530
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - 马歇尔—勒纳条件
+  - The Marshall–Lerner condition
+  - 贬值
+  - depreciation
+  - 弹性
+  - elasticities
+  - 大于1
+  - greater than one
+synonyms:
+  zh-CN:
+    - 贬值
+    - 弹性
+    - 大于1
+  en:
+    - depreciation
+    - elasticities
+    - greater than one
+diagramIds: []
+quizIds:
+  - u4-32-marshall-lerner-flash-1
+  - u4-32-marshall-lerner-mcq-1
+  - u4-32-marshall-lerner-short-1

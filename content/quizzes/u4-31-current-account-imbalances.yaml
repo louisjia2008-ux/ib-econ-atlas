@@ -1,0 +1,103 @@
+- id: u4-31-current-account-imbalances-flash-1
+  knowledgePointId: u4-31-current-account-imbalances
+  type: flashcard
+  prompt:
+    zh-CN: 解释“经常账户失衡的原因与可持续性”，并说明一个关键条件。
+    en: Explain Causes and sustainability of current-account imbalances and state
+      one important condition.
+  answer:
+    zh-CN: 经常账户逆差可能反映投资进口、竞争力不足或内需强劲；其可持续性取决于融资结构、偿债能力与资金用途。
+    en: A current deficit may reflect investment imports, weak competitiveness or
+      strong domestic demand. Sustainability depends on financing structure,
+      repayment capacity and how funds are used.
+  explanation:
+    zh-CN: 逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。
+    en: Deficits are not automatically bad, nor surpluses always good; compare size,
+      maturity, currency and structure.
+- id: u4-31-current-account-imbalances-mcq-1
+  knowledgePointId: u4-31-current-account-imbalances
+  type: mcq
+  prompt:
+    zh-CN: 哪种情况通常增加逆差融资脆弱性？
+    en: What normally increases deficit-financing vulnerability?
+  options:
+    - id: a
+      zh-CN: 高回报生产性投资本身
+      en: Productive high-return investment alone
+    - id: b
+      zh-CN: 期限延长本身
+      en: Longer maturity alone
+    - id: c
+      zh-CN: 短期外币债务依赖
+      en: Dependence on short-term foreign-currency debt
+    - id: d
+      zh-CN: 出口多样化本身
+      en: Export diversification alone
+  correctOptionId: c
+  explanation:
+    zh-CN: 短期外币债务依赖。 原创假设：设备进口支持未来出口，与短期外币借款资助消费具有不同风险；长期直接投资通常比易撤出的短期融资更稳定。
+      逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。
+    en: "Dependence on short-term foreign-currency debt. Hypothetical scenario:
+      machinery imports supporting future exports differ from short-term
+      foreign-currency borrowing funding consumption. Long-term direct
+      investment is generally more stable than easily reversed short-term
+      finance. Deficits are not automatically bad, nor surpluses always good;
+      compare size, maturity, currency and structure."
+- id: u4-31-current-account-imbalances-short-1
+  knowledgePointId: u4-31-current-account-imbalances
+  type: short-answer
+  prompt:
+    zh-CN: 解释经常账户失衡的原因与可持续性的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Causes and sustainability of current-account
+      imbalances and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 经常账户逆差可能反映投资进口、竞争力不足或内需强劲；其可持续性取决于融资结构、偿债能力与资金用途。
+      进口或收入支付超过相应收入；外部融资或储备变化对应缺口；未来收益与融资稳定性决定风险
+      原创假设：设备进口支持未来出口，与短期外币借款资助消费具有不同风险；长期直接投资通常比易撤出的短期融资更稳定。
+    en: "A current deficit may reflect investment imports, weak competitiveness or
+      strong domestic demand. Sustainability depends on financing structure,
+      repayment capacity and how funds are used. Imports or income payments
+      exceed receipts; external financing or reserves correspond to the gap;
+      future returns and financing stability determine risks Hypothetical
+      scenario: machinery imports supporting future exports differ from
+      short-term foreign-currency borrowing funding consumption. Long-term
+      direct investment is generally more stable than easily reversed short-term
+      finance."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 融资
+        en: financing
+      alternatives:
+        zh-CN:
+          - 融资
+          - 进口或收入支付超过相应收入
+        en:
+          - financing
+          - Imports or income payments exceed receipts
+    - id: mechanism-2
+      label:
+        zh-CN: 可持续性
+        en: sustainability
+      alternatives:
+        zh-CN:
+          - 可持续性
+          - 外部融资或储备变化对应缺口
+        en:
+          - sustainability
+          - external financing or reserves correspond to the gap
+    - id: mechanism-3
+      label:
+        zh-CN: 债务
+        en: debt
+      alternatives:
+        zh-CN:
+          - 债务
+          - 未来收益与融资稳定性决定风险
+        en:
+          - debt
+          - future returns and financing stability determine risks
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

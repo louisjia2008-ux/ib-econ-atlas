@@ -1,0 +1,99 @@
+- id: u4-16-trading-blocs-flash-1
+  knowledgePointId: u4-16-trading-blocs
+  type: flashcard
+  prompt:
+    zh-CN: 解释“优惠协定、自由贸易区与关税同盟”，并说明一个关键条件。
+    en: Explain Preferential agreements, free trade areas and customs unions and
+      state one important condition.
+  answer:
+    zh-CN: 优惠协定降低部分成员壁垒；自由贸易区取消成员间贸易壁垒但保留各自对外关税；关税同盟另有共同对外关税。
+    en: Preferential agreements reduce selected member barriers. Free trade areas
+      remove internal barriers while retaining separate external tariffs;
+      customs unions add a common external tariff.
+  explanation:
+    zh-CN: 内部自由贸易本身不意味着共同对外关税或共同货币。
+    en: Internal free trade alone does not imply a common external tariff or
+      currency.
+- id: u4-16-trading-blocs-mcq-1
+  knowledgePointId: u4-16-trading-blocs
+  type: mcq
+  prompt:
+    zh-CN: 自由贸易区与关税同盟的关键差别是什么？
+    en: What chiefly distinguishes a customs union from a free trade area?
+  options:
+    - id: a
+      zh-CN: 必须共同货币
+      en: A compulsory common currency
+    - id: b
+      zh-CN: 必须相同人口
+      en: Identical populations
+    - id: c
+      zh-CN: 禁止内部贸易
+      en: Banning internal trade
+    - id: d
+      zh-CN: 共同对外关税
+      en: A common external tariff
+  correctOptionId: d
+  explanation:
+    zh-CN: 共同对外关税。 原创假设：A 与 B 内部免税但对 C 税率不同，属于自由贸易区；原产地规则防止经最低税率成员转运规避关税。
+      内部自由贸易本身不意味着共同对外关税或共同货币。
+    en: "A common external tariff. Hypothetical scenario: A and B trade duty-free
+      but tax C differently. This is a free trade area; rules of origin limit
+      tariff circumvention through the lowest-tariff member. Internal free trade
+      alone does not imply a common external tariff or currency."
+- id: u4-16-trading-blocs-short-1
+  knowledgePointId: u4-16-trading-blocs
+  type: short-answer
+  prompt:
+    zh-CN: 解释优惠协定、自由贸易区与关税同盟的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Preferential agreements, free trade areas and
+      customs unions and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 优惠协定降低部分成员壁垒；自由贸易区取消成员间贸易壁垒但保留各自对外关税；关税同盟另有共同对外关税。
+      成员降低内部壁垒；自由贸易区需原产地规则；共同对外关税形成关税同盟 原创假设：A 与 B 内部免税但对 C
+      税率不同，属于自由贸易区；原产地规则防止经最低税率成员转运规避关税。
+    en: "Preferential agreements reduce selected member barriers. Free trade areas
+      remove internal barriers while retaining separate external tariffs;
+      customs unions add a common external tariff. Members lower internal
+      barriers; free trade areas need rules of origin; a common external tariff
+      creates a customs union Hypothetical scenario: A and B trade duty-free but
+      tax C differently. This is a free trade area; rules of origin limit tariff
+      circumvention through the lowest-tariff member."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 内部
+        en: internal
+      alternatives:
+        zh-CN:
+          - 内部
+          - 成员降低内部壁垒
+        en:
+          - internal
+          - Members lower internal barriers
+    - id: mechanism-2
+      label:
+        zh-CN: 对外关税
+        en: external tariff
+      alternatives:
+        zh-CN:
+          - 对外关税
+          - 自由贸易区需原产地规则
+        en:
+          - external tariff
+          - free trade areas need rules of origin
+    - id: mechanism-3
+      label:
+        zh-CN: 原产地
+        en: origin
+      alternatives:
+        zh-CN:
+          - 原产地
+          - 共同对外关税形成关税同盟
+        en:
+          - origin
+          - a common external tariff creates a customs union
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,100 @@
+- id: u4-40-multidimensional-poverty-flash-1
+  knowledgePointId: u4-40-multidimensional-poverty
+  type: flashcard
+  prompt:
+    zh-CN: 解释“多维贫困与不平等调整”，并说明一个关键条件。
+    en: Explain Multidimensional poverty and inequality adjustment and state one
+      important condition.
+  answer:
+    zh-CN: 多维贫困指标结合健康、教育和生活条件的重叠剥夺；不平等调整的 HDI 则反映各维度分配差异。
+    en: Multidimensional poverty measures overlapping deprivations in health,
+      education and living conditions; inequality-adjusted HDI reflects
+      distribution within dimensions.
+  explanation:
+    zh-CN: 不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。
+    en: Different indicators answer different questions; multidimensional poverty,
+      Gini and HDI are not interchangeable.
+- id: u4-40-multidimensional-poverty-mcq-1
+  knowledgePointId: u4-40-multidimensional-poverty
+  type: mcq
+  prompt:
+    zh-CN: 为何要补充多维贫困指标？
+    en: Why add multidimensional poverty indicators?
+  options:
+    - id: a
+      zh-CN: 收入完全无用
+      en: Income is entirely useless
+    - id: b
+      zh-CN: 所有权重天然唯一
+      en: Weights are uniquely predetermined
+    - id: c
+      zh-CN: 可以不采集数据
+      en: No data collection is needed
+    - id: d
+      zh-CN: 收入未显示所有基本服务剥夺
+      en: Income misses some basic-service deprivations
+  correctOptionId: d
+  explanation:
+    zh-CN: 收入未显示所有基本服务剥夺。 原创假设：收入略高于贫困线的家庭仍可能缺安全饮水和教育；只用收入会漏掉这些剥夺。指标权重会影响排名。
+      不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。
+    en: "Income misses some basic-service deprivations. Hypothetical scenario: a
+      household just above an income poverty line may still lack safe water and
+      schooling. Income alone misses these deprivations, while indicator weights
+      affect rankings. Different indicators answer different questions;
+      multidimensional poverty, Gini and HDI are not interchangeable."
+- id: u4-40-multidimensional-poverty-short-1
+  knowledgePointId: u4-40-multidimensional-poverty
+  type: short-answer
+  prompt:
+    zh-CN: 解释多维贫困与不平等调整的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Multidimensional poverty and inequality adjustment
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 多维贫困指标结合健康、教育和生活条件的重叠剥夺；不平等调整的 HDI 则反映各维度分配差异。
+      识别家庭剥夺；按明确权重和阈值分类；结合发生率与强度判断贫困
+      原创假设：收入略高于贫困线的家庭仍可能缺安全饮水和教育；只用收入会漏掉这些剥夺。指标权重会影响排名。
+    en: "Multidimensional poverty measures overlapping deprivations in health,
+      education and living conditions; inequality-adjusted HDI reflects
+      distribution within dimensions. Identify household deprivations; classify
+      using explicit weights and thresholds; combine incidence and intensity to
+      assess poverty Hypothetical scenario: a household just above an income
+      poverty line may still lack safe water and schooling. Income alone misses
+      these deprivations, while indicator weights affect rankings."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 剥夺
+        en: deprivations
+      alternatives:
+        zh-CN:
+          - 剥夺
+          - 识别家庭剥夺
+        en:
+          - deprivations
+          - Identify household deprivations
+    - id: mechanism-2
+      label:
+        zh-CN: 发生率
+        en: incidence
+      alternatives:
+        zh-CN:
+          - 发生率
+          - 按明确权重和阈值分类
+        en:
+          - incidence
+          - classify using explicit weights and thresholds
+    - id: mechanism-3
+      label:
+        zh-CN: 强度
+        en: intensity
+      alternatives:
+        zh-CN:
+          - 强度
+          - 结合发生率与强度判断贫困
+        en:
+          - intensity
+          - combine incidence and intensity to assess poverty
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

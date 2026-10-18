@@ -1,0 +1,101 @@
+- id: u4-48-trade-strategies-flash-1
+  knowledgePointId: u4-48-trade-strategies
+  type: flashcard
+  prompt:
+    zh-CN: 解释“进口替代与出口导向”，并说明一个关键条件。
+    en: Explain Import substitution and export promotion and state one important
+      condition.
+  answer:
+    zh-CN: 进口替代扶持本地生产替代进口；出口导向帮助企业进入国际市场，两者的成效取决于竞争、学习和政策纪律。
+    en: Import substitution supports domestic production replacing imports; export
+      promotion helps firms reach world markets. Outcomes depend on competition,
+      learning and policy discipline.
+  explanation:
+    zh-CN: 两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。
+    en: These are not mutually exclusive labels; instruments, exit rules and sector
+      conditions matter.
+- id: u4-48-trade-strategies-mcq-1
+  knowledgePointId: u4-48-trade-strategies
+  type: mcq
+  prompt:
+    zh-CN: 哪项能降低进口替代的长期低效风险？
+    en: What can reduce long-run inefficiency under import substitution?
+  options:
+    - id: a
+      zh-CN: 永久无条件保护
+      en: Permanent unconditional protection
+    - id: b
+      zh-CN: 禁止所有技术进口
+      en: Ban all technology imports
+    - id: c
+      zh-CN: 不衡量成本
+      en: Never measure costs
+    - id: d
+      zh-CN: 绩效条件和明确退出机制
+      en: Performance conditions and a credible exit
+  correctOptionId: d
+  explanation:
+    zh-CN: 绩效条件和明确退出机制。 原创假设：关税扶持小市场汽车业可能限制规模；出口支持若要求绩效并改善物流，可保留竞争压力，但也暴露于外需波动。
+      两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。
+    en: "Performance conditions and a credible exit. Hypothetical scenario:
+      tariff-supported car production in a small market may lack scale. Export
+      support tied to performance and logistics can preserve competition but
+      exposes firms to world-demand volatility. These are not mutually exclusive
+      labels; instruments, exit rules and sector conditions matter."
+- id: u4-48-trade-strategies-short-1
+  knowledgePointId: u4-48-trade-strategies
+  type: short-answer
+  prompt:
+    zh-CN: 解释进口替代与出口导向的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Import substitution and export promotion and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 进口替代扶持本地生产替代进口；出口导向帮助企业进入国际市场，两者的成效取决于竞争、学习和政策纪律。
+      选择产业与政策工具；市场与学习激励影响成本；出口收入或进口节约支持资本品需求
+      原创假设：关税扶持小市场汽车业可能限制规模；出口支持若要求绩效并改善物流，可保留竞争压力，但也暴露于外需波动。
+    en: "Import substitution supports domestic production replacing imports; export
+      promotion helps firms reach world markets. Outcomes depend on competition,
+      learning and policy discipline. Choose sectors and instruments; market and
+      learning incentives affect costs; export earnings or import savings
+      support capital imports Hypothetical scenario: tariff-supported car
+      production in a small market may lack scale. Export support tied to
+      performance and logistics can preserve competition but exposes firms to
+      world-demand volatility."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 进口替代
+        en: import substitution
+      alternatives:
+        zh-CN:
+          - 进口替代
+          - 选择产业与政策工具
+        en:
+          - import substitution
+          - Choose sectors and instruments
+    - id: mechanism-2
+      label:
+        zh-CN: 出口
+        en: exports
+      alternatives:
+        zh-CN:
+          - 出口
+          - 市场与学习激励影响成本
+        en:
+          - exports
+          - market and learning incentives affect costs
+    - id: mechanism-3
+      label:
+        zh-CN: 竞争
+        en: competition
+      alternatives:
+        zh-CN:
+          - 竞争
+          - 出口收入或进口节约支持资本品需求
+        en:
+          - competition
+          - export earnings or import savings support capital imports
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,100 @@
+- id: u4-38-development-indicators-flash-1
+  knowledgePointId: u4-38-development-indicators
+  type: flashcard
+  prompt:
+    zh-CN: 解释“人均收入与 PPP 比较”，并说明一个关键条件。
+    en: Explain Income per capita and PPP comparison and state one important
+      condition.
+  answer:
+    zh-CN: 人均 GNI 衡量平均居民收入，PPP 调整价格水平差异；两者都不能充分揭示分配、公共服务或环境质量。
+    en: GNI per capita measures average resident income; PPP adjusts for price-level
+      differences. Neither fully captures distribution, public services or
+      environmental quality.
+  explanation:
+    zh-CN: PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。
+    en: PPP is not a tradable market exchange rate; average income is not
+      necessarily a typical household's income.
+- id: u4-38-development-indicators-mcq-1
+  knowledgePointId: u4-38-development-indicators
+  type: mcq
+  prompt:
+    zh-CN: PPP 调整主要解决什么问题？
+    en: What does PPP adjustment chiefly address?
+  options:
+    - id: a
+      zh-CN: 自动消除不平等
+      en: Automatically eliminating inequality
+    - id: b
+      zh-CN: 跨国价格水平差异
+      en: Cross-country price-level differences
+    - id: c
+      zh-CN: 使所有寿命相等
+      en: Equalising all lifespans
+    - id: d
+      zh-CN: 衡量全部污染
+      en: Measuring all pollution
+  correctOptionId: b
+  explanation:
+    zh-CN: 跨国价格水平差异。 原创假设：A 与 B 汇率换算收入相同，但 A 的基本生活篮子更便宜，PPP 比较可能显示 A 购买力更高；仍需看地区差距。
+      PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。
+    en: "Cross-country price-level differences. Hypothetical scenario: A and B have
+      equal exchange-rate-converted income, but basic goods are cheaper in A.
+      PPP may show greater purchasing power in A; regional inequality still
+      matters. PPP is not a tradable market exchange rate; average income is not
+      necessarily a typical household's income."
+- id: u4-38-development-indicators-short-1
+  knowledgePointId: u4-38-development-indicators
+  type: short-answer
+  prompt:
+    zh-CN: 解释人均收入与 PPP 比较的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Income per capita and PPP comparison and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 人均 GNI 衡量平均居民收入，PPP 调整价格水平差异；两者都不能充分揭示分配、公共服务或环境质量。
+      总收入除以人口；按购买力调整跨国可比性；用其他指标补充平均数局限 原创假设：A 与 B 汇率换算收入相同，但 A 的基本生活篮子更便宜，PPP
+      比较可能显示 A 购买力更高；仍需看地区差距。
+    en: "GNI per capita measures average resident income; PPP adjusts for
+      price-level differences. Neither fully captures distribution, public
+      services or environmental quality. Divide total income by population;
+      adjust purchasing power for cross-country comparison; add indicators to
+      address average-income limits Hypothetical scenario: A and B have equal
+      exchange-rate-converted income, but basic goods are cheaper in A. PPP may
+      show greater purchasing power in A; regional inequality still matters."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 人均
+        en: per capita
+      alternatives:
+        zh-CN:
+          - 人均
+          - 总收入除以人口
+        en:
+          - per capita
+          - Divide total income by population
+    - id: mechanism-2
+      label:
+        zh-CN: 价格水平
+        en: price levels
+      alternatives:
+        zh-CN:
+          - 价格水平
+          - 按购买力调整跨国可比性
+        en:
+          - price levels
+          - adjust purchasing power for cross-country comparison
+    - id: mechanism-3
+      label:
+        zh-CN: 购买力
+        en: purchasing power
+      alternatives:
+        zh-CN:
+          - 购买力
+          - 用其他指标补充平均数局限
+        en:
+          - purchasing power
+          - add indicators to address average-income limits
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

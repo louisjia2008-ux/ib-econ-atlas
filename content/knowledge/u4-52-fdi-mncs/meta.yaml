@@ -1,0 +1,40 @@
+id: u4-52-fdi-mncs
+slug: fdi-mncs
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.5"
+    pages:
+      - 611
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 外国直接投资与跨国公司
+  - Foreign direct investment and multinational firms
+  - 资本
+  - capital
+  - 技术
+  - technology
+  - 联系
+  - linkages
+synonyms:
+  zh-CN:
+    - 资本
+    - 技术
+    - 联系
+  en:
+    - capital
+    - technology
+    - linkages
+diagramIds: []
+quizIds:
+  - u4-52-fdi-mncs-flash-1
+  - u4-52-fdi-mncs-mcq-1
+  - u4-52-fdi-mncs-short-1

@@ -1,0 +1,100 @@
+- id: u4-29-capital-financial-account-flash-1
+  knowledgePointId: u4-29-capital-financial-account
+  type: flashcard
+  prompt:
+    zh-CN: 解释“资本账户与金融账户”，并说明一个关键条件。
+    en: Explain Capital and financial accounts and state one important condition.
+  answer:
+    zh-CN: 资本账户记录资本转移及非生产非金融资产交易；金融账户记录跨境金融资产与负债交易，包括直接投资、证券投资、其他投资和储备。
+    en: The capital account records capital transfers and non-produced non-financial
+      assets. The financial account records cross-border asset and liability
+      transactions, including direct, portfolio, other investment and reserves.
+  explanation:
+    zh-CN: 日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。
+    en: Most everyday capital inflows belong to the financial account; the capital
+      account is not a catch-all for investment.
+- id: u4-29-capital-financial-account-mcq-1
+  knowledgePointId: u4-29-capital-financial-account
+  type: mcq
+  prompt:
+    zh-CN: 偿还海外贷款本金记在哪里？
+    en: Where is foreign loan principal repayment recorded?
+  options:
+    - id: a
+      zh-CN: 金融账户
+      en: The financial account
+    - id: b
+      zh-CN: 货物出口
+      en: Goods exports
+    - id: c
+      zh-CN: 二次收入
+      en: Secondary income
+    - id: d
+      zh-CN: 国内消费 CPI
+      en: Domestic consumption CPI
+  correctOptionId: a
+  explanation:
+    zh-CN: 金融账户。 原创假设：外国企业建厂属直接投资，居民买外国债券属证券投资；贷款本金偿还是金融交易，利息是初次收入。
+      日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。
+    en: "The financial account. Hypothetical scenario: a foreign firm building a
+      factory is direct investment and residents buying foreign bonds is
+      portfolio investment. Loan principal repayment is financial, while
+      interest is primary income. Most everyday capital inflows belong to the
+      financial account; the capital account is not a catch-all for investment."
+- id: u4-29-capital-financial-account-short-1
+  knowledgePointId: u4-29-capital-financial-account
+  type: short-answer
+  prompt:
+    zh-CN: 解释资本账户与金融账户的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Capital and financial accounts and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 资本账户记录资本转移及非生产非金融资产交易；金融账户记录跨境金融资产与负债交易，包括直接投资、证券投资、其他投资和储备。
+      跨境融资改变资产负债；按投资性质分类；与经常项目形成对应记录
+      原创假设：外国企业建厂属直接投资，居民买外国债券属证券投资；贷款本金偿还是金融交易，利息是初次收入。
+    en: "The capital account records capital transfers and non-produced
+      non-financial assets. The financial account records cross-border asset and
+      liability transactions, including direct, portfolio, other investment and
+      reserves. Cross-border finance changes assets and liabilities; classify
+      the type of investment; record counterparts to current transactions
+      Hypothetical scenario: a foreign firm building a factory is direct
+      investment and residents buying foreign bonds is portfolio investment.
+      Loan principal repayment is financial, while interest is primary income."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 资产
+        en: assets
+      alternatives:
+        zh-CN:
+          - 资产
+          - 跨境融资改变资产负债
+        en:
+          - assets
+          - Cross-border finance changes assets and liabilities
+    - id: mechanism-2
+      label:
+        zh-CN: 负债
+        en: liabilities
+      alternatives:
+        zh-CN:
+          - 负债
+          - 按投资性质分类
+        en:
+          - liabilities
+          - classify the type of investment
+    - id: mechanism-3
+      label:
+        zh-CN: 金融账户
+        en: financial account
+      alternatives:
+        zh-CN:
+          - 金融账户
+          - 与经常项目形成对应记录
+        en:
+          - financial account
+          - record counterparts to current transactions
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

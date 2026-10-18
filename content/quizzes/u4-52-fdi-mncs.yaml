@@ -1,0 +1,100 @@
+- id: u4-52-fdi-mncs-flash-1
+  knowledgePointId: u4-52-fdi-mncs
+  type: flashcard
+  prompt:
+    zh-CN: 解释“外国直接投资与跨国公司”，并说明一个关键条件。
+    en: Explain Foreign direct investment and multinational firms and state one
+      important condition.
+  answer:
+    zh-CN: FDI 可带来资本、就业、技术和出口联系，也可能伴随利润汇出、市场势力、环境成本与有限本地联系。
+    en: FDI can bring capital, jobs, technology and export linkages, alongside
+      profit repatriation, market power, environmental costs and weak local
+      linkages.
+  explanation:
+    zh-CN: FDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。
+    en: FDI inflow is not current-account income; later repatriated profits normally
+      affect primary income.
+- id: u4-52-fdi-mncs-mcq-1
+  knowledgePointId: u4-52-fdi-mncs
+  type: mcq
+  prompt:
+    zh-CN: 哪项最可能增强 FDI 的本地技术收益？
+    en: What most supports local technology gains from FDI?
+  options:
+    - id: a
+      zh-CN: 完全隔离本地企业
+      en: Complete isolation from local firms
+    - id: b
+      zh-CN: 无条件永久免税
+      en: Unconditional permanent tax exemption
+    - id: c
+      zh-CN: 只统计流入金额
+      en: Only count inflow value
+    - id: d
+      zh-CN: 员工培训与本地供应商联系
+      en: Staff training and local supplier linkages
+  correctOptionId: d
+  explanation:
+    zh-CN: 员工培训与本地供应商联系。 原创假设：外资厂培训本地员工并采购本地零件，可扩散技能；若全部进口投入并获长期免税，本地净收益可能较小。 FDI
+      流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。
+    en: "Staff training and local supplier linkages. Hypothetical scenario: training
+      local staff and buying local parts can spread skills. Importing all inputs
+      with prolonged tax holidays may leave smaller local net gains. FDI inflow
+      is not current-account income; later repatriated profits normally affect
+      primary income."
+- id: u4-52-fdi-mncs-short-1
+  knowledgePointId: u4-52-fdi-mncs
+  type: short-answer
+  prompt:
+    zh-CN: 解释外国直接投资与跨国公司的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Foreign direct investment and multinational firms
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: FDI 可带来资本、就业、技术和出口联系，也可能伴随利润汇出、市场势力、环境成本与有限本地联系。
+      跨国企业投入资本技术；雇佣与采购产生本地联系；制度与吸收能力影响技术溢出
+      原创假设：外资厂培训本地员工并采购本地零件，可扩散技能；若全部进口投入并获长期免税，本地净收益可能较小。
+    en: "FDI can bring capital, jobs, technology and export linkages, alongside
+      profit repatriation, market power, environmental costs and weak local
+      linkages. Multinationals bring capital and technology; hiring and
+      procurement create local linkages; institutions and absorptive capacity
+      shape spillovers Hypothetical scenario: training local staff and buying
+      local parts can spread skills. Importing all inputs with prolonged tax
+      holidays may leave smaller local net gains."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 资本
+        en: capital
+      alternatives:
+        zh-CN:
+          - 资本
+          - 跨国企业投入资本技术
+        en:
+          - capital
+          - Multinationals bring capital and technology
+    - id: mechanism-2
+      label:
+        zh-CN: 技术
+        en: technology
+      alternatives:
+        zh-CN:
+          - 技术
+          - 雇佣与采购产生本地联系
+        en:
+          - technology
+          - hiring and procurement create local linkages
+    - id: mechanism-3
+      label:
+        zh-CN: 联系
+        en: linkages
+      alternatives:
+        zh-CN:
+          - 联系
+          - 制度与吸收能力影响技术溢出
+        en:
+          - linkages
+          - institutions and absorptive capacity shape spillovers
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

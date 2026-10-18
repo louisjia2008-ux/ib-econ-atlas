@@ -1,0 +1,40 @@
+id: u4-04-absolute-advantage
+slug: absolute-advantage
+section: "4.1"
+level: hl
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.2"
+    pages:
+      - 438
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-01-trade-benefits
+  - u4-02-free-trade-imports
+  - u4-03-free-trade-exports
+terms:
+  - 绝对优势
+  - Absolute advantage
+  - 资源
+  - resources
+  - 产量
+  - output
+  - 生产率
+  - productivity
+synonyms:
+  zh-CN:
+    - 资源
+    - 产量
+    - 生产率
+  en:
+    - resources
+    - output
+    - productivity
+diagramIds: []
+quizIds:
+  - u4-04-absolute-advantage-flash-1
+  - u4-04-absolute-advantage-mcq-1
+  - u4-04-absolute-advantage-short-1

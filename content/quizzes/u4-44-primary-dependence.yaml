@@ -1,0 +1,102 @@
+- id: u4-44-primary-dependence-flash-1
+  knowledgePointId: u4-44-primary-dependence
+  type: flashcard
+  prompt:
+    zh-CN: 解释“初级产品依赖与贸易条件”，并说明一个关键条件。
+    en: Explain Primary-product dependence and terms of trade and state one
+      important condition.
+  answer:
+    zh-CN: 出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。
+    en: Concentration in primary exports increases revenue risk. Terms of trade
+      equal the export price index divided by the import price index times 100;
+      deterioration means fewer imports per export unit.
+  explanation:
+    zh-CN: 贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。
+    en: Terms of trade are neither an exchange rate nor total export receipts
+      divided by imports; long-run deterioration is not inevitable for every
+      commodity.
+- id: u4-44-primary-dependence-mcq-1
+  knowledgePointId: u4-44-primary-dependence
+  type: mcq
+  prompt:
+    zh-CN: 出口价指数 110、进口价指数 100，贸易条件多少？
+    en: Export price index 110 and import price index 100 give what terms of trade?
+  options:
+    - id: a
+      zh-CN: "90.9"
+      en: "90.9"
+    - id: b
+      zh-CN: "10"
+      en: "10"
+    - id: c
+      zh-CN: "210"
+      en: "210"
+    - id: d
+      zh-CN: "110"
+      en: "110"
+  correctOptionId: d
+  explanation:
+    zh-CN: 110。 原创假设：出口价指数 90、进口价指数 120，贸易条件为 75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。
+      贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。
+    en: "110. Hypothetical scenario: export prices indexed at ninety and imports at
+      120 give terms of trade of 75. Revenue also depends on volume, so the
+      ratio alone cannot establish the trade balance. Terms of trade are neither
+      an exchange rate nor total export receipts divided by imports; long-run
+      deterioration is not inevitable for every commodity."
+- id: u4-44-primary-dependence-short-1
+  knowledgePointId: u4-44-primary-dependence
+  type: short-answer
+  prompt:
+    zh-CN: 解释初级产品依赖与贸易条件的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Primary-product dependence and terms of trade and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。
+      出口集中放大外部价格冲击；外汇和税收波动；资本品进口与公共投资受限 原创假设：出口价指数 90、进口价指数 120，贸易条件为
+      75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。
+    en: "Concentration in primary exports increases revenue risk. Terms of trade
+      equal the export price index divided by the import price index times 100;
+      deterioration means fewer imports per export unit. Export concentration
+      magnifies world-price shocks; foreign exchange and tax revenue fluctuate;
+      capital-goods imports and public investment are constrained Hypothetical
+      scenario: export prices indexed at ninety and imports at 120 give terms of
+      trade of 75. Revenue also depends on volume, so the ratio alone cannot
+      establish the trade balance."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 出口价格
+        en: export prices
+      alternatives:
+        zh-CN:
+          - 出口价格
+          - 出口集中放大外部价格冲击
+        en:
+          - export prices
+          - Export concentration magnifies world-price shocks
+    - id: mechanism-2
+      label:
+        zh-CN: 进口价格
+        en: import prices
+      alternatives:
+        zh-CN:
+          - 进口价格
+          - 外汇和税收波动
+        en:
+          - import prices
+          - foreign exchange and tax revenue fluctuate
+    - id: mechanism-3
+      label:
+        zh-CN: 波动
+        en: volatility
+      alternatives:
+        zh-CN:
+          - 波动
+          - 资本品进口与公共投资受限
+        en:
+          - volatility
+          - capital-goods imports and public investment are constrained
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

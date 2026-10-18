@@ -1,0 +1,41 @@
+id: u4-22-currency-demand-supply
+slug: currency-demand-supply
+section: "4.5"
+level: core
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "16"
+    section: "16.1"
+    pages:
+      - 491
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-21-floating-exchange-rate
+  - u4-23-exchange-rate-effects
+  - u4-24-fixed-exchange-rate
+terms:
+  - 外汇需求与供给的决定因素
+  - Determinants of currency demand and supply
+  - 出口
+  - exports
+  - 资产
+  - assets
+  - 需求
+  - demand
+synonyms:
+  zh-CN:
+    - 出口
+    - 资产
+    - 需求
+  en:
+    - exports
+    - assets
+    - demand
+diagramIds:
+  - global-currency
+quizIds:
+  - u4-22-currency-demand-supply-flash-1
+  - u4-22-currency-demand-supply-mcq-1
+  - u4-22-currency-demand-supply-short-1

@@ -1,0 +1,101 @@
+- id: u4-32-marshall-lerner-flash-1
+  knowledgePointId: u4-32-marshall-lerner
+  type: flashcard
+  prompt:
+    zh-CN: 解释“马歇尔—勒纳条件”，并说明一个关键条件。
+    en: Explain The Marshall–Lerner condition and state one important condition.
+  answer:
+    zh-CN: 在初始贸易平衡等标准假设下，贬值改善贸易余额要求出口与进口需求价格弹性的绝对值之和大于 1。
+    en: Under standard assumptions including initial trade balance, depreciation
+      improves the trade balance when absolute export and import demand
+      elasticities sum to more than one.
+  explanation:
+    zh-CN: 条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。
+    en: The condition concerns the trade balance, not all income and transfers; an
+      elasticity is not the quantity percentage change itself.
+- id: u4-32-marshall-lerner-mcq-1
+  knowledgePointId: u4-32-marshall-lerner
+  type: mcq
+  prompt:
+    zh-CN: 哪组弹性满足标准条件？
+    en: Which elasticity pair satisfies the standard condition?
+  options:
+    - id: a
+      zh-CN: 0.2 与 0.3
+      en: 0.2 and 0.3
+    - id: b
+      zh-CN: 0.4 与 0.4
+      en: 0.4 and 0.4
+    - id: c
+      zh-CN: 0.1 与 0.2
+      en: 0.1 and 0.2
+    - id: d
+      zh-CN: 0.7 与 0.6
+      en: 0.7 and 0.6
+  correctOptionId: d
+  explanation:
+    zh-CN: 0.7 与 0.6。 原创假设：出口弹性 0.7、进口弹性 0.6，总和 1.3，在充分供给反应和相关模型假设下支持改善；不意味着一定立即改善。
+      条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。
+    en: "0.7 and 0.6. Hypothetical scenario: elasticities 0.7 and 0.6 sum to 1.3,
+      supporting improvement with sufficient supply response and the model's
+      assumptions; improvement need not be immediate. The condition concerns the
+      trade balance, not all income and transfers; an elasticity is not the
+      quantity percentage change itself."
+- id: u4-32-marshall-lerner-short-1
+  knowledgePointId: u4-32-marshall-lerner
+  type: short-answer
+  prompt:
+    zh-CN: 解释马歇尔—勒纳条件的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The Marshall–Lerner condition and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 在初始贸易平衡等标准假设下，贬值改善贸易余额要求出口与进口需求价格弹性的绝对值之和大于 1。
+      贬值改变相对价格；数量按需求弹性调整；数量效应超过进口单位成本效应时余额改善 原创假设：出口弹性 0.7、进口弹性 0.6，总和
+      1.3，在充分供给反应和相关模型假设下支持改善；不意味着一定立即改善。
+    en: "Under standard assumptions including initial trade balance, depreciation
+      improves the trade balance when absolute export and import demand
+      elasticities sum to more than one. Depreciation changes relative prices;
+      volumes respond to demand elasticities; the balance improves when volume
+      effects outweigh the import unit-cost effect Hypothetical scenario:
+      elasticities 0.7 and 0.6 sum to 1.3, supporting improvement with
+      sufficient supply response and the model's assumptions; improvement need
+      not be immediate."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 贬值
+        en: depreciation
+      alternatives:
+        zh-CN:
+          - 贬值
+          - 贬值改变相对价格
+        en:
+          - depreciation
+          - Depreciation changes relative prices
+    - id: mechanism-2
+      label:
+        zh-CN: 弹性
+        en: elasticities
+      alternatives:
+        zh-CN:
+          - 弹性
+          - 数量按需求弹性调整
+        en:
+          - elasticities
+          - volumes respond to demand elasticities
+    - id: mechanism-3
+      label:
+        zh-CN: 大于1
+        en: greater than one
+      alternatives:
+        zh-CN:
+          - 大于1
+          - 数量效应超过进口单位成本效应时余额改善
+        en:
+          - greater than one
+          - the balance improves when volume effects outweigh the import
+            unit-cost effect
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

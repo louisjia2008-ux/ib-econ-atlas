@@ -1,0 +1,100 @@
+- id: u4-11-administrative-barriers-flash-1
+  knowledgePointId: u4-11-administrative-barriers
+  type: flashcard
+  prompt:
+    zh-CN: 解释“行政壁垒与标准”，并说明一个关键条件。
+    en: Explain Administrative barriers and standards and state one important
+      condition.
+  answer:
+    zh-CN: 繁复手续、采购偏好或歧视性标准可增加进口成本；正当健康与环境标准也可能纠正市场失灵。
+    en: Complex procedures, procurement preferences or discriminatory standards can
+      raise import costs; legitimate health and environmental standards may
+      correct market failure.
+  explanation:
+    zh-CN: 不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。
+    en: Lower imports alone do not prove a standard lacks public value, but hidden
+      discrimination must not be ignored.
+- id: u4-11-administrative-barriers-mcq-1
+  knowledgePointId: u4-11-administrative-barriers
+  type: mcq
+  prompt:
+    zh-CN: 评价进口检验要求最相关的标准是什么？
+    en: What matters most when evaluating import inspections?
+  options:
+    - id: a
+      zh-CN: 进口越少越有效率
+      en: Fewer imports always mean more efficiency
+    - id: b
+      zh-CN: 所有标准都应取消
+      en: Every standard should be removed
+    - id: c
+      zh-CN: 是否必要且非歧视
+      en: Whether they are necessary and non-discriminatory
+    - id: d
+      zh-CN: 只看文件页数
+      en: Only count pages of paperwork
+  correctOptionId: c
+  explanation:
+    zh-CN: 是否必要且非歧视。 原创假设：同样食品安全风险，若进口商被要求重复检验而本地企业无需检验，应评估必要性、证据与非歧视性。
+      不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。
+    en: "Whether they are necessary and non-discriminatory. Hypothetical scenario:
+      importers face duplicate inspections while local firms with identical food
+      risks do not. Assess necessity, evidence and non-discrimination. Lower
+      imports alone do not prove a standard lacks public value, but hidden
+      discrimination must not be ignored."
+- id: u4-11-administrative-barriers-short-1
+  knowledgePointId: u4-11-administrative-barriers
+  type: short-answer
+  prompt:
+    zh-CN: 解释行政壁垒与标准的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Administrative barriers and standards and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 繁复手续、采购偏好或歧视性标准可增加进口成本；正当健康与环境标准也可能纠正市场失灵。
+      合规时间和费用提高；进口供给受限；保护收益与公共利益须分别判断
+      原创假设：同样食品安全风险，若进口商被要求重复检验而本地企业无需检验，应评估必要性、证据与非歧视性。
+    en: "Complex procedures, procurement preferences or discriminatory standards can
+      raise import costs; legitimate health and environmental standards may
+      correct market failure. Compliance time and costs rise; imports are
+      constrained; protection gains and public benefits need separate assessment
+      Hypothetical scenario: importers face duplicate inspections while local
+      firms with identical food risks do not. Assess necessity, evidence and
+      non-discrimination."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 合规
+        en: compliance
+      alternatives:
+        zh-CN:
+          - 合规
+          - 合规时间和费用提高
+        en:
+          - compliance
+          - Compliance time and costs rise
+    - id: mechanism-2
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 进口供给受限
+        en:
+          - costs
+          - imports are constrained
+    - id: mechanism-3
+      label:
+        zh-CN: 歧视
+        en: discrimination
+      alternatives:
+        zh-CN:
+          - 歧视
+          - 保护收益与公共利益须分别判断
+        en:
+          - discrimination
+          - protection gains and public benefits need separate assessment
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,41 @@
+id: u4-42-poverty-cycle
+slug: poverty-cycle
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.1"
+    pages:
+      - 564
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-43-human-capital-infrastructure
+  - u4-44-primary-dependence
+  - u4-45-debt-finance-barriers
+terms:
+  - 贫困循环与资本形成
+  - Poverty cycles and capital formation
+  - 收入
+  - income
+  - 投资
+  - investment
+  - 生产率
+  - productivity
+synonyms:
+  zh-CN:
+    - 收入
+    - 投资
+    - 生产率
+  en:
+    - income
+    - investment
+    - productivity
+diagramIds:
+  - global-poverty-cycle
+quizIds:
+  - u4-42-poverty-cycle-flash-1
+  - u4-42-poverty-cycle-mcq-1
+  - u4-42-poverty-cycle-short-1

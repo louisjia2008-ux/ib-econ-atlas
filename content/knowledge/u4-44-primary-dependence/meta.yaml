@@ -1,0 +1,40 @@
+id: u4-44-primary-dependence
+slug: primary-dependence
+section: "4.9"
+level: core
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.2"
+    pages:
+      - 566
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-43-human-capital-infrastructure
+  - u4-45-debt-finance-barriers
+terms:
+  - 初级产品依赖与贸易条件
+  - Primary-product dependence and terms of trade
+  - 出口价格
+  - export prices
+  - 进口价格
+  - import prices
+  - 波动
+  - volatility
+synonyms:
+  zh-CN:
+    - 出口价格
+    - 进口价格
+    - 波动
+  en:
+    - export prices
+    - import prices
+    - volatility
+diagramIds: []
+quizIds:
+  - u4-44-primary-dependence-flash-1
+  - u4-44-primary-dependence-mcq-1
+  - u4-44-primary-dependence-short-1

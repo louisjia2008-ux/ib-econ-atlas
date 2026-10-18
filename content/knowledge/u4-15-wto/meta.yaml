@@ -1,0 +1,40 @@
+id: u4-15-wto
+slug: wto
+section: "4.3"
+level: core
+syllabusRefs:
+  - 4.3 Arguments for and against trade protection
+textbookRefs:
+  - chapter: "15"
+    section: "15.4"
+    pages:
+      - 483
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-12-infant-industry
+  - u4-13-protection-arguments
+  - u4-14-protection-evaluation
+terms:
+  - 世界贸易组织与合作
+  - The WTO and trade cooperation
+  - 规则
+  - rules
+  - 透明度
+  - transparency
+  - 争端
+  - dispute
+synonyms:
+  zh-CN:
+    - 规则
+    - 透明度
+    - 争端
+  en:
+    - rules
+    - transparency
+    - dispute
+diagramIds: []
+quizIds:
+  - u4-15-wto-flash-1
+  - u4-15-wto-mcq-1
+  - u4-15-wto-short-1

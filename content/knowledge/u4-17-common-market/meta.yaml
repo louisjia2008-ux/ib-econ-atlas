@@ -1,0 +1,40 @@
+id: u4-17-common-market
+slug: common-market
+section: "4.4"
+level: core
+syllabusRefs:
+  - 4.4 Economic integration
+textbookRefs:
+  - chapter: "15"
+    section: "15.2"
+    pages:
+      - 472
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-16-trading-blocs
+  - u4-18-trade-creation-diversion
+  - u4-19-monetary-union
+terms:
+  - 共同市场与经济一体化
+  - Common markets and economic integration
+  - 要素
+  - factors
+  - 流动
+  - mobility
+  - 协调
+  - coordination
+synonyms:
+  zh-CN:
+    - 要素
+    - 流动
+    - 协调
+  en:
+    - factors
+    - mobility
+    - coordination
+diagramIds: []
+quizIds:
+  - u4-17-common-market-flash-1
+  - u4-17-common-market-mcq-1
+  - u4-17-common-market-short-1

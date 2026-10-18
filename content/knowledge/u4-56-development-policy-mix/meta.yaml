@@ -1,0 +1,40 @@
+id: u4-56-development-policy-mix
+slug: development-policy-mix
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.9"
+    pages:
+      - 633
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 发展战略组合与证据评价
+  - Development policy mixes and evidence
+  - 约束
+  - constraints
+  - 政策
+  - policies
+  - 证据
+  - evidence
+synonyms:
+  zh-CN:
+    - 约束
+    - 政策
+    - 证据
+  en:
+    - constraints
+    - policies
+    - evidence
+diagramIds: []
+quizIds:
+  - u4-56-development-policy-mix-flash-1
+  - u4-56-development-policy-mix-mcq-1
+  - u4-56-development-policy-mix-short-1

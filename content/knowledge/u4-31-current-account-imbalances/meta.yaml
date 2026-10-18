@@ -1,0 +1,40 @@
+id: u4-31-current-account-imbalances
+slug: current-account-imbalances
+section: "4.6"
+level: core
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.4"
+    pages:
+      - 530
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - 经常账户失衡的原因与可持续性
+  - Causes and sustainability of current-account imbalances
+  - 融资
+  - financing
+  - 可持续性
+  - sustainability
+  - 债务
+  - debt
+synonyms:
+  zh-CN:
+    - 融资
+    - 可持续性
+    - 债务
+  en:
+    - financing
+    - sustainability
+    - debt
+diagramIds: []
+quizIds:
+  - u4-31-current-account-imbalances-flash-1
+  - u4-31-current-account-imbalances-mcq-1
+  - u4-31-current-account-imbalances-short-1

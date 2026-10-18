@@ -1,0 +1,40 @@
+id: u4-48-trade-strategies
+slug: trade-strategies
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.1"
+    pages:
+      - 595
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+  - u4-51-public-services-development
+terms:
+  - 进口替代与出口导向
+  - Import substitution and export promotion
+  - 进口替代
+  - import substitution
+  - 出口
+  - exports
+  - 竞争
+  - competition
+synonyms:
+  zh-CN:
+    - 进口替代
+    - 出口
+    - 竞争
+  en:
+    - import substitution
+    - exports
+    - competition
+diagramIds: []
+quizIds:
+  - u4-48-trade-strategies-flash-1
+  - u4-48-trade-strategies-mcq-1
+  - u4-48-trade-strategies-short-1

@@ -1,0 +1,40 @@
+id: u4-53-aid-ngos
+slug: aid-ngos
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.6"
+    pages:
+      - 615
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 援助、非政府组织与本地参与
+  - Aid, NGOs and local participation
+  - 援助
+  - aid
+  - 能力
+  - capacity
+  - 问责
+  - accountability
+synonyms:
+  zh-CN:
+    - 援助
+    - 能力
+    - 问责
+  en:
+    - aid
+    - capacity
+    - accountability
+diagramIds: []
+quizIds:
+  - u4-53-aid-ngos-flash-1
+  - u4-53-aid-ngos-mcq-1
+  - u4-53-aid-ngos-short-1

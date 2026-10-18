@@ -1,0 +1,100 @@
+- id: u4-12-infant-industry-flash-1
+  knowledgePointId: u4-12-infant-industry
+  type: flashcard
+  prompt:
+    zh-CN: 解释“幼稚产业与战略保护”，并说明一个关键条件。
+    en: Explain Infant industries and strategic protection and state one important
+      condition.
+  answer:
+    zh-CN: 暂时保护可能帮助有学习外部性的产业形成竞争力，但须证明未来收益超过当前成本并设置退出条件。
+    en: Temporary protection may help industries with learning spillovers become
+      competitive, provided future gains exceed current costs and exit
+      conditions are credible.
+  explanation:
+    zh-CN: 产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。
+    en: Being new does not justify protection; poor information, rent seeking and
+      retaliation may outweigh gains.
+- id: u4-12-infant-industry-mcq-1
+  knowledgePointId: u4-12-infant-industry
+  type: mcq
+  prompt:
+    zh-CN: 什么最能增强幼稚产业论据？
+    en: What most strengthens the infant-industry case?
+  options:
+    - id: a
+      zh-CN: 永久保护承诺
+      en: A promise of permanent protection
+    - id: b
+      zh-CN: 完全不考核成本
+      en: No cost evaluation
+    - id: c
+      zh-CN: 企业亏损本身
+      en: Losses alone
+    - id: d
+      zh-CN: 可验证的学习外部性与退出期限
+      en: Verifiable learning spillovers and a sunset date
+  correctOptionId: d
+  explanation:
+    zh-CN: 可验证的学习外部性与退出期限。 原创假设：设备产业获三年支持，续期取决于单位成本下降和出口表现；没有绩效条件可能把补贴固化。
+      产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。
+    en: "Verifiable learning spillovers and a sunset date. Hypothetical scenario:
+      equipment firms receive three years of support, conditional on lower unit
+      costs and export performance. Unconditional renewal can entrench
+      subsidies. Being new does not justify protection; poor information, rent
+      seeking and retaliation may outweigh gains."
+- id: u4-12-infant-industry-short-1
+  knowledgePointId: u4-12-infant-industry
+  type: short-answer
+  prompt:
+    zh-CN: 解释幼稚产业与战略保护的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Infant industries and strategic protection and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 暂时保护可能帮助有学习外部性的产业形成竞争力，但须证明未来收益超过当前成本并设置退出条件。
+      初期规模小成本高；学习与规模扩大降低成本；到期撤销保护检验竞争力
+      原创假设：设备产业获三年支持，续期取决于单位成本下降和出口表现；没有绩效条件可能把补贴固化。
+    en: "Temporary protection may help industries with learning spillovers become
+      competitive, provided future gains exceed current costs and exit
+      conditions are credible. Small initial scale raises costs; learning and
+      scale reduce costs; removing protection tests competitiveness Hypothetical
+      scenario: equipment firms receive three years of support, conditional on
+      lower unit costs and export performance. Unconditional renewal can
+      entrench subsidies."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 学习
+        en: learning
+      alternatives:
+        zh-CN:
+          - 学习
+          - 初期规模小成本高
+        en:
+          - learning
+          - Small initial scale raises costs
+    - id: mechanism-2
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 学习与规模扩大降低成本
+        en:
+          - costs
+          - learning and scale reduce costs
+    - id: mechanism-3
+      label:
+        zh-CN: 退出
+        en: exit
+      alternatives:
+        zh-CN:
+          - 退出
+          - 到期撤销保护检验竞争力
+        en:
+          - exit
+          - removing protection tests competitiveness
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

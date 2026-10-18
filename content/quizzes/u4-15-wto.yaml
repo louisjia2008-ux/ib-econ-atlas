@@ -1,0 +1,99 @@
+- id: u4-15-wto-flash-1
+  knowledgePointId: u4-15-wto
+  type: flashcard
+  prompt:
+    zh-CN: 解释“世界贸易组织与合作”，并说明一个关键条件。
+    en: Explain The WTO and trade cooperation and state one important condition.
+  answer:
+    zh-CN: WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。
+    en: The WTO provides a framework for members' trade rules, negotiations,
+      transparency and dispute settlement. Cooperation can reduce uncertainty,
+      though interests and enforcement capacity differ.
+  explanation:
+    zh-CN: WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。
+    en: The WTO is not a world government and does not remove every barrier; current
+      dispute-body operations require official verification.
+- id: u4-15-wto-mcq-1
+  knowledgePointId: u4-15-wto
+  type: mcq
+  prompt:
+    zh-CN: 规则透明度如何帮助贸易？
+    en: How can rule transparency support trade?
+  options:
+    - id: a
+      zh-CN: 保证每个争端立即解决
+      en: Guarantee instant resolution of every dispute
+    - id: b
+      zh-CN: 替代所有国内政策
+      en: Replace all domestic policy
+    - id: c
+      zh-CN: 降低政策不确定性
+      en: Reduce policy uncertainty
+    - id: d
+      zh-CN: 固定所有汇率
+      en: Fix every exchange rate
+  correctOptionId: c
+  explanation:
+    zh-CN: 降低政策不确定性。 原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。 WTO
+      不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。
+    en: "Reduce policy uncertainty. Hypothetical scenario: common rules focus a
+      dispute over import restrictions on evidence, while a small economy may
+      lack legal resources. The WTO is not a world government and does not
+      remove every barrier; current dispute-body operations require official
+      verification."
+- id: u4-15-wto-short-1
+  knowledgePointId: u4-15-wto
+  type: short-answer
+  prompt:
+    zh-CN: 解释世界贸易组织与合作的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The WTO and trade cooperation and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。
+      成员承诺规则；透明度降低政策不确定性；协商与争端程序处理冲突
+      原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。
+    en: "The WTO provides a framework for members' trade rules, negotiations,
+      transparency and dispute settlement. Cooperation can reduce uncertainty,
+      though interests and enforcement capacity differ. Members commit to rules;
+      transparency reduces policy uncertainty; negotiation and dispute
+      procedures address conflict Hypothetical scenario: common rules focus a
+      dispute over import restrictions on evidence, while a small economy may
+      lack legal resources."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 规则
+        en: rules
+      alternatives:
+        zh-CN:
+          - 规则
+          - 成员承诺规则
+        en:
+          - rules
+          - Members commit to rules
+    - id: mechanism-2
+      label:
+        zh-CN: 透明度
+        en: transparency
+      alternatives:
+        zh-CN:
+          - 透明度
+          - 透明度降低政策不确定性
+        en:
+          - transparency
+          - transparency reduces policy uncertainty
+    - id: mechanism-3
+      label:
+        zh-CN: 争端
+        en: dispute
+      alternatives:
+        zh-CN:
+          - 争端
+          - 协商与争端程序处理冲突
+        en:
+          - dispute
+          - negotiation and dispute procedures address conflict
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

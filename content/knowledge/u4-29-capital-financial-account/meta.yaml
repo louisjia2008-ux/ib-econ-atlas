@@ -1,0 +1,40 @@
+id: u4-29-capital-financial-account
+slug: capital-financial-account
+section: "4.6"
+level: core
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "16"
+    section: "16.4"
+    pages:
+      - 509
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-30-bop-identity
+  - u4-31-current-account-imbalances
+terms:
+  - 资本账户与金融账户
+  - Capital and financial accounts
+  - 资产
+  - assets
+  - 负债
+  - liabilities
+  - 金融账户
+  - financial account
+synonyms:
+  zh-CN:
+    - 资产
+    - 负债
+    - 金融账户
+  en:
+    - assets
+    - liabilities
+    - financial account
+diagramIds: []
+quizIds:
+  - u4-29-capital-financial-account-flash-1
+  - u4-29-capital-financial-account-mcq-1
+  - u4-29-capital-financial-account-short-1

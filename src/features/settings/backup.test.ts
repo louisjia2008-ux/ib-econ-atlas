@@ -48,17 +48,18 @@ beforeEach(async () => {
 });
 
 describe("versioned backup", () => {
-  it("imports a two-unit backup and round-trips Unit 3 without a schema migration", async () => {
+  it("imports a two-unit backup and round-trips Units 3 and 4 without a schema migration", async () => {
     await importBackup(serializeBackup(envelope([
       progress("u1-04-scarcity", "2026-09-29T12:00:00.000Z", "review"),
       progress("u2-01-demand", "2026-10-15T00:00:00.000Z", "learning"),
     ], [attempt])), "replace", true);
     await saveProgress(progress("u3-49-multiplier", "2026-10-15T02:00:00.000Z", "mastered"));
+    await saveProgress(progress("u4-07-tariff", "2026-10-18T12:00:00.000Z", "learning"));
     const backup = await createBackup();
     expect(backup.schemaVersion).toBe(1);
     await clearLearningData();
     await importBackup(serializeBackup(backup), "replace", true);
-    expect((await getAllProgress()).map((record) => record.knowledgePointId).sort()).toEqual(["u1-04-scarcity", "u2-01-demand", "u3-49-multiplier"]);
+    expect((await getAllProgress()).map((record) => record.knowledgePointId).sort()).toEqual(["u1-04-scarcity", "u2-01-demand", "u3-49-multiplier", "u4-07-tariff"]);
     expect(await getAllAttempts()).toEqual([attempt]);
   });
   it("retains an old Unit 1 backup while merging and exporting Unit 2 progress", async () => {

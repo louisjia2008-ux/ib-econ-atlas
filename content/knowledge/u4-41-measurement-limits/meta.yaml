@@ -1,0 +1,40 @@
+id: u4-41-measurement-limits
+slug: measurement-limits
+section: "4.8"
+level: core
+syllabusRefs:
+  - 4.8 Measuring development
+textbookRefs:
+  - chapter: "18"
+    section: "18.2"
+    pages:
+      - 541
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-38-development-indicators
+  - u4-39-hdi
+  - u4-40-multidimensional-poverty
+terms:
+  - 发展数据的可比性与局限
+  - Comparability and limits of development data
+  - 可比
+  - comparable
+  - 数据
+  - data
+  - 局限
+  - limits
+synonyms:
+  zh-CN:
+    - 可比
+    - 数据
+    - 局限
+  en:
+    - comparable
+    - data
+    - limits
+diagramIds: []
+quizIds:
+  - u4-41-measurement-limits-flash-1
+  - u4-41-measurement-limits-mcq-1
+  - u4-41-measurement-limits-short-1

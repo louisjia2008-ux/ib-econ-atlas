@@ -8971,5 +8971,2861 @@
         "explanation": "Diagnose weak demand or supply bottlenecks.  coordinate short-run stabilisation with long-run capacity policies.  evaluate net effects across objectives and time horizons.\n\n### Original scenario and reasoning\n\nIllustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter.\n\nThere is no context-free ranking of universally best policies.\n\nExplain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."
       }
     }
+  },
+  {
+    "id": "u4-01-trade-benefits",
+    "content": {
+      "zh-CN": {
+        "id": "u4-01-trade-benefits",
+        "locale": "zh-CN",
+        "title": "贸易、专业化与竞争",
+        "takeaway": "国际贸易通过专业化、更大市场、竞争和技术传播扩大消费选择，但收益分配不均。",
+        "definition": "国际贸易通过专业化、更大市场、竞争和技术传播扩大消费选择，但收益分配不均。",
+        "causalChain": [
+          "更大市场支持专业化",
+          "规模扩大可降低平均成本",
+          "竞争约束价格并促进创新"
+        ],
+        "misconceptions": [
+          "总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "国际贸易通过专业化、更大市场、竞争和技术传播扩大消费选择，但收益分配不均。",
+          "总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。"
+        ],
+        "explanation": "更大市场支持专业化。规模扩大可降低平均成本。竞争约束价格并促进创新。\n\n### 原创情境与推导\n\n原创假设：本国药品企业进入更大市场，分摊研发成本；消费者可能获得低价药，但低效率企业的工人可能需要转岗。\n\n总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-01-trade-benefits",
+        "locale": "en",
+        "title": "Trade, specialisation and competition",
+        "takeaway": "Trade can widen consumption choices through specialisation, larger markets, competition and technology diffusion, but gains are unevenly distributed.",
+        "definition": "Trade can widen consumption choices through specialisation, larger markets, competition and technology diffusion, but gains are unevenly distributed.",
+        "causalChain": [
+          "Larger markets support specialisation",
+          "greater scale can reduce average costs",
+          "competition can restrain prices and encourage innovation"
+        ],
+        "misconceptions": [
+          "Aggregate gains do not mean everyone gains; adjustment costs, environmental effects and dependence require separate evaluation."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "Trade can widen consumption choices through specialisation, larger markets, competition and technology diffusion, but gains are unevenly distributed.",
+          "Aggregate gains do not mean everyone gains; adjustment costs, environmental effects and dependence require separate evaluation."
+        ],
+        "explanation": "Larger markets support specialisation.  greater scale can reduce average costs.  competition can restrain prices and encourage innovation.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a medicine producer spreads research costs across a larger market. Consumers may obtain cheaper medicines while workers in less efficient firms face retraining.\n\nAggregate gains do not mean everyone gains; adjustment costs, environmental effects and dependence require separate evaluation.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-02-free-trade-imports",
+    "content": {
+      "zh-CN": {
+        "id": "u4-02-free-trade-imports",
+        "locale": "zh-CN",
+        "title": "小国自由贸易与进口",
+        "takeaway": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
+        "definition": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
+        "causalChain": [
+          "世界价格低于自给价",
+          "国内消费增加而生产减少",
+          "进口满足需求与供给差额"
+        ],
+        "misconceptions": [
+          "小国接受世界价格；进口量不是国内总消费量。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
+          "小国接受世界价格；进口量不是国内总消费量。"
+        ],
+        "explanation": "世界价格低于自给价。国内消费增加而生产减少。进口满足需求与供给差额。\n\n### 原创情境与推导\n\n原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。\n\n小国接受世界价格；进口量不是国内总消费量。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-02-free-trade-imports",
+        "locale": "en",
+        "title": "Free trade and imports in a small economy",
+        "takeaway": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
+        "definition": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
+        "causalChain": [
+          "The world price is below autarky",
+          "domestic consumption rises and production falls",
+          "imports fill the demand-supply gap"
+        ],
+        "misconceptions": [
+          "A small economy takes the world price; imports are not total domestic consumption."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
+          "A small economy takes the world price; imports are not total domestic consumption."
+        ],
+        "explanation": "The world price is below autarky.  domestic consumption rises and production falls.  imports fill the demand-supply gap.\n\n### Original scenario and reasoning\n\nHypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60. Consumers gain and producers lose, with net welfare gains in a model without externalities.\n\nA small economy takes the world price; imports are not total domestic consumption.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-03-free-trade-exports",
+    "content": {
+      "zh-CN": {
+        "id": "u4-03-free-trade-exports",
+        "locale": "zh-CN",
+        "title": "小国自由贸易与出口",
+        "takeaway": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
+        "definition": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
+        "causalChain": [
+          "较高世界价格提高生产激励",
+          "国内消费者减少购买",
+          "出口等于供给减需求"
+        ],
+        "misconceptions": [
+          "出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
+          "出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。"
+        ],
+        "explanation": "较高世界价格提高生产激励。国内消费者减少购买。出口等于供给减需求。\n\n### 原创情境与推导\n\n原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。\n\n出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-03-free-trade-exports",
+        "locale": "en",
+        "title": "Free trade and exports in a small economy",
+        "takeaway": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
+        "definition": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
+        "causalChain": [
+          "A higher world price encourages production",
+          "domestic consumers buy less",
+          "exports equal supply minus demand"
+        ],
+        "misconceptions": [
+          "Export receipts are not pure welfare gains; compare changes in consumer and producer surplus."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
+          "Export receipts are not pure welfare gains; compare changes in consumer and producer surplus."
+        ],
+        "explanation": "A higher world price encourages production.  domestic consumers buy less.  exports equal supply minus demand.\n\n### Original scenario and reasoning\n\nHypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price.\n\nExport receipts are not pure welfare gains; compare changes in consumer and producer surplus.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-04-absolute-advantage",
+    "content": {
+      "zh-CN": {
+        "id": "u4-04-absolute-advantage",
+        "locale": "zh-CN",
+        "title": "绝对优势",
+        "takeaway": "使用相同资源能够生产更多某产品，或生产同量产品所需资源更少，即拥有绝对优势。",
+        "definition": "使用相同资源能够生产更多某产品，或生产同量产品所需资源更少，即拥有绝对优势。",
+        "causalChain": [
+          "保持投入可比",
+          "比较单位资源的产量",
+          "识别生产率优势"
+        ],
+        "misconceptions": [
+          "绝对优势比较生产率，比较优势比较机会成本，二者不能互换。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "使用相同资源能够生产更多某产品，或生产同量产品所需资源更少，即拥有绝对优势。",
+          "绝对优势比较生产率，比较优势比较机会成本，二者不能互换。"
+        ],
+        "explanation": "保持投入可比。比较单位资源的产量。识别生产率优势。\n\n### 原创情境与推导\n\n原创假设：每工时 A 可产 8 件布，B 可产 5 件，A 在布上有绝对优势；仍需比较另一商品才能判断比较优势。\n\n绝对优势比较生产率，比较优势比较机会成本，二者不能互换。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-04-absolute-advantage",
+        "locale": "en",
+        "title": "Absolute advantage",
+        "takeaway": "Absolute advantage means producing more of a good with the same resources, or using fewer resources for the same output.",
+        "definition": "Absolute advantage means producing more of a good with the same resources, or using fewer resources for the same output.",
+        "causalChain": [
+          "Hold inputs comparable",
+          "compare output per unit of resources",
+          "identify the productivity advantage"
+        ],
+        "misconceptions": [
+          "Absolute advantage compares productivity; comparative advantage compares opportunity cost."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "Absolute advantage means producing more of a good with the same resources, or using fewer resources for the same output.",
+          "Absolute advantage compares productivity; comparative advantage compares opportunity cost."
+        ],
+        "explanation": "Hold inputs comparable.  compare output per unit of resources.  identify the productivity advantage.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A produces eight cloth units per hour and B five. A has absolute advantage in cloth, but another good is needed to establish comparative advantage.\n\nAbsolute advantage compares productivity; comparative advantage compares opportunity cost.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-05-comparative-advantage",
+    "content": {
+      "zh-CN": {
+        "id": "u4-05-comparative-advantage",
+        "locale": "zh-CN",
+        "title": "比较优势与贸易区间",
+        "takeaway": "比较优势是较低机会成本；互利交换比率须位于双方机会成本之间，且须考虑模型假设。",
+        "definition": "比较优势是较低机会成本；互利交换比率须位于双方机会成本之间，且须考虑模型假设。",
+        "causalChain": [
+          "计算放弃的另一商品",
+          "比较机会成本",
+          "在两者之间确定互利交换比率"
+        ],
+        "misconceptions": [
+          "即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "比较优势是较低机会成本；互利交换比率须位于双方机会成本之间，且须考虑模型假设。",
+          "即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。"
+        ],
+        "explanation": "计算放弃的另一商品。比较机会成本。在两者之间确定互利交换比率。\n\n### 原创情境与推导\n\n原创假设：A 可产 10 布或 20 粮，B 可产 6 布或 18 粮。1 布成本分别为 2 粮、3 粮；A 专业化布，按 1 布换 2.5 粮双方可获益。假设资源可转移、充分就业且忽略运费。\n\n即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-05-comparative-advantage",
+        "locale": "en",
+        "title": "Comparative advantage and the trading interval",
+        "takeaway": "Comparative advantage means lower opportunity cost. A mutually beneficial trading ratio lies between the two opportunity costs, subject to model assumptions.",
+        "definition": "Comparative advantage means lower opportunity cost. A mutually beneficial trading ratio lies between the two opportunity costs, subject to model assumptions.",
+        "causalChain": [
+          "Calculate the other good forgone",
+          "compare opportunity costs",
+          "choose a trading ratio between them"
+        ],
+        "misconceptions": [
+          "Even an economy with absolute advantage in both goods can gain from different opportunity costs; adjustment and externalities can weaken gains."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "Comparative advantage means lower opportunity cost. A mutually beneficial trading ratio lies between the two opportunity costs, subject to model assumptions.",
+          "Even an economy with absolute advantage in both goods can gain from different opportunity costs; adjustment and externalities can weaken gains."
+        ],
+        "explanation": "Calculate the other good forgone.  compare opportunity costs.  choose a trading ratio between them.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A can make ten cloth or twenty grain; B six cloth or eighteen grain. One cloth costs two grain in A and three in B. A specialises in cloth; trading at 2.5 grain per cloth can benefit both. Assume mobile domestic resources, full employment and no freight costs.\n\nEven an economy with absolute advantage in both goods can gain from different opportunity costs; adjustment and externalities can weaken gains.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-06-trade-evaluation",
+    "content": {
+      "zh-CN": {
+        "id": "u4-06-trade-evaluation",
+        "locale": "zh-CN",
+        "title": "贸易收益的条件与分配",
+        "takeaway": "贸易能提高配置效率，但长期发展收益取决于产业联系、技能、市场势力和收入分配。",
+        "definition": "贸易能提高配置效率，但长期发展收益取决于产业联系、技能、市场势力和收入分配。",
+        "causalChain": [
+          "进口竞争促使资源重新配置",
+          "部分企业和工人承担调整成本",
+          "再培训与社会保障影响净收益分布"
+        ],
+        "misconceptions": [
+          "把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。"
+        ],
+        "examApplication": [
+          "说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        ],
+        "summary": [
+          "贸易能提高配置效率，但长期发展收益取决于产业联系、技能、市场势力和收入分配。",
+          "把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。"
+        ],
+        "explanation": "进口竞争促使资源重新配置。部分企业和工人承担调整成本。再培训与社会保障影响净收益分布。\n\n### 原创情境与推导\n\n原创假设：廉价进口降低家庭支出，但偏远地区唯一工厂关闭；就业转移需要时间，不能用全国净收益否定地区损失。\n\n把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+      },
+      "en": {
+        "id": "u4-06-trade-evaluation",
+        "locale": "en",
+        "title": "Conditions and distribution of trade gains",
+        "takeaway": "Trade can improve allocative efficiency, while long-run development gains depend on linkages, skills, market power and distribution.",
+        "definition": "Trade can improve allocative efficiency, while long-run development gains depend on linkages, skills, market power and distribution.",
+        "causalChain": [
+          "Import competition reallocates resources",
+          "some firms and workers bear adjustment costs",
+          "retraining and social protection affect the distribution of net gains"
+        ],
+        "misconceptions": [
+          "Treating every import as a loss, or all trade as beneficial to everyone, omits stakeholders."
+        ],
+        "examApplication": [
+          "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        ],
+        "summary": [
+          "Trade can improve allocative efficiency, while long-run development gains depend on linkages, skills, market power and distribution.",
+          "Treating every import as a loss, or all trade as beneficial to everyone, omits stakeholders."
+        ],
+        "explanation": "Import competition reallocates resources.  some firms and workers bear adjustment costs.  retraining and social protection affect the distribution of net gains.\n\n### Original scenario and reasoning\n\nHypothetical scenario: cheaper imports lower household spending but close a remote region's only factory. Reallocation takes time; national net gains do not erase local losses.\n\nTreating every import as a loss, or all trade as beneficial to everyone, omits stakeholders.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+      }
+    }
+  },
+  {
+    "id": "u4-07-tariff",
+    "content": {
+      "zh-CN": {
+        "id": "u4-07-tariff",
+        "locale": "zh-CN",
+        "title": "关税与小国福利",
+        "takeaway": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
+        "definition": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
+        "causalChain": [
+          "进口成本提高",
+          "国内生产增加消费减少",
+          "政府按税后进口量征税"
+        ],
+        "misconceptions": [
+          "关税收入应乘税后进口量；它是转移，不等于净福利增加。"
+        ],
+        "examApplication": [
+          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        ],
+        "summary": [
+          "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
+          "关税收入应乘税后进口量；它是转移，不等于净福利增加。"
+        ],
+        "explanation": "进口成本提高。国内生产增加消费减少。政府按税后进口量征税。\n\n### 原创情境与推导\n\n原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。\n\n关税收入应乘税后进口量；它是转移，不等于净福利增加。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+      },
+      "en": {
+        "id": "u4-07-tariff",
+        "locale": "en",
+        "title": "Tariffs and small-country welfare",
+        "takeaway": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
+        "definition": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
+        "causalChain": [
+          "Import costs rise",
+          "domestic production rises and consumption falls",
+          "revenue is levied on post-tariff imports"
+        ],
+        "misconceptions": [
+          "Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
+        ],
+        "examApplication": [
+          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        ],
+        "summary": [
+          "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
+          "Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
+        ],
+        "explanation": "Import costs rise.  domestic production rises and consumption falls.  revenue is levied on post-tariff imports.\n\n### Original scenario and reasoning\n\nHypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation.\n\nUse post-tariff imports for revenue; revenue is a transfer, not a net welfare gain.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+      }
+    }
+  },
+  {
+    "id": "u4-08-quota",
+    "content": {
+      "zh-CN": {
+        "id": "u4-08-quota",
+        "locale": "zh-CN",
+        "title": "进口配额与配额租",
+        "takeaway": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
+        "definition": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
+        "causalChain": [
+          "进口数量受限",
+          "国内稀缺性推高价格",
+          "许可证持有人获得配额租"
+        ],
+        "misconceptions": [
+          "配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。"
+        ],
+        "examApplication": [
+          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        ],
+        "summary": [
+          "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
+          "配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。"
+        ],
+        "explanation": "进口数量受限。国内稀缺性推高价格。许可证持有人获得配额租。\n\n### 原创情境与推导\n\n原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。\n\n配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+      },
+      "en": {
+        "id": "u4-08-quota",
+        "locale": "en",
+        "title": "Import quotas and quota rents",
+        "takeaway": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
+        "definition": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
+        "causalChain": [
+          "Imports are capped",
+          "scarcity raises domestic price",
+          "licence holders receive quota rents"
+        ],
+        "misconceptions": [
+          "Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota."
+        ],
+        "examApplication": [
+          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        ],
+        "summary": [
+          "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
+          "Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota."
+        ],
+        "explanation": "Imports are capped.  scarcity raises domestic price.  licence holders receive quota rents.\n\n### Original scenario and reasoning\n\nHypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad.\n\nQuota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+      }
+    }
+  },
+  {
+    "id": "u4-09-production-subsidy",
+    "content": {
+      "zh-CN": {
+        "id": "u4-09-production-subsidy",
+        "locale": "zh-CN",
+        "title": "生产补贴与进口替代",
+        "takeaway": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
+        "definition": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
+        "causalChain": [
+          "生产者每单位净收入增加",
+          "国内供给扩大",
+          "进口减少但消费价不必提高"
+        ],
+        "misconceptions": [
+          "补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。"
+        ],
+        "examApplication": [
+          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        ],
+        "summary": [
+          "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
+          "补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。"
+        ],
+        "explanation": "生产者每单位净收入增加。国内供给扩大。进口减少但消费价不必提高。\n\n### 原创情境与推导\n\n原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。\n\n补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+      },
+      "en": {
+        "id": "u4-09-production-subsidy",
+        "locale": "en",
+        "title": "Production subsidies and import displacement",
+        "takeaway": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
+        "definition": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
+        "causalChain": [
+          "Producer receipts per unit rise",
+          "domestic supply expands",
+          "imports fall without a necessary rise in consumer price"
+        ],
+        "misconceptions": [
+          "A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter."
+        ],
+        "examApplication": [
+          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        ],
+        "summary": [
+          "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
+          "A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter."
+        ],
+        "explanation": "Producer receipts per unit rise.  domestic supply expands.  imports fall without a necessary rise in consumer price.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed.\n\nA subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+      }
+    }
+  },
+  {
+    "id": "u4-10-export-subsidy",
+    "content": {
+      "zh-CN": {
+        "id": "u4-10-export-subsidy",
+        "locale": "zh-CN",
+        "title": "出口补贴",
+        "takeaway": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
+        "definition": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
+        "causalChain": [
+          "出口每单位回报提高",
+          "生产者转向出口直到国内价调整",
+          "国内生产增加消费下降"
+        ],
+        "misconceptions": [
+          "出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。"
+        ],
+        "examApplication": [
+          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        ],
+        "summary": [
+          "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
+          "出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。"
+        ],
+        "explanation": "出口每单位回报提高。生产者转向出口直到国内价调整。国内生产增加消费下降。\n\n### 原创情境与推导\n\n原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。\n\n出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+      },
+      "en": {
+        "id": "u4-10-export-subsidy",
+        "locale": "en",
+        "title": "Export subsidies",
+        "takeaway": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
+        "definition": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
+        "causalChain": [
+          "Returns per exported unit rise",
+          "producers divert sales until domestic price adjusts",
+          "domestic output rises and consumption falls"
+        ],
+        "misconceptions": [
+          "More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification."
+        ],
+        "examApplication": [
+          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        ],
+        "summary": [
+          "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
+          "More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification."
+        ],
+        "explanation": "Returns per exported unit rise.  producers divert sales until domestic price adjusts.  domestic output rises and consumption falls.\n\n### Original scenario and reasoning\n\nHypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100.\n\nMore exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+      }
+    }
+  },
+  {
+    "id": "u4-11-administrative-barriers",
+    "content": {
+      "zh-CN": {
+        "id": "u4-11-administrative-barriers",
+        "locale": "zh-CN",
+        "title": "行政壁垒与标准",
+        "takeaway": "繁复手续、采购偏好或歧视性标准可增加进口成本；正当健康与环境标准也可能纠正市场失灵。",
+        "definition": "繁复手续、采购偏好或歧视性标准可增加进口成本；正当健康与环境标准也可能纠正市场失灵。",
+        "causalChain": [
+          "合规时间和费用提高",
+          "进口供给受限",
+          "保护收益与公共利益须分别判断"
+        ],
+        "misconceptions": [
+          "不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。"
+        ],
+        "examApplication": [
+          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        ],
+        "summary": [
+          "繁复手续、采购偏好或歧视性标准可增加进口成本；正当健康与环境标准也可能纠正市场失灵。",
+          "不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。"
+        ],
+        "explanation": "合规时间和费用提高。进口供给受限。保护收益与公共利益须分别判断。\n\n### 原创情境与推导\n\n原创假设：同样食品安全风险，若进口商被要求重复检验而本地企业无需检验，应评估必要性、证据与非歧视性。\n\n不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+      },
+      "en": {
+        "id": "u4-11-administrative-barriers",
+        "locale": "en",
+        "title": "Administrative barriers and standards",
+        "takeaway": "Complex procedures, procurement preferences or discriminatory standards can raise import costs; legitimate health and environmental standards may correct market failure.",
+        "definition": "Complex procedures, procurement preferences or discriminatory standards can raise import costs; legitimate health and environmental standards may correct market failure.",
+        "causalChain": [
+          "Compliance time and costs rise",
+          "imports are constrained",
+          "protection gains and public benefits need separate assessment"
+        ],
+        "misconceptions": [
+          "Lower imports alone do not prove a standard lacks public value, but hidden discrimination must not be ignored."
+        ],
+        "examApplication": [
+          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        ],
+        "summary": [
+          "Complex procedures, procurement preferences or discriminatory standards can raise import costs; legitimate health and environmental standards may correct market failure.",
+          "Lower imports alone do not prove a standard lacks public value, but hidden discrimination must not be ignored."
+        ],
+        "explanation": "Compliance time and costs rise.  imports are constrained.  protection gains and public benefits need separate assessment.\n\n### Original scenario and reasoning\n\nHypothetical scenario: importers face duplicate inspections while local firms with identical food risks do not. Assess necessity, evidence and non-discrimination.\n\nLower imports alone do not prove a standard lacks public value, but hidden discrimination must not be ignored.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+      }
+    }
+  },
+  {
+    "id": "u4-12-infant-industry",
+    "content": {
+      "zh-CN": {
+        "id": "u4-12-infant-industry",
+        "locale": "zh-CN",
+        "title": "幼稚产业与战略保护",
+        "takeaway": "暂时保护可能帮助有学习外部性的产业形成竞争力，但须证明未来收益超过当前成本并设置退出条件。",
+        "definition": "暂时保护可能帮助有学习外部性的产业形成竞争力，但须证明未来收益超过当前成本并设置退出条件。",
+        "causalChain": [
+          "初期规模小成本高",
+          "学习与规模扩大降低成本",
+          "到期撤销保护检验竞争力"
+        ],
+        "misconceptions": [
+          "产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。"
+        ],
+        "examApplication": [
+          "先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+        ],
+        "summary": [
+          "暂时保护可能帮助有学习外部性的产业形成竞争力，但须证明未来收益超过当前成本并设置退出条件。",
+          "产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。"
+        ],
+        "explanation": "初期规模小成本高。学习与规模扩大降低成本。到期撤销保护检验竞争力。\n\n### 原创情境与推导\n\n原创假设：设备产业获三年支持，续期取决于单位成本下降和出口表现；没有绩效条件可能把补贴固化。\n\n产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。\n\n先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+      },
+      "en": {
+        "id": "u4-12-infant-industry",
+        "locale": "en",
+        "title": "Infant industries and strategic protection",
+        "takeaway": "Temporary protection may help industries with learning spillovers become competitive, provided future gains exceed current costs and exit conditions are credible.",
+        "definition": "Temporary protection may help industries with learning spillovers become competitive, provided future gains exceed current costs and exit conditions are credible.",
+        "causalChain": [
+          "Small initial scale raises costs",
+          "learning and scale reduce costs",
+          "removing protection tests competitiveness"
+        ],
+        "misconceptions": [
+          "Being new does not justify protection; poor information, rent seeking and retaliation may outweigh gains."
+        ],
+        "examApplication": [
+          "State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+        ],
+        "summary": [
+          "Temporary protection may help industries with learning spillovers become competitive, provided future gains exceed current costs and exit conditions are credible.",
+          "Being new does not justify protection; poor information, rent seeking and retaliation may outweigh gains."
+        ],
+        "explanation": "Small initial scale raises costs.  learning and scale reduce costs.  removing protection tests competitiveness.\n\n### Original scenario and reasoning\n\nHypothetical scenario: equipment firms receive three years of support, conditional on lower unit costs and export performance. Unconditional renewal can entrench subsidies.\n\nBeing new does not justify protection; poor information, rent seeking and retaliation may outweigh gains.\n\nState protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+      }
+    }
+  },
+  {
+    "id": "u4-13-protection-arguments",
+    "content": {
+      "zh-CN": {
+        "id": "u4-13-protection-arguments",
+        "locale": "zh-CN",
+        "title": "就业、安全与反倾销论据",
+        "takeaway": "贸易保护可维护特定岗位或战略供应，但会提高投入成本、影响出口并可能引发报复；倾销不能仅由低价推断。",
+        "definition": "贸易保护可维护特定岗位或战略供应，但会提高投入成本、影响出口并可能引发报复；倾销不能仅由低价推断。",
+        "causalChain": [
+          "进口竞争冲击特定产业",
+          "保护减缓调整",
+          "下游成本与报复影响其他岗位"
+        ],
+        "misconceptions": [
+          "不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。"
+        ],
+        "examApplication": [
+          "先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+        ],
+        "summary": [
+          "贸易保护可维护特定岗位或战略供应，但会提高投入成本、影响出口并可能引发报复；倾销不能仅由低价推断。",
+          "不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。"
+        ],
+        "explanation": "进口竞争冲击特定产业。保护减缓调整。下游成本与报复影响其他岗位。\n\n### 原创情境与推导\n\n原创假设：钢铁关税保住部分炼钢岗位，却提高机械企业成本；评价需比较净就业、供应韧性与再培训方案。\n\n不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。\n\n先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+      },
+      "en": {
+        "id": "u4-13-protection-arguments",
+        "locale": "en",
+        "title": "Employment, security and anti-dumping arguments",
+        "takeaway": "Protection may preserve particular jobs or strategic supplies but raises input costs, affects exports and risks retaliation. A low price alone does not establish dumping.",
+        "definition": "Protection may preserve particular jobs or strategic supplies but raises input costs, affects exports and risks retaliation. A low price alone does not establish dumping.",
+        "causalChain": [
+          "Import competition hits particular industries",
+          "protection slows adjustment",
+          "input costs and retaliation affect jobs elsewhere"
+        ],
+        "misconceptions": [
+          "Protected-sector jobs are not the net employment effect; low wages do not by themselves establish unfair competition."
+        ],
+        "examApplication": [
+          "State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+        ],
+        "summary": [
+          "Protection may preserve particular jobs or strategic supplies but raises input costs, affects exports and risks retaliation. A low price alone does not establish dumping.",
+          "Protected-sector jobs are not the net employment effect; low wages do not by themselves establish unfair competition."
+        ],
+        "explanation": "Import competition hits particular industries.  protection slows adjustment.  input costs and retaliation affect jobs elsewhere.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a steel tariff preserves some steel jobs but raises machinery producers' costs. Evaluate net jobs, supply resilience and retraining alternatives.\n\nProtected-sector jobs are not the net employment effect; low wages do not by themselves establish unfair competition.\n\nState protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+      }
+    }
+  },
+  {
+    "id": "u4-14-protection-evaluation",
+    "content": {
+      "zh-CN": {
+        "id": "u4-14-protection-evaluation",
+        "locale": "zh-CN",
+        "title": "保护政策的综合评价",
+        "takeaway": "评价保护应比较效率、公平、财政成本、外部性、时限及贸易伙伴反应，并与针对性替代政策比较。",
+        "definition": "评价保护应比较效率、公平、财政成本、外部性、时限及贸易伙伴反应，并与针对性替代政策比较。",
+        "causalChain": [
+          "确定政策目标",
+          "比较各方收益与成本",
+          "依据条件和替代方案作判断"
+        ],
+        "misconceptions": [
+          "小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。"
+        ],
+        "examApplication": [
+          "先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+        ],
+        "summary": [
+          "评价保护应比较效率、公平、财政成本、外部性、时限及贸易伙伴反应，并与针对性替代政策比较。",
+          "小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。"
+        ],
+        "explanation": "确定政策目标。比较各方收益与成本。依据条件和替代方案作判断。\n\n### 原创情境与推导\n\n原创假设：衰退地区需要支持，可比较关税、工资保险与培训；若问题是技能错配，培训可能比长期高价保护更直接。\n\n小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。\n\n先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+      },
+      "en": {
+        "id": "u4-14-protection-evaluation",
+        "locale": "en",
+        "title": "Evaluating protection policies",
+        "takeaway": "Evaluate protection through efficiency, equity, fiscal costs, externalities, duration and partner responses, alongside targeted alternatives.",
+        "definition": "Evaluate protection through efficiency, equity, fiscal costs, externalities, duration and partner responses, alongside targeted alternatives.",
+        "causalChain": [
+          "Specify the objective",
+          "compare stakeholder gains and costs",
+          "judge using conditions and alternatives"
+        ],
+        "misconceptions": [
+          "Small-country welfare losses are model-dependent; externalities or large-country terms-of-trade effects require separate arguments."
+        ],
+        "examApplication": [
+          "State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+        ],
+        "summary": [
+          "Evaluate protection through efficiency, equity, fiscal costs, externalities, duration and partner responses, alongside targeted alternatives.",
+          "Small-country welfare losses are model-dependent; externalities or large-country terms-of-trade effects require separate arguments."
+        ],
+        "explanation": "Specify the objective.  compare stakeholder gains and costs.  judge using conditions and alternatives.\n\n### Original scenario and reasoning\n\nHypothetical scenario: compare tariffs, wage insurance and training for a declining region. If skill mismatch is the problem, training may address it more directly than prolonged price protection.\n\nSmall-country welfare losses are model-dependent; externalities or large-country terms-of-trade effects require separate arguments.\n\nState protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+      }
+    }
+  },
+  {
+    "id": "u4-15-wto",
+    "content": {
+      "zh-CN": {
+        "id": "u4-15-wto",
+        "locale": "zh-CN",
+        "title": "世界贸易组织与合作",
+        "takeaway": "WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。",
+        "definition": "WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。",
+        "causalChain": [
+          "成员承诺规则",
+          "透明度降低政策不确定性",
+          "协商与争端程序处理冲突"
+        ],
+        "misconceptions": [
+          "WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。"
+        ],
+        "examApplication": [
+          "先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+        ],
+        "summary": [
+          "WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。",
+          "WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。"
+        ],
+        "explanation": "成员承诺规则。透明度降低政策不确定性。协商与争端程序处理冲突。\n\n### 原创情境与推导\n\n原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。\n\nWTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。\n\n先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+      },
+      "en": {
+        "id": "u4-15-wto",
+        "locale": "en",
+        "title": "The WTO and trade cooperation",
+        "takeaway": "The WTO provides a framework for members' trade rules, negotiations, transparency and dispute settlement. Cooperation can reduce uncertainty, though interests and enforcement capacity differ.",
+        "definition": "The WTO provides a framework for members' trade rules, negotiations, transparency and dispute settlement. Cooperation can reduce uncertainty, though interests and enforcement capacity differ.",
+        "causalChain": [
+          "Members commit to rules",
+          "transparency reduces policy uncertainty",
+          "negotiation and dispute procedures address conflict"
+        ],
+        "misconceptions": [
+          "The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
+        ],
+        "examApplication": [
+          "State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+        ],
+        "summary": [
+          "The WTO provides a framework for members' trade rules, negotiations, transparency and dispute settlement. Cooperation can reduce uncertainty, though interests and enforcement capacity differ.",
+          "The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
+        ],
+        "explanation": "Members commit to rules.  transparency reduces policy uncertainty.  negotiation and dispute procedures address conflict.\n\n### Original scenario and reasoning\n\nHypothetical scenario: common rules focus a dispute over import restrictions on evidence, while a small economy may lack legal resources.\n\nThe WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification.\n\nState protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+      }
+    }
+  },
+  {
+    "id": "u4-16-trading-blocs",
+    "content": {
+      "zh-CN": {
+        "id": "u4-16-trading-blocs",
+        "locale": "zh-CN",
+        "title": "优惠协定、自由贸易区与关税同盟",
+        "takeaway": "优惠协定降低部分成员壁垒；自由贸易区取消成员间贸易壁垒但保留各自对外关税；关税同盟另有共同对外关税。",
+        "definition": "优惠协定降低部分成员壁垒；自由贸易区取消成员间贸易壁垒但保留各自对外关税；关税同盟另有共同对外关税。",
+        "causalChain": [
+          "成员降低内部壁垒",
+          "自由贸易区需原产地规则",
+          "共同对外关税形成关税同盟"
+        ],
+        "misconceptions": [
+          "内部自由贸易本身不意味着共同对外关税或共同货币。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "优惠协定降低部分成员壁垒；自由贸易区取消成员间贸易壁垒但保留各自对外关税；关税同盟另有共同对外关税。",
+          "内部自由贸易本身不意味着共同对外关税或共同货币。"
+        ],
+        "explanation": "成员降低内部壁垒。自由贸易区需原产地规则。共同对外关税形成关税同盟。\n\n### 原创情境与推导\n\n原创假设：A 与 B 内部免税但对 C 税率不同，属于自由贸易区；原产地规则防止经最低税率成员转运规避关税。\n\n内部自由贸易本身不意味着共同对外关税或共同货币。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-16-trading-blocs",
+        "locale": "en",
+        "title": "Preferential agreements, free trade areas and customs unions",
+        "takeaway": "Preferential agreements reduce selected member barriers. Free trade areas remove internal barriers while retaining separate external tariffs; customs unions add a common external tariff.",
+        "definition": "Preferential agreements reduce selected member barriers. Free trade areas remove internal barriers while retaining separate external tariffs; customs unions add a common external tariff.",
+        "causalChain": [
+          "Members lower internal barriers",
+          "free trade areas need rules of origin",
+          "a common external tariff creates a customs union"
+        ],
+        "misconceptions": [
+          "Internal free trade alone does not imply a common external tariff or currency."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "Preferential agreements reduce selected member barriers. Free trade areas remove internal barriers while retaining separate external tariffs; customs unions add a common external tariff.",
+          "Internal free trade alone does not imply a common external tariff or currency."
+        ],
+        "explanation": "Members lower internal barriers.  free trade areas need rules of origin.  a common external tariff creates a customs union.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A and B trade duty-free but tax C differently. This is a free trade area; rules of origin limit tariff circumvention through the lowest-tariff member.\n\nInternal free trade alone does not imply a common external tariff or currency.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    }
+  },
+  {
+    "id": "u4-17-common-market",
+    "content": {
+      "zh-CN": {
+        "id": "u4-17-common-market",
+        "locale": "zh-CN",
+        "title": "共同市场与经济一体化",
+        "takeaway": "共同市场在贸易一体化基础上允许生产要素跨成员流动；更深一体化涉及政策协调和自主权权衡。",
+        "definition": "共同市场在贸易一体化基础上允许生产要素跨成员流动；更深一体化涉及政策协调和自主权权衡。",
+        "causalChain": [
+          "壁垒下降扩展市场",
+          "劳动资本流向回报较高处",
+          "协调政策降低跨境摩擦"
+        ],
+        "misconceptions": [
+          "要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "共同市场在贸易一体化基础上允许生产要素跨成员流动；更深一体化涉及政策协调和自主权权衡。",
+          "要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。"
+        ],
+        "explanation": "壁垒下降扩展市场。劳动资本流向回报较高处。协调政策降低跨境摩擦。\n\n### 原创情境与推导\n\n原创假设：工程师跨成员就业改善技能匹配，但人才流出地区可能失去税基，资格互认与公共服务协调因此重要。\n\n要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-17-common-market",
+        "locale": "en",
+        "title": "Common markets and economic integration",
+        "takeaway": "A common market adds factor mobility to trade integration. Deeper integration brings policy coordination and trade-offs over autonomy.",
+        "definition": "A common market adds factor mobility to trade integration. Deeper integration brings policy coordination and trade-offs over autonomy.",
+        "causalChain": [
+          "Lower barriers expand markets",
+          "labour and capital move toward higher returns",
+          "policy coordination reduces cross-border frictions"
+        ],
+        "misconceptions": [
+          "Factor mobility does not ensure equal regional gains; infrastructure and institutional differences remain."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "A common market adds factor mobility to trade integration. Deeper integration brings policy coordination and trade-offs over autonomy.",
+          "Factor mobility does not ensure equal regional gains; infrastructure and institutional differences remain."
+        ],
+        "explanation": "Lower barriers expand markets.  labour and capital move toward higher returns.  policy coordination reduces cross-border frictions.\n\n### Original scenario and reasoning\n\nHypothetical scenario: engineers moving between members improve skill matching, while origin regions may lose tax revenue. Qualification recognition and service coordination matter.\n\nFactor mobility does not ensure equal regional gains; infrastructure and institutional differences remain.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    }
+  },
+  {
+    "id": "u4-18-trade-creation-diversion",
+    "content": {
+      "zh-CN": {
+        "id": "u4-18-trade-creation-diversion",
+        "locale": "zh-CN",
+        "title": "贸易创造与贸易转移",
+        "takeaway": "贸易创造以低成本成员进口替代高成本本国产出；贸易转移则以较高成本成员进口替代低成本非成员进口。",
+        "definition": "贸易创造以低成本成员进口替代高成本本国产出；贸易转移则以较高成本成员进口替代低成本非成员进口。",
+        "causalChain": [
+          "内部关税取消改变相对价格",
+          "采购来源改变",
+          "比较真实资源成本与关税收入变化"
+        ],
+        "misconceptions": [
+          "消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "贸易创造以低成本成员进口替代高成本本国产出；贸易转移则以较高成本成员进口替代低成本非成员进口。",
+          "消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。"
+        ],
+        "explanation": "内部关税取消改变相对价格。采购来源改变。比较真实资源成本与关税收入变化。\n\n### 原创情境与推导\n\n原创假设：非成员成本 8、成员成本 10，对外税 4。入盟后免税成员价 10 低于非成员含税价 12，转向成员属于贸易转移。\n\n消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-18-trade-creation-diversion",
+        "locale": "en",
+        "title": "Trade creation and trade diversion",
+        "takeaway": "Trade creation replaces costly domestic output with cheaper member imports. Trade diversion replaces cheaper non-member imports with higher-cost member imports.",
+        "definition": "Trade creation replaces costly domestic output with cheaper member imports. Trade diversion replaces cheaper non-member imports with higher-cost member imports.",
+        "causalChain": [
+          "Removing internal tariffs changes relative prices",
+          "sourcing changes",
+          "compare real resource costs and tariff revenue changes"
+        ],
+        "misconceptions": [
+          "A lower consumer price alone does not establish better global allocation; compare suppliers' real costs."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "Trade creation replaces costly domestic output with cheaper member imports. Trade diversion replaces cheaper non-member imports with higher-cost member imports.",
+          "A lower consumer price alone does not establish better global allocation; compare suppliers' real costs."
+        ],
+        "explanation": "Removing internal tariffs changes relative prices.  sourcing changes.  compare real resource costs and tariff revenue changes.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a non-member costs eight and a member ten; the external tariff is four. After integration, the member price ten undercuts the non-member landed price twelve. Switching is trade diversion.\n\nA lower consumer price alone does not establish better global allocation; compare suppliers' real costs.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    }
+  },
+  {
+    "id": "u4-19-monetary-union",
+    "content": {
+      "zh-CN": {
+        "id": "u4-19-monetary-union",
+        "locale": "zh-CN",
+        "title": "货币联盟的收益与代价",
+        "takeaway": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
+        "definition": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
+        "causalChain": [
+          "共同货币降低交易摩擦",
+          "价格比较更容易",
+          "非对称冲击下统一利率可能不适合所有成员"
+        ],
+        "misconceptions": [
+          "共同货币不自动带来财政联盟，也不消除成员信用风险。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
+          "共同货币不自动带来财政联盟，也不消除成员信用风险。"
+        ],
+        "explanation": "共同货币降低交易摩擦。价格比较更容易。非对称冲击下统一利率可能不适合所有成员。\n\n### 原创情境与推导\n\n原创假设：A 经济过热而 B 衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。\n\n共同货币不自动带来财政联盟，也不消除成员信用风险。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-19-monetary-union",
+        "locale": "en",
+        "title": "Benefits and costs of monetary union",
+        "takeaway": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
+        "definition": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
+        "causalChain": [
+          "A shared currency lowers transaction frictions",
+          "price comparison becomes easier",
+          "one interest rate may not suit members facing asymmetric shocks"
+        ],
+        "misconceptions": [
+          "A common currency does not automatically create a fiscal union or eliminate member credit risk."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
+          "A common currency does not automatically create a fiscal union or eliminate member credit risk."
+        ],
+        "explanation": "A shared currency lowers transaction frictions.  price comparison becomes easier.  one interest rate may not suit members facing asymmetric shocks.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A overheats while B is in recession, so one rate is hard to tailor. Labour mobility, fiscal transfers and price-wage flexibility affect adjustment.\n\nA common currency does not automatically create a fiscal union or eliminate member credit risk.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    }
+  },
+  {
+    "id": "u4-20-integration-evaluation",
+    "content": {
+      "zh-CN": {
+        "id": "u4-20-integration-evaluation",
+        "locale": "zh-CN",
+        "title": "一体化的动态评价",
+        "takeaway": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
+        "definition": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
+        "causalChain": [
+          "市场扩大吸引投资",
+          "竞争促进生产率",
+          "地区集中和政策约束改变分配"
+        ],
+        "misconceptions": [
+          "更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
+          "更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。"
+        ],
+        "explanation": "市场扩大吸引投资。竞争促进生产率。地区集中和政策约束改变分配。\n\n### 原创情境与推导\n\n原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。\n\n更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-20-integration-evaluation",
+        "locale": "en",
+        "title": "Dynamic evaluation of integration",
+        "takeaway": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
+        "definition": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
+        "causalChain": [
+          "A larger market attracts investment",
+          "competition encourages productivity",
+          "regional concentration and policy constraints alter distribution"
+        ],
+        "misconceptions": [
+          "More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
+          "More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+        ],
+        "explanation": "A larger market attracts investment.  competition encourages productivity.  regional concentration and policy constraints alter distribution.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes.\n\nMore intraregional trade can reflect diversion; volumes alone do not establish welfare gains.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    }
+  },
+  {
+    "id": "u4-21-floating-exchange-rate",
+    "content": {
+      "zh-CN": {
+        "id": "u4-21-floating-exchange-rate",
+        "locale": "zh-CN",
+        "title": "浮动汇率与报价方向",
+        "takeaway": "汇率是一种货币以另一种货币表示的价格；以美元每本币报价时，数值上升表示本币升值。",
+        "definition": "汇率是一种货币以另一种货币表示的价格；以美元每本币报价时，数值上升表示本币升值。",
+        "causalChain": [
+          "先定义报价单位",
+          "外汇需求与供给交点确定汇率",
+          "比较同一报价下的新旧价格"
+        ],
+        "misconceptions": [
+          "不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "汇率是一种货币以另一种货币表示的价格；以美元每本币报价时，数值上升表示本币升值。",
+          "不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。"
+        ],
+        "explanation": "先定义报价单位。外汇需求与供给交点确定汇率。比较同一报价下的新旧价格。\n\n### 原创情境与推导\n\n原创假设：1 本币从 0.50 美元变为 0.60 美元，本币升值 20%；倒数报价从每美元 2 本币变为约 1.67，百分比并不对称。\n\n不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-21-floating-exchange-rate",
+        "locale": "en",
+        "title": "Floating exchange rates and quotation",
+        "takeaway": "An exchange rate is one currency's price in another. With dollars per home currency unit, a rise means home-currency appreciation.",
+        "definition": "An exchange rate is one currency's price in another. With dollars per home currency unit, a rise means home-currency appreciation.",
+        "causalChain": [
+          "Define quotation units",
+          "currency demand and supply determine equilibrium",
+          "compare prices using the same quotation"
+        ],
+        "misconceptions": [
+          "Without stating numerator and denominator, a rising rate can be misread; floating-rate changes are appreciation or depreciation."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "An exchange rate is one currency's price in another. With dollars per home currency unit, a rise means home-currency appreciation.",
+          "Without stating numerator and denominator, a rising rate can be misread; floating-rate changes are appreciation or depreciation."
+        ],
+        "explanation": "Define quotation units.  currency demand and supply determine equilibrium.  compare prices using the same quotation.\n\n### Original scenario and reasoning\n\nHypothetical scenario: one home unit rises from 0.50 to 0.60 dollars, a 20% appreciation. The inverse falls from two home units per dollar to about 1.67; percentage changes are not symmetric.\n\nWithout stating numerator and denominator, a rising rate can be misread; floating-rate changes are appreciation or depreciation.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-22-currency-demand-supply",
+    "content": {
+      "zh-CN": {
+        "id": "u4-22-currency-demand-supply",
+        "locale": "zh-CN",
+        "title": "外汇需求与供给的决定因素",
+        "takeaway": "外国购买本国出口和资产形成对本币需求；本国购买进口和外国资产形成本币供给。",
+        "definition": "外国购买本国出口和资产形成对本币需求；本国购买进口和外国资产形成本币供给。",
+        "causalChain": [
+          "外国需求或相对回报改变",
+          "本币需求或供给移动",
+          "浮动汇率调整"
+        ],
+        "misconceptions": [
+          "利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "外国购买本国出口和资产形成对本币需求；本国购买进口和外国资产形成本币供给。",
+          "利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。"
+        ],
+        "explanation": "外国需求或相对回报改变。本币需求或供给移动。浮动汇率调整。\n\n### 原创情境与推导\n\n原创假设：在风险与预期不变时，本国利率相对上升吸引资产购买，本币需求增加，可能升值；风险溢价上升可抵消此效应。\n\n利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-22-currency-demand-supply",
+        "locale": "en",
+        "title": "Determinants of currency demand and supply",
+        "takeaway": "Foreign purchases of home exports and assets create demand for home currency; home purchases of imports and foreign assets create its supply.",
+        "definition": "Foreign purchases of home exports and assets create demand for home currency; home purchases of imports and foreign assets create its supply.",
+        "causalChain": [
+          "Foreign demand or relative returns change",
+          "home-currency demand or supply shifts",
+          "the floating rate adjusts"
+        ],
+        "misconceptions": [
+          "The interest-rate link is conditional; speculation, inflation expectations and capital restrictions also affect flows."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Foreign purchases of home exports and assets create demand for home currency; home purchases of imports and foreign assets create its supply.",
+          "The interest-rate link is conditional; speculation, inflation expectations and capital restrictions also affect flows."
+        ],
+        "explanation": "Foreign demand or relative returns change.  home-currency demand or supply shifts.  the floating rate adjusts.\n\n### Original scenario and reasoning\n\nHypothetical scenario: holding risk and expectations constant, a higher relative home interest rate attracts asset purchases and can appreciate the currency. A rising risk premium may offset this.\n\nThe interest-rate link is conditional; speculation, inflation expectations and capital restrictions also affect flows.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-23-exchange-rate-effects",
+    "content": {
+      "zh-CN": {
+        "id": "u4-23-exchange-rate-effects",
+        "locale": "zh-CN",
+        "title": "升贬值的经济影响",
+        "takeaway": "本币贬值可降低出口外币价格并提高进口本币价格，但净出口、通胀和增长效果取决于弹性、传导与产能。",
+        "definition": "本币贬值可降低出口外币价格并提高进口本币价格，但净出口、通胀和增长效果取决于弹性、传导与产能。",
+        "causalChain": [
+          "本币贬值改变相对价格",
+          "出口与进口数量逐步调整",
+          "净出口和进口成本共同影响 AD 与 AS"
+        ],
+        "misconceptions": [
+          "贬值不保证贸易余额改善，也可能提高外币债务的本币负担。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "本币贬值可降低出口外币价格并提高进口本币价格，但净出口、通胀和增长效果取决于弹性、传导与产能。",
+          "贬值不保证贸易余额改善，也可能提高外币债务的本币负担。"
+        ],
+        "explanation": "本币贬值改变相对价格。出口与进口数量逐步调整。净出口和进口成本共同影响 AD 与 AS。\n\n### 原创情境与推导\n\n原创假设：依赖进口燃料的企业成本上升，可能左移 SRAS；同时出口订单增加可右移 AD，不能只看一个渠道。\n\n贬值不保证贸易余额改善，也可能提高外币债务的本币负担。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-23-exchange-rate-effects",
+        "locale": "en",
+        "title": "Effects of appreciation and depreciation",
+        "takeaway": "Depreciation can lower foreign-currency export prices and raise home-currency import prices, while net exports, inflation and growth depend on elasticities, pass-through and capacity.",
+        "definition": "Depreciation can lower foreign-currency export prices and raise home-currency import prices, while net exports, inflation and growth depend on elasticities, pass-through and capacity.",
+        "causalChain": [
+          "Depreciation changes relative prices",
+          "export and import volumes adjust gradually",
+          "net exports and import costs affect AD and AS"
+        ],
+        "misconceptions": [
+          "Depreciation does not guarantee a better trade balance and can raise the home-currency burden of foreign-currency debt."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Depreciation can lower foreign-currency export prices and raise home-currency import prices, while net exports, inflation and growth depend on elasticities, pass-through and capacity.",
+          "Depreciation does not guarantee a better trade balance and can raise the home-currency burden of foreign-currency debt."
+        ],
+        "explanation": "Depreciation changes relative prices.  export and import volumes adjust gradually.  net exports and import costs affect AD and AS.\n\n### Original scenario and reasoning\n\nHypothetical scenario: imported fuel becomes dearer, potentially shifting SRAS left, while more export orders may shift AD right. Both channels matter.\n\nDepreciation does not guarantee a better trade balance and can raise the home-currency burden of foreign-currency debt.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-24-fixed-exchange-rate",
+    "content": {
+      "zh-CN": {
+        "id": "u4-24-fixed-exchange-rate",
+        "locale": "zh-CN",
+        "title": "固定汇率与储备干预",
+        "takeaway": "固定汇率由当局维持目标平价；本币面临贬值压力时，央行可卖外汇储备买本币，但储备有限。",
+        "definition": "固定汇率由当局维持目标平价；本币面临贬值压力时，央行可卖外汇储备买本币，但储备有限。",
+        "causalChain": [
+          "市场汇率低于目标",
+          "央行买本币增加需求",
+          "外汇储备下降以支持平价"
+        ],
+        "misconceptions": [
+          "官方下调固定平价称法定贬值；这不同于浮动市场的贬值。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "固定汇率由当局维持目标平价；本币面临贬值压力时，央行可卖外汇储备买本币，但储备有限。",
+          "官方下调固定平价称法定贬值；这不同于浮动市场的贬值。"
+        ],
+        "explanation": "市场汇率低于目标。央行买本币增加需求。外汇储备下降以支持平价。\n\n### 原创情境与推导\n\n原创假设：目标 1 本币=0.5 美元，市场需求下滑；卖美元买本币可支持目标，持续干预可能需要加息或政策调整。\n\n官方下调固定平价称法定贬值；这不同于浮动市场的贬值。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-24-fixed-exchange-rate",
+        "locale": "en",
+        "title": "Fixed exchange rates and reserve intervention",
+        "takeaway": "Authorities maintain a target parity in a fixed regime. Under downward pressure they can sell foreign reserves and buy home currency, but reserves are finite.",
+        "definition": "Authorities maintain a target parity in a fixed regime. Under downward pressure they can sell foreign reserves and buy home currency, but reserves are finite.",
+        "causalChain": [
+          "The market rate falls below parity",
+          "central-bank home-currency purchases add demand",
+          "foreign reserves decline to defend the peg"
+        ],
+        "misconceptions": [
+          "An official reduction of fixed parity is devaluation, distinct from market depreciation."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Authorities maintain a target parity in a fixed regime. Under downward pressure they can sell foreign reserves and buy home currency, but reserves are finite.",
+          "An official reduction of fixed parity is devaluation, distinct from market depreciation."
+        ],
+        "explanation": "The market rate falls below parity.  central-bank home-currency purchases add demand.  foreign reserves decline to defend the peg.\n\n### Original scenario and reasoning\n\nHypothetical scenario: the target is 0.5 dollars per home unit and demand falls. Selling dollars to buy home currency supports the target; sustained pressure may require higher rates or policy adjustment.\n\nAn official reduction of fixed parity is devaluation, distinct from market depreciation.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-25-managed-exchange-rate",
+    "content": {
+      "zh-CN": {
+        "id": "u4-25-managed-exchange-rate",
+        "locale": "zh-CN",
+        "title": "管理浮动与制度比较",
+        "takeaway": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
+        "definition": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
+        "causalChain": [
+          "市场冲击引起波动",
+          "当局选择性干预",
+          "汇率风险与政策成本重新分配"
+        ],
+        "misconceptions": [
+          "固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
+          "固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。"
+        ],
+        "explanation": "市场冲击引起波动。当局选择性干预。汇率风险与政策成本重新分配。\n\n### 原创情境与推导\n\n原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。\n\n固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-25-managed-exchange-rate",
+        "locale": "en",
+        "title": "Managed floating and regime comparison",
+        "takeaway": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
+        "definition": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
+        "causalChain": [
+          "Market shocks create volatility",
+          "authorities intervene selectively",
+          "exchange risk and policy costs are redistributed"
+        ],
+        "misconceptions": [
+          "Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
+          "Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions."
+        ],
+        "explanation": "Market shocks create volatility.  authorities intervene selectively.  exchange risk and policy costs are redistributed.\n\n### Original scenario and reasoning\n\nHypothetical scenario: an export-concentrated economy with mobile capital wants less volatility but cannot treat reserves as unlimited. Floating may cushion external shocks.\n\nFixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-26-exchange-calculations",
+    "content": {
+      "zh-CN": {
+        "id": "u4-26-exchange-calculations",
+        "locale": "zh-CN",
+        "title": "汇率换算与百分比",
+        "takeaway": "按报价单位相乘或相除完成换算；百分比变动以初始汇率为分母，倒数报价须重新计算。",
+        "definition": "按报价单位相乘或相除完成换算；百分比变动以初始汇率为分母，倒数报价须重新计算。",
+        "causalChain": [
+          "写清金额单位",
+          "使换算单位约去",
+          "用新减旧除以旧计算变动"
+        ],
+        "misconceptions": [
+          "进口账单变化可能还含数量与外币价格变化；应控制条件。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "按报价单位相乘或相除完成换算；百分比变动以初始汇率为分母，倒数报价须重新计算。",
+          "进口账单变化可能还含数量与外币价格变化；应控制条件。"
+        ],
+        "explanation": "写清金额单位。使换算单位约去。用新减旧除以旧计算变动。\n\n### 原创情境与推导\n\n原创假设：每美元 8 本币，240 本币可换 30 美元；变为每美元 10 本币，同额只能换 24 美元。本币的美元价值下降 20%，不是 25%。\n\n进口账单变化可能还含数量与外币价格变化；应控制条件。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-26-exchange-calculations",
+        "locale": "en",
+        "title": "Currency conversion and percentage changes",
+        "takeaway": "Convert by multiplying or dividing according to units. Percentage changes use the initial rate; inverse quotations need a separate calculation.",
+        "definition": "Convert by multiplying or dividing according to units. Percentage changes use the initial rate; inverse quotations need a separate calculation.",
+        "causalChain": [
+          "Write amount units",
+          "cancel units in conversion",
+          "calculate change as new minus old divided by old"
+        ],
+        "misconceptions": [
+          "An import bill can also change with quantity and foreign price; hold these conditions constant."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Convert by multiplying or dividing according to units. Percentage changes use the initial rate; inverse quotations need a separate calculation.",
+          "An import bill can also change with quantity and foreign price; hold these conditions constant."
+        ],
+        "explanation": "Write amount units.  cancel units in conversion.  calculate change as new minus old divided by old.\n\n### Original scenario and reasoning\n\nHypothetical scenario: at eight home units per dollar, 240 home units buy thirty dollars; at ten, they buy twenty-four. The home currency's dollar value falls 20%, not 25%.\n\nAn import bill can also change with quantity and foreign price; hold these conditions constant.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-27-exchange-policy-trilemma",
+    "content": {
+      "zh-CN": {
+        "id": "u4-27-exchange-policy-trilemma",
+        "locale": "zh-CN",
+        "title": "汇率制度与政策约束",
+        "takeaway": "资本自由流动下，固定汇率约束独立货币政策；利差会引发资金流并迫使当局干预或调整政策。",
+        "definition": "资本自由流动下，固定汇率约束独立货币政策；利差会引发资金流并迫使当局干预或调整政策。",
+        "causalChain": [
+          "独立降息降低相对回报",
+          "资本流出增加贬值压力",
+          "捍卫固定汇率限制降息空间"
+        ],
+        "misconceptions": [
+          "该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "资本自由流动下，固定汇率约束独立货币政策；利差会引发资金流并迫使当局干预或调整政策。",
+          "该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。"
+        ],
+        "explanation": "独立降息降低相对回报。资本流出增加贬值压力。捍卫固定汇率限制降息空间。\n\n### 原创情境与推导\n\n原创假设：一国希望降息刺激就业，又维持平价且允许资本自由流动；持续资本外流暴露三目标难以同时保持。\n\n该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-27-exchange-policy-trilemma",
+        "locale": "en",
+        "title": "Exchange regimes and policy constraints",
+        "takeaway": "With free capital mobility, a fixed exchange rate constrains independent monetary policy: interest differentials trigger flows requiring intervention or policy adjustment.",
+        "definition": "With free capital mobility, a fixed exchange rate constrains independent monetary policy: interest differentials trigger flows requiring intervention or policy adjustment.",
+        "causalChain": [
+          "Independent rate cuts reduce relative returns",
+          "outflows add depreciation pressure",
+          "defending parity restricts rate cuts"
+        ],
+        "misconceptions": [
+          "The constraint depends on mobility, risk and credibility; it does not imply identical interest rates everywhere at every moment."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "With free capital mobility, a fixed exchange rate constrains independent monetary policy: interest differentials trigger flows requiring intervention or policy adjustment.",
+          "The constraint depends on mobility, risk and credibility; it does not imply identical interest rates everywhere at every moment."
+        ],
+        "explanation": "Independent rate cuts reduce relative returns.  outflows add depreciation pressure.  defending parity restricts rate cuts.\n\n### Original scenario and reasoning\n\nHypothetical scenario: an economy wants lower rates for jobs, a fixed parity and free capital flows. Persistent outflows expose the difficulty of sustaining all three.\n\nThe constraint depends on mobility, risk and credibility; it does not imply identical interest rates everywhere at every moment.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    }
+  },
+  {
+    "id": "u4-28-current-account",
+    "content": {
+      "zh-CN": {
+        "id": "u4-28-current-account",
+        "locale": "zh-CN",
+        "title": "经常账户的构成",
+        "takeaway": "经常账户记录货物、服务、初次收入及二次收入的跨境净流量；贸易余额只是其中一部分。",
+        "definition": "经常账户记录货物、服务、初次收入及二次收入的跨境净流量；贸易余额只是其中一部分。",
+        "causalChain": [
+          "货物服务出口形成贷项",
+          "向国外支付收入形成借项",
+          "各项净额相加得到经常账户余额"
+        ],
+        "misconceptions": [
+          "海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "经常账户记录货物、服务、初次收入及二次收入的跨境净流量；贸易余额只是其中一部分。",
+          "海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。"
+        ],
+        "explanation": "货物服务出口形成贷项。向国外支付收入形成借项。各项净额相加得到经常账户余额。\n\n### 原创情境与推导\n\n原创假设：货物 −20、服务 +10、初次收入 −5、二次收入 +3，经常账户为 −12；收到海外亲属汇款通常属二次收入。\n\n海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-28-current-account",
+        "locale": "en",
+        "title": "Components of the current account",
+        "takeaway": "The current account records net cross-border goods, services, primary income and secondary income flows. The trade balance is only part of it.",
+        "definition": "The current account records net cross-border goods, services, primary income and secondary income flows. The trade balance is only part of it.",
+        "causalChain": [
+          "Goods and service exports create credits",
+          "income paid abroad creates debits",
+          "component balances sum to the current account"
+        ],
+        "misconceptions": [
+          "Income on foreign investment is primary income; purchasing foreign shares belongs to the financial account."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "The current account records net cross-border goods, services, primary income and secondary income flows. The trade balance is only part of it.",
+          "Income on foreign investment is primary income; purchasing foreign shares belongs to the financial account."
+        ],
+        "explanation": "Goods and service exports create credits.  income paid abroad creates debits.  component balances sum to the current account.\n\n### Original scenario and reasoning\n\nHypothetical scenario: goods −20, services +10, primary income −5 and secondary income +3 give a current-account balance of −12. Family remittances received normally enter secondary income.\n\nIncome on foreign investment is primary income; purchasing foreign shares belongs to the financial account.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-29-capital-financial-account",
+    "content": {
+      "zh-CN": {
+        "id": "u4-29-capital-financial-account",
+        "locale": "zh-CN",
+        "title": "资本账户与金融账户",
+        "takeaway": "资本账户记录资本转移及非生产非金融资产交易；金融账户记录跨境金融资产与负债交易，包括直接投资、证券投资、其他投资和储备。",
+        "definition": "资本账户记录资本转移及非生产非金融资产交易；金融账户记录跨境金融资产与负债交易，包括直接投资、证券投资、其他投资和储备。",
+        "causalChain": [
+          "跨境融资改变资产负债",
+          "按投资性质分类",
+          "与经常项目形成对应记录"
+        ],
+        "misconceptions": [
+          "日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "资本账户记录资本转移及非生产非金融资产交易；金融账户记录跨境金融资产与负债交易，包括直接投资、证券投资、其他投资和储备。",
+          "日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。"
+        ],
+        "explanation": "跨境融资改变资产负债。按投资性质分类。与经常项目形成对应记录。\n\n### 原创情境与推导\n\n原创假设：外国企业建厂属直接投资，居民买外国债券属证券投资；贷款本金偿还是金融交易，利息是初次收入。\n\n日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-29-capital-financial-account",
+        "locale": "en",
+        "title": "Capital and financial accounts",
+        "takeaway": "The capital account records capital transfers and non-produced non-financial assets. The financial account records cross-border asset and liability transactions, including direct, portfolio, other investment and reserves.",
+        "definition": "The capital account records capital transfers and non-produced non-financial assets. The financial account records cross-border asset and liability transactions, including direct, portfolio, other investment and reserves.",
+        "causalChain": [
+          "Cross-border finance changes assets and liabilities",
+          "classify the type of investment",
+          "record counterparts to current transactions"
+        ],
+        "misconceptions": [
+          "Most everyday capital inflows belong to the financial account; the capital account is not a catch-all for investment."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "The capital account records capital transfers and non-produced non-financial assets. The financial account records cross-border asset and liability transactions, including direct, portfolio, other investment and reserves.",
+          "Most everyday capital inflows belong to the financial account; the capital account is not a catch-all for investment."
+        ],
+        "explanation": "Cross-border finance changes assets and liabilities.  classify the type of investment.  record counterparts to current transactions.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a foreign firm building a factory is direct investment and residents buying foreign bonds is portfolio investment. Loan principal repayment is financial, while interest is primary income.\n\nMost everyday capital inflows belong to the financial account; the capital account is not a catch-all for investment.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-30-bop-identity",
+    "content": {
+      "zh-CN": {
+        "id": "u4-30-bop-identity",
+        "locale": "zh-CN",
+        "title": "国际收支恒等式与符号",
+        "takeaway": "采用金融账户为净资本流入的教学符号时，CA+KA+FA+误差遗漏=0；官方净资产获得减负债增加的符号则相反。",
+        "definition": "采用金融账户为净资本流入的教学符号时，CA+KA+FA+误差遗漏=0；官方净资产获得减负债增加的符号则相反。",
+        "causalChain": [
+          "声明金融账户符号",
+          "记录交易对应项",
+          "用误差遗漏协调统计差异"
+        ],
+        "misconceptions": [
+          "不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "采用金融账户为净资本流入的教学符号时，CA+KA+FA+误差遗漏=0；官方净资产获得减负债增加的符号则相反。",
+          "不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。"
+        ],
+        "explanation": "声明金融账户符号。记录交易对应项。用误差遗漏协调统计差异。\n\n### 原创情境与推导\n\n原创假设：CA=−30、KA=0、误差=0，则教学净流入 FA=+30；官方净借出符号下 FA=−30。储备交易已经包含在金融账户中。\n\n不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-30-bop-identity",
+        "locale": "en",
+        "title": "Balance-of-payments identity and signs",
+        "takeaway": "With a teaching convention that defines FA as net financial inflows, CA+KA+FA+errors=0. The official net-acquisition-of-assets-minus-liabilities convention uses the opposite FA sign.",
+        "definition": "With a teaching convention that defines FA as net financial inflows, CA+KA+FA+errors=0. The official net-acquisition-of-assets-minus-liabilities convention uses the opposite FA sign.",
+        "causalChain": [
+          "State the financial-account sign convention",
+          "record transaction counterparts",
+          "use errors and omissions for statistical discrepancies"
+        ],
+        "misconceptions": [
+          "Do not count reserves inside FA and then add them again; balanced accounts do not imply a zero current account."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "With a teaching convention that defines FA as net financial inflows, CA+KA+FA+errors=0. The official net-acquisition-of-assets-minus-liabilities convention uses the opposite FA sign.",
+          "Do not count reserves inside FA and then add them again; balanced accounts do not imply a zero current account."
+        ],
+        "explanation": "State the financial-account sign convention.  record transaction counterparts.  use errors and omissions for statistical discrepancies.\n\n### Original scenario and reasoning\n\nHypothetical scenario: CA=−30, KA=0 and no errors imply teaching-convention inflows FA=+30, or official net-lending FA=−30. Reserve transactions are already within the financial account.\n\nDo not count reserves inside FA and then add them again; balanced accounts do not imply a zero current account.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-31-current-account-imbalances",
+    "content": {
+      "zh-CN": {
+        "id": "u4-31-current-account-imbalances",
+        "locale": "zh-CN",
+        "title": "经常账户失衡的原因与可持续性",
+        "takeaway": "经常账户逆差可能反映投资进口、竞争力不足或内需强劲；其可持续性取决于融资结构、偿债能力与资金用途。",
+        "definition": "经常账户逆差可能反映投资进口、竞争力不足或内需强劲；其可持续性取决于融资结构、偿债能力与资金用途。",
+        "causalChain": [
+          "进口或收入支付超过相应收入",
+          "外部融资或储备变化对应缺口",
+          "未来收益与融资稳定性决定风险"
+        ],
+        "misconceptions": [
+          "逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "经常账户逆差可能反映投资进口、竞争力不足或内需强劲；其可持续性取决于融资结构、偿债能力与资金用途。",
+          "逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。"
+        ],
+        "explanation": "进口或收入支付超过相应收入。外部融资或储备变化对应缺口。未来收益与融资稳定性决定风险。\n\n### 原创情境与推导\n\n原创假设：设备进口支持未来出口，与短期外币借款资助消费具有不同风险；长期直接投资通常比易撤出的短期融资更稳定。\n\n逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-31-current-account-imbalances",
+        "locale": "en",
+        "title": "Causes and sustainability of current-account imbalances",
+        "takeaway": "A current deficit may reflect investment imports, weak competitiveness or strong domestic demand. Sustainability depends on financing structure, repayment capacity and how funds are used.",
+        "definition": "A current deficit may reflect investment imports, weak competitiveness or strong domestic demand. Sustainability depends on financing structure, repayment capacity and how funds are used.",
+        "causalChain": [
+          "Imports or income payments exceed receipts",
+          "external financing or reserves correspond to the gap",
+          "future returns and financing stability determine risks"
+        ],
+        "misconceptions": [
+          "Deficits are not automatically bad, nor surpluses always good; compare size, maturity, currency and structure."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "A current deficit may reflect investment imports, weak competitiveness or strong domestic demand. Sustainability depends on financing structure, repayment capacity and how funds are used.",
+          "Deficits are not automatically bad, nor surpluses always good; compare size, maturity, currency and structure."
+        ],
+        "explanation": "Imports or income payments exceed receipts.  external financing or reserves correspond to the gap.  future returns and financing stability determine risks.\n\n### Original scenario and reasoning\n\nHypothetical scenario: machinery imports supporting future exports differ from short-term foreign-currency borrowing funding consumption. Long-term direct investment is generally more stable than easily reversed short-term finance.\n\nDeficits are not automatically bad, nor surpluses always good; compare size, maturity, currency and structure.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-32-marshall-lerner",
+    "content": {
+      "zh-CN": {
+        "id": "u4-32-marshall-lerner",
+        "locale": "zh-CN",
+        "title": "马歇尔—勒纳条件",
+        "takeaway": "在初始贸易平衡等标准假设下，贬值改善贸易余额要求出口与进口需求价格弹性的绝对值之和大于 1。",
+        "definition": "在初始贸易平衡等标准假设下，贬值改善贸易余额要求出口与进口需求价格弹性的绝对值之和大于 1。",
+        "causalChain": [
+          "贬值改变相对价格",
+          "数量按需求弹性调整",
+          "数量效应超过进口单位成本效应时余额改善"
+        ],
+        "misconceptions": [
+          "条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "在初始贸易平衡等标准假设下，贬值改善贸易余额要求出口与进口需求价格弹性的绝对值之和大于 1。",
+          "条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。"
+        ],
+        "explanation": "贬值改变相对价格。数量按需求弹性调整。数量效应超过进口单位成本效应时余额改善。\n\n### 原创情境与推导\n\n原创假设：出口弹性 0.7、进口弹性 0.6，总和 1.3，在充分供给反应和相关模型假设下支持改善；不意味着一定立即改善。\n\n条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-32-marshall-lerner",
+        "locale": "en",
+        "title": "The Marshall–Lerner condition",
+        "takeaway": "Under standard assumptions including initial trade balance, depreciation improves the trade balance when absolute export and import demand elasticities sum to more than one.",
+        "definition": "Under standard assumptions including initial trade balance, depreciation improves the trade balance when absolute export and import demand elasticities sum to more than one.",
+        "causalChain": [
+          "Depreciation changes relative prices",
+          "volumes respond to demand elasticities",
+          "the balance improves when volume effects outweigh the import unit-cost effect"
+        ],
+        "misconceptions": [
+          "The condition concerns the trade balance, not all income and transfers; an elasticity is not the quantity percentage change itself."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "Under standard assumptions including initial trade balance, depreciation improves the trade balance when absolute export and import demand elasticities sum to more than one.",
+          "The condition concerns the trade balance, not all income and transfers; an elasticity is not the quantity percentage change itself."
+        ],
+        "explanation": "Depreciation changes relative prices.  volumes respond to demand elasticities.  the balance improves when volume effects outweigh the import unit-cost effect.\n\n### Original scenario and reasoning\n\nHypothetical scenario: elasticities 0.7 and 0.6 sum to 1.3, supporting improvement with sufficient supply response and the model's assumptions; improvement need not be immediate.\n\nThe condition concerns the trade balance, not all income and transfers; an elasticity is not the quantity percentage change itself.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-33-j-curve",
+    "content": {
+      "zh-CN": {
+        "id": "u4-33-j-curve",
+        "locale": "zh-CN",
+        "title": "J 曲线与调整时滞",
+        "takeaway": "贬值后贸易余额可能先恶化后改善，因为合同与消费习惯使数量反应滞后于进口价格变化。",
+        "definition": "贬值后贸易余额可能先恶化后改善，因为合同与消费习惯使数量反应滞后于进口价格变化。",
+        "causalChain": [
+          "进口本币单价先上升",
+          "短期合同使数量调整缓慢",
+          "长期弹性增大可能改善余额"
+        ],
+        "misconceptions": [
+          "J 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "贬值后贸易余额可能先恶化后改善，因为合同与消费习惯使数量反应滞后于进口价格变化。",
+          "J 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。"
+        ],
+        "explanation": "进口本币单价先上升。短期合同使数量调整缓慢。长期弹性增大可能改善余额。\n\n### 原创情境与推导\n\n原创假设：进口燃料合同量短期固定，贬值先增加账单；之后企业节能并改用本地投入，进口量才下降。\n\nJ 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-33-j-curve",
+        "locale": "en",
+        "title": "The J-curve and adjustment lags",
+        "takeaway": "After depreciation the trade balance may first worsen and later improve because contracts and habits delay quantity responses relative to import-price changes.",
+        "definition": "After depreciation the trade balance may first worsen and later improve because contracts and habits delay quantity responses relative to import-price changes.",
+        "causalChain": [
+          "Home-currency import prices rise first",
+          "contracts slow initial volume adjustment",
+          "higher long-run elasticities may improve the balance"
+        ],
+        "misconceptions": [
+          "The J shape is only a possible path; weak long-run elasticities or supply constraints can prevent improvement."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "After depreciation the trade balance may first worsen and later improve because contracts and habits delay quantity responses relative to import-price changes.",
+          "The J shape is only a possible path; weak long-run elasticities or supply constraints can prevent improvement."
+        ],
+        "explanation": "Home-currency import prices rise first.  contracts slow initial volume adjustment.  higher long-run elasticities may improve the balance.\n\n### Original scenario and reasoning\n\nHypothetical scenario: contracted fuel volumes initially remain fixed, so depreciation raises the bill first. Firms later conserve energy and substitute domestic inputs, reducing imports.\n\nThe J shape is only a possible path; weak long-run elasticities or supply constraints can prevent improvement.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-34-imbalance-policies",
+    "content": {
+      "zh-CN": {
+        "id": "u4-34-imbalance-policies",
+        "locale": "zh-CN",
+        "title": "支出转换、支出减少与供给侧措施",
+        "takeaway": "经常账户政策可转换支出来源、减少总支出或改善供给竞争力，各有时滞和宏观目标代价。",
+        "definition": "经常账户政策可转换支出来源、减少总支出或改善供给竞争力，各有时滞和宏观目标代价。",
+        "causalChain": [
+          "转换政策改变相对价格",
+          "紧缩减少进口需求",
+          "生产率政策改善长期竞争力"
+        ],
+        "misconceptions": [
+          "不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "经常账户政策可转换支出来源、减少总支出或改善供给竞争力，各有时滞和宏观目标代价。",
+          "不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。"
+        ],
+        "explanation": "转换政策改变相对价格。紧缩减少进口需求。生产率政策改善长期竞争力。\n\n### 原创情境与推导\n\n原创假设：加息压低消费和进口可能缩小逆差，却增加失业且可能吸引资本升值；培训与物流改善较慢但可提高出口能力。\n\n不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-34-imbalance-policies",
+        "locale": "en",
+        "title": "Expenditure switching, reduction and supply policies",
+        "takeaway": "Current-account policies can switch spending sources, reduce total expenditure or improve supply competitiveness, each with lags and macroeconomic trade-offs.",
+        "definition": "Current-account policies can switch spending sources, reduce total expenditure or improve supply competitiveness, each with lags and macroeconomic trade-offs.",
+        "causalChain": [
+          "Switching policies alter relative prices",
+          "contraction reduces import demand",
+          "productivity policy improves long-run competitiveness"
+        ],
+        "misconceptions": [
+          "Do not omit the exchange-rate counterchannel or treat deficit reduction through demand compression as costless."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "Current-account policies can switch spending sources, reduce total expenditure or improve supply competitiveness, each with lags and macroeconomic trade-offs.",
+          "Do not omit the exchange-rate counterchannel or treat deficit reduction through demand compression as costless."
+        ],
+        "explanation": "Switching policies alter relative prices.  contraction reduces import demand.  productivity policy improves long-run competitiveness.\n\n### Original scenario and reasoning\n\nHypothetical scenario: higher rates may cut consumption and imports but raise unemployment and attract appreciating capital flows. Training and logistics take longer but can improve export capacity.\n\nDo not omit the exchange-rate counterchannel or treat deficit reduction through demand compression as costless.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    }
+  },
+  {
+    "id": "u4-35-sustainable-development",
+    "content": {
+      "zh-CN": {
+        "id": "u4-35-sustainable-development",
+        "locale": "zh-CN",
+        "title": "增长、发展与可持续性",
+        "takeaway": "经济发展涵盖健康、教育、机会和生活质量；可持续发展要求满足当前需要而不损害后代满足需要的能力。",
+        "definition": "经济发展涵盖健康、教育、机会和生活质量；可持续发展要求满足当前需要而不损害后代满足需要的能力。",
+        "causalChain": [
+          "产出增长扩大可用资源",
+          "分配与公共服务影响能力",
+          "自然资本保护维持未来选择"
+        ],
+        "misconceptions": [
+          "增长可能资助发展，但并非充分条件；可持续性也包含代际公平。"
+        ],
+        "examApplication": [
+          "连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+        ],
+        "summary": [
+          "经济发展涵盖健康、教育、机会和生活质量；可持续发展要求满足当前需要而不损害后代满足需要的能力。",
+          "增长可能资助发展，但并非充分条件；可持续性也包含代际公平。"
+        ],
+        "explanation": "产出增长扩大可用资源。分配与公共服务影响能力。自然资本保护维持未来选择。\n\n### 原创情境与推导\n\n原创假设：采矿提高 GDP，但污染水源并挤压农业，不能只用产出增长判断发展；需衡量健康、收入分配和生态损失。\n\n增长可能资助发展，但并非充分条件；可持续性也包含代际公平。\n\n连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+      },
+      "en": {
+        "id": "u4-35-sustainable-development",
+        "locale": "en",
+        "title": "Growth, development and sustainability",
+        "takeaway": "Development concerns health, education, opportunity and quality of life. Sustainable development meets present needs without compromising future generations' ability to meet theirs.",
+        "definition": "Development concerns health, education, opportunity and quality of life. Sustainable development meets present needs without compromising future generations' ability to meet theirs.",
+        "causalChain": [
+          "Output growth expands available resources",
+          "distribution and public services shape capabilities",
+          "natural-capital protection preserves future options"
+        ],
+        "misconceptions": [
+          "Growth can finance development but is not sufficient; sustainability includes intergenerational equity."
+        ],
+        "examApplication": [
+          "Connect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+        ],
+        "summary": [
+          "Development concerns health, education, opportunity and quality of life. Sustainable development meets present needs without compromising future generations' ability to meet theirs.",
+          "Growth can finance development but is not sufficient; sustainability includes intergenerational equity."
+        ],
+        "explanation": "Output growth expands available resources.  distribution and public services shape capabilities.  natural-capital protection preserves future options.\n\n### Original scenario and reasoning\n\nHypothetical scenario: mining raises GDP but pollutes water and harms farming. Evaluate health, distribution and ecological losses alongside output.\n\nGrowth can finance development but is not sufficient; sustainability includes intergenerational equity.\n\nConnect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+      }
+    }
+  },
+  {
+    "id": "u4-36-environment-poverty",
+    "content": {
+      "zh-CN": {
+        "id": "u4-36-environment-poverty",
+        "locale": "zh-CN",
+        "title": "贫困、环境与共同资源",
+        "takeaway": "贫困可能迫使家庭依赖短期资源开采，环境退化又削弱生计；产权、替代收入和公共服务影响这一循环。",
+        "definition": "贫困可能迫使家庭依赖短期资源开采，环境退化又削弱生计；产权、替代收入和公共服务影响这一循环。",
+        "causalChain": [
+          "低收入限制替代选择",
+          "过度使用共同资源",
+          "资源退化使收入更脆弱"
+        ],
+        "misconceptions": [
+          "环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。"
+        ],
+        "examApplication": [
+          "连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+        ],
+        "summary": [
+          "贫困可能迫使家庭依赖短期资源开采，环境退化又削弱生计；产权、替代收入和公共服务影响这一循环。",
+          "环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。"
+        ],
+        "explanation": "低收入限制替代选择。过度使用共同资源。资源退化使收入更脆弱。\n\n### 原创情境与推导\n\n原创假设：缺乏可靠电力的村庄依赖薪柴，单独禁伐可能伤害穷人；社区管理与清洁能源可同时改善激励和选择。\n\n环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。\n\n连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+      },
+      "en": {
+        "id": "u4-36-environment-poverty",
+        "locale": "en",
+        "title": "Poverty, environment and common resources",
+        "takeaway": "Poverty can push households toward short-run resource extraction, while degradation undermines livelihoods. Property rights, alternative incomes and public services influence the cycle.",
+        "definition": "Poverty can push households toward short-run resource extraction, while degradation undermines livelihoods. Property rights, alternative incomes and public services influence the cycle.",
+        "causalChain": [
+          "Low income restricts alternatives",
+          "common resources are overused",
+          "degradation makes income more vulnerable"
+        ],
+        "misconceptions": [
+          "High consumption among wealthy groups can also damage the environment; responsibility cannot be assigned solely to poor people."
+        ],
+        "examApplication": [
+          "Connect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+        ],
+        "summary": [
+          "Poverty can push households toward short-run resource extraction, while degradation undermines livelihoods. Property rights, alternative incomes and public services influence the cycle.",
+          "High consumption among wealthy groups can also damage the environment; responsibility cannot be assigned solely to poor people."
+        ],
+        "explanation": "Low income restricts alternatives.  common resources are overused.  degradation makes income more vulnerable.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a village without reliable power relies on fuelwood. A logging ban alone may harm poor households; community management and clean energy improve incentives and alternatives together.\n\nHigh consumption among wealthy groups can also damage the environment; responsibility cannot be assigned solely to poor people.\n\nConnect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+      }
+    }
+  },
+  {
+    "id": "u4-37-sdg-policy",
+    "content": {
+      "zh-CN": {
+        "id": "u4-37-sdg-policy",
+        "locale": "zh-CN",
+        "title": "可持续发展目标与政策权衡",
+        "takeaway": "发展政策需要同时评价减贫、健康、教育、环境和制度目标，用明确指标检验协同与冲突。",
+        "definition": "发展政策需要同时评价减贫、健康、教育、环境和制度目标，用明确指标检验协同与冲突。",
+        "causalChain": [
+          "确定具体目标与基线",
+          "识别协同及机会成本",
+          "用分组指标追踪结果"
+        ],
+        "misconceptions": [
+          "宣布目标不等于观察到进展；要注明指标、年份和群体。"
+        ],
+        "examApplication": [
+          "连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+        ],
+        "summary": [
+          "发展政策需要同时评价减贫、健康、教育、环境和制度目标，用明确指标检验协同与冲突。",
+          "宣布目标不等于观察到进展；要注明指标、年份和群体。"
+        ],
+        "explanation": "确定具体目标与基线。识别协同及机会成本。用分组指标追踪结果。\n\n### 原创情境与推导\n\n原创假设：清洁公交可减少污染并改善就业可达性，但票价上涨可能排斥低收入者；比较定向补助与财政成本。\n\n宣布目标不等于观察到进展；要注明指标、年份和群体。\n\n连接当代、代际公平与自然资本，说明政策协同、机会成本和可观察指标。"
+      },
+      "en": {
+        "id": "u4-37-sdg-policy",
+        "locale": "en",
+        "title": "Sustainable development goals and policy trade-offs",
+        "takeaway": "Development policy should evaluate poverty, health, education, environment and institutions together, using explicit indicators to test synergies and conflicts.",
+        "definition": "Development policy should evaluate poverty, health, education, environment and institutions together, using explicit indicators to test synergies and conflicts.",
+        "causalChain": [
+          "Set specific goals and baselines",
+          "identify synergies and opportunity costs",
+          "track outcomes with disaggregated indicators"
+        ],
+        "misconceptions": [
+          "Announcing a goal is not observing progress; specify indicators, years and groups."
+        ],
+        "examApplication": [
+          "Connect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+        ],
+        "summary": [
+          "Development policy should evaluate poverty, health, education, environment and institutions together, using explicit indicators to test synergies and conflicts.",
+          "Announcing a goal is not observing progress; specify indicators, years and groups."
+        ],
+        "explanation": "Set specific goals and baselines.  identify synergies and opportunity costs.  track outcomes with disaggregated indicators.\n\n### Original scenario and reasoning\n\nHypothetical scenario: clean buses reduce pollution and improve job access, but higher fares may exclude low-income riders. Compare targeted support with fiscal costs.\n\nAnnouncing a goal is not observing progress; specify indicators, years and groups.\n\nConnect current and intergenerational equity with natural capital, explaining synergies, opportunity costs and observable indicators."
+      }
+    }
+  },
+  {
+    "id": "u4-38-development-indicators",
+    "content": {
+      "zh-CN": {
+        "id": "u4-38-development-indicators",
+        "locale": "zh-CN",
+        "title": "人均收入与 PPP 比较",
+        "takeaway": "人均 GNI 衡量平均居民收入，PPP 调整价格水平差异；两者都不能充分揭示分配、公共服务或环境质量。",
+        "definition": "人均 GNI 衡量平均居民收入，PPP 调整价格水平差异；两者都不能充分揭示分配、公共服务或环境质量。",
+        "causalChain": [
+          "总收入除以人口",
+          "按购买力调整跨国可比性",
+          "用其他指标补充平均数局限"
+        ],
+        "misconceptions": [
+          "PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。"
+        ],
+        "examApplication": [
+          "说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+        ],
+        "summary": [
+          "人均 GNI 衡量平均居民收入，PPP 调整价格水平差异；两者都不能充分揭示分配、公共服务或环境质量。",
+          "PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。"
+        ],
+        "explanation": "总收入除以人口。按购买力调整跨国可比性。用其他指标补充平均数局限。\n\n### 原创情境与推导\n\n原创假设：A 与 B 汇率换算收入相同，但 A 的基本生活篮子更便宜，PPP 比较可能显示 A 购买力更高；仍需看地区差距。\n\nPPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。\n\n说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+      },
+      "en": {
+        "id": "u4-38-development-indicators",
+        "locale": "en",
+        "title": "Income per capita and PPP comparison",
+        "takeaway": "GNI per capita measures average resident income; PPP adjusts for price-level differences. Neither fully captures distribution, public services or environmental quality.",
+        "definition": "GNI per capita measures average resident income; PPP adjusts for price-level differences. Neither fully captures distribution, public services or environmental quality.",
+        "causalChain": [
+          "Divide total income by population",
+          "adjust purchasing power for cross-country comparison",
+          "add indicators to address average-income limits"
+        ],
+        "misconceptions": [
+          "PPP is not a tradable market exchange rate; average income is not necessarily a typical household's income."
+        ],
+        "examApplication": [
+          "State dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+        ],
+        "summary": [
+          "GNI per capita measures average resident income; PPP adjusts for price-level differences. Neither fully captures distribution, public services or environmental quality.",
+          "PPP is not a tradable market exchange rate; average income is not necessarily a typical household's income."
+        ],
+        "explanation": "Divide total income by population.  adjust purchasing power for cross-country comparison.  add indicators to address average-income limits.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A and B have equal exchange-rate-converted income, but basic goods are cheaper in A. PPP may show greater purchasing power in A; regional inequality still matters.\n\nPPP is not a tradable market exchange rate; average income is not necessarily a typical household's income.\n\nState dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+      }
+    }
+  },
+  {
+    "id": "u4-39-hdi",
+    "content": {
+      "zh-CN": {
+        "id": "u4-39-hdi",
+        "locale": "zh-CN",
+        "title": "人类发展指数",
+        "takeaway": "HDI 综合健康、教育与生活水平，使用预期寿命、预期和平均受教育年限、PPP 人均 GNI，并以几何平均组合维度指数。",
+        "definition": "HDI 综合健康、教育与生活水平，使用预期寿命、预期和平均受教育年限、PPP 人均 GNI，并以几何平均组合维度指数。",
+        "causalChain": [
+          "将各维度标准化",
+          "教育指标组成教育维度",
+          "几何平均限制单一高维度完全补偿低维度"
+        ],
+        "misconceptions": [
+          "HDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。"
+        ],
+        "examApplication": [
+          "说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+        ],
+        "summary": [
+          "HDI 综合健康、教育与生活水平，使用预期寿命、预期和平均受教育年限、PPP 人均 GNI，并以几何平均组合维度指数。",
+          "HDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。"
+        ],
+        "explanation": "将各维度标准化。教育指标组成教育维度。几何平均限制单一高维度完全补偿低维度。\n\n### 原创情境与推导\n\n原创假设：甲乙收入类似，甲的寿命与教育更高，HDI 可能更高；但国平均仍掩盖性别与地区差距。\n\nHDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。\n\n说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+      },
+      "en": {
+        "id": "u4-39-hdi",
+        "locale": "en",
+        "title": "The Human Development Index",
+        "takeaway": "HDI combines health, education and living standards using life expectancy, expected and mean schooling years, and PPP GNI per capita, with a geometric mean of dimension indices.",
+        "definition": "HDI combines health, education and living standards using life expectancy, expected and mean schooling years, and PPP GNI per capita, with a geometric mean of dimension indices.",
+        "causalChain": [
+          "Normalise dimensions",
+          "combine schooling indicators into education",
+          "the geometric mean limits full compensation of a weak dimension by a strong one"
+        ],
+        "misconceptions": [
+          "HDI does not add raw units directly and is not a comprehensive ecological or political-freedom measure."
+        ],
+        "examApplication": [
+          "State dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+        ],
+        "summary": [
+          "HDI combines health, education and living standards using life expectancy, expected and mean schooling years, and PPP GNI per capita, with a geometric mean of dimension indices.",
+          "HDI does not add raw units directly and is not a comprehensive ecological or political-freedom measure."
+        ],
+        "explanation": "Normalise dimensions.  combine schooling indicators into education.  the geometric mean limits full compensation of a weak dimension by a strong one.\n\n### Original scenario and reasoning\n\nHypothetical scenario: two economies have similar income but one has better longevity and education, potentially giving it higher HDI. National averages still hide gender and regional gaps.\n\nHDI does not add raw units directly and is not a comprehensive ecological or political-freedom measure.\n\nState dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+      }
+    }
+  },
+  {
+    "id": "u4-40-multidimensional-poverty",
+    "content": {
+      "zh-CN": {
+        "id": "u4-40-multidimensional-poverty",
+        "locale": "zh-CN",
+        "title": "多维贫困与不平等调整",
+        "takeaway": "多维贫困指标结合健康、教育和生活条件的重叠剥夺；不平等调整的 HDI 则反映各维度分配差异。",
+        "definition": "多维贫困指标结合健康、教育和生活条件的重叠剥夺；不平等调整的 HDI 则反映各维度分配差异。",
+        "causalChain": [
+          "识别家庭剥夺",
+          "按明确权重和阈值分类",
+          "结合发生率与强度判断贫困"
+        ],
+        "misconceptions": [
+          "不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。"
+        ],
+        "examApplication": [
+          "说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+        ],
+        "summary": [
+          "多维贫困指标结合健康、教育和生活条件的重叠剥夺；不平等调整的 HDI 则反映各维度分配差异。",
+          "不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。"
+        ],
+        "explanation": "识别家庭剥夺。按明确权重和阈值分类。结合发生率与强度判断贫困。\n\n### 原创情境与推导\n\n原创假设：收入略高于贫困线的家庭仍可能缺安全饮水和教育；只用收入会漏掉这些剥夺。指标权重会影响排名。\n\n不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。\n\n说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+      },
+      "en": {
+        "id": "u4-40-multidimensional-poverty",
+        "locale": "en",
+        "title": "Multidimensional poverty and inequality adjustment",
+        "takeaway": "Multidimensional poverty measures overlapping deprivations in health, education and living conditions; inequality-adjusted HDI reflects distribution within dimensions.",
+        "definition": "Multidimensional poverty measures overlapping deprivations in health, education and living conditions; inequality-adjusted HDI reflects distribution within dimensions.",
+        "causalChain": [
+          "Identify household deprivations",
+          "classify using explicit weights and thresholds",
+          "combine incidence and intensity to assess poverty"
+        ],
+        "misconceptions": [
+          "Different indicators answer different questions; multidimensional poverty, Gini and HDI are not interchangeable."
+        ],
+        "examApplication": [
+          "State dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+        ],
+        "summary": [
+          "Multidimensional poverty measures overlapping deprivations in health, education and living conditions; inequality-adjusted HDI reflects distribution within dimensions.",
+          "Different indicators answer different questions; multidimensional poverty, Gini and HDI are not interchangeable."
+        ],
+        "explanation": "Identify household deprivations.  classify using explicit weights and thresholds.  combine incidence and intensity to assess poverty.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a household just above an income poverty line may still lack safe water and schooling. Income alone misses these deprivations, while indicator weights affect rankings.\n\nDifferent indicators answer different questions; multidimensional poverty, Gini and HDI are not interchangeable.\n\nState dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+      }
+    }
+  },
+  {
+    "id": "u4-41-measurement-limits",
+    "content": {
+      "zh-CN": {
+        "id": "u4-41-measurement-limits",
+        "locale": "zh-CN",
+        "title": "发展数据的可比性与局限",
+        "takeaway": "发展比较应使用可比年份、定义和人口组，注意非正规经济、统计能力、均值掩盖差异与相关不等于因果。",
+        "definition": "发展比较应使用可比年份、定义和人口组，注意非正规经济、统计能力、均值掩盖差异与相关不等于因果。",
+        "causalChain": [
+          "检查来源和定义",
+          "统一年份与可比单位",
+          "结合定量指标和情境解释"
+        ],
+        "misconceptions": [
+          "两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。"
+        ],
+        "examApplication": [
+          "说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+        ],
+        "summary": [
+          "发展比较应使用可比年份、定义和人口组，注意非正规经济、统计能力、均值掩盖差异与相关不等于因果。",
+          "两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。"
+        ],
+        "explanation": "检查来源和定义。统一年份与可比单位。结合定量指标和情境解释。\n\n### 原创情境与推导\n\n原创假设：农村调查遗漏偏远家庭，可能高估全国服务覆盖；比较政策前后还需考虑经济周期和其他政策。\n\n两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。\n\n说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+      },
+      "en": {
+        "id": "u4-41-measurement-limits",
+        "locale": "en",
+        "title": "Comparability and limits of development data",
+        "takeaway": "Development comparisons need comparable years, definitions and population groups, with attention to informality, statistical capacity, hidden disparities and correlation versus causation.",
+        "definition": "Development comparisons need comparable years, definitions and population groups, with attention to informality, statistical capacity, hidden disparities and correlation versus causation.",
+        "causalChain": [
+          "Check sources and definitions",
+          "align years and comparable units",
+          "combine quantitative measures with context"
+        ],
+        "misconceptions": [
+          "Two improving indicators alone do not prove a policy caused improvement; missing data are not zero."
+        ],
+        "examApplication": [
+          "State dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+        ],
+        "summary": [
+          "Development comparisons need comparable years, definitions and population groups, with attention to informality, statistical capacity, hidden disparities and correlation versus causation.",
+          "Two improving indicators alone do not prove a policy caused improvement; missing data are not zero."
+        ],
+        "explanation": "Check sources and definitions.  align years and comparable units.  combine quantitative measures with context.\n\n### Original scenario and reasoning\n\nHypothetical scenario: omitting remote households can overstate national service coverage. Before-after policy comparisons also need business-cycle and other-policy context.\n\nTwo improving indicators alone do not prove a policy caused improvement; missing data are not zero.\n\nState dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+      }
+    }
+  },
+  {
+    "id": "u4-42-poverty-cycle",
+    "content": {
+      "zh-CN": {
+        "id": "u4-42-poverty-cycle",
+        "locale": "zh-CN",
+        "title": "贫困循环与资本形成",
+        "takeaway": "低收入可能导致低储蓄、低投资与低生产率，进而维持低收入；这是一种可能自我强化的机制而非不可改变的命运。",
+        "definition": "低收入可能导致低储蓄、低投资与低生产率，进而维持低收入；这是一种可能自我强化的机制而非不可改变的命运。",
+        "causalChain": [
+          "低收入限制储蓄",
+          "资金不足抑制资本形成",
+          "低生产率维持低收入"
+        ],
+        "misconceptions": [
+          "低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "低收入可能导致低储蓄、低投资与低生产率，进而维持低收入；这是一种可能自我强化的机制而非不可改变的命运。",
+          "低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。"
+        ],
+        "explanation": "低收入限制储蓄。资金不足抑制资本形成。低生产率维持低收入。\n\n### 原创情境与推导\n\n原创假设：农户无法承担灌溉投资，旱季低产又使下年投资更难；公共灌溉、风险保险或适当融资可打断循环。\n\n低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-42-poverty-cycle",
+        "locale": "en",
+        "title": "Poverty cycles and capital formation",
+        "takeaway": "Low income can limit saving and investment, keeping productivity and income low. This is a potentially reinforcing mechanism, not an inevitable destiny.",
+        "definition": "Low income can limit saving and investment, keeping productivity and income low. This is a potentially reinforcing mechanism, not an inevitable destiny.",
+        "causalChain": [
+          "Low income restricts saving",
+          "limited finance constrains capital formation",
+          "low productivity sustains low income"
+        ],
+        "misconceptions": [
+          "Low saving is only one barrier; credit cannot substitute for viable projects, rights and demand."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Low income can limit saving and investment, keeping productivity and income low. This is a potentially reinforcing mechanism, not an inevitable destiny.",
+          "Low saving is only one barrier; credit cannot substitute for viable projects, rights and demand."
+        ],
+        "explanation": "Low income restricts saving.  limited finance constrains capital formation.  low productivity sustains low income.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a farmer cannot finance irrigation, and low dry-season yields reduce next year's investment capacity. Public irrigation, insurance or suitable finance can interrupt the cycle.\n\nLow saving is only one barrier; credit cannot substitute for viable projects, rights and demand.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-43-human-capital-infrastructure",
+    "content": {
+      "zh-CN": {
+        "id": "u4-43-human-capital-infrastructure",
+        "locale": "zh-CN",
+        "title": "人力资本与基础设施不足",
+        "takeaway": "健康、教育、电力、交通和数字基础设施不足可提高成本、限制生产率并阻碍进入市场。",
+        "definition": "健康、教育、电力、交通和数字基础设施不足可提高成本、限制生产率并阻碍进入市场。",
+        "causalChain": [
+          "服务缺口限制能力",
+          "停电和运输延误提高成本",
+          "低回报抑制投资与就业"
+        ],
+        "misconceptions": [
+          "建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "健康、教育、电力、交通和数字基础设施不足可提高成本、限制生产率并阻碍进入市场。",
+          "建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。"
+        ],
+        "explanation": "服务缺口限制能力。停电和运输延误提高成本。低回报抑制投资与就业。\n\n### 原创情境与推导\n\n原创假设：学校扩招但学生因疾病缺勤、企业因停电停工，单独增加学位未必转化为生产率；需要互补投入。\n\n建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-43-human-capital-infrastructure",
+        "locale": "en",
+        "title": "Human-capital and infrastructure gaps",
+        "takeaway": "Gaps in health, education, electricity, transport and digital infrastructure can raise costs, restrict productivity and limit market access.",
+        "definition": "Gaps in health, education, electricity, transport and digital infrastructure can raise costs, restrict productivity and limit market access.",
+        "causalChain": [
+          "Service gaps restrict capabilities",
+          "outages and transport delays raise costs",
+          "weak returns discourage investment and jobs"
+        ],
+        "misconceptions": [
+          "Construction counts do not establish service quality; maintenance, teachers and affordability determine effective access."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Gaps in health, education, electricity, transport and digital infrastructure can raise costs, restrict productivity and limit market access.",
+          "Construction counts do not establish service quality; maintenance, teachers and affordability determine effective access."
+        ],
+        "explanation": "Service gaps restrict capabilities.  outages and transport delays raise costs.  weak returns discourage investment and jobs.\n\n### Original scenario and reasoning\n\nHypothetical scenario: schooling expands but illness causes absence and outages halt firms. More school places alone may not raise productivity without complementary investments.\n\nConstruction counts do not establish service quality; maintenance, teachers and affordability determine effective access.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-44-primary-dependence",
+    "content": {
+      "zh-CN": {
+        "id": "u4-44-primary-dependence",
+        "locale": "zh-CN",
+        "title": "初级产品依赖与贸易条件",
+        "takeaway": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
+        "definition": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
+        "causalChain": [
+          "出口集中放大外部价格冲击",
+          "外汇和税收波动",
+          "资本品进口与公共投资受限"
+        ],
+        "misconceptions": [
+          "贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
+          "贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。"
+        ],
+        "explanation": "出口集中放大外部价格冲击。外汇和税收波动。资本品进口与公共投资受限。\n\n### 原创情境与推导\n\n原创假设：出口价指数 90、进口价指数 120，贸易条件为 75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。\n\n贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-44-primary-dependence",
+        "locale": "en",
+        "title": "Primary-product dependence and terms of trade",
+        "takeaway": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
+        "definition": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
+        "causalChain": [
+          "Export concentration magnifies world-price shocks",
+          "foreign exchange and tax revenue fluctuate",
+          "capital-goods imports and public investment are constrained"
+        ],
+        "misconceptions": [
+          "Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
+          "Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
+        ],
+        "explanation": "Export concentration magnifies world-price shocks.  foreign exchange and tax revenue fluctuate.  capital-goods imports and public investment are constrained.\n\n### Original scenario and reasoning\n\nHypothetical scenario: export prices indexed at ninety and imports at 120 give terms of trade of 75. Revenue also depends on volume, so the ratio alone cannot establish the trade balance.\n\nTerms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-45-debt-finance-barriers",
+    "content": {
+      "zh-CN": {
+        "id": "u4-45-debt-finance-barriers",
+        "locale": "zh-CN",
+        "title": "债务、金融排斥与资本外逃",
+        "takeaway": "高偿债负担可挤压公共投资；缺少抵押、保险和支付服务限制家庭企业投资；资本外逃削弱国内融资。",
+        "definition": "高偿债负担可挤压公共投资；缺少抵押、保险和支付服务限制家庭企业投资；资本外逃削弱国内融资。",
+        "causalChain": [
+          "融资约束限制项目",
+          "外币债务暴露汇率风险",
+          "偿债挤压健康教育预算"
+        ],
+        "misconceptions": [
+          "借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "高偿债负担可挤压公共投资；缺少抵押、保险和支付服务限制家庭企业投资；资本外逃削弱国内融资。",
+          "借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。"
+        ],
+        "explanation": "融资约束限制项目。外币债务暴露汇率风险。偿债挤压健康教育预算。\n\n### 原创情境与推导\n\n原创假设：政府外币债务本息不变，本币贬值后本币税收需覆盖更多偿付；债务重组可缓解但涉及债权人协调与未来融资。\n\n借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-45-debt-finance-barriers",
+        "locale": "en",
+        "title": "Debt, financial exclusion and capital flight",
+        "takeaway": "Heavy debt service can crowd out public investment; missing collateral, insurance and payments constrain private investment, while capital flight weakens domestic finance.",
+        "definition": "Heavy debt service can crowd out public investment; missing collateral, insurance and payments constrain private investment, while capital flight weakens domestic finance.",
+        "causalChain": [
+          "Finance constraints restrict projects",
+          "foreign-currency debt exposes exchange risk",
+          "debt service squeezes health and education budgets"
+        ],
+        "misconceptions": [
+          "Borrowing is not inherently harmful; compare returns, rates, maturity, currency and repayment capacity."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Heavy debt service can crowd out public investment; missing collateral, insurance and payments constrain private investment, while capital flight weakens domestic finance.",
+          "Borrowing is not inherently harmful; compare returns, rates, maturity, currency and repayment capacity."
+        ],
+        "explanation": "Finance constraints restrict projects.  foreign-currency debt exposes exchange risk.  debt service squeezes health and education budgets.\n\n### Original scenario and reasoning\n\nHypothetical scenario: unchanged foreign-currency debt service requires more home-currency tax revenue after depreciation. Restructuring may help but involves creditor coordination and future borrowing access.\n\nBorrowing is not inherently harmful; compare returns, rates, maturity, currency and repayment capacity.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-46-institutions-barriers",
+    "content": {
+      "zh-CN": {
+        "id": "u4-46-institutions-barriers",
+        "locale": "zh-CN",
+        "title": "制度、冲突与社会排斥",
+        "takeaway": "腐败、产权不清、冲突和歧视可增加交易风险、降低投资并限制人们参与教育和就业。",
+        "definition": "腐败、产权不清、冲突和歧视可增加交易风险、降低投资并限制人们参与教育和就业。",
+        "causalChain": [
+          "规则不透明增加不确定性",
+          "排斥限制人才配置",
+          "低投资与低信任阻碍发展"
+        ],
+        "misconceptions": [
+          "制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "腐败、产权不清、冲突和歧视可增加交易风险、降低投资并限制人们参与教育和就业。",
+          "制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。"
+        ],
+        "explanation": "规则不透明增加不确定性。排斥限制人才配置。低投资与低信任阻碍发展。\n\n### 原创情境与推导\n\n原创假设：女性难以持有土地或取得贷款，使高回报项目无法融资；法律改革还需执行、信息和安全保障。\n\n制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-46-institutions-barriers",
+        "locale": "en",
+        "title": "Institutions, conflict and social exclusion",
+        "takeaway": "Corruption, insecure rights, conflict and discrimination can raise transaction risk, discourage investment and restrict access to education and jobs.",
+        "definition": "Corruption, insecure rights, conflict and discrimination can raise transaction risk, discourage investment and restrict access to education and jobs.",
+        "causalChain": [
+          "Opaque rules increase uncertainty",
+          "exclusion misallocates talent",
+          "weak investment and trust obstruct development"
+        ],
+        "misconceptions": [
+          "A single ranking cannot explain institutions; reform depends on history, implementation capacity and local participation."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Corruption, insecure rights, conflict and discrimination can raise transaction risk, discourage investment and restrict access to education and jobs.",
+          "A single ranking cannot explain institutions; reform depends on history, implementation capacity and local participation."
+        ],
+        "explanation": "Opaque rules increase uncertainty.  exclusion misallocates talent.  weak investment and trust obstruct development.\n\n### Original scenario and reasoning\n\nHypothetical scenario: women unable to own land or obtain credit cannot finance high-return projects. Legal reform also needs enforcement, information and safety.\n\nA single ranking cannot explain institutions; reform depends on history, implementation capacity and local participation.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-47-geography-informality",
+    "content": {
+      "zh-CN": {
+        "id": "u4-47-geography-informality",
+        "locale": "zh-CN",
+        "title": "地理、非正规经济与多重障碍",
+        "takeaway": "内陆位置、气候风险和市场距离可能提高成本；非正规就业可提供生计，却常缺社会保障、融资和统计覆盖。",
+        "definition": "内陆位置、气候风险和市场距离可能提高成本；非正规就业可提供生计，却常缺社会保障、融资和统计覆盖。",
+        "causalChain": [
+          "距离与风险提高交易成本",
+          "企业留在小规模非正规经营",
+          "税基与公共服务能力受限"
+        ],
+        "misconceptions": [
+          "地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "内陆位置、气候风险和市场距离可能提高成本；非正规就业可提供生计，却常缺社会保障、融资和统计覆盖。",
+          "地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。"
+        ],
+        "explanation": "距离与风险提高交易成本。企业留在小规模非正规经营。税基与公共服务能力受限。\n\n### 原创情境与推导\n\n原创假设：内陆农户同时面临差路、洪灾和无保险，仅取消营业许可费未必解决主要瓶颈；需识别互补约束。\n\n地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-47-geography-informality",
+        "locale": "en",
+        "title": "Geography, informality and interacting barriers",
+        "takeaway": "Landlocked locations, climate risks and distance can raise costs. Informal work provides livelihoods but often lacks protection, finance and statistical coverage.",
+        "definition": "Landlocked locations, climate risks and distance can raise costs. Informal work provides livelihoods but often lacks protection, finance and statistical coverage.",
+        "causalChain": [
+          "Distance and risk raise transaction costs",
+          "firms remain small and informal",
+          "the tax base and public-service capacity are constrained"
+        ],
+        "misconceptions": [
+          "Geography is not destiny, and informal activity is not all illegal; formalisation should reduce costs and offer real benefits."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "Landlocked locations, climate risks and distance can raise costs. Informal work provides livelihoods but often lacks protection, finance and statistical coverage.",
+          "Geography is not destiny, and informal activity is not all illegal; formalisation should reduce costs and offer real benefits."
+        ],
+        "explanation": "Distance and risk raise transaction costs.  firms remain small and informal.  the tax base and public-service capacity are constrained.\n\n### Original scenario and reasoning\n\nHypothetical scenario: landlocked farmers face poor roads, floods and no insurance. Removing licence fees alone may not address binding constraints; identify complementary barriers.\n\nGeography is not destiny, and informal activity is not all illegal; formalisation should reduce costs and offer real benefits.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    }
+  },
+  {
+    "id": "u4-48-trade-strategies",
+    "content": {
+      "zh-CN": {
+        "id": "u4-48-trade-strategies",
+        "locale": "zh-CN",
+        "title": "进口替代与出口导向",
+        "takeaway": "进口替代扶持本地生产替代进口；出口导向帮助企业进入国际市场，两者的成效取决于竞争、学习和政策纪律。",
+        "definition": "进口替代扶持本地生产替代进口；出口导向帮助企业进入国际市场，两者的成效取决于竞争、学习和政策纪律。",
+        "causalChain": [
+          "选择产业与政策工具",
+          "市场与学习激励影响成本",
+          "出口收入或进口节约支持资本品需求"
+        ],
+        "misconceptions": [
+          "两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "进口替代扶持本地生产替代进口；出口导向帮助企业进入国际市场，两者的成效取决于竞争、学习和政策纪律。",
+          "两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。"
+        ],
+        "explanation": "选择产业与政策工具。市场与学习激励影响成本。出口收入或进口节约支持资本品需求。\n\n### 原创情境与推导\n\n原创假设：关税扶持小市场汽车业可能限制规模；出口支持若要求绩效并改善物流，可保留竞争压力，但也暴露于外需波动。\n\n两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-48-trade-strategies",
+        "locale": "en",
+        "title": "Import substitution and export promotion",
+        "takeaway": "Import substitution supports domestic production replacing imports; export promotion helps firms reach world markets. Outcomes depend on competition, learning and policy discipline.",
+        "definition": "Import substitution supports domestic production replacing imports; export promotion helps firms reach world markets. Outcomes depend on competition, learning and policy discipline.",
+        "causalChain": [
+          "Choose sectors and instruments",
+          "market and learning incentives affect costs",
+          "export earnings or import savings support capital imports"
+        ],
+        "misconceptions": [
+          "These are not mutually exclusive labels; instruments, exit rules and sector conditions matter."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Import substitution supports domestic production replacing imports; export promotion helps firms reach world markets. Outcomes depend on competition, learning and policy discipline.",
+          "These are not mutually exclusive labels; instruments, exit rules and sector conditions matter."
+        ],
+        "explanation": "Choose sectors and instruments.  market and learning incentives affect costs.  export earnings or import savings support capital imports.\n\n### Original scenario and reasoning\n\nHypothetical scenario: tariff-supported car production in a small market may lack scale. Export support tied to performance and logistics can preserve competition but exposes firms to world-demand volatility.\n\nThese are not mutually exclusive labels; instruments, exit rules and sector conditions matter.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-49-diversification-enterprise",
+    "content": {
+      "zh-CN": {
+        "id": "u4-49-diversification-enterprise",
+        "locale": "zh-CN",
+        "title": "多样化与社会企业",
+        "takeaway": "产业和出口多样化减少对单一收入来源的依赖；社会企业以商业活动支持社会目标，但仍面临成本和治理约束。",
+        "definition": "产业和出口多样化减少对单一收入来源的依赖；社会企业以商业活动支持社会目标，但仍面临成本和治理约束。",
+        "causalChain": [
+          "开发不同市场和产品",
+          "降低高度相关的收入风险",
+          "技能和融资支持新活动"
+        ],
+        "misconceptions": [
+          "项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "产业和出口多样化减少对单一收入来源的依赖；社会企业以商业活动支持社会目标，但仍面临成本和治理约束。",
+          "项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。"
+        ],
+        "explanation": "开发不同市场和产品。降低高度相关的收入风险。技能和融资支持新活动。\n\n### 原创情境与推导\n\n原创假设：咖啡合作社增加加工和生态旅游，可能提高附加值并分散风险；若两者都依赖同一气候或游客市场，风险分散有限。\n\n项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-49-diversification-enterprise",
+        "locale": "en",
+        "title": "Diversification and social enterprise",
+        "takeaway": "Diversification reduces reliance on a single income source. Social enterprises use business activity to pursue social goals but still face cost and governance constraints.",
+        "definition": "Diversification reduces reliance on a single income source. Social enterprises use business activity to pursue social goals but still face cost and governance constraints.",
+        "causalChain": [
+          "Develop different products and markets",
+          "reduce highly correlated revenue risks",
+          "skills and finance support new activities"
+        ],
+        "misconceptions": [
+          "More projects do not necessarily diversify risk; social intent does not guarantee operational or impact success."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Diversification reduces reliance on a single income source. Social enterprises use business activity to pursue social goals but still face cost and governance constraints.",
+          "More projects do not necessarily diversify risk; social intent does not guarantee operational or impact success."
+        ],
+        "explanation": "Develop different products and markets.  reduce highly correlated revenue risks.  skills and finance support new activities.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a coffee cooperative adds processing and ecotourism, potentially adding value and spreading risk. Diversification is limited if both remain exposed to the same climate or visitor market.\n\nMore projects do not necessarily diversify risk; social intent does not guarantee operational or impact success.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-50-market-based-development",
+    "content": {
+      "zh-CN": {
+        "id": "u4-50-market-based-development",
+        "locale": "zh-CN",
+        "title": "市场导向的发展政策",
+        "takeaway": "自由化、私有化和放松不必要监管可增强竞争与激励，但需要竞争政策、公共利益保护和可执行制度。",
+        "definition": "自由化、私有化和放松不必要监管可增强竞争与激励，但需要竞争政策、公共利益保护和可执行制度。",
+        "causalChain": [
+          "降低进入障碍",
+          "竞争与产权激励改善效率",
+          "监管处理垄断与外部性"
+        ],
+        "misconceptions": [
+          "私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "自由化、私有化和放松不必要监管可增强竞争与激励，但需要竞争政策、公共利益保护和可执行制度。",
+          "私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。"
+        ],
+        "explanation": "降低进入障碍。竞争与产权激励改善效率。监管处理垄断与外部性。\n\n### 原创情境与推导\n\n原创假设：出售国有供水企业若不设置价格和质量监管，可能仅把公共垄断变为私人垄断；结果要看覆盖、质量和价格。\n\n私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-50-market-based-development",
+        "locale": "en",
+        "title": "Market-based development policies",
+        "takeaway": "Liberalisation, privatisation and removal of unnecessary regulation may improve competition and incentives, supported by competition policy, public-interest safeguards and effective institutions.",
+        "definition": "Liberalisation, privatisation and removal of unnecessary regulation may improve competition and incentives, supported by competition policy, public-interest safeguards and effective institutions.",
+        "causalChain": [
+          "Lower entry barriers",
+          "competition and ownership incentives improve efficiency",
+          "regulation addresses monopoly and externalities"
+        ],
+        "misconceptions": [
+          "Privatisation is not synonymous with competition; one-off sale revenue does not prove lasting fiscal improvement."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Liberalisation, privatisation and removal of unnecessary regulation may improve competition and incentives, supported by competition policy, public-interest safeguards and effective institutions.",
+          "Privatisation is not synonymous with competition; one-off sale revenue does not prove lasting fiscal improvement."
+        ],
+        "explanation": "Lower entry barriers.  competition and ownership incentives improve efficiency.  regulation addresses monopoly and externalities.\n\n### Original scenario and reasoning\n\nHypothetical scenario: selling a public water supplier without price or quality regulation may merely create a private monopoly. Assess coverage, quality and prices.\n\nPrivatisation is not synonymous with competition; one-off sale revenue does not prove lasting fiscal improvement.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-51-public-services-development",
+    "content": {
+      "zh-CN": {
+        "id": "u4-51-public-services-development",
+        "locale": "zh-CN",
+        "title": "公共服务、再分配与发展",
+        "takeaway": "教育、健康、基础设施和定向转移可改善能力与机会，但财政空间、服务质量和执行决定结果。",
+        "definition": "教育、健康、基础设施和定向转移可改善能力与机会，但财政空间、服务质量和执行决定结果。",
+        "causalChain": [
+          "公共服务降低个人进入障碍",
+          "健康技能提高参与和生产率",
+          "公平与增长可能相互促进"
+        ],
+        "misconceptions": [
+          "政府支出不是自动有效，必须比较机会成本、漏损和受益群体。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "教育、健康、基础设施和定向转移可改善能力与机会，但财政空间、服务质量和执行决定结果。",
+          "政府支出不是自动有效，必须比较机会成本、漏损和受益群体。"
+        ],
+        "explanation": "公共服务降低个人进入障碍。健康技能提高参与和生产率。公平与增长可能相互促进。\n\n### 原创情境与推导\n\n原创假设：儿童现金补助配合附近有质量的学校，可能改善出勤；若学校缺师资，仅要求出勤会增加家庭负担。\n\n政府支出不是自动有效，必须比较机会成本、漏损和受益群体。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-51-public-services-development",
+        "locale": "en",
+        "title": "Public services, redistribution and development",
+        "takeaway": "Education, health, infrastructure and targeted transfers can improve capabilities and opportunities; fiscal space, service quality and implementation determine outcomes.",
+        "definition": "Education, health, infrastructure and targeted transfers can improve capabilities and opportunities; fiscal space, service quality and implementation determine outcomes.",
+        "causalChain": [
+          "Services lower individual barriers",
+          "health and skills improve participation and productivity",
+          "equity and growth may reinforce each other"
+        ],
+        "misconceptions": [
+          "Public spending is not automatically effective; assess opportunity cost, leakage and beneficiaries."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Education, health, infrastructure and targeted transfers can improve capabilities and opportunities; fiscal space, service quality and implementation determine outcomes.",
+          "Public spending is not automatically effective; assess opportunity cost, leakage and beneficiaries."
+        ],
+        "explanation": "Services lower individual barriers.  health and skills improve participation and productivity.  equity and growth may reinforce each other.\n\n### Original scenario and reasoning\n\nHypothetical scenario: child transfers combined with accessible quality schools may improve attendance. Requiring attendance where teachers are absent can burden families.\n\nPublic spending is not automatically effective; assess opportunity cost, leakage and beneficiaries.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-52-fdi-mncs",
+    "content": {
+      "zh-CN": {
+        "id": "u4-52-fdi-mncs",
+        "locale": "zh-CN",
+        "title": "外国直接投资与跨国公司",
+        "takeaway": "FDI 可带来资本、就业、技术和出口联系，也可能伴随利润汇出、市场势力、环境成本与有限本地联系。",
+        "definition": "FDI 可带来资本、就业、技术和出口联系，也可能伴随利润汇出、市场势力、环境成本与有限本地联系。",
+        "causalChain": [
+          "跨国企业投入资本技术",
+          "雇佣与采购产生本地联系",
+          "制度与吸收能力影响技术溢出"
+        ],
+        "misconceptions": [
+          "FDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "FDI 可带来资本、就业、技术和出口联系，也可能伴随利润汇出、市场势力、环境成本与有限本地联系。",
+          "FDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。"
+        ],
+        "explanation": "跨国企业投入资本技术。雇佣与采购产生本地联系。制度与吸收能力影响技术溢出。\n\n### 原创情境与推导\n\n原创假设：外资厂培训本地员工并采购本地零件，可扩散技能；若全部进口投入并获长期免税，本地净收益可能较小。\n\nFDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-52-fdi-mncs",
+        "locale": "en",
+        "title": "Foreign direct investment and multinational firms",
+        "takeaway": "FDI can bring capital, jobs, technology and export linkages, alongside profit repatriation, market power, environmental costs and weak local linkages.",
+        "definition": "FDI can bring capital, jobs, technology and export linkages, alongside profit repatriation, market power, environmental costs and weak local linkages.",
+        "causalChain": [
+          "Multinationals bring capital and technology",
+          "hiring and procurement create local linkages",
+          "institutions and absorptive capacity shape spillovers"
+        ],
+        "misconceptions": [
+          "FDI inflow is not current-account income; later repatriated profits normally affect primary income."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "FDI can bring capital, jobs, technology and export linkages, alongside profit repatriation, market power, environmental costs and weak local linkages.",
+          "FDI inflow is not current-account income; later repatriated profits normally affect primary income."
+        ],
+        "explanation": "Multinationals bring capital and technology.  hiring and procurement create local linkages.  institutions and absorptive capacity shape spillovers.\n\n### Original scenario and reasoning\n\nHypothetical scenario: training local staff and buying local parts can spread skills. Importing all inputs with prolonged tax holidays may leave smaller local net gains.\n\nFDI inflow is not current-account income; later repatriated profits normally affect primary income.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-53-aid-ngos",
+    "content": {
+      "zh-CN": {
+        "id": "u4-53-aid-ngos",
+        "locale": "zh-CN",
+        "title": "援助、非政府组织与本地参与",
+        "takeaway": "人道援助应对紧急需要，发展援助支持长期能力；赠款、贷款及附带条件的援助对受援者影响不同。",
+        "definition": "人道援助应对紧急需要，发展援助支持长期能力；赠款、贷款及附带条件的援助对受援者影响不同。",
+        "causalChain": [
+          "外部资源缓解约束",
+          "项目设计影响本地所有权",
+          "问责与评估决定持续效果"
+        ],
+        "misconceptions": [
+          "援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "人道援助应对紧急需要，发展援助支持长期能力；赠款、贷款及附带条件的援助对受援者影响不同。",
+          "援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。"
+        ],
+        "explanation": "外部资源缓解约束。项目设计影响本地所有权。问责与评估决定持续效果。\n\n### 原创情境与推导\n\n原创假设：灾后供水赠款能救急；若只采购捐助国昂贵设备且无本地维修培训，长期效果可能有限。NGO 也需协调和问责。\n\n援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-53-aid-ngos",
+        "locale": "en",
+        "title": "Aid, NGOs and local participation",
+        "takeaway": "Humanitarian aid addresses emergencies, while development aid supports long-term capabilities. Grants, loans and tied aid have different effects on recipients.",
+        "definition": "Humanitarian aid addresses emergencies, while development aid supports long-term capabilities. Grants, loans and tied aid have different effects on recipients.",
+        "causalChain": [
+          "External resources relax constraints",
+          "project design shapes local ownership",
+          "accountability and evaluation determine lasting effects"
+        ],
+        "misconceptions": [
+          "Aid is not all free money; loans create repayment obligations and tied procurement may raise costs."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Humanitarian aid addresses emergencies, while development aid supports long-term capabilities. Grants, loans and tied aid have different effects on recipients.",
+          "Aid is not all free money; loans create repayment obligations and tied procurement may raise costs."
+        ],
+        "explanation": "External resources relax constraints.  project design shapes local ownership.  accountability and evaluation determine lasting effects.\n\n### Original scenario and reasoning\n\nHypothetical scenario: emergency water grants help after disaster, but expensive donor-country equipment without local repair training may not last. NGOs also need coordination and accountability.\n\nAid is not all free money; loans create repayment obligations and tied procurement may raise costs.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-54-multilateral-debt-relief",
+    "content": {
+      "zh-CN": {
+        "id": "u4-54-multilateral-debt-relief",
+        "locale": "zh-CN",
+        "title": "多边机构与债务减免",
+        "takeaway": "多边发展融资可支持长期项目，国际收支支持可缓解外部融资压力；贷款条件和债务减免需评价财政空间与社会代价。",
+        "definition": "多边发展融资可支持长期项目，国际收支支持可缓解外部融资压力；贷款条件和债务减免需评价财政空间与社会代价。",
+        "causalChain": [
+          "外部融资缓解短缺",
+          "条件改变政策路径",
+          "债务重组或减免影响未来支出与融资激励"
+        ],
+        "misconceptions": [
+          "不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "多边发展融资可支持长期项目，国际收支支持可缓解外部融资压力；贷款条件和债务减免需评价财政空间与社会代价。",
+          "不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。"
+        ],
+        "explanation": "外部融资缓解短缺。条件改变政策路径。债务重组或减免影响未来支出与融资激励。\n\n### 原创情境与推导\n\n原创假设：债务减免释放卫生预算，但若治理和税基问题未变，新债仍可能累积；紧缩条件也需保护基本服务。\n\n不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-54-multilateral-debt-relief",
+        "locale": "en",
+        "title": "Multilateral institutions and debt relief",
+        "takeaway": "Multilateral development finance can support long-term projects, while balance-of-payments support eases external financing pressure. Conditions and debt relief require evaluation of fiscal space and social costs.",
+        "definition": "Multilateral development finance can support long-term projects, while balance-of-payments support eases external financing pressure. Conditions and debt relief require evaluation of fiscal space and social costs.",
+        "causalChain": [
+          "External finance eases shortages",
+          "conditions alter policy paths",
+          "restructuring or relief affects future spending and financing incentives"
+        ],
+        "misconceptions": [
+          "The IMF, World Bank and WTO are distinct institutions; project terms and current mandates require primary-source checks."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Multilateral development finance can support long-term projects, while balance-of-payments support eases external financing pressure. Conditions and debt relief require evaluation of fiscal space and social costs.",
+          "The IMF, World Bank and WTO are distinct institutions; project terms and current mandates require primary-source checks."
+        ],
+        "explanation": "External finance eases shortages.  conditions alter policy paths.  restructuring or relief affects future spending and financing incentives.\n\n### Original scenario and reasoning\n\nHypothetical scenario: debt relief frees health spending, but new debt can build up if governance and revenue problems remain. Fiscal conditions also need protection for essential services.\n\nThe IMF, World Bank and WTO are distinct institutions; project terms and current mandates require primary-source checks.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-55-institutional-change",
+    "content": {
+      "zh-CN": {
+        "id": "u4-55-institutional-change",
+        "locale": "zh-CN",
+        "title": "制度改革、包容性金融与赋权",
+        "takeaway": "可信法治、透明预算、可获得的金融服务和性别平等可改善参与和投资，但改革需结合当地执行能力。",
+        "definition": "可信法治、透明预算、可获得的金融服务和性别平等可改善参与和投资，但改革需结合当地执行能力。",
+        "causalChain": [
+          "规则与信息改善降低风险",
+          "弱势群体获得融资和机会",
+          "监督与执行维持信任"
+        ],
+        "misconceptions": [
+          "数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "可信法治、透明预算、可获得的金融服务和性别平等可改善参与和投资，但改革需结合当地执行能力。",
+          "数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。"
+        ],
+        "explanation": "规则与信息改善降低风险。弱势群体获得融资和机会。监督与执行维持信任。\n\n### 原创情境与推导\n\n原创假设：小额贷款配合储蓄、保险和培训可帮助经营；对无稳定现金流的家庭高息放贷可能加重负担，不能假设借款即脱贫。\n\n数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-55-institutional-change",
+        "locale": "en",
+        "title": "Institutional reform, inclusive finance and empowerment",
+        "takeaway": "Credible rule of law, transparent budgets, accessible finance and gender equality can improve participation and investment, with reforms adapted to local implementation capacity.",
+        "definition": "Credible rule of law, transparent budgets, accessible finance and gender equality can improve participation and investment, with reforms adapted to local implementation capacity.",
+        "causalChain": [
+          "Better rules and information reduce risk",
+          "excluded groups gain finance and opportunities",
+          "oversight and enforcement maintain trust"
+        ],
+        "misconceptions": [
+          "Account counts do not establish effective inclusion; fees, literacy, safety and actual use matter."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Credible rule of law, transparent budgets, accessible finance and gender equality can improve participation and investment, with reforms adapted to local implementation capacity.",
+          "Account counts do not establish effective inclusion; fees, literacy, safety and actual use matter."
+        ],
+        "explanation": "Better rules and information reduce risk.  excluded groups gain finance and opportunities.  oversight and enforcement maintain trust.\n\n### Original scenario and reasoning\n\nHypothetical scenario: microcredit combined with saving, insurance and training may support enterprise. High-interest lending to households without stable cash flow can worsen burdens; borrowing does not itself establish poverty reduction.\n\nAccount counts do not establish effective inclusion; fees, literacy, safety and actual use matter.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
+  },
+  {
+    "id": "u4-56-development-policy-mix",
+    "content": {
+      "zh-CN": {
+        "id": "u4-56-development-policy-mix",
+        "locale": "zh-CN",
+        "title": "发展战略组合与证据评价",
+        "takeaway": "有效战略应针对主要约束，结合市场激励与公共投入，按公平、可持续性、成本和可观察结果评价。",
+        "definition": "有效战略应针对主要约束，结合市场激励与公共投入，按公平、可持续性、成本和可观察结果评价。",
+        "causalChain": [
+          "识别约束与目标",
+          "选择互补政策并明确时序",
+          "用可信结果证据修正措施"
+        ],
+        "misconceptions": [
+          "没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "有效战略应针对主要约束，结合市场激励与公共投入，按公平、可持续性、成本和可观察结果评价。",
+          "没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。"
+        ],
+        "explanation": "识别约束与目标。选择互补政策并明确时序。用可信结果证据修正措施。\n\n### 原创情境与推导\n\n原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。\n\n没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-56-development-policy-mix",
+        "locale": "en",
+        "title": "Development policy mixes and evidence",
+        "takeaway": "Effective strategies target binding constraints, combine market incentives with public investment, and are evaluated through equity, sustainability, cost and observed outcomes.",
+        "definition": "Effective strategies target binding constraints, combine market incentives with public investment, and are evaluated through equity, sustainability, cost and observed outcomes.",
+        "causalChain": [
+          "Identify constraints and goals",
+          "choose complementary policies and sequencing",
+          "revise measures using credible outcome evidence"
+        ],
+        "misconceptions": [
+          "There is no single recipe for every country; spending and announcements cannot replace outcome evidence."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Effective strategies target binding constraints, combine market incentives with public investment, and are evaluated through equity, sustainability, cost and observed outcomes.",
+          "There is no single recipe for every country; spending and announcements cannot replace outcome evidence."
+        ],
+        "explanation": "Identify constraints and goals.  choose complementary policies and sequencing.  revise measures using credible outcome evidence.\n\n### Original scenario and reasoning\n\nHypothetical scenario: export processing needs roads, power, skills and customs coordination. Comparison groups or phased introduction help assess effects, alongside regional and gender differences.\n\nThere is no single recipe for every country; spending and announcements cannot replace outcome evidence.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    }
   }
 ]

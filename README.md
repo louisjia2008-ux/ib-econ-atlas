@@ -4,14 +4,16 @@ IB Econ Atlas 是一个以个人复习为核心、可由社区共同维护的中
 
 IB Econ Atlas is an open-source bilingual study workspace for the 2022–2029 IB Diploma Programme Economics course. It is an original curriculum-aligned knowledge base, search tool, and review system—not a digitised or translated textbook.
 
-> 当前状态 / Current status: Unit 1、Unit 2 已上线；本分支新增 Unit 3 宏观经济学，待 PR 审核。Units 1 and 2 are live; this branch adds Unit 3 macroeconomics for PR review. AI 尚未配置；功能分支合并到 `main` 后才会部署到 GitHub Pages。
+> 当前状态 / Current status: Unit 1–3 已发布；本分支新增 Unit 4 全球经济，待 PR 审核。Units 1–3 are published; this branch adds Unit 4 for review. AI 尚未配置；合并到 `main` 后才会部署到 GitHub Pages。
 
 ## 已实现 / What is included
 
-- Unit 1 / 2 / 3 分别有 43 / 60 / 56 个知识点：共 159 点、318 篇中文/英文学习页面。
+- Unit 1 / 2 / 3 / 4 分别有 43 / 60 / 56 / 56 个知识点：共 215 点、430 篇中文/英文学习页面。
 - Unit 2 覆盖 2.1–2.12：33 个 SL/HL 共用点、27 个 HL 点，含原创推导、教学情境、误区、考试提示和总结。Full coverage map: [Unit 2](docs/UNIT_2.md).
 - Unit 3 覆盖 3.1–3.7：51 个 SL/HL 共用点、5 个 HL 深入点。覆盖与边界见 [Unit 3](docs/UNIT_3.md)。
-- 477 道复习材料：每个知识点各有闪卡、选择题和关键词简答题；Unit 3 新增 168 道。
+- Unit 4 覆盖 4.1–4.10：45 个共用点、11 个 HL 深入点，详见 [Unit 4](docs/UNIT_4.md)。
+- 645 道复习材料：每个知识点各有闪卡、选择题和关键词简答题；Unit 4 新增 168 道。
+- 8 幅原创全球经济 SVG：进口、出口、关税、配额、生产补贴、外汇市场、J 曲线和贫困循环，附双语文字替代。
 - 考纲目录与 Cambridge 教材页码索引两套导航；稳定 ID 建立映射，不分发教材文件。
 - 中英文跨语言模糊搜索、同义词、拼写容错、考纲代码、SL/HL/Extension 和临时考试范围过滤。
 - 闪卡、选择题、简答题和混合复习；简答显示关键词命中、遗漏、覆盖率与人工修正。
@@ -38,6 +40,7 @@ Vite 默认使用仓库子路径。打开终端显示的 `/ib-econ-atlas/` URL�
 /#/study/u1-04-scarcity
 /#/study/u2-01-demand
 /#/study/u3-02-gdp
+/#/study/u4-07-tariff
 /#/search
 /#/review
 /#/progress
@@ -104,7 +107,7 @@ AI_RATE_LIMIT        Durable Object binding (DailyAiQuota)
 
 项目针对 `https://louisjia2008-ux.github.io/ib-econ-atlas/` 和 `/ib-econ-atlas/` base 构建。`.github/workflows/pages.yml` 只在 `main` 更新时部署 `dist/`；功能分支不会自动成为公开版本。
 
-发布步骤见 [发布指南](docs/PUBLISHING.md)。[Unit 1 PR #1](https://github.com/louisjia2008-ux/ib-econ-atlas/pull/1) 已合并并上线；本分支 `codex/unit-2-microeconomics` 的内容经审核合并后才会进入公开站点。Worker 部署独立于学习内容发布。
+发布步骤见 [发布指南](docs/PUBLISHING.md)。[Unit 1 PR #1](https://github.com/louisjia2008-ux/ib-econ-atlas/pull/1) 已合并并上线；Unit 4 分支 `codex/unit-4-global-economy` 的内容经审核合并后才会进入公开站点。Worker 部署独立于学习内容发布。
 
 ## 课程与资料边界 / Curriculum and source boundaries
 

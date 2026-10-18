@@ -1,0 +1,40 @@
+id: u4-19-monetary-union
+slug: monetary-union
+section: "4.4"
+level: core
+syllabusRefs:
+  - 4.4 Economic integration
+textbookRefs:
+  - chapter: "15"
+    section: "15.3"
+    pages:
+      - 482
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-16-trading-blocs
+  - u4-17-common-market
+  - u4-18-trade-creation-diversion
+terms:
+  - 货币联盟的收益与代价
+  - Benefits and costs of monetary union
+  - 货币
+  - currency
+  - 利率
+  - interest rate
+  - 冲击
+  - shock
+synonyms:
+  zh-CN:
+    - 货币
+    - 利率
+    - 冲击
+  en:
+    - currency
+    - interest rate
+    - shock
+diagramIds: []
+quizIds:
+  - u4-19-monetary-union-flash-1
+  - u4-19-monetary-union-mcq-1
+  - u4-19-monetary-union-short-1

@@ -37,12 +37,23 @@ export const syllabusTitles: Record<string, Record<Locale, string>> = {
   "3.5": { "zh-CN": "货币政策", en: "Monetary policy" },
   "3.6": { "zh-CN": "财政政策", en: "Fiscal policy" },
   "3.7": { "zh-CN": "供给侧政策", en: "Supply-side policies" },
+  "4.1": { "zh-CN": "国际贸易的益处", en: "Benefits of international trade" },
+  "4.2": { "zh-CN": "贸易保护的类型", en: "Types of trade protection" },
+  "4.3": { "zh-CN": "贸易保护的论据与评价", en: "Arguments for and against trade protection" },
+  "4.4": { "zh-CN": "经济一体化", en: "Economic integration" },
+  "4.5": { "zh-CN": "汇率", en: "Exchange rates" },
+  "4.6": { "zh-CN": "国际收支", en: "Balance of payments" },
+  "4.7": { "zh-CN": "可持续发展", en: "Sustainable development" },
+  "4.8": { "zh-CN": "发展水平的衡量", en: "Measuring development" },
+  "4.9": { "zh-CN": "增长与发展的障碍", en: "Barriers to economic growth and development" },
+  "4.10": { "zh-CN": "增长与发展战略", en: "Economic growth and development strategies" },
 };
 
 const unitTitles: Record<string, Record<Locale, string>> = {
   "1": { "zh-CN": "Unit 1 · 经济学导论", en: "Unit 1 · Introduction to economics" },
   "2": { "zh-CN": "Unit 2 · 微观经济学", en: "Unit 2 · Microeconomics" },
   "3": { "zh-CN": "Unit 3 · 宏观经济学", en: "Unit 3 · Macroeconomics" },
+  "4": { "zh-CN": "Unit 4 · 全球经济", en: "Unit 4 · The global economy" },
 };
 const chapterTitles: Record<string, Record<Locale, string>> = {
   "1": { "zh-CN": "经济学基础", en: "Foundations" },
@@ -58,6 +69,13 @@ const chapterTitles: Record<string, Record<Locale, string>> = {
   "11": { "zh-CN": "增长、债务与目标冲突", en: "Growth, debt and conflicting objectives" },
   "12": { "zh-CN": "不平等与贫困", en: "Inequality and poverty" },
   "13": { "zh-CN": "宏观经济政策", en: "Macroeconomic policies" },
+  "14": { "zh-CN": "国际贸易 I", en: "International trade I" },
+  "15": { "zh-CN": "国际贸易 II", en: "International trade II" },
+  "16": { "zh-CN": "汇率与国际收支", en: "Exchange rates and balance of payments" },
+  "17": { "zh-CN": "汇率与国际收支深入", en: "Further exchange rates and balance of payments" },
+  "18": { "zh-CN": "理解经济发展", en: "Understanding development" },
+  "19": { "zh-CN": "增长与发展障碍", en: "Barriers to growth and development" },
+  "20": { "zh-CN": "增长与发展战略", en: "Growth and development strategies" },
 };
 
 export function buildSyllabusDirectory(points: KnowledgePoint[]): DirectoryGroup[] {

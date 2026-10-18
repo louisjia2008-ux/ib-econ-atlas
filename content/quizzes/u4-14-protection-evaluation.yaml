@@ -1,0 +1,99 @@
+- id: u4-14-protection-evaluation-flash-1
+  knowledgePointId: u4-14-protection-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“保护政策的综合评价”，并说明一个关键条件。
+    en: Explain Evaluating protection policies and state one important condition.
+  answer:
+    zh-CN: 评价保护应比较效率、公平、财政成本、外部性、时限及贸易伙伴反应，并与针对性替代政策比较。
+    en: Evaluate protection through efficiency, equity, fiscal costs, externalities,
+      duration and partner responses, alongside targeted alternatives.
+  explanation:
+    zh-CN: 小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。
+    en: Small-country welfare losses are model-dependent; externalities or
+      large-country terms-of-trade effects require separate arguments.
+- id: u4-14-protection-evaluation-mcq-1
+  knowledgePointId: u4-14-protection-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 评价保护政策时最完整的做法是什么？
+    en: Which approach best evaluates protection?
+  options:
+    - id: a
+      zh-CN: 只计算生产者收益
+      en: Count only producer gains
+    - id: b
+      zh-CN: 将目标、成本、条件与替代措施连接
+      en: Link objectives, costs, conditions and alternatives
+    - id: c
+      zh-CN: 认为短期等于长期
+      en: Treat short run as long run
+    - id: d
+      zh-CN: 把税收当纯福利增量
+      en: Treat revenue as a pure welfare gain
+  correctOptionId: b
+  explanation:
+    zh-CN: 将目标、成本、条件与替代措施连接。 原创假设：衰退地区需要支持，可比较关税、工资保险与培训；若问题是技能错配，培训可能比长期高价保护更直接。
+      小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。
+    en: "Link objectives, costs, conditions and alternatives. Hypothetical scenario:
+      compare tariffs, wage insurance and training for a declining region. If
+      skill mismatch is the problem, training may address it more directly than
+      prolonged price protection. Small-country welfare losses are
+      model-dependent; externalities or large-country terms-of-trade effects
+      require separate arguments."
+- id: u4-14-protection-evaluation-short-1
+  knowledgePointId: u4-14-protection-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释保护政策的综合评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Evaluating protection policies and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 评价保护应比较效率、公平、财政成本、外部性、时限及贸易伙伴反应，并与针对性替代政策比较。
+      确定政策目标；比较各方收益与成本；依据条件和替代方案作判断
+      原创假设：衰退地区需要支持，可比较关税、工资保险与培训；若问题是技能错配，培训可能比长期高价保护更直接。
+    en: "Evaluate protection through efficiency, equity, fiscal costs,
+      externalities, duration and partner responses, alongside targeted
+      alternatives. Specify the objective; compare stakeholder gains and costs;
+      judge using conditions and alternatives Hypothetical scenario: compare
+      tariffs, wage insurance and training for a declining region. If skill
+      mismatch is the problem, training may address it more directly than
+      prolonged price protection."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 效率
+        en: efficiency
+      alternatives:
+        zh-CN:
+          - 效率
+          - 确定政策目标
+        en:
+          - efficiency
+          - Specify the objective
+    - id: mechanism-2
+      label:
+        zh-CN: 公平
+        en: equity
+      alternatives:
+        zh-CN:
+          - 公平
+          - 比较各方收益与成本
+        en:
+          - equity
+          - compare stakeholder gains and costs
+    - id: mechanism-3
+      label:
+        zh-CN: 替代
+        en: alternatives
+      alternatives:
+        zh-CN:
+          - 替代
+          - 依据条件和替代方案作判断
+        en:
+          - alternatives
+          - judge using conditions and alternatives
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

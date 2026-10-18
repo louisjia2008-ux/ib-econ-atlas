@@ -1,0 +1,40 @@
+id: u4-01-trade-benefits
+slug: trade-benefits
+section: "4.1"
+level: core
+syllabusRefs:
+  - 4.1 Benefits of international trade
+textbookRefs:
+  - chapter: "14"
+    section: "14.1"
+    pages:
+      - 433
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-02-free-trade-imports
+  - u4-03-free-trade-exports
+  - u4-04-absolute-advantage
+terms:
+  - 贸易、专业化与竞争
+  - Trade, specialisation and competition
+  - 专业化
+  - specialisation
+  - 规模
+  - scale
+  - 竞争
+  - competition
+synonyms:
+  zh-CN:
+    - 专业化
+    - 规模
+    - 竞争
+  en:
+    - specialisation
+    - scale
+    - competition
+diagramIds: []
+quizIds:
+  - u4-01-trade-benefits-flash-1
+  - u4-01-trade-benefits-mcq-1
+  - u4-01-trade-benefits-short-1

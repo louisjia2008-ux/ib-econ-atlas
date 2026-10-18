@@ -1,0 +1,98 @@
+- id: u4-43-human-capital-infrastructure-flash-1
+  knowledgePointId: u4-43-human-capital-infrastructure
+  type: flashcard
+  prompt:
+    zh-CN: 解释“人力资本与基础设施不足”，并说明一个关键条件。
+    en: Explain Human-capital and infrastructure gaps and state one important
+      condition.
+  answer:
+    zh-CN: 健康、教育、电力、交通和数字基础设施不足可提高成本、限制生产率并阻碍进入市场。
+    en: Gaps in health, education, electricity, transport and digital infrastructure
+      can raise costs, restrict productivity and limit market access.
+  explanation:
+    zh-CN: 建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。
+    en: Construction counts do not establish service quality; maintenance, teachers
+      and affordability determine effective access.
+- id: u4-43-human-capital-infrastructure-mcq-1
+  knowledgePointId: u4-43-human-capital-infrastructure
+  type: mcq
+  prompt:
+    zh-CN: 为什么道路建设后仍应观察运输服务？
+    en: Why assess transport services after road construction?
+  options:
+    - id: a
+      zh-CN: 建设支出就是最终福利
+      en: Construction spending is final welfare
+    - id: b
+      zh-CN: 所有地区必同等受益
+      en: Every region must gain equally
+    - id: c
+      zh-CN: 维护与使用条件决定实际收益
+      en: Maintenance and access determine actual benefits
+    - id: d
+      zh-CN: 不再需测量结果
+      en: Outcomes need no measurement
+  correctOptionId: c
+  explanation:
+    zh-CN: 维护与使用条件决定实际收益。 原创假设：学校扩招但学生因疾病缺勤、企业因停电停工，单独增加学位未必转化为生产率；需要互补投入。
+      建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。
+    en: "Maintenance and access determine actual benefits. Hypothetical scenario:
+      schooling expands but illness causes absence and outages halt firms. More
+      school places alone may not raise productivity without complementary
+      investments. Construction counts do not establish service quality;
+      maintenance, teachers and affordability determine effective access."
+- id: u4-43-human-capital-infrastructure-short-1
+  knowledgePointId: u4-43-human-capital-infrastructure
+  type: short-answer
+  prompt:
+    zh-CN: 解释人力资本与基础设施不足的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Human-capital and infrastructure gaps and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 健康、教育、电力、交通和数字基础设施不足可提高成本、限制生产率并阻碍进入市场。 服务缺口限制能力；停电和运输延误提高成本；低回报抑制投资与就业
+      原创假设：学校扩招但学生因疾病缺勤、企业因停电停工，单独增加学位未必转化为生产率；需要互补投入。
+    en: "Gaps in health, education, electricity, transport and digital
+      infrastructure can raise costs, restrict productivity and limit market
+      access. Service gaps restrict capabilities; outages and transport delays
+      raise costs; weak returns discourage investment and jobs Hypothetical
+      scenario: schooling expands but illness causes absence and outages halt
+      firms. More school places alone may not raise productivity without
+      complementary investments."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 健康
+        en: health
+      alternatives:
+        zh-CN:
+          - 健康
+          - 服务缺口限制能力
+        en:
+          - health
+          - Service gaps restrict capabilities
+    - id: mechanism-2
+      label:
+        zh-CN: 基础设施
+        en: infrastructure
+      alternatives:
+        zh-CN:
+          - 基础设施
+          - 停电和运输延误提高成本
+        en:
+          - infrastructure
+          - outages and transport delays raise costs
+    - id: mechanism-3
+      label:
+        zh-CN: 成本
+        en: costs
+      alternatives:
+        zh-CN:
+          - 成本
+          - 低回报抑制投资与就业
+        en:
+          - costs
+          - weak returns discourage investment and jobs
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

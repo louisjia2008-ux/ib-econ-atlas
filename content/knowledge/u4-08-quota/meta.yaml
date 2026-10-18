@@ -1,0 +1,41 @@
+id: u4-08-quota
+slug: quota
+section: "4.2"
+level: core
+syllabusRefs:
+  - 4.2 Types of trade protection
+textbookRefs:
+  - chapter: "14"
+    section: "14.3"
+    pages:
+      - 444
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-07-tariff
+  - u4-09-production-subsidy
+  - u4-10-export-subsidy
+terms:
+  - 进口配额与配额租
+  - Import quotas and quota rents
+  - 数量
+  - quantity
+  - 许可证
+  - licences
+  - 配额租
+  - quota rents
+synonyms:
+  zh-CN:
+    - 数量
+    - 许可证
+    - 配额租
+  en:
+    - quantity
+    - licences
+    - quota rents
+diagramIds:
+  - global-quota
+quizIds:
+  - u4-08-quota-flash-1
+  - u4-08-quota-mcq-1
+  - u4-08-quota-short-1

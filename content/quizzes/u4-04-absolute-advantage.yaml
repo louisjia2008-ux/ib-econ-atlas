@@ -1,0 +1,95 @@
+- id: u4-04-absolute-advantage-flash-1
+  knowledgePointId: u4-04-absolute-advantage
+  type: flashcard
+  prompt:
+    zh-CN: 解释“绝对优势”，并说明一个关键条件。
+    en: Explain Absolute advantage and state one important condition.
+  answer:
+    zh-CN: 使用相同资源能够生产更多某产品，或生产同量产品所需资源更少，即拥有绝对优势。
+    en: Absolute advantage means producing more of a good with the same resources,
+      or using fewer resources for the same output.
+  explanation:
+    zh-CN: 绝对优势比较生产率，比较优势比较机会成本，二者不能互换。
+    en: Absolute advantage compares productivity; comparative advantage compares
+      opportunity cost.
+- id: u4-04-absolute-advantage-mcq-1
+  knowledgePointId: u4-04-absolute-advantage
+  type: mcq
+  prompt:
+    zh-CN: 同一工时产量 8 对 5，谁有绝对优势？
+    en: With output of eight versus five per equal hour, who has absolute advantage?
+  options:
+    - id: a
+      zh-CN: 产量为 5 的经济体
+      en: The economy producing five
+    - id: b
+      zh-CN: 必然都没有
+      en: Neither necessarily
+    - id: c
+      zh-CN: 只看汇率判断
+      en: Decide only from the exchange rate
+    - id: d
+      zh-CN: 产量为 8 的经济体
+      en: The economy producing eight
+  correctOptionId: d
+  explanation:
+    zh-CN: 产量为 8 的经济体。 原创假设：每工时 A 可产 8 件布，B 可产 5 件，A 在布上有绝对优势；仍需比较另一商品才能判断比较优势。
+      绝对优势比较生产率，比较优势比较机会成本，二者不能互换。
+    en: "The economy producing eight. Hypothetical scenario: A produces eight cloth
+      units per hour and B five. A has absolute advantage in cloth, but another
+      good is needed to establish comparative advantage. Absolute advantage
+      compares productivity; comparative advantage compares opportunity cost."
+- id: u4-04-absolute-advantage-short-1
+  knowledgePointId: u4-04-absolute-advantage
+  type: short-answer
+  prompt:
+    zh-CN: 解释绝对优势的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Absolute advantage and apply it to an example of
+      your own.
+  modelAnswer:
+    zh-CN: 使用相同资源能够生产更多某产品，或生产同量产品所需资源更少，即拥有绝对优势。 保持投入可比；比较单位资源的产量；识别生产率优势 原创假设：每工时
+      A 可产 8 件布，B 可产 5 件，A 在布上有绝对优势；仍需比较另一商品才能判断比较优势。
+    en: "Absolute advantage means producing more of a good with the same resources,
+      or using fewer resources for the same output. Hold inputs comparable;
+      compare output per unit of resources; identify the productivity advantage
+      Hypothetical scenario: A produces eight cloth units per hour and B five. A
+      has absolute advantage in cloth, but another good is needed to establish
+      comparative advantage."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 资源
+        en: resources
+      alternatives:
+        zh-CN:
+          - 资源
+          - 保持投入可比
+        en:
+          - resources
+          - Hold inputs comparable
+    - id: mechanism-2
+      label:
+        zh-CN: 产量
+        en: output
+      alternatives:
+        zh-CN:
+          - 产量
+          - 比较单位资源的产量
+        en:
+          - output
+          - compare output per unit of resources
+    - id: mechanism-3
+      label:
+        zh-CN: 生产率
+        en: productivity
+      alternatives:
+        zh-CN:
+          - 生产率
+          - 识别生产率优势
+        en:
+          - productivity
+          - identify the productivity advantage
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

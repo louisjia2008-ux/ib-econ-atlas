@@ -1,0 +1,99 @@
+- id: u4-17-common-market-flash-1
+  knowledgePointId: u4-17-common-market
+  type: flashcard
+  prompt:
+    zh-CN: 解释“共同市场与经济一体化”，并说明一个关键条件。
+    en: Explain Common markets and economic integration and state one important
+      condition.
+  answer:
+    zh-CN: 共同市场在贸易一体化基础上允许生产要素跨成员流动；更深一体化涉及政策协调和自主权权衡。
+    en: A common market adds factor mobility to trade integration. Deeper
+      integration brings policy coordination and trade-offs over autonomy.
+  explanation:
+    zh-CN: 要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。
+    en: Factor mobility does not ensure equal regional gains; infrastructure and
+      institutional differences remain.
+- id: u4-17-common-market-mcq-1
+  knowledgePointId: u4-17-common-market
+  type: mcq
+  prompt:
+    zh-CN: 共同市场在关税同盟基础上增加什么？
+    en: What does a common market add to a customs union?
+  options:
+    - id: a
+      zh-CN: 生产要素流动
+      en: Factor mobility
+    - id: b
+      zh-CN: 必然无失业
+      en: Guaranteed zero unemployment
+    - id: c
+      zh-CN: 世界统一价格
+      en: A single price for everything worldwide
+    - id: d
+      zh-CN: 禁止迁移
+      en: A ban on migration
+  correctOptionId: a
+  explanation:
+    zh-CN: 生产要素流动。 原创假设：工程师跨成员就业改善技能匹配，但人才流出地区可能失去税基，资格互认与公共服务协调因此重要。
+      要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。
+    en: "Factor mobility. Hypothetical scenario: engineers moving between members
+      improve skill matching, while origin regions may lose tax revenue.
+      Qualification recognition and service coordination matter. Factor mobility
+      does not ensure equal regional gains; infrastructure and institutional
+      differences remain."
+- id: u4-17-common-market-short-1
+  knowledgePointId: u4-17-common-market
+  type: short-answer
+  prompt:
+    zh-CN: 解释共同市场与经济一体化的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Common markets and economic integration and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 共同市场在贸易一体化基础上允许生产要素跨成员流动；更深一体化涉及政策协调和自主权权衡。
+      壁垒下降扩展市场；劳动资本流向回报较高处；协调政策降低跨境摩擦
+      原创假设：工程师跨成员就业改善技能匹配，但人才流出地区可能失去税基，资格互认与公共服务协调因此重要。
+    en: "A common market adds factor mobility to trade integration. Deeper
+      integration brings policy coordination and trade-offs over autonomy. Lower
+      barriers expand markets; labour and capital move toward higher returns;
+      policy coordination reduces cross-border frictions Hypothetical scenario:
+      engineers moving between members improve skill matching, while origin
+      regions may lose tax revenue. Qualification recognition and service
+      coordination matter."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 要素
+        en: factors
+      alternatives:
+        zh-CN:
+          - 要素
+          - 壁垒下降扩展市场
+        en:
+          - factors
+          - Lower barriers expand markets
+    - id: mechanism-2
+      label:
+        zh-CN: 流动
+        en: mobility
+      alternatives:
+        zh-CN:
+          - 流动
+          - 劳动资本流向回报较高处
+        en:
+          - mobility
+          - labour and capital move toward higher returns
+    - id: mechanism-3
+      label:
+        zh-CN: 协调
+        en: coordination
+      alternatives:
+        zh-CN:
+          - 协调
+          - 协调政策降低跨境摩擦
+        en:
+          - coordination
+          - policy coordination reduces cross-border frictions
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,101 @@
+- id: u4-36-environment-poverty-flash-1
+  knowledgePointId: u4-36-environment-poverty
+  type: flashcard
+  prompt:
+    zh-CN: 解释“贫困、环境与共同资源”，并说明一个关键条件。
+    en: Explain Poverty, environment and common resources and state one important
+      condition.
+  answer:
+    zh-CN: 贫困可能迫使家庭依赖短期资源开采，环境退化又削弱生计；产权、替代收入和公共服务影响这一循环。
+    en: Poverty can push households toward short-run resource extraction, while
+      degradation undermines livelihoods. Property rights, alternative incomes
+      and public services influence the cycle.
+  explanation:
+    zh-CN: 环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。
+    en: High consumption among wealthy groups can also damage the environment;
+      responsibility cannot be assigned solely to poor people.
+- id: u4-36-environment-poverty-mcq-1
+  knowledgePointId: u4-36-environment-poverty
+  type: mcq
+  prompt:
+    zh-CN: 什么最可能兼顾生计和资源保护？
+    en: What can best support livelihoods and conservation together?
+  options:
+    - id: a
+      zh-CN: 无补偿全面禁用
+      en: A blanket ban without support
+    - id: b
+      zh-CN: 放任无限开采
+      en: Unlimited unregulated extraction
+    - id: c
+      zh-CN: 忽略资源产权
+      en: Ignoring resource rights
+    - id: d
+      zh-CN: 替代能源加社区管理
+      en: Alternative energy plus community management
+  correctOptionId: d
+  explanation:
+    zh-CN: 替代能源加社区管理。 原创假设：缺乏可靠电力的村庄依赖薪柴，单独禁伐可能伤害穷人；社区管理与清洁能源可同时改善激励和选择。
+      环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。
+    en: "Alternative energy plus community management. Hypothetical scenario: a
+      village without reliable power relies on fuelwood. A logging ban alone may
+      harm poor households; community management and clean energy improve
+      incentives and alternatives together. High consumption among wealthy
+      groups can also damage the environment; responsibility cannot be assigned
+      solely to poor people."
+- id: u4-36-environment-poverty-short-1
+  knowledgePointId: u4-36-environment-poverty
+  type: short-answer
+  prompt:
+    zh-CN: 解释贫困、环境与共同资源的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Poverty, environment and common resources and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 贫困可能迫使家庭依赖短期资源开采，环境退化又削弱生计；产权、替代收入和公共服务影响这一循环。
+      低收入限制替代选择；过度使用共同资源；资源退化使收入更脆弱
+      原创假设：缺乏可靠电力的村庄依赖薪柴，单独禁伐可能伤害穷人；社区管理与清洁能源可同时改善激励和选择。
+    en: "Poverty can push households toward short-run resource extraction, while
+      degradation undermines livelihoods. Property rights, alternative incomes
+      and public services influence the cycle. Low income restricts
+      alternatives; common resources are overused; degradation makes income more
+      vulnerable Hypothetical scenario: a village without reliable power relies
+      on fuelwood. A logging ban alone may harm poor households; community
+      management and clean energy improve incentives and alternatives together."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 贫困
+        en: poverty
+      alternatives:
+        zh-CN:
+          - 贫困
+          - 低收入限制替代选择
+        en:
+          - poverty
+          - Low income restricts alternatives
+    - id: mechanism-2
+      label:
+        zh-CN: 资源
+        en: resources
+      alternatives:
+        zh-CN:
+          - 资源
+          - 过度使用共同资源
+        en:
+          - resources
+          - common resources are overused
+    - id: mechanism-3
+      label:
+        zh-CN: 生计
+        en: livelihoods
+      alternatives:
+        zh-CN:
+          - 生计
+          - 资源退化使收入更脆弱
+        en:
+          - livelihoods
+          - degradation makes income more vulnerable
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

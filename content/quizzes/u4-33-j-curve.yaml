@@ -1,0 +1,99 @@
+- id: u4-33-j-curve-flash-1
+  knowledgePointId: u4-33-j-curve
+  type: flashcard
+  prompt:
+    zh-CN: 解释“J 曲线与调整时滞”，并说明一个关键条件。
+    en: Explain The J-curve and adjustment lags and state one important condition.
+  answer:
+    zh-CN: 贬值后贸易余额可能先恶化后改善，因为合同与消费习惯使数量反应滞后于进口价格变化。
+    en: After depreciation the trade balance may first worsen and later improve
+      because contracts and habits delay quantity responses relative to
+      import-price changes.
+  explanation:
+    zh-CN: J 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。
+    en: The J shape is only a possible path; weak long-run elasticities or supply
+      constraints can prevent improvement.
+- id: u4-33-j-curve-mcq-1
+  knowledgePointId: u4-33-j-curve
+  type: mcq
+  prompt:
+    zh-CN: J 曲线初期恶化主要反映什么？
+    en: What chiefly explains initial J-curve deterioration?
+  options:
+    - id: a
+      zh-CN: 数量调整慢于价格
+      en: Quantities adjust more slowly than prices
+    - id: b
+      zh-CN: 出口永远消失
+      en: Exports vanish forever
+    - id: c
+      zh-CN: 进口单价必下降
+      en: Import unit prices must fall
+    - id: d
+      zh-CN: 弹性总等于零
+      en: Elasticities are always zero
+  correctOptionId: a
+  explanation:
+    zh-CN: 数量调整慢于价格。 原创假设：进口燃料合同量短期固定，贬值先增加账单；之后企业节能并改用本地投入，进口量才下降。 J
+      形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。
+    en: "Quantities adjust more slowly than prices. Hypothetical scenario:
+      contracted fuel volumes initially remain fixed, so depreciation raises the
+      bill first. Firms later conserve energy and substitute domestic inputs,
+      reducing imports. The J shape is only a possible path; weak long-run
+      elasticities or supply constraints can prevent improvement."
+- id: u4-33-j-curve-short-1
+  knowledgePointId: u4-33-j-curve
+  type: short-answer
+  prompt:
+    zh-CN: 解释J 曲线与调整时滞的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The J-curve and adjustment lags and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 贬值后贸易余额可能先恶化后改善，因为合同与消费习惯使数量反应滞后于进口价格变化。
+      进口本币单价先上升；短期合同使数量调整缓慢；长期弹性增大可能改善余额
+      原创假设：进口燃料合同量短期固定，贬值先增加账单；之后企业节能并改用本地投入，进口量才下降。
+    en: "After depreciation the trade balance may first worsen and later improve
+      because contracts and habits delay quantity responses relative to
+      import-price changes. Home-currency import prices rise first; contracts
+      slow initial volume adjustment; higher long-run elasticities may improve
+      the balance Hypothetical scenario: contracted fuel volumes initially
+      remain fixed, so depreciation raises the bill first. Firms later conserve
+      energy and substitute domestic inputs, reducing imports."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 合同
+        en: contracts
+      alternatives:
+        zh-CN:
+          - 合同
+          - 进口本币单价先上升
+        en:
+          - contracts
+          - Home-currency import prices rise first
+    - id: mechanism-2
+      label:
+        zh-CN: 时滞
+        en: lags
+      alternatives:
+        zh-CN:
+          - 时滞
+          - 短期合同使数量调整缓慢
+        en:
+          - lags
+          - contracts slow initial volume adjustment
+    - id: mechanism-3
+      label:
+        zh-CN: 数量
+        en: volumes
+      alternatives:
+        zh-CN:
+          - 数量
+          - 长期弹性增大可能改善余额
+        en:
+          - volumes
+          - higher long-run elasticities may improve the balance
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

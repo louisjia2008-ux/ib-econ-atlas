@@ -2,20 +2,20 @@
 
 This report is generated from the checked-in source content by `npm run content:report`. Do not edit it by hand.
 
-## Authored Units 1, 2 and 3
+## Authored Units 1–4
 
 | Measure | Result |
 | --- | ---: |
-| Manifest knowledge points | 159 |
-| Implemented knowledge points | 159 |
-| Localised learning pages | 318 |
-| Chinese pages | 159 |
-| English pages | 159 |
-| Flashcards | 159 |
-| Multiple-choice questions | 159 |
-| Short-answer questions | 159 |
-| Total practice items | 477 |
-| Unique diagram assets | 21 |
+| Manifest knowledge points | 215 |
+| Implemented knowledge points | 215 |
+| Localised learning pages | 430 |
+| Chinese pages | 215 |
+| English pages | 215 |
+| Flashcards | 215 |
+| Multiple-choice questions | 215 |
+| Short-answer questions | 215 |
+| Total practice items | 645 |
+| Unique diagram assets | 29 |
 | Unique external example sources | 40 |
 
 ## Coverage by syllabus section
@@ -46,13 +46,23 @@ This report is generated from the checked-in source content by `npm run content:
 | 3.5 | 6 |
 | 3.6 | 7 |
 | 3.7 | 5 |
+| 4.1 | 6 |
+| 4.2 | 5 |
+| 4.3 | 4 |
+| 4.4 | 5 |
+| 4.5 | 7 |
+| 4.6 | 7 |
+| 4.7 | 3 |
+| 4.8 | 4 |
+| 4.9 | 6 |
+| 4.10 | 9 |
 
 ## Coverage by level
 
 | Level | Knowledge points |
 | --- | ---: |
-| core | 119 |
-| hl | 32 |
+| core | 164 |
+| hl | 43 |
 | extension | 8 |
 
 ## Enforced release properties

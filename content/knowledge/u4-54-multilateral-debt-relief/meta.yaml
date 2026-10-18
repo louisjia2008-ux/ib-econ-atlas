@@ -1,0 +1,40 @@
+id: u4-54-multilateral-debt-relief
+slug: multilateral-debt-relief
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.7"
+    pages:
+      - 623
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 多边机构与债务减免
+  - Multilateral institutions and debt relief
+  - 融资
+  - finance
+  - 条件
+  - conditions
+  - 财政空间
+  - fiscal space
+synonyms:
+  zh-CN:
+    - 融资
+    - 条件
+    - 财政空间
+  en:
+    - finance
+    - conditions
+    - fiscal space
+diagramIds: []
+quizIds:
+  - u4-54-multilateral-debt-relief-flash-1
+  - u4-54-multilateral-debt-relief-mcq-1
+  - u4-54-multilateral-debt-relief-short-1

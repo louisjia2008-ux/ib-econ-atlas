@@ -1,0 +1,102 @@
+- id: u4-30-bop-identity-flash-1
+  knowledgePointId: u4-30-bop-identity
+  type: flashcard
+  prompt:
+    zh-CN: 解释“国际收支恒等式与符号”，并说明一个关键条件。
+    en: Explain Balance-of-payments identity and signs and state one important
+      condition.
+  answer:
+    zh-CN: 采用金融账户为净资本流入的教学符号时，CA+KA+FA+误差遗漏=0；官方净资产获得减负债增加的符号则相反。
+    en: With a teaching convention that defines FA as net financial inflows,
+      CA+KA+FA+errors=0. The official
+      net-acquisition-of-assets-minus-liabilities convention uses the opposite
+      FA sign.
+  explanation:
+    zh-CN: 不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。
+    en: Do not count reserves inside FA and then add them again; balanced accounts
+      do not imply a zero current account.
+- id: u4-30-bop-identity-mcq-1
+  knowledgePointId: u4-30-bop-identity
+  type: mcq
+  prompt:
+    zh-CN: 净流入符号下 CA=−12、KA=0、无误差，FA 为多少？
+    en: Using net inflows, CA=−12, KA=0 and no errors imply what FA?
+  options:
+    - id: a
+      zh-CN: −12
+      en: −12
+    - id: b
+      zh-CN: "+12"
+      en: "+12"
+    - id: c
+      zh-CN: "0"
+      en: "0"
+    - id: d
+      zh-CN: 必须再重复加储备
+      en: Reserves must be added again
+  correctOptionId: b
+  explanation:
+    zh-CN: +12。 原创假设：CA=−30、KA=0、误差=0，则教学净流入 FA=+30；官方净借出符号下 FA=−30。储备交易已经包含在金融账户中。
+      不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。
+    en: "+12. Hypothetical scenario: CA=−30, KA=0 and no errors imply
+      teaching-convention inflows FA=+30, or official net-lending FA=−30.
+      Reserve transactions are already within the financial account. Do not
+      count reserves inside FA and then add them again; balanced accounts do not
+      imply a zero current account."
+- id: u4-30-bop-identity-short-1
+  knowledgePointId: u4-30-bop-identity
+  type: short-answer
+  prompt:
+    zh-CN: 解释国际收支恒等式与符号的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Balance-of-payments identity and signs and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 采用金融账户为净资本流入的教学符号时，CA+KA+FA+误差遗漏=0；官方净资产获得减负债增加的符号则相反。
+      声明金融账户符号；记录交易对应项；用误差遗漏协调统计差异 原创假设：CA=−30、KA=0、误差=0，则教学净流入 FA=+30；官方净借出符号下
+      FA=−30。储备交易已经包含在金融账户中。
+    en: "With a teaching convention that defines FA as net financial inflows,
+      CA+KA+FA+errors=0. The official
+      net-acquisition-of-assets-minus-liabilities convention uses the opposite
+      FA sign. State the financial-account sign convention; record transaction
+      counterparts; use errors and omissions for statistical discrepancies
+      Hypothetical scenario: CA=−30, KA=0 and no errors imply
+      teaching-convention inflows FA=+30, or official net-lending FA=−30.
+      Reserve transactions are already within the financial account."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 符号
+        en: convention
+      alternatives:
+        zh-CN:
+          - 符号
+          - 声明金融账户符号
+        en:
+          - convention
+          - State the financial-account sign convention
+    - id: mechanism-2
+      label:
+        zh-CN: 对应
+        en: counterparts
+      alternatives:
+        zh-CN:
+          - 对应
+          - 记录交易对应项
+        en:
+          - counterparts
+          - record transaction counterparts
+    - id: mechanism-3
+      label:
+        zh-CN: 储备
+        en: reserves
+      alternatives:
+        zh-CN:
+          - 储备
+          - 用误差遗漏协调统计差异
+        en:
+          - reserves
+          - use errors and omissions for statistical discrepancies
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

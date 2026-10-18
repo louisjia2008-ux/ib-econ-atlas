@@ -1,0 +1,99 @@
+- id: u4-02-free-trade-imports-flash-1
+  knowledgePointId: u4-02-free-trade-imports
+  type: flashcard
+  prompt:
+    zh-CN: 解释“小国自由贸易与进口”，并说明一个关键条件。
+    en: Explain Free trade and imports in a small economy and state one important
+      condition.
+  answer:
+    zh-CN: 在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。
+    en: In a small-country model with homogeneous goods and no transport costs, a
+      world price below the autarky price creates imports equal to domestic
+      demand minus supply.
+  explanation:
+    zh-CN: 小国接受世界价格；进口量不是国内总消费量。
+    en: A small economy takes the world price; imports are not total domestic
+      consumption.
+- id: u4-02-free-trade-imports-mcq-1
+  knowledgePointId: u4-02-free-trade-imports
+  type: mcq
+  prompt:
+    zh-CN: Qd=90、Qs=30 时进口量是多少？
+    en: With Qd=90 and Qs=30, how large are imports?
+  options:
+    - id: a
+      zh-CN: "120"
+      en: "120"
+    - id: b
+      zh-CN: "60"
+      en: "60"
+    - id: c
+      zh-CN: "90"
+      en: "90"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: b
+  explanation:
+    zh-CN: 60。 原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。
+      小国接受世界价格；进口量不是国内总消费量。
+    en: "60. Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60.
+      Consumers gain and producers lose, with net welfare gains in a model
+      without externalities. A small economy takes the world price; imports are
+      not total domestic consumption."
+- id: u4-02-free-trade-imports-short-1
+  knowledgePointId: u4-02-free-trade-imports
+  type: short-answer
+  prompt:
+    zh-CN: 解释小国自由贸易与进口的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Free trade and imports in a small economy and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。
+      世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 原创假设：Pw=10 时 Qd=100、Qs=40，进口
+      60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。
+    en: "In a small-country model with homogeneous goods and no transport costs, a
+      world price below the autarky price creates imports equal to domestic
+      demand minus supply. The world price is below autarky; domestic
+      consumption rises and production falls; imports fill the demand-supply gap
+      Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60.
+      Consumers gain and producers lose, with net welfare gains in a model
+      without externalities."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 世界价格
+        en: world price
+      alternatives:
+        zh-CN:
+          - 世界价格
+          - 世界价格低于自给价
+        en:
+          - world price
+          - The world price is below autarky
+    - id: mechanism-2
+      label:
+        zh-CN: 进口
+        en: imports
+      alternatives:
+        zh-CN:
+          - 进口
+          - 国内消费增加而生产减少
+        en:
+          - imports
+          - domestic consumption rises and production falls
+    - id: mechanism-3
+      label:
+        zh-CN: 差额
+        en: gap
+      alternatives:
+        zh-CN:
+          - 差额
+          - 进口满足需求与供给差额
+        en:
+          - gap
+          - imports fill the demand-supply gap
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

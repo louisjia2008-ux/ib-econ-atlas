@@ -1,0 +1,102 @@
+- id: u4-54-multilateral-debt-relief-flash-1
+  knowledgePointId: u4-54-multilateral-debt-relief
+  type: flashcard
+  prompt:
+    zh-CN: 解释“多边机构与债务减免”，并说明一个关键条件。
+    en: Explain Multilateral institutions and debt relief and state one important
+      condition.
+  answer:
+    zh-CN: 多边发展融资可支持长期项目，国际收支支持可缓解外部融资压力；贷款条件和债务减免需评价财政空间与社会代价。
+    en: Multilateral development finance can support long-term projects, while
+      balance-of-payments support eases external financing pressure. Conditions
+      and debt relief require evaluation of fiscal space and social costs.
+  explanation:
+    zh-CN: 不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。
+    en: The IMF, World Bank and WTO are distinct institutions; project terms and
+      current mandates require primary-source checks.
+- id: u4-54-multilateral-debt-relief-mcq-1
+  knowledgePointId: u4-54-multilateral-debt-relief
+  type: mcq
+  prompt:
+    zh-CN: 债务减免的一个可能发展收益是什么？
+    en: What is one potential development gain from debt relief?
+  options:
+    - id: a
+      zh-CN: 永久消除一切融资约束
+      en: Permanently removing all financing constraints
+    - id: b
+      zh-CN: 释放基本服务的财政空间
+      en: Freeing fiscal space for essential services
+    - id: c
+      zh-CN: 保证没有治理问题
+      en: Guaranteeing no governance problems
+    - id: d
+      zh-CN: 自动使所有进口免费
+      en: Automatically making all imports free
+  correctOptionId: b
+  explanation:
+    zh-CN: 释放基本服务的财政空间。 原创假设：债务减免释放卫生预算，但若治理和税基问题未变，新债仍可能累积；紧缩条件也需保护基本服务。 不能把
+      IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。
+    en: "Freeing fiscal space for essential services. Hypothetical scenario: debt
+      relief frees health spending, but new debt can build up if governance and
+      revenue problems remain. Fiscal conditions also need protection for
+      essential services. The IMF, World Bank and WTO are distinct institutions;
+      project terms and current mandates require primary-source checks."
+- id: u4-54-multilateral-debt-relief-short-1
+  knowledgePointId: u4-54-multilateral-debt-relief
+  type: short-answer
+  prompt:
+    zh-CN: 解释多边机构与债务减免的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Multilateral institutions and debt relief and apply
+      it to an example of your own.
+  modelAnswer:
+    zh-CN: 多边发展融资可支持长期项目，国际收支支持可缓解外部融资压力；贷款条件和债务减免需评价财政空间与社会代价。
+      外部融资缓解短缺；条件改变政策路径；债务重组或减免影响未来支出与融资激励
+      原创假设：债务减免释放卫生预算，但若治理和税基问题未变，新债仍可能累积；紧缩条件也需保护基本服务。
+    en: "Multilateral development finance can support long-term projects, while
+      balance-of-payments support eases external financing pressure. Conditions
+      and debt relief require evaluation of fiscal space and social costs.
+      External finance eases shortages; conditions alter policy paths;
+      restructuring or relief affects future spending and financing incentives
+      Hypothetical scenario: debt relief frees health spending, but new debt can
+      build up if governance and revenue problems remain. Fiscal conditions also
+      need protection for essential services."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 融资
+        en: finance
+      alternatives:
+        zh-CN:
+          - 融资
+          - 外部融资缓解短缺
+        en:
+          - finance
+          - External finance eases shortages
+    - id: mechanism-2
+      label:
+        zh-CN: 条件
+        en: conditions
+      alternatives:
+        zh-CN:
+          - 条件
+          - 条件改变政策路径
+        en:
+          - conditions
+          - conditions alter policy paths
+    - id: mechanism-3
+      label:
+        zh-CN: 财政空间
+        en: fiscal space
+      alternatives:
+        zh-CN:
+          - 财政空间
+          - 债务重组或减免影响未来支出与融资激励
+        en:
+          - fiscal space
+          - restructuring or relief affects future spending and financing
+            incentives
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -1,0 +1,99 @@
+- id: u4-37-sdg-policy-flash-1
+  knowledgePointId: u4-37-sdg-policy
+  type: flashcard
+  prompt:
+    zh-CN: 解释“可持续发展目标与政策权衡”，并说明一个关键条件。
+    en: Explain Sustainable development goals and policy trade-offs and state one
+      important condition.
+  answer:
+    zh-CN: 发展政策需要同时评价减贫、健康、教育、环境和制度目标，用明确指标检验协同与冲突。
+    en: Development policy should evaluate poverty, health, education, environment
+      and institutions together, using explicit indicators to test synergies and
+      conflicts.
+  explanation:
+    zh-CN: 宣布目标不等于观察到进展；要注明指标、年份和群体。
+    en: Announcing a goal is not observing progress; specify indicators, years and
+      groups.
+- id: u4-37-sdg-policy-mcq-1
+  knowledgePointId: u4-37-sdg-policy
+  type: mcq
+  prompt:
+    zh-CN: 判断项目是否促进发展最需要什么？
+    en: What is most needed to judge a project's development effect?
+  options:
+    - id: a
+      zh-CN: 有基线的多维结果指标
+      en: Multidimensional outcomes with a baseline
+    - id: b
+      zh-CN: 只有项目名称
+      en: Only the project name
+    - id: c
+      zh-CN: 只统计宣传数量
+      en: Only publicity counts
+    - id: d
+      zh-CN: 只看支出越多越好
+      en: Assume more spending is always better
+  correctOptionId: a
+  explanation:
+    zh-CN: 有基线的多维结果指标。 原创假设：清洁公交可减少污染并改善就业可达性，但票价上涨可能排斥低收入者；比较定向补助与财政成本。
+      宣布目标不等于观察到进展；要注明指标、年份和群体。
+    en: "Multidimensional outcomes with a baseline. Hypothetical scenario: clean
+      buses reduce pollution and improve job access, but higher fares may
+      exclude low-income riders. Compare targeted support with fiscal costs.
+      Announcing a goal is not observing progress; specify indicators, years and
+      groups."
+- id: u4-37-sdg-policy-short-1
+  knowledgePointId: u4-37-sdg-policy
+  type: short-answer
+  prompt:
+    zh-CN: 解释可持续发展目标与政策权衡的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Sustainable development goals and policy trade-offs
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 发展政策需要同时评价减贫、健康、教育、环境和制度目标，用明确指标检验协同与冲突。 确定具体目标与基线；识别协同及机会成本；用分组指标追踪结果
+      原创假设：清洁公交可减少污染并改善就业可达性，但票价上涨可能排斥低收入者；比较定向补助与财政成本。
+    en: "Development policy should evaluate poverty, health, education, environment
+      and institutions together, using explicit indicators to test synergies and
+      conflicts. Set specific goals and baselines; identify synergies and
+      opportunity costs; track outcomes with disaggregated indicators
+      Hypothetical scenario: clean buses reduce pollution and improve job
+      access, but higher fares may exclude low-income riders. Compare targeted
+      support with fiscal costs."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 目标
+        en: goals
+      alternatives:
+        zh-CN:
+          - 目标
+          - 确定具体目标与基线
+        en:
+          - goals
+          - Set specific goals and baselines
+    - id: mechanism-2
+      label:
+        zh-CN: 指标
+        en: indicators
+      alternatives:
+        zh-CN:
+          - 指标
+          - 识别协同及机会成本
+        en:
+          - indicators
+          - identify synergies and opportunity costs
+    - id: mechanism-3
+      label:
+        zh-CN: 权衡
+        en: trade-offs
+      alternatives:
+        zh-CN:
+          - 权衡
+          - 用分组指标追踪结果
+        en:
+          - trade-offs
+          - track outcomes with disaggregated indicators
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

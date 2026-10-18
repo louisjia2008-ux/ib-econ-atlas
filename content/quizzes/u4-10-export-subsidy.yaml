@@ -1,0 +1,98 @@
+- id: u4-10-export-subsidy-flash-1
+  knowledgePointId: u4-10-export-subsidy
+  type: flashcard
+  prompt:
+    zh-CN: 解释“出口补贴”，并说明一个关键条件。
+    en: Explain Export subsidies and state one important condition.
+  answer:
+    zh-CN: 出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。
+    en: An export subsidy pays per exported unit and can raise the domestic price
+      and exports; fiscal costs and domestic consumption losses affect welfare.
+  explanation:
+    zh-CN: 出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。
+    en: More exports do not establish a welfare gain; subsidies can also trigger
+      trade disputes, whose specific rules require verification.
+- id: u4-10-export-subsidy-mcq-1
+  knowledgePointId: u4-10-export-subsidy
+  type: mcq
+  prompt:
+    zh-CN: 出口补贴 2、出口 50，财政支出多少？
+    en: An export subsidy of two on fifty exports costs how much?
+  options:
+    - id: a
+      zh-CN: "52"
+      en: "52"
+    - id: b
+      zh-CN: "100"
+      en: "100"
+    - id: c
+      zh-CN: "48"
+      en: "48"
+    - id: d
+      zh-CN: 必然没有成本
+      en: Necessarily no cost
+  correctOptionId: b
+  explanation:
+    zh-CN: 100。 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。
+      出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。
+    en: "100. Hypothetical scenario: with world price ten and an export subsidy of
+      two, domestic price rises to twelve in a simplified arbitrage model. Fifty
+      exports cost the government 100. More exports do not establish a welfare
+      gain; subsidies can also trigger trade disputes, whose specific rules
+      require verification."
+- id: u4-10-export-subsidy-short-1
+  knowledgePointId: u4-10-export-subsidy
+  type: short-answer
+  prompt:
+    zh-CN: 解释出口补贴的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Export subsidies and apply it to an example of your
+      own.
+  modelAnswer:
+    zh-CN: 出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。
+      出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至
+      12；若出口 50，财政成本为 100。
+    en: "An export subsidy pays per exported unit and can raise the domestic price
+      and exports; fiscal costs and domestic consumption losses affect welfare.
+      Returns per exported unit rise; producers divert sales until domestic
+      price adjusts; domestic output rises and consumption falls Hypothetical
+      scenario: with world price ten and an export subsidy of two, domestic
+      price rises to twelve in a simplified arbitrage model. Fifty exports cost
+      the government 100."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 出口
+        en: exports
+      alternatives:
+        zh-CN:
+          - 出口
+          - 出口每单位回报提高
+        en:
+          - exports
+          - Returns per exported unit rise
+    - id: mechanism-2
+      label:
+        zh-CN: 补贴
+        en: subsidy
+      alternatives:
+        zh-CN:
+          - 补贴
+          - 生产者转向出口直到国内价调整
+        en:
+          - subsidy
+          - producers divert sales until domestic price adjusts
+    - id: mechanism-3
+      label:
+        zh-CN: 消费
+        en: consumption
+      alternatives:
+        zh-CN:
+          - 消费
+          - 国内生产增加消费下降
+        en:
+          - consumption
+          - domestic output rises and consumption falls
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

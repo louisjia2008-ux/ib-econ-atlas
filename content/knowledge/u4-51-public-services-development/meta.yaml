@@ -1,0 +1,40 @@
+id: u4-51-public-services-development
+slug: public-services-development
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.4"
+    pages:
+      - 606
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 公共服务、再分配与发展
+  - Public services, redistribution and development
+  - 服务
+  - services
+  - 能力
+  - capabilities
+  - 质量
+  - quality
+synonyms:
+  zh-CN:
+    - 服务
+    - 能力
+    - 质量
+  en:
+    - services
+    - capabilities
+    - quality
+diagramIds: []
+quizIds:
+  - u4-51-public-services-development-flash-1
+  - u4-51-public-services-development-mcq-1
+  - u4-51-public-services-development-short-1

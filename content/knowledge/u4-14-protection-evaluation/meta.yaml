@@ -1,0 +1,40 @@
+id: u4-14-protection-evaluation
+slug: protection-evaluation
+section: "4.3"
+level: core
+syllabusRefs:
+  - 4.3 Arguments for and against trade protection
+textbookRefs:
+  - chapter: "15"
+    section: "15.1"
+    pages:
+      - 465
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-12-infant-industry
+  - u4-13-protection-arguments
+  - u4-15-wto
+terms:
+  - 保护政策的综合评价
+  - Evaluating protection policies
+  - 效率
+  - efficiency
+  - 公平
+  - equity
+  - 替代
+  - alternatives
+synonyms:
+  zh-CN:
+    - 效率
+    - 公平
+    - 替代
+  en:
+    - efficiency
+    - equity
+    - alternatives
+diagramIds: []
+quizIds:
+  - u4-14-protection-evaluation-flash-1
+  - u4-14-protection-evaluation-mcq-1
+  - u4-14-protection-evaluation-short-1

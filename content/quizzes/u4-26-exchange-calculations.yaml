@@ -1,0 +1,96 @@
+- id: u4-26-exchange-calculations-flash-1
+  knowledgePointId: u4-26-exchange-calculations
+  type: flashcard
+  prompt:
+    zh-CN: 解释“汇率换算与百分比”，并说明一个关键条件。
+    en: Explain Currency conversion and percentage changes and state one important
+      condition.
+  answer:
+    zh-CN: 按报价单位相乘或相除完成换算；百分比变动以初始汇率为分母，倒数报价须重新计算。
+    en: Convert by multiplying or dividing according to units. Percentage changes
+      use the initial rate; inverse quotations need a separate calculation.
+  explanation:
+    zh-CN: 进口账单变化可能还含数量与外币价格变化；应控制条件。
+    en: An import bill can also change with quantity and foreign price; hold these
+      conditions constant.
+- id: u4-26-exchange-calculations-mcq-1
+  knowledgePointId: u4-26-exchange-calculations
+  type: mcq
+  prompt:
+    zh-CN: 每美元 5 本币，100 本币换多少美元？
+    en: At five home units per dollar, how many dollars do 100 home units buy?
+  options:
+    - id: a
+      zh-CN: 500 美元
+      en: Five hundred dollars
+    - id: b
+      zh-CN: 20 美元
+      en: Twenty dollars
+    - id: c
+      zh-CN: 95 美元
+      en: Ninety-five dollars
+    - id: d
+      zh-CN: 105 美元
+      en: One hundred and five dollars
+  correctOptionId: b
+  explanation:
+    zh-CN: 20 美元。 原创假设：每美元 8 本币，240 本币可换 30 美元；变为每美元 10 本币，同额只能换 24 美元。本币的美元价值下降
+      20%，不是 25%。 进口账单变化可能还含数量与外币价格变化；应控制条件。
+    en: "Twenty dollars. Hypothetical scenario: at eight home units per dollar, 240
+      home units buy thirty dollars; at ten, they buy twenty-four. The home
+      currency's dollar value falls 20%, not 25%. An import bill can also change
+      with quantity and foreign price; hold these conditions constant."
+- id: u4-26-exchange-calculations-short-1
+  knowledgePointId: u4-26-exchange-calculations
+  type: short-answer
+  prompt:
+    zh-CN: 解释汇率换算与百分比的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Currency conversion and percentage changes and
+      apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 按报价单位相乘或相除完成换算；百分比变动以初始汇率为分母，倒数报价须重新计算。 写清金额单位；使换算单位约去；用新减旧除以旧计算变动
+      原创假设：每美元 8 本币，240 本币可换 30 美元；变为每美元 10 本币，同额只能换 24 美元。本币的美元价值下降 20%，不是 25%。
+    en: "Convert by multiplying or dividing according to units. Percentage changes
+      use the initial rate; inverse quotations need a separate calculation.
+      Write amount units; cancel units in conversion; calculate change as new
+      minus old divided by old Hypothetical scenario: at eight home units per
+      dollar, 240 home units buy thirty dollars; at ten, they buy twenty-four.
+      The home currency's dollar value falls 20%, not 25%."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 单位
+        en: units
+      alternatives:
+        zh-CN:
+          - 单位
+          - 写清金额单位
+        en:
+          - units
+          - Write amount units
+    - id: mechanism-2
+      label:
+        zh-CN: 换算
+        en: conversion
+      alternatives:
+        zh-CN:
+          - 换算
+          - 使换算单位约去
+        en:
+          - conversion
+          - cancel units in conversion
+    - id: mechanism-3
+      label:
+        zh-CN: 初始
+        en: initial
+      alternatives:
+        zh-CN:
+          - 初始
+          - 用新减旧除以旧计算变动
+        en:
+          - initial
+          - calculate change as new minus old divided by old
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

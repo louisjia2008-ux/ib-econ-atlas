@@ -1,0 +1,40 @@
+id: u4-34-imbalance-policies
+slug: imbalance-policies
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.4"
+    pages:
+      - 530
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - 支出转换、支出减少与供给侧措施
+  - Expenditure switching, reduction and supply policies
+  - 转换
+  - switching
+  - 紧缩
+  - contraction
+  - 生产率
+  - productivity
+synonyms:
+  zh-CN:
+    - 转换
+    - 紧缩
+    - 生产率
+  en:
+    - switching
+    - contraction
+    - productivity
+diagramIds: []
+quizIds:
+  - u4-34-imbalance-policies-flash-1
+  - u4-34-imbalance-policies-mcq-1
+  - u4-34-imbalance-policies-short-1

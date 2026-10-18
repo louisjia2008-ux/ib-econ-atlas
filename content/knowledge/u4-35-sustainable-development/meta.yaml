@@ -1,0 +1,39 @@
+id: u4-35-sustainable-development
+slug: sustainable-development
+section: "4.7"
+level: core
+syllabusRefs:
+  - 4.7 Sustainable development
+textbookRefs:
+  - chapter: "18"
+    section: "18.1"
+    pages:
+      - 540
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-36-environment-poverty
+  - u4-37-sdg-policy
+terms:
+  - 增长、发展与可持续性
+  - Growth, development and sustainability
+  - 发展
+  - development
+  - 自然资本
+  - natural capital
+  - 后代
+  - future generations
+synonyms:
+  zh-CN:
+    - 发展
+    - 自然资本
+    - 后代
+  en:
+    - development
+    - natural capital
+    - future generations
+diagramIds: []
+quizIds:
+  - u4-35-sustainable-development-flash-1
+  - u4-35-sustainable-development-mcq-1
+  - u4-35-sustainable-development-short-1

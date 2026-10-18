@@ -1,0 +1,41 @@
+id: u4-33-j-curve
+slug: j-curve
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.4"
+    pages:
+      - 530
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - J 曲线与调整时滞
+  - The J-curve and adjustment lags
+  - 合同
+  - contracts
+  - 时滞
+  - lags
+  - 数量
+  - volumes
+synonyms:
+  zh-CN:
+    - 合同
+    - 时滞
+    - 数量
+  en:
+    - contracts
+    - lags
+    - volumes
+diagramIds:
+  - global-j-curve
+quizIds:
+  - u4-33-j-curve-flash-1
+  - u4-33-j-curve-mcq-1
+  - u4-33-j-curve-short-1
