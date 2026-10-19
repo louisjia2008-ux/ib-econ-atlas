@@ -1,7 +1,7 @@
 id: u3-35-lorenz-gini
 slug: lorenz-gini
 section: "3.4"
-level: hl
+level: core
 syllabusRefs:
   - 3.4 Economics of inequality and poverty
 textbookRefs:
@@ -16,8 +16,8 @@ related:
   - u3-34-inequality-causes
   - u3-36-poverty-effects
 terms:
-  - 洛伦兹曲线与基尼计算
-  - Lorenz curves and Gini calculations
+  - 洛伦兹曲线与 Gini 系数
+  - Lorenz curves and the Gini coefficient
   - 累计
   - cumulative
   - 面积
@@ -39,3 +39,4 @@ quizIds:
   - u3-35-lorenz-gini-flash-1
   - u3-35-lorenz-gini-mcq-1
   - u3-35-lorenz-gini-short-1
+  - u3-35-lorenz-gini-mcq-hl-1

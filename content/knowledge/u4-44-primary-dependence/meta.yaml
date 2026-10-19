@@ -16,23 +16,23 @@ related:
   - u4-43-human-capital-infrastructure
   - u4-45-debt-finance-barriers
 terms:
-  - 初级产品依赖与贸易条件
-  - Primary-product dependence and terms of trade
-  - 出口价格
-  - export prices
-  - 进口价格
-  - import prices
+  - 初级产品依赖与收入波动
+  - Primary-product dependence and revenue volatility
+  - 集中
+  - concentration
   - 波动
   - volatility
+  - 外汇
+  - foreign exchange
 synonyms:
   zh-CN:
-    - 出口价格
-    - 进口价格
+    - 集中
     - 波动
+    - 外汇
   en:
-    - export prices
-    - import prices
+    - concentration
     - volatility
+    - foreign exchange
 diagramIds: []
 quizIds:
   - u4-44-primary-dependence-flash-1

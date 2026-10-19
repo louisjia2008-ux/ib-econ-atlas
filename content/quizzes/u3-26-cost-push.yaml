@@ -34,15 +34,11 @@
       en: No inference is possible despite equal proportional changes
   correctOptionId: b
   explanation:
-    zh-CN: 大致不变。
-      原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。
-      名义工资上升若被生产率提高抵消，不必增加单位劳动成本。
-    en: "Approximately unchanged. Illustrative example: dearer transport energy
-      affects many industries. Monetary tightening can restrain second-round
-      demand and expectations but cannot directly produce energy and may deepen
-      output losses. Distinguish the initial shock, expectations and continuing
-      wage-price interactions. Higher nominal wages need not increase unit
-      labour cost if offset by productivity gains."
+    zh-CN: 大致不变。 能源、工资相对生产率等成本增加；SRAS 左移；物价与失业可能同时上升 名义工资上升若被生产率提高抵消，不必增加单位劳动成本。
+    en: Approximately unchanged. Energy costs or wages relative to productivity
+      rise; SRAS shifts left; prices and unemployment may rise together Higher
+      nominal wages need not increase unit labour cost if offset by productivity
+      gains.
 - id: u3-26-cost-push-short-1
   knowledgePointId: u3-26-cost-push
   type: short-answer

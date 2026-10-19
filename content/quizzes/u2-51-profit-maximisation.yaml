@@ -34,14 +34,12 @@
       en: Fixed costs disappear
   correctOptionId: c
   explanation:
-    zh-CN: 可继续生产并承担亏损。 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若
-      P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。
-    en: "May operate despite a loss. Illustrative example: P=9, AVC=7 and ATC=11
-      give a loss, but output contributes two per unit toward fixed cost, so
-      short-run operation can be rational. At P=6<AVC production adds to losses.
-      Long-run exit also compares total opportunity costs. A loss does not
-      necessarily require short-run shutdown; MR=MC does not guarantee positive
-      profit."
+    zh-CN: 可继续生产并承担亏损。 MR>MC 时增产提高利润；MC>MR 时减产提高利润；比较可变成本覆盖以判断是否继续生产
+      有亏损不意味着短期必须停产；MR=MC 也不保证正利润。
+    en: May operate despite a loss. When MR>MC expansion raises profit; when MC>MR
+      contraction raises profit; compare coverage of variable costs to decide
+      whether to operate A loss does not necessarily require short-run shutdown;
+      MR=MC does not guarantee positive profit.
 - id: u2-51-profit-maximisation-short-1
   knowledgePointId: u2-51-profit-maximisation
   type: short-answer

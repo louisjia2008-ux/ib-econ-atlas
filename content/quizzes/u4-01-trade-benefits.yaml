@@ -34,13 +34,12 @@
       en: Guaranteeing profit for every firm
   correctOptionId: a
   explanation:
-    zh-CN: 分摊固定成本。 原创假设：本国药品企业进入更大市场，分摊研发成本；消费者可能获得低价药，但低效率企业的工人可能需要转岗。
+    zh-CN: 分摊固定成本。 更大市场支持专业化；规模扩大可降低平均成本；竞争约束价格并促进创新
       总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。
-    en: "Spreading fixed costs. Hypothetical scenario: a medicine producer spreads
-      research costs across a larger market. Consumers may obtain cheaper
-      medicines while workers in less efficient firms face retraining. Aggregate
-      gains do not mean everyone gains; adjustment costs, environmental effects
-      and dependence require separate evaluation."
+    en: Spreading fixed costs. Larger markets support specialisation; greater scale
+      can reduce average costs; competition can restrain prices and encourage
+      innovation Aggregate gains do not mean everyone gains; adjustment costs,
+      environmental effects and dependence require separate evaluation.
 - id: u4-01-trade-benefits-short-1
   knowledgePointId: u4-01-trade-benefits
   type: short-answer

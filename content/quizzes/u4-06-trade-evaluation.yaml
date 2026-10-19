@@ -34,13 +34,13 @@
       en: Why factors of production are no longer needed
   correctOptionId: b
   explanation:
-    zh-CN: 谁获益、谁付出调整成本。 原创假设：廉价进口降低家庭支出，但偏远地区唯一工厂关闭；就业转移需要时间，不能用全国净收益否定地区损失。
+    zh-CN: 谁获益、谁付出调整成本。 进口竞争促使资源重新配置；部分企业和工人承担调整成本；再培训与社会保障影响净收益分布
       把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。
-    en: "Who gains and who bears adjustment costs. Hypothetical scenario: cheaper
-      imports lower household spending but close a remote region's only factory.
-      Reallocation takes time; national net gains do not erase local losses.
-      Treating every import as a loss, or all trade as beneficial to everyone,
-      omits stakeholders."
+    en: Who gains and who bears adjustment costs. Import competition reallocates
+      resources; some firms and workers bear adjustment costs; retraining and
+      social protection affect the distribution of net gains Treating every
+      import as a loss, or all trade as beneficial to everyone, omits
+      stakeholders.
 - id: u4-06-trade-evaluation-short-1
   knowledgePointId: u4-06-trade-evaluation
   type: short-answer

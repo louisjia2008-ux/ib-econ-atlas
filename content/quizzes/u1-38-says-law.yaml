@@ -23,21 +23,19 @@
     en: Which statement best captures “Say's Law”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 萨伊定律保证每件商品都能按任意价格售出
+      en: Say’s law guarantees every good sells at any price
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 生产收入与购买力没有联系
+      en: Production income has no link to purchasing power
     - id: c
       zh-CN: 萨伊定律强调生产创造收入并支持需求，因而怀疑普遍长期供给过剩；凯恩斯后来挑战了这一自我调整结论。
       en: Say's Law emphasises that production creates income and supports demand,
         casting doubt on a persistent general glut; Keynes later challenged the
         speed and reliability of that adjustment.
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 它与需求不足能持续的凯恩斯分析完全相同
+      en: It is identical to Keynesian persistent-demand-deficiency analysis
   correctOptionId: c
   explanation:
     zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
@@ -53,16 +51,16 @@
     en: Briefly explain “Say's Law”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
+    zh-CN: 萨伊定律：萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。
       企业生产并支付工资、租金与利润；这些要素收入形成购买力；收入用于消费、储蓄或投资融资；价格和利率调整使总体供求重新协调 生产创造收入和潜在购买力。
-    en: "Say's Law is commonly summarised as supply creating corresponding demand:
-      production generates income, giving the economy purchasing power to absorb
-      output, so broad and lasting deficient demand should not persist in
-      flexible markets. Firms produce and pay wages, rent, and profit; Factor
-      incomes create purchasing power; Income funds consumption or saving that
-      can finance investment; Price and interest-rate adjustment recoordinates
-      aggregate supply and demand Production generates income and potential
-      purchasing power."
+    en: "Say's Law: Say's Law is commonly summarised as supply creating
+      corresponding demand: production generates income, giving the economy
+      purchasing power to absorb output, so broad and lasting deficient demand
+      should not persist in flexible markets. Firms produce and pay wages, rent,
+      and profit; Factor incomes create purchasing power; Income funds
+      consumption or saving that can finance investment; Price and interest-rate
+      adjustment recoordinates aggregate supply and demand Production generates
+      income and potential purchasing power."
   keywordGroups:
     - id: concept
       label:

@@ -1,0 +1,102 @@
+- id: u4-61-current-account-surplus-flash-1
+  knowledgePointId: u4-61-current-account-surplus
+  type: flashcard
+  prompt:
+    zh-CN: 解释“持续经常账户顺差的影响”，并说明一个关键条件。
+    en: Explain Implications of persistent current-account surpluses and state one
+      important condition.
+  answer:
+    zh-CN: 经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。
+    en: A current-account surplus may accompany foreign-asset accumulation, strong
+      exports or weak domestic spending. Employment, exchange-rate and inflation
+      effects depend on capacity, regimes and capital flows.
+  explanation:
+    zh-CN: 顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。
+    en: A surplus is not automatically optimal and does not guarantee appreciation;
+      financial flows and intervention matter.
+- id: u4-61-current-account-surplus-mcq-1
+  knowledgePointId: u4-61-current-account-surplus
+  type: mcq
+  prompt:
+    zh-CN: 为何顺差不能自动视为发展成功？
+    en: Why is a surplus not automatically development success?
+  options:
+    - id: a
+      zh-CN: 它可能反映内需和进口低迷
+      en: It may reflect weak domestic demand and imports
+    - id: b
+      zh-CN: 顺差永不与出口有关
+      en: Surpluses never relate to exports
+    - id: c
+      zh-CN: 所有顺差都导致失业为零
+      en: Every surplus means zero unemployment
+    - id: d
+      zh-CN: 顺差必说明没有储蓄
+      en: A surplus means no saving
+  correctOptionId: a
+  explanation:
+    zh-CN: 它可能反映内需和进口低迷。 国外净需求支持本国产出；资金与储备流形成对应；汇率和内需调整改变未来顺差
+      顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。
+    en: It may reflect weak domestic demand and imports. Net foreign demand supports
+      home output; financial and reserve flows form counterparts; currency and
+      domestic-demand adjustment affect future surpluses A surplus is not
+      automatically optimal and does not guarantee appreciation; financial flows
+      and intervention matter.
+- id: u4-61-current-account-surplus-short-1
+  knowledgePointId: u4-61-current-account-surplus
+  type: short-answer
+  prompt:
+    zh-CN: 解释持续经常账户顺差的影响的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Implications of persistent current-account
+      surpluses and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。
+      国外净需求支持本国产出；资金与储备流形成对应；汇率和内需调整改变未来顺差
+      原创假设：出口需求旺盛可提高就业并推动浮动本币升值，削弱价格竞争力；另一国顺差却可能来自衰退中的进口下降。政府积累外汇储备可改变升值路径。
+    en: "A current-account surplus may accompany foreign-asset accumulation, strong
+      exports or weak domestic spending. Employment, exchange-rate and inflation
+      effects depend on capacity, regimes and capital flows. Net foreign demand
+      supports home output; financial and reserve flows form counterparts;
+      currency and domestic-demand adjustment affect future surpluses
+      Hypothetical scenario: strong exports may support employment and
+      appreciate a floating currency, weakening price competitiveness. Another
+      economy’s surplus may instead reflect recession-driven import compression.
+      Reserve accumulation can alter appreciation."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 顺差
+        en: surplus
+      alternatives:
+        zh-CN:
+          - 顺差
+          - 国外净需求支持本国产出
+        en:
+          - surplus
+          - Net foreign demand supports home output
+    - id: mechanism-2
+      label:
+        zh-CN: 内需
+        en: domestic demand
+      alternatives:
+        zh-CN:
+          - 内需
+          - 资金与储备流形成对应
+        en:
+          - domestic demand
+          - financial and reserve flows form counterparts
+    - id: mechanism-3
+      label:
+        zh-CN: 汇率
+        en: exchange rate
+      alternatives:
+        zh-CN:
+          - 汇率
+          - 汇率和内需调整改变未来顺差
+        en:
+          - exchange rate
+          - currency and domestic-demand adjustment affect future surpluses
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

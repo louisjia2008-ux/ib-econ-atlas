@@ -21,16 +21,14 @@
     en: Which statement best captures “Interdependence”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 国际贸易使各国完全独立
+      en: Trade makes countries completely independent
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 家庭与企业之间只有单向影响
+      en: Households and firms affect each other in only one direction
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 环境与经济决策没有联系
+      en: The environment has no link to economic decisions
     - id: d
       zh-CN: 相互依存意味着一个主体的选择会通过贸易、收入、价格、环境或制度影响其他主体。
       en: Interdependence means that one agent's choice affects others through trade,
@@ -49,15 +47,15 @@
     en: Briefly explain “Interdependence”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。
+    zh-CN: 相互依存：相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。
       主体通过市场或制度建立联系；一方的需求、供给或规则发生变化；价格、收入或资源流动传导冲击；其他主体回应并可能产生反馈 经济主体通过多种流动相互连接。
-    en: Interdependence is the two-way reliance among households, firms,
-      governments, countries, and the natural environment created through
+    en: "Interdependence: Interdependence is the two-way reliance among households,
+      firms, governments, countries, and the natural environment created through
       production, exchange, finance, policy, and ecosystems. Agents become
       connected through markets or institutions; Demand, supply, or rules change
       for one participant; Prices, incomes, or resource flows transmit the
       shock; Other participants respond and may create feedback Economic agents
-      are connected through several kinds of flow.
+      are connected through several kinds of flow."
   keywordGroups:
     - id: concept
       label:

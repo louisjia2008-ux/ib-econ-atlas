@@ -16,12 +16,12 @@ describe("KnowledgeSearchIndex", () => {
   });
 
   it("recalls a syllabus section code", () => {
-    const hits = index.search("1.3", "en", filters);
+    const hits = index.search("1.1", "en", filters);
     expect(hits.some((hit) => hit.point.meta.id === "u1-25-ppc-construction")).toBe(true);
   });
 
   it("applies level and temporary-scope filters together", () => {
-    const scopeIds = new Set(["u1-04-scarcity", "u1-36-adam-smith"]);
+    const scopeIds = new Set(["u1-04-scarcity", "u4-63-terms-of-trade-enrichment"]);
     const hits = index.search("", "en", { level: "sl", scopeIds });
     expect(hits.map((hit) => hit.point.meta.id)).toEqual(["u1-04-scarcity"]);
   });

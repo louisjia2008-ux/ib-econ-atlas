@@ -34,13 +34,13 @@
       en: Demand necessarily shifts right
   correctOptionId: b
   explanation:
-    zh-CN: 沿供给曲线增加供给量。 原创例：蛋糕价格从 20 升到 25 元，糕点师延长工作时间而多做 10
-      个。若投入价格和技术未变，这是沿供给曲线移动，不是供给曲线右移。 供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。
-    en: "Higher quantity supplied along supply. Illustrative example: cake prices
-      rise from 20 to 25 and a baker works longer to make ten more. With input
-      prices and technology unchanged, this is a movement along supply, not a
-      shift. Supply is not simply inventory; inventory enters supply when the
-      producer is willing to sell it at the relevant price."
+    zh-CN: 沿供给曲线增加供给量。 其他生产条件保持不变；价格上升提高额外生产的收益；供给量通常沿原曲线增加
+      供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。
+    en: Higher quantity supplied along supply. Hold production conditions constant;
+      a higher price increases the return on extra production; quantity supplied
+      normally rises along the curve Supply is not simply inventory; inventory
+      enters supply when the producer is willing to sell it at the relevant
+      price.
 - id: u2-06-supply-short-1
   knowledgePointId: u2-06-supply
   type: short-answer

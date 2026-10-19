@@ -17,31 +17,28 @@
   knowledgePointId: u4-08-quota
   type: mcq
   prompt:
-    zh-CN: 配额许可免费给外国出口商，租最可能归谁？
-    en: Who may receive rents if quota licences are freely given to foreign
-      exporters?
+    zh-CN: 配额租是否自动归本国政府？
+    en: Do quota rents automatically accrue to the home government?
   options:
     - id: a
-      zh-CN: 必定归本国财政
-      en: Always the home treasury
+      zh-CN: 是，所有配额均如此
+      en: Yes, for every quota
     - id: b
-      zh-CN: 必定归所有消费者
-      en: Always all consumers
+      zh-CN: 租只能归消费者
+      en: Only consumers can receive rents
     - id: c
-      zh-CN: 租必定为零
-      en: Rents must be zero
+      zh-CN: 配额永不产生租
+      en: Quotas never create rents
     - id: d
-      zh-CN: 外国许可证持有人
-      en: Foreign licence holders
+      zh-CN: 不，取决于许可证分配
+      en: No; licence allocation determines the recipient
   correctOptionId: d
   explanation:
-    zh-CN: 外国许可证持有人。 原创假设：世界价 10、国内价 14，配额 30，配额租为
-      120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。 配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。
-    en: "Foreign licence holders. Hypothetical scenario: world price ten, domestic
-      price fourteen and quota thirty create rents of 120. Auctions may generate
-      public revenue; free licences to foreign exporters can transfer rents
-      abroad. Quota rents do not automatically accrue to the home government; a
-      demand increase can further raise price under a fixed quota."
+    zh-CN: 不，取决于许可证分配。 进口数量受限；国内稀缺性推高价格；许可证持有人获得配额租 配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。
+    en: No; licence allocation determines the recipient. Imports are capped;
+      scarcity raises domestic price; licence holders receive quota rents Quota
+      rents do not automatically accrue to the home government; a demand
+      increase can further raise price under a fixed quota.
 - id: u4-08-quota-short-1
   knowledgePointId: u4-08-quota
   type: short-answer
@@ -51,14 +48,14 @@
       example of your own.
   modelAnswer:
     zh-CN: 配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。 进口数量受限；国内稀缺性推高价格；许可证持有人获得配额租
-      原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。
+      原创假设：配额限制进口使国内价高于世界价，价差形成租；政府拍卖许可可获得收入，免费给外国出口商时租可流向国外。计算租的数额属于 HL。
     en: "A quota directly limits imports and normally raises domestic price. The
       price gap creates quota rents whose recipients depend on licence
       allocation. Imports are capped; scarcity raises domestic price; licence
-      holders receive quota rents Hypothetical scenario: world price ten,
-      domestic price fourteen and quota thirty create rents of 120. Auctions may
-      generate public revenue; free licences to foreign exporters can transfer
-      rents abroad."
+      holders receive quota rents Hypothetical scenario: a binding quota raises
+      domestic price above world price and creates rents. Auctions can yield
+      public revenue, while free foreign licences may send rents abroad.
+      Calculating rent amounts is HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -97,3 +94,31 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u4-08-quota-mcq-hl-1
+  knowledgePointId: u4-08-quota
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 配额许可免费给外国出口商，租最可能归谁？
+    en: Who may receive rents if quota licences are freely given to foreign
+      exporters?
+  options:
+    - id: a
+      zh-CN: 外国许可证持有人
+      en: Foreign licence holders
+    - id: b
+      zh-CN: 必定归本国财政
+      en: Always the home treasury
+    - id: c
+      zh-CN: 必定归所有消费者
+      en: Always all consumers
+    - id: d
+      zh-CN: 租必定为零
+      en: Rents must be zero
+  correctOptionId: a
+  explanation:
+    zh-CN: 外国许可证持有人。 原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。
+    en: "Foreign licence holders. Hypothetical scenario: world price ten, domestic
+      price fourteen and quota thirty create rents of 120. Auctions may generate
+      public revenue; free licences to foreign exporters can transfer rents
+      abroad."

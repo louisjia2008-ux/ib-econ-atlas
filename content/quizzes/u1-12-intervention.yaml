@@ -27,16 +27,14 @@
         behaviour; its benefits must be assessed alongside side effects and
         implementation costs.
     - id: b
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 干预只可能是禁止交易
+      en: Intervention can only mean banning trade
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 干预总能无成本改善所有结果
+      en: Intervention always improves all outcomes without cost
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 任何价格变动都由政府直接决定
+      en: Every price change is directly set by government
   correctOptionId: a
   explanation:
     zh-CN: 经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
@@ -51,16 +49,17 @@
     en: Briefly explain “Intervention”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
+    zh-CN: 干预：经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。
       识别市场结果或社会目标之间的差距；选择税收、监管、支出或信息等工具；工具改变主体面对的激励与约束；行为反应形成预期成效与非预期后果
       干预有明确目标和政策工具。
-    en: Economic intervention is deliberate action by a government, central bank, or
-      other institution to alter market incentives, trading conditions, resource
-      allocation, or income distribution. Identify a gap between a market
-      outcome and a social objective; Select a tax, regulation, spending,
-      information, or other instrument; The instrument changes incentives and
-      constraints; Behavioural responses produce intended and unintended
-      outcomes Intervention combines an objective with an instrument.
+    en: "Intervention: Economic intervention is deliberate action by a government,
+      central bank, or other institution to alter market incentives, trading
+      conditions, resource allocation, or income distribution. Identify a gap
+      between a market outcome and a social objective; Select a tax, regulation,
+      spending, information, or other instrument; The instrument changes
+      incentives and constraints; Behavioural responses produce intended and
+      unintended outcomes Intervention combines an objective with an
+      instrument."
   keywordGroups:
     - id: concept
       label:

@@ -34,15 +34,11 @@
       en: Unrelated to income
   correctOptionId: a
   explanation:
-    zh-CN: 相对贫困。
-      原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。
-      贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。
-    en: "Relative poverty. Illustrative example: median income rises while a
-      household's real income stays unchanged. Its relative position may worsen
-      without necessarily losing the ability to buy basic food. Poverty
-      thresholds depend on prices, household size and public services; an old
-      monetary threshold is not timeless. Poverty and inequality are related but
-      distinct: everyone can be equally poor."
+    zh-CN: 相对贫困。 选择明确的贫困标准；比较家庭资源和需求；区分基本匮乏与社会相对排斥 贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。
+    en: "Relative poverty. Choose an explicit poverty standard; compare household
+      resources and needs; distinguish basic deprivation from relative social
+      exclusion Poverty and inequality are related but distinct: everyone can be
+      equally poor."
 - id: u3-33-poverty-short-1
   knowledgePointId: u3-33-poverty
   type: short-answer

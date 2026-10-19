@@ -34,15 +34,13 @@
       en: Only the price level determines skills
   correctOptionId: b
   explanation:
-    zh-CN: 低收入限制教育投资并压低未来收入。
-      原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。
+    zh-CN: 低收入限制教育投资并压低未来收入。 初始资源与机会不同；技能和收入积累出现差异；收入不足又限制下一轮教育和健康投入
       收入差异不能仅凭表面相关性归因于某一个因素。
-    en: "Low income limits education investment and future earnings. Illustrative
-      example: missing transport and digital access restrict a child's training
-      and future employment. This mechanism does not reduce outcomes to personal
-      motivation. Policy should identify credit, information, service-supply and
-      discrimination barriers. Observed income differences cannot be attributed
-      to one cause from correlation alone."
+    en: Low income limits education investment and future earnings. Initial
+      resources and opportunities differ; skills and incomes accumulate
+      unequally; low income then limits further education and health investment
+      Observed income differences cannot be attributed to one cause from
+      correlation alone.
 - id: u3-34-inequality-causes-short-1
   knowledgePointId: u3-34-inequality-causes
   type: short-answer

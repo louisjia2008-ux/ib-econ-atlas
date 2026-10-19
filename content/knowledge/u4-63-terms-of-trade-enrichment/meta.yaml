@@ -1,0 +1,40 @@
+id: u4-63-terms-of-trade-enrichment
+slug: terms-of-trade-enrichment
+section: "4.9"
+level: extension
+syllabusRefs:
+  - 4.9 Barriers to economic growth and development
+textbookRefs:
+  - chapter: "19"
+    section: "19.2"
+    pages:
+      - 566
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-42-poverty-cycle
+  - u4-43-human-capital-infrastructure
+  - u4-44-primary-dependence
+terms:
+  - 贸易条件指数（扩展）
+  - Terms-of-trade index (enrichment)
+  - 出口价格
+  - export prices
+  - 进口价格
+  - import prices
+  - 指数
+  - index
+synonyms:
+  zh-CN:
+    - 出口价格
+    - 进口价格
+    - 指数
+  en:
+    - export prices
+    - import prices
+    - index
+diagramIds: []
+quizIds:
+  - u4-63-terms-of-trade-enrichment-flash-1
+  - u4-63-terms-of-trade-enrichment-mcq-1
+  - u4-63-terms-of-trade-enrichment-short-1

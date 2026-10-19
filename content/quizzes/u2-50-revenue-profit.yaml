@@ -36,14 +36,9 @@
       en: "150"
   correctOptionId: b
   explanation:
-    zh-CN: 20。 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为
-      180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。 垄断降价扩大销售时 MR 可低于
-      AR，因为较低价格可能适用于所有销售。
-    en: "20. Illustrative example: revenue 200, explicit costs 140 and implicit
-      costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180
-      gives zero economic profit while covering all opportunity costs. Normal
-      profit is not zero accounting income. A monopolist's MR can lie below AR
-      because the lower price may apply to all units sold."
+    zh-CN: 20。 150 − 100 − 30 = 20 垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。
+    en: 20. 150 − 100 − 30 = 20 A monopolist's MR can lie below AR because the lower
+      price may apply to all units sold.
 - id: u2-50-revenue-profit-short-1
   knowledgePointId: u2-50-revenue-profit
   type: short-answer

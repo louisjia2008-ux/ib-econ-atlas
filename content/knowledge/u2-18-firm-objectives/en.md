@@ -26,7 +26,7 @@ Owners and managers face different incentives.  growth or reputation may take pr
 
 ### Original scenario and reasoning
 
-Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ.
+Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ. Firms may also pursue corporate social responsibility, sales growth or satisfactory profit, potentially sacrificing short-run profit or supporting long-run returns through reputation.
 
 Revenue maximisation ignores costs and is not equivalent to profit maximisation.
 

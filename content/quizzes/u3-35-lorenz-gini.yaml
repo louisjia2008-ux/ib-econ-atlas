@@ -2,8 +2,8 @@
   knowledgePointId: u3-35-lorenz-gini
   type: flashcard
   prompt:
-    zh-CN: 解释“洛伦兹曲线与基尼计算”，并说明一个关键条件。
-    en: Explain Lorenz curves and Gini calculations and state one important
+    zh-CN: 解释“洛伦兹曲线与 Gini 系数”，并说明一个关键条件。
+    en: Explain Lorenz curves and the Gini coefficient and state one important
       condition.
   answer:
     zh-CN: 洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。
@@ -18,50 +18,49 @@
   knowledgePointId: u3-35-lorenz-gini
   type: mcq
   prompt:
-    zh-CN: 平等线下 0.5、洛伦兹下 0.35，Gini 为多少？
-    en: Equality area is 0.5 and Lorenz area 0.35. What is Gini?
+    zh-CN: Gini 从 0.3 升到 0.4，通常表示什么？
+    en: What does a rise in Gini from 0.3 to 0.4 normally indicate?
   options:
     - id: a
-      zh-CN: "0.15"
-      en: "0.15"
+      zh-CN: 分配变得完全平等
+      en: Perfect income equality
     - id: b
-      zh-CN: "0.7"
-      en: "0.7"
+      zh-CN: 收入总量必定下降
+      en: Total income must fall
     - id: c
-      zh-CN: "0.3"
-      en: "0.3"
+      zh-CN: 收入分配更不平等
+      en: Greater income inequality
     - id: d
-      zh-CN: "0.85"
-      en: "0.85"
+      zh-CN: 贫困率必定等于 40%
+      en: Poverty must equal 40%
   correctOptionId: c
   explanation:
-    zh-CN: 0.3。 原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为
-      0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。
-      收入基尼不直接等于财富基尼，也不显示绝对贫困人数。
-    en: "0.3. Illustrative example: with both axes from zero to one, equality has
-      area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4.
-      Crossing Lorenz curves cannot be ranked by a single local distance. An
+    zh-CN: 收入分配更不平等。 按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 收入基尼不直接等于财富基尼，也不显示绝对贫困人数。
+    en: Greater income inequality. Rank incomes and cumulate shares; compare with
+      perfect equality; a larger area gap normally indicates more inequality An
       income Gini is not a wealth Gini and does not directly count absolute
-      poverty."
+      poverty.
 - id: u3-35-lorenz-gini-short-1
   knowledgePointId: u3-35-lorenz-gini
   type: short-answer
   prompt:
-    zh-CN: 解释洛伦兹曲线与基尼计算的机制，并用一个自己设计的情境说明其含义。
-    en: Explain the mechanism of Lorenz curves and Gini calculations and apply it to
-      an example of your own.
+    zh-CN: 解释洛伦兹曲线与 Gini 系数的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Lorenz curves and the Gini coefficient and apply it
+      to an example of your own.
   modelAnswer:
     zh-CN: 洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。
-      按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 原创例：横纵轴用 0 到 1 表示，平等线下面积为
-      0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。
+      按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高
+      原创例：人口按从穷到富排列，洛伦兹曲线越偏离平等线，通常表示收入分配越不均。Gini 越接近 0 越平等，越接近 1
+      越不平等；相交曲线不能只凭局部距离排序。由五等分数据构造曲线属于 HL。
     en: "A Lorenz curve plots cumulative income shares against cumulative population
       ranked poorest to richest. Gini is the area between the equality line and
       Lorenz curve divided by total area under equality. Rank incomes and
       cumulate shares; compare with perfect equality; a larger area gap normally
-      indicates more inequality Illustrative example: with both axes from zero
-      to one, equality has area 0.5. If the area under Lorenz is 0.3,
-      Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a
-      single local distance."
+      indicates more inequality Illustrative example: rank the population from
+      poorest to richest. A Lorenz curve further below equality normally
+      indicates greater inequality. Gini closer to zero means more equality and
+      closer to one more inequality; crossing curves cannot be ranked by one
+      local distance. Constructing the curve from quintile data is HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -100,3 +99,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u3-35-lorenz-gini-mcq-hl-1
+  knowledgePointId: u3-35-lorenz-gini
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 平等线下 0.5、洛伦兹下 0.35，Gini 为多少？
+    en: Equality area is 0.5 and Lorenz area 0.35. What is Gini?
+  options:
+    - id: a
+      zh-CN: "0.15"
+      en: "0.15"
+    - id: b
+      zh-CN: "0.7"
+      en: "0.7"
+    - id: c
+      zh-CN: "0.85"
+      en: "0.85"
+    - id: d
+      zh-CN: "0.3"
+      en: "0.3"
+  correctOptionId: d
+  explanation:
+    zh-CN: 0.3。 (0.5 − 0.35) / 0.5 = 0.3
+    en: 0.3. (0.5 − 0.35) / 0.5 = 0.3

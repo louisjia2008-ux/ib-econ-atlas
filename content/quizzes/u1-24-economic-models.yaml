@@ -28,16 +28,14 @@
         relationships; the best model is useful for a question under clear
         assumptions, not the one with the most detail.
     - id: b
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 模型必须复制现实全部细节才有用
+      en: A model needs every real-world detail to be useful
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 逻辑自洽就证明经验上永远正确
+      en: Logical consistency proves permanent empirical truth
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 模型不能用观察修正
+      en: Models cannot be revised using observation
   correctOptionId: a
   explanation:
     zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
@@ -52,15 +50,16 @@
     en: Briefly explain “Purposes and limits of economic models”, including one
       causal mechanism and one important implication.
   modelAnswer:
-    zh-CN: 经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
+    zh-CN: 经济模型的作用与局限：经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。
       研究者提出一个具体问题；保留被认为关键的变量和关系；用假设隔离机制并推出预测；把预测与证据比较后修正模型 模型把复杂现实压缩成关键关系。
-    en: An economic model is a purposeful simplification of agents, constraints, and
-      relationships, expressed verbally, graphically, or mathematically to
-      explain a mechanism and generate testable predictions. A researcher
-      specifies a focused question; Variables and relationships judged essential
-      are retained; Assumptions isolate a mechanism and yield predictions;
-      Predictions are compared with evidence and the model is revised Models
-      compress complexity into selected relationships.
+    en: "Purposes and limits of economic models: An economic model is a purposeful
+      simplification of agents, constraints, and relationships, expressed
+      verbally, graphically, or mathematically to explain a mechanism and
+      generate testable predictions. A researcher specifies a focused question;
+      Variables and relationships judged essential are retained; Assumptions
+      isolate a mechanism and yield predictions; Predictions are compared with
+      evidence and the model is revised Models compress complexity into selected
+      relationships."
   keywordGroups:
     - id: concept
       label:

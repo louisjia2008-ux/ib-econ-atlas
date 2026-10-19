@@ -1,0 +1,102 @@
+- id: u3-60-inflation-costs-flash-1
+  knowledgePointId: u3-60-inflation-costs
+  type: flashcard
+  prompt:
+    zh-CN: 解释“通胀成本与失业的比较”，并说明一个关键条件。
+    en: Explain Inflation costs and comparison with unemployment and state one
+      important condition.
+  answer:
+    zh-CN: 高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。
+    en: High unpredictable inflation can harm purchasing power, planning, real
+      saving returns and price signals. Unemployment creates output and social
+      losses; evaluate shock sources and distribution.
+  explanation:
+    zh-CN: 并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。
+    en: Inflation does not affect everyone equally; low predictable inflation
+      differs from high volatile inflation.
+- id: u3-60-inflation-costs-mcq-1
+  knowledgePointId: u3-60-inflation-costs
+  type: mcq
+  prompt:
+    zh-CN: 意外通胀对固定名义债务的实际负担通常怎样？
+    en: What does unexpected inflation normally do to fixed nominal debt’s real
+      burden?
+  options:
+    - id: a
+      zh-CN: 自动免除本金
+      en: Automatically cancels principal
+    - id: b
+      zh-CN: 必提高实际负担
+      en: Necessarily raises the real burden
+    - id: c
+      zh-CN: 与价格完全无关
+      en: It has no relation to prices
+    - id: d
+      zh-CN: 降低实际负担
+      en: Reduces the real burden
+  correctOptionId: d
+  explanation:
+    zh-CN: 降低实际负担。 价格变化不均且难预测；实际收入和债务负担重新分配；不确定性影响储蓄投资与资源配置
+      并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。
+    en: Reduces the real burden. Prices change unevenly and unpredictably; real
+      incomes and debt burdens redistribute; uncertainty affects saving,
+      investment and allocation Inflation does not affect everyone equally; low
+      predictable inflation differs from high volatile inflation.
+- id: u3-60-inflation-costs-short-1
+  knowledgePointId: u3-60-inflation-costs
+  type: short-answer
+  prompt:
+    zh-CN: 解释通胀成本与失业的比较的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Inflation costs and comparison with unemployment
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。
+      价格变化不均且难预测；实际收入和债务负担重新分配；不确定性影响储蓄投资与资源配置
+      原创假设：意外通胀可降低固定名义债务的实际负担，使债务人受益、债权人受损；工资能否跟上决定家庭影响。压低成本推动通胀的需求政策可能增加失业，应比较代价。
+    en: "High unpredictable inflation can harm purchasing power, planning, real
+      saving returns and price signals. Unemployment creates output and social
+      losses; evaluate shock sources and distribution. Prices change unevenly
+      and unpredictably; real incomes and debt burdens redistribute; uncertainty
+      affects saving, investment and allocation Hypothetical scenario:
+      unexpected inflation reduces fixed nominal debt’s real burden, potentially
+      helping debtors and hurting creditors. Wage adjustment affects households.
+      Demand restraint against cost-push inflation may raise unemployment,
+      requiring a cost comparison."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 通胀
+        en: inflation
+      alternatives:
+        zh-CN:
+          - 通胀
+          - 价格变化不均且难预测
+        en:
+          - inflation
+          - Prices change unevenly and unpredictably
+    - id: mechanism-2
+      label:
+        zh-CN: 实际
+        en: real
+      alternatives:
+        zh-CN:
+          - 实际
+          - 实际收入和债务负担重新分配
+        en:
+          - real
+          - real incomes and debt burdens redistribute
+    - id: mechanism-3
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 不确定性影响储蓄投资与资源配置
+        en:
+          - distribution
+          - uncertainty affects saving, investment and allocation
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

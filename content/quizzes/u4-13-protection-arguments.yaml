@@ -35,13 +35,12 @@
       en: Ignore trading partners
   correctOptionId: a
   explanation:
-    zh-CN: 使用钢材的下游企业。 原创假设：钢铁关税保住部分炼钢岗位，却提高机械企业成本；评价需比较净就业、供应韧性与再培训方案。
+    zh-CN: 使用钢材的下游企业。 进口竞争冲击特定产业；保护减缓调整；下游成本与报复影响其他岗位
       不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。
-    en: "Downstream firms using steel. Hypothetical scenario: a steel tariff
-      preserves some steel jobs but raises machinery producers' costs. Evaluate
-      net jobs, supply resilience and retraining alternatives. Protected-sector
-      jobs are not the net employment effect; low wages do not by themselves
-      establish unfair competition."
+    en: Downstream firms using steel. Import competition hits particular industries;
+      protection slows adjustment; input costs and retaliation affect jobs
+      elsewhere Protected-sector jobs are not the net employment effect; low
+      wages do not by themselves establish unfair competition.
 - id: u4-13-protection-arguments-short-1
   knowledgePointId: u4-13-protection-arguments
   type: short-answer

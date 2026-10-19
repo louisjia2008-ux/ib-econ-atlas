@@ -35,12 +35,11 @@
       en: A common external tariff
   correctOptionId: d
   explanation:
-    zh-CN: 共同对外关税。 原创假设：A 与 B 内部免税但对 C 税率不同，属于自由贸易区；原产地规则防止经最低税率成员转运规避关税。
-      内部自由贸易本身不意味着共同对外关税或共同货币。
-    en: "A common external tariff. Hypothetical scenario: A and B trade duty-free
-      but tax C differently. This is a free trade area; rules of origin limit
-      tariff circumvention through the lowest-tariff member. Internal free trade
-      alone does not imply a common external tariff or currency."
+    zh-CN: 共同对外关税。 成员降低内部壁垒；自由贸易区需原产地规则；共同对外关税形成关税同盟 内部自由贸易本身不意味着共同对外关税或共同货币。
+    en: A common external tariff. Members lower internal barriers; free trade areas
+      need rules of origin; a common external tariff creates a customs union
+      Internal free trade alone does not imply a common external tariff or
+      currency.
 - id: u4-16-trading-blocs-short-1
   knowledgePointId: u4-16-trading-blocs
   type: short-answer

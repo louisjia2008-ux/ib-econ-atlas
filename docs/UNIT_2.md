@@ -1,8 +1,8 @@
 # Unit 2 — Microeconomics / 微观经济学
 
-This extension adds 60 original bilingual points and 180 practice items. It covers sections 2.1–2.12, with 33 SL/HL shared points and 27 HL points. All points support the existing search, review, IndexedDB progress, version-1 backup and offline PWA workflows.
+This extension adds 60 original bilingual points and 185 practice items. It covers sections 2.1–2.12, with 34 SL/HL shared points and 26 HL points. All points support the existing search, review, IndexedDB progress, version-1 backup and offline PWA workflows.
 
-本次新增 60 个原创双语知识点、180 道练习。数值情境均为明确标注的原创教学假设，并非现实观测或官方试题。关键词评分仅作复习辅助，可查看依据并手动修正。
+本次新增 60 个原创双语知识点、185 道练习。数值情境均为明确标注的原创教学假设，并非现实观测或官方试题。关键词评分仅作复习辅助，可查看依据并手动修正。
 
 | Syllabus / 考纲 | Points | Scope |
 | --- | ---: | --- |
@@ -11,7 +11,7 @@ This extension adds 60 original bilingual points and 180 practice items. It cove
 | 2.3 Competitive equilibrium / 竞争均衡 | 5 | Equilibrium, adjustment, shifts, price mechanism, surplus |
 | 2.4 Maximizing behaviour / 最大化行为 | 3 | HL rationality, biases/nudges, firm objectives |
 | 2.5 Demand elasticity / 需求弹性 | 5 | PED, determinants, revenue, YED, HL slope/application |
-| 2.6 Supply elasticity / 供给弹性 | 3 | PES, capacity/time, HL policy calculations |
+| 2.6 Supply elasticity / 供给弹性 | 3 | PES, capacity/time, Shared PES calculations; HL primary-commodity comparison |
 | 2.7 Intervention / 干预 | 6 | Ceilings, floors, tax, subsidy, evaluation, HL welfare calculations |
 | 2.8 Externalities/resources / 外部性与资源 | 8 | Failure, four externalities, commons, policy, HL welfare calculation |
 | 2.9 Public goods / 公共物品 | 3 | Characteristics, free riding, provision |
@@ -33,3 +33,7 @@ This extension adds 60 original bilingual points and 180 practice items. It cove
 - `npm run build` compiles all 103 points. A separate content chunk is precached alongside the shell; the offline first-visit test starts on Unit 1 and opens Unit 2 only after networking is disabled.
 - Stable Unit 1 IDs, IndexedDB name and backup schema remain unchanged. Existing backups continue to import alongside Unit 2 records.
 - Unit 3 and Unit 4 content are outside this PR. No deployment or live AI configuration is part of Unit 2 verification.
+
+## 2026-10-18 audit update
+
+PES calculations are shared content. Surplus-area and government-intervention calculations are explicitly separated from shared concepts. Five additional HL questions remain available to HL learners while the SL queue excludes them. The earlier subject-brief check was insufficient for subtopic classification; see the full-guide audit and maintenance instructions in [Content audit](CONTENT_AUDIT.md).

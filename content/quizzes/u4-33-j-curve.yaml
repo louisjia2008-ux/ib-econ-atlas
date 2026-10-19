@@ -34,13 +34,12 @@
       en: Elasticities are always zero
   correctOptionId: a
   explanation:
-    zh-CN: 数量调整慢于价格。 原创假设：进口燃料合同量短期固定，贬值先增加账单；之后企业节能并改用本地投入，进口量才下降。 J
+    zh-CN: 数量调整慢于价格。 进口本币单价先上升；短期合同使数量调整缓慢；长期弹性增大可能改善余额 J
       形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。
-    en: "Quantities adjust more slowly than prices. Hypothetical scenario:
-      contracted fuel volumes initially remain fixed, so depreciation raises the
-      bill first. Firms later conserve energy and substitute domestic inputs,
-      reducing imports. The J shape is only a possible path; weak long-run
-      elasticities or supply constraints can prevent improvement."
+    en: Quantities adjust more slowly than prices. Home-currency import prices rise
+      first; contracts slow initial volume adjustment; higher long-run
+      elasticities may improve the balance The J shape is only a possible path;
+      weak long-run elasticities or supply constraints can prevent improvement.
 - id: u4-33-j-curve-short-1
   knowledgePointId: u4-33-j-curve
   type: short-answer

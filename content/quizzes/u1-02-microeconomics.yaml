@@ -21,20 +21,18 @@
     en: Which statement best captures “Microeconomics”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 整个经济的通胀总率
+      en: Only economy-wide inflation
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 整个经济的总失业率
+      en: Only the national unemployment rate
     - id: c
       zh-CN: 微观经济学从消费者、劳动者、企业和具体市场出发，分析价格、产量与资源配置。
       en: Microeconomics begins with consumers, workers, firms, and individual markets
         to explain prices, output, and resource allocation.
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 排除企业和市场的全部研究
+      en: All analysis excluding firms and markets
   correctOptionId: c
   explanation:
     zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
@@ -49,14 +47,14 @@
     en: Briefly explain “Microeconomics”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
+    zh-CN: 微观经济学：微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。
       消费者和企业面对约束；他们对价格与激励作出选择；供给和需求在具体市场相遇；形成价格、数量与福利结果 微观分析关注主体和具体市场。
-    en: Microeconomics studies the choices and interactions of individual economic
-      agents and particular markets, including their effects on prices,
-      quantities, efficiency, and equity. Consumers and firms face constraints;
-      They respond to prices and incentives; Supply and demand interact in a
-      particular market; Price, quantity, and welfare outcomes emerge
-      Microeconomics focuses on agents and particular markets.
+    en: "Microeconomics: Microeconomics studies the choices and interactions of
+      individual economic agents and particular markets, including their effects
+      on prices, quantities, efficiency, and equity. Consumers and firms face
+      constraints; They respond to prices and incentives; Supply and demand
+      interact in a particular market; Price, quantity, and welfare outcomes
+      emerge Microeconomics focuses on agents and particular markets."
   keywordGroups:
     - id: concept
       label:

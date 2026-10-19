@@ -1,4 +1,7 @@
 ---
+hlExtension: "Hypothetical scenario: a subsidy of two raises domestic output
+  from forty to sixty, costing 120, not merely subsidising the twenty extra
+  units. Imports remain positive and the world price is fixed."
 title: Production subsidies and import displacement
 takeaway: A domestic production subsidy in a small economy can increase domestic
   supply and reduce imports. Consumers still buy at the world price and the
@@ -27,7 +30,7 @@ Producer receipts per unit rise.  domestic supply expands.  imports fall without
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed.
+Hypothetical scenario: with imports continuing, a domestic production subsidy raises producer receipts above world price, expands supply and reduces imports. Consumers still pay world price. The budget funds all eligible output, with an opportunity cost. Numerical calculations are HL.
 
 A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter.
 

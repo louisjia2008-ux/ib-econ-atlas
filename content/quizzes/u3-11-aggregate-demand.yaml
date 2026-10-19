@@ -33,14 +33,11 @@
       en: Nominal interest rate
   correctOptionId: c
   explanation:
-    zh-CN: 实际 GDP。 原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际
-      GDP，纵轴是总体价格水平，不是某一种产品价格和数量。 AD 向下倾斜不能只用单一商品的替代效应解释。
-    en: "Real GDP. Illustrative example: a lower price level can raise the real
-      value of money balances and improve export price competitiveness,
-      increasing quantity of aggregate demand. The axes are real GDP and the
-      general price level, not one product's price and quantity. AD's downward
-      slope cannot be explained solely by substitution between individual
-      goods."
+    zh-CN: 实际 GDP。 总体价格水平变化影响实际财富、利率和净出口；计划总支出改变；沿 AD 曲线移动 AD 向下倾斜不能只用单一商品的替代效应解释。
+    en: Real GDP. The general price level affects real wealth, interest rates and
+      net exports; planned spending changes; the economy moves along AD AD's
+      downward slope cannot be explained solely by substitution between
+      individual goods.
 - id: u3-11-aggregate-demand-short-1
   knowledgePointId: u3-11-aggregate-demand
   type: short-answer

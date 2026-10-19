@@ -34,13 +34,9 @@
       en: "54"
   correctOptionId: a
   explanation:
-    zh-CN: 17。 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU
-      不是可以直接观察的客观幸福指标。 边际效用递减不等于总效用递减。
-    en: "17. Illustrative example: three drinks yield marginal utilities of 12, 8
-      and 3, giving total utility of 23. Total utility rises despite falling
-      marginal utility. Rational budget allocation compares MU/P, although
-      utility is not an objectively observable happiness measure. Diminishing
-      marginal utility is not the same as diminishing total utility."
+    zh-CN: 17。 9 + 6 + 2 = 17 边际效用递减不等于总效用递减。
+    en: 17. 9 + 6 + 2 = 17 Diminishing marginal utility is not the same as
+      diminishing total utility.
 - id: u2-05-marginal-utility-short-1
   knowledgePointId: u2-05-marginal-utility
   type: short-answer
@@ -51,7 +47,8 @@
   modelAnswer:
     zh-CN: 边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。
       连续单位满足越来越不迫切的用途；额外效用下降；消费者比较每单位支出的边际效用 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为
-      23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。
+      23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。 HL
+      推导：价格上升产生替代效应；对正常品，实际购买力下降的收入效应也减少购买，二者共同解释需求向下倾斜。
     en: "Marginal utility is the extra satisfaction from an additional unit.
       Diminishing marginal utility means this extra satisfaction falls as
       consumption increases, ceteris paribus. Successive units satisfy less
@@ -59,8 +56,10 @@
       unit of spending Illustrative example: three drinks yield marginal
       utilities of 12, 8 and 3, giving total utility of 23. Total utility rises
       despite falling marginal utility. Rational budget allocation compares
-      MU/P, although utility is not an objectively observable happiness
-      measure."
+      MU/P, although utility is not an objectively observable happiness measure.
+      HL derivation: a price rise induces substitution away from the good; for a
+      normal good the loss of purchasing power also lowers purchases through the
+      income effect."
   keywordGroups:
     - id: mechanism-1
       label:

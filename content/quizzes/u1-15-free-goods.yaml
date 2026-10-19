@@ -5,10 +5,10 @@
     zh-CN: 不看笔记，用自己的话解释“免费物品”。
     en: Without notes, explain “Free goods” in your own words.
   answer:
-    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。
+    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。
     en: A free good is a good or resource so abundant relative to demand that an
-      additional unit has no significant opportunity cost under the conditions
-      being considered.
+      additional unit has no opportunity cost under the conditions being
+      considered.
   explanation:
     zh-CN: 免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。
     en: A free good is abundant relative to demand in a particular place and time,
@@ -22,16 +22,14 @@
     en: Which statement best captures “Free goods”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 零售价为零就一定没有机会成本
+      en: A zero price always means no opportunity cost
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 政府提供的所有服务都是免费物品
+      en: Every publicly provided service is a free good
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 价格很低就属于免费物品
+      en: Any low-priced item is a free good
     - id: d
       zh-CN: 免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。
       en: A free good is abundant relative to demand in a particular place and time,
@@ -39,10 +37,10 @@
         is not enough.
   correctOptionId: d
   explanation:
-    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。
+    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。
     en: A free good is a good or resource so abundant relative to demand that an
-      additional unit has no significant opportunity cost under the conditions
-      being considered.
+      additional unit has no opportunity cost under the conditions being
+      considered.
 - id: u1-15-free-goods-short-1
   knowledgePointId: u1-15-free-goods
   type: short-answer
@@ -51,15 +49,15 @@
     en: Briefly explain “Free goods”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。
+    zh-CN: 免费物品：免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。
       资源在特定条件下非常充裕；额外使用不排挤其他人的可行用途；边际机会成本接近零；无需通过价格配置该边际单位 免费物品的边际机会成本接近零。
-    en: A free good is a good or resource so abundant relative to demand that an
-      additional unit has no significant opportunity cost under the conditions
-      being considered. A resource is highly abundant in a specific context;
-      Extra use does not exclude a feasible use by someone else; Marginal
-      opportunity cost is approximately zero; No price mechanism is needed to
-      allocate that marginal unit A free good has approximately zero marginal
-      opportunity cost.
+    en: "Free goods: A free good is a good or resource so abundant relative to
+      demand that an additional unit has no opportunity cost under the
+      conditions being considered. A resource is highly abundant in a specific
+      context; Extra use does not exclude a feasible use by someone else;
+      Marginal opportunity cost is approximately zero; No price mechanism is
+      needed to allocate that marginal unit A free good has approximately zero
+      marginal opportunity cost."
   keywordGroups:
     - id: concept
       label:

@@ -35,13 +35,11 @@
       en: Equals population growth
   correctOptionId: c
   explanation:
-    zh-CN: 下降。 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP
-      比较也不能揭示分配、公共服务质量或环境差异。 人均值是平均数，不表示每个人都获得相同收入。
-    en: "Falls. Illustrative example: real GDP grows 4% and population 2%, so
-      per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP
-      comparisons still do not reveal distribution, service quality or
-      environmental differences. A per-capita value is an average, not the
-      income each person actually receives."
+    zh-CN: 下降。 总量增长可能伴随人口增长；除以人口观察平均水平；PPP 调整不同国家的购买力 人均值是平均数，不表示每个人都获得相同收入。
+    en: Falls. Aggregate growth may accompany population growth; divide by
+      population to examine averages; PPP adjusts purchasing power across
+      countries A per-capita value is an average, not the income each person
+      actually receives.
 - id: u3-07-per-capita-ppp-short-1
   knowledgePointId: u3-07-per-capita-ppp
   type: short-answer

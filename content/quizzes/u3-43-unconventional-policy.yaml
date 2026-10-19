@@ -33,15 +33,12 @@
       en: Guarantees everyone borrows more
   correctOptionId: c
   explanation:
-    zh-CN: 中央银行购买金融资产。
-      原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。
-      准备金增长不等于消费、贷款或 CPI 按相同比例增长。
-    en: "Central-bank purchases of financial assets. Illustrative example:
-      central-bank purchases of long-term bonds may lower long-term yields, but
-      more reserves do not compel banks to lend. Asset price increases may
-      benefit asset owners disproportionately, and policy reversal can create
-      market risks. Reserve growth is not proportional growth in consumption,
-      lending or CPI."
+    zh-CN: 中央银行购买金融资产。 中央银行购买金融资产；资产价格和流动性变化影响融资条件；支出反应取决于信贷需求与信心 准备金增长不等于消费、贷款或 CPI
+      按相同比例增长。
+    en: Central-bank purchases of financial assets. The central bank buys financial
+      assets; asset prices and liquidity alter financing conditions; spending
+      responses depend on credit demand and confidence Reserve growth is not
+      proportional growth in consumption, lending or CPI.
 - id: u3-43-unconventional-policy-short-1
   knowledgePointId: u3-43-unconventional-policy
   type: short-answer

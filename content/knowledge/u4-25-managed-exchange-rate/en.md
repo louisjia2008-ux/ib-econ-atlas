@@ -1,11 +1,13 @@
 ---
-title: Managed floating and regime comparison
-takeaway: Managed floating allows market determination with occasional official
-  intervention. Regime choice trades off stability, adjustment and policy
-  autonomy.
-definition: Managed floating allows market determination with occasional
-  official intervention. Regime choice trades off stability, adjustment and
-  policy autonomy.
+title: Managed exchange rates and intervention
+takeaway: Managed floating combines market determination with selective
+  intervention; a currency can be overvalued or undervalued relative to a target
+  or fundamentals benchmark. Comparing regime advantages and disadvantages is
+  HL.
+definition: Managed floating combines market determination with selective
+  intervention; a currency can be overvalued or undervalued relative to a target
+  or fundamentals benchmark. Comparing regime advantages and disadvantages is
+  HL.
 causalChain:
   - Market shocks create volatility
   - authorities intervene selectively
@@ -17,9 +19,9 @@ examApplication:
   - State the quotation and regime first, label demand/supply shifts, and
     distinguish price, quantity and lag effects.
 summary:
-  - Managed floating allows market determination with occasional official
-    intervention. Regime choice trades off stability, adjustment and policy
-    autonomy.
+  - Managed floating combines market determination with selective intervention;
+    a currency can be overvalued or undervalued relative to a target or
+    fundamentals benchmark. Comparing regime advantages and disadvantages is HL.
   - Fixed does not mean permanently stable, nor floating entirely
     intervention-free; specify the actual regime and conditions.
 ---
@@ -27,7 +29,7 @@ Market shocks create volatility.  authorities intervene selectively.  exchange r
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: an export-concentrated economy with mobile capital wants less volatility but cannot treat reserves as unlimited. Floating may cushion external shocks.
+Hypothetical scenario: selling home currency for foreign currency can limit appreciation and build reserves; reverse intervention can resist depreciation but uses finite reserves. Overvaluation and undervaluation require an explicit benchmark.
 
 Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions.
 

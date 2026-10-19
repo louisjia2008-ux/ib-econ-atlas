@@ -22,20 +22,18 @@
     en: Which statement best captures “Factors of production”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 银行账户现金就是生产要素中的实物资本
+      en: Bank-account cash is the physical capital factor
     - id: b
       zh-CN: 生产把土地、劳动、资本与企业家才能组合起来；每类要素的数量和质量都会限制产出。
       en: Production combines land, labour, capital, and entrepreneurship; both the
         quantity and quality of each factor constrain output.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 企业家才能等同于所有体力劳动
+      en: Entrepreneurship is identical to all physical labour
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 土地只指已建成厂房
+      en: Land means only constructed factories
   correctOptionId: b
   explanation:
     zh-CN: 生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。
@@ -51,15 +49,16 @@
     en: Briefly explain “Factors of production”, including one causal mechanism and
       one important implication.
   modelAnswer:
-    zh-CN: 生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。
+    zh-CN: 四类生产要素：生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。
       自然资源提供物质与空间；劳动投入时间、技能和判断；资本提高劳动与资源的生产能力；企业家组合要素并承担不确定性 土地包括自然资源。
-    en: "Factors of production are the inputs used to create goods and services:
-      land (natural resources), labour (human effort and skill), capital
-      (produced means of production), and entrepreneurship (organisation,
-      innovation, and risk-bearing). Natural resources provide materials and
-      location; Labour contributes time, skill, and judgement; Capital raises
-      the productive capacity of labour and resources; Entrepreneurship combines
-      inputs under uncertainty Land includes natural resources."
+    en: "Factors of production: Factors of production are the inputs used to create
+      goods and services: land (natural resources), labour (human effort and
+      skill), capital (produced means of production), and entrepreneurship
+      (organisation, innovation, and risk-bearing). Natural resources provide
+      materials and location; Labour contributes time, skill, and judgement;
+      Capital raises the productive capacity of labour and resources;
+      Entrepreneurship combines inputs under uncertainty Land includes natural
+      resources."
   keywordGroups:
     - id: concept
       label:

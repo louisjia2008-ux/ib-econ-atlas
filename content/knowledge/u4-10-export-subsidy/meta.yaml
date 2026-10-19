@@ -1,7 +1,7 @@
 id: u4-10-export-subsidy
 slug: export-subsidy
 section: "4.2"
-level: hl
+level: core
 syllabusRefs:
   - 4.2 Types of trade protection
 textbookRefs:
@@ -38,3 +38,4 @@ quizIds:
   - u4-10-export-subsidy-flash-1
   - u4-10-export-subsidy-mcq-1
   - u4-10-export-subsidy-short-1
+  - u4-10-export-subsidy-mcq-hl-1

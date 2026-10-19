@@ -1,0 +1,40 @@
+id: u4-60-sdg-country-comparison
+slug: sdg-country-comparison
+section: "4.10"
+level: core
+syllabusRefs:
+  - 4.10 Economic growth and development strategies
+textbookRefs:
+  - chapter: "20"
+    section: "20.10"
+    pages:
+      - 636
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-48-trade-strategies
+  - u4-49-diversification-enterprise
+  - u4-50-market-based-development
+terms:
+  - 用两国数据评价健康发展
+  - Evaluating health development using two countries
+  - 指标
+  - indicator
+  - 年份
+  - years
+  - 因果
+  - causal
+synonyms:
+  zh-CN:
+    - 指标
+    - 年份
+    - 因果
+  en:
+    - indicator
+    - years
+    - causal
+diagramIds: []
+quizIds:
+  - u4-60-sdg-country-comparison-flash-1
+  - u4-60-sdg-country-comparison-mcq-1
+  - u4-60-sdg-country-comparison-short-1

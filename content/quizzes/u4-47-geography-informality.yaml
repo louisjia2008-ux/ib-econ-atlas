@@ -35,14 +35,13 @@
       en: Assume geography prevents any improvement
   correctOptionId: c
   explanation:
-    zh-CN: 识别主要瓶颈和互补投入。 原创假设：内陆农户同时面临差路、洪灾和无保险，仅取消营业许可费未必解决主要瓶颈；需识别互补约束。
+    zh-CN: 识别主要瓶颈和互补投入。 距离与风险提高交易成本；企业留在小规模非正规经营；税基与公共服务能力受限
       地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。
-    en: "Identify binding constraints and complementary inputs. Hypothetical
-      scenario: landlocked farmers face poor roads, floods and no insurance.
-      Removing licence fees alone may not address binding constraints; identify
-      complementary barriers. Geography is not destiny, and informal activity is
-      not all illegal; formalisation should reduce costs and offer real
-      benefits."
+    en: Identify binding constraints and complementary inputs. Distance and risk
+      raise transaction costs; firms remain small and informal; the tax base and
+      public-service capacity are constrained Geography is not destiny, and
+      informal activity is not all illegal; formalisation should reduce costs
+      and offer real benefits.
 - id: u4-47-geography-informality-short-1
   knowledgePointId: u4-47-geography-informality
   type: short-answer

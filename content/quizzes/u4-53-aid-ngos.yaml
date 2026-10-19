@@ -34,13 +34,12 @@
       en: No assessment of residents' needs
   correctOptionId: a
   explanation:
-    zh-CN: 本地维修能力和参与。 原创假设：灾后供水赠款能救急；若只采购捐助国昂贵设备且无本地维修培训，长期效果可能有限。NGO 也需协调和问责。
+    zh-CN: 本地维修能力和参与。 外部资源缓解约束；项目设计影响本地所有权；问责与评估决定持续效果
       援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。
-    en: "Local repair capacity and participation. Hypothetical scenario: emergency
-      water grants help after disaster, but expensive donor-country equipment
-      without local repair training may not last. NGOs also need coordination
-      and accountability. Aid is not all free money; loans create repayment
-      obligations and tied procurement may raise costs."
+    en: Local repair capacity and participation. External resources relax
+      constraints; project design shapes local ownership; accountability and
+      evaluation determine lasting effects Aid is not all free money; loans
+      create repayment obligations and tied procurement may raise costs.
 - id: u4-53-aid-ngos-short-1
   knowledgePointId: u4-53-aid-ngos
   type: short-answer

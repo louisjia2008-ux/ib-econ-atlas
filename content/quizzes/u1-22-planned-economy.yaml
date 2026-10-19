@@ -23,21 +23,19 @@
     en: Which statement best captures “The planned economy”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 只要存在一家国企就是完全计划经济
+      en: One state firm makes an economy wholly planned
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 所有选择均由竞争价格分散协调
+      en: All choices are coordinated only by decentralised prices
     - id: c
       zh-CN: 计划经济主要由公共机构设定产出、投入和分配目标，能够集中资源，却面临信息、激励和调整难题。
       en: A planned economy relies on public authorities to set output, input, and
         distribution targets; it can concentrate resources but faces
         information, incentive, and adjustment problems.
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 中央计划不需任何信息就能最优
+      en: Central planning needs no information to be optimal
   correctOptionId: c
   explanation:
     zh-CN: 计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。
@@ -53,16 +51,16 @@
     en: Briefly explain “The planned economy”, including one causal mechanism and
       one important implication.
   modelAnswer:
-    zh-CN: 计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。
+    zh-CN: 计划经济：计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。
       计划机构确定社会优先目标；向企业或部门分配投入与产量指标；行政体系协调生产和分配；反馈信息用于修订后续计划 公共计划替代大部分价格协调。
-    en: A planned economy is a system in which productive assets are largely
-      state-owned or controlled and a central or public planning authority
-      allocates resources through administrative targets rather than
-      decentralised market prices. The planning authority establishes social
-      priorities; Inputs and output targets are assigned to sectors or
-      enterprises; An administrative system coordinates production and
-      distribution; Feedback informs revisions to later plans Public planning
-      replaces much price coordination.
+    en: "The planned economy: A planned economy is a system in which productive
+      assets are largely state-owned or controlled and a central or public
+      planning authority allocates resources through administrative targets
+      rather than decentralised market prices. The planning authority
+      establishes social priorities; Inputs and output targets are assigned to
+      sectors or enterprises; An administrative system coordinates production
+      and distribution; Feedback informs revisions to later plans Public
+      planning replaces much price coordination."
   keywordGroups:
     - id: concept
       label:

@@ -133,7 +133,7 @@ const topics = [
     "zh-CN": {
       title: "实际增长与生产潜力增长",
       takeaway: "向既有 PPC 靠近是实际产出增长，PPC 向外移动是生产潜力增长；两者可发生在不同时间。",
-      definition: "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
+      definition: "实际增长是实际产出的增加，可来自既有产能利用率提高或新增产能投入使用；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
       causalChain: ["经济体可能先在边界以内运行", "更高资源利用率使实际点靠近边界", "投资、教育、资源发现或技术进步扩大能力", "PPC 向外移动并允许更高长期产出"],
       example: { title: "增长率不能单独区分复苏与能力扩张", explanation: "世界银行实际 GDP 增长数据记录产出变化。衰退后增长可能主要来自闲置资源重新使用；持续投资与生产率提升才更可能扩大长期生产边界。" },
       misconceptions: ["实际 GDP 上升不一定表示 PPC 已向外移动。", "外移可以偏向一种产品，不必始终平行移动。"],
@@ -145,7 +145,7 @@ const topics = [
     en: {
       title: "Actual and potential growth",
       takeaway: "Movement toward an existing PPC is growth in actual output, while an outward shift is growth in productive potential; the two can occur at different times.",
-      definition: "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology.",
+      definition: "Actual growth is an increase in real output, whether from using existing capacity more fully or bringing new capacity into use. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology.",
       causalChain: ["The economy may initially operate inside its frontier", "Higher utilisation moves actual output toward the line", "Investment, education, resource discovery, or technology expands capacity", "The PPC shifts outward and permits greater long-run output"],
       example: { title: "A growth rate alone cannot separate recovery from capacity expansion", explanation: "World Bank real GDP growth data record changes in output. Growth after recession may mainly reuse idle factors, whereas sustained investment and productivity improvement are more likely to expand the long-run frontier." },
       misconceptions: ["A rise in actual GDP does not by itself show that the PPC has shifted outward.", "An outward shift can be biased toward one good rather than parallel."],

@@ -34,15 +34,11 @@
       en: More output necessarily has negative utility
   correctOptionId: b
   explanation:
-    zh-CN: 难以让所有受益者付费。
-      原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。
-      搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。
-    en: "It is hard to charge every beneficiary. Illustrative example: neighbourhood
-      lighting benefits every household, including non-payers. Even if combined
-      benefit exceeds installation cost, voluntary charging may fail. Taxes or
-      community rules can coordinate financing without guaranteeing spending
-      efficiency. Simply raising the price cannot solve free riding when
-      non-payers still receive benefits."
+    zh-CN: 难以让所有受益者付费。 使用者可以不支付仍获益；自愿付款不足；私人融资难覆盖生产成本 搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。
+    en: It is hard to charge every beneficiary. Users can benefit without payment;
+      voluntary contributions are insufficient; private financing may fail to
+      cover production costs Simply raising the price cannot solve free riding
+      when non-payers still receive benefits.
 - id: u2-42-free-rider-short-1
   knowledgePointId: u2-42-free-rider
   type: short-answer

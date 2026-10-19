@@ -14,8 +14,8 @@ misconceptions:
   - The WTO is not a world government and does not remove every barrier; current
     dispute-body operations require official verification.
 examApplication:
-  - State protection objectives, then evaluate conditions, duration,
-    stakeholders, retaliation and alternatives.
+  - Distinguish levels of integration; compare trade creation, diversion, policy
+    autonomy and adjustment mechanisms.
 summary:
   - The WTO provides a framework for members' trade rules, negotiations,
     transparency and dispute settlement. Cooperation can reduce uncertainty,
@@ -31,4 +31,4 @@ Hypothetical scenario: common rules focus a dispute over import restrictions on 
 
 The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification.
 
-State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives.
+Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms.

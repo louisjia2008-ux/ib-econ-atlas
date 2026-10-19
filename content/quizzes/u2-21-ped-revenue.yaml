@@ -33,13 +33,10 @@
       en: Necessarily leave it unchanged
   correctOptionId: a
   explanation:
-    zh-CN: 增加。 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到
-      880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。 收入与利润必须分开；利润还需扣除成本。
-    en: "Increase it. Illustrative example: price rises from ten to eleven and
-      quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does
-      not by itself prove profit falls because costs may change too. For finite
-      changes, check the actual P×Q products. Keep revenue separate from profit,
-      which also deducts costs."
+    zh-CN: 增加。 价格上升而数量下降；比较两者百分比变化；数量反应更大时乘积下降 收入与利润必须分开；利润还需扣除成本。
+    en: Increase it. Price rises while quantity falls; compare their percentage
+      changes; if quantity responds proportionately more, the product falls Keep
+      revenue separate from profit, which also deducts costs.
 - id: u2-21-ped-revenue-short-1
   knowledgePointId: u2-21-ped-revenue
   type: short-answer

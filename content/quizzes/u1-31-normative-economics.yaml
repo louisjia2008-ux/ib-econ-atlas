@@ -22,16 +22,14 @@
     en: Which statement best captures “Normative economics and value judgements”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 规范陈述可以仅靠数据唯一证明
+      en: Data alone uniquely prove normative judgements
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 规范性意味着完全不能引用事实
+      en: Normative reasoning cannot use facts
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 公平标准属于无价值判断的会计事实
+      en: Fairness standards are value-free accounting facts
     - id: d
       zh-CN: 规范经济学讨论经济应当怎样；事实能说明后果，却不能单独决定应优先追求哪一种价值。
       en: Normative economics asks how the economy ought to be; facts reveal
@@ -50,15 +48,16 @@
     en: Briefly explain “Normative economics and value judgements”, including one
       causal mechanism and one important implication.
   modelAnswer:
-    zh-CN: 规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。
+    zh-CN: 规范经济学与价值判断：规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。
       社会面对多个可能目标；价值判断确定目标的相对重要性；实证证据预测各方案的后果；决策者依标准权衡并形成规范结论 规范结论回答应当怎样。
-    en: Normative economics evaluates policies, institutions, or outcomes as
-      desirable, better, or required by applying value standards such as equity,
-      freedom, efficiency, sustainability, or well-being. Society faces several
-      possible objectives; Value judgements assign relative importance to them;
-      Positive evidence predicts consequences of alternatives; Decision-makers
-      weigh outcomes and reach a normative conclusion Normative conclusions
-      address what ought to be.
+    en: "Normative economics and value judgements: Normative economics evaluates
+      policies, institutions, or outcomes as desirable, better, or required by
+      applying value standards such as equity, freedom, efficiency,
+      sustainability, or well-being. Society faces several possible objectives;
+      Value judgements assign relative importance to them; Positive evidence
+      predicts consequences of alternatives; Decision-makers weigh outcomes and
+      reach a normative conclusion Normative conclusions address what ought to
+      be."
   keywordGroups:
     - id: concept
       label:

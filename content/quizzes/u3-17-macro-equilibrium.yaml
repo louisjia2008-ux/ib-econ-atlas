@@ -34,13 +34,11 @@
       en: Output must fall
   correctOptionId: a
   explanation:
-    zh-CN: 实际产出增加。 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS
-      同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。 不能把纵轴价格水平直接写成通胀率。
-    en: "Real output increases. Illustrative example: stronger export demand shifts
-      AD right, raising prices and output along upward SRAS. If AD and SRAS both
-      shift right, output rises but the price direction depends on magnitudes. A
-      higher price level does not by itself specify annual inflation. Do not
-      label an AD–AS price-level axis as the inflation rate."
+    zh-CN: 实际产出增加。 识别初始均衡；根据冲击移动对应曲线；比较新均衡并说明调整时间与假设 不能把纵轴价格水平直接写成通胀率。
+    en: Real output increases. Identify the initial equilibrium; shift the
+      appropriate curve for the shock; compare the new equilibrium while stating
+      timing and assumptions Do not label an AD–AS price-level axis as the
+      inflation rate.
 - id: u3-17-macro-equilibrium-short-1
   knowledgePointId: u3-17-macro-equilibrium
   type: short-answer

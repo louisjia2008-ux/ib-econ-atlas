@@ -6,6 +6,7 @@
   "description": "An independent bilingual IB Economics study atlas for the 2022-2029 syllabus.",
   "license": "MIT",
   "scripts": {
+    "content:author": "node scripts/author-unit-1-audit.mjs && node scripts/author-unit-2.mjs && node scripts/author-unit-3.mjs && node scripts/author-unit-4.mjs",
     "predev": "node scripts/compile-content.mjs --allow-incomplete",
     "dev": "vite",
     "build": "node scripts/compile-content.mjs && tsc -b && vite build",

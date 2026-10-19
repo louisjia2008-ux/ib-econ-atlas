@@ -34,15 +34,11 @@
       en: Automatically lowers every price
   correctOptionId: a
   explanation:
-    zh-CN: 提高技能与劳动生产率。
-      原创例：针对实际岗位需求的培训可减少技能错配，但没有雇主需求的课程未必增加就业。教育支出当期可能提高总需求，只有改善技能和生产率时才支持长期总供给，且往往需要较长时间。
-      投入金额不是生产率改善的充分证据。
-    en: "Improved skills and labour productivity. Illustrative example: training
-      aligned with actual vacancies may reduce mismatch, whereas courses without
-      employer demand may not increase employment. Education spending can raise
-      current demand, but supports long-run supply only if skills and
-      productivity improve, often after a long lag. Spending amounts are not
-      sufficient evidence of productivity gains."
+    zh-CN: 提高技能与劳动生产率。 识别技能健康或资本瓶颈；公共服务和投资改善生产条件；生产率与潜在产出可能长期增加 投入金额不是生产率改善的充分证据。
+    en: Improved skills and labour productivity. Identify skill, health or capital
+      bottlenecks; public services and investment improve production conditions;
+      productivity and potential output may increase over time Spending amounts
+      are not sufficient evidence of productivity gains.
 - id: u3-53-interventionist-supply-short-1
   knowledgePointId: u3-53-interventionist-supply
   type: short-answer

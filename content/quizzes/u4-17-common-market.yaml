@@ -34,13 +34,11 @@
       en: A ban on migration
   correctOptionId: a
   explanation:
-    zh-CN: 生产要素流动。 原创假设：工程师跨成员就业改善技能匹配，但人才流出地区可能失去税基，资格互认与公共服务协调因此重要。
-      要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。
-    en: "Factor mobility. Hypothetical scenario: engineers moving between members
-      improve skill matching, while origin regions may lose tax revenue.
-      Qualification recognition and service coordination matter. Factor mobility
-      does not ensure equal regional gains; infrastructure and institutional
-      differences remain."
+    zh-CN: 生产要素流动。 壁垒下降扩展市场；劳动资本流向回报较高处；协调政策降低跨境摩擦 要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。
+    en: Factor mobility. Lower barriers expand markets; labour and capital move
+      toward higher returns; policy coordination reduces cross-border frictions
+      Factor mobility does not ensure equal regional gains; infrastructure and
+      institutional differences remain.
 - id: u4-17-common-market-short-1
   knowledgePointId: u4-17-common-market
   type: short-answer

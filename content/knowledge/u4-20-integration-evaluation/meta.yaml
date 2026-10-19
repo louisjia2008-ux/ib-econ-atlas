@@ -1,7 +1,7 @@
 id: u4-20-integration-evaluation
 slug: integration-evaluation
 section: "4.4"
-level: hl
+level: core
 syllabusRefs:
   - 4.4 Economic integration
 textbookRefs:
@@ -12,9 +12,9 @@ textbookRefs:
 prerequisites:
   - u1-14-opportunity-cost
 related:
+  - u4-15-wto
   - u4-16-trading-blocs
   - u4-17-common-market
-  - u4-18-trade-creation-diversion
 terms:
   - 一体化的动态评价
   - Dynamic evaluation of integration

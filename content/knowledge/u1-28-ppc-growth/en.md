@@ -3,10 +3,10 @@ title: Actual and potential growth
 takeaway: Movement toward an existing PPC is growth in actual output, while an
   outward shift is growth in productive potential; the two can occur at
   different times.
-definition: Actual growth is an increase in current output within existing
-  capacity. Growth in production possibilities is an outward shift of the
-  maximum feasible boundary caused by more or better resources or improved
-  technology.
+definition: Actual growth is an increase in real output, whether from using
+  existing capacity more fully or bringing new capacity into use. Growth in
+  production possibilities is an outward shift of the maximum feasible boundary
+  caused by more or better resources or improved technology.
 causalChain:
   - The economy may initially operate inside its frontier
   - Higher utilisation moves actual output toward the line

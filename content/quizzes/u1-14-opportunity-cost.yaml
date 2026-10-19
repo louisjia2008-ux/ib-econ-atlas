@@ -21,20 +21,18 @@
     en: Which statement best captures “Opportunity cost”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 所有放弃方案价值的总和
+      en: The sum of every forgone alternative
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 只有已经支付的现金
+      en: Only cash already paid
     - id: c
       zh-CN: 机会成本是作出选择时放弃的最佳可行替代方案的价值，而不是所有放弃选项之和。
       en: Opportunity cost is the value of the best feasible alternative forgone when
         a choice is made, not the sum of every rejected option.
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 被选方案的全部收益
+      en: The entire benefit of the chosen option
   correctOptionId: c
   explanation:
     zh-CN: 机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
@@ -49,14 +47,14 @@
     en: Briefly explain “Opportunity cost”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
+    zh-CN: 机会成本：机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。
       稀缺产生多个竞争用途；按价值排列可行方案；选择排名最高的方案；排名第二且被放弃的方案构成机会成本 机会成本源于稀缺和选择。
-    en: Opportunity cost is the benefit or value of the next-best feasible
-      alternative that cannot be obtained once resources are committed to a
-      chosen use. Scarcity creates competing uses; Feasible alternatives are
-      ranked by value; The highest-ranked option is selected; The second-ranked
-      forgone option is the opportunity cost Opportunity cost follows from
-      scarcity and choice.
+    en: "Opportunity cost: Opportunity cost is the benefit or value of the next-best
+      feasible alternative that cannot be obtained once resources are committed
+      to a chosen use. Scarcity creates competing uses; Feasible alternatives
+      are ranked by value; The highest-ranked option is selected; The
+      second-ranked forgone option is the opportunity cost Opportunity cost
+      follows from scarcity and choice."
   keywordGroups:
     - id: concept
       label:

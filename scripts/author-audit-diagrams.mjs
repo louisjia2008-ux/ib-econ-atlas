@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {contentRoot} from './content-utils.mjs';
+const models={
+ 'audit-money-market':{title:'Liquidity preference: money supply increases',x:'Money quantity',y:'Nominal interest rate',lines:[['MD','M65 70 L315 290'],['MS0','M160 65 V315'],['MS1','M240 65 V315']],note:'MS0 to MS1: lower model equilibrium interest, other things equal'},
+ 'audit-fixed-rate':{title:'Defending a fixed rate against depreciation',x:'Quantity of home currency',y:'USD per home currency unit',lines:[['D0','M65 85 L315 285'],['D1','M65 5 L315 205'],['S','M65 285 L315 85'],['Parity','M65 185 H315']],note:'D falls from D1 to D0: buy home currency; sell foreign reserves'},
+ 'audit-comparative-ppc':{title:'Comparative advantage: output possibilities',x:'Cloth (A max 10; B max 6)',y:'Grain (A max 20; B max 18)',lines:[['A','M65 65 L315 315'],['B','M65 90 L215 315']],note:'1 cloth costs 2 grain in A, 3 in B; linear PPCs, full employment'},
+};
+const colours=['#2454d8','#148064','#bb541c','#7c3aed'];
+for(const [id,m] of Object.entries(models)){
+ const curves=m.lines.map(([label,d],i)=>`<path d="${d}" fill="none" stroke="${colours[i]}" stroke-width="3" clip-path="url(#plot)"/><text x="345" y="${100+i*35}" fill="${colours[i]}">${label}</text>`).join('');
+ fs.writeFileSync(path.join(contentRoot,'diagrams',id+'.svg'),`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 410" role="img" aria-labelledby="title"><title id="title">${m.title}</title><defs><clipPath id="plot"><rect x="65" y="60" width="255" height="255"/></clipPath></defs><rect width="660" height="410" fill="white"/><g font-family="system-ui,sans-serif" font-size="14" fill="#17233b"><text x="20" y="25">${m.title}</text><text x="65" y="50">${m.y}</text><path d="M65 60 V315 H320" stroke="#17233b" stroke-width="2" fill="none"/>${curves}<text x="85" y="355">${m.x}</text><text x="20" y="385" font-size="12">${m.note}</text><text x="20" y="405" font-size="12">Original qualitative schematic; not to scale</text></g></svg>\n`);
+}
+fs.writeFileSync(path.join(contentRoot,'diagrams','audit-circular-flow.svg'),`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 340" role="img" aria-labelledby="title"><title id="title">Circular flow: real and money flows</title><rect width="660" height="340" fill="white"/><g font-family="system-ui,sans-serif" font-size="16" fill="#17233b"><text x="25" y="30">Households and firms, with other-sector links</text><rect x="35" y="125" width="140" height="80" rx="8" fill="#e7efff"/><rect x="485" y="125" width="140" height="80" rx="8" fill="#e7efff"/><text x="60" y="170">Households</text><text x="535" y="170">Firms</text><text x="200" y="75">Factors of production →</text><text x="200" y="105">← Wages, rent, interest, profit</text><text x="200" y="225">← Goods and services</text><text x="200" y="255">Consumption spending →</text><text x="30" y="300">Leakages: saving, taxes, imports | Injections: investment, G, exports</text><text x="30" y="325" font-size="13">Finance, government and foreign-sector links extend the two-sector model.</text></g></svg>\n`);
+console.log('Authored 4 original audit diagrams.');

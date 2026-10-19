@@ -35,14 +35,12 @@
       en: Ignore rates and risks
   correctOptionId: c
   explanation:
-    zh-CN: 净收入、还款压力与实际用途。 原创假设：小额贷款配合储蓄、保险和培训可帮助经营；对无稳定现金流的家庭高息放贷可能加重负担，不能假设借款即脱贫。
+    zh-CN: 净收入、还款压力与实际用途。 规则与信息改善降低风险；弱势群体获得融资和机会；监督与执行维持信任
       数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。
-    en: "Net income, repayment stress and actual use. Hypothetical scenario:
-      microcredit combined with saving, insurance and training may support
-      enterprise. High-interest lending to households without stable cash flow
-      can worsen burdens; borrowing does not itself establish poverty reduction.
-      Account counts do not establish effective inclusion; fees, literacy,
-      safety and actual use matter."
+    en: Net income, repayment stress and actual use. Better rules and information
+      reduce risk; excluded groups gain finance and opportunities; oversight and
+      enforcement maintain trust Account counts do not establish effective
+      inclusion; fees, literacy, safety and actual use matter.
 - id: u4-55-institutional-change-short-1
   knowledgePointId: u4-55-institutional-change
   type: short-answer

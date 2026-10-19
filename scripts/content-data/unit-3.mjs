@@ -1,3 +1,5 @@
+import { macroAdditions } from "./audit-additions.mjs";
+import { applyAuditCorrections } from "./audit-corrections.mjs";
 // Independently authored bilingual notes. Every numerical scenario is hypothetical.
 export const sections = {
   "3.1": ["经济活动的衡量与波动", "Measuring economic activity and its variations", "8", "8.2", 250],
@@ -375,4 +377,6 @@ add("policy-mix", "3.7", "core", ["宏观政策组合与评价", "Macroeconomic 
  ["原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。", "Illustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter."],
  ["没有脱离经济情境的万能政策排名。", "There is no context-free ranking of universally best policies."], ["需求低迷与技能错配同时存在，合理分析是？", "With weak demand and skills mismatch together, what is a reasonable analysis?"], ["区分短期需求与长期匹配政策并协调", "Distinguish and coordinate short-run demand and long-run matching policies"], [["只靠培训立即消除所有失业", "Training alone instantly removes all unemployment"], ["任何刺激都无通胀风险", "All stimulus has no inflation risk"], ["不必考虑时滞", "Lags need not be considered"]], ["供给瓶颈|supply bottlenecks", "短期稳定|short-run stabilisation", "多目标|objectives"], ["13", "13.7", 424]);
 
+topics.push(...macroAdditions);
+applyAuditCorrections(3, topics);
 export { topics };

@@ -1,12 +1,12 @@
 id: u1-23-mixed-economy
 slug: mixed-economy
-section: "1.2"
+section: "1.1"
 level: core
 syllabusRefs:
-  - 1.2 How do economists approach the world?
+  - 1.1 What is economics?
 textbookRefs:
   - chapter: "1"
-    section: "1.2"
+    section: "1.1"
     pages:
       - 14
 prerequisites:

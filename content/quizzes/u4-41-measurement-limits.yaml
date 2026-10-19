@@ -35,13 +35,11 @@
       en: Declare no health problems
   correctOptionId: a
   explanation:
-    zh-CN: 标明缺失并限制结论。 原创假设：农村调查遗漏偏远家庭，可能高估全国服务覆盖；比较政策前后还需考虑经济周期和其他政策。
-      两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。
-    en: "Mark it missing and limit conclusions. Hypothetical scenario: omitting
-      remote households can overstate national service coverage. Before-after
-      policy comparisons also need business-cycle and other-policy context. Two
+    zh-CN: 标明缺失并限制结论。 检查来源和定义；统一年份与可比单位；结合定量指标和情境解释 两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。
+    en: Mark it missing and limit conclusions. Check sources and definitions; align
+      years and comparable units; combine quantitative measures with context Two
       improving indicators alone do not prove a policy caused improvement;
-      missing data are not zero."
+      missing data are not zero.
 - id: u4-41-measurement-limits-short-1
   knowledgePointId: u4-41-measurement-limits
   type: short-answer

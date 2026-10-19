@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: a farm price floor yields Qs=90 and Qd=60, a
+  surplus of 30. Buying all the surplus costs the floor price times 30. Labour
+  outcomes also depend on employer power, enforcement and productivity; the
+  competitive prediction is not a universal empirical fact."
 title: Price floors and minimum wages
 takeaway: A price floor sets a legal minimum price. Above equilibrium it is
   binding and creates excess supply. A minimum wage can create excess labour
@@ -25,7 +29,7 @@ Price is held above equilibrium.  supply rises and demand falls.  surplus may be
 
 ### Original scenario and reasoning
 
-Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact.
+Illustrative example: a floor above equilibrium creates excess supply, with public costs if government buys it. A minimum wage can create excess labour supply in a competitive model; actual outcomes also depend on employer power, enforcement and productivity. Numerical calculations are HL.
 
 A floor below equilibrium normally does not change market trades.
 

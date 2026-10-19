@@ -34,15 +34,11 @@
       en: All mergers promote equity
   correctOptionId: a
   explanation:
-    zh-CN: 竞争损失与成本效率收益。
-      原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。
-      不能把企业数量增加当作效率提高的充分条件。
-    en: "Competition losses and cost-efficiency gains. Illustrative example: a
-      merger may reduce competition but save logistics costs. Assess whether
-      savings reach consumers, whether entry is feasible and whether
-      coordination becomes easier. Splitting a natural monopoly may duplicate
-      fixed networks, so remedies should reflect the market. More firms is not a
-      sufficient condition for improved efficiency."
+    zh-CN: 竞争损失与成本效率收益。 识别市场势力来源和实际行为；规制或促进进入；比较价格、成本、创新和执行结果 不能把企业数量增加当作效率提高的充分条件。
+    en: Competition losses and cost-efficiency gains. Identify the source of market
+      power and actual conduct; regulate or enable entry; compare price, cost,
+      innovation and implementation effects More firms is not a sufficient
+      condition for improved efficiency.
 - id: u2-57-competition-policy-short-1
   knowledgePointId: u2-57-competition-policy
   type: short-answer

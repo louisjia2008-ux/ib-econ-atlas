@@ -35,14 +35,11 @@
       en: Costless entry
   correctOptionId: c
   explanation:
-    zh-CN: 独家法律专利。
-      原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。
-      企业规模大不自动等于垄断，必须先定义相关市场。
-    en: "An exclusive legal patent. Illustrative example: a patented medicine may
-      lack close competition; generic entry after expiry can change pricing
-      power. Firm numbers are informative, but market definition, substitutes
-      and entry threats also matter. A large firm is not automatically a
-      monopoly; first define the relevant market."
+    zh-CN: 独家法律专利。 专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权 企业规模大不自动等于垄断，必须先定义相关市场。
+    en: An exclusive legal patent. Patents, scale advantages or strategic behaviour
+      restrict entry; competitive substitutes weaken; firms may gain pricing
+      power A large firm is not automatically a monopoly; first define the
+      relevant market.
 - id: u2-47-market-structures-short-1
   knowledgePointId: u2-47-market-structures
   type: short-answer
@@ -53,7 +50,8 @@
   modelAnswer:
     zh-CN: 市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。
       专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权
-      原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。
+      原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。 集中率
+      CRn 为最大 n 家企业市场份额之和。原创例：前四家为 40%、25%、15%、10%，CR4=90%。集中率依赖市场界定，不能单独证明滥用势力。
     en: "Market structure describes firm numbers, product differentiation, entry
       barriers and information conditions. Market power is the ability to
       influence price. Patents, scale advantages or strategic behaviour restrict
@@ -61,7 +59,9 @@
       Illustrative example: a patented medicine may lack close competition;
       generic entry after expiry can change pricing power. Firm numbers are
       informative, but market definition, substitutes and entry threats also
-      matter."
+      matter. A concentration ratio CRn sums the n largest firms’ market shares.
+      Original example: shares 40%, 25%, 15%, 10% give CR4=90%. Market
+      definition matters; concentration alone does not establish abuse."
   keywordGroups:
     - id: mechanism-1
       label:

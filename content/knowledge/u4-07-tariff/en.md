@@ -1,4 +1,7 @@
 ---
+hlExtension: "Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50.
+  Imports are 40 and revenue 80. Production and consumption distortions remain
+  even without externalities or retaliation."
 title: Tariffs and small-country welfare
 takeaway: A tariff taxes imports. In a small economy a specific tariff raises
   domestic price from Pw to Pw+t, reduces imports and creates revenue and
@@ -27,7 +30,7 @@ Import costs rise.  domestic production rises and consumption falls.  revenue is
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation.
+Hypothetical scenario: a specific import tariff raises price, increases domestic output and reduces consumption and imports. Government receives revenue. With no externalities, production and consumption distortions reduce net welfare. Numerical revenue calculations are HL.
 
 Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain.
 

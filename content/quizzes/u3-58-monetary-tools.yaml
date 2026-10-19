@@ -1,0 +1,99 @@
+- id: u3-58-monetary-tools-flash-1
+  knowledgePointId: u3-58-monetary-tools
+  type: flashcard
+  prompt:
+    zh-CN: 解释“货币政策工具”，并说明一个关键条件。
+    en: Explain Monetary policy instruments and state one important condition.
+  answer:
+    zh-CN: 公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。
+    en: Open-market operations, reserve requirements and central-bank lending rates
+      can affect financial conditions; transmission depends on the banking
+      system and operating framework.
+  explanation:
+    zh-CN: 不要把央行买金融资产记为财政政策中政府购买商品服务的 G。
+    en: Do not record central-bank purchases of financial assets as fiscal purchases
+      of goods and services in G.
+- id: u3-58-monetary-tools-mcq-1
+  knowledgePointId: u3-58-monetary-tools
+  type: mcq
+  prompt:
+    zh-CN: 哪项是央行公开市场购买？
+    en: Which is a central-bank open-market purchase?
+  options:
+    - id: a
+      zh-CN: 政府购买公路维修
+      en: The government buys road repairs
+    - id: b
+      zh-CN: 央行购买债券
+      en: The central bank buys bonds
+    - id: c
+      zh-CN: 家庭买食品
+      en: A household buys food
+    - id: d
+      zh-CN: 企业支付工资
+      en: A firm pays wages
+  correctOptionId: b
+  explanation:
+    zh-CN: 央行购买债券。 央行调整工具；银行资金成本与流动性变化；信贷和利率渠道影响支出 不要把央行买金融资产记为财政政策中政府购买商品服务的 G。
+    en: The central bank buys bonds. The central bank adjusts instruments; bank
+      funding costs and liquidity change; credit and interest channels affect
+      spending Do not record central-bank purchases of financial assets as
+      fiscal purchases of goods and services in G.
+- id: u3-58-monetary-tools-short-1
+  knowledgePointId: u3-58-monetary-tools
+  type: short-answer
+  prompt:
+    zh-CN: 解释货币政策工具的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Monetary policy instruments and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。
+      央行调整工具；银行资金成本与流动性变化；信贷和利率渠道影响支出
+      原创假设：央行买债可增加银行结算余额，在其他条件适当时压低市场收益率；降低准备金要求可能释放流动性，但不保证银行放贷或家庭借款增加。QE
+      通常针对较长期资产。
+    en: "Open-market operations, reserve requirements and central-bank lending rates
+      can affect financial conditions; transmission depends on the banking
+      system and operating framework. The central bank adjusts instruments; bank
+      funding costs and liquidity change; credit and interest channels affect
+      spending Hypothetical scenario: bond purchases can add settlement balances
+      and, under suitable conditions, lower yields. Lower reserve requirements
+      may ease liquidity without guaranteeing more lending or borrowing. QE
+      often targets longer-term assets."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 工具
+        en: instruments
+      alternatives:
+        zh-CN:
+          - 工具
+          - 央行调整工具
+        en:
+          - instruments
+          - The central bank adjusts instruments
+    - id: mechanism-2
+      label:
+        zh-CN: 流动性
+        en: liquidity
+      alternatives:
+        zh-CN:
+          - 流动性
+          - 银行资金成本与流动性变化
+        en:
+          - liquidity
+          - bank funding costs and liquidity change
+    - id: mechanism-3
+      label:
+        zh-CN: 利率
+        en: interest
+      alternatives:
+        zh-CN:
+          - 利率
+          - 信贷和利率渠道影响支出
+        en:
+          - interest
+          - credit and interest channels affect spending
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -22,21 +22,19 @@
     en: Which statement best captures “Ceteris paribus”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 现实中所有变量永远保持不变
+      en: Every real-world variable stays constant forever
     - id: b
       zh-CN: ceteris paribus 暂时固定其他相关因素，以隔离一个变量的影响；现实预测必须检查这些因素是否真的相近。
       en: Ceteris paribus temporarily holds other relevant influences constant to
         isolate one variable; an applied prediction must ask whether those
         conditions are genuinely similar.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 其他条件不变意味着忽略研究变量
+      en: Ceteris paribus ignores the variable being studied
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 同时改变多个因素就能单独识别每个效应
+      en: Changing several factors automatically isolates each effect
   correctOptionId: b
   explanation:
     zh-CN: 其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
@@ -51,14 +49,14 @@
     en: Briefly explain “Ceteris paribus”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
+    zh-CN: 其他条件不变：其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。
       结果同时受到多个因素影响；分析者选择一个关注变量；暂时固定其他影响因素；推导该变量变化的独立方向性影响 该假设用于隔离单一关系。
-    en: Ceteris paribus means assuming that relevant influences other than the
-      variable under study remain unchanged so that one relationship can be
-      analysed separately. An outcome is influenced by several factors; The
-      analyst selects one variable of interest; Other influences are temporarily
-      held constant; The variable's independent directional effect is derived
-      The assumption isolates one relationship.
+    en: "Ceteris paribus: Ceteris paribus means assuming that relevant influences
+      other than the variable under study remain unchanged so that one
+      relationship can be analysed separately. An outcome is influenced by
+      several factors; The analyst selects one variable of interest; Other
+      influences are temporarily held constant; The variable's independent
+      directional effect is derived The assumption isolates one relationship."
   keywordGroups:
     - id: concept
       label:

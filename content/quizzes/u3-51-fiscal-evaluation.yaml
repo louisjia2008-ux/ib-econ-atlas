@@ -33,16 +33,11 @@
       en: Ignore financing and distribution
   correctOptionId: c
   explanation:
-    zh-CN: 实施时滞与长期供给效果。
-      原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。
-      不能仅凭赤字大小或单一乘数宣布政策成功。
-    en: "Implementation lags and long-run supply effects. Illustrative example: cash
-      support may stabilise demand sooner, whereas rail construction has long
-      preparation but may raise future capacity. High import propensity reduces
-      domestic demand effects, yet imported equipment can expand supply.
-      Financing currency, interest and future tax bases all matter for debt
-      risk. Neither deficit size nor a single multiplier establishes policy
-      success."
+    zh-CN: 实施时滞与长期供给效果。 判断产出缺口与政策目标；检查设计审批执行及漏出；权衡短期稳定与长期财政供给结果 不能仅凭赤字大小或单一乘数宣布政策成功。
+    en: Implementation lags and long-run supply effects. Identify the output gap and
+      objective; examine design, approval, implementation and leakages; weigh
+      short-run stabilisation against long-run fiscal and supply outcomes
+      Neither deficit size nor a single multiplier establishes policy success.
 - id: u3-51-fiscal-evaluation-short-1
   knowledgePointId: u3-51-fiscal-evaluation
   type: short-answer

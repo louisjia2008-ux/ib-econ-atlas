@@ -33,14 +33,11 @@
       en: A price floor
   correctOptionId: a
   explanation:
-    zh-CN: 助推。
-      原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。
-      助推不是税收或禁止；减少选择自由的措施需要另行分类。
-    en: "A nudge. Illustrative example: pension saving changes from opt-in to
-      default enrolment with an opt-out. Participation may rise. A default is
-      not compulsion. Evaluate ease of opting out, who benefits and potential
-      manipulation. A nudge is not a tax or prohibition; policies restricting
-      choice require a different classification."
+    zh-CN: 助推。 注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变 助推不是税收或禁止；减少选择自由的措施需要另行分类。
+    en: A nudge. Presentation influences attention and judgement; defaults or
+      framing alter reference points; choices can change even without a price
+      change A nudge is not a tax or prohibition; policies restricting choice
+      require a different classification.
 - id: u2-17-biases-nudges-short-1
   knowledgePointId: u2-17-biases-nudges
   type: short-answer
@@ -52,6 +49,7 @@
     zh-CN: 锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。
       注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变
       原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。
+      锚定是过度依赖最先出现的数值；框架效应是同义信息因表达不同而影响选择；可得性偏差是以容易回想的例子替代概率判断。默认选择允许退出，限制选择缩小选项集，强制选择要求主动表态。
     en: "Anchoring, loss aversion, present bias and defaults can influence choices.
       A nudge changes choice architecture while preserving freedom to choose.
       Presentation influences attention and judgement; defaults or framing alter
@@ -59,7 +57,11 @@
       Illustrative example: pension saving changes from opt-in to default
       enrolment with an opt-out. Participation may rise. A default is not
       compulsion. Evaluate ease of opting out, who benefits and potential
-      manipulation."
+      manipulation. Anchoring overweights an initial number; framing changes
+      choices through presentation of equivalent information; availability
+      substitutes easily recalled examples for probability. Defaults allow
+      opting out, restricted choice narrows options, and mandated choice
+      requires an active decision."
   keywordGroups:
     - id: mechanism-1
       label:

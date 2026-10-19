@@ -35,13 +35,9 @@
       en: "30"
   correctOptionId: d
   explanation:
-    zh-CN: 30。 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q*
-      处外部边际成本，不应机械采用 Qm 处的差额。 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。
-    en: "30. Illustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the
-      gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax
-      equals marginal external cost at Q*, not mechanically the gap at Qm. The
-      triangle's height must be the relevant social cost-benefit gap, not an
-      arbitrary market price."
+    zh-CN: 30。 DWL = ½ × 12 × 5 = 30 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。
+    en: 30. DWL = ½ × 12 × 5 = 30 The triangle's height must be the relevant social
+      cost-benefit gap, not an arbitrary market price.
 - id: u2-40-external-welfare-short-1
   knowledgePointId: u2-40-external-welfare
   type: short-answer

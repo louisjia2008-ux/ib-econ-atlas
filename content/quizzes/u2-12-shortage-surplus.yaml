@@ -34,14 +34,9 @@
       en: "30"
   correctOptionId: d
   explanation:
-    zh-CN: 30。 原创例：Qd=90、Qs=50，短缺为
-      40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。 短缺的大小是
-      Qd−Qs，不是需求量本身。
-    en: "30. Illustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price
-      rise lowers quantity demanded and increases quantity supplied along the
-      curves. Controls can prevent adjustment, so shortages need not disappear
-      immediately. The size of a shortage is Qd minus Qs, not quantity demanded
-      itself."
+    zh-CN: 30。 110 − 80 = 30 短缺的大小是 Qd−Qs，不是需求量本身。
+    en: 30. 110 − 80 = 30 The size of a shortage is Qd minus Qs, not quantity
+      demanded itself.
 - id: u2-12-shortage-surplus-short-1
   knowledgePointId: u2-12-shortage-surplus
   type: short-answer

@@ -23,20 +23,18 @@
     en: Which statement best captures “Resource allocation and reallocation”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 资源配置只指收入均分
+      en: Allocation means only equalising incomes
     - id: b
       zh-CN: 资源配置决定生产要素流向何处；价格、政策或偏好变化会触发重新配置，并可纠正过度或不足配置。
       en: Allocation directs factors of production; changes in prices, policy, or
         preferences cause reallocation and may address over- or underallocation.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 社会最优与任何市场均衡完全相同
+      en: The social optimum equals every market equilibrium
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 重新配置只需增加所有投入而不调整用途
+      en: Reallocation only adds inputs without changing uses
   correctOptionId: b
   explanation:
     zh-CN: 资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
@@ -52,16 +50,16 @@
     en: Briefly explain “Resource allocation and reallocation”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: 资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
+    zh-CN: 资源配置与重新配置：资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。
       不同用途争夺稀缺要素；价格、收益与政策传递相对价值；资源流向预期回报较高的用途；外部成本或收益可能造成过度或不足配置 配置决定生产要素的用途。
-    en: Resource allocation is the assignment of productive factors to different
-      uses. Reallocation changes those uses, while overallocation and
-      underallocation mean that too many or too few resources are devoted to an
-      activity relative to the social optimum. Alternative uses compete for
-      scarce factors; Prices, returns, and policy signal relative value;
-      Resources move toward uses with higher expected returns; External costs or
-      benefits can create over- or underallocation Allocation determines the
-      uses of productive factors.
+    en: "Resource allocation and reallocation: Resource allocation is the assignment
+      of productive factors to different uses. Reallocation changes those uses,
+      while overallocation and underallocation mean that too many or too few
+      resources are devoted to an activity relative to the social optimum.
+      Alternative uses compete for scarce factors; Prices, returns, and policy
+      signal relative value; Resources move toward uses with higher expected
+      returns; External costs or benefits can create over- or underallocation
+      Allocation determines the uses of productive factors."
   keywordGroups:
     - id: concept
       label:

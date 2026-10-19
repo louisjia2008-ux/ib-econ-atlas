@@ -33,15 +33,11 @@
       en: Every spending cut raises potential output
   correctOptionId: c
   explanation:
-    zh-CN: 需求和税基可能同时下降。
-      原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。
-      财政改善的直接核算效果与最终宏观效果应区分。
-    en: "Demand and the tax base may both fall. Illustrative example: higher income
-      tax during overheating may restrain consumption, but cutting effective
-      training may also damage long-run capacity. In recession, tightening may
-      shrink the tax base, so a unit spending cut need not reduce the deficit by
-      a full unit. Distinguish direct accounting effects from final
-      macroeconomic effects."
+    zh-CN: 需求和税基可能同时下降。 削减购买或提高税收；直接需求或可支配收入降低；总需求相对左移使通胀压力减弱 财政改善的直接核算效果与最终宏观效果应区分。
+    en: Demand and the tax base may both fall. Cut purchases or raise taxes; direct
+      demand or disposable income falls; aggregate demand shifts relatively left
+      and inflation pressure weakens Distinguish direct accounting effects from
+      final macroeconomic effects.
 - id: u3-47-contractionary-fiscal-short-1
   knowledgePointId: u3-47-contractionary-fiscal
   type: short-answer

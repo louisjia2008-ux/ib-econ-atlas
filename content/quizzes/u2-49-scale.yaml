@@ -35,15 +35,11 @@
       en: Perfectly inelastic demand
   correctOptionId: a
   explanation:
-    zh-CN: 规模经济。
-      原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。
-      规模经济看平均成本，不是总成本下降。
-    en: "Economies of scale. Illustrative example: a large carrier can use
-      specialised maintenance teams to lower cost per delivery, but complex
-      regional management can increase coordination costs. This is long-run
-      analysis with all inputs variable, not diminishing returns from adding
-      workers to a fixed plant. Economies of scale concerns average cost, not
-      necessarily falling total cost."
+    zh-CN: 规模经济。 扩大生产规模允许专业化和分摊；管理和沟通复杂度也上升；净影响决定长期平均成本 规模经济看平均成本，不是总成本下降。
+    en: Economies of scale. Larger scale permits specialisation and spreading costs;
+      management and communication grow more complex; the net effect determines
+      long-run average cost Economies of scale concerns average cost, not
+      necessarily falling total cost.
 - id: u2-49-scale-short-1
   knowledgePointId: u2-49-scale
   type: short-answer

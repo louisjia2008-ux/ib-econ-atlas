@@ -23,16 +23,14 @@
     en: Which statement best captures “Interdependence and the circular economy”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 循环经济就是收入循环模型
+      en: The circular economy is the circular flow of income
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 只增加末端回收足以替代一切设计改进
+      en: More end-stage recycling replaces every design improvement
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 循环意味着资源和能源不再稀缺
+      en: Circularity ends all resource and energy scarcity
     - id: d
       zh-CN: 循环经济把经济、社会与环境视为相互依存系统，通过减少材料投入、延长使用和回收价值来替代“开采—生产—丢弃”。
       en: A circular economy treats the economy, society, and environment as
@@ -52,17 +50,17 @@
     en: Briefly explain “Interdependence and the circular economy”, including one
       causal mechanism and one important implication.
   modelAnswer:
-    zh-CN: 循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。
+    zh-CN: 相互依存与循环经济：循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。
       线性生产开采资源并产生废弃物；设计减少材料并延长产品寿命；维修、再用、再制造和回收形成闭环；较低原生资源需求减轻生态压力并改变商业模式
       经济活动依赖社会与自然系统。
-    en: A circular economy is a framework for designing and organising production
-      and consumption to reduce extraction and waste, retain value in products,
-      components, and materials, and support regeneration of natural systems.
-      Linear production extracts resources and generates waste; Design reduces
-      material use and extends product life; Repair, reuse, remanufacture, and
-      recycling create loops; Lower primary-resource demand reduces ecological
-      pressure and changes business models Economic activity depends on social
-      and natural systems.
+    en: "Interdependence and the circular economy: A circular economy is a framework
+      for designing and organising production and consumption to reduce
+      extraction and waste, retain value in products, components, and materials,
+      and support regeneration of natural systems. Linear production extracts
+      resources and generates waste; Design reduces material use and extends
+      product life; Repair, reuse, remanufacture, and recycling create loops;
+      Lower primary-resource demand reduces ecological pressure and changes
+      business models Economic activity depends on social and natural systems."
   keywordGroups:
     - id: concept
       label:

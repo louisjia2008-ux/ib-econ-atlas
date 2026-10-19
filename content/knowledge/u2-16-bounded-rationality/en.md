@@ -25,7 +25,7 @@ Many options must be compared.  search and calculation are costly.  consumers ad
 
 ### Original scenario and reasoning
 
-Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility.
+Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility. Bounded self-control can undermine long-term saving plans; bounded selfishness recognises social preferences, reciprocity and fairness rather than pure material self-interest.
 
 Bounded rationality does not mean consumers have no goals or choose randomly.
 

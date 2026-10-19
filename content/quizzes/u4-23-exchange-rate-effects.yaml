@@ -35,13 +35,12 @@
       en: Necessarily remove inflation
   correctOptionId: c
   explanation:
-    zh-CN: 增加本币偿债负担。 原创假设：依赖进口燃料的企业成本上升，可能左移 SRAS；同时出口订单增加可右移 AD，不能只看一个渠道。
+    zh-CN: 增加本币偿债负担。 本币贬值改变相对价格；出口与进口数量逐步调整；净出口和进口成本共同影响 AD 与 AS
       贬值不保证贸易余额改善，也可能提高外币债务的本币负担。
-    en: "Increase its home-currency repayment burden. Hypothetical scenario:
-      imported fuel becomes dearer, potentially shifting SRAS left, while more
-      export orders may shift AD right. Both channels matter. Depreciation does
-      not guarantee a better trade balance and can raise the home-currency
-      burden of foreign-currency debt."
+    en: Increase its home-currency repayment burden. Depreciation changes relative
+      prices; export and import volumes adjust gradually; net exports and import
+      costs affect AD and AS Depreciation does not guarantee a better trade
+      balance and can raise the home-currency burden of foreign-currency debt.
 - id: u4-23-exchange-rate-effects-short-1
   knowledgePointId: u4-23-exchange-rate-effects
   type: short-answer

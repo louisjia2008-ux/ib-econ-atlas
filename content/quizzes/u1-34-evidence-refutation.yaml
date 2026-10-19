@@ -24,21 +24,19 @@
     en: Which statement best captures “Empirical evidence and refutation”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 单个支持案例足以永远证明理论
+      en: One supporting case proves a theory forever
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 任何反例都不应影响模型
+      en: No contrary evidence should affect a model
     - id: c
       zh-CN: 经验研究把理论预测与观察结果比较；反例会削弱或迫使模型修正，但单一研究很少能终结复杂争论。
       en: Empirical work compares theoretical predictions with observation; contrary
         evidence weakens or forces revision of a model, although one study
         rarely ends a complex debate.
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 无法被任何证据挑战的说法更科学
+      en: A claim no evidence can challenge is more scientific
   correctOptionId: c
   explanation:
     zh-CN: 经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
@@ -54,15 +52,16 @@
     en: Briefly explain “Empirical evidence and refutation”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: 经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
+    zh-CN: 经验证据与证伪：经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。
       理论产生明确且可观察的预测；研究设计确定数据和比较方法；证据显示预测是否得到支持；不一致促使检查测量、假设或理论机制 理论必须产生可检验预测。
-    en: Empirical evidence comes from systematic observation, data, or experiment.
-      Refutation occurs when credible evidence conflicts with a testable
-      theoretical prediction, requiring that prediction to be rejected or
-      revised. A theory generates a clear observable prediction; Research design
-      defines data and comparison; Evidence indicates whether the prediction is
-      supported; Conflict prompts review of measurement, assumptions, or
-      mechanism Theory must yield testable predictions.
+    en: "Empirical evidence and refutation: Empirical evidence comes from systematic
+      observation, data, or experiment. Refutation occurs when credible evidence
+      conflicts with a testable theoretical prediction, requiring that
+      prediction to be rejected or revised. A theory generates a clear
+      observable prediction; Research design defines data and comparison;
+      Evidence indicates whether the prediction is supported; Conflict prompts
+      review of measurement, assumptions, or mechanism Theory must yield
+      testable predictions."
   keywordGroups:
     - id: concept
       label:

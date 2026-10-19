@@ -34,15 +34,12 @@
       en: Nominal GDP rises; real GDP is unchanged
   correctOptionId: d
   explanation:
-    zh-CN: 名义 GDP 增加，实际 GDP 不变。 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从
-      1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。 物价下降导致名义 GDP
+    zh-CN: 名义 GDP 增加，实际 GDP 不变。 当期销售价值随价格和数量变化；用价格指数进行平减；比较可比价格下的产量 物价下降导致名义 GDP
       下降，并不单独证明实际经济衰退。
-    en: "Nominal GDP rises; real GDP is unchanged. Illustrative example: 100 units
-      at price ten become 100 units at price twelve next year. Nominal GDP rises
-      from 1000 to 1200 but real output does not grow. Fixed base-year prices
-      are a teaching simplification; statistical offices may use chain-volume
-      measures. A nominal GDP fall caused by lower prices does not alone prove a
-      real recession."
+    en: Nominal GDP rises; real GDP is unchanged. Current sales value changes with
+      prices and quantities; deflate using a price index; compare output volumes
+      at comparable prices A nominal GDP fall caused by lower prices does not
+      alone prove a real recession.
 - id: u3-04-nominal-real-short-1
   knowledgePointId: u3-04-nominal-real
   type: short-answer

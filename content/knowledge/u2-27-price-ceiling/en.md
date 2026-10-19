@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: at a ceiling of six, Qd=100 and Qs=60,
+  leaving a shortage of 40 and at most 60 legal trades. Queues, connections or
+  black markets may allocate goods. Low controlled rent does not guarantee
+  access for every low-income household."
 title: Price ceilings
 takeaway: A price ceiling sets a legal maximum price. Below equilibrium it is
   binding and normally creates excess demand.
@@ -22,7 +26,7 @@ Price is held below equilibrium.  quantity demanded rises and quantity supplied 
 
 ### Original scenario and reasoning
 
-Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household.
+Illustrative example: a ceiling below equilibrium creates excess demand and can lead to queues, black markets and non-price rationing. Low rent does not guarantee housing access. Quantity and expenditure calculations are HL.
 
 A ceiling above equilibrium is normally non-binding.
 

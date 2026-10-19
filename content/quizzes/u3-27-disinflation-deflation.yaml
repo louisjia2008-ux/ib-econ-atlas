@@ -34,13 +34,11 @@
       en: Real output falls 2%
   correctOptionId: c
   explanation:
-    zh-CN: 通胀放缓，价格仍上涨。 原创例：通胀率由 8% 到 3% 表示仍在涨价；由 3% 到 -1%
-      才出现通缩。若工资和收入随物价下降，固定还款负担可能更重。由生产率提高引起的降价与需求崩塌造成的通缩，政策含义不同。 较低通胀率不等于较低价格水平。
-    en: "Disinflation; prices still rise. Illustrative example: inflation falling
-      from 8% to 3% still means prices rise; moving from 3% to -1% is deflation.
-      Fixed repayments may become harder when wages and incomes fall.
-      Productivity-driven price falls differ from demand-collapse deflation. A
-      lower inflation rate does not mean a lower price level."
+    zh-CN: 通胀放缓，价格仍上涨。 区分物价水平与其变化率；通缩提高给定名义金额的购买力；实际债务与延迟支出可能加重需求疲弱 较低通胀率不等于较低价格水平。
+    en: Disinflation; prices still rise. Separate the price level from its rate of
+      change; deflation raises the purchasing power of a fixed nominal amount;
+      real debt and delayed spending may weaken demand further A lower inflation
+      rate does not mean a lower price level.
 - id: u3-27-disinflation-deflation-short-1
   knowledgePointId: u3-27-disinflation-deflation
   type: short-answer

@@ -34,16 +34,12 @@
       en: Distinguish and coordinate short-run demand and long-run matching policies
   correctOptionId: d
   explanation:
-    zh-CN: 区分短期需求与长期匹配政策并协调。
-      原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。
-      没有脱离经济情境的万能政策排名。
-    en: "Distinguish and coordinate short-run demand and long-run matching policies.
-      Illustrative example: weak demand alongside skills mismatch can justify
-      short-run demand support with long-run training; training alone may not
-      immediately create jobs. In an overheated economy, stimulating demand may
-      worsen inflation before new capacity arrives, so sequencing and
-      implementation matter. There is no context-free ranking of universally
-      best policies."
+    zh-CN: 区分短期需求与长期匹配政策并协调。 判断需求不足或供给瓶颈；协调短期稳定与长期能力政策；用多目标和时间尺度评价净效果 没有脱离经济情境的万能政策排名。
+    en: Distinguish and coordinate short-run demand and long-run matching policies.
+      Diagnose weak demand or supply bottlenecks; coordinate short-run
+      stabilisation with long-run capacity policies; evaluate net effects across
+      objectives and time horizons There is no context-free ranking of
+      universally best policies.
 - id: u3-56-policy-mix-short-1
   knowledgePointId: u3-56-policy-mix
   type: short-answer

@@ -34,13 +34,9 @@
       en: "75"
   correctOptionId: c
   explanation:
-    zh-CN: 3。 原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为
-      2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。
-    en: "3. Illustrative example: price rises 10% and quantity demanded falls 20%,
-      so PED is -2, with magnitude two: elastic. State whether base-period or
-      midpoint percentages are used and do not mix denominators within a
-      calculation. Elasticity is a ratio of percentage changes, not the slope or
-      a ratio of absolute changes."
+    zh-CN: 3。 PED = −15% / 5% = −3; |PED| = 3 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。
+    en: 3. PED = −15% / 5% = −3; |PED| = 3 Elasticity is a ratio of percentage
+      changes, not the slope or a ratio of absolute changes.
 - id: u2-19-ped-short-1
   knowledgePointId: u2-19-ped
   type: short-answer

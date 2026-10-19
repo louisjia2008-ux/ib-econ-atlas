@@ -1,0 +1,1602 @@
+{
+  "auditDate": "2026-10-18",
+  "baseline": "e95cda16c05cfbbddcd19f7af1e5d384eb00688f",
+  "scope": "Original 215 points plus 12 gap-filling additions; local working-tree repair, not deployed",
+  "totals": {
+    "points": 227,
+    "pages": 454,
+    "practice": 695,
+    "advancedQuestions": 14
+  },
+  "pointInventory": [
+    {
+      "id": "u1-01-economics-social-science",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-02-microeconomics",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-03-macroeconomics",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-04-scarcity",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-05-choice",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-06-efficiency",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-07-equity",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-08-economic-wellbeing",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-09-sustainability",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-10-change",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-11-interdependence",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-12-intervention",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-13-factors-of-production",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-14-opportunity-cost",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-15-free-goods",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-16-basic-economic-questions",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-17-resource-allocation",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-18-income-distribution",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-19-market-mechanism",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-20-government-intervention",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-21-free-market-economy",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-22-planned-economy",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-23-mixed-economy",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-24-economic-models",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-25-ppc-construction",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-26-ppc-scarcity-choice-cost",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-27-ppc-unemployment-efficiency",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-28-ppc-growth",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-29-ppc-opportunity-cost-shapes",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-30-positive-economics",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-31-normative-economics",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-32-logic-hypotheses-theories",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-33-ceteris-paribus",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-34-evidence-refutation",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-35-equality-equity",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-36-adam-smith",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-37-utility-marginalism",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-38-says-law",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-39-marxist-critique",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-40-keynesian-revolution",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-41-monetarist-new-classical",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-42-behavioural-economics",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-43-circular-economy",
+      "section": "1.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u1-44-circular-flow",
+      "section": "1.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-01-demand",
+      "section": "2.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-02-law-of-demand",
+      "section": "2.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-03-demand-shifts",
+      "section": "2.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-04-market-demand",
+      "section": "2.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-05-marginal-utility",
+      "section": "2.1",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-06-supply",
+      "section": "2.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-07-supply-shifts",
+      "section": "2.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-08-market-supply",
+      "section": "2.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-09-diminishing-returns",
+      "section": "2.2",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-10-costs-and-supply",
+      "section": "2.2",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-11-equilibrium",
+      "section": "2.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-12-shortage-surplus",
+      "section": "2.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-13-equilibrium-shifts",
+      "section": "2.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-14-price-mechanism",
+      "section": "2.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-15-surplus-efficiency",
+      "section": "2.3",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-16-bounded-rationality",
+      "section": "2.4",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-17-biases-nudges",
+      "section": "2.4",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-18-firm-objectives",
+      "section": "2.4",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-19-ped",
+      "section": "2.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-20-ped-determinants",
+      "section": "2.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-21-ped-revenue",
+      "section": "2.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-22-yed",
+      "section": "2.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-23-elasticity-extremes",
+      "section": "2.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-24-pes",
+      "section": "2.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-25-pes-determinants",
+      "section": "2.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-26-pes-application",
+      "section": "2.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-27-price-ceiling",
+      "section": "2.7",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-28-price-floor",
+      "section": "2.7",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-29-indirect-tax",
+      "section": "2.7",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-30-subsidy",
+      "section": "2.7",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u2-31-intervention-evaluation",
+      "section": "2.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-32-tax-welfare-calculation",
+      "section": "2.7",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-33-market-failure",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-34-negative-production",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-35-negative-consumption",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-36-positive-production",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-37-positive-consumption",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-38-common-resources",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-39-externality-policies",
+      "section": "2.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-40-external-welfare",
+      "section": "2.8",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-41-public-goods",
+      "section": "2.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-42-free-rider",
+      "section": "2.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-43-public-provision",
+      "section": "2.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-44-adverse-selection",
+      "section": "2.10",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-45-moral-hazard",
+      "section": "2.10",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-46-information-remedies",
+      "section": "2.10",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-47-market-structures",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-48-cost-curves",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-49-scale",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-50-revenue-profit",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-51-profit-maximisation",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-52-perfect-competition",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-53-monopoly",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-54-natural-monopoly",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-55-monopolistic-competition",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-56-oligopoly",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-57-competition-policy",
+      "section": "2.11",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-58-equity-distribution",
+      "section": "2.12",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-59-income-wealth",
+      "section": "2.12",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u2-60-redistribution",
+      "section": "2.12",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-01-circular-flow",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-02-gdp",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-03-expenditure",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-04-nominal-real",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-05-deflator",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-06-gni",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-07-per-capita-ppp",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-08-business-cycle",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-09-gdp-limitations",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-10-wellbeing-indicators",
+      "section": "3.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-11-aggregate-demand",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-12-consumption",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-13-investment",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-14-sras",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-15-lras",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-16-keynesian-as",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-17-macro-equilibrium",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-18-output-gaps",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-19-macro-shocks",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-20-potential-growth",
+      "section": "3.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-21-unemployment-rate",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-22-unemployment-types",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-23-unemployment-costs",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-24-cpi",
+      "section": "3.3",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u3-25-demand-pull",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-26-cost-push",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-27-disinflation-deflation",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-28-growth-measure",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-29-growth-evaluation",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-30-public-debt",
+      "section": "3.3",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-31-phillips-curve",
+      "section": "3.3",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-32-objective-conflicts",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-33-poverty",
+      "section": "3.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-34-inequality-causes",
+      "section": "3.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-35-lorenz-gini",
+      "section": "3.4",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u3-36-poverty-effects",
+      "section": "3.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-37-progressive-tax",
+      "section": "3.4",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u3-38-poverty-policies",
+      "section": "3.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-39-money-interest",
+      "section": "3.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-40-monetary-transmission",
+      "section": "3.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-41-expansionary-monetary",
+      "section": "3.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-42-contractionary-monetary",
+      "section": "3.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-43-unconventional-policy",
+      "section": "3.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-44-monetary-limits",
+      "section": "3.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-45-fiscal-budget",
+      "section": "3.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-46-expansionary-fiscal",
+      "section": "3.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-47-contractionary-fiscal",
+      "section": "3.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-48-automatic-stabilisers",
+      "section": "3.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-49-multiplier",
+      "section": "3.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-50-crowding-out",
+      "section": "3.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-51-fiscal-evaluation",
+      "section": "3.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-52-market-based-supply",
+      "section": "3.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-53-interventionist-supply",
+      "section": "3.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-54-labour-market",
+      "section": "3.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-55-infrastructure-innovation",
+      "section": "3.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-56-policy-mix",
+      "section": "3.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-57-bank-money-creation",
+      "section": "3.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-58-monetary-tools",
+      "section": "3.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-59-money-market",
+      "section": "3.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u3-60-inflation-costs",
+      "section": "3.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-01-trade-benefits",
+      "section": "4.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-02-free-trade-imports",
+      "section": "4.1",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-03-free-trade-exports",
+      "section": "4.1",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-04-absolute-advantage",
+      "section": "4.1",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-05-comparative-advantage",
+      "section": "4.1",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-06-trade-evaluation",
+      "section": "4.1",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-07-tariff",
+      "section": "4.2",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-08-quota",
+      "section": "4.2",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-09-production-subsidy",
+      "section": "4.2",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-10-export-subsidy",
+      "section": "4.2",
+      "level": "core",
+      "practice": 4,
+      "hasHlDetail": true
+    },
+    {
+      "id": "u4-11-administrative-barriers",
+      "section": "4.2",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-12-infant-industry",
+      "section": "4.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-13-protection-arguments",
+      "section": "4.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-14-protection-evaluation",
+      "section": "4.3",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-15-wto",
+      "section": "4.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-16-trading-blocs",
+      "section": "4.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-17-common-market",
+      "section": "4.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-18-trade-creation-diversion",
+      "section": "4.4",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-19-monetary-union",
+      "section": "4.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-20-integration-evaluation",
+      "section": "4.4",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-21-floating-exchange-rate",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-22-currency-demand-supply",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-23-exchange-rate-effects",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-24-fixed-exchange-rate",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-25-managed-exchange-rate",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-26-exchange-calculations",
+      "section": "4.5",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-27-exchange-policy-trilemma",
+      "section": "4.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-28-current-account",
+      "section": "4.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-29-capital-financial-account",
+      "section": "4.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-30-bop-identity",
+      "section": "4.6",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-31-current-account-imbalances",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-32-marshall-lerner",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-33-j-curve",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-34-imbalance-policies",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-35-sustainable-development",
+      "section": "4.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-36-environment-poverty",
+      "section": "4.7",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-37-sdg-policy",
+      "section": "4.7",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-38-development-indicators",
+      "section": "4.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-39-hdi",
+      "section": "4.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-40-multidimensional-poverty",
+      "section": "4.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-41-measurement-limits",
+      "section": "4.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-42-poverty-cycle",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-43-human-capital-infrastructure",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-44-primary-dependence",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-45-debt-finance-barriers",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-46-institutions-barriers",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-47-geography-informality",
+      "section": "4.9",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-48-trade-strategies",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-49-diversification-enterprise",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-50-market-based-development",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-51-public-services-development",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-52-fdi-mncs",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-53-aid-ngos",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-54-multilateral-debt-relief",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-55-institutional-change",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-56-development-policy-mix",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-57-monetary-union-evaluation",
+      "section": "4.4",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-58-exchange-regime-evaluation",
+      "section": "4.5",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-59-development-composite-indices",
+      "section": "4.8",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-60-sdg-country-comparison",
+      "section": "4.10",
+      "level": "core",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-61-current-account-surplus",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-62-external-accounts-exchange-rate",
+      "section": "4.6",
+      "level": "hl",
+      "practice": 3,
+      "hasHlDetail": false
+    },
+    {
+      "id": "u4-63-terms-of-trade-enrichment",
+      "section": "4.9",
+      "level": "extension",
+      "practice": 3,
+      "hasHlDetail": false
+    }
+  ]
+}

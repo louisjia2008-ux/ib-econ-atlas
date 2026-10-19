@@ -17,29 +17,28 @@
   knowledgePointId: u4-07-tariff
   type: mcq
   prompt:
-    zh-CN: 单位关税 3，税后进口 20，税收多少？
-    en: A tariff of three with post-tariff imports of twenty yields what revenue?
+    zh-CN: 小国关税通常怎样影响进口？
+    en: What normally happens to imports after a small-country tariff?
   options:
     - id: a
-      zh-CN: "23"
-      en: "23"
+      zh-CN: 进口必定扩大
+      en: Imports necessarily expand
     - id: b
-      zh-CN: "17"
-      en: "17"
+      zh-CN: 消费者价格必定不变
+      en: Consumer price cannot change
     - id: c
-      zh-CN: "60"
-      en: "60"
+      zh-CN: 本国供给增加、需求减少，进口缩小
+      en: Domestic supply rises, demand falls and imports shrink
     - id: d
-      zh-CN: 必须用税前进口量
-      en: The pre-tariff import volume must be used
+      zh-CN: 税收就是净福利收益
+      en: Revenue is the net welfare gain
   correctOptionId: c
   explanation:
-    zh-CN: 60。 原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。
-      关税收入应乘税后进口量；它是转移，不等于净福利增加。
-    en: "60. Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports
-      are 40 and revenue 80. Production and consumption distortions remain even
-      without externalities or retaliation. Use post-tariff imports for revenue;
-      revenue is a transfer, not a net welfare gain."
+    zh-CN: 本国供给增加、需求减少，进口缩小。 进口成本提高；国内生产增加消费减少；政府按税后进口量征税 关税收入应乘税后进口量；它是转移，不等于净福利增加。
+    en: Domestic supply rises, demand falls and imports shrink. Import costs rise;
+      domestic production rises and consumption falls; revenue is levied on
+      post-tariff imports Use post-tariff imports for revenue; revenue is a
+      transfer, not a net welfare gain.
 - id: u4-07-tariff-short-1
   knowledgePointId: u4-07-tariff
   type: short-answer
@@ -49,15 +48,17 @@
       an example of your own.
   modelAnswer:
     zh-CN: 关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。
-      进口成本提高；国内生产增加消费减少；政府按税后进口量征税 原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收
-      80。无外部性和报复时仍有生产与消费扭曲损失。
+      进口成本提高；国内生产增加消费减少；政府按税后进口量征税
+      原创假设：小国对进口征单位税，国内价提高，本国生产增加、消费减少、进口缩小；政府获得税收。无外部性模型中，生产和消费扭曲带来净福利损失。税收数值计算属于
+      HL。
     en: "A tariff taxes imports. In a small economy a specific tariff raises
       domestic price from Pw to Pw+t, reduces imports and creates revenue and
       efficiency losses. Import costs rise; domestic production rises and
       consumption falls; revenue is levied on post-tariff imports Hypothetical
-      scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and
-      revenue 80. Production and consumption distortions remain even without
-      externalities or retaliation."
+      scenario: a specific import tariff raises price, increases domestic output
+      and reduces consumption and imports. Government receives revenue. With no
+      externalities, production and consumption distortions reduce net welfare.
+      Numerical revenue calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -96,3 +97,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u4-07-tariff-mcq-hl-1
+  knowledgePointId: u4-07-tariff
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 单位关税 3，税后进口 20，税收多少？
+    en: A tariff of three with post-tariff imports of twenty yields what revenue?
+  options:
+    - id: a
+      zh-CN: "23"
+      en: "23"
+    - id: b
+      zh-CN: "17"
+      en: "17"
+    - id: c
+      zh-CN: 必须用税前进口量
+      en: The pre-tariff import volume must be used
+    - id: d
+      zh-CN: "60"
+      en: "60"
+  correctOptionId: d
+  explanation:
+    zh-CN: 60。 3 × 20 = 60
+    en: 60. 3 × 20 = 60

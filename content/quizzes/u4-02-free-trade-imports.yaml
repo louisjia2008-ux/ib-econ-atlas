@@ -18,29 +18,28 @@
   knowledgePointId: u4-02-free-trade-imports
   type: mcq
   prompt:
-    zh-CN: Qd=90、Qs=30 时进口量是多少？
-    en: With Qd=90 and Qs=30, how large are imports?
+    zh-CN: 世界价低于自给价时，小国通常怎样贸易？
+    en: How does a small economy normally trade when world price is below autarky?
   options:
     - id: a
-      zh-CN: "120"
-      en: "120"
+      zh-CN: 必定出口
+      en: It necessarily exports
     - id: b
-      zh-CN: "60"
-      en: "60"
+      zh-CN: 进口以填补国内需求超过供给的差额
+      en: It imports the excess of domestic demand over supply
     - id: c
-      zh-CN: "90"
-      en: "90"
+      zh-CN: 不再消费该商品
+      en: It stops consuming the good
     - id: d
-      zh-CN: "30"
-      en: "30"
+      zh-CN: 世界价由本国单独决定
+      en: It alone sets the world price
   correctOptionId: b
   explanation:
-    zh-CN: 60。 原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。
-      小国接受世界价格；进口量不是国内总消费量。
-    en: "60. Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60.
-      Consumers gain and producers lose, with net welfare gains in a model
-      without externalities. A small economy takes the world price; imports are
-      not total domestic consumption."
+    zh-CN: 进口以填补国内需求超过供给的差额。 世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 小国接受世界价格；进口量不是国内总消费量。
+    en: It imports the excess of domestic demand over supply. The world price is
+      below autarky; domestic consumption rises and production falls; imports
+      fill the demand-supply gap A small economy takes the world price; imports
+      are not total domestic consumption.
 - id: u4-02-free-trade-imports-short-1
   knowledgePointId: u4-02-free-trade-imports
   type: short-answer
@@ -50,15 +49,16 @@
       it to an example of your own.
   modelAnswer:
     zh-CN: 在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。
-      世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 原创假设：Pw=10 时 Qd=100、Qs=40，进口
-      60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。
+      世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额
+      原创假设：世界价低于自给价，国内消费者增加购买，本国产量减少，进口填补差额；消费者获益、生产者受损。读图计算贸易量、支出和剩余属于 HL。
     en: "In a small-country model with homogeneous goods and no transport costs, a
       world price below the autarky price creates imports equal to domestic
       demand minus supply. The world price is below autarky; domestic
       consumption rises and production falls; imports fill the demand-supply gap
-      Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60.
-      Consumers gain and producers lose, with net welfare gains in a model
-      without externalities."
+      Hypothetical scenario: a world price below autarky increases domestic
+      purchases and reduces home output; imports fill the gap. Consumers gain
+      and producers lose. Numerical trade-volume, expenditure and surplus
+      calculations from diagrams are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -97,3 +97,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u4-02-free-trade-imports-mcq-hl-1
+  knowledgePointId: u4-02-free-trade-imports
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: Qd=90、Qs=30 时进口量是多少？
+    en: With Qd=90 and Qs=30, how large are imports?
+  options:
+    - id: a
+      zh-CN: "120"
+      en: "120"
+    - id: b
+      zh-CN: "90"
+      en: "90"
+    - id: c
+      zh-CN: "60"
+      en: "60"
+    - id: d
+      zh-CN: "30"
+      en: "30"
+  correctOptionId: c
+  explanation:
+    zh-CN: 60。 90 − 30 = 60
+    en: 60. 90 − 30 = 60

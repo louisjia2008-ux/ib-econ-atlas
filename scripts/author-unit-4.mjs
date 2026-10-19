@@ -14,5 +14,5 @@ const guidance = {
 };
 const prerequisites = Object.fromEntries(Object.keys(sections).map(s=>[s,["u1-14-opportunity-cost"]]));
 writeStudyUnit({ unit: 4, topics, sections, guidance, prerequisites,
- special: { "free-trade-imports": "global-imports", "free-trade-exports": "global-exports", tariff: "global-tariff", quota: "global-quota", "production-subsidy": "global-subsidy", "floating-exchange-rate": "global-currency", "currency-demand-supply": "global-currency", "j-curve": "global-j-curve", "poverty-cycle": "global-poverty-cycle" },
- releaseCounts: { "4.1": 6, "4.2": 5, "4.3": 4, "4.4": 5, "4.5": 7, "4.6": 7, "4.7": 3, "4.8": 4, "4.9": 6, "4.10": 9 } });
+ special: { "comparative-advantage": "audit-comparative-ppc", "fixed-exchange-rate": "audit-fixed-rate", "free-trade-imports": "global-imports", "free-trade-exports": "global-exports", tariff: "global-tariff", quota: "global-quota", "production-subsidy": "global-subsidy", "floating-exchange-rate": "global-currency", "currency-demand-supply": "global-currency", "j-curve": "global-j-curve", "poverty-cycle": "global-poverty-cycle" },
+ releaseCounts: { "4.1": 6, "4.2": 5, "4.3": 3, "4.4": 7, "4.5": 8, "4.6": 9, "4.7": 3, "4.8": 5, "4.9": 7, "4.10": 10 } });

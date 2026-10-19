@@ -5,9 +5,9 @@ takeaway: Ceteris paribus, a higher price normally reduces quantity demanded and
 definition: Ceteris paribus, a higher price normally reduces quantity demanded
   and a lower price increases it.
 causalChain:
-  - A price rise increases the opportunity cost of buying
-  - consumers substitute toward relatively cheaper goods
-  - purchasing power falls at a given money income
+  - Own price and quantity demanded move inversely
+  - hold income and other determinants constant
+  - compare quantities on the existing demand curve
 misconceptions:
   - A downward slope is a conditional relationship, not unconditional causation
     inferred from correlation.
@@ -20,11 +20,11 @@ summary:
   - A downward slope is a conditional relationship, not unconditional causation
     inferred from correlation.
 ---
-A price rise increases the opportunity cost of buying.  consumers substitute toward relatively cheaper goods.  purchasing power falls at a given money income.
+Own price and quantity demanded move inversely.  hold income and other determinants constant.  compare quantities on the existing demand curve.
 
 ### Original scenario and reasoning
 
-Illustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference.
+Illustrative example: a bus fare rises and, other things equal, quantity demanded normally falls along the curve. Deriving income and substitution effects is HL detail.
 
 A downward slope is a conditional relationship, not unconditional causation inferred from correlation.
 

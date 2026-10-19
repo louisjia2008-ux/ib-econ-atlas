@@ -22,20 +22,18 @@
     en: Which statement best captures “The free-market economy”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 自由市场要求不存在法律和产权
+      en: Free markets require no law or property rights
     - id: b
       zh-CN: 自由市场经济主要通过私有产权、价格和利润来协调生产与分配，强调分散选择而非中央指令。
       en: A free-market economy coordinates production and distribution mainly through
         private property, prices, and profit rather than central commands.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 生产计划全部由中央行政指定
+      en: All production is set by central orders
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 自由市场自动消除所有市场失灵
+      en: Free markets automatically eliminate all market failure
   correctOptionId: b
   explanation:
     zh-CN: 自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
@@ -51,15 +49,16 @@
     en: Briefly explain “The free-market economy”, including one causal mechanism
       and one important implication.
   modelAnswer:
-    zh-CN: 自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
+    zh-CN: 自由市场经济：自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。
       私人产权赋予使用和收益权；消费者支出表达有效需求；利润与亏损引导企业进入或退出；价格协调资源和产出 私人产权和价格是主要协调机制。
-    en: A free-market economy is a system in which resources are predominantly
-      privately owned and production and consumption are coordinated mainly
-      through competitive markets and the price mechanism, with a comparatively
-      limited state role. Private property grants rights to use assets and
-      receive returns; Consumer spending expresses effective demand; Profit and
-      loss encourage entry or exit; Prices coordinate resources and output
-      Private property and prices are primary coordinating institutions.
+    en: "The free-market economy: A free-market economy is a system in which
+      resources are predominantly privately owned and production and consumption
+      are coordinated mainly through competitive markets and the price
+      mechanism, with a comparatively limited state role. Private property
+      grants rights to use assets and receive returns; Consumer spending
+      expresses effective demand; Profit and loss encourage entry or exit;
+      Prices coordinate resources and output Private property and prices are
+      primary coordinating institutions."
   keywordGroups:
     - id: concept
       label:

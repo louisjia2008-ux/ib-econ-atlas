@@ -33,15 +33,11 @@
       en: Increase its magnitude
   correctOptionId: d
   explanation:
-    zh-CN: 提高绝对值。
-      原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。
-      必需品通常缺乏弹性，但并非需求量完全不变。
-    en: "Increase its magnitude. Illustrative example: one bottled-water brand has
-      many substitutes, whereas drinking water as a whole has fewer. Narrowly
-      defined markets may be more elastic than broad ones. Tax evaluation should
-      distinguish short-run habits from long-run adaptation. Necessities are
-      often inelastic, but their quantity demanded is not necessarily completely
-      fixed."
+    zh-CN: 提高绝对值。 替代品更多或调整时间更长；消费者更容易改变购买方式；需求通常更富有弹性 必需品通常缺乏弹性，但并非需求量完全不变。
+    en: Increase its magnitude. More substitutes or more adjustment time; consumers
+      can change purchases more easily; demand is normally more elastic
+      Necessities are often inelastic, but their quantity demanded is not
+      necessarily completely fixed.
 - id: u2-20-ped-determinants-short-1
   knowledgePointId: u2-20-ped-determinants
   type: short-answer

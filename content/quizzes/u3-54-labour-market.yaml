@@ -34,16 +34,13 @@
       en: Guaranteeing every job exists permanently
   correctOptionId: b
   explanation:
-    zh-CN: 求职与岗位之间的信息和匹配障碍。
-      原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。
+    zh-CN: 求职与岗位之间的信息和匹配障碍。 诊断摩擦性或结构性失业原因；改善匹配技能或地区流动；可持续就业增加并可能降低自然失业率
       培训不直接解决总需求不足造成的所有周期性失业。
-    en: "Information and matching barriers between jobs and applicants. Illustrative
-      example: public vacancy platforms improve information and relocation
-      support aids regional job search, but housing costs and caring duties may
-      still restrict mobility. Weaker protections may lower some hiring costs
-      while increasing insecurity; lower wages alone are not a complete
-      evaluation. Training does not directly solve all cyclical unemployment
-      caused by weak demand."
+    en: Information and matching barriers between jobs and applicants. Diagnose
+      frictional or structural unemployment; improve matching, skills or
+      regional mobility; sustainable employment rises and the natural
+      unemployment rate may fall Training does not directly solve all cyclical
+      unemployment caused by weak demand.
 - id: u3-54-labour-market-short-1
   knowledgePointId: u3-54-labour-market
   type: short-answer

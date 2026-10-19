@@ -33,7 +33,8 @@ synonyms:
     - parity
     - reserves
     - buy home currency
-diagramIds: []
+diagramIds:
+  - audit-fixed-rate
 quizIds:
   - u4-24-fixed-exchange-rate-flash-1
   - u4-24-fixed-exchange-rate-mcq-1

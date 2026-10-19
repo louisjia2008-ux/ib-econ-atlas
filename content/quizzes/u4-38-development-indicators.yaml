@@ -35,13 +35,12 @@
       en: Measuring all pollution
   correctOptionId: b
   explanation:
-    zh-CN: 跨国价格水平差异。 原创假设：A 与 B 汇率换算收入相同，但 A 的基本生活篮子更便宜，PPP 比较可能显示 A 购买力更高；仍需看地区差距。
-      PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。
-    en: "Cross-country price-level differences. Hypothetical scenario: A and B have
-      equal exchange-rate-converted income, but basic goods are cheaper in A.
-      PPP may show greater purchasing power in A; regional inequality still
-      matters. PPP is not a tradable market exchange rate; average income is not
-      necessarily a typical household's income."
+    zh-CN: 跨国价格水平差异。 总收入除以人口；按购买力调整跨国可比性；用其他指标补充平均数局限 PPP
+      不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。
+    en: Cross-country price-level differences. Divide total income by population;
+      adjust purchasing power for cross-country comparison; add indicators to
+      address average-income limits PPP is not a tradable market exchange rate;
+      average income is not necessarily a typical household's income.
 - id: u4-38-development-indicators-short-1
   knowledgePointId: u4-38-development-indicators
   type: short-answer

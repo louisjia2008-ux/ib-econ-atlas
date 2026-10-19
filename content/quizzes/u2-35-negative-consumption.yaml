@@ -34,13 +34,11 @@
       en: Study raises the student's own wages
   correctOptionId: c
   explanation:
-    zh-CN: 邻居被消费噪音打扰。 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则
-      MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。 自身损害与第三方损害必须区分。
-    en: "Neighbours disturbed by consumption noise. Illustrative example: loud
-      night-time music disturbs neighbours. MSB lies below MPB; without
-      production externalities MSC=MPC. Harm to the consumer's own health is not
-      an external cost, although it may involve imperfect information and
-      demerit goods. Distinguish harm to oneself from harm to third parties."
+    zh-CN: 邻居被消费噪音打扰。 消费者获得私人收益；消费对他人造成损害；社会边际收益低于私人收益并导致过度消费 自身损害与第三方损害必须区分。
+    en: Neighbours disturbed by consumption noise. The consumer receives private
+      benefit; consumption harms others; social marginal benefit lies below
+      private benefit and consumption is excessive Distinguish harm to oneself
+      from harm to third parties.
 - id: u2-35-negative-consumption-short-1
   knowledgePointId: u2-35-negative-consumption
   type: short-answer

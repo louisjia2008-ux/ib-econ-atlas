@@ -35,15 +35,11 @@
       en: Adverse selection
   correctOptionId: d
   explanation:
-    zh-CN: 逆向选择。
-      原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。
-      逆向选择发生在交易前，不能与交易后的行为变化混淆。
-    en: "Adverse selection. Illustrative example: used-car buyers cannot identify
-      good cars and offer an average price. Good-car owners exit, worsening
-      remaining quality. Inspection, warranties and credible certification can
-      narrow the information gap, but certifiers must be trustworthy. Adverse
-      selection occurs before exchange, not as a post-contract behavioural
-      change."
+    zh-CN: 逆向选择。 买方难辨质量或风险；统一价格使优质类型退出；平均质量下降并可能使市场萎缩 逆向选择发生在交易前，不能与交易后的行为变化混淆。
+    en: Adverse selection. Buyers cannot distinguish quality or risk; pooled prices
+      drive good types away; average quality falls and the market may shrink
+      Adverse selection occurs before exchange, not as a post-contract
+      behavioural change.
 - id: u2-44-adverse-selection-short-1
   knowledgePointId: u2-44-adverse-selection
   type: short-answer

@@ -1,12 +1,12 @@
 id: u1-30-positive-economics
 slug: positive-economics
-section: "1.4"
+section: "1.2"
 level: core
 syllabusRefs:
-  - 1.4 The methods of economics
+  - 1.2 How do economists approach the world?
 textbookRefs:
   - chapter: "1"
-    section: "1.4"
+    section: "1.2"
     pages:
       - 23
       - 24

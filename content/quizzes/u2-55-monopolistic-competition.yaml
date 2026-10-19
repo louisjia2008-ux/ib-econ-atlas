@@ -33,14 +33,11 @@
       en: Price always equals MC
   correctOptionId: c
   explanation:
-    zh-CN: 正常利润与剩余产能。 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC
-      最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。 正常利润不意味着完全竞争，P 仍可大于 MC。
-    en: "Normal profit and excess capacity. Illustrative example: cafes
-      differentiate through atmosphere and branding. At long-run normal profit,
-      demand is tangent to ATC, normally above its minimum, implying excess
-      capacity. Consumers may value variety, so a cost diagram alone does not
-      capture all welfare. Normal profit does not imply perfect competition; P
-      may still exceed MC."
+    zh-CN: 正常利润与剩余产能。 产品差异使企业需求向下；超额利润吸引相近产品进入；需求减弱直至正常利润 正常利润不意味着完全竞争，P 仍可大于 MC。
+    en: Normal profit and excess capacity. Differentiation gives downward-sloping
+      firm demand; supernormal profit attracts close substitutes; demand weakens
+      until normal profit Normal profit does not imply perfect competition; P
+      may still exceed MC.
 - id: u2-55-monopolistic-competition-short-1
   knowledgePointId: u2-55-monopolistic-competition
   type: short-answer

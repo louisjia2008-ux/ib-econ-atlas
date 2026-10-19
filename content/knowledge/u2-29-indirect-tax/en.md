@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: the pre-tax price is ten; buyers then pay 13
+  and sellers receive nine. The tax is four: buyers bear three and sellers one.
+  At 50 trades, government revenue is 200. These are hypothetical teaching
+  numbers."
 title: Indirect taxes and tax incidence
 takeaway: A specific indirect tax creates a per-unit wedge between the buyer's
   price and the seller's net receipt. Economic incidence depends on relative
@@ -27,7 +31,7 @@ Tax raises the marginal cost of trading.  quantity falls and buyer/seller prices
 
 ### Original scenario and reasoning
 
-Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers.
+Illustrative example: a per-unit tax creates a wedge between buyer payment and seller receipts, normally reducing quantity. The relatively inelastic side normally bears more burden; statutory collection does not determine incidence. Numerical tax and revenue calculations are HL.
 
 Collecting the tax from firms does not mean firms bear the entire economic burden.
 

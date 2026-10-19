@@ -33,14 +33,12 @@
       en: LRAS necessarily shifts right
   correctOptionId: b
   explanation:
-    zh-CN: 价格水平升、实际产出降。 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD
-      不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。 SRAS 左移是成本冲击，不能画成 AD
+    zh-CN: 价格水平升、实际产出降。 投入价格相对固定时产品价格上升；实际生产利润率改善；企业沿 SRAS 增加产出 SRAS 左移是成本冲击，不能画成 AD
       右移。
-    en: "Higher price level, lower real output. Illustrative example: dearer energy
-      shifts SRAS left, raising the price level and reducing real output with
-      unchanged AD. If output and all input prices rise proportionately, the
-      original short-run real-margin incentive cannot simply be assumed. A
-      leftward SRAS shift is a cost shock, not a rightward AD shift."
+    en: Higher price level, lower real output. Output prices rise relative to
+      temporarily fixed input prices; production margins improve; firms expand
+      output along SRAS A leftward SRAS shift is a cost shock, not a rightward
+      AD shift.
 - id: u3-14-sras-short-1
   knowledgePointId: u3-14-sras
   type: short-answer

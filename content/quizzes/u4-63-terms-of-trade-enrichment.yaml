@@ -1,0 +1,96 @@
+- id: u4-63-terms-of-trade-enrichment-flash-1
+  knowledgePointId: u4-63-terms-of-trade-enrichment
+  type: flashcard
+  prompt:
+    zh-CN: 解释“贸易条件指数（扩展）”，并说明一个关键条件。
+    en: Explain Terms-of-trade index (enrichment) and state one important condition.
+  answer:
+    zh-CN: 贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。
+    en: The terms-of-trade index is the export price index divided by the import
+      price index times 100, describing relative export purchasing power. This
+      card is enrichment, not labelled a required calculation in this syllabus.
+  explanation:
+    zh-CN: 不要把贸易条件指数当汇率或出口额除进口额。
+    en: Do not confuse terms of trade with an exchange rate or exports divided by
+      imports.
+- id: u4-63-terms-of-trade-enrichment-mcq-1
+  knowledgePointId: u4-63-terms-of-trade-enrichment
+  type: mcq
+  prompt:
+    zh-CN: 出口价指数 110、进口价指数 100，贸易条件多少？
+    en: Export price index 110 and import price index 100 give what terms of trade?
+  options:
+    - id: a
+      zh-CN: "90.9"
+      en: "90.9"
+    - id: b
+      zh-CN: "10"
+      en: "10"
+    - id: c
+      zh-CN: "110"
+      en: "110"
+    - id: d
+      zh-CN: "210"
+      en: "210"
+  correctOptionId: c
+  explanation:
+    zh-CN: 110。 110 / 100 × 100 = 110 不要把贸易条件指数当汇率或出口额除进口额。
+    en: 110. 110 / 100 × 100 = 110 Do not confuse terms of trade with an exchange
+      rate or exports divided by imports.
+- id: u4-63-terms-of-trade-enrichment-short-1
+  knowledgePointId: u4-63-terms-of-trade-enrichment
+  type: short-answer
+  prompt:
+    zh-CN: 解释贸易条件指数（扩展）的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Terms-of-trade index (enrichment) and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。
+      比较出口与进口价格；计算同基期指数之比；用数量与成本补充解释收入 原创假设：出口价指数 90、进口价指数 120，贸易条件为 75；这不是贸易余额
+      −25，也不单独决定出口总收入。
+    en: "The terms-of-trade index is the export price index divided by the import
+      price index times 100, describing relative export purchasing power. This
+      card is enrichment, not labelled a required calculation in this syllabus.
+      Compare export and import prices; divide indices with the same base; add
+      quantities and costs to explain receipts Hypothetical scenario: export
+      price index ninety and import price index 120 give terms of trade 75. This
+      is not a trade balance of −25 and does not alone determine export
+      receipts."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 出口价格
+        en: export prices
+      alternatives:
+        zh-CN:
+          - 出口价格
+          - 比较出口与进口价格
+        en:
+          - export prices
+          - Compare export and import prices
+    - id: mechanism-2
+      label:
+        zh-CN: 进口价格
+        en: import prices
+      alternatives:
+        zh-CN:
+          - 进口价格
+          - 计算同基期指数之比
+        en:
+          - import prices
+          - divide indices with the same base
+    - id: mechanism-3
+      label:
+        zh-CN: 指数
+        en: index
+      alternatives:
+        zh-CN:
+          - 指数
+          - 用数量与成本补充解释收入
+        en:
+          - index
+          - add quantities and costs to explain receipts
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

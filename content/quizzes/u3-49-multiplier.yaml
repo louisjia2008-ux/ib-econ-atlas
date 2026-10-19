@@ -34,14 +34,9 @@
       en: "0.05"
   correctOptionId: a
   explanation:
-    zh-CN: 20。 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为
-      1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。 不要混用税前与税后收入口径的边际倾向。
-    en: "20. Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of
-      extra government purchases generates 20 of model income. Only without
-      taxes and imports does k simplify to 1/(1−MPC). The model assumes spare
-      capacity and unchanged prices and omits crowding out and policy responses;
-      real outcomes can differ. Do not mix marginal propensities measured
-      against pre-tax and post-tax income."
+    zh-CN: 20。 k = 1 / 0.4 = 2.5; ΔY = 2.5 × 8 = 20 不要混用税前与税后收入口径的边际倾向。
+    en: 20. k = 1 / 0.4 = 2.5; ΔY = 2.5 × 8 = 20 Do not mix marginal propensities
+      measured against pre-tax and post-tax income.
 - id: u3-49-multiplier-short-1
   knowledgePointId: u3-49-multiplier
   type: short-answer
@@ -52,18 +47,21 @@
   modelAnswer:
     zh-CN: 简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。
       自主支出创造首轮收入；部分收入形成下一轮国内支出；储蓄税收进口使后续轮次逐渐缩小
-      原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为
-      1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。
+      原创例：以同一新增总收入为基数，MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增加 20。封闭无政府模型
+      k=1/(1−MPC)。若 c 是可支配收入的消费倾向、t 为总收入比例税率、m 为总收入进口倾向，则
+      k=1/[1−c(1−t)+m]；不能混用基数。模型假定闲置产能、价格不变且忽略挤出与政策反应。
     en: "In a simple open-economy model, with marginal leakages measured against the
       same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times
       the initial autonomous spending change. Autonomous spending creates
       first-round income; part funds further domestic spending; saving, taxes
-      and imports shrink subsequent rounds Illustrative example: MPS=0.2,
-      MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases
-      generates 20 of model income. Only without taxes and imports does k
-      simplify to 1/(1−MPC). The model assumes spare capacity and unchanged
-      prices and omits crowding out and policy responses; real outcomes can
-      differ."
+      and imports shrink subsequent rounds Illustrative example: with all
+      leakages measured against the same extra gross income, MPS=0.2, MPT=0.1
+      and MPM=0.2 give k=2, so ten of extra government purchases yields twenty
+      of model income. In a closed model without government, k=1/(1−MPC). If c
+      is consumption out of disposable income, t a proportional tax on gross
+      income and m imports out of gross income, k=1/[1−c(1−t)+m]. Do not mix
+      bases. Assume spare capacity, fixed prices and no crowding out or policy
+      response."
   keywordGroups:
     - id: mechanism-1
       label:

@@ -17,30 +17,28 @@
   knowledgePointId: u2-29-indirect-tax
   type: mcq
   prompt:
-    zh-CN: 买方支付 14、卖方净收 10，单位税为多少？
-    en: Buyers pay 14 and sellers receive ten. What is the per-unit tax?
+    zh-CN: 在通常的竞争模型中，哪方承担较大单位税负？
+    en: In the usual competitive model, which side bears more of a unit tax?
   options:
     - id: a
-      zh-CN: "4"
-      en: "4"
+      zh-CN: 相对缺乏弹性的一方
+      en: The relatively inelastic side
     - id: b
-      zh-CN: "10"
-      en: "10"
+      zh-CN: 法定缴税方必承担全部
+      en: The statutory payer always bears all of it
     - id: c
-      zh-CN: "14"
-      en: "14"
+      zh-CN: 相对有弹性的一方必承担全部
+      en: The more elastic side always bears all of it
     - id: d
-      zh-CN: "24"
-      en: "24"
+      zh-CN: 双方始终各半
+      en: The split is always equal
   correctOptionId: a
   explanation:
-    zh-CN: 4。 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为
-      200；这些数字是教学假设。 向企业征税并不意味着企业承担全部经济负担。
-    en: "4. Illustrative example: the pre-tax price is ten; buyers then pay 13 and
-      sellers receive nine. The tax is four: buyers bear three and sellers one.
-      At 50 trades, government revenue is 200. These are hypothetical teaching
-      numbers. Collecting the tax from firms does not mean firms bear the entire
-      economic burden."
+    zh-CN: 相对缺乏弹性的一方。 税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 向企业征税并不意味着企业承担全部经济负担。
+    en: The relatively inelastic side. Tax raises the marginal cost of trading;
+      quantity falls and buyer/seller prices diverge; the relatively inelastic
+      side usually bears more burden Collecting the tax from firms does not mean
+      firms bear the entire economic burden.
 - id: u2-29-indirect-tax-short-1
   knowledgePointId: u2-29-indirect-tax
   type: short-answer
@@ -50,16 +48,18 @@
       example of your own.
   modelAnswer:
     zh-CN: 单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。
-      税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为
-      4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。
+      税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担
+      原创例：单位税使买方支付与卖方净收之间出现楔子，通常减少交易量。相对缺乏弹性的一方通常承担较大税负；法定向谁征税不决定最终负担。税额与收入计算属于
+      HL。
     en: "A specific indirect tax creates a per-unit wedge between the buyer's price
       and the seller's net receipt. Economic incidence depends on relative
       elasticities, not just on who legally remits the tax. Tax raises the
       marginal cost of trading; quantity falls and buyer/seller prices diverge;
       the relatively inelastic side usually bears more burden Illustrative
-      example: the pre-tax price is ten; buyers then pay 13 and sellers receive
-      nine. The tax is four: buyers bear three and sellers one. At 50 trades,
-      government revenue is 200. These are hypothetical teaching numbers."
+      example: a per-unit tax creates a wedge between buyer payment and seller
+      receipts, normally reducing quantity. The relatively inelastic side
+      normally bears more burden; statutory collection does not determine
+      incidence. Numerical tax and revenue calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -98,3 +98,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u2-29-indirect-tax-mcq-hl-1
+  knowledgePointId: u2-29-indirect-tax
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 买方支付 14、卖方净收 10，单位税为多少？
+    en: Buyers pay 14 and sellers receive ten. What is the per-unit tax?
+  options:
+    - id: a
+      zh-CN: "10"
+      en: "10"
+    - id: b
+      zh-CN: "4"
+      en: "4"
+    - id: c
+      zh-CN: "14"
+      en: "14"
+    - id: d
+      zh-CN: "24"
+      en: "24"
+  correctOptionId: b
+  explanation:
+    zh-CN: 4。 14 − 10 = 4
+    en: 4. 14 − 10 = 4

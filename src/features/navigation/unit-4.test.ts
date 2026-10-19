@@ -6,12 +6,12 @@ import { createReviewQueue } from "../review/session";
 
 const points = knowledgePoints.filter((point) => point.meta.id.startsWith("u4-"));
 describe("Unit 4 content and cross-unit contracts", () => {
-  it("provides 56 points and three bilingual practice modes with valid model answers", () => {
-    expect(points).toHaveLength(56);
-    expect(points.filter((point) => point.meta.level === "core")).toHaveLength(45);
-    expect(points.filter((point) => point.meta.level === "hl")).toHaveLength(11);
+  it("provides 63 points and three bilingual practice modes with valid model answers", () => {
+    expect(points).toHaveLength(63);
+    expect(points.filter((point) => point.meta.level === "core")).toHaveLength(49);
+    expect(points.filter((point) => point.meta.level === "hl")).toHaveLength(13);
     for (const point of points) {
-      expect(point.practice.map((item) => item.type).sort()).toEqual(["flashcard", "mcq", "short-answer"]);
+      expect([...new Set(point.practice.map((item) => item.type))].sort()).toEqual(["flashcard", "mcq", "short-answer"]);
       const short = point.practice.find((item) => item.type === "short-answer");
       if (!short || short.type !== "short-answer") throw new Error("Missing short answer");
       const mcq = point.practice.find((item) => item.type === "mcq");

@@ -34,12 +34,9 @@
       en: "12"
   correctOptionId: d
   explanation:
-    zh-CN: 12。 原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2
-      个，市场需求量为 3 个。价格不能相加。 市场需求不是各人的平均需求，也不是竖直相加价格。
-    en: "12. Illustrative example: at a price of 5, A buys three units and B buys
-      seven, so market quantity demanded is ten. At a price of 8 they may buy
-      one and two, yielding three. Add quantities, never prices. Market demand
-      is neither average individual demand nor a vertical sum of prices."
+    zh-CN: 12。 2 + 4 + 6 = 12 市场需求不是各人的平均需求，也不是竖直相加价格。
+    en: 12. 2 + 4 + 6 = 12 Market demand is neither average individual demand nor a
+      vertical sum of prices.
 - id: u2-04-market-demand-short-1
   knowledgePointId: u2-04-market-demand
   type: short-answer

@@ -33,15 +33,11 @@
       en: Effective competition or appropriate regulation
   correctOptionId: d
   explanation:
-    zh-CN: 有效竞争或合适监管。
-      原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。
-      放松管制不应被理解为移除一切安全和环境规则。
-    en: "Effective competition or appropriate regulation. Illustrative example:
-      removing unnecessary entry barriers may strengthen competition, but
-      selling a public monopoly as a private monopoly does not guarantee
-      efficiency or affordability. Tax cuts that fail to induce investment may
-      lose revenue without delivering expected capacity. Deregulation need not
-      mean removing all safety and environmental rules."
+    zh-CN: 有效竞争或合适监管。 改变竞争或激励约束；企业改善效率投资与创新；生产能力可能提高使长期总供给右移 放松管制不应被理解为移除一切安全和环境规则。
+    en: Effective competition or appropriate regulation. Change competitive or
+      incentive constraints; firms improve efficiency, investment and
+      innovation; productive capacity may rise and LRAS shift right Deregulation
+      need not mean removing all safety and environmental rules.
 - id: u3-52-market-based-supply-short-1
   knowledgePointId: u3-52-market-based-supply
   type: short-answer

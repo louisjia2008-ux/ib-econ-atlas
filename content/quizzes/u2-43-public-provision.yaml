@@ -35,15 +35,11 @@
       en: No opportunity cost
   correctOptionId: c
   explanation:
-    zh-CN: 公共融资与私人生产并存。
-      原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。
-      市场提供不足支持干预理由，但不证明任意政府项目都值得实施。
-    en: "Public financing with private production. Illustrative example: a city pays
-      for street lighting from taxes while a private contractor installs it.
-      Public financing can coexist with private production. Evaluate residents'
-      benefits, opportunity cost, competitive tendering and maintenance
-      accountability. Underprovision supports a case for intervention but does
-      not prove every government project is worthwhile."
+    zh-CN: 公共融资与私人生产并存。 强制融资减少搭便车；选择供给数量与生产方式；监督成本、质量和分配 市场提供不足支持干预理由，但不证明任意政府项目都值得实施。
+    en: Public financing with private production. Compulsory financing reduces free
+      riding; choose quantity and production method; monitor cost, quality and
+      distribution Underprovision supports a case for intervention but does not
+      prove every government project is worthwhile.
 - id: u2-43-public-provision-short-1
   knowledgePointId: u2-43-public-provision
   type: short-answer

@@ -1,12 +1,12 @@
 id: u1-24-economic-models
 slug: economic-models
-section: "1.3"
+section: "1.2"
 level: core
 syllabusRefs:
-  - 1.3 Economic models and the PPC
+  - 1.2 How do economists approach the world?
 textbookRefs:
   - chapter: "1"
-    section: "1.3"
+    section: "1.2"
     pages:
       - 15
 prerequisites:

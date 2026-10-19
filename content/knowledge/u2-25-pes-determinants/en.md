@@ -1,4 +1,7 @@
 ---
+hlExtension: "HL detail: long biological cycles, weather and land constraints
+  often make primary-product PES lower in the short run than manufactured goods
+  with spare capacity. Storage and actual capacity can change the comparison."
 title: PES, capacity and time
 takeaway: Spare capacity, inventories, factor mobility, production periods and
   adjustment time determine how readily supply responds to price.

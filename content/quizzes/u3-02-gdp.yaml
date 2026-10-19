@@ -34,13 +34,9 @@
       en: "2400"
   correctOptionId: b
   explanation:
-    zh-CN: 80。 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的
-      115。购买旧房本身不是当期新产出，但当期中介服务可计入。 GDP 的境内标准与企业所有者国籍不同。
-    en: "80. Illustrative example: grain sells for 20, flour for 35 and final bread
-      for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an
-      existing house is not new current output, although current brokerage
-      services can count. GDP follows domestic production, not the nationality
-      of a firm's owners."
+    zh-CN: 80。 80 (30 is intermediate output) GDP 的境内标准与企业所有者国籍不同。
+    en: 80. 80 (30 is intermediate output) GDP follows domestic production, not the
+      nationality of a firm's owners.
 - id: u3-02-gdp-short-1
   knowledgePointId: u3-02-gdp
   type: short-answer

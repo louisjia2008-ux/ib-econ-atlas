@@ -17,30 +17,30 @@
   knowledgePointId: u2-30-subsidy
   type: mcq
   prompt:
-    zh-CN: 单位补贴 5，补贴数量 40，政府支出为多少？
-    en: A subsidy is five per unit on 40 units. What is government spending?
+    zh-CN: 补贴的财政成本为何重要？
+    en: Why does a subsidy’s fiscal cost matter?
   options:
     - id: a
-      zh-CN: "8"
-      en: "8"
+      zh-CN: 政府资金没有资源成本
+      en: Government funds have no resource cost
     - id: b
-      zh-CN: "200"
-      en: "200"
+      zh-CN: 资金具有其他用途的机会成本
+      en: Funds have an opportunity cost in alternative uses
     - id: c
-      zh-CN: "40"
-      en: "40"
+      zh-CN: 补贴必使所有外部性消失
+      en: Subsidies remove every externality
     - id: d
-      zh-CN: "45"
-      en: "45"
+      zh-CN: 产量越高必定越有效率
+      en: More output always means more efficiency
   correctOptionId: b
   explanation:
-    zh-CN: 200。 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费
-      180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。 补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。
-    en: "200. Illustrative example: buyers pay eight and sellers receive eleven,
-      giving a subsidy of three. At 60 subsidised units, spending is 180.
-      Subsidising a polluting good may expand external costs, so evaluate the
-      objective rather than output growth alone. Use the subsidised equilibrium
-      quantity in the spending calculation, not the pre-policy quantity."
+    zh-CN: 资金具有其他用途的机会成本。 补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配
+      补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。
+    en: Funds have an opportunity cost in alternative uses. A subsidy lowers
+      producers' net marginal cost; supply shifts right and quantity rises;
+      spending and gains are distributed between buyers and sellers Use the
+      subsidised equilibrium quantity in the spending calculation, not the
+      pre-policy quantity.
 - id: u2-30-subsidy-short-1
   knowledgePointId: u2-30-subsidy
   type: short-answer
@@ -50,17 +50,17 @@
       example of your own.
   modelAnswer:
     zh-CN: 单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。
-      补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60
-      时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。
+      补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配
+      原创例：单位补贴使生产者净收高于消费者支付，通常增加数量并产生财政支出；应比较消费者与生产者收益、融资机会成本及外部性。财政支出数值计算属于 HL。
     en: "A per-unit subsidy makes the seller's receipt exceed the buyer's payment
       and encourages production and consumption. Government spending is the
       subsidy per unit times subsidised quantity. A subsidy lowers producers'
       net marginal cost; supply shifts right and quantity rises; spending and
-      gains are distributed between buyers and sellers Illustrative example:
-      buyers pay eight and sellers receive eleven, giving a subsidy of three. At
-      60 subsidised units, spending is 180. Subsidising a polluting good may
-      expand external costs, so evaluate the objective rather than output growth
-      alone."
+      gains are distributed between buyers and sellers Illustrative example: a
+      subsidy raises producer receipts above consumer payment, normally
+      increasing quantity with a fiscal cost. Compare consumer and producer
+      gains, financing opportunity cost and externalities. Numerical fiscal
+      calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -99,3 +99,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u2-30-subsidy-mcq-hl-1
+  knowledgePointId: u2-30-subsidy
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 单位补贴 5，补贴数量 40，政府支出为多少？
+    en: A subsidy is five per unit on 40 units. What is government spending?
+  options:
+    - id: a
+      zh-CN: "8"
+      en: "8"
+    - id: b
+      zh-CN: "40"
+      en: "40"
+    - id: c
+      zh-CN: "200"
+      en: "200"
+    - id: d
+      zh-CN: "45"
+      en: "45"
+  correctOptionId: c
+  explanation:
+    zh-CN: 200。 5 × 40 = 200
+    en: 200. 5 × 40 = 200

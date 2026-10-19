@@ -33,14 +33,11 @@
       en: No storage and full capacity
   correctOptionId: a
   explanation:
-    zh-CN: 更多闲置产能。
-      原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。
-      时间更长通常提高 PES，但不是无条件保证。
-    en: "More spare capacity. Illustrative example: a printer with idle machines can
-      respond quickly to higher prices, while an orchard needs years to grow
-      mature trees. Long-run input flexibility normally raises elasticity, but
-      land and ecological limits may persist. More time normally increases PES
-      but does not guarantee it under every constraint."
+    zh-CN: 更多闲置产能。 可动用库存或闲置机器；生产可迅速扩张；供给反应较大且 PES 通常较高 时间更长通常提高 PES，但不是无条件保证。
+    en: More spare capacity. Inventories or idle machines are available; production
+      expands quickly; quantity response is larger and PES is normally higher
+      More time normally increases PES but does not guarantee it under every
+      constraint.
 - id: u2-25-pes-determinants-short-1
   knowledgePointId: u2-25-pes-determinants
   type: short-answer

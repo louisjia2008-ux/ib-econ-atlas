@@ -34,14 +34,9 @@
       en: "1.5"
   correctOptionId: d
   explanation:
-    zh-CN: 1.5。 原创例：价格上涨 10%，供给量增加
-      5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。 PES
-      衡量供给量反应，不衡量需求变化或供给移动。
-    en: "1.5. Illustrative example: price rises 10% and quantity supplied rises 5%,
-      so PES=0.5: inelastic. Completely fixed immediate output gives a vertical
-      supply curve, but not all short-run supply is perfectly inelastic. PES
-      measures quantity supplied response, not a demand change or a supply
-      shift."
+    zh-CN: 1.5。 PES = 12% / 8% = 1.5 PES 衡量供给量反应，不衡量需求变化或供给移动。
+    en: 1.5. PES = 12% / 8% = 1.5 PES measures quantity supplied response, not a
+      demand change or a supply shift.
 - id: u2-24-pes-short-1
   knowledgePointId: u2-24-pes
   type: short-answer

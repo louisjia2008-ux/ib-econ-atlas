@@ -30,7 +30,7 @@ Income changes with product price held constant.  consumers reallocate budgets. 
 
 ### Original scenario and reasoning
 
-Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality.
+Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality. An Engel curve plots income horizontally and quantity demanded vertically: it slopes up for normal goods and down over the relevant range for inferior goods. Its slope is not itself YED.
 
 Retain the sign when classifying YED; do not discard it as with PED magnitude classifications.
 

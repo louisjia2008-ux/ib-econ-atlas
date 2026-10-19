@@ -36,14 +36,10 @@
       en: Cut price
   correctOptionId: d
   explanation:
-    zh-CN: 降价。 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为
-      4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。 串谋的共同收益不保证协议稳定，也不代表消费者受益。
-    en: "Cut price. Illustrative example: two airlines each earn eight at high
-      prices. One cutting price alone earns 12 while the other earns two; both
-      cutting earns four each. Cutting is each firm's dominant strategy, giving
-      (4,4) despite higher joint gains at (8,8). The payoffs are original
-      teaching assumptions. Joint gains do not ensure collusion is stable or
-      beneficial to consumers."
+    zh-CN: 降价。 少数企业反复互动；价格或数量选择影响竞争者；预期反应决定合作或竞争策略 串谋的共同收益不保证协议稳定，也不代表消费者受益。
+    en: Cut price. A few firms interact repeatedly; price or quantity choices affect
+      rivals; anticipated responses shape cooperation and competition Joint
+      gains do not ensure collusion is stable or beneficial to consumers.
 - id: u2-56-oligopoly-short-1
   knowledgePointId: u2-56-oligopoly
   type: short-answer

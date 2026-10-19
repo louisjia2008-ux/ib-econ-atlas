@@ -34,13 +34,9 @@
       en: "360"
   correctOptionId: c
   explanation:
-    zh-CN: 330。 原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资
-      I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。
-    en: "330. Illustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670.
-      Buying shares transfers ownership rather than counting as I. Benefits may
-      enter consumption when spent on new output. Imports are deducted to
-      exclude foreign production. Imports are deducted because GDP measures
-      domestic output, not because imports are inherently harmful."
+    zh-CN: 330。 GDP = 200 + 50 + 70 + 40 − 30 = 330 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。
+    en: 330. GDP = 200 + 50 + 70 + 40 − 30 = 330 Imports are deducted because GDP
+      measures domestic output, not because imports are inherently harmful.
 - id: u3-03-expenditure-short-1
   knowledgePointId: u3-03-expenditure
   type: short-answer

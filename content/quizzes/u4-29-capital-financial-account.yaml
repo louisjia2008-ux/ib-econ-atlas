@@ -34,13 +34,11 @@
       en: Domestic consumption CPI
   correctOptionId: a
   explanation:
-    zh-CN: 金融账户。 原创假设：外国企业建厂属直接投资，居民买外国债券属证券投资；贷款本金偿还是金融交易，利息是初次收入。
-      日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。
-    en: "The financial account. Hypothetical scenario: a foreign firm building a
-      factory is direct investment and residents buying foreign bonds is
-      portfolio investment. Loan principal repayment is financial, while
-      interest is primary income. Most everyday capital inflows belong to the
-      financial account; the capital account is not a catch-all for investment."
+    zh-CN: 金融账户。 跨境融资改变资产负债；按投资性质分类；与经常项目形成对应记录 日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。
+    en: The financial account. Cross-border finance changes assets and liabilities;
+      classify the type of investment; record counterparts to current
+      transactions Most everyday capital inflows belong to the financial
+      account; the capital account is not a catch-all for investment.
 - id: u4-29-capital-financial-account-short-1
   knowledgePointId: u4-29-capital-financial-account
   type: short-answer

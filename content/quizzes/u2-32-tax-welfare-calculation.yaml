@@ -36,13 +36,9 @@
       en: "30"
   correctOptionId: d
   explanation:
-    zh-CN: 30。 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为
-      4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。 三角形公式需要线性曲线等假设，且政府收入并非全部损失。
-    en: "30. Illustrative example: tax is four and output falls from 100 to 80. With
-      linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects
-      pollution, this no-externality formula cannot directly establish its net
-      welfare effect. The triangle formula needs assumptions such as linear
-      curves; government revenue is not entirely lost welfare."
+    zh-CN: 30。 DWL = ½ × 6 × 10 = 30 三角形公式需要线性曲线等假设，且政府收入并非全部损失。
+    en: 30. DWL = ½ × 6 × 10 = 30 The triangle formula needs assumptions such as
+      linear curves; government revenue is not entirely lost welfare.
 - id: u2-32-tax-welfare-calculation-short-1
   knowledgePointId: u2-32-tax-welfare-calculation
   type: short-answer

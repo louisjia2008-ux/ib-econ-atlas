@@ -27,7 +27,7 @@ Specify the wellbeing dimensions.  select comparable data and weights.  interpre
 
 ### Original scenario and reasoning
 
-Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps.
+Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps. The OECD Better Life Index compares multiple dimensions such as housing, income and jobs; happiness reports emphasise subjective life evaluation, while the Happy Planet Index relates well-being and longevity to environmental pressure. None is interchangeable with HDI.
 
 Different indicators target different outcomes; no composite is completely objective or exhaustive.
 

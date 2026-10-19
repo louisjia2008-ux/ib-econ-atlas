@@ -256,6 +256,7 @@ function App() {
             <SettingsView locale={locale} />
           ) : (
             <KnowledgeArticle
+              showHl={level !== "sl"}
               point={currentPoint}
               locale={locale}
               labels={labels}
@@ -266,7 +267,7 @@ function App() {
         </main>
 
         {showContext && (
-          <ContextRail point={currentPoint} points={knowledgePoints} progress={progressRecords.find((record) => record.knowledgePointId === currentPoint.meta.id)} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
+          <ContextRail practiceCount={currentPoint.practice.filter(item => levelMatches(item.level ?? currentPoint.meta.level, level)).length} point={currentPoint} points={knowledgePoints} progress={progressRecords.find((record) => record.knowledgePointId === currentPoint.meta.id)} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
         )}
       </div>
 

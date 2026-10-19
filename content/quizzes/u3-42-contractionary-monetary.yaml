@@ -34,15 +34,13 @@
       en: Necessarily raises every firm's profit
   correctOptionId: b
   explanation:
-    zh-CN: 不能直接修复供给且可能压低产出。
-      原创例：为缓和过热需求而加息后，住宅投资放缓。若通胀来自能源供给中断，加息不能直接恢复能源供给，降低通胀可能需要更大的产出代价。固定利率合同也会延迟影响。
+    zh-CN: 不能直接修复供给且可能压低产出。 提高政策利率；消费投资增速减弱使总需求相对降低；通胀压力下降但周期性失业可能增加
       抑制通胀通常指降低涨价速度，不等于物价水平下降。
-    en: "It cannot directly repair supply and may reduce output. Illustrative
-      example: higher rates intended to cool excessive demand slow housing
-      investment. If inflation reflects an energy supply disruption, tightening
-      cannot directly restore energy supply and may entail a larger output cost.
-      Fixed-rate contracts can delay the effect. Reducing inflation usually
-      means slower price increases, not a falling price level."
+    en: It cannot directly repair supply and may reduce output. Raise policy
+      interest rates; consumption and investment weaken and aggregate demand is
+      lower than otherwise; inflation pressure falls but cyclical unemployment
+      may rise Reducing inflation usually means slower price increases, not a
+      falling price level.
 - id: u3-42-contractionary-monetary-short-1
   knowledgePointId: u3-42-contractionary-monetary
   type: short-answer

@@ -35,13 +35,11 @@
       en: Assume more spending is always better
   correctOptionId: a
   explanation:
-    zh-CN: 有基线的多维结果指标。 原创假设：清洁公交可减少污染并改善就业可达性，但票价上涨可能排斥低收入者；比较定向补助与财政成本。
-      宣布目标不等于观察到进展；要注明指标、年份和群体。
-    en: "Multidimensional outcomes with a baseline. Hypothetical scenario: clean
-      buses reduce pollution and improve job access, but higher fares may
-      exclude low-income riders. Compare targeted support with fiscal costs.
-      Announcing a goal is not observing progress; specify indicators, years and
-      groups."
+    zh-CN: 有基线的多维结果指标。 确定具体目标与基线；识别协同及机会成本；用分组指标追踪结果 宣布目标不等于观察到进展；要注明指标、年份和群体。
+    en: Multidimensional outcomes with a baseline. Set specific goals and baselines;
+      identify synergies and opportunity costs; track outcomes with
+      disaggregated indicators Announcing a goal is not observing progress;
+      specify indicators, years and groups.
 - id: u4-37-sdg-policy-short-1
   knowledgePointId: u4-37-sdg-policy
   type: short-answer

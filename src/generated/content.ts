@@ -186,7 +186,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-16-basic-economic-questions",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "三个基本经济问题",
@@ -198,7 +198,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-17-resource-allocation",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "资源配置与重新配置",
@@ -211,7 +211,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-18-income-distribution",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "收入与产出分配",
@@ -224,7 +224,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-19-market-mechanism",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "市场机制",
@@ -236,7 +236,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-20-government-intervention",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "政府干预",
@@ -248,7 +248,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-21-free-market-economy",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "自由市场经济",
@@ -260,7 +260,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-22-planned-economy",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "计划经济",
@@ -272,7 +272,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-23-mixed-economy",
-    "section": "1.2",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "混合经济",
@@ -284,7 +284,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-24-economic-models",
-    "section": "1.3",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "经济模型的作用与局限",
@@ -296,7 +296,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-25-ppc-construction",
-    "section": "1.3",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "生产可能性曲线的构造",
@@ -309,7 +309,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-26-ppc-scarcity-choice-cost",
-    "section": "1.3",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "PPC中的稀缺、选择与机会成本",
@@ -322,7 +322,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-27-ppc-unemployment-efficiency",
-    "section": "1.3",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "PPC中的失业与生产效率",
@@ -335,7 +335,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-28-ppc-growth",
-    "section": "1.3",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "实际增长与生产潜力增长",
@@ -348,7 +348,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-29-ppc-opportunity-cost-shapes",
-    "section": "1.3",
+    "section": "1.1",
     "level": "core",
     "title": {
       "zh-CN": "递增与不变机会成本",
@@ -361,7 +361,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-30-positive-economics",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "实证经济学",
@@ -374,7 +374,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-31-normative-economics",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "规范经济学与价值判断",
@@ -387,7 +387,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-32-logic-hypotheses-theories",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "逻辑、假设、理论与模型",
@@ -400,7 +400,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-33-ceteris-paribus",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "其他条件不变",
@@ -412,7 +412,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-34-evidence-refutation",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "经验证据与证伪",
@@ -425,7 +425,7 @@ export const manifestEntries = [
   },
   {
     "id": "u1-35-equality-equity",
-    "section": "1.4",
+    "section": "1.2",
     "level": "core",
     "title": {
       "zh-CN": "平等与公平",
@@ -437,8 +437,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-36-adam-smith",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "亚当·斯密与自由放任",
       "en": "Adam Smith and laissez-faire"
@@ -450,8 +450,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-37-utility-marginalism",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "效用理论与边际主义",
       "en": "Utility theory and marginalism"
@@ -463,8 +463,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-38-says-law",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "萨伊定律",
       "en": "Say's Law"
@@ -475,8 +475,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-39-marxist-critique",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "马克思主义批判",
       "en": "The Marxist critique"
@@ -487,8 +487,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-40-keynesian-revolution",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "凯恩斯革命与宏观政策",
       "en": "The Keynesian revolution and macroeconomic policy"
@@ -500,8 +500,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-41-monetarist-new-classical",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "货币主义与新古典反革命",
       "en": "The monetarist and new classical counter-revolution"
@@ -513,8 +513,8 @@ export const manifestEntries = [
   },
   {
     "id": "u1-42-behavioural-economics",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "行为经济学",
       "en": "Behavioural economics"
@@ -525,14 +525,26 @@ export const manifestEntries = [
   },
   {
     "id": "u1-43-circular-economy",
-    "section": "1.5",
-    "level": "extension",
+    "section": "1.2",
+    "level": "core",
     "title": {
       "zh-CN": "相互依存与循环经济",
       "en": "Interdependence and the circular economy"
     },
     "pages": [
       41
+    ]
+  },
+  {
+    "id": "u1-44-circular-flow",
+    "section": "1.1",
+    "level": "core",
+    "title": {
+      "zh-CN": "收入循环、漏出与注入",
+      "en": "Circular flow, leakages and injections"
+    },
+    "pages": [
+      15
     ]
   },
   {
@@ -838,7 +850,7 @@ export const manifestEntries = [
   {
     "id": "u2-26-pes-application",
     "section": "2.6",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "PES 的计算与政策含义",
       "en": "PES calculations and policy implications"
@@ -1306,7 +1318,7 @@ export const manifestEntries = [
   {
     "id": "u3-05-deflator",
     "section": "3.1",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "GDP 平减指数与核算计算",
       "en": "GDP deflator and national-account calculations"
@@ -1666,10 +1678,10 @@ export const manifestEntries = [
   {
     "id": "u3-35-lorenz-gini",
     "section": "3.4",
-    "level": "hl",
+    "level": "core",
     "title": {
-      "zh-CN": "洛伦兹曲线与基尼计算",
-      "en": "Lorenz curves and Gini calculations"
+      "zh-CN": "洛伦兹曲线与 Gini 系数",
+      "en": "Lorenz curves and the Gini coefficient"
     },
     "pages": [
       353
@@ -1762,7 +1774,7 @@ export const manifestEntries = [
   {
     "id": "u3-43-unconventional-policy",
     "section": "3.5",
-    "level": "core",
+    "level": "hl",
     "title": {
       "zh-CN": "非常规货币政策",
       "en": "Unconventional monetary policy"
@@ -1822,7 +1834,7 @@ export const manifestEntries = [
   {
     "id": "u3-48-automatic-stabilisers",
     "section": "3.6",
-    "level": "core",
+    "level": "hl",
     "title": {
       "zh-CN": "自动稳定器",
       "en": "Automatic stabilisers"
@@ -1846,7 +1858,7 @@ export const manifestEntries = [
   {
     "id": "u3-50-crowding-out",
     "section": "3.6",
-    "level": "core",
+    "level": "hl",
     "title": {
       "zh-CN": "挤出效应",
       "en": "Crowding out"
@@ -1925,6 +1937,54 @@ export const manifestEntries = [
     },
     "pages": [
       424
+    ]
+  },
+  {
+    "id": "u3-57-bank-money-creation",
+    "section": "3.5",
+    "level": "hl",
+    "title": {
+      "zh-CN": "商业银行的货币创造",
+      "en": "Money creation by commercial banks"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-58-monetary-tools",
+    "section": "3.5",
+    "level": "hl",
+    "title": {
+      "zh-CN": "货币政策工具",
+      "en": "Monetary policy instruments"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-59-money-market",
+    "section": "3.5",
+    "level": "hl",
+    "title": {
+      "zh-CN": "货币市场与均衡利率",
+      "en": "The money market and equilibrium interest"
+    },
+    "pages": [
+      387
+    ]
+  },
+  {
+    "id": "u3-60-inflation-costs",
+    "section": "3.3",
+    "level": "core",
+    "title": {
+      "zh-CN": "通胀成本与失业的比较",
+      "en": "Inflation costs and comparison with unemployment"
+    },
+    "pages": [
+      308
     ]
   },
   {
@@ -2038,7 +2098,7 @@ export const manifestEntries = [
   {
     "id": "u4-10-export-subsidy",
     "section": "4.2",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "出口补贴",
       "en": "Export subsidies"
@@ -2097,7 +2157,7 @@ export const manifestEntries = [
   },
   {
     "id": "u4-15-wto",
-    "section": "4.3",
+    "section": "4.4",
     "level": "core",
     "title": {
       "zh-CN": "世界贸易组织与合作",
@@ -2148,8 +2208,8 @@ export const manifestEntries = [
     "section": "4.4",
     "level": "core",
     "title": {
-      "zh-CN": "货币联盟的收益与代价",
-      "en": "Benefits and costs of monetary union"
+      "zh-CN": "货币联盟的含义",
+      "en": "The meaning of monetary union"
     },
     "pages": [
       482
@@ -2158,7 +2218,7 @@ export const manifestEntries = [
   {
     "id": "u4-20-integration-evaluation",
     "section": "4.4",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "一体化的动态评价",
       "en": "Dynamic evaluation of integration"
@@ -2220,8 +2280,8 @@ export const manifestEntries = [
     "section": "4.5",
     "level": "core",
     "title": {
-      "zh-CN": "管理浮动与制度比较",
-      "en": "Managed floating and regime comparison"
+      "zh-CN": "管理浮动与干预",
+      "en": "Managed exchange rates and intervention"
     },
     "pages": [
       504
@@ -2230,7 +2290,7 @@ export const manifestEntries = [
   {
     "id": "u4-26-exchange-calculations",
     "section": "4.5",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "汇率换算与百分比",
       "en": "Currency conversion and percentage changes"
@@ -2278,7 +2338,7 @@ export const manifestEntries = [
   {
     "id": "u4-30-bop-identity",
     "section": "4.6",
-    "level": "hl",
+    "level": "core",
     "title": {
       "zh-CN": "国际收支恒等式与符号",
       "en": "Balance-of-payments identity and signs"
@@ -2290,7 +2350,7 @@ export const manifestEntries = [
   {
     "id": "u4-31-current-account-imbalances",
     "section": "4.6",
-    "level": "core",
+    "level": "hl",
     "title": {
       "zh-CN": "经常账户失衡的原因与可持续性",
       "en": "Causes and sustainability of current-account imbalances"
@@ -2350,7 +2410,7 @@ export const manifestEntries = [
   {
     "id": "u4-36-environment-poverty",
     "section": "4.7",
-    "level": "core",
+    "level": "hl",
     "title": {
       "zh-CN": "贫困、环境与共同资源",
       "en": "Poverty, environment and common resources"
@@ -2448,8 +2508,8 @@ export const manifestEntries = [
     "section": "4.9",
     "level": "core",
     "title": {
-      "zh-CN": "初级产品依赖与贸易条件",
-      "en": "Primary-product dependence and terms of trade"
+      "zh-CN": "初级产品依赖与收入波动",
+      "en": "Primary-product dependence and revenue volatility"
     },
     "pages": [
       566
@@ -2597,6 +2657,90 @@ export const manifestEntries = [
     },
     "pages": [
       633
+    ]
+  },
+  {
+    "id": "u4-57-monetary-union-evaluation",
+    "section": "4.4",
+    "level": "hl",
+    "title": {
+      "zh-CN": "货币联盟的评价",
+      "en": "Evaluating monetary union"
+    },
+    "pages": [
+      482
+    ]
+  },
+  {
+    "id": "u4-58-exchange-regime-evaluation",
+    "section": "4.5",
+    "level": "hl",
+    "title": {
+      "zh-CN": "固定与浮动汇率的评价",
+      "en": "Evaluating fixed and floating exchange rates"
+    },
+    "pages": [
+      523
+    ]
+  },
+  {
+    "id": "u4-59-development-composite-indices",
+    "section": "4.8",
+    "level": "core",
+    "title": {
+      "zh-CN": "GII、IHDI 与快乐星球指数",
+      "en": "GII, IHDI and the Happy Planet Index"
+    },
+    "pages": [
+      541
+    ]
+  },
+  {
+    "id": "u4-60-sdg-country-comparison",
+    "section": "4.10",
+    "level": "core",
+    "title": {
+      "zh-CN": "用两国数据评价健康发展",
+      "en": "Evaluating health development using two countries"
+    },
+    "pages": [
+      636
+    ]
+  },
+  {
+    "id": "u4-61-current-account-surplus",
+    "section": "4.6",
+    "level": "hl",
+    "title": {
+      "zh-CN": "持续经常账户顺差的影响",
+      "en": "Implications of persistent current-account surpluses"
+    },
+    "pages": [
+      530
+    ]
+  },
+  {
+    "id": "u4-62-external-accounts-exchange-rate",
+    "section": "4.6",
+    "level": "hl",
+    "title": {
+      "zh-CN": "外部账户与汇率的联系",
+      "en": "External accounts and exchange rates"
+    },
+    "pages": [
+      520
+    ]
+  },
+  {
+    "id": "u4-63-terms-of-trade-enrichment",
+    "section": "4.9",
+    "level": "extension",
+    "title": {
+      "zh-CN": "贸易条件指数（扩展）",
+      "en": "Terms-of-trade index (enrichment)"
+    },
+    "pages": [
+      566
     ]
   }
 ] as ManifestEntry[];
@@ -2746,8 +2890,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "只研究货币且排除人的选择",
+            "en": "It studies money alone, excluding human choices"
           },
           {
             "id": "b",
@@ -2756,13 +2900,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "资源无限时如何无限生产",
+            "en": "How to produce without limits using unlimited resources"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "只对个人应如何消费作道德评价",
+            "en": "Only moral judgements about personal consumption"
           }
         ],
         "correctOptionId": "b",
@@ -2780,8 +2924,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Economics as a social science”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。 资源和时间有限；经济主体在制度约束下选择；选择汇聚为市场或政策结果；经济学用证据检验对这些结果的解释 经济学分析稀缺资源的配置。",
-          "en": "Economics is a social science concerned with how households, firms, governments, and other agents allocate scarce resources, and with the consequences for distribution, efficiency, and well-being. Time and resources are constrained; Agents choose within institutions and incentives; Individual decisions combine into market or policy outcomes; Evidence is used to test economic explanations Economics examines the allocation of scarce resources."
+          "zh-CN": "经济学作为社会科学：经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。 资源和时间有限；经济主体在制度约束下选择；选择汇聚为市场或政策结果；经济学用证据检验对这些结果的解释 经济学分析稀缺资源的配置。",
+          "en": "Economics as a social science: Economics is a social science concerned with how households, firms, governments, and other agents allocate scarce resources, and with the consequences for distribution, efficiency, and well-being. Time and resources are constrained; Agents choose within institutions and incentives; Individual decisions combine into market or policy outcomes; Evidence is used to test economic explanations Economics examines the allocation of scarce resources."
         },
         "keywordGroups": [
           {
@@ -2993,13 +3137,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "整个经济的通胀总率",
+            "en": "Only economy-wide inflation"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "整个经济的总失业率",
+            "en": "Only the national unemployment rate"
           },
           {
             "id": "c",
@@ -3008,8 +3152,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "排除企业和市场的全部研究",
+            "en": "All analysis excluding firms and markets"
           }
         ],
         "correctOptionId": "c",
@@ -3027,8 +3171,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Microeconomics”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。 消费者和企业面对约束；他们对价格与激励作出选择；供给和需求在具体市场相遇；形成价格、数量与福利结果 微观分析关注主体和具体市场。",
-          "en": "Microeconomics studies the choices and interactions of individual economic agents and particular markets, including their effects on prices, quantities, efficiency, and equity. Consumers and firms face constraints; They respond to prices and incentives; Supply and demand interact in a particular market; Price, quantity, and welfare outcomes emerge Microeconomics focuses on agents and particular markets."
+          "zh-CN": "微观经济学：微观经济学研究单个经济主体和特定市场的选择、相互作用及其对价格、产量、效率和公平的影响。 消费者和企业面对约束；他们对价格与激励作出选择；供给和需求在具体市场相遇；形成价格、数量与福利结果 微观分析关注主体和具体市场。",
+          "en": "Microeconomics: Microeconomics studies the choices and interactions of individual economic agents and particular markets, including their effects on prices, quantities, efficiency, and equity. Consumers and firms face constraints; They respond to prices and incentives; Supply and demand interact in a particular market; Price, quantity, and welfare outcomes emerge Microeconomics focuses on agents and particular markets."
         },
         "keywordGroups": [
           {
@@ -3240,18 +3384,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "只研究一家店的定价",
+            "en": "Only one shop’s pricing"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "把每个家庭预算当成国民收入恒等式",
+            "en": "Treating each household budget as a national accounting identity"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "只研究单个消费者偏好",
+            "en": "Only one consumer’s preferences"
           },
           {
             "id": "d",
@@ -3274,8 +3418,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Macroeconomics”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。 家庭、企业和政府作出大量决定；这些决定汇总为总需求和总供给；经济体出现增长、就业与物价变化；财政与货币政策尝试稳定或改变结果 宏观研究经济体整体。",
-          "en": "Macroeconomics treats the economy as a whole and studies aggregate output, growth, unemployment, inflation, income distribution, and the balance of payments, together with the links among them. Households, firms, and governments make many decisions; Those decisions aggregate into economy-wide demand and supply; Growth, employment, and the price level change; Fiscal and monetary policy seek to stabilise or redirect outcomes Macroeconomics studies the economy as a whole."
+          "zh-CN": "宏观经济学：宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。 家庭、企业和政府作出大量决定；这些决定汇总为总需求和总供给；经济体出现增长、就业与物价变化；财政与货币政策尝试稳定或改变结果 宏观研究经济体整体。",
+          "en": "Macroeconomics: Macroeconomics treats the economy as a whole and studies aggregate output, growth, unemployment, inflation, income distribution, and the balance of payments, together with the links among them. Households, firms, and governments make many decisions; Those decisions aggregate into economy-wide demand and supply; Growth, employment, and the price level change; Fiscal and monetary policy seek to stabilise or redirect outcomes Macroeconomics studies the economy as a whole."
         },
         "keywordGroups": [
           {
@@ -3737,8 +3881,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "选择可以绕过所有资源约束",
+            "en": "Choice bypasses all resource constraints"
           },
           {
             "id": "b",
@@ -3747,13 +3891,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "可行方案越多机会成本必为零",
+            "en": "More feasible options imply zero opportunity cost"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "只有付钱才构成经济选择",
+            "en": "Only monetary purchases involve economic choice"
           }
         ],
         "correctOptionId": "b",
@@ -3771,8 +3915,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Choice”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。 目标多于可用资源；经济主体识别可行方案；比较预期收益、成本与价值；采用一个方案并放弃其他用途 选择源于稀缺。",
-          "en": "Choice is the selection of one option, or a combination of options, from two or more feasible alternatives that cannot all be achieved under the available resource constraint. Objectives exceed available resources; The agent identifies feasible alternatives; Expected benefits, costs, and values are compared; One course is selected and other uses are forgone Choice follows from scarcity."
+          "zh-CN": "选择：选择是在资源约束下，从两个或以上互不完全兼容的可行方案中决定采用哪一种或怎样组合。 目标多于可用资源；经济主体识别可行方案；比较预期收益、成本与价值；采用一个方案并放弃其他用途 选择源于稀缺。",
+          "en": "Choice: Choice is the selection of one option, or a combination of options, from two or more feasible alternatives that cannot all be achieved under the available resource constraint. Objectives exceed available resources; The agent identifies feasible alternatives; Expected benefits, costs, and values are compared; One course is selected and other uses are forgone Choice follows from scarcity."
         },
         "keywordGroups": [
           {
@@ -3983,13 +4127,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "生产越多任何商品都越有效率",
+            "en": "More of any good always means more efficiency"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "收入完全相同就证明生产有效率",
+            "en": "Equal incomes prove productive efficiency"
           },
           {
             "id": "c",
@@ -3998,8 +4142,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "没有利润就必定有效率",
+            "en": "No profit guarantees efficiency"
           }
         ],
         "correctOptionId": "c",
@@ -4017,8 +4161,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Efficiency”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。 识别有限投入与可能产出；减少闲置和不必要的投入损耗；把生产组合调整到可行边界；再比较产出组合是否符合社会偏好 生产效率关注避免投入浪费。",
-          "en": "Economic efficiency describes a situation in which resources are not wasted and, as far as possible, are allocated to uses that create greater value or satisfy more highly valued wants; productive and allocative efficiency are commonly distinguished. Identify scarce inputs and feasible outputs; Remove idle capacity and unnecessary input loss; Move production to the feasible frontier; Ask whether the output mix reflects social preferences Productive efficiency concerns avoiding input waste."
+          "zh-CN": "效率：经济效率描述资源没有被浪费，并在可能范围内被配置到能够产生较大价值或满足较多需求的用途；常区分生产效率与配置效率。 识别有限投入与可能产出；减少闲置和不必要的投入损耗；把生产组合调整到可行边界；再比较产出组合是否符合社会偏好 生产效率关注避免投入浪费。",
+          "en": "Efficiency: Economic efficiency describes a situation in which resources are not wasted and, as far as possible, are allocated to uses that create greater value or satisfy more highly valued wants; productive and allocative efficiency are commonly distinguished. Identify scarce inputs and feasible outputs; Remove idle capacity and unnecessary input loss; Move production to the feasible frontier; Ask whether the output mix reflects social preferences Productive efficiency concerns avoiding input waste."
         },
         "keywordGroups": [
           {
@@ -4230,18 +4374,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "公平总是指每个人获得完全相同收入",
+            "en": "Equity always means identical incomes"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只有统计方法才能唯一决定公平标准",
+            "en": "Statistics alone uniquely determine fairness"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "市场均衡自动证明分配公平",
+            "en": "Market equilibrium automatically proves equity"
           },
           {
             "id": "d",
@@ -4264,8 +4408,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Equity”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。 识别资源、机会或负担的分配；选择判断公正的标准；比较不同群体受到的待遇与结果；设计或评价改变分配的政策 公平是一种规范性判断。",
-          "en": "Equity is a normative concept concerning the fairness of the distribution of economic resources, opportunities, burdens, and outcomes, assessed through principles such as need, contribution, opportunity, or rights. Identify how resources, opportunities, or burdens are distributed; Choose a principle of fairness; Compare the treatment and outcomes of different groups; Design or evaluate a policy that changes the distribution Equity is a normative judgement."
+          "zh-CN": "公平：公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。 识别资源、机会或负担的分配；选择判断公正的标准；比较不同群体受到的待遇与结果；设计或评价改变分配的政策 公平是一种规范性判断。",
+          "en": "Equity: Equity is a normative concept concerning the fairness of the distribution of economic resources, opportunities, burdens, and outcomes, assessed through principles such as need, contribution, opportunity, or rights. Identify how resources, opportunities, or burdens are distributed; Choose a principle of fairness; Compare the treatment and outcomes of different groups; Design or evaluate a policy that changes the distribution Equity is a normative judgement."
         },
         "keywordGroups": [
           {
@@ -4481,18 +4625,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "GDP 越高每个人福祉必越高",
+            "en": "Higher GDP guarantees higher well-being for everyone"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只计算个人拥有的现金",
+            "en": "Only the amount of cash held"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "健康与公共服务不影响福祉",
+            "en": "Health and public services cannot affect well-being"
           }
         ],
         "correctOptionId": "a",
@@ -4510,8 +4654,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Economic well-being”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。 资源与公共服务决定可获得的机会；收入和价格影响实际购买力；健康、教育与安全改变人的能力；这些条件共同形成生活质量与主观体验 收入是福祉的手段而非全部。",
-          "en": "Economic well-being is the extent to which people or groups can meet needs and improve quality of life through income, consumption, public services, health, education, security, and genuine opportunities. Resources and public services shape available opportunities; Income and prices determine purchasing power; Health, education, and security expand or restrict capabilities; Together these conditions influence quality of life and lived experience Income is one means to well-being, not the whole of it."
+          "zh-CN": "经济福祉：经济福祉是个人或群体通过收入、消费、公共服务、健康、教育、安全与选择机会满足需要并改善生活质量的程度。 资源与公共服务决定可获得的机会；收入和价格影响实际购买力；健康、教育与安全改变人的能力；这些条件共同形成生活质量与主观体验 收入是福祉的手段而非全部。",
+          "en": "Economic well-being: Economic well-being is the extent to which people or groups can meet needs and improve quality of life through income, consumption, public services, health, education, security, and genuine opportunities. Resources and public services shape available opportunities; Income and prices determine purchasing power; Health, education, and security expand or restrict capabilities; Together these conditions influence quality of life and lived experience Income is one means to well-being, not the whole of it."
         },
         "keywordGroups": [
           {
@@ -4722,8 +4866,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "只要今年产出增加就可持续",
+            "en": "Any rise in this year’s output proves sustainability"
           },
           {
             "id": "b",
@@ -4732,13 +4876,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "可持续性只关乎企业今年利润",
+            "en": "Sustainability concerns only current profit"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "自然资本损耗永远不影响未来选择",
+            "en": "Natural-capital depletion never affects future choices"
           }
         ],
         "correctOptionId": "b",
@@ -4756,8 +4900,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Sustainability”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。 生产和消费使用自然与社会资源；部分资源会耗竭或积累污染；当前选择改变未来的可行集合；政策与创新尝试把长期成本纳入决策 当前选择会改变未来的生产可能。",
-          "en": "Sustainability is the ability of economic activity to continue over time without irreversibly weakening natural systems, social foundations, or the future capacity for production and well-being. Production and consumption use natural and social resources; Some resources deplete and some pollution accumulates; Present choices alter the future feasible set; Policy and innovation try to incorporate long-run costs Present choices alter future production possibilities."
+          "zh-CN": "可持续性：可持续性是经济活动在长期内能够维持，并避免不可逆地削弱自然系统、社会基础和未来生产与福祉能力的性质。 生产和消费使用自然与社会资源；部分资源会耗竭或积累污染；当前选择改变未来的可行集合；政策与创新尝试把长期成本纳入决策 当前选择会改变未来的生产可能。",
+          "en": "Sustainability: Sustainability is the ability of economic activity to continue over time without irreversibly weakening natural systems, social foundations, or the future capacity for production and well-being. Production and consumption use natural and social resources; Some resources deplete and some pollution accumulates; Present choices alter the future feasible set; Policy and innovation try to incorporate long-run costs Present choices alter future production possibilities."
         },
         "keywordGroups": [
           {
@@ -4968,13 +5112,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "变化只指价格变动",
+            "en": "Change means price changes alone"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "变化必定使所有人受益",
+            "en": "Change must benefit everyone"
           },
           {
             "id": "c",
@@ -4983,8 +5127,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "技术变化不会改变资源配置",
+            "en": "Technology never changes allocation"
           }
         ],
         "correctOptionId": "c",
@@ -5002,8 +5146,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Change”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。 技术、政策或偏好发生变化；相对成本和激励随之改变；家庭与企业调整行为；市场结构、产出和分配出现新结果 经济环境不是静止的。",
-          "en": "Change refers to adjustment over time in agents, resources, technology, institutions, or the external environment and to the resulting shifts in production, distribution, and well-being. Technology, policy, or preferences change; Relative costs and incentives move; Households and firms adjust behaviour; Market structure, output, and distribution reach new outcomes The economic environment is not static."
+          "zh-CN": "变化：变化是经济主体、资源、技术、制度或外部环境随时间发生的调整，以及这些调整引起的生产、分配和福祉结果改变。 技术、政策或偏好发生变化；相对成本和激励随之改变；家庭与企业调整行为；市场结构、产出和分配出现新结果 经济环境不是静止的。",
+          "en": "Change: Change refers to adjustment over time in agents, resources, technology, institutions, or the external environment and to the resulting shifts in production, distribution, and well-being. Technology, policy, or preferences change; Relative costs and incentives move; Households and firms adjust behaviour; Market structure, output, and distribution reach new outcomes The economic environment is not static."
         },
         "keywordGroups": [
           {
@@ -5214,18 +5358,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "国际贸易使各国完全独立",
+            "en": "Trade makes countries completely independent"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "家庭与企业之间只有单向影响",
+            "en": "Households and firms affect each other in only one direction"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "环境与经济决策没有联系",
+            "en": "The environment has no link to economic decisions"
           },
           {
             "id": "d",
@@ -5248,8 +5392,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Interdependence”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。 主体通过市场或制度建立联系；一方的需求、供给或规则发生变化；价格、收入或资源流动传导冲击；其他主体回应并可能产生反馈 经济主体通过多种流动相互连接。",
-          "en": "Interdependence is the two-way reliance among households, firms, governments, countries, and the natural environment created through production, exchange, finance, policy, and ecosystems. Agents become connected through markets or institutions; Demand, supply, or rules change for one participant; Prices, incomes, or resource flows transmit the shock; Other participants respond and may create feedback Economic agents are connected through several kinds of flow."
+          "zh-CN": "相互依存：相互依存是家庭、企业、政府、国家与自然环境之间通过生产、交换、金融、政策和生态系统形成的双向依赖关系。 主体通过市场或制度建立联系；一方的需求、供给或规则发生变化；价格、收入或资源流动传导冲击；其他主体回应并可能产生反馈 经济主体通过多种流动相互连接。",
+          "en": "Interdependence: Interdependence is the two-way reliance among households, firms, governments, countries, and the natural environment created through production, exchange, finance, policy, and ecosystems. Agents become connected through markets or institutions; Demand, supply, or rules change for one participant; Prices, incomes, or resource flows transmit the shock; Other participants respond and may create feedback Economic agents are connected through several kinds of flow."
         },
         "keywordGroups": [
           {
@@ -5465,18 +5609,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "干预只可能是禁止交易",
+            "en": "Intervention can only mean banning trade"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "干预总能无成本改善所有结果",
+            "en": "Intervention always improves all outcomes without cost"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "任何价格变动都由政府直接决定",
+            "en": "Every price change is directly set by government"
           }
         ],
         "correctOptionId": "a",
@@ -5494,8 +5638,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Intervention”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。 识别市场结果或社会目标之间的差距；选择税收、监管、支出或信息等工具；工具改变主体面对的激励与约束；行为反应形成预期成效与非预期后果 干预有明确目标和政策工具。",
-          "en": "Economic intervention is deliberate action by a government, central bank, or other institution to alter market incentives, trading conditions, resource allocation, or income distribution. Identify a gap between a market outcome and a social objective; Select a tax, regulation, spending, information, or other instrument; The instrument changes incentives and constraints; Behavioural responses produce intended and unintended outcomes Intervention combines an objective with an instrument."
+          "zh-CN": "干预：经济干预是政府、中央银行或其他机构有意改变市场激励、交易条件、资源配置或收入分配的行动。 识别市场结果或社会目标之间的差距；选择税收、监管、支出或信息等工具；工具改变主体面对的激励与约束；行为反应形成预期成效与非预期后果 干预有明确目标和政策工具。",
+          "en": "Intervention: Economic intervention is deliberate action by a government, central bank, or other institution to alter market incentives, trading conditions, resource allocation, or income distribution. Identify a gap between a market outcome and a social objective; Select a tax, regulation, spending, information, or other instrument; The instrument changes incentives and constraints; Behavioural responses produce intended and unintended outcomes Intervention combines an objective with an instrument."
         },
         "keywordGroups": [
           {
@@ -5707,8 +5851,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "银行账户现金就是生产要素中的实物资本",
+            "en": "Bank-account cash is the physical capital factor"
           },
           {
             "id": "b",
@@ -5717,13 +5861,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "企业家才能等同于所有体力劳动",
+            "en": "Entrepreneurship is identical to all physical labour"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "土地只指已建成厂房",
+            "en": "Land means only constructed factories"
           }
         ],
         "correctOptionId": "b",
@@ -5741,8 +5885,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Factors of production”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。 自然资源提供物质与空间；劳动投入时间、技能和判断；资本提高劳动与资源的生产能力；企业家组合要素并承担不确定性 土地包括自然资源。",
-          "en": "Factors of production are the inputs used to create goods and services: land (natural resources), labour (human effort and skill), capital (produced means of production), and entrepreneurship (organisation, innovation, and risk-bearing). Natural resources provide materials and location; Labour contributes time, skill, and judgement; Capital raises the productive capacity of labour and resources; Entrepreneurship combines inputs under uncertainty Land includes natural resources."
+          "zh-CN": "四类生产要素：生产要素是创造商品和服务所需的投入，通常分为土地（自然资源）、劳动（人的努力与技能）、资本（人造生产资料）和企业家才能（组织、创新与承担风险）。 自然资源提供物质与空间；劳动投入时间、技能和判断；资本提高劳动与资源的生产能力；企业家组合要素并承担不确定性 土地包括自然资源。",
+          "en": "Factors of production: Factors of production are the inputs used to create goods and services: land (natural resources), labour (human effort and skill), capital (produced means of production), and entrepreneurship (organisation, innovation, and risk-bearing). Natural resources provide materials and location; Labour contributes time, skill, and judgement; Capital raises the productive capacity of labour and resources; Entrepreneurship combines inputs under uncertainty Land includes natural resources."
         },
         "keywordGroups": [
           {
@@ -5955,13 +6099,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "所有放弃方案价值的总和",
+            "en": "The sum of every forgone alternative"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只有已经支付的现金",
+            "en": "Only cash already paid"
           },
           {
             "id": "c",
@@ -5970,8 +6114,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "被选方案的全部收益",
+            "en": "The entire benefit of the chosen option"
           }
         ],
         "correctOptionId": "c",
@@ -5989,8 +6133,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Opportunity cost”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。 稀缺产生多个竞争用途；按价值排列可行方案；选择排名最高的方案；排名第二且被放弃的方案构成机会成本 机会成本源于稀缺和选择。",
-          "en": "Opportunity cost is the benefit or value of the next-best feasible alternative that cannot be obtained once resources are committed to a chosen use. Scarcity creates competing uses; Feasible alternatives are ranked by value; The highest-ranked option is selected; The second-ranked forgone option is the opportunity cost Opportunity cost follows from scarcity and choice."
+          "zh-CN": "机会成本：机会成本是在资源用于某项选择后无法获得的次优可行方案的收益或价值。 稀缺产生多个竞争用途；按价值排列可行方案；选择排名最高的方案；排名第二且被放弃的方案构成机会成本 机会成本源于稀缺和选择。",
+          "en": "Opportunity cost: Opportunity cost is the benefit or value of the next-best feasible alternative that cannot be obtained once resources are committed to a chosen use. Scarcity creates competing uses; Feasible alternatives are ranked by value; The highest-ranked option is selected; The second-ranked forgone option is the opportunity cost Opportunity cost follows from scarcity and choice."
         },
         "keywordGroups": [
           {
@@ -6110,7 +6254,7 @@ export const knowledgePoints = [
         "locale": "zh-CN",
         "title": "免费物品",
         "takeaway": "免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。",
-        "definition": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
+        "definition": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。",
         "causalChain": [
           "资源在特定条件下非常充裕",
           "额外使用不排挤其他人的可行用途",
@@ -6143,7 +6287,7 @@ export const knowledgePoints = [
         "locale": "en",
         "title": "Free goods",
         "takeaway": "A free good is abundant relative to demand in a particular place and time, so obtaining more does not displace another output; a zero price alone is not enough.",
-        "definition": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered.",
+        "definition": "A free good is a good or resource so abundant relative to demand that an additional unit has no opportunity cost under the conditions being considered.",
         "causalChain": [
           "A resource is highly abundant in a specific context",
           "Extra use does not exclude a feasible use by someone else",
@@ -6182,8 +6326,8 @@ export const knowledgePoints = [
           "en": "Without notes, explain “Free goods” in your own words."
         },
         "answer": {
-          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
-          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered."
+          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。",
+          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no opportunity cost under the conditions being considered."
         },
         "explanation": {
           "zh-CN": "免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。",
@@ -6201,18 +6345,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "零售价为零就一定没有机会成本",
+            "en": "A zero price always means no opportunity cost"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "政府提供的所有服务都是免费物品",
+            "en": "Every publicly provided service is a free good"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "价格很低就属于免费物品",
+            "en": "Any low-priced item is a free good"
           },
           {
             "id": "d",
@@ -6222,8 +6366,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
-          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered."
+          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。",
+          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no opportunity cost under the conditions being considered."
         }
       },
       {
@@ -6235,8 +6379,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Free goods”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。 资源在特定条件下非常充裕；额外使用不排挤其他人的可行用途；边际机会成本接近零；无需通过价格配置该边际单位 免费物品的边际机会成本接近零。",
-          "en": "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered. A resource is highly abundant in a specific context; Extra use does not exclude a feasible use by someone else; Marginal opportunity cost is approximately zero; No price mechanism is needed to allocate that marginal unit A free good has approximately zero marginal opportunity cost."
+          "zh-CN": "免费物品：免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。 资源在特定条件下非常充裕；额外使用不排挤其他人的可行用途；边际机会成本接近零；无需通过价格配置该边际单位 免费物品的边际机会成本接近零。",
+          "en": "Free goods: A free good is a good or resource so abundant relative to demand that an additional unit has no opportunity cost under the conditions being considered. A resource is highly abundant in a specific context; Extra use does not exclude a feasible use by someone else; Marginal opportunity cost is approximately zero; No price mechanism is needed to allocate that marginal unit A free good has approximately zero marginal opportunity cost."
         },
         "keywordGroups": [
           {
@@ -6306,15 +6450,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-16-basic-economic-questions",
       "slug": "basic-economic-questions",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             10
           ]
@@ -6454,18 +6598,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "只问生产者利润多大",
+            "en": "Only how large producer profit is"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只问今年通胀率是多少",
+            "en": "Only the current inflation rate"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "为谁生产就是谁拥有机器",
+            "en": "For whom to produce means only who owns machines"
           }
         ],
         "correctOptionId": "a",
@@ -6483,8 +6627,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The three basic economic questions”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。 稀缺资源有多个竞争用途；社会决定产品组合与数量；生产者选择投入和技术；收入与规则决定产出分配 产品组合回答生产什么及多少。",
-          "en": "The three basic economic questions ask which goods and services to produce and in what quantities, which resources and techniques to use, and which people or groups ultimately receive the output. Scarce resources have competing uses; Society determines the output mix and quantities; Producers select inputs, technology, and organisation; Income and allocation rules determine access to output The output mix answers what and how much."
+          "zh-CN": "三个基本经济问题：三个基本经济问题是：生产哪些商品与服务以及数量多少；用哪些资源、技术和组织方式生产；最终产出由哪些人或群体获得。 稀缺资源有多个竞争用途；社会决定产品组合与数量；生产者选择投入和技术；收入与规则决定产出分配 产品组合回答生产什么及多少。",
+          "en": "The three basic economic questions: The three basic economic questions ask which goods and services to produce and in what quantities, which resources and techniques to use, and which people or groups ultimately receive the output. Scarce resources have competing uses; Society determines the output mix and quantities; Producers select inputs, technology, and organisation; Income and allocation rules determine access to output The output mix answers what and how much."
         },
         "keywordGroups": [
           {
@@ -6554,15 +6698,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-17-resource-allocation",
       "slug": "resource-allocation",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             10,
             11
@@ -6696,8 +6840,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "资源配置只指收入均分",
+            "en": "Allocation means only equalising incomes"
           },
           {
             "id": "b",
@@ -6706,13 +6850,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "社会最优与任何市场均衡完全相同",
+            "en": "The social optimum equals every market equilibrium"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "重新配置只需增加所有投入而不调整用途",
+            "en": "Reallocation only adds inputs without changing uses"
           }
         ],
         "correctOptionId": "b",
@@ -6730,8 +6874,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Resource allocation and reallocation”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。 不同用途争夺稀缺要素；价格、收益与政策传递相对价值；资源流向预期回报较高的用途；外部成本或收益可能造成过度或不足配置 配置决定生产要素的用途。",
-          "en": "Resource allocation is the assignment of productive factors to different uses. Reallocation changes those uses, while overallocation and underallocation mean that too many or too few resources are devoted to an activity relative to the social optimum. Alternative uses compete for scarce factors; Prices, returns, and policy signal relative value; Resources move toward uses with higher expected returns; External costs or benefits can create over- or underallocation Allocation determines the uses of productive factors."
+          "zh-CN": "资源配置与重新配置：资源配置是把生产要素分配到不同用途的过程；重新配置是改变既有用途，过度配置和不足配置分别表示相对于社会最优水平投入过多或过少。 不同用途争夺稀缺要素；价格、收益与政策传递相对价值；资源流向预期回报较高的用途；外部成本或收益可能造成过度或不足配置 配置决定生产要素的用途。",
+          "en": "Resource allocation and reallocation: Resource allocation is the assignment of productive factors to different uses. Reallocation changes those uses, while overallocation and underallocation mean that too many or too few resources are devoted to an activity relative to the social optimum. Alternative uses compete for scarce factors; Prices, returns, and policy signal relative value; Resources move toward uses with higher expected returns; External costs or benefits can create over- or underallocation Allocation determines the uses of productive factors."
         },
         "keywordGroups": [
           {
@@ -6801,15 +6945,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-18-income-distribution",
       "slug": "income-distribution",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             10,
             11
@@ -6943,13 +7087,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "收入分配就是把产出平均分给企业",
+            "en": "Distribution means dividing output equally among firms"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "再分配只能通过现金且不能通过服务",
+            "en": "Redistribution can only use cash, never services"
           },
           {
             "id": "c",
@@ -6958,8 +7102,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "高总收入自动保证低不平等",
+            "en": "High total income guarantees low inequality"
           }
         ],
         "correctOptionId": "c",
@@ -6977,8 +7121,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Income and output distribution”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。 生产要素所有权与市场回报形成初次收入；收入决定大部分市场购买力；税收、现金转移和公共服务介入；可支配收入与实际获得的产出重新分布 要素回报影响初次收入分配。",
-          "en": "Income and output distribution describes how national income and goods or services are divided among people, households, or factors of production. Redistribution is a deliberate policy-induced change to the initial distribution. Factor ownership and market returns generate original income; Income determines most market purchasing power; Taxes, cash transfers, and public services intervene; Disposable income and effective access to output are redistributed Factor returns shape original income."
+          "zh-CN": "收入与产出分配：收入与产出分配描述国民收入和商品服务在个人、家庭或生产要素之间的分布；再分配是政策对初次分配结果的有意改变。 生产要素所有权与市场回报形成初次收入；收入决定大部分市场购买力；税收、现金转移和公共服务介入；可支配收入与实际获得的产出重新分布 要素回报影响初次收入分配。",
+          "en": "Income and output distribution: Income and output distribution describes how national income and goods or services are divided among people, households, or factors of production. Redistribution is a deliberate policy-induced change to the initial distribution. Factor ownership and market returns generate original income; Income determines most market purchasing power; Taxes, cash transfers, and public services intervene; Disposable income and effective access to output are redistributed Factor returns shape original income."
         },
         "keywordGroups": [
           {
@@ -7048,15 +7192,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-19-market-mechanism",
       "slug": "market-mechanism",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             12
           ]
@@ -7190,18 +7334,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "价格只传递信息却从不影响激励",
+            "en": "Prices convey information but never affect incentives"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "价格机制总保证按需要平均配给",
+            "en": "Prices always ration equally by need"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "市场机制要求政府逐笔指定所有买卖",
+            "en": "Markets require government to specify every trade"
           },
           {
             "id": "d",
@@ -7224,8 +7368,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The market mechanism”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。 买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。",
-          "en": "The market mechanism is the process through which supply and demand interact so that price signals, incentives, and rationing coordinate buying and selling decisions and allocate resources. Desired purchases and sales do not initially match; Shortage or surplus puts pressure on price; Price changes consumer and producer incentives; Quantities and resources adjust toward a new market outcome Price aggregates information about supply and demand."
+          "zh-CN": "市场机制：市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。 买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。",
+          "en": "The market mechanism: The market mechanism is the process through which supply and demand interact so that price signals, incentives, and rationing coordinate buying and selling decisions and allocate resources. Desired purchases and sales do not initially match; Shortage or surplus puts pressure on price; Price changes consumer and producer incentives; Quantities and resources adjust toward a new market outcome Price aggregates information about supply and demand."
         },
         "keywordGroups": [
           {
@@ -7295,15 +7439,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-20-government-intervention",
       "slug": "government-intervention",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             12
           ]
@@ -7442,18 +7586,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "政府干预不存在机会成本",
+            "en": "Government action has no opportunity cost"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只要政府支出就一定有效率",
+            "en": "Any public spending is efficient"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "补贴不能影响资源配置",
+            "en": "Subsidies cannot affect allocation"
           }
         ],
         "correctOptionId": "a",
@@ -7471,8 +7615,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Government intervention”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。 市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。",
-          "en": "Government intervention is public-sector action through taxes, subsidies, regulation, price controls, public provision, information, or macroeconomic policy to alter economic behaviour and outcomes. A market outcome diverges from a policy objective; Government selects an instrument suited to the cause; The instrument changes prices, rights, or available resources; Behavioural responses determine the net social result Intervention can change prices, rules, and public provision."
+          "zh-CN": "政府干预：政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。 市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。",
+          "en": "Government intervention: Government intervention is public-sector action through taxes, subsidies, regulation, price controls, public provision, information, or macroeconomic policy to alter economic behaviour and outcomes. A market outcome diverges from a policy objective; Government selects an instrument suited to the cause; The instrument changes prices, rights, or available resources; Behavioural responses determine the net social result Intervention can change prices, rules, and public provision."
         },
         "keywordGroups": [
           {
@@ -7542,15 +7686,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-21-free-market-economy",
       "slug": "free-market-economy",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             13
           ]
@@ -7683,8 +7827,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "自由市场要求不存在法律和产权",
+            "en": "Free markets require no law or property rights"
           },
           {
             "id": "b",
@@ -7693,13 +7837,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "生产计划全部由中央行政指定",
+            "en": "All production is set by central orders"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "自由市场自动消除所有市场失灵",
+            "en": "Free markets automatically eliminate all market failure"
           }
         ],
         "correctOptionId": "b",
@@ -7717,8 +7861,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The free-market economy”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。 私人产权赋予使用和收益权；消费者支出表达有效需求；利润与亏损引导企业进入或退出；价格协调资源和产出 私人产权和价格是主要协调机制。",
-          "en": "A free-market economy is a system in which resources are predominantly privately owned and production and consumption are coordinated mainly through competitive markets and the price mechanism, with a comparatively limited state role. Private property grants rights to use assets and receive returns; Consumer spending expresses effective demand; Profit and loss encourage entry or exit; Prices coordinate resources and output Private property and prices are primary coordinating institutions."
+          "zh-CN": "自由市场经济：自由市场经济是一种资源主要由私人主体拥有，生产与消费决策主要通过竞争市场和价格机制协调，政府作用相对有限的制度。 私人产权赋予使用和收益权；消费者支出表达有效需求；利润与亏损引导企业进入或退出；价格协调资源和产出 私人产权和价格是主要协调机制。",
+          "en": "The free-market economy: A free-market economy is a system in which resources are predominantly privately owned and production and consumption are coordinated mainly through competitive markets and the price mechanism, with a comparatively limited state role. Private property grants rights to use assets and receive returns; Consumer spending expresses effective demand; Profit and loss encourage entry or exit; Prices coordinate resources and output Private property and prices are primary coordinating institutions."
         },
         "keywordGroups": [
           {
@@ -7788,15 +7932,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-22-planned-economy",
       "slug": "planned-economy",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             13
           ]
@@ -7929,13 +8073,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "只要存在一家国企就是完全计划经济",
+            "en": "One state firm makes an economy wholly planned"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "所有选择均由竞争价格分散协调",
+            "en": "All choices are coordinated only by decentralised prices"
           },
           {
             "id": "c",
@@ -7944,8 +8088,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "中央计划不需任何信息就能最优",
+            "en": "Central planning needs no information to be optimal"
           }
         ],
         "correctOptionId": "c",
@@ -7963,8 +8107,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The planned economy”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。 计划机构确定社会优先目标；向企业或部门分配投入与产量指标；行政体系协调生产和分配；反馈信息用于修订后续计划 公共计划替代大部分价格协调。",
-          "en": "A planned economy is a system in which productive assets are largely state-owned or controlled and a central or public planning authority allocates resources through administrative targets rather than decentralised market prices. The planning authority establishes social priorities; Inputs and output targets are assigned to sectors or enterprises; An administrative system coordinates production and distribution; Feedback informs revisions to later plans Public planning replaces much price coordination."
+          "zh-CN": "计划经济：计划经济是一种生产资料主要由国家拥有或控制，中央或公共计划机构以行政目标而非分散市场价格来决定资源配置的制度。 计划机构确定社会优先目标；向企业或部门分配投入与产量指标；行政体系协调生产和分配；反馈信息用于修订后续计划 公共计划替代大部分价格协调。",
+          "en": "The planned economy: A planned economy is a system in which productive assets are largely state-owned or controlled and a central or public planning authority allocates resources through administrative targets rather than decentralised market prices. The planning authority establishes social priorities; Inputs and output targets are assigned to sectors or enterprises; An administrative system coordinates production and distribution; Feedback informs revisions to later plans Public planning replaces much price coordination."
         },
         "keywordGroups": [
           {
@@ -8034,15 +8178,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-23-mixed-economy",
       "slug": "mixed-economy",
-      "section": "1.2",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.2 How do economists approach the world?"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.2",
+          "section": "1.1",
           "pages": [
             14
           ]
@@ -8176,18 +8320,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "私人和公共部门必须各占恰好一半",
+            "en": "Private and public sectors must each be exactly half"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "混合经济没有私人产权",
+            "en": "A mixed economy has no private ownership"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "混合经济不允许政府提供服务",
+            "en": "A mixed economy prohibits public provision"
           },
           {
             "id": "d",
@@ -8210,8 +8354,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The mixed economy”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。 多数日常选择由价格和私人主体协调；法律与监管设定市场边界；政府通过税收、转移和公共服务改变结果；制度组合随政策目标和证据调整 现实经济体通常同时使用市场和政府。",
-          "en": "A mixed economy is a system in which private markets and the public sector both own resources and share responsibility for production, allocation, and distribution. Prices and private agents coordinate many daily choices; Law and regulation set market boundaries; Taxes, transfers, and public services alter outcomes; The institutional mix changes with objectives and evidence Most actual economies use both markets and government."
+          "zh-CN": "混合经济：混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。 多数日常选择由价格和私人主体协调；法律与监管设定市场边界；政府通过税收、转移和公共服务改变结果；制度组合随政策目标和证据调整 现实经济体通常同时使用市场和政府。",
+          "en": "The mixed economy: A mixed economy is a system in which private markets and the public sector both own resources and share responsibility for production, allocation, and distribution. Prices and private agents coordinate many daily choices; Law and regulation set market boundaries; Taxes, transfers, and public services alter outcomes; The institutional mix changes with objectives and evidence Most actual economies use both markets and government."
         },
         "keywordGroups": [
           {
@@ -8281,15 +8425,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-24-economic-models",
       "slug": "economic-models",
-      "section": "1.3",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.2",
           "pages": [
             15
           ]
@@ -8427,18 +8571,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "模型必须复制现实全部细节才有用",
+            "en": "A model needs every real-world detail to be useful"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "逻辑自洽就证明经验上永远正确",
+            "en": "Logical consistency proves permanent empirical truth"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "模型不能用观察修正",
+            "en": "Models cannot be revised using observation"
           }
         ],
         "correctOptionId": "a",
@@ -8456,8 +8600,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Purposes and limits of economic models”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。 研究者提出一个具体问题；保留被认为关键的变量和关系；用假设隔离机制并推出预测；把预测与证据比较后修正模型 模型把复杂现实压缩成关键关系。",
-          "en": "An economic model is a purposeful simplification of agents, constraints, and relationships, expressed verbally, graphically, or mathematically to explain a mechanism and generate testable predictions. A researcher specifies a focused question; Variables and relationships judged essential are retained; Assumptions isolate a mechanism and yield predictions; Predictions are compared with evidence and the model is revised Models compress complexity into selected relationships."
+          "zh-CN": "经济模型的作用与局限：经济模型是对现实经济主体、约束和关系的有目的简化，用文字、图形或数学表达因果机制并形成可检验预测。 研究者提出一个具体问题；保留被认为关键的变量和关系；用假设隔离机制并推出预测；把预测与证据比较后修正模型 模型把复杂现实压缩成关键关系。",
+          "en": "Purposes and limits of economic models: An economic model is a purposeful simplification of agents, constraints, and relationships, expressed verbally, graphically, or mathematically to explain a mechanism and generate testable predictions. A researcher specifies a focused question; Variables and relationships judged essential are retained; Assumptions isolate a mechanism and yield predictions; Predictions are compared with evidence and the model is revised Models compress complexity into selected relationships."
         },
         "keywordGroups": [
           {
@@ -8527,15 +8671,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-25-ppc-construction",
       "slug": "ppc-construction",
-      "section": "1.3",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.1",
           "pages": [
             15,
             16
@@ -8672,8 +8816,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "PPC 表示消费者最想买的所有组合",
+            "en": "A PPC shows all combinations consumers desire"
           },
           {
             "id": "b",
@@ -8682,13 +8826,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "在资源技术不变时边界外点也可立即达到",
+            "en": "Points outside are immediately feasible with unchanged resources and technology"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "边界内每个点都生产有效率",
+            "en": "Every interior point is productively efficient"
           }
         ],
         "correctOptionId": "b",
@@ -8706,8 +8850,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Constructing a PPC”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。 固定时期、资源数量与技术；把产出归纳为横纵轴两类；计算每种资源配置下的最大产出组合；连接有效组合形成生产可能性边界 PPC 是最大可行产出组合的边界。",
-          "en": "A production possibility curve (PPC) is the boundary of maximum combinations of two goods or services that an economy can produce when resources and technology are given and resources are fully and efficiently employed. Fix the period, resource stock, and technology; Aggregate output into two labelled axes; Find maximum output under alternative resource allocations; Join the efficient combinations to form the frontier The PPC is the boundary of maximum feasible output combinations."
+          "zh-CN": "生产可能性曲线的构造：生产可能性曲线（PPC）是在既定资源、技术和充分有效利用假设下，一个经济体在两类商品或服务之间能够生产的最大组合边界。 固定时期、资源数量与技术；把产出归纳为横纵轴两类；计算每种资源配置下的最大产出组合；连接有效组合形成生产可能性边界 PPC 是最大可行产出组合的边界。",
+          "en": "Constructing a PPC: A production possibility curve (PPC) is the boundary of maximum combinations of two goods or services that an economy can produce when resources and technology are given and resources are fully and efficiently employed. Fix the period, resource stock, and technology; Aggregate output into two labelled axes; Find maximum output under alternative resource allocations; Join the efficient combinations to form the frontier The PPC is the boundary of maximum feasible output combinations."
         },
         "keywordGroups": [
           {
@@ -8777,15 +8921,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-26-ppc-scarcity-choice-cost",
       "slug": "ppc-scarcity-choice-cost",
-      "section": "1.3",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.1",
           "pages": [
             17,
             18
@@ -8922,13 +9066,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "沿 PPC 移动不涉及放弃任何产出",
+            "en": "Movement along a PPC sacrifices no output"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "机会成本是两种产出的总和",
+            "en": "Opportunity cost is the sum of both outputs"
           },
           {
             "id": "c",
@@ -8937,8 +9081,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "每个边界点都使双方产出同时最大",
+            "en": "Every frontier point simultaneously maximises both outputs"
           }
         ],
         "correctOptionId": "c",
@@ -8956,8 +9100,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Scarcity, choice, and cost on a PPC”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。 资源限制形成生产边界；社会在边界上选择一种产出组合；增加横轴产出需要重新配置资源；纵轴产出的减少量成为横轴产出的机会成本 边界体现当前生产限制。",
-          "en": "Within the PPC model, the frontier represents scarcity, alternative feasible combinations represent choice, and the reduction in one output when moving along the curve measures the opportunity cost of more of the other. Resource constraints create a production boundary; Society selects one combination on the boundary; More horizontal-axis output requires reallocation; The lost vertical-axis output is its opportunity cost The frontier displays a current productive constraint."
+          "zh-CN": "PPC中的稀缺、选择与机会成本：在 PPC 模型中，边界限制表示稀缺；边界上的可选组合表示选择；从一点移动到另一点所减少的另一种产出数量表示机会成本。 资源限制形成生产边界；社会在边界上选择一种产出组合；增加横轴产出需要重新配置资源；纵轴产出的减少量成为横轴产出的机会成本 边界体现当前生产限制。",
+          "en": "Scarcity, choice, and cost on a PPC: Within the PPC model, the frontier represents scarcity, alternative feasible combinations represent choice, and the reduction in one output when moving along the curve measures the opportunity cost of more of the other. Resource constraints create a production boundary; Society selects one combination on the boundary; More horizontal-axis output requires reallocation; The lost vertical-axis output is its opportunity cost The frontier displays a current productive constraint."
         },
         "keywordGroups": [
           {
@@ -9027,15 +9171,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-27-ppc-unemployment-efficiency",
       "slug": "ppc-unemployment-efficiency",
-      "section": "1.3",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.1",
           "pages": [
             16,
             19
@@ -9171,18 +9315,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "PPC 内点证明资源已完全有效使用",
+            "en": "An interior point proves full efficient resource use"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "边界上每一点都同时保证配置效率",
+            "en": "Every frontier point guarantees allocative efficiency"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "失业只能表现为 PPC 必定外移",
+            "en": "Unemployment can only shift a PPC outward"
           },
           {
             "id": "d",
@@ -9205,8 +9349,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Unemployment and efficiency on a PPC”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。 部分劳动或资本闲置或错配；实际产出落在生产边界以内；需求恢复、再培训或管理改善提高利用率；经济体移向边界并实现实际增长 曲线内表示未充分利用或低效。",
-          "en": "A point inside a PPC represents actual output below the feasible maximum because of unemployment, idle capacity, or inefficient allocation, while a point on the curve represents productive efficiency for the given resources and technology. Some labour or capital is idle or mismatched; Actual output lies within the production boundary; Recovery, retraining, or better management raises utilisation; The economy moves toward the frontier and actual output grows Inside the curve indicates underuse or inefficiency."
+          "zh-CN": "PPC中的失业与生产效率：PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。 部分劳动或资本闲置或错配；实际产出落在生产边界以内；需求恢复、再培训或管理改善提高利用率；经济体移向边界并实现实际增长 曲线内表示未充分利用或低效。",
+          "en": "Unemployment and efficiency on a PPC: A point inside a PPC represents actual output below the feasible maximum because of unemployment, idle capacity, or inefficient allocation, while a point on the curve represents productive efficiency for the given resources and technology. Some labour or capital is idle or mismatched; Actual output lies within the production boundary; Recovery, retraining, or better management raises utilisation; The economy moves toward the frontier and actual output grows Inside the curve indicates underuse or inefficiency."
         },
         "keywordGroups": [
           {
@@ -9276,15 +9420,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-28-ppc-growth",
       "slug": "ppc-growth",
-      "section": "1.3",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.1",
           "pages": [
             19,
             20
@@ -9330,7 +9474,7 @@ export const knowledgePoints = [
         "locale": "zh-CN",
         "title": "实际增长与生产潜力增长",
         "takeaway": "向既有 PPC 靠近是实际产出增长，PPC 向外移动是生产潜力增长；两者可发生在不同时间。",
-        "definition": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
+        "definition": "实际增长是实际产出的增加，可来自既有产能利用率提高或新增产能投入使用；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
         "causalChain": [
           "经济体可能先在边界以内运行",
           "更高资源利用率使实际点靠近边界",
@@ -9363,7 +9507,7 @@ export const knowledgePoints = [
         "locale": "en",
         "title": "Actual and potential growth",
         "takeaway": "Movement toward an existing PPC is growth in actual output, while an outward shift is growth in productive potential; the two can occur at different times.",
-        "definition": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology.",
+        "definition": "Actual growth is an increase in real output, whether from using existing capacity more fully or bringing new capacity into use. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology.",
         "causalChain": [
           "The economy may initially operate inside its frontier",
           "Higher utilisation moves actual output toward the line",
@@ -9402,8 +9546,8 @@ export const knowledgePoints = [
           "en": "Without notes, explain “Actual and potential growth” in your own words."
         },
         "answer": {
-          "zh-CN": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
-          "en": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology."
+          "zh-CN": "实际增长是实际产出的增加，可来自既有产能利用率提高或新增产能投入使用；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
+          "en": "Actual growth is an increase in real output, whether from using existing capacity more fully or bringing new capacity into use. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology."
         },
         "explanation": {
           "zh-CN": "向既有 PPC 靠近是实际产出增长，PPC 向外移动是生产潜力增长；两者可发生在不同时间。",
@@ -9426,24 +9570,24 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "当前产出增加必定意味着潜在边界外移",
+            "en": "Higher current output necessarily shifts the frontier out"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "技术改善只能沿原曲线移动",
+            "en": "Better technology only moves along an unchanged frontier"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "潜在产能增加保证产出立即同步增加",
+            "en": "More capacity guarantees an immediate matching output increase"
           }
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
-          "en": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology."
+          "zh-CN": "实际增长是实际产出的增加，可来自既有产能利用率提高或新增产能投入使用；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。",
+          "en": "Actual growth is an increase in real output, whether from using existing capacity more fully or bringing new capacity into use. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology."
         }
       },
       {
@@ -9455,8 +9599,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Actual and potential growth”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "实际增长是经济体在既有生产能力内提高当前产出；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。 经济体可能先在边界以内运行；更高资源利用率使实际点靠近边界；投资、教育、资源发现或技术进步扩大能力；PPC 向外移动并允许更高长期产出 边界内向边界移动表示利用率提高。",
-          "en": "Actual growth is an increase in current output within existing capacity. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology. The economy may initially operate inside its frontier; Higher utilisation moves actual output toward the line; Investment, education, resource discovery, or technology expands capacity; The PPC shifts outward and permits greater long-run output Movement from inside toward the frontier raises utilisation."
+          "zh-CN": "实际增长与生产潜力增长：实际增长是实际产出的增加，可来自既有产能利用率提高或新增产能投入使用；生产可能性增长是资源数量、质量或技术改善使最大可行产出边界向外移动。 经济体可能先在边界以内运行；更高资源利用率使实际点靠近边界；投资、教育、资源发现或技术进步扩大能力；PPC 向外移动并允许更高长期产出 边界内向边界移动表示利用率提高。",
+          "en": "Actual and potential growth: Actual growth is an increase in real output, whether from using existing capacity more fully or bringing new capacity into use. Growth in production possibilities is an outward shift of the maximum feasible boundary caused by more or better resources or improved technology. The economy may initially operate inside its frontier; Higher utilisation moves actual output toward the line; Investment, education, resource discovery, or technology expands capacity; The PPC shifts outward and permits greater long-run output Movement from inside toward the frontier raises utilisation."
         },
         "keywordGroups": [
           {
@@ -9526,15 +9670,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-29-ppc-opportunity-cost-shapes",
       "slug": "ppc-opportunity-cost-shapes",
-      "section": "1.3",
+      "section": "1.1",
       "level": "core",
       "syllabusRefs": [
-        "1.3 Economic models and the PPC"
+        "1.1 What is economics?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.3",
+          "section": "1.1",
           "pages": [
             21,
             22
@@ -9671,8 +9815,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "直线 PPC 表示递增机会成本",
+            "en": "A straight PPC means increasing opportunity cost"
           },
           {
             "id": "b",
@@ -9681,13 +9825,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "弯曲 PPC 表示没有取舍",
+            "en": "A bowed PPC means no trade-off"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "资源用途适应性差异不会影响 PPC 形状",
+            "en": "Resource suitability never affects PPC shape"
           }
         ],
         "correctOptionId": "b",
@@ -9705,8 +9849,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Increasing and constant opportunity cost”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。 资源对两种生产的适用程度不同；先转移最适合新增产品的资源；继续扩大时必须转移越来越不适合的资源；每个新增单位造成更大的另一种产出损失 异质和专业化资源导致递增成本。",
-          "en": "Increasing opportunity cost means that successive additions to one output require ever larger reductions in the other, while constant opportunity cost means that the trade-off ratio does not change. Resources differ in suitability for the two outputs; Resources best suited to the expanding good move first; Further expansion transfers increasingly unsuitable factors; Each extra unit requires a larger loss of the other output Heterogeneous and specialised resources generate increasing cost."
+          "zh-CN": "递增与不变机会成本：递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。 资源对两种生产的适用程度不同；先转移最适合新增产品的资源；继续扩大时必须转移越来越不适合的资源；每个新增单位造成更大的另一种产出损失 异质和专业化资源导致递增成本。",
+          "en": "Increasing and constant opportunity cost: Increasing opportunity cost means that successive additions to one output require ever larger reductions in the other, while constant opportunity cost means that the trade-off ratio does not change. Resources differ in suitability for the two outputs; Resources best suited to the expanding good move first; Further expansion transfers increasingly unsuitable factors; Each extra unit requires a larger loss of the other output Heterogeneous and specialised resources generate increasing cost."
         },
         "keywordGroups": [
           {
@@ -9776,15 +9920,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-30-positive-economics",
       "slug": "positive-economics",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             23,
             24
@@ -9918,13 +10062,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "实证陈述必须已经被证明正确",
+            "en": "A positive statement must already be proven true"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "凡带政策字样就一定规范性",
+            "en": "Every policy-related statement is normative"
           },
           {
             "id": "c",
@@ -9933,8 +10077,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "实证经济学只讨论应该怎样",
+            "en": "Positive economics only concerns what ought to happen"
           }
         ],
         "correctOptionId": "c",
@@ -9952,8 +10096,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Positive economics”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。 提出对事实或因果关系的陈述；把概念转化为可观察指标；收集并分析相关证据；暂时支持、修正或反驳陈述 实证陈述涉及可观察事实或因果。",
-          "en": "Positive economics describes and explains economic reality through statements that can in principle be tested with observation, data, or experiments, without concluding what ought to be done from a value judgement. State a claim about a fact or causal relationship; Translate concepts into observable measures; Collect and analyse relevant evidence; Provisionally support, revise, or reject the claim Positive claims concern observable facts or causes."
+          "zh-CN": "实证经济学：实证经济学描述和解释经济事实，提出原则上可通过观察、数据或实验检验真假的陈述，不以“应该怎样”的价值判断作为结论。 提出对事实或因果关系的陈述；把概念转化为可观察指标；收集并分析相关证据；暂时支持、修正或反驳陈述 实证陈述涉及可观察事实或因果。",
+          "en": "Positive economics: Positive economics describes and explains economic reality through statements that can in principle be tested with observation, data, or experiments, without concluding what ought to be done from a value judgement. State a claim about a fact or causal relationship; Translate concepts into observable measures; Collect and analyse relevant evidence; Provisionally support, revise, or reject the claim Positive claims concern observable facts or causes."
         },
         "keywordGroups": [
           {
@@ -10023,15 +10167,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-31-normative-economics",
       "slug": "normative-economics",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             23,
             24
@@ -10165,18 +10309,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "规范陈述可以仅靠数据唯一证明",
+            "en": "Data alone uniquely prove normative judgements"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "规范性意味着完全不能引用事实",
+            "en": "Normative reasoning cannot use facts"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "公平标准属于无价值判断的会计事实",
+            "en": "Fairness standards are value-free accounting facts"
           },
           {
             "id": "d",
@@ -10199,8 +10343,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Normative economics and value judgements”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。 社会面对多个可能目标；价值判断确定目标的相对重要性；实证证据预测各方案的后果；决策者依标准权衡并形成规范结论 规范结论回答应当怎样。",
-          "en": "Normative economics evaluates policies, institutions, or outcomes as desirable, better, or required by applying value standards such as equity, freedom, efficiency, sustainability, or well-being. Society faces several possible objectives; Value judgements assign relative importance to them; Positive evidence predicts consequences of alternatives; Decision-makers weigh outcomes and reach a normative conclusion Normative conclusions address what ought to be."
+          "zh-CN": "规范经济学与价值判断：规范经济学根据公平、自由、效率、可持续性或福祉等价值标准，对政策、制度或结果作出“应该”“更好”或“可取”的判断。 社会面对多个可能目标；价值判断确定目标的相对重要性；实证证据预测各方案的后果；决策者依标准权衡并形成规范结论 规范结论回答应当怎样。",
+          "en": "Normative economics and value judgements: Normative economics evaluates policies, institutions, or outcomes as desirable, better, or required by applying value standards such as equity, freedom, efficiency, sustainability, or well-being. Society faces several possible objectives; Value judgements assign relative importance to them; Positive evidence predicts consequences of alternatives; Decision-makers weigh outcomes and reach a normative conclusion Normative conclusions address what ought to be."
         },
         "keywordGroups": [
           {
@@ -10270,15 +10414,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-32-logic-hypotheses-theories",
       "slug": "logic-hypotheses-theories",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             24,
             25
@@ -10418,18 +10562,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "模型拟合相关性就一定识别了因果",
+            "en": "Fitting a correlation necessarily identifies causation"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "理论无需产生任何可检验预测",
+            "en": "Theories need no testable predictions"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "假设一旦提出就不允许修改",
+            "en": "A hypothesis can never be revised"
           }
         ],
         "correctOptionId": "a",
@@ -10447,8 +10591,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Logic, hypotheses, theories, and models”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。 观察现象并提出问题；形成假设和机制解释；把关键关系表达为模型并推导预测；用证据检验后保留、修正或替代理论 逻辑连接前提与结论。",
-          "en": "A hypothesis is a provisional testable proposition; a theory is a coherent system of relationships that explains phenomena; a model is a simplified representation of theory; and logic makes inference from premises to conclusions internally consistent. Observe a pattern and pose a question; Form a hypothesis and proposed mechanism; Represent key relationships in a model and derive predictions; Use evidence to retain, revise, or replace the theory Logic links premises to conclusions."
+          "zh-CN": "逻辑、假设、理论与模型：假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。 观察现象并提出问题；形成假设和机制解释；把关键关系表达为模型并推导预测；用证据检验后保留、修正或替代理论 逻辑连接前提与结论。",
+          "en": "Logic, hypotheses, theories, and models: A hypothesis is a provisional testable proposition; a theory is a coherent system of relationships that explains phenomena; a model is a simplified representation of theory; and logic makes inference from premises to conclusions internally consistent. Observe a pattern and pose a question; Form a hypothesis and proposed mechanism; Represent key relationships in a model and derive predictions; Use evidence to retain, revise, or replace the theory Logic links premises to conclusions."
         },
         "keywordGroups": [
           {
@@ -10518,15 +10662,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-33-ceteris-paribus",
       "slug": "ceteris-paribus",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             26
           ]
@@ -10659,8 +10803,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "现实中所有变量永远保持不变",
+            "en": "Every real-world variable stays constant forever"
           },
           {
             "id": "b",
@@ -10669,13 +10813,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "其他条件不变意味着忽略研究变量",
+            "en": "Ceteris paribus ignores the variable being studied"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "同时改变多个因素就能单独识别每个效应",
+            "en": "Changing several factors automatically isolates each effect"
           }
         ],
         "correctOptionId": "b",
@@ -10693,8 +10837,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Ceteris paribus”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。 结果同时受到多个因素影响；分析者选择一个关注变量；暂时固定其他影响因素；推导该变量变化的独立方向性影响 该假设用于隔离单一关系。",
-          "en": "Ceteris paribus means assuming that relevant influences other than the variable under study remain unchanged so that one relationship can be analysed separately. An outcome is influenced by several factors; The analyst selects one variable of interest; Other influences are temporarily held constant; The variable's independent directional effect is derived The assumption isolates one relationship."
+          "zh-CN": "其他条件不变：其他条件不变（ceteris paribus）是假设除被研究变量外，其他可能影响结果的相关因素保持不变，从而分析单一关系。 结果同时受到多个因素影响；分析者选择一个关注变量；暂时固定其他影响因素；推导该变量变化的独立方向性影响 该假设用于隔离单一关系。",
+          "en": "Ceteris paribus: Ceteris paribus means assuming that relevant influences other than the variable under study remain unchanged so that one relationship can be analysed separately. An outcome is influenced by several factors; The analyst selects one variable of interest; Other influences are temporarily held constant; The variable's independent directional effect is derived The assumption isolates one relationship."
         },
         "keywordGroups": [
           {
@@ -10764,15 +10908,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-34-evidence-refutation",
       "slug": "evidence-refutation",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             27,
             28
@@ -10907,13 +11051,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "单个支持案例足以永远证明理论",
+            "en": "One supporting case proves a theory forever"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "任何反例都不应影响模型",
+            "en": "No contrary evidence should affect a model"
           },
           {
             "id": "c",
@@ -10922,8 +11066,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "无法被任何证据挑战的说法更科学",
+            "en": "A claim no evidence can challenge is more scientific"
           }
         ],
         "correctOptionId": "c",
@@ -10941,8 +11085,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Empirical evidence and refutation”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。 理论产生明确且可观察的预测；研究设计确定数据和比较方法；证据显示预测是否得到支持；不一致促使检查测量、假设或理论机制 理论必须产生可检验预测。",
-          "en": "Empirical evidence comes from systematic observation, data, or experiment. Refutation occurs when credible evidence conflicts with a testable theoretical prediction, requiring that prediction to be rejected or revised. A theory generates a clear observable prediction; Research design defines data and comparison; Evidence indicates whether the prediction is supported; Conflict prompts review of measurement, assumptions, or mechanism Theory must yield testable predictions."
+          "zh-CN": "经验证据与证伪：经验证据来自系统观察、数据或实验；证伪是发现可靠证据与理论的可检验预测不一致，从而拒绝或修改该预测。 理论产生明确且可观察的预测；研究设计确定数据和比较方法；证据显示预测是否得到支持；不一致促使检查测量、假设或理论机制 理论必须产生可检验预测。",
+          "en": "Empirical evidence and refutation: Empirical evidence comes from systematic observation, data, or experiment. Refutation occurs when credible evidence conflicts with a testable theoretical prediction, requiring that prediction to be rejected or revised. A theory generates a clear observable prediction; Research design defines data and comparison; Evidence indicates whether the prediction is supported; Conflict prompts review of measurement, assumptions, or mechanism Theory must yield testable predictions."
         },
         "keywordGroups": [
           {
@@ -11012,15 +11156,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-35-equality-equity",
       "slug": "equality-equity",
-      "section": "1.4",
+      "section": "1.2",
       "level": "core",
       "syllabusRefs": [
-        "1.4 The methods of economics"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.4",
+          "section": "1.2",
           "pages": [
             30
           ]
@@ -11153,18 +11297,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "平等与公平在所有情境都完全相同",
+            "en": "Equality and equity are identical in every context"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "差别待遇必定不公平",
+            "en": "Different treatment is always inequitable"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "结果完全相同就不需要说明公平标准",
+            "en": "Identical outcomes remove the need for a fairness criterion"
           },
           {
             "id": "d",
@@ -11187,8 +11331,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Equality and equity”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。 观察群体间资源、机会或结果差异；确定平等指标和公平原则；判断相同待遇是否能产生公正机会；选择普遍或有针对性的政策回应 平等可被描述和测量。",
-          "en": "Equality is a condition of sameness or smaller differences in resources, opportunities, or outcomes. Equity evaluates whether treatment and distribution are justified by an explicit principle of fairness. Observe differences in resources, opportunity, or outcomes; Select an equality measure and fairness principle; Ask whether identical treatment creates fair opportunity; Choose a universal or targeted policy response Equality can be described and measured."
+          "zh-CN": "平等与公平：平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。 观察群体间资源、机会或结果差异；确定平等指标和公平原则；判断相同待遇是否能产生公正机会；选择普遍或有针对性的政策回应 平等可被描述和测量。",
+          "en": "Equality and equity: Equality is a condition of sameness or smaller differences in resources, opportunities, or outcomes. Equity evaluates whether treatment and distribution are justified by an explicit principle of fairness. Observe differences in resources, opportunity, or outcomes; Select an equality measure and fairness principle; Ask whether identical treatment creates fair opportunity; Choose a universal or targeted policy response Equality can be described and measured."
         },
         "keywordGroups": [
           {
@@ -11258,15 +11402,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-36-adam-smith",
       "slug": "adam-smith",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             31,
             32
@@ -11406,18 +11550,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "斯密主张司法和公共工程都无需政府",
+            "en": "Smith rejected all public justice and public works"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "看不见的手保证任何垄断都最优",
+            "en": "The invisible hand guarantees every monopoly is optimal"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "分工只会减少熟练度",
+            "en": "Division of labour only reduces skill"
           }
         ],
         "correctOptionId": "a",
@@ -11435,8 +11579,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Adam Smith and laissez-faire”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。 分工提高劳动专门化和熟练度；交换使专业化产出能够互换；价格与利润协调分散选择；竞争限制部分私人权力并推动适应 分工和交换支持生产率与财富增长。",
-          "en": "Adam Smith's classical economics treated specialisation, market exchange, and competition as important sources of growing wealth. Laissez-faire favours avoiding unnecessary state replacement of decentralised market decisions. Division of labour increases specialisation and skill; Exchange allows specialised outputs to be traded; Prices and profit coordinate decentralised choices; Competition constrains some private power and encourages adaptation Specialisation and exchange support productivity and wealth."
+          "zh-CN": "亚当·斯密与自由放任：亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。 分工提高劳动专门化和熟练度；交换使专业化产出能够互换；价格与利润协调分散选择；竞争限制部分私人权力并推动适应 分工和交换支持生产率与财富增长。",
+          "en": "Adam Smith and laissez-faire: Adam Smith's classical economics treated specialisation, market exchange, and competition as important sources of growing wealth. Laissez-faire favours avoiding unnecessary state replacement of decentralised market decisions. Division of labour increases specialisation and skill; Exchange allows specialised outputs to be traded; Prices and profit coordinate decentralised choices; Competition constrains some private power and encourages adaptation Specialisation and exchange support productivity and wealth."
         },
         "keywordGroups": [
           {
@@ -11506,15 +11650,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-37-utility-marginalism",
       "slug": "utility-marginalism",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             33,
             34
@@ -11648,8 +11792,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "边际分析只看总效用而不看新增单位",
+            "en": "Marginal analysis considers only total utility"
           },
           {
             "id": "b",
@@ -11658,13 +11802,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "总效用高意味着每个新增单位效用都高",
+            "en": "High total utility implies high utility for every extra unit"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "边际收益一定等于平均收益",
+            "en": "Marginal benefit always equals average benefit"
           }
         ],
         "correctOptionId": "b",
@@ -11682,8 +11826,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Utility theory and marginalism”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。 经济主体已经拥有一定数量；额外一单位带来边际收益或效用；获得该单位也产生边际成本；主体比较两者并调整直到继续改变不再有利 选择发生在边际。",
-          "en": "Utility theory treats satisfaction from consumption as a basis for choice. Marginalism studies the extra utility, output, or cost created by a small increase and explains decisions through marginal comparison. An agent already holds or produces some quantity; One more unit creates a marginal benefit or utility; Obtaining that unit also creates marginal cost; The agent adjusts until a further change no longer improves the objective Choice takes place at the margin."
+          "zh-CN": "效用理论与边际主义：效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。 经济主体已经拥有一定数量；额外一单位带来边际收益或效用；获得该单位也产生边际成本；主体比较两者并调整直到继续改变不再有利 选择发生在边际。",
+          "en": "Utility theory and marginalism: Utility theory treats satisfaction from consumption as a basis for choice. Marginalism studies the extra utility, output, or cost created by a small increase and explains decisions through marginal comparison. An agent already holds or produces some quantity; One more unit creates a marginal benefit or utility; Obtaining that unit also creates marginal cost; The agent adjusts until a further change no longer improves the objective Choice takes place at the margin."
         },
         "keywordGroups": [
           {
@@ -11753,15 +11897,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-38-says-law",
       "slug": "says-law",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             34
           ]
@@ -11894,13 +12038,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "萨伊定律保证每件商品都能按任意价格售出",
+            "en": "Say’s law guarantees every good sells at any price"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "生产收入与购买力没有联系",
+            "en": "Production income has no link to purchasing power"
           },
           {
             "id": "c",
@@ -11909,8 +12053,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "它与需求不足能持续的凯恩斯分析完全相同",
+            "en": "It is identical to Keynesian persistent-demand-deficiency analysis"
           }
         ],
         "correctOptionId": "c",
@@ -11928,8 +12072,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Say's Law”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。 企业生产并支付工资、租金与利润；这些要素收入形成购买力；收入用于消费、储蓄或投资融资；价格和利率调整使总体供求重新协调 生产创造收入和潜在购买力。",
-          "en": "Say's Law is commonly summarised as supply creating corresponding demand: production generates income, giving the economy purchasing power to absorb output, so broad and lasting deficient demand should not persist in flexible markets. Firms produce and pay wages, rent, and profit; Factor incomes create purchasing power; Income funds consumption or saving that can finance investment; Price and interest-rate adjustment recoordinates aggregate supply and demand Production generates income and potential purchasing power."
+          "zh-CN": "萨伊定律：萨伊定律通常概括为供给创造相应需求：生产过程产生收入，使总体购买力能够吸收产出，因此全面持久的总需求不足不应在灵活市场中持续。 企业生产并支付工资、租金与利润；这些要素收入形成购买力；收入用于消费、储蓄或投资融资；价格和利率调整使总体供求重新协调 生产创造收入和潜在购买力。",
+          "en": "Say's Law: Say's Law is commonly summarised as supply creating corresponding demand: production generates income, giving the economy purchasing power to absorb output, so broad and lasting deficient demand should not persist in flexible markets. Firms produce and pay wages, rent, and profit; Factor incomes create purchasing power; Income funds consumption or saving that can finance investment; Price and interest-rate adjustment recoordinates aggregate supply and demand Production generates income and potential purchasing power."
         },
         "keywordGroups": [
           {
@@ -11999,15 +12143,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-39-marxist-critique",
       "slug": "marxist-critique",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             35
           ]
@@ -12141,18 +12285,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "马克思主义批判排除生产资料所有权",
+            "en": "Marxist critique excludes ownership of production"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "剩余价值就是任何商品的消费者剩余",
+            "en": "Surplus value is identical to consumer surplus"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "阶级关系与分配没有任何联系",
+            "en": "Class relations have no link to distribution"
           },
           {
             "id": "d",
@@ -12175,8 +12319,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The Marxist critique”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。 生产资料集中在资本所有者手中；无产者出售劳动力获得工资；产出价值与工资之间形成剩余并被积累；积累改变权力、技术、分配并可能加剧冲突 所有权结构影响生产与分配权力。",
-          "en": "The Marxist critique uses ownership of the means of production, class relations between labour and capital, surplus value, and accumulation to analyse distribution, power, and tendencies toward crisis in capitalism. Ownership of productive assets is concentrated among capital owners; Workers sell labour power for wages; A surplus between output and labour compensation is accumulated; Accumulation changes power, technology, distribution, and potential conflict Ownership structures influence power in production and distribution."
+          "zh-CN": "马克思主义批判：马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。 生产资料集中在资本所有者手中；无产者出售劳动力获得工资；产出价值与工资之间形成剩余并被积累；积累改变权力、技术、分配并可能加剧冲突 所有权结构影响生产与分配权力。",
+          "en": "The Marxist critique: The Marxist critique uses ownership of the means of production, class relations between labour and capital, surplus value, and accumulation to analyse distribution, power, and tendencies toward crisis in capitalism. Ownership of productive assets is concentrated among capital owners; Workers sell labour power for wages; A surplus between output and labour compensation is accumulated; Accumulation changes power, technology, distribution, and potential conflict Ownership structures influence power in production and distribution."
         },
         "keywordGroups": [
           {
@@ -12246,15 +12390,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-40-keynesian-revolution",
       "slug": "keynesian-revolution",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             36,
             37
@@ -12393,18 +12537,18 @@ export const knowledgePoints = [
           },
           {
             "id": "b",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "凯恩斯认为价格工资瞬间调整可保证充分就业",
+            "en": "Keynes assumed instant adjustment guarantees full employment"
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "凯恩斯认为支出不足不可能持续",
+            "en": "Keynes ruled out persistent deficient spending"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "任何财政扩张都保证没有通胀成本",
+            "en": "Any fiscal expansion guarantees no inflation cost"
           }
         ],
         "correctOptionId": "a",
@@ -12422,8 +12566,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The Keynesian revolution and macroeconomic policy”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。 悲观预期减少消费或投资；总需求下降使企业减产和裁员；收入下降进一步压低支出；逆周期财政或货币政策尝试打破收缩循环 总需求可以持续低于充分就业水平。",
-          "en": "Keynesian economics holds that expenditure, expectations, and wage-price rigidity influence short-run output and employment, and that public policy can support aggregate demand when private demand is weak and self-correction is slow. Pessimistic expectations reduce consumption or investment; Lower aggregate demand causes firms to cut output and jobs; Falling income further reduces expenditure; Countercyclical fiscal or monetary policy seeks to interrupt the contraction Aggregate demand can remain below full-employment output."
+          "zh-CN": "凯恩斯革命与宏观政策：凯恩斯主义认为支出、预期和价格工资刚性会决定短期产出与就业；当私人需求不足且自我调整缓慢时，公共政策可支持总需求。 悲观预期减少消费或投资；总需求下降使企业减产和裁员；收入下降进一步压低支出；逆周期财政或货币政策尝试打破收缩循环 总需求可以持续低于充分就业水平。",
+          "en": "The Keynesian revolution and macroeconomic policy: Keynesian economics holds that expenditure, expectations, and wage-price rigidity influence short-run output and employment, and that public policy can support aggregate demand when private demand is weak and self-correction is slow. Pessimistic expectations reduce consumption or investment; Lower aggregate demand causes firms to cut output and jobs; Falling income further reduces expenditure; Countercyclical fiscal or monetary policy seeks to interrupt the contraction Aggregate demand can remain below full-employment output."
         },
         "keywordGroups": [
           {
@@ -12493,15 +12637,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-41-monetarist-new-classical",
       "slug": "monetarist-new-classical",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             38,
             39
@@ -12635,8 +12779,8 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "货币主义认为长期货币增长与通胀毫无关系",
+            "en": "Monetarism denies any long-run money-inflation link"
           },
           {
             "id": "b",
@@ -12645,13 +12789,13 @@ export const knowledgePoints = [
           },
           {
             "id": "c",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "理性预期意味着每次预测都无误",
+            "en": "Rational expectations mean every forecast is correct"
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "两种学派在全部假设上完全相同",
+            "en": "The two schools share every assumption"
           }
         ],
         "correctOptionId": "b",
@@ -12669,8 +12813,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “The monetarist and new classical counter-revolution”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。 政策改变货币或总需求路径；家庭和企业形成对通胀与政策的预期；工资、价格和资产选择随预期调整；长期影响更多体现为物价而非持续更高实际产出 长期通胀与货币和名义需求有关。",
-          "en": "Monetarism stresses the long-run relationship between money growth, nominal spending, and inflation. New classical macroeconomics adds rational expectations and market clearing to examine why predictable policy may be offset by agents' responses. Policy changes the path of money or aggregate demand; Households and firms form expectations about inflation and policy; Wages, prices, and asset choices adjust to those expectations; Long-run effects appear more in prices than in permanently higher real output Long-run inflation is linked to money and nominal demand."
+          "zh-CN": "货币主义与新古典反革命：货币主义强调货币供给与名义支出及通胀的长期关系；新古典宏观理论加入理性预期和市场出清，分析可预见政策为何可能被主体行为抵消。 政策改变货币或总需求路径；家庭和企业形成对通胀与政策的预期；工资、价格和资产选择随预期调整；长期影响更多体现为物价而非持续更高实际产出 长期通胀与货币和名义需求有关。",
+          "en": "The monetarist and new classical counter-revolution: Monetarism stresses the long-run relationship between money growth, nominal spending, and inflation. New classical macroeconomics adds rational expectations and market clearing to examine why predictable policy may be offset by agents' responses. Policy changes the path of money or aggregate demand; Households and firms form expectations about inflation and policy; Wages, prices, and asset choices adjust to those expectations; Long-run effects appear more in prices than in permanently higher real output Long-run inflation is linked to money and nominal demand."
         },
         "keywordGroups": [
           {
@@ -12740,15 +12884,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-42-behavioural-economics",
       "slug": "behavioural-economics",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             40
           ]
@@ -12882,13 +13026,13 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "行为经济学认为人永远随机且没有目标",
+            "en": "Behavioural economics assumes people are always random and goalless"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "所有默认选项都是强制禁令",
+            "en": "Every default is a compulsory ban"
           },
           {
             "id": "c",
@@ -12897,8 +13041,8 @@ export const knowledgePoints = [
           },
           {
             "id": "d",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "心理因素不可能改变经济决策",
+            "en": "Psychology cannot affect economic decisions"
           }
         ],
         "correctOptionId": "c",
@@ -12916,8 +13060,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Behavioural economics”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。 决策者面对复杂信息和认知限制；使用简化规则并受呈现方式影响；实际选择偏离标准理性模型；行为证据推动更真实的模型和政策设计 认知和自我控制限制会影响选择。",
-          "en": "Behavioural economics combines psychology and economics to study how heuristics, biases, limited attention, self-control problems, and social preferences shape economic decisions. Decision-makers face complexity and cognitive limits; They use shortcuts and respond to framing; Observed choices depart from the standard rational benchmark; Behavioural evidence informs richer models and policy design Cognitive and self-control limits affect choice."
+          "zh-CN": "行为经济学：行为经济学结合心理学和经济学，研究启发式、偏差、有限注意、自我控制问题与社会偏好如何影响经济决策。 决策者面对复杂信息和认知限制；使用简化规则并受呈现方式影响；实际选择偏离标准理性模型；行为证据推动更真实的模型和政策设计 认知和自我控制限制会影响选择。",
+          "en": "Behavioural economics: Behavioural economics combines psychology and economics to study how heuristics, biases, limited attention, self-control problems, and social preferences shape economic decisions. Decision-makers face complexity and cognitive limits; They use shortcuts and respond to framing; Observed choices depart from the standard rational benchmark; Behavioural evidence informs richer models and policy design Cognitive and self-control limits affect choice."
         },
         "keywordGroups": [
           {
@@ -12987,15 +13131,15 @@ export const knowledgePoints = [
     "meta": {
       "id": "u1-43-circular-economy",
       "slug": "circular-economy",
-      "section": "1.5",
-      "level": "extension",
+      "section": "1.2",
+      "level": "core",
       "syllabusRefs": [
-        "1.5 The evolution of economic thinking"
+        "1.2 How do economists approach the world?"
       ],
       "textbookRefs": [
         {
           "chapter": "1",
-          "section": "1.5",
+          "section": "1.2",
           "pages": [
             41
           ]
@@ -13129,18 +13273,18 @@ export const knowledgePoints = [
         "options": [
           {
             "id": "a",
-            "zh-CN": "它只描述个人偏好，与资源、制度或社会结果无关。",
-            "en": "It concerns personal preference only and has no connection to resources, institutions, or social outcomes."
+            "zh-CN": "循环经济就是收入循环模型",
+            "en": "The circular economy is the circular flow of income"
           },
           {
             "id": "b",
-            "zh-CN": "它意味着同一种经济结果在任何条件下都会自动出现。",
-            "en": "It means the same economic outcome must arise automatically under every set of conditions."
+            "zh-CN": "只增加末端回收足以替代一切设计改进",
+            "en": "More end-stage recycling replaces every design improvement"
           },
           {
             "id": "c",
-            "zh-CN": "它是一项只适用于高收入经济体的会计规则。",
-            "en": "It is an accounting rule that applies only to high-income economies."
+            "zh-CN": "循环意味着资源和能源不再稀缺",
+            "en": "Circularity ends all resource and energy scarcity"
           },
           {
             "id": "d",
@@ -13163,8 +13307,8 @@ export const knowledgePoints = [
           "en": "Briefly explain “Interdependence and the circular economy”, including one causal mechanism and one important implication."
         },
         "modelAnswer": {
-          "zh-CN": "循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。 线性生产开采资源并产生废弃物；设计减少材料并延长产品寿命；维修、再用、再制造和回收形成闭环；较低原生资源需求减轻生态压力并改变商业模式 经济活动依赖社会与自然系统。",
-          "en": "A circular economy is a framework for designing and organising production and consumption to reduce extraction and waste, retain value in products, components, and materials, and support regeneration of natural systems. Linear production extracts resources and generates waste; Design reduces material use and extends product life; Repair, reuse, remanufacture, and recycling create loops; Lower primary-resource demand reduces ecological pressure and changes business models Economic activity depends on social and natural systems."
+          "zh-CN": "相互依存与循环经济：循环经济是一种设计和组织生产消费的框架，目标是减少资源开采和废弃物，在产品、部件和材料层级维持价值，并促进自然系统恢复。 线性生产开采资源并产生废弃物；设计减少材料并延长产品寿命；维修、再用、再制造和回收形成闭环；较低原生资源需求减轻生态压力并改变商业模式 经济活动依赖社会与自然系统。",
+          "en": "Interdependence and the circular economy: A circular economy is a framework for designing and organising production and consumption to reduce extraction and waste, retain value in products, components, and materials, and support regeneration of natural systems. Linear production extracts resources and generates waste; Design reduces material use and extends product life; Repair, reuse, remanufacture, and recycling create loops; Lower primary-resource demand reduces ecological pressure and changes business models Economic activity depends on social and natural systems."
         },
         "keywordGroups": [
           {
@@ -13219,6 +13363,245 @@ export const knowledgePoints = [
               "en": [
                 "Economic activity depends on social and natural systems.",
                 "Circular strategies preserve product and material value before disposal."
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。",
+          "en": "Coverage is calculated across the core concept, causal mechanism, and implication groups; you can inspect and override the final judgement."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u1-44-circular-flow",
+      "slug": "circular-flow",
+      "section": "1.1",
+      "level": "core",
+      "syllabusRefs": [
+        "1.1 What is economics?"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "1",
+          "section": "1.1",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-13-factors-of-production"
+      ],
+      "related": [
+        "u3-01-circular-flow"
+      ],
+      "terms": [
+        "Circular flow, leakages and injections",
+        "收入循环、漏出与注入"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "收入循环",
+          "漏出",
+          "注入"
+        ],
+        "en": [
+          "circular flow",
+          "leakages",
+          "injections"
+        ]
+      },
+      "diagramIds": [
+        "audit-circular-flow"
+      ],
+      "quizIds": [
+        "u1-44-circular-flow-flash-1",
+        "u1-44-circular-flow-mcq-1",
+        "u1-44-circular-flow-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u1-44-circular-flow",
+        "locale": "zh-CN",
+        "title": "收入循环、漏出与注入",
+        "takeaway": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+        "definition": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+        "causalChain": [
+          "家庭提供生产要素获得收入",
+          "收入用于消费或漏出",
+          "注入支出支持企业销售与下一轮收入"
+        ],
+        "realWorldExample": {
+          "title": "原创家庭与企业情境",
+          "sourceUrl": "https://www.bankofengland.co.uk/education/education-resources",
+          "observedAt": "2026-10-18",
+          "explanation": "家庭提供劳动获得工资并购买产出；储蓄、税收、进口为漏出，投资、政府购买、出口为注入。这是模型教学情境，不是国家观测。"
+        },
+        "misconceptions": [
+          "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。"
+        ],
+        "examApplication": [
+          "写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        ],
+        "summary": [
+          "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。"
+        ],
+        "explanation": "家庭提供生产要素获得收入。收入用于消费或漏出。注入支出支持企业销售与下一轮收入。\n\n### 原创情境与推导\n\n原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。\n\n储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。\n\n实际流量指要素与商品，货币流量指支付。两部门模型省略金融、政府和国外，五部门模型明确其联系。"
+      },
+      "en": {
+        "id": "u1-44-circular-flow",
+        "locale": "en",
+        "title": "Circular flow, leakages and injections",
+        "takeaway": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+        "definition": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+        "causalChain": [
+          "Households supply factors and receive income",
+          "income funds consumption or leakages",
+          "injections support firms' sales and the next round of income"
+        ],
+        "realWorldExample": {
+          "title": "Original household–firm scenario",
+          "sourceUrl": "https://www.bankofengland.co.uk/education/education-resources",
+          "observedAt": "2026-10-18",
+          "explanation": "Households provide labour and receive wages, then buy output. Saving, taxes and imports are leakages; investment, government purchases and exports are injections. This is a model illustration, not an observed country case."
+        },
+        "misconceptions": [
+          "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        ],
+        "examApplication": [
+          "State indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        ],
+        "summary": [
+          "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+          "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+        ],
+        "explanation": "Households supply factors and receive income.  income funds consumption or leakages.  injections support firms' sales and the next round of income.\n\n### Original scenario and reasoning\n\nIllustrative example: households supply labour, receive wages and buy firms' output. S, T and M are leakages; I, G and X are injections. Simple steady equilibrium requires planned injections to equal planned leakages, not each individual item to equal its counterpart.\n\nSaving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures.\n\nReal flows describe factors and goods; money flows describe payments. A two-sector model omits banks, government and foreign trade, while the five-sector version makes their links explicit."
+      }
+    },
+    "practice": [
+      {
+        "id": "u1-44-circular-flow-flash-1",
+        "knowledgePointId": "u1-44-circular-flow",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "不看笔记，用自己的话解释“收入循环、漏出与注入”。",
+          "en": "Without notes, explain “Circular flow, leakages and injections” in your own words."
+        },
+        "answer": {
+          "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+        },
+        "explanation": {
+          "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+        }
+      },
+      {
+        "id": "u1-44-circular-flow-mcq-1",
+        "knowledgePointId": "u1-44-circular-flow",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "下列哪一项最准确地概括“收入循环、漏出与注入”？",
+          "en": "Which statement best captures “Circular flow, leakages and injections”?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+            "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+          },
+          {
+            "id": "b",
+            "zh-CN": "储蓄、税收、进口都是注入",
+            "en": "Saving, taxes and imports are all injections"
+          },
+          {
+            "id": "c",
+            "zh-CN": "实际流量与货币流量是完全相同的东西",
+            "en": "Real and money flows are identical"
+          },
+          {
+            "id": "d",
+            "zh-CN": "五部门模型不包含家庭",
+            "en": "The five-sector model excludes households"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "en": "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+        }
+      },
+      {
+        "id": "u1-44-circular-flow-short-1",
+        "knowledgePointId": "u1-44-circular-flow",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "简要解释“收入循环、漏出与注入”，并写出一条因果机制和一个重要含义。",
+          "en": "Briefly explain “Circular flow, leakages and injections”, including one causal mechanism and one important implication."
+        },
+        "modelAnswer": {
+          "zh-CN": "收入循环、漏出与注入：收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。 家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+          "en": "Circular flow, leakages and injections: The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions. Households supply factors and receive income; income funds consumption or leakages; injections support firms' sales and the next round of income The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions."
+        },
+        "keywordGroups": [
+          {
+            "id": "concept",
+            "label": {
+              "zh-CN": "核心概念",
+              "en": "Core concept"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入循环、漏出与注入",
+                "收入循环",
+                "漏出",
+                "注入"
+              ],
+              "en": [
+                "Circular flow, leakages and injections",
+                "circular flow",
+                "leakages",
+                "injections"
+              ]
+            }
+          },
+          {
+            "id": "mechanism",
+            "label": {
+              "zh-CN": "因果机制",
+              "en": "Causal mechanism"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "家庭提供生产要素获得收入",
+                "收入用于消费或漏出"
+              ],
+              "en": [
+                "Households supply factors and receive income",
+                "income funds consumption or leakages"
+              ]
+            }
+          },
+          {
+            "id": "implication",
+            "label": {
+              "zh-CN": "重要含义",
+              "en": "Important implication"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。",
+                "储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。"
+              ],
+              "en": [
+                "The circular flow links income, spending and production among households, firms, finance, government and the foreign sector. Real and monetary flows normally run in opposite directions.",
+                "Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
               ]
             }
           }
@@ -13386,8 +13769,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "沿需求曲线向右下移动。 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4 杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。 想买但无力支付的数量不属于有效需求。",
-          "en": "Move down and right along demand. Illustrative example: coffee falls from 6 to 4 per cup and weekly purchases rise from two to four. Quantity demanded rises. With income and tastes unchanged, this is a movement along the curve, not a rightward shift. Wanting a good without the ability to pay does not constitute effective demand."
+          "zh-CN": "沿需求曲线向右下移动。 愿望需要购买能力支持；固定收入等条件；价格改变时沿同一需求曲线移动 想买但无力支付的数量不属于有效需求。",
+          "en": "Move down and right along demand. Willingness requires purchasing power; hold income and other conditions constant; a price change moves the buyer along the same demand curve Wanting a good without the ability to pay does not constitute effective demand."
         }
       },
       {
@@ -13492,23 +13875,23 @@ export const knowledgePoints = [
       "terms": [
         "需求定律",
         "The law of demand",
+        "自身价格",
+        "own price",
         "其他条件不变",
-        "ceteris paribus",
-        "替代",
-        "substitution",
-        "购买力",
-        "purchasing power"
+        "other things equal",
+        "沿曲线",
+        "along the curve"
       ],
       "synonyms": {
         "zh-CN": [
+          "自身价格",
           "其他条件不变",
-          "替代",
-          "购买力"
+          "沿曲线"
         ],
         "en": [
-          "ceteris paribus",
-          "substitution",
-          "purchasing power"
+          "own price",
+          "other things equal",
+          "along the curve"
         ]
       },
       "diagramIds": [
@@ -13528,9 +13911,9 @@ export const knowledgePoints = [
         "takeaway": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
         "definition": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
         "causalChain": [
-          "价格上升提高购买的机会成本",
-          "消费者转向相对便宜的替代品",
-          "给定收入的实际购买力下降"
+          "自身价格与需求量反向变化",
+          "收入等其他因素保持不变",
+          "在既定需求曲线上比较数量"
         ],
         "misconceptions": [
           "曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。"
@@ -13542,7 +13925,7 @@ export const knowledgePoints = [
           "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。",
           "曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。"
         ],
-        "explanation": "价格上升提高购买的机会成本。消费者转向相对便宜的替代品。给定收入的实际购买力下降。\n\n### 原创情境与推导\n\n原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。\n\n曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        "explanation": "自身价格与需求量反向变化。收入等其他因素保持不变。在既定需求曲线上比较数量。\n\n### 原创情境与推导\n\n原创例：公交票价提高，其他条件不变时需求量通常下降，这是沿曲线移动。收入效应与替代效应的推导属于 HL 深入。\n\n曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
       },
       "en": {
         "id": "u2-02-law-of-demand",
@@ -13551,9 +13934,9 @@ export const knowledgePoints = [
         "takeaway": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
         "definition": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
         "causalChain": [
-          "A price rise increases the opportunity cost of buying",
-          "consumers substitute toward relatively cheaper goods",
-          "purchasing power falls at a given money income"
+          "Own price and quantity demanded move inversely",
+          "hold income and other determinants constant",
+          "compare quantities on the existing demand curve"
         ],
         "misconceptions": [
           "A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
@@ -13565,7 +13948,7 @@ export const knowledgePoints = [
           "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it.",
           "A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
         ],
-        "explanation": "A price rise increases the opportunity cost of buying.  consumers substitute toward relatively cheaper goods.  purchasing power falls at a given money income.\n\n### Original scenario and reasoning\n\nIllustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference.\n\nA downward slope is a conditional relationship, not unconditional causation inferred from correlation.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        "explanation": "Own price and quantity demanded move inversely.  hold income and other determinants constant.  compare quantities on the existing demand curve.\n\n### Original scenario and reasoning\n\nIllustrative example: a bus fare rises and, other things equal, quantity demanded normally falls along the curve. Deriving income and substitution effects is HL detail.\n\nA downward slope is a conditional relationship, not unconditional causation inferred from correlation.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
       }
     },
     "practice": [
@@ -13591,35 +13974,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-02-law-of-demand",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "公交涨价后转乘未涨价地铁，主要体现什么？",
-          "en": "Switching to an unchanged-price train after a bus fare rise illustrates what?"
+          "zh-CN": "只有商品自身价格上升，需求量通常怎样变化？",
+          "en": "Only the good’s own price rises. What normally happens to quantity demanded?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "公交供给增加",
-            "en": "Increased bus supply"
+            "zh-CN": "需求曲线必定右移",
+            "en": "Demand necessarily shifts right"
           },
           {
             "id": "b",
-            "zh-CN": "替代效应",
-            "en": "Substitution effect"
+            "zh-CN": "沿原需求曲线减少",
+            "en": "It falls along the existing demand curve"
           },
           {
             "id": "c",
-            "zh-CN": "所有需求消失",
-            "en": "All demand disappears"
+            "zh-CN": "供给曲线必定左移",
+            "en": "Supply necessarily shifts left"
           },
           {
             "id": "d",
-            "zh-CN": "收入必然增加",
-            "en": "Income necessarily rises"
+            "zh-CN": "需求量必定增加",
+            "en": "Quantity demanded necessarily rises"
           }
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "替代效应。 原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。 曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。",
-          "en": "Substitution effect. Illustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference. A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
+          "zh-CN": "沿原需求曲线减少。 自身价格与需求量反向变化；收入等其他因素保持不变；在既定需求曲线上比较数量 曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。",
+          "en": "It falls along the existing demand curve. Own price and quantity demanded move inversely; hold income and other determinants constant; compare quantities on the existing demand curve A downward slope is a conditional relationship, not unconditional causation inferred from correlation."
         }
       },
       {
@@ -13631,58 +14014,58 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of The law of demand and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。 价格上升提高购买的机会成本；消费者转向相对便宜的替代品；给定收入的实际购买力下降 原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。",
-          "en": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it. A price rise increases the opportunity cost of buying; consumers substitute toward relatively cheaper goods; purchasing power falls at a given money income Illustrative example: a bus fare rises while the train fare stays unchanged, so some passengers switch. Hold service quality and income constant to isolate the price effect. A simultaneous quality improvement would confound the inference."
+          "zh-CN": "其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。 自身价格与需求量反向变化；收入等其他因素保持不变；在既定需求曲线上比较数量 原创例：公交票价提高，其他条件不变时需求量通常下降，这是沿曲线移动。收入效应与替代效应的推导属于 HL 深入。",
+          "en": "Ceteris paribus, a higher price normally reduces quantity demanded and a lower price increases it. Own price and quantity demanded move inversely; hold income and other determinants constant; compare quantities on the existing demand curve Illustrative example: a bus fare rises and, other things equal, quantity demanded normally falls along the curve. Deriving income and substitution effects is HL detail."
         },
         "keywordGroups": [
           {
             "id": "mechanism-1",
             "label": {
-              "zh-CN": "其他条件不变",
-              "en": "ceteris paribus"
+              "zh-CN": "自身价格",
+              "en": "own price"
             },
             "alternatives": {
               "zh-CN": [
-                "其他条件不变",
-                "价格上升提高购买的机会成本"
+                "自身价格",
+                "自身价格与需求量反向变化"
               ],
               "en": [
-                "ceteris paribus",
-                "A price rise increases the opportunity cost of buying"
+                "own price",
+                "Own price and quantity demanded move inversely"
               ]
             }
           },
           {
             "id": "mechanism-2",
             "label": {
-              "zh-CN": "替代",
-              "en": "substitution"
+              "zh-CN": "其他条件不变",
+              "en": "other things equal"
             },
             "alternatives": {
               "zh-CN": [
-                "替代",
-                "消费者转向相对便宜的替代品"
+                "其他条件不变",
+                "收入等其他因素保持不变"
               ],
               "en": [
-                "substitution",
-                "consumers substitute toward relatively cheaper goods"
+                "other things equal",
+                "hold income and other determinants constant"
               ]
             }
           },
           {
             "id": "mechanism-3",
             "label": {
-              "zh-CN": "购买力",
-              "en": "purchasing power"
+              "zh-CN": "沿曲线",
+              "en": "along the curve"
             },
             "alternatives": {
               "zh-CN": [
-                "购买力",
-                "给定收入的实际购买力下降"
+                "沿曲线",
+                "在既定需求曲线上比较数量"
               ],
               "en": [
-                "purchasing power",
-                "purchasing power falls at a given money income"
+                "along the curve",
+                "compare quantities on the existing demand curve"
               ]
             }
           }
@@ -13850,8 +14233,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "需求右移。 原创例：茶和咖啡是替代品。茶变贵会使咖啡需求右移；咖啡机和咖啡是互补品，咖啡机变贵可能使咖啡需求左移。必须明确分析的是哪一种商品。 收入上升对劣等品可能使需求左移，不能一概画右移。",
-          "en": "Demand shifts right. Illustrative example: tea and coffee are substitutes, so dearer tea shifts coffee demand right. Coffee machines and coffee are complements, so dearer machines may shift coffee demand left. Always name the market being analysed. Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
+          "zh-CN": "需求右移。 一个非自身价格因素改变；相同价格下购买意愿或能力改变；整条需求曲线移动 收入上升对劣等品可能使需求左移，不能一概画右移。",
+          "en": "Demand shifts right. A determinant other than own price changes; willingness or ability changes at the same price; the whole demand curve shifts Higher income can shift demand for an inferior good left, so income increases do not always shift demand right."
         }
       },
       {
@@ -14082,8 +14465,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "12。 原创例：价格为 5 元时，甲需求 3 个、乙需求 7 个，市场需求量为 10 个。价格为 8 元时，两人可能只买 1 个和 2 个，市场需求量为 3 个。价格不能相加。 市场需求不是各人的平均需求，也不是竖直相加价格。",
-          "en": "12. Illustrative example: at a price of 5, A buys three units and B buys seven, so market quantity demanded is ten. At a price of 8 they may buy one and two, yielding three. Add quantities, never prices. Market demand is neither average individual demand nor a vertical sum of prices."
+          "zh-CN": "12。 2 + 4 + 6 = 12 市场需求不是各人的平均需求，也不是竖直相加价格。",
+          "en": "12. 2 + 4 + 6 = 12 Market demand is neither average individual demand nor a vertical sum of prices."
         }
       },
       {
@@ -14238,7 +14621,7 @@ export const knowledgePoints = [
           "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。",
           "边际效用递减不等于总效用递减。"
         ],
-        "explanation": "连续单位满足越来越不迫切的用途。额外效用下降。消费者比较每单位支出的边际效用。\n\n### 原创情境与推导\n\n原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。\n\n边际效用递减不等于总效用递减。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
+        "explanation": "连续单位满足越来越不迫切的用途。额外效用下降。消费者比较每单位支出的边际效用。\n\n### 原创情境与推导\n\n原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。 HL 推导：价格上升产生替代效应；对正常品，实际购买力下降的收入效应也减少购买，二者共同解释需求向下倾斜。\n\n边际效用递减不等于总效用递减。\n\n画图区分沿曲线移动与移动曲线，并明确其他条件。"
       },
       "en": {
         "id": "u2-05-marginal-utility",
@@ -14261,7 +14644,7 @@ export const knowledgePoints = [
           "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus.",
           "Diminishing marginal utility is not the same as diminishing total utility."
         ],
-        "explanation": "Successive units satisfy less urgent uses.  extra utility falls.  consumers compare marginal utility per unit of spending.\n\n### Original scenario and reasoning\n\nIllustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure.\n\nDiminishing marginal utility is not the same as diminishing total utility.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
+        "explanation": "Successive units satisfy less urgent uses.  extra utility falls.  consumers compare marginal utility per unit of spending.\n\n### Original scenario and reasoning\n\nIllustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure. HL derivation: a price rise induces substitution away from the good; for a normal good the loss of purchasing power also lowers purchases through the income effect.\n\nDiminishing marginal utility is not the same as diminishing total utility.\n\nDistinguish movements along demand from shifts and state the ceteris paribus assumptions."
       }
     },
     "practice": [
@@ -14314,8 +14697,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "17。 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。 边际效用递减不等于总效用递减。",
-          "en": "17. Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure. Diminishing marginal utility is not the same as diminishing total utility."
+          "zh-CN": "17。 9 + 6 + 2 = 17 边际效用递减不等于总效用递减。",
+          "en": "17. 9 + 6 + 2 = 17 Diminishing marginal utility is not the same as diminishing total utility."
         }
       },
       {
@@ -14327,8 +14710,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Marginal utility and consumer choice and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。 连续单位满足越来越不迫切的用途；额外效用下降；消费者比较每单位支出的边际效用 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。",
-          "en": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus. Successive units satisfy less urgent uses; extra utility falls; consumers compare marginal utility per unit of spending Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure."
+          "zh-CN": "边际效用是多消费一单位商品带来的额外满足；边际效用递减指其他条件不变时，连续增加消费带来的额外满足下降。 连续单位满足越来越不迫切的用途；额外效用下降；消费者比较每单位支出的边际效用 原创例：连续三杯饮料的边际效用为 12、8、3，总效用为 23。边际效用下降时，总效用仍可上升。理性分配预算时比较 MU/P；MU 不是可以直接观察的客观幸福指标。 HL 推导：价格上升产生替代效应；对正常品，实际购买力下降的收入效应也减少购买，二者共同解释需求向下倾斜。",
+          "en": "Marginal utility is the extra satisfaction from an additional unit. Diminishing marginal utility means this extra satisfaction falls as consumption increases, ceteris paribus. Successive units satisfy less urgent uses; extra utility falls; consumers compare marginal utility per unit of spending Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure. HL derivation: a price rise induces substitution away from the good; for a normal good the loss of purchasing power also lowers purchases through the income effect."
         },
         "keywordGroups": [
           {
@@ -14545,8 +14928,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "沿供给曲线增加供给量。 原创例：蛋糕价格从 20 升到 25 元，糕点师延长工作时间而多做 10 个。若投入价格和技术未变，这是沿供给曲线移动，不是供给曲线右移。 供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。",
-          "en": "Higher quantity supplied along supply. Illustrative example: cake prices rise from 20 to 25 and a baker works longer to make ten more. With input prices and technology unchanged, this is a movement along supply, not a shift. Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
+          "zh-CN": "沿供给曲线增加供给量。 其他生产条件保持不变；价格上升提高额外生产的收益；供给量通常沿原曲线增加 供给不等于仓库存货；存货只有在相应价格下愿意出售才进入供给。",
+          "en": "Higher quantity supplied along supply. Hold production conditions constant; a higher price increases the return on extra production; quantity supplied normally rises along the curve Supply is not simply inventory; inventory enters supply when the producer is willing to sell it at the relevant price."
         }
       },
       {
@@ -14776,8 +15159,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "供给右移。 原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。 成本变化移动供给，自身价格变化通常沿供给移动。",
-          "en": "Supply shifts right. Illustrative example: dearer flour raises bread production costs. At each bread price, some previously profitable output becomes unprofitable, shifting bread supply left. Showing this as a demand reduction confuses the two sides of the market. Changing costs shifts supply; changing the output's own price normally moves along supply."
+          "zh-CN": "供给右移。 单位生产成本或生产能力改变；相同产品价格下生产意愿改变；供给向右或向左移动 成本变化移动供给，自身价格变化通常沿供给移动。",
+          "en": "Supply shifts right. Unit costs or productive capacity change; willingness to produce changes at the same output price; supply shifts right or left Changing costs shifts supply; changing the output's own price normally moves along supply."
         }
       },
       {
@@ -15007,8 +15390,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "40。 原创例：同价时甲厂供给 30 台、乙厂供给 20 台，总供给为 50 台。一个月内厂房固定，一年内可建新厂，因此不能把短期限制解释成永久无法增加产量。 短期和长期不是统一的月数，而是投入是否可以全部改变。",
-          "en": "40. Illustrative example: two firms supply 30 and 20 units at the same price, yielding market supply of 50. Buildings may be fixed for a month but adjustable over a year, so a short-run limit need not be permanent. Short and long run are defined by input flexibility, not universal calendar durations."
+          "zh-CN": "40。 15 + 25 = 40 短期和长期不是统一的月数，而是投入是否可以全部改变。",
+          "en": "40. 15 + 25 = 40 Short and long run are defined by input flexibility, not universal calendar durations."
         }
       },
       {
@@ -15238,8 +15621,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "10。 原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为 10。总产量仍在上升；技术不变是这一比较的条件。 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。",
-          "en": "10. Illustrative example: one oven with one, two and three workers produces 10, 25 and 35 units. The second worker adds 15, the third adds ten. Total output still rises. Technology must be held constant for this comparison. Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
+          "zh-CN": "10。 35 − 25 = 10 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。",
+          "en": "10. 35 − 25 = 10 Diminishing returns concerns fixed inputs and differs from diseconomies when all inputs vary in the long run."
         }
       },
       {
@@ -15469,8 +15852,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "8。 原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3 的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。",
-          "en": "8. Illustrative example: output rises from ten to eleven and total cost from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the extra unit adds three to profit. Fixed cost matters for entry but does not directly alter this unit's MC. Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
+          "zh-CN": "8。 MC = (68 − 60) / (11 − 10) = 8 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。",
+          "en": "8. MC = (68 − 60) / (11 − 10) = 8 Price equal to MC does not prove total profit is positive; price must also be compared with average cost."
         }
       },
       {
@@ -15701,8 +16084,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "均衡。 原创例：价格 8 元时买方想买 60 个、卖方想卖 60 个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。 均衡不意味着所有需要都被满足，也不意味着社会最优。",
-          "en": "Equilibrium. Illustrative example: at a price of 8 buyers demand 60 units and sellers supply 60. This is an equilibrium pair. Equilibrium is a comparison benchmark; contracts, inventories and information delays can slow actual adjustment. Equilibrium does not mean all needs are met or that the outcome is socially optimal."
+          "zh-CN": "均衡。 买卖双方在相同价格作出计划；需求量等于供给量；市场出清但不保证结果公平 均衡不意味着所有需要都被满足，也不意味着社会最优。",
+          "en": "Equilibrium. Buyers and sellers plan at a common price; quantities demanded and supplied coincide; the market clears without guaranteeing equity Equilibrium does not mean all needs are met or that the outcome is socially optimal."
         }
       },
       {
@@ -15933,8 +16316,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "30。 原创例：Qd=90、Qs=50，短缺为 40。涨价会沿需求减少需求量、沿供给增加供给量。价格管制可能阻止这一调整，因此不能假设任何短缺都会自动立即消失。 短缺的大小是 Qd−Qs，不是需求量本身。",
-          "en": "30. Illustrative example: Qd=90 and Qs=50 imply a shortage of 40. A price rise lowers quantity demanded and increases quantity supplied along the curves. Controls can prevent adjustment, so shortages need not disappear immediately. The size of a shortage is Qd minus Qs, not quantity demanded itself."
+          "zh-CN": "30。 110 − 80 = 30 短缺的大小是 Qd−Qs，不是需求量本身。",
+          "en": "30. 110 − 80 = 30 The size of a shortage is Qd minus Qs, not quantity demanded itself."
         }
       },
       {
@@ -16165,8 +16548,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "均衡数量增加。 原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。 同时移动时必须保留不确定性，不能随意假定移动幅度相同。",
-          "en": "Equilibrium quantity rises. Illustrative example: when demand and supply both shift right, equilibrium quantity rises but price may rise, fall or stay unchanged. Directions alone cannot determine price. With demand right and supply left, price rises but quantity is ambiguous. Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
+          "zh-CN": "均衡数量增加。 识别变化的决定因素；移动相关曲线而保持其他关系不变；比较新旧均衡价格和数量 同时移动时必须保留不确定性，不能随意假定移动幅度相同。",
+          "en": "Equilibrium quantity rises. Identify the changed determinant; shift the relevant curve while holding other relationships constant; compare old and new equilibrium price and quantity Preserve ambiguity under simultaneous shifts rather than silently assuming equal magnitudes."
         }
       },
       {
@@ -16397,8 +16780,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "激励。 原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。 高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。",
-          "en": "Incentive. Illustrative example: rain damages vegetables and prices rise, encouraging other farms to deliver more and buyers to economise. Ability to pay affects access, so efficient rationing and equitable distribution are distinct criteria. A high price reflects relative market scarcity, not a direct measure of urgency of human need."
+          "zh-CN": "激励。 需求相对供给增加；涨价传递稀缺信号；生产者扩张且部分消费者减少购买 高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。",
+          "en": "Incentive. Demand rises relative to supply; a higher price signals scarcity; producers expand while some buyers reduce purchases A high price reflects relative market scarcity, not a direct measure of urgency of human need."
         }
       },
       {
@@ -16528,13 +16911,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u2-15-surplus-efficiency-flash-1",
         "u2-15-surplus-efficiency-mcq-1",
-        "u2-15-surplus-efficiency-short-1"
+        "u2-15-surplus-efficiency-short-1",
+        "u2-15-surplus-efficiency-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u2-15-surplus-efficiency",
         "locale": "zh-CN",
+        "hlExtension": "原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。",
         "title": "消费者剩余、生产者剩余与效率",
         "takeaway": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
         "definition": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
@@ -16553,11 +16938,12 @@ export const knowledgePoints = [
           "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。",
           "生产者剩余不等于利润，因为它通常没有扣除固定成本。"
         ],
-        "explanation": "需求代表边际利益、供给代表边际成本。交易使利益超过成本的单位被生产。MB=MC 时总剩余达到最大。\n\n### 原创情境与推导\n\n原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。\n\n生产者剩余不等于利润，因为它通常没有扣除固定成本。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
+        "explanation": "需求代表边际利益、供给代表边际成本。交易使利益超过成本的单位被生产。MB=MC 时总剩余达到最大。\n\n### 原创情境与推导\n\n原创例：在无外部性且信息充分的竞争市场，消费者支付低于其支付意愿、生产者收入超过边际成本时形成剩余；固定成本使生产者剩余不同于利润。图形剩余计算属于 HL。\n\n生产者剩余不等于利润，因为它通常没有扣除固定成本。\n\n先指出变化因素，再比较新旧价格、数量与利益相关者。"
       },
       "en": {
         "id": "u2-15-surplus-efficiency",
         "locale": "en",
+        "hlExtension": "Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure.",
         "title": "Surplus and allocative efficiency",
         "takeaway": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
         "definition": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
@@ -16576,7 +16962,7 @@ export const knowledgePoints = [
           "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent.",
           "Producer surplus is not identical to profit because fixed costs have not generally been deducted."
         ],
-        "explanation": "Demand represents marginal benefit and supply marginal cost.  units whose benefits exceed costs are traded.  total surplus is maximised at MB=MC.\n\n### Original scenario and reasoning\n\nIllustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure.\n\nProducer surplus is not identical to profit because fixed costs have not generally been deducted.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
+        "explanation": "Demand represents marginal benefit and supply marginal cost.  units whose benefits exceed costs are traded.  total surplus is maximised at MB=MC.\n\n### Original scenario and reasoning\n\nIllustrative example: in a competitive market without externalities and with adequate information, willingness to pay above price creates consumer surplus and price above marginal cost creates producer surplus. Fixed costs distinguish producer surplus from profit. Diagram-area calculations are HL.\n\nProducer surplus is not identical to profit because fixed costs have not generally been deducted.\n\nIdentify the changed determinant before comparing prices, quantities and stakeholders."
       }
     },
     "practice": [
@@ -16602,35 +16988,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-15-surplus-efficiency",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "支付意愿 18、价格 12，消费者剩余是多少？",
-          "en": "Willingness to pay is 18 and price 12. What is consumer surplus?"
+          "zh-CN": "消费者剩余对应哪种差额？",
+          "en": "Which gap describes consumer surplus?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "12",
-            "en": "12"
+            "zh-CN": "总收入减全部成本",
+            "en": "Revenue minus all costs"
           },
           {
             "id": "b",
-            "zh-CN": "18",
-            "en": "18"
+            "zh-CN": "税收减补贴",
+            "en": "Tax revenue minus subsidies"
           },
           {
             "id": "c",
-            "zh-CN": "6",
-            "en": "6"
+            "zh-CN": "支付意愿与实际支付价格之差",
+            "en": "Willingness to pay minus the price paid"
           },
           {
             "id": "d",
-            "zh-CN": "30",
-            "en": "30"
+            "zh-CN": "价格减固定成本",
+            "en": "Price minus fixed cost"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "6。 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。 生产者剩余不等于利润，因为它通常没有扣除固定成本。",
-          "en": "6. Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure. Producer surplus is not identical to profit because fixed costs have not generally been deducted."
+          "zh-CN": "支付意愿与实际支付价格之差。 需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 生产者剩余不等于利润，因为它通常没有扣除固定成本。",
+          "en": "Willingness to pay minus the price paid. Demand represents marginal benefit and supply marginal cost; units whose benefits exceed costs are traded; total surplus is maximised at MB=MC Producer surplus is not identical to profit because fixed costs have not generally been deducted."
         }
       },
       {
@@ -16642,8 +17028,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Surplus and allocative efficiency and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。 需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。",
-          "en": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent. Demand represents marginal benefit and supply marginal cost; units whose benefits exceed costs are traded; total surplus is maximised at MB=MC Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure."
+          "zh-CN": "消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。 需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 原创例：在无外部性且信息充分的竞争市场，消费者支付低于其支付意愿、生产者收入超过边际成本时形成剩余；固定成本使生产者剩余不同于利润。图形剩余计算属于 HL。",
+          "en": "Consumer surplus is willingness to pay above the price paid; producer surplus is price received above marginal supply cost. Competitive equilibrium can maximise their sum when market-failure assumptions are absent. Demand represents marginal benefit and supply marginal cost; units whose benefits exceed costs are traded; total surplus is maximised at MB=MC Illustrative example: in a competitive market without externalities and with adequate information, willingness to pay above price creates consumer surplus and price above marginal cost creates producer surplus. Fixed costs distinguish producer surplus from profit. Diagram-area calculations are HL."
         },
         "keywordGroups": [
           {
@@ -16701,6 +17087,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u2-15-surplus-efficiency-mcq-hl-1",
+        "knowledgePointId": "u2-15-surplus-efficiency",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "支付意愿 18、价格 12，消费者剩余是多少？",
+          "en": "Willingness to pay is 18 and price 12. What is consumer surplus?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "12",
+            "en": "12"
+          },
+          {
+            "id": "b",
+            "zh-CN": "18",
+            "en": "18"
+          },
+          {
+            "id": "c",
+            "zh-CN": "30",
+            "en": "30"
+          },
+          {
+            "id": "d",
+            "zh-CN": "6",
+            "en": "6"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "6。 18 − 12 = 6",
+          "en": "6. 18 − 12 = 6"
         }
       }
     ]
@@ -16781,7 +17204,7 @@ export const knowledgePoints = [
           "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。",
           "有限理性不是说人没有目标或随机选择。"
         ],
-        "explanation": "可比较的选项很多。搜索和计算有成本。消费者采用简化规则或满意方案。\n\n### 原创情境与推导\n\n原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。\n\n有限理性不是说人没有目标或随机选择。\n\n用具体决策说明模型假设与行为证据的差异。"
+        "explanation": "可比较的选项很多。搜索和计算有成本。消费者采用简化规则或满意方案。\n\n### 原创情境与推导\n\n原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。 有限自控可使人偏离长期储蓄目标；有限自利表示社会偏好、互惠或公平也影响选择，并非所有人只考虑自身物质收益。\n\n有限理性不是说人没有目标或随机选择。\n\n用具体决策说明模型假设与行为证据的差异。"
       },
       "en": {
         "id": "u2-16-bounded-rationality",
@@ -16804,7 +17227,7 @@ export const knowledgePoints = [
           "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing.",
           "Bounded rationality does not mean consumers have no goals or choose randomly."
         ],
-        "explanation": "Many options must be compared.  search and calculation are costly.  consumers adopt simplifying rules or satisfactory options.\n\n### Original scenario and reasoning\n\nIllustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility.\n\nBounded rationality does not mean consumers have no goals or choose randomly.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+        "explanation": "Many options must be compared.  search and calculation are costly.  consumers adopt simplifying rules or satisfactory options.\n\n### Original scenario and reasoning\n\nIllustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility. Bounded self-control can undermine long-term saving plans; bounded selfishness recognises social preferences, reciprocity and fairness rather than pure material self-interest.\n\nBounded rationality does not mean consumers have no goals or choose randomly.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
       }
     },
     "practice": [
@@ -16857,8 +17280,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "满意化。 原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。 有限理性不是说人没有目标或随机选择。",
-          "en": "Satisficing. Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility. Bounded rationality does not mean consumers have no goals or choose randomly."
+          "zh-CN": "满意化。 可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案 有限理性不是说人没有目标或随机选择。",
+          "en": "Satisficing. Many options must be compared; search and calculation are costly; consumers adopt simplifying rules or satisfactory options Bounded rationality does not mean consumers have no goals or choose randomly."
         }
       },
       {
@@ -16870,8 +17293,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Rational choice and bounded rationality and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。 可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案 原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。",
-          "en": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing. Many options must be compared; search and calculation are costly; consumers adopt simplifying rules or satisfactory options Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility."
+          "zh-CN": "理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。 可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案 原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。 有限自控可使人偏离长期储蓄目标；有限自利表示社会偏好、互惠或公平也影响选择，并非所有人只考虑自身物质收益。",
+          "en": "Rational choice assumes consistent preferences and utility maximisation subject to constraints. Bounded rationality recognises limits to information, time and processing ability that can lead to satisficing. Many options must be compared; search and calculation are costly; consumers adopt simplifying rules or satisfactory options Illustrative example: a phone buyer cannot compare every attribute of every model. They set a budget and minimum battery life, then choose the first acceptable model. This saves decision costs without necessarily maximising modelled utility. Bounded self-control can undermine long-term saving plans; bounded selfishness recognises social preferences, reciprocity and fairness rather than pure material self-interest."
         },
         "keywordGroups": [
           {
@@ -17009,7 +17432,7 @@ export const knowledgePoints = [
           "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。",
           "助推不是税收或禁止；减少选择自由的措施需要另行分类。"
         ],
-        "explanation": "注意力与判断受到呈现方式影响。默认或框架改变心理参照。选择在价格未变时也可改变。\n\n### 原创情境与推导\n\n原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。\n\n助推不是税收或禁止；减少选择自由的措施需要另行分类。\n\n用具体决策说明模型假设与行为证据的差异。"
+        "explanation": "注意力与判断受到呈现方式影响。默认或框架改变心理参照。选择在价格未变时也可改变。\n\n### 原创情境与推导\n\n原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。 锚定是过度依赖最先出现的数值；框架效应是同义信息因表达不同而影响选择；可得性偏差是以容易回想的例子替代概率判断。默认选择允许退出，限制选择缩小选项集，强制选择要求主动表态。\n\n助推不是税收或禁止；减少选择自由的措施需要另行分类。\n\n用具体决策说明模型假设与行为证据的差异。"
       },
       "en": {
         "id": "u2-17-biases-nudges",
@@ -17032,7 +17455,7 @@ export const knowledgePoints = [
           "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose.",
           "A nudge is not a tax or prohibition; policies restricting choice require a different classification."
         ],
-        "explanation": "Presentation influences attention and judgement.  defaults or framing alter reference points.  choices can change even without a price change.\n\n### Original scenario and reasoning\n\nIllustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation.\n\nA nudge is not a tax or prohibition; policies restricting choice require a different classification.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+        "explanation": "Presentation influences attention and judgement.  defaults or framing alter reference points.  choices can change even without a price change.\n\n### Original scenario and reasoning\n\nIllustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation. Anchoring overweights an initial number; framing changes choices through presentation of equivalent information; availability substitutes easily recalled examples for probability. Defaults allow opting out, restricted choice narrows options, and mandated choice requires an active decision.\n\nA nudge is not a tax or prohibition; policies restricting choice require a different classification.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
       }
     },
     "practice": [
@@ -17085,8 +17508,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "助推。 原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。 助推不是税收或禁止；减少选择自由的措施需要另行分类。",
-          "en": "A nudge. Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation. A nudge is not a tax or prohibition; policies restricting choice require a different classification."
+          "zh-CN": "助推。 注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变 助推不是税收或禁止；减少选择自由的措施需要另行分类。",
+          "en": "A nudge. Presentation influences attention and judgement; defaults or framing alter reference points; choices can change even without a price change A nudge is not a tax or prohibition; policies restricting choice require a different classification."
         }
       },
       {
@@ -17098,8 +17521,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Behavioural biases and nudges and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。 注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变 原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。",
-          "en": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose. Presentation influences attention and judgement; defaults or framing alter reference points; choices can change even without a price change Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation."
+          "zh-CN": "锚定、损失厌恶、现在偏好及默认选项等可改变选择；助推通过调整选择环境影响行为，同时保留选择自由。 注意力与判断受到呈现方式影响；默认或框架改变心理参照；选择在价格未变时也可改变 原创例：退休储蓄从主动加入改为默认加入但允许退出，可能提高参与率。默认选项不是强制。评价时应讨论退出是否容易、受益者是谁及是否存在操纵风险。 锚定是过度依赖最先出现的数值；框架效应是同义信息因表达不同而影响选择；可得性偏差是以容易回想的例子替代概率判断。默认选择允许退出，限制选择缩小选项集，强制选择要求主动表态。",
+          "en": "Anchoring, loss aversion, present bias and defaults can influence choices. A nudge changes choice architecture while preserving freedom to choose. Presentation influences attention and judgement; defaults or framing alter reference points; choices can change even without a price change Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation. Anchoring overweights an initial number; framing changes choices through presentation of equivalent information; availability substitutes easily recalled examples for probability. Defaults allow opting out, restricted choice narrows options, and mandated choice requires an active decision."
         },
         "keywordGroups": [
           {
@@ -17237,7 +17660,7 @@ export const knowledgePoints = [
           "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。",
           "收入最大化忽略成本，不能直接当作利润最大化。"
         ],
-        "explanation": "所有者与管理者面临不同激励。增长或声誉可能优先。短期产量不一定对应最大利润。\n\n### 原创情境与推导\n\n原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。\n\n收入最大化忽略成本，不能直接当作利润最大化。\n\n用具体决策说明模型假设与行为证据的差异。"
+        "explanation": "所有者与管理者面临不同激励。增长或声誉可能优先。短期产量不一定对应最大利润。\n\n### 原创情境与推导\n\n原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。 企业还可能追求企业社会责任、销售增长或满意利润；这些目标可能牺牲短期利润，也可能通过声誉支持长期收益。\n\n收入最大化忽略成本，不能直接当作利润最大化。\n\n用具体决策说明模型假设与行为证据的差异。"
       },
       "en": {
         "id": "u2-18-firm-objectives",
@@ -17260,7 +17683,7 @@ export const knowledgePoints = [
           "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives.",
           "Revenue maximisation ignores costs and is not equivalent to profit maximisation."
         ],
-        "explanation": "Owners and managers face different incentives.  growth or reputation may take priority.  short-run output need not maximise profit.\n\n### Original scenario and reasoning\n\nIllustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ.\n\nRevenue maximisation ignores costs and is not equivalent to profit maximisation.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
+        "explanation": "Owners and managers face different incentives.  growth or reputation may take priority.  short-run output need not maximise profit.\n\n### Original scenario and reasoning\n\nIllustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ. Firms may also pursue corporate social responsibility, sales growth or satisfactory profit, potentially sacrificing short-run profit or supporting long-run returns through reputation.\n\nRevenue maximisation ignores costs and is not equivalent to profit maximisation.\n\nUse a concrete decision to explain the gap between assumptions and observed behaviour."
       }
     },
     "practice": [
@@ -17313,8 +17736,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "利润下降。 原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。 收入最大化忽略成本，不能直接当作利润最大化。",
-          "en": "Profit falls. Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ. Revenue maximisation ignores costs and is not equivalent to profit maximisation."
+          "zh-CN": "利润下降。 所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润 收入最大化忽略成本，不能直接当作利润最大化。",
+          "en": "Profit falls. Owners and managers face different incentives; growth or reputation may take priority; short-run output need not maximise profit Revenue maximisation ignores costs and is not equivalent to profit maximisation."
         }
       },
       {
@@ -17326,8 +17749,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Alternative objectives of firms and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。 所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润 原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。",
-          "en": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives. Owners and managers face different incentives; growth or reputation may take priority; short-run output need not maximise profit Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ."
+          "zh-CN": "企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。 所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润 原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。 企业还可能追求企业社会责任、销售增长或满意利润；这些目标可能牺牲短期利润，也可能通过声誉支持长期收益。",
+          "en": "Firms may seek profit, revenue, growth, market share, social objectives or satisfactory profit. Managers and owners may have different objectives. Owners and managers face different incentives; growth or reputation may take priority; short-run output need not maximise profit Illustrative example: a platform charges low prices to build market share despite a short-run loss. Low profit alone does not prove a mistaken decision; consider future returns, financing and rivals' responses. Revenue and profit maximisation differ. Firms may also pursue corporate social responsibility, sales growth or satisfactory profit, potentially sacrificing short-run profit or supporting long-run returns through reputation."
         },
         "keywordGroups": [
           {
@@ -17542,8 +17965,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "3。 原创例：价格上涨 10%，需求量下降 20%，PED=-2，绝对值为 2，属于富有弹性。必须说明采用基期还是中点法；比较同一个变化时不要混用两种基数。 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。",
-          "en": "3. Illustrative example: price rises 10% and quantity demanded falls 20%, so PED is -2, with magnitude two: elastic. State whether base-period or midpoint percentages are used and do not mix denominators within a calculation. Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
+          "zh-CN": "3。 PED = −15% / 5% = −3; |PED| = 3 弹性是百分比之比，不是曲线斜率，也不是数量变化除以价格变化。",
+          "en": "3. PED = −15% / 5% = −3; |PED| = 3 Elasticity is a ratio of percentage changes, not the slope or a ratio of absolute changes."
         }
       },
       {
@@ -17771,8 +18194,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "提高绝对值。 原创例：某一品牌瓶装水有很多替代品，全部饮用水的替代选择却较少。狭义市场的需求可能比广义市场更富有弹性。评价税收时还需区分短期习惯和长期适应。 必需品通常缺乏弹性，但并非需求量完全不变。",
-          "en": "Increase its magnitude. Illustrative example: one bottled-water brand has many substitutes, whereas drinking water as a whole has fewer. Narrowly defined markets may be more elastic than broad ones. Tax evaluation should distinguish short-run habits from long-run adaptation. Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
+          "zh-CN": "提高绝对值。 替代品更多或调整时间更长；消费者更容易改变购买方式；需求通常更富有弹性 必需品通常缺乏弹性，但并非需求量完全不变。",
+          "en": "Increase its magnitude. More substitutes or more adjustment time; consumers can change purchases more easily; demand is normally more elastic Necessities are often inelastic, but their quantity demanded is not necessarily completely fixed."
         }
       },
       {
@@ -18000,8 +18423,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "增加。 原创例：价格由 10 到 11，数量由 100 到 80，总收入由 1000 到 880。总收入下降并不直接证明利润下降，因为成本也可能随数量改变。有限变化可直接算 P×Q 来核对。 收入与利润必须分开；利润还需扣除成本。",
-          "en": "Increase it. Illustrative example: price rises from ten to eleven and quantity falls from 100 to 80. Revenue falls from 1000 to 880. This does not by itself prove profit falls because costs may change too. For finite changes, check the actual P×Q products. Keep revenue separate from profit, which also deducts costs."
+          "zh-CN": "增加。 价格上升而数量下降；比较两者百分比变化；数量反应更大时乘积下降 收入与利润必须分开；利润还需扣除成本。",
+          "en": "Increase it. Price rises while quantity falls; compare their percentage changes; if quantity responds proportionately more, the product falls Keep revenue separate from profit, which also deducts costs."
         }
       },
       {
@@ -18153,7 +18576,7 @@ export const knowledgePoints = [
           "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。",
           "YED 分类保留正负号，不能像 PED 分类一样去掉符号。"
         ],
-        "explanation": "收入改变而商品价格保持不变。消费者重新配置预算。数量反应的方向和比例确定 YED。\n\n### 原创情境与推导\n\n原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。\n\nYED 分类保留正负号，不能像 PED 分类一样去掉符号。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+        "explanation": "收入改变而商品价格保持不变。消费者重新配置预算。数量反应的方向和比例确定 YED。\n\n### 原创情境与推导\n\n原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 恩格尔曲线以收入为横轴、需求量为纵轴；正常品向上、劣等品在相关收入区间向下，其斜率本身不等于 YED。\n\nYED 分类保留正负号，不能像 PED 分类一样去掉符号。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
       },
       "en": {
         "id": "u2-22-yed",
@@ -18176,7 +18599,7 @@ export const knowledgePoints = [
           "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities.",
           "Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
         ],
-        "explanation": "Income changes with product price held constant.  consumers reallocate budgets.  the direction and proportion of quantity response determine YED.\n\n### Original scenario and reasoning\n\nIllustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality.\n\nRetain the sign when classifying YED; do not discard it as with PED magnitude classifications.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+        "explanation": "Income changes with product price held constant.  consumers reallocate budgets.  the direction and proportion of quantity response determine YED.\n\n### Original scenario and reasoning\n\nIllustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality. An Engel curve plots income horizontally and quantity demanded vertically: it slopes up for normal goods and down over the relevant range for inferior goods. Its slope is not itself YED.\n\nRetain the sign when classifying YED; do not discard it as with PED magnitude classifications.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
       }
     },
     "practice": [
@@ -18229,8 +18652,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "劣等品。 原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 YED 分类保留正负号，不能像 PED 分类一样去掉符号。",
-          "en": "Inferior good. Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality. Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
+          "zh-CN": "劣等品。 收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED YED 分类保留正负号，不能像 PED 分类一样去掉符号。",
+          "en": "Inferior good. Income changes with product price held constant; consumers reallocate budgets; the direction and proportion of quantity response determine YED Retain the sign when classifying YED; do not discard it as with PED magnitude classifications."
         }
       },
       {
@@ -18242,8 +18665,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Income elasticity of demand and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。 收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED 原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。",
-          "en": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities. Income changes with product price held constant; consumers reallocate budgets; the direction and proportion of quantity response determine YED Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality."
+          "zh-CN": "YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。 收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED 原创例：收入增加 10%，某商品购买量下降 5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 恩格尔曲线以收入为横轴、需求量为纵轴；正常品向上、劣等品在相关收入区间向下，其斜率本身不等于 YED。",
+          "en": "YED is percentage change in quantity demanded divided by percentage change in income. Positive values indicate normal goods and negative values inferior goods. Values above one usually indicate luxuries; between zero and one, necessities. Income changes with product price held constant; consumers reallocate budgets; the direction and proportion of quantity response determine YED Illustrative example: income rises 10% and purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior describes the income-demand relationship, not a moral judgement or necessarily poor quality. An Engel curve plots income horizontally and quantity demanded vertically: it slopes up for normal goods and down over the relevant range for inferior goods. Its slope is not itself YED."
         },
         "keywordGroups": [
           {
@@ -18382,7 +18805,7 @@ export const knowledgePoints = [
           "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。",
           "不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。"
         ],
-        "explanation": "弹性公式包含价格与数量的比例。曲线上位置改变 P/Q。同一斜率产生不同弹性。\n\n### 原创情境与推导\n\n原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。\n\n不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
+        "explanation": "弹性公式包含价格与数量的比例。曲线上位置改变 P/Q。同一斜率产生不同弹性。\n\n### 原创情境与推导\n\n原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。 初级食品短期替代品少、属必需品，因此 PED 往往较低；高 YED 产品随收入增长扩张更快，但这不是对每种服务的保证。\n\n不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。\n\n列公式、代入同一基数的百分比、解释符号与分类。"
       },
       "en": {
         "id": "u2-23-elasticity-extremes",
@@ -18405,7 +18828,7 @@ export const knowledgePoints = [
           "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries.",
           "Visual steepness with different axis scales cannot directly establish relative elasticity."
         ],
-        "explanation": "Elasticity contains the ratio of price to quantity.  location changes P/Q.  the same slope therefore produces different elasticity.\n\n### Original scenario and reasoning\n\nIllustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow.\n\nVisual steepness with different axis scales cannot directly establish relative elasticity.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
+        "explanation": "Elasticity contains the ratio of price to quantity.  location changes P/Q.  the same slope therefore produces different elasticity.\n\n### Original scenario and reasoning\n\nIllustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow. Basic primary foods often have lower short-run PED because they are necessities with fewer substitutes. High-YED goods can expand faster as incomes grow, without implying every service is a luxury.\n\nVisual steepness with different axis scales cannot directly establish relative elasticity.\n\nState the formula, use consistent percentage bases and interpret sign and classification."
       }
     },
     "practice": [
@@ -18458,8 +18881,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "否，P/Q 改变。 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。 不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。",
-          "en": "No, P/Q changes. Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow. Visual steepness with different axis scales cannot directly establish relative elasticity."
+          "zh-CN": "否，P/Q 改变。 弹性公式包含价格与数量的比例；曲线上位置改变 P/Q；同一斜率产生不同弹性 不同坐标尺度下视觉陡峭程度不可直接用于比较弹性。",
+          "en": "No, P/Q changes. Elasticity contains the ratio of price to quantity; location changes P/Q; the same slope therefore produces different elasticity Visual steepness with different axis scales cannot directly establish relative elasticity."
         }
       },
       {
@@ -18471,8 +18894,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Elasticity, slope and changing income and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。 弹性公式包含价格与数量的比例；曲线上位置改变 P/Q；同一斜率产生不同弹性 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。",
-          "en": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries. Elasticity contains the ratio of price to quantity; location changes P/Q; the same slope therefore produces different elasticity Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow."
+          "zh-CN": "同一条直线需求曲线斜率恒定但 PED 会随位置改变；YED 可帮助分析收入增长引起的产业需求变化。 弹性公式包含价格与数量的比例；曲线上位置改变 P/Q；同一斜率产生不同弹性 原创例：直线 Q=100−2P 上，P=10、Q=80 时 PED=-0.25，P=40、Q=20 时 PED=-4。这里的函数仅用于解释斜率与弹性，并非所有现实需求都是线性的。高 YED 服务在收入增长时可能扩张较快。 初级食品短期替代品少、属必需品，因此 PED 往往较低；高 YED 产品随收入增长扩张更快，但这不是对每种服务的保证。",
+          "en": "A straight demand curve has constant slope but different PED at different points. YED also helps analyse how income growth changes demand across industries. Elasticity contains the ratio of price to quantity; location changes P/Q; the same slope therefore produces different elasticity Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow. Basic primary foods often have lower short-run PED because they are necessities with fewer substitutes. High-YED goods can expand faster as incomes grow, without implying every service is a luxury."
         },
         "keywordGroups": [
           {
@@ -18686,8 +19109,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "1.5。 原创例：价格上涨 10%，供给量增加 5%，PES=0.5，缺乏弹性。完全固定的即时产量可以画成竖直供给；并非每一种短期供给都完全无弹性。 PES 衡量供给量反应，不衡量需求变化或供给移动。",
-          "en": "1.5. Illustrative example: price rises 10% and quantity supplied rises 5%, so PES=0.5: inelastic. Completely fixed immediate output gives a vertical supply curve, but not all short-run supply is perfectly inelastic. PES measures quantity supplied response, not a demand change or a supply shift."
+          "zh-CN": "1.5。 PES = 12% / 8% = 1.5 PES 衡量供给量反应，不衡量需求变化或供给移动。",
+          "en": "1.5. PES = 12% / 8% = 1.5 PES measures quantity supplied response, not a demand change or a supply shift."
         }
       },
       {
@@ -18820,6 +19243,7 @@ export const knowledgePoints = [
       "zh-CN": {
         "id": "u2-25-pes-determinants",
         "locale": "zh-CN",
+        "hlExtension": "HL 深入：农作物生产周期长、天气和土地约束较强，短期 PES 往往低于可用闲置设备增产的制成品，但可储存性和具体产能会改变比较。",
         "title": "PES、产能与时间",
         "takeaway": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
         "definition": "闲置产能、库存、投入可移动性、生产周期和调整时间决定供给对价格的反应程度。",
@@ -18843,6 +19267,7 @@ export const knowledgePoints = [
       "en": {
         "id": "u2-25-pes-determinants",
         "locale": "en",
+        "hlExtension": "HL detail: long biological cycles, weather and land constraints often make primary-product PES lower in the short run than manufactured goods with spare capacity. Storage and actual capacity can change the comparison.",
         "title": "PES, capacity and time",
         "takeaway": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price.",
         "definition": "Spare capacity, inventories, factor mobility, production periods and adjustment time determine how readily supply responds to price.",
@@ -18914,8 +19339,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "更多闲置产能。 原创例：印刷厂有空闲机器，可迅速响应价格上涨；果园需要多年才能增加成熟果树。长期投入更可调整，供给通常更富有弹性，但土地和生态约束仍可存在。 时间更长通常提高 PES，但不是无条件保证。",
-          "en": "More spare capacity. Illustrative example: a printer with idle machines can respond quickly to higher prices, while an orchard needs years to grow mature trees. Long-run input flexibility normally raises elasticity, but land and ecological limits may persist. More time normally increases PES but does not guarantee it under every constraint."
+          "zh-CN": "更多闲置产能。 可动用库存或闲置机器；生产可迅速扩张；供给反应较大且 PES 通常较高 时间更长通常提高 PES，但不是无条件保证。",
+          "en": "More spare capacity. Inventories or idle machines are available; production expands quickly; quantity response is larger and PES is normally higher More time normally increases PES but does not guarantee it under every constraint."
         }
       },
       {
@@ -18995,7 +19420,7 @@ export const knowledgePoints = [
       "id": "u2-26-pes-application",
       "slug": "pes-application",
       "section": "2.6",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "2.6 Elasticity of supply"
       ],
@@ -19142,8 +19567,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "价格上涨，数量不变。 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算 PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。 需求补助不能自动消除供给侧限制。",
-          "en": "Price rises, quantity unchanged. Illustrative example: price rises from 20 to 22 and supply from 100 to 105. Using initial values, PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can raise rents in the short run rather than add many homes. A demand subsidy does not automatically remove supply-side constraints."
+          "zh-CN": "价格上涨，数量不变。 需求刺激使需求右移；产能限制供给反应；供给越缺乏弹性价格反应通常越大 需求补助不能自动消除供给侧限制。",
+          "en": "Price rises, quantity unchanged. Demand stimulus shifts demand right; capacity constrains supply response; more inelastic supply normally creates a larger price response A demand subsidy does not automatically remove supply-side constraints."
         }
       },
       {
@@ -19274,13 +19699,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u2-27-price-ceiling-flash-1",
         "u2-27-price-ceiling-mcq-1",
-        "u2-27-price-ceiling-short-1"
+        "u2-27-price-ceiling-short-1",
+        "u2-27-price-ceiling-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u2-27-price-ceiling",
         "locale": "zh-CN",
+        "hlExtension": "原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。",
         "title": "最高限价",
         "takeaway": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
         "definition": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
@@ -19299,11 +19726,12 @@ export const knowledgePoints = [
           "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。",
           "高于均衡的最高限价通常没有约束力。"
         ],
-        "explanation": "价格被限制在均衡以下。买方需求量增加、卖方供给量减少。短缺需要非价格配给。\n\n### 原创情境与推导\n\n原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。\n\n高于均衡的最高限价通常没有约束力。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        "explanation": "价格被限制在均衡以下。买方需求量增加、卖方供给量减少。短缺需要非价格配给。\n\n### 原创情境与推导\n\n原创例：低于均衡的最高限价使需求量超过供给量，可能出现排队、黑市和非价格配给；低租金不保证人人有房。数量与支出计算属于 HL。\n\n高于均衡的最高限价通常没有约束力。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
       },
       "en": {
         "id": "u2-27-price-ceiling",
         "locale": "en",
+        "hlExtension": "Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household.",
         "title": "Price ceilings",
         "takeaway": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
         "definition": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
@@ -19322,7 +19750,7 @@ export const knowledgePoints = [
           "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand.",
           "A ceiling above equilibrium is normally non-binding."
         ],
-        "explanation": "Price is held below equilibrium.  quantity demanded rises and quantity supplied falls.  shortages require non-price rationing.\n\n### Original scenario and reasoning\n\nIllustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household.\n\nA ceiling above equilibrium is normally non-binding.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        "explanation": "Price is held below equilibrium.  quantity demanded rises and quantity supplied falls.  shortages require non-price rationing.\n\n### Original scenario and reasoning\n\nIllustrative example: a ceiling below equilibrium creates excess demand and can lead to queues, black markets and non-price rationing. Low rent does not guarantee housing access. Quantity and expenditure calculations are HL.\n\nA ceiling above equilibrium is normally non-binding.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
       }
     },
     "practice": [
@@ -19348,35 +19776,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-27-price-ceiling",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "限价下 Qd=120、Qs=80，短缺多少？",
-          "en": "At a ceiling Qd=120 and Qs=80. What is the shortage?"
+          "zh-CN": "低于均衡的最高限价通常产生什么？",
+          "en": "What normally follows a price ceiling below equilibrium?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "80",
-            "en": "80"
+            "zh-CN": "过剩",
+            "en": "A surplus"
           },
           {
             "id": "b",
-            "zh-CN": "120",
-            "en": "120"
+            "zh-CN": "价格必升至均衡以上",
+            "en": "Price must rise above equilibrium"
           },
           {
             "id": "c",
-            "zh-CN": "40",
-            "en": "40"
+            "zh-CN": "短缺",
+            "en": "A shortage"
           },
           {
             "id": "d",
-            "zh-CN": "200",
-            "en": "200"
+            "zh-CN": "供需曲线必同时右移",
+            "en": "Both curves must shift right"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "40。 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。 高于均衡的最高限价通常没有约束力。",
-          "en": "40. Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household. A ceiling above equilibrium is normally non-binding."
+          "zh-CN": "短缺。 价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 高于均衡的最高限价通常没有约束力。",
+          "en": "A shortage. Price is held below equilibrium; quantity demanded rises and quantity supplied falls; shortages require non-price rationing A ceiling above equilibrium is normally non-binding."
         }
       },
       {
@@ -19388,8 +19816,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Price ceilings and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。 价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。",
-          "en": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand. Price is held below equilibrium; quantity demanded rises and quantity supplied falls; shortages require non-price rationing Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues, connections or black markets may allocate goods. Low controlled rent does not guarantee access for every low-income household."
+          "zh-CN": "最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。 价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 原创例：低于均衡的最高限价使需求量超过供给量，可能出现排队、黑市和非价格配给；低租金不保证人人有房。数量与支出计算属于 HL。",
+          "en": "A price ceiling sets a legal maximum price. Below equilibrium it is binding and normally creates excess demand. Price is held below equilibrium; quantity demanded rises and quantity supplied falls; shortages require non-price rationing Illustrative example: a ceiling below equilibrium creates excess demand and can lead to queues, black markets and non-price rationing. Low rent does not guarantee housing access. Quantity and expenditure calculations are HL."
         },
         "keywordGroups": [
           {
@@ -19447,6 +19875,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u2-27-price-ceiling-mcq-hl-1",
+        "knowledgePointId": "u2-27-price-ceiling",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "限价下 Qd=120、Qs=80，短缺多少？",
+          "en": "At a ceiling Qd=120 and Qs=80. What is the shortage?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "80",
+            "en": "80"
+          },
+          {
+            "id": "b",
+            "zh-CN": "120",
+            "en": "120"
+          },
+          {
+            "id": "c",
+            "zh-CN": "200",
+            "en": "200"
+          },
+          {
+            "id": "d",
+            "zh-CN": "40",
+            "en": "40"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "40。 120 − 80 = 40",
+          "en": "40. 120 − 80 = 40"
         }
       }
     ]
@@ -19507,13 +19972,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u2-28-price-floor-flash-1",
         "u2-28-price-floor-mcq-1",
-        "u2-28-price-floor-short-1"
+        "u2-28-price-floor-short-1",
+        "u2-28-price-floor-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u2-28-price-floor",
         "locale": "zh-CN",
+        "hlExtension": "原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。",
         "title": "最低限价与最低工资",
         "takeaway": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
         "definition": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
@@ -19532,11 +19999,12 @@ export const knowledgePoints = [
           "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。",
           "低于均衡的最低限价通常不改变市场交易。"
         ],
-        "explanation": "价格被保持在均衡以上。供给量上升、需求量下降。过剩可能由政府购买或积累。\n\n### 原创情境与推导\n\n原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。\n\n低于均衡的最低限价通常不改变市场交易。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        "explanation": "价格被保持在均衡以上。供给量上升、需求量下降。过剩可能由政府购买或积累。\n\n### 原创情境与推导\n\n原创例：高于均衡的最低价使供给量超过需求量；政府若购买过剩需承担财政成本。竞争劳动市场的最低工资可增加劳动过剩，但实际结果也取决于雇主势力、执行与生产率。数值计算属于 HL。\n\n低于均衡的最低限价通常不改变市场交易。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
       },
       "en": {
         "id": "u2-28-price-floor",
         "locale": "en",
+        "hlExtension": "Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact.",
         "title": "Price floors and minimum wages",
         "takeaway": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
         "definition": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
@@ -19555,7 +20023,7 @@ export const knowledgePoints = [
           "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model.",
           "A floor below equilibrium normally does not change market trades."
         ],
-        "explanation": "Price is held above equilibrium.  supply rises and demand falls.  surplus may be bought by government or accumulate.\n\n### Original scenario and reasoning\n\nIllustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact.\n\nA floor below equilibrium normally does not change market trades.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        "explanation": "Price is held above equilibrium.  supply rises and demand falls.  surplus may be bought by government or accumulate.\n\n### Original scenario and reasoning\n\nIllustrative example: a floor above equilibrium creates excess supply, with public costs if government buys it. A minimum wage can create excess labour supply in a competitive model; actual outcomes also depend on employer power, enforcement and productivity. Numerical calculations are HL.\n\nA floor below equilibrium normally does not change market trades.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
       }
     },
     "practice": [
@@ -19581,35 +20049,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-28-price-floor",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "最低价下 Qs=75、Qd=50，过剩多少？",
-          "en": "At a floor Qs=75 and Qd=50. What is the surplus?"
+          "zh-CN": "高于均衡的最低价通常造成什么？",
+          "en": "What normally follows a price floor above equilibrium?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "50",
-            "en": "50"
+            "zh-CN": "需求量超过供给量",
+            "en": "Quantity demanded exceeds supply"
           },
           {
             "id": "b",
-            "zh-CN": "75",
-            "en": "75"
+            "zh-CN": "所有企业利润必定为零",
+            "en": "Every firm must earn zero profit"
           },
           {
             "id": "c",
-            "zh-CN": "125",
-            "en": "125"
+            "zh-CN": "消费者购买必无限增加",
+            "en": "Consumer purchases must rise without limit"
           },
           {
             "id": "d",
-            "zh-CN": "25",
-            "en": "25"
+            "zh-CN": "供给量超过需求量",
+            "en": "Quantity supplied exceeds quantity demanded"
           }
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "25。 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。 低于均衡的最低限价通常不改变市场交易。",
-          "en": "25. Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact. A floor below equilibrium normally does not change market trades."
+          "zh-CN": "供给量超过需求量。 价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 低于均衡的最低限价通常不改变市场交易。",
+          "en": "Quantity supplied exceeds quantity demanded. Price is held above equilibrium; supply rises and demand falls; surplus may be bought by government or accumulate A floor below equilibrium normally does not change market trades."
         }
       },
       {
@@ -19621,8 +20089,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Price floors and minimum wages and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。 价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。",
-          "en": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model. Price is held above equilibrium; supply rises and demand falls; surplus may be bought by government or accumulate Illustrative example: a farm price floor yields Qs=90 and Qd=60, a surplus of 30. Buying all the surplus costs the floor price times 30. Labour outcomes also depend on employer power, enforcement and productivity; the competitive prediction is not a universal empirical fact."
+          "zh-CN": "最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。 价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 原创例：高于均衡的最低价使供给量超过需求量；政府若购买过剩需承担财政成本。竞争劳动市场的最低工资可增加劳动过剩，但实际结果也取决于雇主势力、执行与生产率。数值计算属于 HL。",
+          "en": "A price floor sets a legal minimum price. Above equilibrium it is binding and creates excess supply. A minimum wage can create excess labour supply in the competitive labour-market model. Price is held above equilibrium; supply rises and demand falls; surplus may be bought by government or accumulate Illustrative example: a floor above equilibrium creates excess supply, with public costs if government buys it. A minimum wage can create excess labour supply in a competitive model; actual outcomes also depend on employer power, enforcement and productivity. Numerical calculations are HL."
         },
         "keywordGroups": [
           {
@@ -19680,6 +20148,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u2-28-price-floor-mcq-hl-1",
+        "knowledgePointId": "u2-28-price-floor",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "最低价下 Qs=75、Qd=50，过剩多少？",
+          "en": "At a floor Qs=75 and Qd=50. What is the surplus?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "25",
+            "en": "25"
+          },
+          {
+            "id": "b",
+            "zh-CN": "50",
+            "en": "50"
+          },
+          {
+            "id": "c",
+            "zh-CN": "75",
+            "en": "75"
+          },
+          {
+            "id": "d",
+            "zh-CN": "125",
+            "en": "125"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "25。 75 − 50 = 25",
+          "en": "25. 75 − 50 = 25"
         }
       }
     ]
@@ -19740,13 +20245,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u2-29-indirect-tax-flash-1",
         "u2-29-indirect-tax-mcq-1",
-        "u2-29-indirect-tax-short-1"
+        "u2-29-indirect-tax-short-1",
+        "u2-29-indirect-tax-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u2-29-indirect-tax",
         "locale": "zh-CN",
+        "hlExtension": "原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。",
         "title": "间接税与税收负担",
         "takeaway": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
         "definition": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
@@ -19765,11 +20272,12 @@ export const knowledgePoints = [
           "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。",
           "向企业征税并不意味着企业承担全部经济负担。"
         ],
-        "explanation": "税提高交易边际成本。交易量下降并形成买卖价格差。较缺乏弹性的一方通常承担更大负担。\n\n### 原创情境与推导\n\n原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。\n\n向企业征税并不意味着企业承担全部经济负担。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        "explanation": "税提高交易边际成本。交易量下降并形成买卖价格差。较缺乏弹性的一方通常承担更大负担。\n\n### 原创情境与推导\n\n原创例：单位税使买方支付与卖方净收之间出现楔子，通常减少交易量。相对缺乏弹性的一方通常承担较大税负；法定向谁征税不决定最终负担。税额与收入计算属于 HL。\n\n向企业征税并不意味着企业承担全部经济负担。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
       },
       "en": {
         "id": "u2-29-indirect-tax",
         "locale": "en",
+        "hlExtension": "Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers.",
         "title": "Indirect taxes and tax incidence",
         "takeaway": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
         "definition": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
@@ -19788,7 +20296,7 @@ export const knowledgePoints = [
           "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax.",
           "Collecting the tax from firms does not mean firms bear the entire economic burden."
         ],
-        "explanation": "Tax raises the marginal cost of trading.  quantity falls and buyer/seller prices diverge.  the relatively inelastic side usually bears more burden.\n\n### Original scenario and reasoning\n\nIllustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers.\n\nCollecting the tax from firms does not mean firms bear the entire economic burden.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        "explanation": "Tax raises the marginal cost of trading.  quantity falls and buyer/seller prices diverge.  the relatively inelastic side usually bears more burden.\n\n### Original scenario and reasoning\n\nIllustrative example: a per-unit tax creates a wedge between buyer payment and seller receipts, normally reducing quantity. The relatively inelastic side normally bears more burden; statutory collection does not determine incidence. Numerical tax and revenue calculations are HL.\n\nCollecting the tax from firms does not mean firms bear the entire economic burden.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
       }
     },
     "practice": [
@@ -19814,35 +20322,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-29-indirect-tax",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "买方支付 14、卖方净收 10，单位税为多少？",
-          "en": "Buyers pay 14 and sellers receive ten. What is the per-unit tax?"
+          "zh-CN": "在通常的竞争模型中，哪方承担较大单位税负？",
+          "en": "In the usual competitive model, which side bears more of a unit tax?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "4",
-            "en": "4"
+            "zh-CN": "相对缺乏弹性的一方",
+            "en": "The relatively inelastic side"
           },
           {
             "id": "b",
-            "zh-CN": "10",
-            "en": "10"
+            "zh-CN": "法定缴税方必承担全部",
+            "en": "The statutory payer always bears all of it"
           },
           {
             "id": "c",
-            "zh-CN": "14",
-            "en": "14"
+            "zh-CN": "相对有弹性的一方必承担全部",
+            "en": "The more elastic side always bears all of it"
           },
           {
             "id": "d",
-            "zh-CN": "24",
-            "en": "24"
+            "zh-CN": "双方始终各半",
+            "en": "The split is always equal"
           }
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "4。 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。 向企业征税并不意味着企业承担全部经济负担。",
-          "en": "4. Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers. Collecting the tax from firms does not mean firms bear the entire economic burden."
+          "zh-CN": "相对缺乏弹性的一方。 税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 向企业征税并不意味着企业承担全部经济负担。",
+          "en": "The relatively inelastic side. Tax raises the marginal cost of trading; quantity falls and buyer/seller prices diverge; the relatively inelastic side usually bears more burden Collecting the tax from firms does not mean firms bear the entire economic burden."
         }
       },
       {
@@ -19854,8 +20362,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Indirect taxes and tax incidence and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。 税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 原创例：税前价格 10，税后买方支付 13，卖方净收 9，单位税为 4。买方承担 3、卖方承担 1。若交易量为 50，政府收入为 200；这些数字是教学假设。",
-          "en": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax. Tax raises the marginal cost of trading; quantity falls and buyer/seller prices diverge; the relatively inelastic side usually bears more burden Illustrative example: the pre-tax price is ten; buyers then pay 13 and sellers receive nine. The tax is four: buyers bear three and sellers one. At 50 trades, government revenue is 200. These are hypothetical teaching numbers."
+          "zh-CN": "单位间接税在买方支付价格与卖方净收入之间造成税额楔子；经济负担由相对弹性决定，而非仅由法定缴税者决定。 税提高交易边际成本；交易量下降并形成买卖价格差；较缺乏弹性的一方通常承担更大负担 原创例：单位税使买方支付与卖方净收之间出现楔子，通常减少交易量。相对缺乏弹性的一方通常承担较大税负；法定向谁征税不决定最终负担。税额与收入计算属于 HL。",
+          "en": "A specific indirect tax creates a per-unit wedge between the buyer's price and the seller's net receipt. Economic incidence depends on relative elasticities, not just on who legally remits the tax. Tax raises the marginal cost of trading; quantity falls and buyer/seller prices diverge; the relatively inelastic side usually bears more burden Illustrative example: a per-unit tax creates a wedge between buyer payment and seller receipts, normally reducing quantity. The relatively inelastic side normally bears more burden; statutory collection does not determine incidence. Numerical tax and revenue calculations are HL."
         },
         "keywordGroups": [
           {
@@ -19913,6 +20421,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u2-29-indirect-tax-mcq-hl-1",
+        "knowledgePointId": "u2-29-indirect-tax",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "买方支付 14、卖方净收 10，单位税为多少？",
+          "en": "Buyers pay 14 and sellers receive ten. What is the per-unit tax?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "b",
+            "zh-CN": "4",
+            "en": "4"
+          },
+          {
+            "id": "c",
+            "zh-CN": "14",
+            "en": "14"
+          },
+          {
+            "id": "d",
+            "zh-CN": "24",
+            "en": "24"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "4。 14 − 10 = 4",
+          "en": "4. 14 − 10 = 4"
         }
       }
     ]
@@ -19973,13 +20518,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u2-30-subsidy-flash-1",
         "u2-30-subsidy-mcq-1",
-        "u2-30-subsidy-short-1"
+        "u2-30-subsidy-short-1",
+        "u2-30-subsidy-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u2-30-subsidy",
         "locale": "zh-CN",
+        "hlExtension": "原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。",
         "title": "补贴与财政成本",
         "takeaway": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
         "definition": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
@@ -19998,11 +20545,12 @@ export const knowledgePoints = [
           "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。",
           "补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。"
         ],
-        "explanation": "补贴降低生产者净边际成本。供给右移、数量增加。财政支出与收益在买卖双方间分配。\n\n### 原创情境与推导\n\n原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。\n\n补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
+        "explanation": "补贴降低生产者净边际成本。供给右移、数量增加。财政支出与收益在买卖双方间分配。\n\n### 原创情境与推导\n\n原创例：单位补贴使生产者净收高于消费者支付，通常增加数量并产生财政支出；应比较消费者与生产者收益、融资机会成本及外部性。财政支出数值计算属于 HL。\n\n补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。\n\n在图中标出价格、数量和政策楔子；评价弹性、财政与分配。"
       },
       "en": {
         "id": "u2-30-subsidy",
         "locale": "en",
+        "hlExtension": "Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone.",
         "title": "Subsidies and fiscal cost",
         "takeaway": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
         "definition": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
@@ -20021,7 +20569,7 @@ export const knowledgePoints = [
           "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity.",
           "Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
         ],
-        "explanation": "A subsidy lowers producers' net marginal cost.  supply shifts right and quantity rises.  spending and gains are distributed between buyers and sellers.\n\n### Original scenario and reasoning\n\nIllustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone.\n\nUse the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
+        "explanation": "A subsidy lowers producers' net marginal cost.  supply shifts right and quantity rises.  spending and gains are distributed between buyers and sellers.\n\n### Original scenario and reasoning\n\nIllustrative example: a subsidy raises producer receipts above consumer payment, normally increasing quantity with a fiscal cost. Compare consumer and producer gains, financing opportunity cost and externalities. Numerical fiscal calculations are HL.\n\nUse the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity.\n\nLabel prices, quantities and the policy wedge; evaluate elasticities, public finance and distribution."
       }
     },
     "practice": [
@@ -20047,35 +20595,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u2-30-subsidy",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "单位补贴 5，补贴数量 40，政府支出为多少？",
-          "en": "A subsidy is five per unit on 40 units. What is government spending?"
+          "zh-CN": "补贴的财政成本为何重要？",
+          "en": "Why does a subsidy’s fiscal cost matter?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "8",
-            "en": "8"
+            "zh-CN": "政府资金没有资源成本",
+            "en": "Government funds have no resource cost"
           },
           {
             "id": "b",
-            "zh-CN": "200",
-            "en": "200"
+            "zh-CN": "资金具有其他用途的机会成本",
+            "en": "Funds have an opportunity cost in alternative uses"
           },
           {
             "id": "c",
-            "zh-CN": "40",
-            "en": "40"
+            "zh-CN": "补贴必使所有外部性消失",
+            "en": "Subsidies remove every externality"
           },
           {
             "id": "d",
-            "zh-CN": "45",
-            "en": "45"
+            "zh-CN": "产量越高必定越有效率",
+            "en": "More output always means more efficiency"
           }
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "200。 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。 补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。",
-          "en": "200. Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone. Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
+          "zh-CN": "资金具有其他用途的机会成本。 补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配 补贴后的均衡数量应进入财政成本计算，不能使用税补前数量。",
+          "en": "Funds have an opportunity cost in alternative uses. A subsidy lowers producers' net marginal cost; supply shifts right and quantity rises; spending and gains are distributed between buyers and sellers Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity."
         }
       },
       {
@@ -20087,8 +20635,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Subsidies and fiscal cost and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。 补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配 原创例：买方付 8、卖方收 11，补贴为 3。补贴数量 60 时政府花费 180。若资助污染产品，增产可能扩大外部成本；补贴必须结合政策目标评价，而非只看数量增加。",
-          "en": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity. A subsidy lowers producers' net marginal cost; supply shifts right and quantity rises; spending and gains are distributed between buyers and sellers Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone."
+          "zh-CN": "单位补贴使卖方收到的金额高于买方支付价格，鼓励生产和消费；政府支出为单位补贴乘以补贴数量。 补贴降低生产者净边际成本；供给右移、数量增加；财政支出与收益在买卖双方间分配 原创例：单位补贴使生产者净收高于消费者支付，通常增加数量并产生财政支出；应比较消费者与生产者收益、融资机会成本及外部性。财政支出数值计算属于 HL。",
+          "en": "A per-unit subsidy makes the seller's receipt exceed the buyer's payment and encourages production and consumption. Government spending is the subsidy per unit times subsidised quantity. A subsidy lowers producers' net marginal cost; supply shifts right and quantity rises; spending and gains are distributed between buyers and sellers Illustrative example: a subsidy raises producer receipts above consumer payment, normally increasing quantity with a fiscal cost. Compare consumer and producer gains, financing opportunity cost and externalities. Numerical fiscal calculations are HL."
         },
         "keywordGroups": [
           {
@@ -20146,6 +20694,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u2-30-subsidy-mcq-hl-1",
+        "knowledgePointId": "u2-30-subsidy",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "单位补贴 5，补贴数量 40，政府支出为多少？",
+          "en": "A subsidy is five per unit on 40 units. What is government spending?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "8",
+            "en": "8"
+          },
+          {
+            "id": "b",
+            "zh-CN": "40",
+            "en": "40"
+          },
+          {
+            "id": "c",
+            "zh-CN": "200",
+            "en": "200"
+          },
+          {
+            "id": "d",
+            "zh-CN": "45",
+            "en": "45"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "200。 5 × 40 = 200",
+          "en": "200. 5 × 40 = 200"
         }
       }
     ]
@@ -20307,8 +20892,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "结合供给弹性和受益分布。 原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。 评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。",
-          "en": "Consider supply elasticity and distribution of gains. Illustrative example: a food subsidy helps consumers but requires financing and may also benefit rich households. Compare targeted cash transfers using identification of need, exclusion errors, administrative cost and the ability of supply to expand. Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
+          "zh-CN": "结合供给弹性和受益分布。 政策改变价格、数量或激励；不同群体受到不同影响；效率、公平和可执行性需要共同权衡 评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。",
+          "en": "Consider supply elasticity and distribution of gains. Policy changes prices, quantities or incentives; groups experience different effects; efficiency, equity and feasibility must be weighed together Evaluation is not merely a list of advantages and disadvantages; explain which conditions make an effect matter more."
         }
       },
       {
@@ -20540,8 +21125,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "30。 原创例：单位税 4，数量由 100 降到 80，线性曲线下无谓损失为 ½×4×20=40，税收为 4×80=320。若税纠正污染，此无外部性公式不能直接用来判断税的净福利效果。 三角形公式需要线性曲线等假设，且政府收入并非全部损失。",
-          "en": "30. Illustrative example: tax is four and output falls from 100 to 80. With linear curves, DWL is ½×4×20=40 and revenue 4×80=320. If the tax corrects pollution, this no-externality formula cannot directly establish its net welfare effect. The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
+          "zh-CN": "30。 DWL = ½ × 6 × 10 = 30 三角形公式需要线性曲线等假设，且政府收入并非全部损失。",
+          "en": "30. DWL = ½ × 6 × 10 = 30 The triangle formula needs assumptions such as linear curves; government revenue is not entirely lost welfare."
         }
       },
       {
@@ -20771,8 +21356,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "MSB=MSC。 原创例：生产者多生产一单位获得 12 的收益，私人成本 9，但污染成本 5，使社会成本为 14。这一单位私人有利、社会净收益为负。应比较边际量，不是平均收益和平均成本。 高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。",
-          "en": "MSB=MSC. Illustrative example: one more unit yields benefit 12, private cost nine and external pollution cost five, making social cost 14. The unit is privately beneficial but socially harmful. Compare marginal values, not average benefits and costs. A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
+          "zh-CN": "MSB=MSC。 私人决策只考虑私人收益与成本；外部影响或制度缺陷使其偏离社会量；市场数量与 MSB=MSC 数量不一致 高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。",
+          "en": "MSB=MSC. Private decisions consider private benefits and costs; external effects or institutional failures separate them from social values; market output differs from the MSB=MSC quantity A high price or inequality alone does not establish allocative failure; identify the mechanism producing inefficiency."
         }
       },
       {
@@ -21002,8 +21587,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "MSC>MPC。 原创例：工厂向河流排污使下游净水成本增加。画图时将 MSC 放在 MPC 上方，假定 MSB=MPB，以 MSC 与 MSB 相交确定 Q*。比较 Qm 与 Q* 之间社会成本超过收益的区域。 将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。",
-          "en": "MSC>MPC. Illustrative example: factory discharge raises downstream water-treatment costs. Draw MSC above MPC, assume MSB=MPB and locate Q* where MSC meets MSB. Between Q* and Qm, social costs exceed benefits. Showing pollution as MSB below MPB confuses production and consumption externalities."
+          "zh-CN": "MSC>MPC。 生产造成第三方损害；企业没有承担全部成本；私人均衡产量高于社会最优 将污染画成 MSB 低于 MPB 会混淆生产外部性和消费外部性。",
+          "en": "MSC>MPC. Production damages third parties; firms do not bear the full cost; private equilibrium output exceeds the social optimum Showing pollution as MSB below MPB confuses production and consumption externalities."
         }
       },
       {
@@ -21233,8 +21818,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "邻居被消费噪音打扰。 原创例：夜间高声播放音乐给邻居带来噪音损害。MSB 位于 MPB 下方，若没有生产外部性则 MSC=MPC。对本人健康的损害不是外部成本，但可涉及信息不足和不良品。 自身损害与第三方损害必须区分。",
-          "en": "Neighbours disturbed by consumption noise. Illustrative example: loud night-time music disturbs neighbours. MSB lies below MPB; without production externalities MSC=MPC. Harm to the consumer's own health is not an external cost, although it may involve imperfect information and demerit goods. Distinguish harm to oneself from harm to third parties."
+          "zh-CN": "邻居被消费噪音打扰。 消费者获得私人收益；消费对他人造成损害；社会边际收益低于私人收益并导致过度消费 自身损害与第三方损害必须区分。",
+          "en": "Neighbours disturbed by consumption noise. The consumer receives private benefit; consumption harms others; social marginal benefit lies below private benefit and consumption is excessive Distinguish harm to oneself from harm to third parties."
         }
       },
       {
@@ -21464,8 +22049,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "市场生产不足。 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB 与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。 正外部性不是企业自身销售收益，而是未计价的第三方收益。",
-          "en": "Market underproduction. Illustrative example: a firm's research generates knowledge that lowers other firms' costs. Draw MSC below MPC and use the same MSB to locate social and private output. Patents or research subsidies can strengthen incentives, but market-power costs and targeting matter. The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
+          "zh-CN": "市场生产不足。 生产产生知识等外溢；企业不能收回全部社会收益；市场配置资源不足 正外部性不是企业自身销售收益，而是未计价的第三方收益。",
+          "en": "Market underproduction. Production creates spillovers such as knowledge; firms cannot capture all social gains; the market allocates too few resources The external benefit is an unpriced gain to third parties, not the firm's own sales revenue."
         }
       },
       {
@@ -21695,8 +22280,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "MSB>MPB。 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB 上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。 教育或医疗并不是因为有社会价值就自动成为纯公共物品。",
-          "en": "MSB>MPB. Illustrative example: vaccination may reduce transmission risk and benefit others. Draw MSB above MPB. Subsidies, public provision and information can increase uptake, but capacity, trust and the size of external benefit determine effectiveness. Education or healthcare does not automatically become a pure public good because it has social value."
+          "zh-CN": "MSB>MPB。 消费者只比较私人收益与价格；第三方收益未进入其选择；市场数量低于社会最优 教育或医疗并不是因为有社会价值就自动成为纯公共物品。",
+          "en": "MSB>MPB. Consumers compare private benefit and price; third-party gains are absent from their choice; market consumption is below the social optimum Education or healthcare does not automatically become a pure public good because it has social value."
         }
       },
       {
@@ -21926,8 +22511,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "竞争性、难以排他。 原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。 公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。",
-          "en": "Rival, difficult to exclude. Illustrative example: a fisher earns from an extra catch while reducing future fish stocks available to everyone. Quotas, enforceable rights or community management can limit extraction. Calling the resource non-rival would miss the central mechanism. The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
+          "zh-CN": "竞争性、难以排他。 使用者获得私人收益；资源耗减成本由群体承担；缺少协调时开采量超过可持续水平 公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。",
+          "en": "Rival, difficult to exclude. Users receive private gains; depletion costs are shared; without coordination extraction exceeds a sustainable level The tragedy is not an unavoidable law of nature; effective community rules can change incentives."
         }
       },
       {
@@ -22157,8 +22742,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "许可确定总量，税确定单位价格。 原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。 纠正外部性未必消除全部污染；最优并不总是零排放。",
-          "en": "Permits fix the total cap; tax fixes the unit price. Illustrative example: an emissions tax fixes the price per emission unit, while permits fix the allowed total quantity. Taxes need information about harm and abatement response; permits need monitoring, a sound cap and reliable trading. Both may pass some costs to consumers. Correction need not eliminate all pollution; the optimum is not always zero emissions."
+          "zh-CN": "许可确定总量，税确定单位价格。 识别未计价的社会影响；调整价格或数量约束；比较纠正效果与执行和分配成本 纠正外部性未必消除全部污染；最优并不总是零排放。",
+          "en": "Permits fix the total cap; tax fixes the unit price. Identify unpriced social effects; adjust prices or quantity constraints; compare correction with enforcement and distribution costs Correction need not eliminate all pollution; the optimum is not always zero emissions."
         }
       },
       {
@@ -22388,8 +22973,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "30。 原创例：Q*=80、Qm=100，Qm 处 MSC−MSB=6，若差距由零线性增至 6，损失为 ½×20×6=60。最优矫正税应等于 Q* 处外部边际成本，不应机械采用 Qm 处的差额。 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。",
-          "en": "30. Illustrative example: Q*=80, Qm=100 and MSC−MSB is six at Qm. If the gap grows linearly from zero, loss is ½×20×6=60. An optimal corrective tax equals marginal external cost at Q*, not mechanically the gap at Qm. The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
+          "zh-CN": "30。 DWL = ½ × 12 × 5 = 30 图上三角形高度必须取相应社会成本收益差，不能任取市场价格。",
+          "en": "30. DWL = ½ × 12 × 5 = 30 The triangle's height must be the relevant social cost-benefit gap, not an arbitrary market price."
         }
       },
       {
@@ -22618,8 +23203,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "非竞争与非排他。 原创例：国防对区域内居民的保护通常不因多一个居民而减少，且难以单独排除未付费者。拥堵公路在高峰期具有竞争性，所以不能始终按纯公共物品分析。 公共提供不等于公共物品，收费学校仍可排他。",
-          "en": "Non-rivalry and non-excludability. Illustrative example: national defence generally protects one more resident without reducing protection for others and cannot easily exclude non-payers. A congested road is rival at peak times, so it cannot always be treated as a pure public good. Public provision is not the same as a public good; a school can still exclude users."
+          "zh-CN": "非竞争与非排他。 额外使用者不消耗同一服务；阻止使用者的成本高；按个人使用收费难以融资 公共提供不等于公共物品，收费学校仍可排他。",
+          "en": "Non-rivalry and non-excludability. An additional user does not consume the same service away; exclusion is difficult or costly; individual use charges struggle to finance provision Public provision is not the same as a public good; a school can still exclude users."
         }
       },
       {
@@ -22846,8 +23431,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "难以让所有受益者付费。 原创例：街区照明惠及每户，任何人不付款仍享受灯光。即使住户合计收益超过安装成本，自愿收费也可能失败。税收或社区制度可协调融资，但并不保证支出效率。 搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。",
-          "en": "It is hard to charge every beneficiary. Illustrative example: neighbourhood lighting benefits every household, including non-payers. Even if combined benefit exceeds installation cost, voluntary charging may fail. Taxes or community rules can coordinate financing without guaranteeing spending efficiency. Simply raising the price cannot solve free riding when non-payers still receive benefits."
+          "zh-CN": "难以让所有受益者付费。 使用者可以不支付仍获益；自愿付款不足；私人融资难覆盖生产成本 搭便车问题不能仅用提高售价解决，因为未付款者仍可获益。",
+          "en": "It is hard to charge every beneficiary. Users can benefit without payment; voluntary contributions are insufficient; private financing may fail to cover production costs Simply raising the price cannot solve free riding when non-payers still receive benefits."
         }
       },
       {
@@ -23074,8 +23659,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "公共融资与私人生产并存。 原创例：市政府用税收支付路灯工程，私人承包商安装。物品可由公共资金提供而由私人企业生产。评价要比较居民收益、机会成本、招标竞争及维护责任。 市场提供不足支持干预理由，但不证明任意政府项目都值得实施。",
-          "en": "Public financing with private production. Illustrative example: a city pays for street lighting from taxes while a private contractor installs it. Public financing can coexist with private production. Evaluate residents' benefits, opportunity cost, competitive tendering and maintenance accountability. Underprovision supports a case for intervention but does not prove every government project is worthwhile."
+          "zh-CN": "公共融资与私人生产并存。 强制融资减少搭便车；选择供给数量与生产方式；监督成本、质量和分配 市场提供不足支持干预理由，但不证明任意政府项目都值得实施。",
+          "en": "Public financing with private production. Compulsory financing reduces free riding; choose quantity and production method; monitor cost, quality and distribution Underprovision supports a case for intervention but does not prove every government project is worthwhile."
         }
       },
       {
@@ -23302,8 +23887,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "逆向选择。 原创例：二手车买家不能识别好车，只愿支付平均价格。好车卖家不愿接受该价而退出，剩余车质量更差。检测、担保和可靠认证可减少信息差，但认证机构也需可信。 逆向选择发生在交易前，不能与交易后的行为变化混淆。",
-          "en": "Adverse selection. Illustrative example: used-car buyers cannot identify good cars and offer an average price. Good-car owners exit, worsening remaining quality. Inspection, warranties and credible certification can narrow the information gap, but certifiers must be trustworthy. Adverse selection occurs before exchange, not as a post-contract behavioural change."
+          "zh-CN": "逆向选择。 买方难辨质量或风险；统一价格使优质类型退出；平均质量下降并可能使市场萎缩 逆向选择发生在交易前，不能与交易后的行为变化混淆。",
+          "en": "Adverse selection. Buyers cannot distinguish quality or risk; pooled prices drive good types away; average quality falls and the market may shrink Adverse selection occurs before exchange, not as a post-contract behavioural change."
         }
       },
       {
@@ -23530,8 +24115,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "道德风险。 原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。 道德风险是激励结构，不是对当事人的道德判决。",
-          "en": "Moral hazard. Illustrative example: full insurance may reduce a driver's precautions against theft. A deductible shares losses and monitoring can reduce risk, but an excessive deductible weakens protection. Incentives are not the only evaluation criterion. Moral hazard describes incentives, not a moral judgement about the person."
+          "zh-CN": "道德风险。 合约分担风险；行为难被完全监测；当事人可能采取更多风险或更少预防 道德风险是激励结构，不是对当事人的道德判决。",
+          "en": "Moral hazard. A contract shares risk; actions cannot be fully monitored; a party may take more risk or less precaution Moral hazard describes incentives, not a moral judgement about the person."
         }
       },
       {
@@ -23758,8 +24343,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "筛选。 原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。 无成本且容易伪造的信号可能无法区分类型。",
-          "en": "Screening. Illustrative example: a seller's costly warranty can signal quality, while a buyer's independent inspection screens it. Mandatory nutrition labels can improve choices if understandable and verified; a mass of unreadable information is not effective information. A cheap, easily faked signal may fail to distinguish types."
+          "zh-CN": "筛选。 识别隐藏类型或行为；设计可验证的披露和激励；减少错误交易但增加行政成本 无成本且容易伪造的信号可能无法区分类型。",
+          "en": "Screening. Identify hidden types or actions; design verifiable disclosure and incentives; reduce mistaken trades while incurring administrative cost A cheap, easily faked signal may fail to distinguish types."
         }
       },
       {
@@ -23914,7 +24499,7 @@ export const knowledgePoints = [
           "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。",
           "企业规模大不自动等于垄断，必须先定义相关市场。"
         ],
-        "explanation": "专利、规模优势或战略行为限制进入。替代竞争减弱。企业可能有更大定价权。\n\n### 原创情境与推导\n\n原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。\n\n企业规模大不自动等于垄断，必须先定义相关市场。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
+        "explanation": "专利、规模优势或战略行为限制进入。替代竞争减弱。企业可能有更大定价权。\n\n### 原创情境与推导\n\n原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。 集中率 CRn 为最大 n 家企业市场份额之和。原创例：前四家为 40%、25%、15%、10%，CR4=90%。集中率依赖市场界定，不能单独证明滥用势力。\n\n企业规模大不自动等于垄断，必须先定义相关市场。\n\n明确企业图与市场图、MR=MC 数量及需求曲线上的价格。"
       },
       "en": {
         "id": "u2-47-market-structures",
@@ -23937,7 +24522,7 @@ export const knowledgePoints = [
           "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price.",
           "A large firm is not automatically a monopoly; first define the relevant market."
         ],
-        "explanation": "Patents, scale advantages or strategic behaviour restrict entry.  competitive substitutes weaken.  firms may gain pricing power.\n\n### Original scenario and reasoning\n\nIllustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter.\n\nA large firm is not automatically a monopoly; first define the relevant market.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
+        "explanation": "Patents, scale advantages or strategic behaviour restrict entry.  competitive substitutes weaken.  firms may gain pricing power.\n\n### Original scenario and reasoning\n\nIllustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter. A concentration ratio CRn sums the n largest firms’ market shares. Original example: shares 40%, 25%, 15%, 10% give CR4=90%. Market definition matters; concentration alone does not establish abuse.\n\nA large firm is not automatically a monopoly; first define the relevant market.\n\nSeparate firm and market diagrams, identify MR=MC output and read price from demand."
       }
     },
     "practice": [
@@ -23990,8 +24575,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "独家法律专利。 原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。 企业规模大不自动等于垄断，必须先定义相关市场。",
-          "en": "An exclusive legal patent. Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter. A large firm is not automatically a monopoly; first define the relevant market."
+          "zh-CN": "独家法律专利。 专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权 企业规模大不自动等于垄断，必须先定义相关市场。",
+          "en": "An exclusive legal patent. Patents, scale advantages or strategic behaviour restrict entry; competitive substitutes weaken; firms may gain pricing power A large firm is not automatically a monopoly; first define the relevant market."
         }
       },
       {
@@ -24003,8 +24588,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Market structures and entry barriers and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。 专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权 原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。",
-          "en": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price. Patents, scale advantages or strategic behaviour restrict entry; competitive substitutes weaken; firms may gain pricing power Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter."
+          "zh-CN": "市场结构由企业数量、产品差异、进入壁垒和信息条件等描述；市场势力是企业影响价格的能力。 专利、规模优势或战略行为限制进入；替代竞争减弱；企业可能有更大定价权 原创例：一个持有独家专利的药品可能缺少同类竞争，专利到期后仿制品进入可改变定价权。企业数量是线索，但市场定义、替代品和进入威胁也必须考察。 集中率 CRn 为最大 n 家企业市场份额之和。原创例：前四家为 40%、25%、15%、10%，CR4=90%。集中率依赖市场界定，不能单独证明滥用势力。",
+          "en": "Market structure describes firm numbers, product differentiation, entry barriers and information conditions. Market power is the ability to influence price. Patents, scale advantages or strategic behaviour restrict entry; competitive substitutes weaken; firms may gain pricing power Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter. A concentration ratio CRn sums the n largest firms’ market shares. Original example: shares 40%, 25%, 15%, 10% give CR4=90%. Market definition matters; concentration alone does not establish abuse."
         },
         "keywordGroups": [
           {
@@ -24222,8 +24807,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "6。 原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的 ATC=(100+8)/11≈9.82。MC 不是 TC/Q。 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。",
-          "en": "6. Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6 and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is not TC/Q. Higher fixed cost raises ATC but does not directly shift MC or AVC."
+          "zh-CN": "6。 ATC = 120 / 20 = 6 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。",
+          "en": "6. ATC = 120 / 20 = 6 Higher fixed cost raises ATC but does not directly shift MC or AVC."
         }
       },
       {
@@ -24454,8 +25039,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "规模经济。 原创例：大型运输企业可利用专门维修团队降低每单成本，但跨地区管理过于复杂可能增加协调成本。这涉及所有投入可变的长期分析，不是固定厂房中加工人的边际报酬递减。 规模经济看平均成本，不是总成本下降。",
-          "en": "Economies of scale. Illustrative example: a large carrier can use specialised maintenance teams to lower cost per delivery, but complex regional management can increase coordination costs. This is long-run analysis with all inputs variable, not diminishing returns from adding workers to a fixed plant. Economies of scale concerns average cost, not necessarily falling total cost."
+          "zh-CN": "规模经济。 扩大生产规模允许专业化和分摊；管理和沟通复杂度也上升；净影响决定长期平均成本 规模经济看平均成本，不是总成本下降。",
+          "en": "Economies of scale. Larger scale permits specialisation and spreading costs; management and communication grow more complex; the net effect determines long-run average cost Economies of scale concerns average cost, not necessarily falling total cost."
         }
       },
       {
@@ -24686,8 +25271,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "20。 原创例：收入 200、显性成本 140、隐性成本 40，会计利润 60、经济利润 20。若收入为 180，经济利润零，但所有机会成本已获补偿。不能把正常利润等同于零会计收入。 垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。",
-          "en": "20. Illustrative example: revenue 200, explicit costs 140 and implicit costs 40 yield accounting profit 60 and economic profit 20. Revenue of 180 gives zero economic profit while covering all opportunity costs. Normal profit is not zero accounting income. A monopolist's MR can lie below AR because the lower price may apply to all units sold."
+          "zh-CN": "20。 150 − 100 − 30 = 20 垄断降价扩大销售时 MR 可低于 AR，因为较低价格可能适用于所有销售。",
+          "en": "20. 150 − 100 − 30 = 20 A monopolist's MR can lie below AR because the lower price may apply to all units sold."
         }
       },
       {
@@ -24918,8 +25503,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "可继续生产并承担亏损。 原创例：P=9、AVC=7、ATC=11，企业亏损但生产可贡献每单位 2 去支付固定成本，短期可继续。若 P=6<AVC，生产会增加损失。长期退出还需比较总机会成本。 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。",
-          "en": "May operate despite a loss. Illustrative example: P=9, AVC=7 and ATC=11 give a loss, but output contributes two per unit toward fixed cost, so short-run operation can be rational. At P=6<AVC production adds to losses. Long-run exit also compares total opportunity costs. A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
+          "zh-CN": "可继续生产并承担亏损。 MR>MC 时增产提高利润；MC>MR 时减产提高利润；比较可变成本覆盖以判断是否继续生产 有亏损不意味着短期必须停产；MR=MC 也不保证正利润。",
+          "en": "May operate despite a loss. When MR>MC expansion raises profit; when MC>MR contraction raises profit; compare coverage of variable costs to decide whether to operate A loss does not necessarily require short-run shutdown; MR=MC does not guarantee positive profit."
         }
       },
       {
@@ -25150,8 +25735,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "MR=P。 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC 配置效率，但信息、产品同质性等条件在现实中可能不成立。 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。",
-          "en": "MR=P. Illustrative example: supernormal profit attracts entry, expanding market supply and reducing price until P=min ATC. The long-run model achieves productive efficiency and P=MC allocative efficiency, but homogeneity and information assumptions may fail in practice. The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
+          "zh-CN": "MR=P。 个别企业不能改变市场价；企业按 MR=MC 选择产量；长期进入退出消除超额经济利润 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。",
+          "en": "MR=P. A firm cannot influence market price; it chooses output at MR=MC; long-run entry and exit remove supernormal economic profit The firm's horizontal demand curve differs from the downward-sloping demand curve of the whole market."
         }
       },
       {
@@ -25382,8 +25967,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "需求/AR 曲线。 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是 7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。 垄断者不能独立任选价格与数量，需求约束仍在。",
-          "en": "Demand/AR. Illustrative example: MR=MC at Q=40, where demand gives price 12 and MC is seven. Price is 12, not seven. Monopoly does not guarantee profit: compare ATC. Innovation and scale economies can change cost comparisons. A monopolist cannot choose price and quantity independently; demand still constrains it."
+          "zh-CN": "需求/AR 曲线。 降低价格才能扩大销售；MR 低于价格；利润最大点通常 P>MC 并低于配置有效数量 垄断者不能独立任选价格与数量，需求约束仍在。",
+          "en": "Demand/AR. A lower price is needed to expand sales; MR is below price; at the profit maximum P normally exceeds MC and output is below the allocatively efficient level A monopolist cannot choose price and quantity independently; demand still constrains it."
         }
       },
       {
@@ -25614,8 +26199,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "亏损，需要融资安排。 原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间 MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。",
-          "en": "Losses requiring financing. Illustrative example: duplicating water pipes can waste resources. P=MC pricing improves allocative efficiency, but MC<ATC in a declining-cost range can create losses requiring subsidy. P=ATC recovers cost without necessarily achieving allocative efficiency. Natural monopoly describes a cost structure, not every state-owned or large firm."
+          "zh-CN": "亏损，需要融资安排。 大额固定网络成本可被分摊；单一供应者有成本优势；监管需平衡效率与成本回收 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。",
+          "en": "Losses requiring financing. Large fixed network costs can be spread; a single supplier has a cost advantage; regulation balances efficiency with cost recovery Natural monopoly describes a cost structure, not every state-owned or large firm."
         }
       },
       {
@@ -25846,8 +26431,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "正常利润与剩余产能。 原创例：咖啡店以环境和品牌区别产品。长期正常利润时需求与 ATC 相切，但通常不在 ATC 最低点，存在剩余产能。消费者可能重视多样性，所以不能只凭成本图评价所有福利。 正常利润不意味着完全竞争，P 仍可大于 MC。",
-          "en": "Normal profit and excess capacity. Illustrative example: cafes differentiate through atmosphere and branding. At long-run normal profit, demand is tangent to ATC, normally above its minimum, implying excess capacity. Consumers may value variety, so a cost diagram alone does not capture all welfare. Normal profit does not imply perfect competition; P may still exceed MC."
+          "zh-CN": "正常利润与剩余产能。 产品差异使企业需求向下；超额利润吸引相近产品进入；需求减弱直至正常利润 正常利润不意味着完全竞争，P 仍可大于 MC。",
+          "en": "Normal profit and excess capacity. Differentiation gives downward-sloping firm demand; supernormal profit attracts close substitutes; demand weakens until normal profit Normal profit does not imply perfect competition; P may still exceed MC."
         }
       },
       {
@@ -26078,8 +26663,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "降价。 原创例：两家航空公司都高价时各赚 8；一方降价而对方高价时赚 12、对方赚 2；都降价时各赚 4。降价是各自优势策略，均衡为 4、4，尽管共同高价收益更高。数字是独立设计的教学支付矩阵。 串谋的共同收益不保证协议稳定，也不代表消费者受益。",
-          "en": "Cut price. Illustrative example: two airlines each earn eight at high prices. One cutting price alone earns 12 while the other earns two; both cutting earns four each. Cutting is each firm's dominant strategy, giving (4,4) despite higher joint gains at (8,8). The payoffs are original teaching assumptions. Joint gains do not ensure collusion is stable or beneficial to consumers."
+          "zh-CN": "降价。 少数企业反复互动；价格或数量选择影响竞争者；预期反应决定合作或竞争策略 串谋的共同收益不保证协议稳定，也不代表消费者受益。",
+          "en": "Cut price. A few firms interact repeatedly; price or quantity choices affect rivals; anticipated responses shape cooperation and competition Joint gains do not ensure collusion is stable or beneficial to consumers."
         }
       },
       {
@@ -26310,8 +26895,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "竞争损失与成本效率收益。 原创例：两家企业合并可减少竞争却节省物流成本。审批应比较消费者是否获得成本节省、进入是否可行及是否更易串谋。拆分自然垄断可能重复固定网络，因此不同市场需要不同措施。 不能把企业数量增加当作效率提高的充分条件。",
-          "en": "Competition losses and cost-efficiency gains. Illustrative example: a merger may reduce competition but save logistics costs. Assess whether savings reach consumers, whether entry is feasible and whether coordination becomes easier. Splitting a natural monopoly may duplicate fixed networks, so remedies should reflect the market. More firms is not a sufficient condition for improved efficiency."
+          "zh-CN": "竞争损失与成本效率收益。 识别市场势力来源和实际行为；规制或促进进入；比较价格、成本、创新和执行结果 不能把企业数量增加当作效率提高的充分条件。",
+          "en": "Competition losses and cost-efficiency gains. Identify the source of market power and actual conduct; regulate or enable entry; compare price, cost, innovation and implementation effects More firms is not a sufficient condition for improved efficiency."
         }
       },
       {
@@ -26538,8 +27123,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "否，两者评价标准不同。 原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。 配置效率与公平可能冲突，也可能通过针对性政策共同改善。",
-          "en": "No, the criteria differ. Illustrative example: two households want education equally but one cannot afford it. Market demand reflects willingness and ability to pay, not every person's need. State the equity criterion rather than automatically labelling all differences unfair. Efficiency and equity can conflict, but targeted policy may improve both."
+          "zh-CN": "否，两者评价标准不同。 资产和要素回报形成收入差异；收入差异影响有效需求；市场配置可能有效却不符合社会公平标准 配置效率与公平可能冲突，也可能通过针对性政策共同改善。",
+          "en": "No, the criteria differ. Assets and factor returns generate income differences; income differences affect effective demand; efficient market allocation may fail society's equity criteria Efficiency and equity can conflict, but targeted policy may improve both."
         }
       },
       {
@@ -26766,8 +27351,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "55。 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120 万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。 财富是资产减负债，不是把当年收入加到资产中重复计算。",
-          "en": "55. Illustrative example: a household earns 300,000 yearly, owns assets of two million and owes 800,000: net wealth is 1.2 million. Income and wealth can diverge, as for a retired asset owner. A single measure may misidentify policy beneficiaries. Wealth is assets minus liabilities, not assets plus the year's income counted again."
+          "zh-CN": "55。 90 − 35 = 55 财富是资产减负债，不是把当年收入加到资产中重复计算。",
+          "en": "55. 90 − 35 = 55 Wealth is assets minus liabilities, not assets plus the year's income counted again."
         }
       },
       {
@@ -26994,8 +27579,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "同时考察覆盖遗漏和工作激励。 原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。 再分配不只是现金，也包括教育、医疗等实物服务。",
-          "en": "Consider exclusion errors and work incentives. Illustrative example: education support for low-income households can improve opportunity and productive capacity. Means testing improves targeting but may exclude households without records. Gradual withdrawal can reduce high effective marginal tax rates from abrupt benefit loss. Redistribution includes services such as education and healthcare, not just cash."
+          "zh-CN": "同时考察覆盖遗漏和工作激励。 政策筹资并确定受益对象；改变可支配收入或服务获得；观察贫困、公平和行为反应 再分配不只是现金，也包括教育、医疗等实物服务。",
+          "en": "Consider exclusion errors and work incentives. Policy raises funds and identifies beneficiaries; disposable income or access to services changes; assess poverty, equity and behavioural responses Redistribution includes services such as education and healthcare, not just cash."
         }
       },
       {
@@ -27223,8 +27808,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "出口 X。 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X 是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。",
-          "en": "Exports X. Illustrative example: households supply labour, receive wages and buy firms' output. S, T and M are leakages; I, G and X are injections. Simple steady equilibrium requires planned injections to equal planned leakages, not each individual item to equal its counterpart. Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
+          "zh-CN": "出口 X。 家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。",
+          "en": "Exports X. Households supply factors and receive income; income funds consumption or leakages; injections support firms' sales and the next round of income Saving is not money that vanishes; finance can channel funds into investment without making planned saving and investment automatically identical."
         }
       },
       {
@@ -27452,8 +28037,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "80。 原创例：农户卖谷物 20、磨坊卖面粉 35、面包店最终卖面包 60，增加值为 20+15+25=60，而非销售额相加的 115。购买旧房本身不是当期新产出，但当期中介服务可计入。 GDP 的境内标准与企业所有者国籍不同。",
-          "en": "80. Illustrative example: grain sells for 20, flour for 35 and final bread for 60. Value added is 20+15+25=60, not sales summed to 115. Buying an existing house is not new current output, although current brokerage services can count. GDP follows domestic production, not the nationality of a firm's owners."
+          "zh-CN": "80。 80 (30 is intermediate output) GDP 的境内标准与企业所有者国籍不同。",
+          "en": "80. 80 (30 is intermediate output) GDP follows domestic production, not the nationality of a firm's owners."
         }
       },
       {
@@ -27681,8 +28266,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "330。 原创例：C=400、I=100、G=150、X=80、M=60，GDP=670。购买股票是所有权交换而非投资 I；失业补助只有被用于购买新产出时才可能进入消费。进口扣除是为排除境外产出。 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。",
-          "en": "330. Illustrative example: C=400, I=100, G=150, X=80 and M=60 give GDP=670. Buying shares transfers ownership rather than counting as I. Benefits may enter consumption when spent on new output. Imports are deducted to exclude foreign production. Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
+          "zh-CN": "330。 GDP = 200 + 50 + 70 + 40 − 30 = 330 进口不是因为本身有害而扣除，而是因为 GDP 衡量境内产出。",
+          "en": "330. GDP = 200 + 50 + 70 + 40 − 30 = 330 Imports are deducted because GDP measures domestic output, not because imports are inherently harmful."
         }
       },
       {
@@ -27910,8 +28495,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "名义 GDP 增加，实际 GDP 不变。 原创例：一年生产 100 件、单价 10，下一年仍生产 100 件但单价 12，名义 GDP 从 1000 到 1200，实际产量未增长。使用固定基年价格是教学简化，实际统计可采用链式量指数。 物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。",
-          "en": "Nominal GDP rises; real GDP is unchanged. Illustrative example: 100 units at price ten become 100 units at price twelve next year. Nominal GDP rises from 1000 to 1200 but real output does not grow. Fixed base-year prices are a teaching simplification; statistical offices may use chain-volume measures. A nominal GDP fall caused by lower prices does not alone prove a real recession."
+          "zh-CN": "名义 GDP 增加，实际 GDP 不变。 当期销售价值随价格和数量变化；用价格指数进行平减；比较可比价格下的产量 物价下降导致名义 GDP 下降，并不单独证明实际经济衰退。",
+          "en": "Nominal GDP rises; real GDP is unchanged. Current sales value changes with prices and quantities; deflate using a price index; compare output volumes at comparable prices A nominal GDP fall caused by lower prices does not alone prove a real recession."
         }
       },
       {
@@ -27991,7 +28576,7 @@ export const knowledgePoints = [
       "id": "u3-05-deflator",
       "slug": "deflator",
       "section": "3.1",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "3.1 Measuring economic activity and its variations"
       ],
@@ -28139,8 +28724,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "750。 原创例：名义 GDP=660，平减指数=110，实际 GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。 指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。",
-          "en": "750. Illustrative example: nominal GDP is 660 and the deflator 110, giving real GDP of 600. The output approach sums value added. The income approach sums compensation and operating surplus, with taxes less subsidies on production/imports needed for market-price consistency. Do not mix valuation bases. An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
+          "zh-CN": "750。 GDP (real) = 900 / 120 × 100 = 750 指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。",
+          "en": "750. GDP (real) = 900 / 120 × 100 = 750 An index of 110 means prices are 10% above the base, not necessarily 10% inflation in the latest year."
         }
       },
       {
@@ -28368,8 +28953,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "280。 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI 的差别是境内生产与居民收入的边界，不是货币单位。 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。",
-          "en": "280. Illustrative example: GDP=500, primary income received from abroad=40 and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus GNI distinguishes domestic production from resident income, not different currencies. Not every cross-border payment is primary income; distinguish primary income from transfers."
+          "zh-CN": "280。 GNI = 300 + (−20) = 280 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。",
+          "en": "280. GNI = 300 + (−20) = 280 Not every cross-border payment is primary income; distinguish primary income from transfers."
         }
       },
       {
@@ -28597,8 +29182,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "下降。 原创例：实际 GDP 增长约 4%、人口增长约 2%，人均实际 GDP 增长约 2%，精确值为 1.04/1.02−1≈1.96%。PPP 比较也不能揭示分配、公共服务质量或环境差异。 人均值是平均数，不表示每个人都获得相同收入。",
-          "en": "Falls. Illustrative example: real GDP grows 4% and population 2%, so per-capita growth is about 2%, precisely 1.04/1.02−1≈1.96%. PPP comparisons still do not reveal distribution, service quality or environmental differences. A per-capita value is an average, not the income each person actually receives."
+          "zh-CN": "下降。 总量增长可能伴随人口增长；除以人口观察平均水平；PPP 调整不同国家的购买力 人均值是平均数，不表示每个人都获得相同收入。",
+          "en": "Falls. Aggregate growth may accompany population growth; divide by population to examine averages; PPP adjusts purchasing power across countries A per-capita value is an average, not the income each person actually receives."
         }
       },
       {
@@ -28828,8 +29413,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "产出仍增长，但增速放缓。 原创例：实际产出从 100 到 104 后降到 102，再到 106，102 阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。 增长放缓仍可为正，不等于实际产出已经下降。",
-          "en": "Output still grows, but more slowly. Illustrative example: real output moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction despite output remaining above its initial level. Two negative quarters is a common shorthand, not every agency's sole recession criterion. Slower growth can remain positive and is not necessarily falling real output."
+          "zh-CN": "产出仍增长，但增速放缓。 支出与供给冲击改变产出；实际活动偏离趋势；调整与政策可推动复苏或进一步收缩 增长放缓仍可为正，不等于实际产出已经下降。",
+          "en": "Output still grows, but more slowly. Spending and supply shocks change output; actual activity deviates from trend; adjustment and policy may support recovery or further contraction Slower growth can remain positive and is not necessarily falling real output."
         }
       },
       {
@@ -29057,8 +29642,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "未充分反映环境损害与分配。 原创例：污染后的清理支出可增加 GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。 GDP 有局限不意味着它对衡量经济活动没有用途。",
-          "en": "It incompletely captures environmental harm and distribution. Illustrative example: pollution cleanup can add to GDP without making pollution beneficial. Unpaid care becoming paid care can raise recorded output without an equivalent increase in services. Cross-country comparisons also depend on informal activity and statistical quality. GDP's limitations do not make it useless for measuring economic activity."
+          "zh-CN": "未充分反映环境损害与分配。 核算记录有市场价值的产出；部分社会收益和成本未被完整记录；总量或人均增长不保证福利普遍改善 GDP 有局限不意味着它对衡量经济活动没有用途。",
+          "en": "It incompletely captures environmental harm and distribution. Accounts record market-valued output; some social gains and costs are incompletely recorded; aggregate or average growth does not guarantee broad welfare gains GDP's limitations do not make it useless for measuring economic activity."
         }
       },
       {
@@ -29210,7 +29795,7 @@ export const knowledgePoints = [
           "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。",
           "不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。"
         ],
-        "explanation": "明确希望衡量的福利维度。选择可比较的数据与权重。结合 GDP 解读综合指标的差异。\n\n### 原创情境与推导\n\n原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。\n\n不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
+        "explanation": "明确希望衡量的福利维度。选择可比较的数据与权重。结合 GDP 解读综合指标的差异。\n\n### 原创情境与推导\n\n原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。 OECD 美好生活指标比较住房、收入、工作等多个维度；幸福类报告强调主观生活评价，快乐星球指数把福祉和寿命与环境负担联系，不能与 HDI 混为一谈。\n\n不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。\n\n写清指标、公式、单位和局限；区分名义、实际、总量与人均。"
       },
       "en": {
         "id": "u3-10-wellbeing-indicators",
@@ -29233,7 +29818,7 @@ export const knowledgePoints = [
           "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis.",
           "Different indicators target different outcomes; no composite is completely objective or exhaustive."
         ],
-        "explanation": "Specify the wellbeing dimensions.  select comparable data and weights.  interpret composite indicators alongside GDP.\n\n### Original scenario and reasoning\n\nIllustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps.\n\nDifferent indicators target different outcomes; no composite is completely objective or exhaustive.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
+        "explanation": "Specify the wellbeing dimensions.  select comparable data and weights.  interpret composite indicators alongside GDP.\n\n### Original scenario and reasoning\n\nIllustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps. The OECD Better Life Index compares multiple dimensions such as housing, income and jobs; happiness reports emphasise subjective life evaluation, while the Happy Planet Index relates well-being and longevity to environmental pressure. None is interchangeable with HDI.\n\nDifferent indicators target different outcomes; no composite is completely objective or exhaustive.\n\nState indicators, formulas, units and limits; distinguish nominal, real, aggregate and per-capita measures."
       }
     },
     "practice": [
@@ -29286,8 +29871,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "维度、权重与数据可比性。 原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。 不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。",
-          "en": "Dimensions, weights and data comparability. Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps. Different indicators target different outcomes; no composite is completely objective or exhaustive."
+          "zh-CN": "维度、权重与数据可比性。 明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异 不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。",
+          "en": "Dimensions, weights and data comparability. Specify the wellbeing dimensions; select comparable data and weights; interpret composite indicators alongside GDP Different indicators target different outcomes; no composite is completely objective or exhaustive."
         }
       },
       {
@@ -29299,8 +29884,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Alternative wellbeing indicators and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。 明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异 原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。",
-          "en": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis. Specify the wellbeing dimensions; select comparable data and weights; interpret composite indicators alongside GDP Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps."
+          "zh-CN": "替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。 明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异 原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。 OECD 美好生活指标比较住房、收入、工作等多个维度；幸福类报告强调主观生活评价，快乐星球指数把福祉和寿命与环境负担联系，不能与 HDI 混为一谈。",
+          "en": "Alternative indicators can combine income, health, education, subjective satisfaction and ecological pressure. Choosing dimensions and weights involves judgement, so a ranking cannot replace analysis. Specify the wellbeing dimensions; select comparable data and weights; interpret composite indicators alongside GDP Illustrative example: two countries have similar income per person but different health prospects and educational opportunities. Human-development measures complement income. Subjective happiness also depends on culture and survey design, while composites can conceal internal group gaps. The OECD Better Life Index compares multiple dimensions such as housing, income and jobs; happiness reports emphasise subjective life evaluation, while the Happy Planet Index relates well-being and longevity to environmental pressure. None is interchangeable with HDI."
         },
         "keywordGroups": [
           {
@@ -29517,8 +30102,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "实际 GDP。 原创例：总体价格下降可能提高货币资产实际购买力并改善出口价格竞争力，从而增加总需求量。AD 的横轴是实际 GDP，纵轴是总体价格水平，不是某一种产品价格和数量。 AD 向下倾斜不能只用单一商品的替代效应解释。",
-          "en": "Real GDP. Illustrative example: a lower price level can raise the real value of money balances and improve export price competitiveness, increasing quantity of aggregate demand. The axes are real GDP and the general price level, not one product's price and quantity. AD's downward slope cannot be explained solely by substitution between individual goods."
+          "zh-CN": "实际 GDP。 总体价格水平变化影响实际财富、利率和净出口；计划总支出改变；沿 AD 曲线移动 AD 向下倾斜不能只用单一商品的替代效应解释。",
+          "en": "Real GDP. The general price level affects real wealth, interest rates and net exports; planned spending changes; the economy moves along AD AD's downward slope cannot be explained solely by substitution between individual goods."
         }
       },
       {
@@ -29748,8 +30333,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "左移。 原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。 收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。",
-          "en": "Shifts left. Illustrative example: a tax cut raises disposable income, but households fearing job loss may save the increase. Distinguish the tax reduction from additional consumption rather than assuming every extra unit of income is spent. Consumption changes from higher income differ from movements along AD caused by a price-level change."
+          "zh-CN": "左移。 可支配收入或信心改变；家庭计划消费改变；消费占比使总需求随之移动 收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。",
+          "en": "Shifts left. Disposable income or confidence changes; households alter planned consumption; its expenditure share shifts aggregate demand Consumption changes from higher income differ from movements along AD caused by a price-level change."
         }
       },
       {
@@ -29979,8 +30564,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "先增加 AD，之后可能增加潜在产出。 原创例：项目预期回报 6%，借贷成本从 7% 降至 4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。 投资的短期需求效应与长期供给效应应分别解释。",
-          "en": "Raises AD first, then may raise potential output. Illustrative example: a project expected to return 6% becomes more attractive when borrowing cost falls from 7% to 4%. Weak sales or substantial idle capacity can still prevent investment. Building a plant first adds demand; operating it later raises capacity. Explain investment's short-run demand and long-run supply effects separately."
+          "zh-CN": "先增加 AD，之后可能增加潜在产出。 企业比较预期回报与融资成本；有利可图项目数量变化；投资既改变当前 AD 也可改变未来产能 投资的短期需求效应与长期供给效应应分别解释。",
+          "en": "Raises AD first, then may raise potential output. Firms compare expected returns with financing costs; the set of profitable projects changes; investment affects current AD and potentially future capacity Explain investment's short-run demand and long-run supply effects separately."
         }
       },
       {
@@ -30210,8 +30795,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "价格水平升、实际产出降。 原创例：能源涨价提高众多行业成本，使 SRAS 左移，在 AD 不变时价格水平上升而实际产出下降。若产品价格与所有投入价格同比上升，不能仍假定原有短期实际利润激励。 SRAS 左移是成本冲击，不能画成 AD 右移。",
-          "en": "Higher price level, lower real output. Illustrative example: dearer energy shifts SRAS left, raising the price level and reducing real output with unchanged AD. If output and all input prices rise proportionately, the original short-run real-margin incentive cannot simply be assumed. A leftward SRAS shift is a cost shock, not a rightward AD shift."
+          "zh-CN": "价格水平升、实际产出降。 投入价格相对固定时产品价格上升；实际生产利润率改善；企业沿 SRAS 增加产出 SRAS 左移是成本冲击，不能画成 AD 右移。",
+          "en": "Higher price level, lower real output. Output prices rise relative to temporarily fixed input prices; production margins improve; firms expand output along SRAS A leftward SRAS shift is a cost shock, not a rightward AD shift."
         }
       },
       {
@@ -30441,8 +31026,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "不能，需增加生产能力。 原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf 而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。",
-          "en": "No; productive capacity must increase. Illustrative example: higher AD may briefly push output above Yf. Rising wages then shift SRAS left, restoring Yf at a higher price level. This conclusion depends on wage-price adjustment and competitive assumptions, not an unconditional instant process. Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
+          "zh-CN": "不能，需增加生产能力。 长期工资与投入价格调整；短期实际激励逐步消失；产出回到由生产能力决定的潜在水平 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。",
+          "en": "No; productive capacity must increase. Wages and input prices adjust over time; short-run real incentives fade; output returns to the level determined by productive capacity Potential output does not imply zero unemployment; frictional and structural unemployment may remain."
         }
       },
       {
@@ -30672,8 +31257,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "实际产出增加，价格变化较小。 原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。 曲线水平区间不表示资源永久无限。",
-          "en": "Higher real output with little price change. Illustrative example: extra public spending in a recession may mainly raise output, while at full capacity it mainly raises prices. Downward wage rigidity and weak confidence can sustain equilibrium below full employment. Explain assumptions before contrasting neoclassical adjustment. A flat range does not imply permanently unlimited resources."
+          "zh-CN": "实际产出增加，价格变化较小。 闲置资源允许较低成本扩张；产能瓶颈随利用率上升；接近满负荷时需求扩张主要推高价格 曲线水平区间不表示资源永久无限。",
+          "en": "Higher real output with little price change. Idle resources permit low-cost expansion; bottlenecks develop as utilisation rises; near capacity demand expansion mainly raises prices A flat range does not imply permanently unlimited resources."
         }
       },
       {
@@ -30903,8 +31488,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "实际产出增加。 原创例：出口需求上升使 AD 右移，向上倾斜 SRAS 下价格与产出都增加。若 AD 和 SRAS 同时右移，产出增加但价格方向取决于幅度。宏观价格水平上升也不直接给出每年通胀率。 不能把纵轴价格水平直接写成通胀率。",
-          "en": "Real output increases. Illustrative example: stronger export demand shifts AD right, raising prices and output along upward SRAS. If AD and SRAS both shift right, output rises but the price direction depends on magnitudes. A higher price level does not by itself specify annual inflation. Do not label an AD–AS price-level axis as the inflation rate."
+          "zh-CN": "实际产出增加。 识别初始均衡；根据冲击移动对应曲线；比较新均衡并说明调整时间与假设 不能把纵轴价格水平直接写成通胀率。",
+          "en": "Real output increases. Identify the initial equilibrium; shift the appropriate curve for the shock; compare the new equilibrium while stating timing and assumptions Do not label an AD–AS price-level axis as the inflation rate."
         }
       },
       {
@@ -31132,8 +31717,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "+8%。 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至 950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。 负缺口不等同于当期实际增长一定为负。",
-          "en": "+8%. Illustrative example: potential GDP=1000 and actual GDP=950 give a gap of about -5%. Output can grow from 930 to 950 and still have a negative gap. Potential is unobservable, so estimation error affects policy choices. A negative gap does not require negative current growth."
+          "zh-CN": "+8%。 (108 − 100) / 100 × 100 = +8% 负缺口不等同于当期实际增长一定为负。",
+          "en": "+8%. (108 − 100) / 100 × 100 = +8% A negative gap does not require negative current growth."
         }
       },
       {
@@ -31363,8 +31948,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "支持产出但加重物价压力。 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD 可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。 一次价格水平冲击与持续的通胀过程也需要区分。",
-          "en": "Supports output but intensifies price pressure. Illustrative example: an energy shortage shifts SRAS left. Expanding AD can limit output losses but raise prices further; contracting AD can limit price pressure but worsen recession. Identify the shock rather than prescribe one policy for every inflation episode. Distinguish a one-off price-level shock from a continuing inflation process."
+          "zh-CN": "支持产出但加重物价压力。 先区分支出不足或成本产能问题；移动 AD 或 SRAS；政策选择面对不同目标冲突 一次价格水平冲击与持续的通胀过程也需要区分。",
+          "en": "Supports output but intensifies price pressure. Distinguish weak spending from cost/capacity problems; shift AD or SRAS; policy choices face different objective conflicts Distinguish a one-off price-level shock from a continuing inflation process."
         }
       },
       {
@@ -31594,8 +32179,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "提高劳动力技能与技术。 原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。 实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。",
-          "en": "Improved labour skills and technology. Illustrative example: a more reliable electricity grid reduces downtime, lowering unit costs and expanding long-run capacity. More potential does not ensure immediate full utilisation; weak demand may leave actual output below the new potential. Actual growth may merely close a negative gap rather than shift LRAS right."
+          "zh-CN": "提高劳动力技能与技术。 生产要素或生产率改善；可持续生产能力增加；给定需求下增长伴随较低物价压力 实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。",
+          "en": "Improved labour skills and technology. Inputs or productivity improve; sustainable capacity expands; growth can occur with less price pressure at a given demand Actual growth may merely close a negative gap rather than shift LRAS right."
         }
       },
       {
@@ -31823,8 +32408,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "10%。 原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率 80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。 失业率的分母不是总人口，也不是仅就业人数。",
-          "en": "10%. Illustrative example: 900 employed, 100 unemployed and 1250 working-age people imply unemployment 10% and participation 80%. Discouraged workers leaving job search can lower unemployment without raising employment. Underemployment and informal work also matter. The unemployment-rate denominator is neither total population nor employed people alone."
+          "zh-CN": "10%。 20 / (180 + 20) × 100 = 10% 失业率的分母不是总人口，也不是仅就业人数。",
+          "en": "10%. 20 / (180 + 20) × 100 = 10% The unemployment-rate denominator is neither total population nor employed people alone."
         }
       },
       {
@@ -31976,7 +32561,7 @@ export const knowledgePoints = [
           "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。",
           "充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。"
         ],
-        "explanation": "识别失业的主要机制。区分需求不足与匹配问题。选择与成因相符的政策。\n\n### 原创情境与推导\n\n原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。\n\n充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        "explanation": "识别失业的主要机制。区分需求不足与匹配问题。选择与成因相符的政策。\n\n### 原创情境与推导\n\n原创例：需求衰退中的零售裁员主要属周期性；技术淘汰造成技能错配主要属结构性。按本课程框架，自然失业由摩擦性、结构性和季节性失业组成，不含周期性失业；充分就业并非零失业。\n\n充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
       },
       "en": {
         "id": "u3-22-unemployment-types",
@@ -31999,7 +32584,7 @@ export const knowledgePoints = [
           "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity.",
           "Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
         ],
-        "explanation": "Identify the main mechanism.  separate demand deficiency from matching problems.  choose a policy that addresses the cause.\n\n### Original scenario and reasoning\n\nIllustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components.\n\nFull employment is not zero unemployment; the natural rate can change with institutions and matching conditions.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+        "explanation": "Identify the main mechanism.  separate demand deficiency from matching problems.  choose a policy that addresses the cause.\n\n### Original scenario and reasoning\n\nIllustrative example: retail layoffs in a demand slump are mainly cyclical; technological skill mismatch is mainly structural. In this course framework, natural unemployment includes frictional, structural and seasonal unemployment, excluding cyclical unemployment. Full employment is not zero unemployment.\n\nFull employment is not zero unemployment; the natural rate can change with institutions and matching conditions.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
       }
     },
     "practice": [
@@ -32052,8 +32637,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "结构性失业。 原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。 充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。",
-          "en": "Structural unemployment. Illustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components. Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
+          "zh-CN": "结构性失业。 识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策 充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。",
+          "en": "Structural unemployment. Identify the main mechanism; separate demand deficiency from matching problems; choose a policy that addresses the cause Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions."
         }
       },
       {
@@ -32065,8 +32650,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Types of unemployment and natural unemployment and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。 识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策 原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。",
-          "en": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity. Identify the main mechanism; separate demand deficiency from matching problems; choose a policy that addresses the cause Illustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components."
+          "zh-CN": "摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。 识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策 原创例：需求衰退中的零售裁员主要属周期性；技术淘汰造成技能错配主要属结构性。按本课程框架，自然失业由摩擦性、结构性和季节性失业组成，不含周期性失业；充分就业并非零失业。",
+          "en": "Frictional unemployment comes from job search, structural unemployment from skill or location mismatch, cyclical unemployment from weak demand, and seasonal unemployment from seasonal activity. Identify the main mechanism; separate demand deficiency from matching problems; choose a policy that addresses the cause Illustrative example: retail layoffs in a demand slump are mainly cyclical; technological skill mismatch is mainly structural. In this course framework, natural unemployment includes frictional, structural and seasonal unemployment, excluding cyclical unemployment. Full employment is not zero unemployment."
         },
         "keywordGroups": [
           {
@@ -32281,8 +32866,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "技能退化可能降低潜在产出。 原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。 财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。",
-          "en": "Skill loss can reduce potential output. Illustrative example: a factory closure affects workers' households, nearby shops and tax receipts. Training and job-search support may prevent a temporary shock becoming structural, but programme quality, mental health and regional vacancies affect outcomes. Benefits can cushion household income without automatically restoring all lost output."
+          "zh-CN": "技能退化可能降低潜在产出。 劳动资源未被利用；收入与需求下降；长期失业进一步损害技能和未来就业能力 财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。",
+          "en": "Skill loss can reduce potential output. Labour resources remain unused; income and demand fall; prolonged joblessness damages skills and future employability Benefits can cushion household income without automatically restoring all lost output."
         }
       },
       {
@@ -32409,13 +32994,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u3-24-cpi-flash-1",
         "u3-24-cpi-mcq-1",
-        "u3-24-cpi-short-1"
+        "u3-24-cpi-short-1",
+        "u3-24-cpi-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u3-24-cpi",
         "locale": "zh-CN",
+        "hlExtension": "HL 原创计算：基期购买 A 两件、单价 10，B 一件、单价 20，篮子成本 40；现价分别 12、22，固定篮子成本 46，因此 CPI=46/40×100=115。数量作权重，不能直接平均价格涨幅。",
         "title": "CPI 与通胀率计算",
         "takeaway": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
         "definition": "CPI 用加权消费篮子衡量消费价格变化；通胀率=(本期指数−上期指数)/上期指数×100。权重和篮子影响其代表性。",
@@ -32439,6 +33026,7 @@ export const knowledgePoints = [
       "en": {
         "id": "u3-24-cpi",
         "locale": "en",
+        "hlExtension": "HL original calculation: the base basket contains two A at ten and one B at twenty, costing forty. New prices twelve and twenty-two give basket cost forty-six, so CPI=46/40×100=115. Quantity weights matter; do not simply average price changes.",
         "title": "CPI and inflation calculations",
         "takeaway": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness.",
         "definition": "CPI measures consumer-price changes using a weighted basket. Inflation=(current index−previous index)/previous index×100. Weights and basket composition affect representativeness.",
@@ -32510,8 +33098,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "4%。 原创例：CPI 从 120 升至 126，通胀率为 5%，不是 6%。不同家庭的能源或食品支出占比不同，实际感受可能不同；替代、新产品与质量变化也使固定篮子存在局限。 指数增加的点数与百分比涨幅不是同一数值。",
-          "en": "4%. Illustrative example: CPI rises from 120 to 126, so inflation is 5%, not 6%. Households with different food and energy weights experience different changes. Substitution, new products and quality changes also limit a fixed basket. The index-point increase is not the same as the percentage increase."
+          "zh-CN": "4%。 选定代表性商品及支出权重；计算篮子成本与指数；用相邻期指数变化计算通胀 指数增加的点数与百分比涨幅不是同一数值。",
+          "en": "4%. Select representative goods and expenditure weights; compute basket cost and the index; calculate inflation from successive index changes The index-point increase is not the same as the percentage increase."
         }
       },
       {
@@ -32582,6 +33170,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u3-24-cpi-mcq-hl-1",
+        "knowledgePointId": "u3-24-cpi",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "基期篮子成本 40、当前同篮子成本 46，CPI 是多少？",
+          "en": "Base basket cost is forty and current cost forty-six. What is CPI?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "115",
+            "en": "115"
+          },
+          {
+            "id": "b",
+            "zh-CN": "15",
+            "en": "15"
+          },
+          {
+            "id": "c",
+            "zh-CN": "46",
+            "en": "46"
+          },
+          {
+            "id": "d",
+            "zh-CN": "86.96",
+            "en": "86.96"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "115。 (156 − 150) / 150 × 100 = 4%",
+          "en": "115. (156 − 150) / 150 × 100 = 4%"
         }
       }
     ]
@@ -32741,8 +33366,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "需求拉动型通胀。 原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。 单一商品涨价不必然意味着总体需求拉动通胀。",
-          "en": "Demand-pull inflation. Illustrative example: rapid credit and consumption growth near full employment meets limited production response, raising price pressure. With substantial spare resources, the same demand rise may generate more real growth and less inflation. A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
+          "zh-CN": "需求拉动型通胀。 消费、投资或其他支出增加；AD 右移接近或超过产能；工资与价格承受上涨压力 单一商品涨价不必然意味着总体需求拉动通胀。",
+          "en": "Demand-pull inflation. Consumption, investment or other spending rises; AD shifts right toward or beyond capacity; wages and prices face upward pressure A price rise in one product does not necessarily imply economy-wide demand-pull inflation."
         }
       },
       {
@@ -32972,8 +33597,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "大致不变。 原创例：运输能源成本普遍上升，影响多个行业。货币紧缩可抑制次轮需求和预期，却不能直接生产更多能源，并可能扩大产出损失。评价应区分一次冲击、预期及持续的工资价格互动。 名义工资上升若被生产率提高抵消，不必增加单位劳动成本。",
-          "en": "Approximately unchanged. Illustrative example: dearer transport energy affects many industries. Monetary tightening can restrain second-round demand and expectations but cannot directly produce energy and may deepen output losses. Distinguish the initial shock, expectations and continuing wage-price interactions. Higher nominal wages need not increase unit labour cost if offset by productivity gains."
+          "zh-CN": "大致不变。 能源、工资相对生产率等成本增加；SRAS 左移；物价与失业可能同时上升 名义工资上升若被生产率提高抵消，不必增加单位劳动成本。",
+          "en": "Approximately unchanged. Energy costs or wages relative to productivity rise; SRAS shifts left; prices and unemployment may rise together Higher nominal wages need not increase unit labour cost if offset by productivity gains."
         }
       },
       {
@@ -33201,8 +33826,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "通胀放缓，价格仍上涨。 原创例：通胀率由 8% 到 3% 表示仍在涨价；由 3% 到 -1% 才出现通缩。若工资和收入随物价下降，固定还款负担可能更重。由生产率提高引起的降价与需求崩塌造成的通缩，政策含义不同。 较低通胀率不等于较低价格水平。",
-          "en": "Disinflation; prices still rise. Illustrative example: inflation falling from 8% to 3% still means prices rise; moving from 3% to -1% is deflation. Fixed repayments may become harder when wages and incomes fall. Productivity-driven price falls differ from demand-collapse deflation. A lower inflation rate does not mean a lower price level."
+          "zh-CN": "通胀放缓，价格仍上涨。 区分物价水平与其变化率；通缩提高给定名义金额的购买力；实际债务与延迟支出可能加重需求疲弱 较低通胀率不等于较低价格水平。",
+          "en": "Disinflation; prices still rise. Separate the price level from its rate of change; deflation raises the purchasing power of a fixed nominal amount; real debt and delayed spending may weaken demand further A lower inflation rate does not mean a lower price level."
         }
       },
       {
@@ -33430,8 +34055,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "5%。 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP 不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。",
-          "en": "5%. Illustrative example: real GDP rises from 800 to 840, giving growth of 5%. With population also growing 5%, real GDP per person is unchanged. Re-employing idle resources can close a gap rather than shift the production frontier. Using nominal GDP growth without adjusting prices confuses volume with prices."
+          "zh-CN": "5%。 (525 − 500) / 500 × 100 = 5% 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。",
+          "en": "5%. (525 − 500) / 500 × 100 = 5% Using nominal GDP growth without adjusting prices confuses volume with prices."
         }
       },
       {
@@ -33659,8 +34284,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "结合人均收益、分配与环境成本。 原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。 增长与发展及可持续性并非完全相同的概念。",
-          "en": "Consider per-capita gains, distribution and environmental costs. Illustrative example: automation raises output but removes some jobs. Retraining, transferable skills and mobility affect how widely gains are shared. Cleaner technology lowers emissions per unit, but output expansion may offset part of the environmental improvement. Growth, development and sustainability are not identical concepts."
+          "zh-CN": "结合人均收益、分配与环境成本。 投资与创新提高生产能力；实际收入和税基扩大；结果取决于收益分配与资源环境约束 增长与发展及可持续性并非完全相同的概念。",
+          "en": "Consider per-capita gains, distribution and environmental costs. Investment and innovation raise capacity; real incomes and the tax base expand; outcomes depend on distribution and environmental constraints Growth, development and sustainability are not identical concepts."
         }
       },
       {
@@ -33888,8 +34513,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "60%。 原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约 57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。 政府债务增加不意味着债务占 GDP 比率必然增加。",
-          "en": "60%. Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is no universal safe threshold; use of borrowing, maturity and credibility matter. More government debt does not necessarily imply a higher debt-to-GDP ratio."
+          "zh-CN": "60%。 240 / 400 × 100 = 60% 政府债务增加不意味着债务占 GDP 比率必然增加。",
+          "en": "60%. 240 / 400 × 100 = 60% More government debt does not necessarily imply a higher debt-to-GDP ratio."
         }
       },
       {
@@ -34119,8 +34744,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "不存在永久的通胀—失业权衡。 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC 上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。",
-          "en": "No permanent inflation–unemployment trade-off. Illustrative example: policy temporarily pushes unemployment below the natural rate, then expected inflation rises and SRPC shifts up. An energy shock can raise both inflation and unemployment, so one short-run curve is not a permanently stable policy menu. Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
+          "zh-CN": "不存在永久的通胀—失业权衡。 需求扩张短期减少周期性失业；工资价格预期随后调整；短期曲线移动使长期权衡消失 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。",
+          "en": "No permanent inflation–unemployment trade-off. Demand expansion initially reduces cyclical unemployment; wage-price expectations adjust; the short-run curve shifts, removing the permanent long-run trade-off Phillips curves use inflation on the vertical axis; AD–AS uses the price level."
         }
       },
       {
@@ -34348,8 +34973,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "有效提高生产率的投资。 原创例：扩张财政在负缺口时可增加就业，在满产时却更易推升物价。教育支出增加短期赤字，但若有效提高生产率，也可能扩大长期税基。不能仅凭一个目标改善就判定政策成功。 目标之间的关系不是固定不变的，评价应写明条件。",
-          "en": "Effective productivity-enhancing investment. Illustrative example: fiscal expansion can raise employment in a negative gap but more readily raise prices at capacity. Education spending increases the short-run deficit yet may expand the future tax base if it improves productivity. One improved objective alone does not establish success. Relationships between objectives are not fixed; state the conditions in evaluation."
+          "zh-CN": "有效提高生产率的投资。 明确政策作用渠道；辨认各目标受影响方向；比较短期权衡与长期协同 目标之间的关系不是固定不变的，评价应写明条件。",
+          "en": "Effective productivity-enhancing investment. Specify the policy channel; identify effects on each objective; compare short-run trade-offs with long-run complementarities Relationships between objectives are not fixed; state the conditions in evaluation."
         }
       },
       {
@@ -34577,8 +35202,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "相对贫困。 原创例：一社会中位收入上升，某家庭实际收入不变，可能相对位置下降，却不意味着购买基本食物的能力必然变差。贫困线需要考虑物价、家庭规模和公共服务，不宜把某个过时金额当作永恒标准。 贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。",
-          "en": "Relative poverty. Illustrative example: median income rises while a household's real income stays unchanged. Its relative position may worsen without necessarily losing the ability to buy basic food. Poverty thresholds depend on prices, household size and public services; an old monetary threshold is not timeless. Poverty and inequality are related but distinct: everyone can be equally poor."
+          "zh-CN": "相对贫困。 选择明确的贫困标准；比较家庭资源和需求；区分基本匮乏与社会相对排斥 贫困与不平等相关，但不相同：所有人同样贫穷也可很平等。",
+          "en": "Relative poverty. Choose an explicit poverty standard; compare household resources and needs; distinguish basic deprivation from relative social exclusion Poverty and inequality are related but distinct: everyone can be equally poor."
         }
       },
       {
@@ -34806,8 +35431,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "低收入限制教育投资并压低未来收入。 原创例：家庭缺乏交通和数字设备，孩子难以参加培训，未来就业受限。这种机制不是把结果归因于个人意愿。政策需识别信贷、信息、服务供给与歧视等具体障碍。 收入差异不能仅凭表面相关性归因于某一个因素。",
-          "en": "Low income limits education investment and future earnings. Illustrative example: missing transport and digital access restrict a child's training and future employment. This mechanism does not reduce outcomes to personal motivation. Policy should identify credit, information, service-supply and discrimination barriers. Observed income differences cannot be attributed to one cause from correlation alone."
+          "zh-CN": "低收入限制教育投资并压低未来收入。 初始资源与机会不同；技能和收入积累出现差异；收入不足又限制下一轮教育和健康投入 收入差异不能仅凭表面相关性归因于某一个因素。",
+          "en": "Low income limits education investment and future earnings. Initial resources and opportunities differ; skills and incomes accumulate unequally; low income then limits further education and health investment Observed income differences cannot be attributed to one cause from correlation alone."
         }
       },
       {
@@ -34887,7 +35512,7 @@ export const knowledgePoints = [
       "id": "u3-35-lorenz-gini",
       "slug": "lorenz-gini",
       "section": "3.4",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "3.4 Economics of inequality and poverty"
       ],
@@ -34909,8 +35534,8 @@ export const knowledgePoints = [
         "u3-36-poverty-effects"
       ],
       "terms": [
-        "洛伦兹曲线与基尼计算",
-        "Lorenz curves and Gini calculations",
+        "洛伦兹曲线与 Gini 系数",
+        "Lorenz curves and the Gini coefficient",
         "累计",
         "cumulative",
         "面积",
@@ -34936,14 +35561,16 @@ export const knowledgePoints = [
       "quizIds": [
         "u3-35-lorenz-gini-flash-1",
         "u3-35-lorenz-gini-mcq-1",
-        "u3-35-lorenz-gini-short-1"
+        "u3-35-lorenz-gini-short-1",
+        "u3-35-lorenz-gini-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u3-35-lorenz-gini",
         "locale": "zh-CN",
-        "title": "洛伦兹曲线与基尼计算",
+        "hlExtension": "原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。 HL 构造：五等分收入份额为 5%、10%、15%、25%、45% 时，累计人口 0、20、40、60、80、100% 对应累计收入 0、5、15、30、55、100%。连接相邻点并画平等线；若分段线性，梯形法近似 Gini=0.38。",
+        "title": "洛伦兹曲线与 Gini 系数",
         "takeaway": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
         "definition": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
         "causalChain": [
@@ -34961,12 +35588,13 @@ export const knowledgePoints = [
           "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
           "收入基尼不直接等于财富基尼，也不显示绝对贫困人数。"
         ],
-        "explanation": "按收入排序并累计份额。与完全平等线比较。面积差越大通常表示收入不平等越高。\n\n### 原创情境与推导\n\n原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。\n\n收入基尼不直接等于财富基尼，也不显示绝对贫困人数。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        "explanation": "按收入排序并累计份额。与完全平等线比较。面积差越大通常表示收入不平等越高。\n\n### 原创情境与推导\n\n原创例：人口按从穷到富排列，洛伦兹曲线越偏离平等线，通常表示收入分配越不均。Gini 越接近 0 越平等，越接近 1 越不平等；相交曲线不能只凭局部距离排序。由五等分数据构造曲线属于 HL。\n\n收入基尼不直接等于财富基尼，也不显示绝对贫困人数。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
       },
       "en": {
         "id": "u3-35-lorenz-gini",
         "locale": "en",
-        "title": "Lorenz curves and Gini calculations",
+        "hlExtension": "Illustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance. HL construction: quintile shares of 5%, 10%, 15%, 25%, 45% give cumulative income shares 0%, 5%, 15%, 30%, 55%, 100% at population shares 0%, 20%, 40%, 60%, 80%, 100%. Join adjacent points and draw equality. Piecewise-linear trapezoids give approximate Gini 0.38.",
+        "title": "Lorenz curves and the Gini coefficient",
         "takeaway": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
         "definition": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
         "causalChain": [
@@ -34984,7 +35612,7 @@ export const knowledgePoints = [
           "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality.",
           "An income Gini is not a wealth Gini and does not directly count absolute poverty."
         ],
-        "explanation": "Rank incomes and cumulate shares.  compare with perfect equality.  a larger area gap normally indicates more inequality.\n\n### Original scenario and reasoning\n\nIllustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance.\n\nAn income Gini is not a wealth Gini and does not directly count absolute poverty.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        "explanation": "Rank incomes and cumulate shares.  compare with perfect equality.  a larger area gap normally indicates more inequality.\n\n### Original scenario and reasoning\n\nIllustrative example: rank the population from poorest to richest. A Lorenz curve further below equality normally indicates greater inequality. Gini closer to zero means more equality and closer to one more inequality; crossing curves cannot be ranked by one local distance. Constructing the curve from quintile data is HL.\n\nAn income Gini is not a wealth Gini and does not directly count absolute poverty.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
       }
     },
     "practice": [
@@ -34993,8 +35621,8 @@ export const knowledgePoints = [
         "knowledgePointId": "u3-35-lorenz-gini",
         "type": "flashcard",
         "prompt": {
-          "zh-CN": "解释“洛伦兹曲线与基尼计算”，并说明一个关键条件。",
-          "en": "Explain Lorenz curves and Gini calculations and state one important condition."
+          "zh-CN": "解释“洛伦兹曲线与 Gini 系数”，并说明一个关键条件。",
+          "en": "Explain Lorenz curves and the Gini coefficient and state one important condition."
         },
         "answer": {
           "zh-CN": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。",
@@ -35010,35 +35638,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u3-35-lorenz-gini",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "平等线下 0.5、洛伦兹下 0.35，Gini 为多少？",
-          "en": "Equality area is 0.5 and Lorenz area 0.35. What is Gini?"
+          "zh-CN": "Gini 从 0.3 升到 0.4，通常表示什么？",
+          "en": "What does a rise in Gini from 0.3 to 0.4 normally indicate?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "0.15",
-            "en": "0.15"
+            "zh-CN": "分配变得完全平等",
+            "en": "Perfect income equality"
           },
           {
             "id": "b",
-            "zh-CN": "0.7",
-            "en": "0.7"
+            "zh-CN": "收入总量必定下降",
+            "en": "Total income must fall"
           },
           {
             "id": "c",
-            "zh-CN": "0.3",
-            "en": "0.3"
+            "zh-CN": "收入分配更不平等",
+            "en": "Greater income inequality"
           },
           {
             "id": "d",
-            "zh-CN": "0.85",
-            "en": "0.85"
+            "zh-CN": "贫困率必定等于 40%",
+            "en": "Poverty must equal 40%"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "0.3。 原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。 收入基尼不直接等于财富基尼，也不显示绝对贫困人数。",
-          "en": "0.3. Illustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance. An income Gini is not a wealth Gini and does not directly count absolute poverty."
+          "zh-CN": "收入分配更不平等。 按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 收入基尼不直接等于财富基尼，也不显示绝对贫困人数。",
+          "en": "Greater income inequality. Rank incomes and cumulate shares; compare with perfect equality; a larger area gap normally indicates more inequality An income Gini is not a wealth Gini and does not directly count absolute poverty."
         }
       },
       {
@@ -35046,12 +35674,12 @@ export const knowledgePoints = [
         "knowledgePointId": "u3-35-lorenz-gini",
         "type": "short-answer",
         "prompt": {
-          "zh-CN": "解释洛伦兹曲线与基尼计算的机制，并用一个自己设计的情境说明其含义。",
-          "en": "Explain the mechanism of Lorenz curves and Gini calculations and apply it to an example of your own."
+          "zh-CN": "解释洛伦兹曲线与 Gini 系数的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Lorenz curves and the Gini coefficient and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。 按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 原创例：横纵轴用 0 到 1 表示，平等线下面积为 0.5。若洛伦兹曲线下方面积为 0.3，Gini=(0.5−0.3)/0.5=0.4。曲线交叉时，不同分配变化不能只凭一处距离判断整体排名。",
-          "en": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality. Rank incomes and cumulate shares; compare with perfect equality; a larger area gap normally indicates more inequality Illustrative example: with both axes from zero to one, equality has area 0.5. If the area under Lorenz is 0.3, Gini=(0.5−0.3)/0.5=0.4. Crossing Lorenz curves cannot be ranked by a single local distance."
+          "zh-CN": "洛伦兹曲线按从贫到富排列人口累计占比及收入累计占比；基尼系数为平等线与曲线间面积占平等线下总面积的比例。 按收入排序并累计份额；与完全平等线比较；面积差越大通常表示收入不平等越高 原创例：人口按从穷到富排列，洛伦兹曲线越偏离平等线，通常表示收入分配越不均。Gini 越接近 0 越平等，越接近 1 越不平等；相交曲线不能只凭局部距离排序。由五等分数据构造曲线属于 HL。",
+          "en": "A Lorenz curve plots cumulative income shares against cumulative population ranked poorest to richest. Gini is the area between the equality line and Lorenz curve divided by total area under equality. Rank incomes and cumulate shares; compare with perfect equality; a larger area gap normally indicates more inequality Illustrative example: rank the population from poorest to richest. A Lorenz curve further below equality normally indicates greater inequality. Gini closer to zero means more equality and closer to one more inequality; crossing curves cannot be ranked by one local distance. Constructing the curve from quintile data is HL."
         },
         "keywordGroups": [
           {
@@ -35109,6 +35737,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u3-35-lorenz-gini-mcq-hl-1",
+        "knowledgePointId": "u3-35-lorenz-gini",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "平等线下 0.5、洛伦兹下 0.35，Gini 为多少？",
+          "en": "Equality area is 0.5 and Lorenz area 0.35. What is Gini?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "0.15",
+            "en": "0.15"
+          },
+          {
+            "id": "b",
+            "zh-CN": "0.7",
+            "en": "0.7"
+          },
+          {
+            "id": "c",
+            "zh-CN": "0.85",
+            "en": "0.85"
+          },
+          {
+            "id": "d",
+            "zh-CN": "0.3",
+            "en": "0.3"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "0.3。 (0.5 − 0.35) / 0.5 = 0.3",
+          "en": "0.3. (0.5 − 0.35) / 0.5 = 0.3"
         }
       }
     ]
@@ -35266,8 +35931,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "改善健康、学习与未来生产率。 原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。 效率与公平并非在所有政策下都必然冲突。",
-          "en": "Improves health, learning and future productivity. Illustrative example: malnutrition harms learning and adult work capacity; public health and school meals may interrupt the cycle. Assess income gaps by distinguishing opportunity inequality, incentives and rent extraction rather than treating all differences alike. Efficiency and equity need not conflict under every policy."
+          "zh-CN": "改善健康、学习与未来生产率。 资源匮乏影响服务获得；人力资本和社会参与受损；未来生产与税基可能因此减弱 效率与公平并非在所有政策下都必然冲突。",
+          "en": "Improves health, learning and future productivity. Resource deprivation limits service access; human capital and participation suffer; future production and the tax base may weaken Efficiency and equity need not conflict under every policy."
         }
       },
       {
@@ -35394,13 +36059,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u3-37-progressive-tax-flash-1",
         "u3-37-progressive-tax-mcq-1",
-        "u3-37-progressive-tax-short-1"
+        "u3-37-progressive-tax-short-1",
+        "u3-37-progressive-tax-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u3-37-progressive-tax",
         "locale": "zh-CN",
+        "hlExtension": "原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。",
         "title": "累进税、转移支付与可支配收入",
         "takeaway": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
         "definition": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
@@ -35419,11 +36086,12 @@ export const knowledgePoints = [
           "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。",
           "最高边际税率不应直接乘以全部收入。"
         ],
-        "explanation": "确定各税档适用收入。分段计算税额而非全部收入乘最高税率。用转移和税收比较最终购买能力。\n\n### 原创情境与推导\n\n原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。\n\n最高边际税率不应直接乘以全部收入。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
+        "explanation": "确定各税档适用收入。分段计算税额而非全部收入乘最高税率。用转移和税收比较最终购买能力。\n\n### 原创情境与推导\n\n原创例：边际税率只适用于新增收入，不应把最高档税率乘全部收入。累进税意味着平均税率随收入上升，定向转移支付则增加合资格家庭的可支配收入。税额和平均税率的数值计算属于 HL。\n\n最高边际税率不应直接乘以全部收入。\n\n区分收入、财富、贫困与不平等，评价针对性、激励与公平标准。"
       },
       "en": {
         "id": "u3-37-progressive-tax",
         "locale": "en",
+        "hlExtension": "Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution.",
         "title": "Progressive taxes, transfers and disposable income",
         "takeaway": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
         "definition": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
@@ -35442,7 +36110,7 @@ export const knowledgePoints = [
           "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers.",
           "Do not apply the highest marginal rate to all income."
         ],
-        "explanation": "Identify income within each bracket.  calculate tax progressively rather than applying the top rate to all income.  compare purchasing power after taxes and transfers.\n\n### Original scenario and reasoning\n\nIllustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution.\n\nDo not apply the highest marginal rate to all income.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
+        "explanation": "Identify income within each bracket.  calculate tax progressively rather than applying the top rate to all income.  compare purchasing power after taxes and transfers.\n\n### Original scenario and reasoning\n\nIllustrative example: a marginal rate applies to additional income, not automatically all income. Under progressive taxation the average rate rises with income; targeted transfers add to eligible households’ disposable income. Numerical tax and average-rate calculations are HL.\n\nDo not apply the highest marginal rate to all income.\n\nDistinguish income, wealth, poverty and inequality; evaluate targeting, incentives and equity criteria."
       }
     },
     "practice": [
@@ -35468,35 +36136,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u3-37-progressive-tax",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "收入 300、税额 45，平均税率多少？",
-          "en": "Income is 300 and tax 45. What is the average tax rate?"
+          "zh-CN": "哪种情况定义了累进所得税？",
+          "en": "What defines a progressive income tax?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "15%",
-            "en": "15%"
+            "zh-CN": "平均税率随收入上升",
+            "en": "The average tax rate rises with income"
           },
           {
             "id": "b",
-            "zh-CN": "45%",
-            "en": "45%"
+            "zh-CN": "人人支付相同税额",
+            "en": "Everyone pays the same tax amount"
           },
           {
             "id": "c",
-            "zh-CN": "6.67%",
-            "en": "6.67%"
+            "zh-CN": "平均税率随收入下降",
+            "en": "The average tax rate falls with income"
           },
           {
             "id": "d",
-            "zh-CN": "必等于最高边际税率",
-            "en": "Must equal the top marginal rate"
+            "zh-CN": "所有收入始终按同一比例征税",
+            "en": "All income is always taxed at one constant rate"
           }
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "15%。 原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。 最高边际税率不应直接乘以全部收入。",
-          "en": "15%. Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution. Do not apply the highest marginal rate to all income."
+          "zh-CN": "平均税率随收入上升。 确定各税档适用收入；分段计算税额而非全部收入乘最高税率；用转移和税收比较最终购买能力 最高边际税率不应直接乘以全部收入。",
+          "en": "The average tax rate rises with income. Identify income within each bracket; calculate tax progressively rather than applying the top rate to all income; compare purchasing power after taxes and transfers Do not apply the highest marginal rate to all income."
         }
       },
       {
@@ -35508,8 +36176,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Progressive taxes, transfers and disposable income and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。 确定各税档适用收入；分段计算税额而非全部收入乘最高税率；用转移和税收比较最终购买能力 原创例：前 100 免税，其后 100 按 20%，收入 200 的税额为 20，平均税率 10%、边际税率 20%。补助 15 后可支配收入为 195。税后分配还取决于间接税、避税和服务供给。",
-          "en": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers. Identify income within each bracket; calculate tax progressively rather than applying the top rate to all income; compare purchasing power after taxes and transfers Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution."
+          "zh-CN": "累进税的平均税率随收入提高；边际税率适用于新增收入，平均税率是税额/总收入。可支配收入为收入减直接税加转移。 确定各税档适用收入；分段计算税额而非全部收入乘最高税率；用转移和税收比较最终购买能力 原创例：边际税率只适用于新增收入，不应把最高档税率乘全部收入。累进税意味着平均税率随收入上升，定向转移支付则增加合资格家庭的可支配收入。税额和平均税率的数值计算属于 HL。",
+          "en": "Under progressive taxation the average tax rate rises with income. The marginal rate applies to additional income; the average rate is total tax/income. Disposable income subtracts direct taxes and adds transfers. Identify income within each bracket; calculate tax progressively rather than applying the top rate to all income; compare purchasing power after taxes and transfers Illustrative example: a marginal rate applies to additional income, not automatically all income. Under progressive taxation the average rate rises with income; targeted transfers add to eligible households’ disposable income. Numerical tax and average-rate calculations are HL."
         },
         "keywordGroups": [
           {
@@ -35567,6 +36235,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u3-37-progressive-tax-mcq-hl-1",
+        "knowledgePointId": "u3-37-progressive-tax",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "收入 300、税额 45，平均税率多少？",
+          "en": "Income is 300 and tax 45. What is the average tax rate?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "45%",
+            "en": "45%"
+          },
+          {
+            "id": "b",
+            "zh-CN": "15%",
+            "en": "15%"
+          },
+          {
+            "id": "c",
+            "zh-CN": "6.67%",
+            "en": "6.67%"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必等于最高边际税率",
+            "en": "Must equal the top marginal rate"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "15%。 45 / 300 × 100 = 15%",
+          "en": "15%. 45 / 300 × 100 = 15%"
         }
       }
     ]
@@ -35724,8 +36429,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "针对性与覆盖遗漏。 原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。 转移金额增加不等于实际贫困一定同幅减少。",
-          "en": "Targeting and exclusion errors. Illustrative example: means-tested support improves targeting but may miss households without records; tapering benefits can reduce benefit cliffs. Universal schooling reaches more people, but unequal local quality means nominally free provision need not equalise opportunity. A larger transfer does not necessarily reduce real poverty by the same proportion."
+          "zh-CN": "针对性与覆盖遗漏。 识别收入或机会障碍；选择现金、服务或制度工具；用受益分布及行为反应评估结果 转移金额增加不等于实际贫困一定同幅减少。",
+          "en": "Targeting and exclusion errors. Identify income or opportunity barriers; choose cash, services or institutional tools; assess benefit distribution and behavioural responses A larger transfer does not necessarily reduce real poverty by the same proportion."
         }
       },
       {
@@ -35953,8 +36658,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "2%。 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为 4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。 实际利率应使用预期通胀分析事前决策。",
-          "en": "2%. Illustrative example: a 6% nominal lending rate and 2% expected inflation imply an approximately 4% real rate. If bank risk premiums rise, lending rates need not fall alongside policy rates. Money is not income, and new lending does not directly equal new output. Use expected inflation when analysing ex-ante real rates."
+          "zh-CN": "2%。 r ≈ i − πᵉ = 5% − 3% = 2% 实际利率应使用预期通胀分析事前决策。",
+          "en": "2%. r ≈ i − πᵉ = 5% − 3% = 2% Use expected inflation when analysing ex-ante real rates."
         }
       },
       {
@@ -36182,8 +36887,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "企业对未来销售缺乏信心。 原创例：浮动汇率下，相对利率下降可能减少资本流入并使货币贬值，从而支持净出口；但进口成本也会上升。固定利率房贷较多时，家庭现金流反应可能较慢。 降息不保证汇率或投资按固定幅度变化。",
-          "en": "Firms lack confidence in future sales. Illustrative example: under floating exchange rates, lower relative interest may reduce capital inflows and depreciate the currency, supporting net exports while raising import costs. Household cash-flow responses may be slower where fixed-rate mortgages dominate. A rate cut does not guarantee a fixed exchange-rate or investment response."
+          "zh-CN": "企业对未来销售缺乏信心。 利率改变融资与储蓄回报；家庭企业调整消费投资；总需求变化影响实际产出和物价 降息不保证汇率或投资按固定幅度变化。",
+          "en": "Firms lack confidence in future sales. Rates change financing costs and saving returns; households and firms adjust consumption and investment; changing aggregate demand affects output and prices A rate cut does not guarantee a fixed exchange-rate or investment response."
         }
       },
       {
@@ -36413,8 +37118,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "提高实际产出并缩小负缺口。 原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。 总需求右移不是潜在产出自动增加。",
-          "en": "Raise real output and narrow a negative gap. Illustrative example: with idle equipment, cheaper finance restores some investment, raising output and employment. Demand may respond weakly if banks restrict lending or households repay debt. Near capacity, price pressure is greater. A rightward AD shift does not automatically increase potential output."
+          "zh-CN": "提高实际产出并缩小负缺口。 降低利率或放松信贷条件；利率敏感支出增加使总需求右移；负产出缺口可能缩小 总需求右移不是潜在产出自动增加。",
+          "en": "Raise real output and narrow a negative gap. Lower interest rates or ease credit conditions; interest-sensitive spending increases and aggregate demand shifts right; a negative output gap may narrow A rightward AD shift does not automatically increase potential output."
         }
       },
       {
@@ -36642,8 +37347,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "不能直接修复供给且可能压低产出。 原创例：为缓和过热需求而加息后，住宅投资放缓。若通胀来自能源供给中断，加息不能直接恢复能源供给，降低通胀可能需要更大的产出代价。固定利率合同也会延迟影响。 抑制通胀通常指降低涨价速度，不等于物价水平下降。",
-          "en": "It cannot directly repair supply and may reduce output. Illustrative example: higher rates intended to cool excessive demand slow housing investment. If inflation reflects an energy supply disruption, tightening cannot directly restore energy supply and may entail a larger output cost. Fixed-rate contracts can delay the effect. Reducing inflation usually means slower price increases, not a falling price level."
+          "zh-CN": "不能直接修复供给且可能压低产出。 提高政策利率；消费投资增速减弱使总需求相对降低；通胀压力下降但周期性失业可能增加 抑制通胀通常指降低涨价速度，不等于物价水平下降。",
+          "en": "It cannot directly repair supply and may reduce output. Raise policy interest rates; consumption and investment weaken and aggregate demand is lower than otherwise; inflation pressure falls but cyclical unemployment may rise Reducing inflation usually means slower price increases, not a falling price level."
         }
       },
       {
@@ -36723,7 +37428,7 @@ export const knowledgePoints = [
       "id": "u3-43-unconventional-policy",
       "slug": "unconventional-policy",
       "section": "3.5",
-      "level": "core",
+      "level": "hl",
       "syllabusRefs": [
         "3.5 Monetary policy"
       ],
@@ -36871,8 +37576,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "中央银行购买金融资产。 原创例：中央银行购买长期债券可能压低长期收益率，但商业银行不会仅因准备金增加就必然扩大贷款。资产价格上涨还可能使资产持有者受益更多，退出政策时也有市场风险。 准备金增长不等于消费、贷款或 CPI 按相同比例增长。",
-          "en": "Central-bank purchases of financial assets. Illustrative example: central-bank purchases of long-term bonds may lower long-term yields, but more reserves do not compel banks to lend. Asset price increases may benefit asset owners disproportionately, and policy reversal can create market risks. Reserve growth is not proportional growth in consumption, lending or CPI."
+          "zh-CN": "中央银行购买金融资产。 中央银行购买金融资产；资产价格和流动性变化影响融资条件；支出反应取决于信贷需求与信心 准备金增长不等于消费、贷款或 CPI 按相同比例增长。",
+          "en": "Central-bank purchases of financial assets. The central bank buys financial assets; asset prices and liquidity alter financing conditions; spending responses depend on credit demand and confidence Reserve growth is not proportional growth in consumption, lending or CPI."
         }
       },
       {
@@ -37100,8 +37805,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "结合冲击来源、传导与时滞。 原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。 同一利率对储户、借款者和不同地区影响不同。",
-          "en": "Consider shock origin, transmission and lags. Illustrative example: in recession, firms expecting weak sales may not revive investment after a small cut near the effective lower bound. A credible inflation target can anchor expectations, but independence does not remove accountability or exposure to supply shocks. The same interest rate affects savers, borrowers and regions differently."
+          "zh-CN": "结合冲击来源、传导与时滞。 识别需求或供给问题；检查金融渠道与时滞；比较通胀就业分配及金融稳定的权衡 同一利率对储户、借款者和不同地区影响不同。",
+          "en": "Consider shock origin, transmission and lags. Identify demand or supply problems; examine financial channels and lags; compare trade-offs involving inflation, employment, distribution and financial stability The same interest rate affects savers, borrowers and regions differently."
         }
       },
       {
@@ -37329,8 +38034,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "赤字 15。 原创例：收入 90、支出 100，期间赤字为 10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。 预算盈余或赤字的绝对水平不能单独识别政策变化。",
-          "en": "Deficit of 15. Illustrative example: revenue of 90 and spending of 100 imply a period deficit of 10, not total debt. A recession-driven larger deficit need not mean a newly announced stimulus. Structural balances try to remove cyclical effects but depend on estimated potential output. The level of a surplus or deficit alone cannot identify a policy change."
+          "zh-CN": "赤字 15。 95 − 80 = 15 (G > T) 预算盈余或赤字的绝对水平不能单独识别政策变化。",
+          "en": "Deficit of 15. 95 − 80 = 15 (G > T) The level of a surplus or deficit alone cannot identify a policy change."
         }
       },
       {
@@ -37560,8 +38265,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "政府购买道路维修服务。 原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。 转移支付不是国民收入核算中的政府最终购买。",
-          "en": "Government purchases road repair services. Illustrative example: repairs to public facilities directly raise purchases, whereas only the spent portion of household support generates current demand. Output may respond more with idle resources; imports, saving and implementation delays weaken domestic effects. Transfers are not government final purchases in national accounting."
+          "zh-CN": "政府购买道路维修服务。 增加购买或提高可支配收入；初始支出带来收入及后续消费；总需求右移并可能缩小衰退缺口 转移支付不是国民收入核算中的政府最终购买。",
+          "en": "Government purchases road repair services. Increase purchases or disposable income; initial spending creates income and further consumption; aggregate demand shifts right and may narrow a recessionary gap Transfers are not government final purchases in national accounting."
         }
       },
       {
@@ -37789,8 +38494,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "需求和税基可能同时下降。 原创例：过热时提高收入税可能抑制消费，但若削减的是有效培训预算，也可能损害长期生产能力。衰退中紧缩可能降低税基，因此不能假定支出每减一单位，赤字就必减一单位。 财政改善的直接核算效果与最终宏观效果应区分。",
-          "en": "Demand and the tax base may both fall. Illustrative example: higher income tax during overheating may restrain consumption, but cutting effective training may also damage long-run capacity. In recession, tightening may shrink the tax base, so a unit spending cut need not reduce the deficit by a full unit. Distinguish direct accounting effects from final macroeconomic effects."
+          "zh-CN": "需求和税基可能同时下降。 削减购买或提高税收；直接需求或可支配收入降低；总需求相对左移使通胀压力减弱 财政改善的直接核算效果与最终宏观效果应区分。",
+          "en": "Demand and the tax base may both fall. Cut purchases or raise taxes; direct demand or disposable income falls; aggregate demand shifts relatively left and inflation pressure weakens Distinguish direct accounting effects from final macroeconomic effects."
         }
       },
       {
@@ -37870,7 +38575,7 @@ export const knowledgePoints = [
       "id": "u3-48-automatic-stabilisers",
       "slug": "automatic-stabilisers",
       "section": "3.6",
-      "level": "core",
+      "level": "hl",
       "syllabusRefs": [
         "3.6 Fiscal policy"
       ],
@@ -38018,8 +38723,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "按既有规则随失业增加的福利支出。 原创例：失业增加后，原有失业保险规则自动支付更多补助，预算趋向赤字。它缓冲而非消除衰退；覆盖有限、资格限制或低替代率会削弱稳定作用。景气时税收回升则有反向作用。 自动不等于没有制度设计，也不等于新刺激法案。",
-          "en": "Benefits rising with unemployment under existing rules. Illustrative example: existing unemployment insurance rules automatically pay more benefits as unemployment rises, pushing the budget toward deficit. They cushion rather than eliminate recession; limited coverage, eligibility restrictions or low replacement rates weaken stabilisation. Recovering tax revenues work in reverse during expansion. Automatic does not mean undesigned or a new stimulus law."
+          "zh-CN": "按既有规则随失业增加的福利支出。 衰退降低税款并提高部分福利支出；可支配收入跌幅得到缓冲；消费与总需求的下降减弱 自动不等于没有制度设计，也不等于新刺激法案。",
+          "en": "Benefits rising with unemployment under existing rules. Recession lowers tax payments and raises some benefits; disposable income falls less sharply; consumption and aggregate demand decline less Automatic does not mean undesigned or a new stimulus law."
         }
       },
       {
@@ -38171,7 +38876,7 @@ export const knowledgePoints = [
           "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。",
           "不要混用税前与税后收入口径的边际倾向。"
         ],
-        "explanation": "自主支出创造首轮收入。部分收入形成下一轮国内支出。储蓄税收进口使后续轮次逐渐缩小。\n\n### 原创情境与推导\n\n原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。\n\n不要混用税前与税后收入口径的边际倾向。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
+        "explanation": "自主支出创造首轮收入。部分收入形成下一轮国内支出。储蓄税收进口使后续轮次逐渐缩小。\n\n### 原创情境与推导\n\n原创例：以同一新增总收入为基数，MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增加 20。封闭无政府模型 k=1/(1−MPC)。若 c 是可支配收入的消费倾向、t 为总收入比例税率、m 为总收入进口倾向，则 k=1/[1−c(1−t)+m]；不能混用基数。模型假定闲置产能、价格不变且忽略挤出与政策反应。\n\n不要混用税前与税后收入口径的边际倾向。\n\n区分购买与转移、流量与存量，评价漏出、时滞、挤出和债务。"
       },
       "en": {
         "id": "u3-49-multiplier",
@@ -38194,7 +38899,7 @@ export const knowledgePoints = [
           "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change.",
           "Do not mix marginal propensities measured against pre-tax and post-tax income."
         ],
-        "explanation": "Autonomous spending creates first-round income.  part funds further domestic spending.  saving, taxes and imports shrink subsequent rounds.\n\n### Original scenario and reasoning\n\nIllustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ.\n\nDo not mix marginal propensities measured against pre-tax and post-tax income.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
+        "explanation": "Autonomous spending creates first-round income.  part funds further domestic spending.  saving, taxes and imports shrink subsequent rounds.\n\n### Original scenario and reasoning\n\nIllustrative example: with all leakages measured against the same extra gross income, MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so ten of extra government purchases yields twenty of model income. In a closed model without government, k=1/(1−MPC). If c is consumption out of disposable income, t a proportional tax on gross income and m imports out of gross income, k=1/[1−c(1−t)+m]. Do not mix bases. Assume spare capacity, fixed prices and no crowding out or policy response.\n\nDo not mix marginal propensities measured against pre-tax and post-tax income.\n\nDistinguish purchases/transfers and flows/stocks; evaluate leakages, lags, crowding out and debt."
       }
     },
     "practice": [
@@ -38247,8 +38952,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "20。 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。 不要混用税前与税后收入口径的边际倾向。",
-          "en": "20. Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ. Do not mix marginal propensities measured against pre-tax and post-tax income."
+          "zh-CN": "20。 k = 1 / 0.4 = 2.5; ΔY = 2.5 × 8 = 20 不要混用税前与税后收入口径的边际倾向。",
+          "en": "20. k = 1 / 0.4 = 2.5; ΔY = 2.5 × 8 = 20 Do not mix marginal propensities measured against pre-tax and post-tax income."
         }
       },
       {
@@ -38260,8 +38965,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of The Keynesian multiplier and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。 自主支出创造首轮收入；部分收入形成下一轮国内支出；储蓄税收进口使后续轮次逐渐缩小 原创例：MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增量 20。无税无进口时才简化为 1/(1−MPC)。模型假定闲置产能、价格不变，且忽略挤出与政策反应；现实结果未必等于模型值。",
-          "en": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change. Autonomous spending creates first-round income; part funds further domestic spending; saving, taxes and imports shrink subsequent rounds Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ."
+          "zh-CN": "简单开放经济模型中，边际漏出以同一新增收入为基数时，乘数 k = 1/(MPS + MPT + MPM)，收入变化为 k 乘初始自主支出变化。 自主支出创造首轮收入；部分收入形成下一轮国内支出；储蓄税收进口使后续轮次逐渐缩小 原创例：以同一新增总收入为基数，MPS=0.2、MPT=0.1、MPM=0.2，k=2，新增政府购买 10 对应模型收入增加 20。封闭无政府模型 k=1/(1−MPC)。若 c 是可支配收入的消费倾向、t 为总收入比例税率、m 为总收入进口倾向，则 k=1/[1−c(1−t)+m]；不能混用基数。模型假定闲置产能、价格不变且忽略挤出与政策反应。",
+          "en": "In a simple open-economy model, with marginal leakages measured against the same additional income, k = 1/(MPS + MPT + MPM). Income changes by k times the initial autonomous spending change. Autonomous spending creates first-round income; part funds further domestic spending; saving, taxes and imports shrink subsequent rounds Illustrative example: with all leakages measured against the same extra gross income, MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so ten of extra government purchases yields twenty of model income. In a closed model without government, k=1/(1−MPC). If c is consumption out of disposable income, t a proportional tax on gross income and m imports out of gross income, k=1/[1−c(1−t)+m]. Do not mix bases. Assume spare capacity, fixed prices and no crowding out or policy response."
         },
         "keywordGroups": [
           {
@@ -38328,7 +39033,7 @@ export const knowledgePoints = [
       "id": "u3-50-crowding-out",
       "slug": "crowding-out",
       "section": "3.6",
-      "level": "core",
+      "level": "hl",
       "syllabusRefs": [
         "3.6 Fiscal policy"
       ],
@@ -38476,8 +39181,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "经济接近产能上限。 原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。 政府借款增加不能单独证明私人投资等额下降。",
-          "en": "The economy is close to capacity. Illustrative example: at capacity, public works compete for construction workers and raise private project costs. Such pressure may be weaker in a deep recession with monetary accommodation. Transport investment may also lower firms' costs and crowd investment in over time. Higher government borrowing alone does not prove an equal fall in private investment."
+          "zh-CN": "经济接近产能上限。 政府扩张增加融资或资源需求；利率或投入成本可能上升；部分私人投资消费或净出口被抵消 政府借款增加不能单独证明私人投资等额下降。",
+          "en": "The economy is close to capacity. Fiscal expansion raises financing or resource demand; interest rates or input costs may rise; some private investment, consumption or net exports are offset Higher government borrowing alone does not prove an equal fall in private investment."
         }
       },
       {
@@ -38705,8 +39410,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "实施时滞与长期供给效果。 原创例：快速现金支持可能较早稳定需求，建设铁路则准备期长却可能提高未来生产能力。高进口倾向会减少国内需求效应，但进口设备也能扩充供给。融资币种、利息与未来税基均关系债务风险。 不能仅凭赤字大小或单一乘数宣布政策成功。",
-          "en": "Implementation lags and long-run supply effects. Illustrative example: cash support may stabilise demand sooner, whereas rail construction has long preparation but may raise future capacity. High import propensity reduces domestic demand effects, yet imported equipment can expand supply. Financing currency, interest and future tax bases all matter for debt risk. Neither deficit size nor a single multiplier establishes policy success."
+          "zh-CN": "实施时滞与长期供给效果。 判断产出缺口与政策目标；检查设计审批执行及漏出；权衡短期稳定与长期财政供给结果 不能仅凭赤字大小或单一乘数宣布政策成功。",
+          "en": "Implementation lags and long-run supply effects. Identify the output gap and objective; examine design, approval, implementation and leakages; weigh short-run stabilisation against long-run fiscal and supply outcomes Neither deficit size nor a single multiplier establishes policy success."
         }
       },
       {
@@ -38936,8 +39641,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "有效竞争或合适监管。 原创例：减少新企业不必要的注册障碍可能增强竞争，但将公共垄断直接出售为私人垄断并不保证效率或可负担性改善。减税若没有带来新增投资，财政收入损失未必换来预期产能。 放松管制不应被理解为移除一切安全和环境规则。",
-          "en": "Effective competition or appropriate regulation. Illustrative example: removing unnecessary entry barriers may strengthen competition, but selling a public monopoly as a private monopoly does not guarantee efficiency or affordability. Tax cuts that fail to induce investment may lose revenue without delivering expected capacity. Deregulation need not mean removing all safety and environmental rules."
+          "zh-CN": "有效竞争或合适监管。 改变竞争或激励约束；企业改善效率投资与创新；生产能力可能提高使长期总供给右移 放松管制不应被理解为移除一切安全和环境规则。",
+          "en": "Effective competition or appropriate regulation. Change competitive or incentive constraints; firms improve efficiency, investment and innovation; productive capacity may rise and LRAS shift right Deregulation need not mean removing all safety and environmental rules."
         }
       },
       {
@@ -39167,8 +39872,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "提高技能与劳动生产率。 原创例：针对实际岗位需求的培训可减少技能错配，但没有雇主需求的课程未必增加就业。教育支出当期可能提高总需求，只有改善技能和生产率时才支持长期总供给，且往往需要较长时间。 投入金额不是生产率改善的充分证据。",
-          "en": "Improved skills and labour productivity. Illustrative example: training aligned with actual vacancies may reduce mismatch, whereas courses without employer demand may not increase employment. Education spending can raise current demand, but supports long-run supply only if skills and productivity improve, often after a long lag. Spending amounts are not sufficient evidence of productivity gains."
+          "zh-CN": "提高技能与劳动生产率。 识别技能健康或资本瓶颈；公共服务和投资改善生产条件；生产率与潜在产出可能长期增加 投入金额不是生产率改善的充分证据。",
+          "en": "Improved skills and labour productivity. Identify skill, health or capital bottlenecks; public services and investment improve production conditions; productivity and potential output may increase over time Spending amounts are not sufficient evidence of productivity gains."
         }
       },
       {
@@ -39396,8 +40101,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "求职与岗位之间的信息和匹配障碍。 原创例：公共岗位平台改善信息，搬迁支持帮助跨地区求职，但高住房成本和照护责任仍可能限制流动。削弱劳动保护可能降低部分招聘成本，也可能加剧不安全感，不能只看工资下降。 培训不直接解决总需求不足造成的所有周期性失业。",
-          "en": "Information and matching barriers between jobs and applicants. Illustrative example: public vacancy platforms improve information and relocation support aids regional job search, but housing costs and caring duties may still restrict mobility. Weaker protections may lower some hiring costs while increasing insecurity; lower wages alone are not a complete evaluation. Training does not directly solve all cyclical unemployment caused by weak demand."
+          "zh-CN": "求职与岗位之间的信息和匹配障碍。 诊断摩擦性或结构性失业原因；改善匹配技能或地区流动；可持续就业增加并可能降低自然失业率 培训不直接解决总需求不足造成的所有周期性失业。",
+          "en": "Information and matching barriers between jobs and applicants. Diagnose frictional or structural unemployment; improve matching, skills or regional mobility; sustainable employment rises and the natural unemployment rate may fall Training does not directly solve all cyclical unemployment caused by weak demand."
         }
       },
       {
@@ -39627,8 +40332,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "额外创新、外部收益与机会成本。 原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。 增加投资流量不保证资本服务质量和长期回报。",
-          "en": "Additional innovation, external benefits and opportunity cost. Illustrative example: reliable electricity reduces downtime, while research support may generate knowledge spillovers. Underused projects, rent-seeking or poor maintenance can make costs exceed benefits. Research outcomes are uncertain; not every subsidy produces additional innovation. Higher investment flows do not guarantee capital-service quality or long-run returns."
+          "zh-CN": "额外创新、外部收益与机会成本。 识别网络或知识瓶颈；投资降低成本或扩大技术能力；长期供给增加但收益取决于使用与维护 增加投资流量不保证资本服务质量和长期回报。",
+          "en": "Additional innovation, external benefits and opportunity cost. Identify network or knowledge bottlenecks; investment lowers costs or expands technological capability; long-run supply grows but benefits depend on use and maintenance Higher investment flows do not guarantee capital-service quality or long-run returns."
         }
       },
       {
@@ -39858,8 +40563,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "区分短期需求与长期匹配政策并协调。 原创例：需求不足且技能错配并存时，短期需求支持可配合长期培训；仅培训未必马上创造岗位。若经济已过热，同时刺激需求可能在新增产能形成前加剧通胀，应分析政策先后和实施能力。 没有脱离经济情境的万能政策排名。",
-          "en": "Distinguish and coordinate short-run demand and long-run matching policies. Illustrative example: weak demand alongside skills mismatch can justify short-run demand support with long-run training; training alone may not immediately create jobs. In an overheated economy, stimulating demand may worsen inflation before new capacity arrives, so sequencing and implementation matter. There is no context-free ranking of universally best policies."
+          "zh-CN": "区分短期需求与长期匹配政策并协调。 判断需求不足或供给瓶颈；协调短期稳定与长期能力政策；用多目标和时间尺度评价净效果 没有脱离经济情境的万能政策排名。",
+          "en": "Distinguish and coordinate short-run demand and long-run matching policies. Diagnose weak demand or supply bottlenecks; coordinate short-run stabilisation with long-run capacity policies; evaluate net effects across objectives and time horizons There is no context-free ranking of universally best policies."
         }
       },
       {
@@ -39923,6 +40628,924 @@ export const knowledgePoints = [
               "en": [
                 "objectives",
                 "evaluate net effects across objectives and time horizons"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-57-bank-money-creation",
+      "slug": "bank-money-creation",
+      "section": "3.5",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "商业银行的货币创造",
+        "Money creation by commercial banks",
+        "贷款",
+        "loan",
+        "存款",
+        "deposit",
+        "约束",
+        "constraints"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "贷款",
+          "存款",
+          "约束"
+        ],
+        "en": [
+          "loan",
+          "deposit",
+          "constraints"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-57-bank-money-creation-flash-1",
+        "u3-57-bank-money-creation-mcq-1",
+        "u3-57-bank-money-creation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-57-bank-money-creation",
+        "locale": "zh-CN",
+        "title": "商业银行的货币创造",
+        "takeaway": "商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。",
+        "definition": "商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。",
+        "causalChain": [
+          "银行记入贷款资产",
+          "同时记入客户存款负债",
+          "跨行支付需要结算与流动性"
+        ],
+        "misconceptions": [
+          "不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。",
+          "不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。"
+        ],
+        "explanation": "银行记入贷款资产。同时记入客户存款负债。跨行支付需要结算与流动性。\n\n### 原创情境与推导\n\n原创假设：银行贷出 100，同时客户存款增加 100；客户净财富没有因此增加 100，因为还负有贷款。基础货币与广义货币不同，准备金不是可无限机械倍增的保证。\n\n不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-57-bank-money-creation",
+        "locale": "en",
+        "title": "Money creation by commercial banks",
+        "takeaway": "Commercial-bank lending normally creates a matching deposit; principal repayment can destroy deposit money. Capital, liquidity, risk, regulation and loan demand constrain expansion.",
+        "definition": "Commercial-bank lending normally creates a matching deposit; principal repayment can destroy deposit money. Capital, liquidity, risk, regulation and loan demand constrain expansion.",
+        "causalChain": [
+          "The bank records a loan asset",
+          "it records a matching deposit liability",
+          "interbank payments need settlement and liquidity"
+        ],
+        "misconceptions": [
+          "New deposits are not new output, and money creation does not make banks unconstrained."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Commercial-bank lending normally creates a matching deposit; principal repayment can destroy deposit money. Capital, liquidity, risk, regulation and loan demand constrain expansion.",
+          "New deposits are not new output, and money creation does not make banks unconstrained."
+        ],
+        "explanation": "The bank records a loan asset.  it records a matching deposit liability.  interbank payments need settlement and liquidity.\n\n### Original scenario and reasoning\n\nHypothetical scenario: lending 100 adds a deposit of 100 but also a debt of 100, so it does not add 100 to the borrower’s net wealth. Base and broad money differ; reserves do not guarantee unlimited mechanical expansion.\n\nNew deposits are not new output, and money creation does not make banks unconstrained.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-57-bank-money-creation-flash-1",
+        "knowledgePointId": "u3-57-bank-money-creation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“商业银行的货币创造”，并说明一个关键条件。",
+          "en": "Explain Money creation by commercial banks and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。",
+          "en": "Commercial-bank lending normally creates a matching deposit; principal repayment can destroy deposit money. Capital, liquidity, risk, regulation and loan demand constrain expansion."
+        },
+        "explanation": {
+          "zh-CN": "不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。",
+          "en": "New deposits are not new output, and money creation does not make banks unconstrained."
+        }
+      },
+      {
+        "id": "u3-57-bank-money-creation-mcq-1",
+        "knowledgePointId": "u3-57-bank-money-creation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "银行发放贷款时通常同时创造什么？",
+          "en": "What is normally created alongside a new bank loan?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "客户存款负债",
+            "en": "A customer deposit liability"
+          },
+          {
+            "id": "b",
+            "zh-CN": "央行直接购买的商品",
+            "en": "Goods bought directly by the central bank"
+          },
+          {
+            "id": "c",
+            "zh-CN": "借款人的无债净财富",
+            "en": "Debt-free net wealth for the borrower"
+          },
+          {
+            "id": "d",
+            "zh-CN": "已经生产的等额实际产出",
+            "en": "Matching real output already produced"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "客户存款负债。 银行记入贷款资产；同时记入客户存款负债；跨行支付需要结算与流动性 不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。",
+          "en": "A customer deposit liability. The bank records a loan asset; it records a matching deposit liability; interbank payments need settlement and liquidity New deposits are not new output, and money creation does not make banks unconstrained."
+        }
+      },
+      {
+        "id": "u3-57-bank-money-creation-short-1",
+        "knowledgePointId": "u3-57-bank-money-creation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释商业银行的货币创造的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Money creation by commercial banks and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。 银行记入贷款资产；同时记入客户存款负债；跨行支付需要结算与流动性 原创假设：银行贷出 100，同时客户存款增加 100；客户净财富没有因此增加 100，因为还负有贷款。基础货币与广义货币不同，准备金不是可无限机械倍增的保证。",
+          "en": "Commercial-bank lending normally creates a matching deposit; principal repayment can destroy deposit money. Capital, liquidity, risk, regulation and loan demand constrain expansion. The bank records a loan asset; it records a matching deposit liability; interbank payments need settlement and liquidity Hypothetical scenario: lending 100 adds a deposit of 100 but also a debt of 100, so it does not add 100 to the borrower’s net wealth. Base and broad money differ; reserves do not guarantee unlimited mechanical expansion."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "贷款",
+              "en": "loan"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "贷款",
+                "银行记入贷款资产"
+              ],
+              "en": [
+                "loan",
+                "The bank records a loan asset"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "存款",
+              "en": "deposit"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "存款",
+                "同时记入客户存款负债"
+              ],
+              "en": [
+                "deposit",
+                "it records a matching deposit liability"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "约束",
+              "en": "constraints"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "约束",
+                "跨行支付需要结算与流动性"
+              ],
+              "en": [
+                "constraints",
+                "interbank payments need settlement and liquidity"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-58-monetary-tools",
+      "slug": "monetary-tools",
+      "section": "3.5",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "货币政策工具",
+        "Monetary policy instruments",
+        "工具",
+        "instruments",
+        "流动性",
+        "liquidity",
+        "利率",
+        "interest"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "工具",
+          "流动性",
+          "利率"
+        ],
+        "en": [
+          "instruments",
+          "liquidity",
+          "interest"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-58-monetary-tools-flash-1",
+        "u3-58-monetary-tools-mcq-1",
+        "u3-58-monetary-tools-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-58-monetary-tools",
+        "locale": "zh-CN",
+        "title": "货币政策工具",
+        "takeaway": "公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。",
+        "definition": "公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。",
+        "causalChain": [
+          "央行调整工具",
+          "银行资金成本与流动性变化",
+          "信贷和利率渠道影响支出"
+        ],
+        "misconceptions": [
+          "不要把央行买金融资产记为财政政策中政府购买商品服务的 G。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。",
+          "不要把央行买金融资产记为财政政策中政府购买商品服务的 G。"
+        ],
+        "explanation": "央行调整工具。银行资金成本与流动性变化。信贷和利率渠道影响支出。\n\n### 原创情境与推导\n\n原创假设：央行买债可增加银行结算余额，在其他条件适当时压低市场收益率；降低准备金要求可能释放流动性，但不保证银行放贷或家庭借款增加。QE 通常针对较长期资产。\n\n不要把央行买金融资产记为财政政策中政府购买商品服务的 G。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-58-monetary-tools",
+        "locale": "en",
+        "title": "Monetary policy instruments",
+        "takeaway": "Open-market operations, reserve requirements and central-bank lending rates can affect financial conditions; transmission depends on the banking system and operating framework.",
+        "definition": "Open-market operations, reserve requirements and central-bank lending rates can affect financial conditions; transmission depends on the banking system and operating framework.",
+        "causalChain": [
+          "The central bank adjusts instruments",
+          "bank funding costs and liquidity change",
+          "credit and interest channels affect spending"
+        ],
+        "misconceptions": [
+          "Do not record central-bank purchases of financial assets as fiscal purchases of goods and services in G."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "Open-market operations, reserve requirements and central-bank lending rates can affect financial conditions; transmission depends on the banking system and operating framework.",
+          "Do not record central-bank purchases of financial assets as fiscal purchases of goods and services in G."
+        ],
+        "explanation": "The central bank adjusts instruments.  bank funding costs and liquidity change.  credit and interest channels affect spending.\n\n### Original scenario and reasoning\n\nHypothetical scenario: bond purchases can add settlement balances and, under suitable conditions, lower yields. Lower reserve requirements may ease liquidity without guaranteeing more lending or borrowing. QE often targets longer-term assets.\n\nDo not record central-bank purchases of financial assets as fiscal purchases of goods and services in G.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-58-monetary-tools-flash-1",
+        "knowledgePointId": "u3-58-monetary-tools",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“货币政策工具”，并说明一个关键条件。",
+          "en": "Explain Monetary policy instruments and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。",
+          "en": "Open-market operations, reserve requirements and central-bank lending rates can affect financial conditions; transmission depends on the banking system and operating framework."
+        },
+        "explanation": {
+          "zh-CN": "不要把央行买金融资产记为财政政策中政府购买商品服务的 G。",
+          "en": "Do not record central-bank purchases of financial assets as fiscal purchases of goods and services in G."
+        }
+      },
+      {
+        "id": "u3-58-monetary-tools-mcq-1",
+        "knowledgePointId": "u3-58-monetary-tools",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪项是央行公开市场购买？",
+          "en": "Which is a central-bank open-market purchase?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "政府购买公路维修",
+            "en": "The government buys road repairs"
+          },
+          {
+            "id": "b",
+            "zh-CN": "央行购买债券",
+            "en": "The central bank buys bonds"
+          },
+          {
+            "id": "c",
+            "zh-CN": "家庭买食品",
+            "en": "A household buys food"
+          },
+          {
+            "id": "d",
+            "zh-CN": "企业支付工资",
+            "en": "A firm pays wages"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "央行购买债券。 央行调整工具；银行资金成本与流动性变化；信贷和利率渠道影响支出 不要把央行买金融资产记为财政政策中政府购买商品服务的 G。",
+          "en": "The central bank buys bonds. The central bank adjusts instruments; bank funding costs and liquidity change; credit and interest channels affect spending Do not record central-bank purchases of financial assets as fiscal purchases of goods and services in G."
+        }
+      },
+      {
+        "id": "u3-58-monetary-tools-short-1",
+        "knowledgePointId": "u3-58-monetary-tools",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释货币政策工具的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Monetary policy instruments and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "公开市场操作、准备金要求和央行贷款利率可影响金融条件；具体传导取决于银行体系与政策实施框架。 央行调整工具；银行资金成本与流动性变化；信贷和利率渠道影响支出 原创假设：央行买债可增加银行结算余额，在其他条件适当时压低市场收益率；降低准备金要求可能释放流动性，但不保证银行放贷或家庭借款增加。QE 通常针对较长期资产。",
+          "en": "Open-market operations, reserve requirements and central-bank lending rates can affect financial conditions; transmission depends on the banking system and operating framework. The central bank adjusts instruments; bank funding costs and liquidity change; credit and interest channels affect spending Hypothetical scenario: bond purchases can add settlement balances and, under suitable conditions, lower yields. Lower reserve requirements may ease liquidity without guaranteeing more lending or borrowing. QE often targets longer-term assets."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "工具",
+              "en": "instruments"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "工具",
+                "央行调整工具"
+              ],
+              "en": [
+                "instruments",
+                "The central bank adjusts instruments"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "流动性",
+              "en": "liquidity"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "流动性",
+                "银行资金成本与流动性变化"
+              ],
+              "en": [
+                "liquidity",
+                "bank funding costs and liquidity change"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "利率",
+              "en": "interest"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "利率",
+                "信贷和利率渠道影响支出"
+              ],
+              "en": [
+                "interest",
+                "credit and interest channels affect spending"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-59-money-market",
+      "slug": "money-market",
+      "section": "3.5",
+      "level": "hl",
+      "syllabusRefs": [
+        "3.5 Monetary policy"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "13",
+          "section": "13.2",
+          "pages": [
+            387
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-11-aggregate-demand"
+      ],
+      "related": [
+        "u3-39-money-interest",
+        "u3-40-monetary-transmission",
+        "u3-41-expansionary-monetary"
+      ],
+      "terms": [
+        "货币市场与均衡利率",
+        "The money market and equilibrium interest",
+        "利率",
+        "interest",
+        "货币需求",
+        "money demand",
+        "供给",
+        "supply"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "利率",
+          "货币需求",
+          "供给"
+        ],
+        "en": [
+          "interest",
+          "money demand",
+          "supply"
+        ]
+      },
+      "diagramIds": [
+        "audit-money-market"
+      ],
+      "quizIds": [
+        "u3-59-money-market-flash-1",
+        "u3-59-money-market-mcq-1",
+        "u3-59-money-market-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-59-money-market",
+        "locale": "zh-CN",
+        "title": "货币市场与均衡利率",
+        "takeaway": "在简单流动性偏好模型中，货币需求随持币机会成本即名义利率上升而下降；给定货币供给与需求交点确定利率。",
+        "definition": "在简单流动性偏好模型中，货币需求随持币机会成本即名义利率上升而下降；给定货币供给与需求交点确定利率。",
+        "causalChain": [
+          "利率提高持币机会成本",
+          "货币需求量下降",
+          "供需交点形成模型均衡"
+        ],
+        "misconceptions": [
+          "货币市场纵轴是名义利率，横轴是货币数量，不是商品价格与产量。"
+        ],
+        "examApplication": [
+          "用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+        ],
+        "summary": [
+          "在简单流动性偏好模型中，货币需求随持币机会成本即名义利率上升而下降；给定货币供给与需求交点确定利率。",
+          "货币市场纵轴是名义利率，横轴是货币数量，不是商品价格与产量。"
+        ],
+        "explanation": "利率提高持币机会成本。货币需求量下降。供需交点形成模型均衡。\n\n### 原创情境与推导\n\n原创假设：收入与价格等不变，货币供给右移可降低均衡利率；真实央行也可直接以政策利率为操作目标，不能把示意模型当作所有制度的逐日流程。\n\n货币市场纵轴是名义利率，横轴是货币数量，不是商品价格与产量。\n\n用利率到支出再到 AD 的链条解释传导，注明汇率制度、时滞与限制。"
+      },
+      "en": {
+        "id": "u3-59-money-market",
+        "locale": "en",
+        "title": "The money market and equilibrium interest",
+        "takeaway": "In a simple liquidity-preference model, money demand falls as the nominal interest opportunity cost of holding money rises. Its intersection with given money supply determines interest.",
+        "definition": "In a simple liquidity-preference model, money demand falls as the nominal interest opportunity cost of holding money rises. Its intersection with given money supply determines interest.",
+        "causalChain": [
+          "Interest raises the opportunity cost of money",
+          "quantity of money demanded falls",
+          "demand and supply intersect at model equilibrium"
+        ],
+        "misconceptions": [
+          "The axes are nominal interest and money quantity, not a good’s price and output."
+        ],
+        "examApplication": [
+          "Trace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+        ],
+        "summary": [
+          "In a simple liquidity-preference model, money demand falls as the nominal interest opportunity cost of holding money rises. Its intersection with given money supply determines interest.",
+          "The axes are nominal interest and money quantity, not a good’s price and output."
+        ],
+        "explanation": "Interest raises the opportunity cost of money.  quantity of money demanded falls.  demand and supply intersect at model equilibrium.\n\n### Original scenario and reasoning\n\nHypothetical scenario: holding income and prices constant, a rightward money-supply shift lowers equilibrium interest. Actual central banks may target a policy rate directly; the schematic is not every system’s daily operating process.\n\nThe axes are nominal interest and money quantity, not a good’s price and output.\n\nTrace rates through spending to AD, stating exchange-rate arrangements, lags and limitations."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-59-money-market-flash-1",
+        "knowledgePointId": "u3-59-money-market",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“货币市场与均衡利率”，并说明一个关键条件。",
+          "en": "Explain The money market and equilibrium interest and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "在简单流动性偏好模型中，货币需求随持币机会成本即名义利率上升而下降；给定货币供给与需求交点确定利率。",
+          "en": "In a simple liquidity-preference model, money demand falls as the nominal interest opportunity cost of holding money rises. Its intersection with given money supply determines interest."
+        },
+        "explanation": {
+          "zh-CN": "货币市场纵轴是名义利率，横轴是货币数量，不是商品价格与产量。",
+          "en": "The axes are nominal interest and money quantity, not a good’s price and output."
+        }
+      },
+      {
+        "id": "u3-59-money-market-mcq-1",
+        "knowledgePointId": "u3-59-money-market",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "其他条件不变，模型货币供给增加通常怎样影响利率？",
+          "en": "Other things equal, how does more money supply affect model equilibrium interest?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "利率必上升",
+            "en": "Interest must rise"
+          },
+          {
+            "id": "b",
+            "zh-CN": "实际产能必立即翻倍",
+            "en": "Real capacity must instantly double"
+          },
+          {
+            "id": "c",
+            "zh-CN": "利率下降",
+            "en": "Interest falls"
+          },
+          {
+            "id": "d",
+            "zh-CN": "纵轴改为实际 GDP",
+            "en": "The vertical axis becomes real GDP"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "利率下降。 利率提高持币机会成本；货币需求量下降；供需交点形成模型均衡 货币市场纵轴是名义利率，横轴是货币数量，不是商品价格与产量。",
+          "en": "Interest falls. Interest raises the opportunity cost of money; quantity of money demanded falls; demand and supply intersect at model equilibrium The axes are nominal interest and money quantity, not a good’s price and output."
+        }
+      },
+      {
+        "id": "u3-59-money-market-short-1",
+        "knowledgePointId": "u3-59-money-market",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释货币市场与均衡利率的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of The money market and equilibrium interest and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "在简单流动性偏好模型中，货币需求随持币机会成本即名义利率上升而下降；给定货币供给与需求交点确定利率。 利率提高持币机会成本；货币需求量下降；供需交点形成模型均衡 原创假设：收入与价格等不变，货币供给右移可降低均衡利率；真实央行也可直接以政策利率为操作目标，不能把示意模型当作所有制度的逐日流程。",
+          "en": "In a simple liquidity-preference model, money demand falls as the nominal interest opportunity cost of holding money rises. Its intersection with given money supply determines interest. Interest raises the opportunity cost of money; quantity of money demanded falls; demand and supply intersect at model equilibrium Hypothetical scenario: holding income and prices constant, a rightward money-supply shift lowers equilibrium interest. Actual central banks may target a policy rate directly; the schematic is not every system’s daily operating process."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "利率",
+              "en": "interest"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "利率",
+                "利率提高持币机会成本"
+              ],
+              "en": [
+                "interest",
+                "Interest raises the opportunity cost of money"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "货币需求",
+              "en": "money demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "货币需求",
+                "货币需求量下降"
+              ],
+              "en": [
+                "money demand",
+                "quantity of money demanded falls"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "供给",
+              "en": "supply"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "供给",
+                "供需交点形成模型均衡"
+              ],
+              "en": [
+                "supply",
+                "demand and supply intersect at model equilibrium"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u3-60-inflation-costs",
+      "slug": "inflation-costs",
+      "section": "3.3",
+      "level": "core",
+      "syllabusRefs": [
+        "3.3 Macroeconomic objectives"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "10",
+          "section": "10.2",
+          "pages": [
+            308
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u3-17-macro-equilibrium"
+      ],
+      "related": [
+        "u3-21-unemployment-rate",
+        "u3-22-unemployment-types",
+        "u3-23-unemployment-costs"
+      ],
+      "terms": [
+        "通胀成本与失业的比较",
+        "Inflation costs and comparison with unemployment",
+        "通胀",
+        "inflation",
+        "实际",
+        "real",
+        "分配",
+        "distribution"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "通胀",
+          "实际",
+          "分配"
+        ],
+        "en": [
+          "inflation",
+          "real",
+          "distribution"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u3-60-inflation-costs-flash-1",
+        "u3-60-inflation-costs-mcq-1",
+        "u3-60-inflation-costs-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u3-60-inflation-costs",
+        "locale": "zh-CN",
+        "title": "通胀成本与失业的比较",
+        "takeaway": "高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。",
+        "definition": "高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。",
+        "causalChain": [
+          "价格变化不均且难预测",
+          "实际收入和债务负担重新分配",
+          "不确定性影响储蓄投资与资源配置"
+        ],
+        "misconceptions": [
+          "并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。"
+        ],
+        "examApplication": [
+          "先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+        ],
+        "summary": [
+          "高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。",
+          "并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。"
+        ],
+        "explanation": "价格变化不均且难预测。实际收入和债务负担重新分配。不确定性影响储蓄投资与资源配置。\n\n### 原创情境与推导\n\n原创假设：意外通胀可降低固定名义债务的实际负担，使债务人受益、债权人受损；工资能否跟上决定家庭影响。压低成本推动通胀的需求政策可能增加失业，应比较代价。\n\n并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。\n\n先定义和衡量目标，再解释成因、利益相关者与目标冲突。"
+      },
+      "en": {
+        "id": "u3-60-inflation-costs",
+        "locale": "en",
+        "title": "Inflation costs and comparison with unemployment",
+        "takeaway": "High unpredictable inflation can harm purchasing power, planning, real saving returns and price signals. Unemployment creates output and social losses; evaluate shock sources and distribution.",
+        "definition": "High unpredictable inflation can harm purchasing power, planning, real saving returns and price signals. Unemployment creates output and social losses; evaluate shock sources and distribution.",
+        "causalChain": [
+          "Prices change unevenly and unpredictably",
+          "real incomes and debt burdens redistribute",
+          "uncertainty affects saving, investment and allocation"
+        ],
+        "misconceptions": [
+          "Inflation does not affect everyone equally; low predictable inflation differs from high volatile inflation."
+        ],
+        "examApplication": [
+          "Define and measure objectives before analysing causes, stakeholders and conflicts."
+        ],
+        "summary": [
+          "High unpredictable inflation can harm purchasing power, planning, real saving returns and price signals. Unemployment creates output and social losses; evaluate shock sources and distribution.",
+          "Inflation does not affect everyone equally; low predictable inflation differs from high volatile inflation."
+        ],
+        "explanation": "Prices change unevenly and unpredictably.  real incomes and debt burdens redistribute.  uncertainty affects saving, investment and allocation.\n\n### Original scenario and reasoning\n\nHypothetical scenario: unexpected inflation reduces fixed nominal debt’s real burden, potentially helping debtors and hurting creditors. Wage adjustment affects households. Demand restraint against cost-push inflation may raise unemployment, requiring a cost comparison.\n\nInflation does not affect everyone equally; low predictable inflation differs from high volatile inflation.\n\nDefine and measure objectives before analysing causes, stakeholders and conflicts."
+      }
+    },
+    "practice": [
+      {
+        "id": "u3-60-inflation-costs-flash-1",
+        "knowledgePointId": "u3-60-inflation-costs",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“通胀成本与失业的比较”，并说明一个关键条件。",
+          "en": "Explain Inflation costs and comparison with unemployment and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。",
+          "en": "High unpredictable inflation can harm purchasing power, planning, real saving returns and price signals. Unemployment creates output and social losses; evaluate shock sources and distribution."
+        },
+        "explanation": {
+          "zh-CN": "并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。",
+          "en": "Inflation does not affect everyone equally; low predictable inflation differs from high volatile inflation."
+        }
+      },
+      {
+        "id": "u3-60-inflation-costs-mcq-1",
+        "knowledgePointId": "u3-60-inflation-costs",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "意外通胀对固定名义债务的实际负担通常怎样？",
+          "en": "What does unexpected inflation normally do to fixed nominal debt’s real burden?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "自动免除本金",
+            "en": "Automatically cancels principal"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必提高实际负担",
+            "en": "Necessarily raises the real burden"
+          },
+          {
+            "id": "c",
+            "zh-CN": "与价格完全无关",
+            "en": "It has no relation to prices"
+          },
+          {
+            "id": "d",
+            "zh-CN": "降低实际负担",
+            "en": "Reduces the real burden"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "降低实际负担。 价格变化不均且难预测；实际收入和债务负担重新分配；不确定性影响储蓄投资与资源配置 并非所有人因通胀受到相同损失；可预期、低且稳定的通胀与高波动通胀不能混为一谈。",
+          "en": "Reduces the real burden. Prices change unevenly and unpredictably; real incomes and debt burdens redistribute; uncertainty affects saving, investment and allocation Inflation does not affect everyone equally; low predictable inflation differs from high volatile inflation."
+        }
+      },
+      {
+        "id": "u3-60-inflation-costs-short-1",
+        "knowledgePointId": "u3-60-inflation-costs",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释通胀成本与失业的比较的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Inflation costs and comparison with unemployment and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "高且难预测的通胀可损害购买力、计划、储蓄实际回报与价格信号；失业造成产出和社会损失，政策评价需比较冲击来源与分配。 价格变化不均且难预测；实际收入和债务负担重新分配；不确定性影响储蓄投资与资源配置 原创假设：意外通胀可降低固定名义债务的实际负担，使债务人受益、债权人受损；工资能否跟上决定家庭影响。压低成本推动通胀的需求政策可能增加失业，应比较代价。",
+          "en": "High unpredictable inflation can harm purchasing power, planning, real saving returns and price signals. Unemployment creates output and social losses; evaluate shock sources and distribution. Prices change unevenly and unpredictably; real incomes and debt burdens redistribute; uncertainty affects saving, investment and allocation Hypothetical scenario: unexpected inflation reduces fixed nominal debt’s real burden, potentially helping debtors and hurting creditors. Wage adjustment affects households. Demand restraint against cost-push inflation may raise unemployment, requiring a cost comparison."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "通胀",
+              "en": "inflation"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "通胀",
+                "价格变化不均且难预测"
+              ],
+              "en": [
+                "inflation",
+                "Prices change unevenly and unpredictably"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "实际",
+              "en": "real"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "实际",
+                "实际收入和债务负担重新分配"
+              ],
+              "en": [
+                "real",
+                "real incomes and debt burdens redistribute"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "分配",
+              "en": "distribution"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分配",
+                "不确定性影响储蓄投资与资源配置"
+              ],
+              "en": [
+                "distribution",
+                "uncertainty affects saving, investment and allocation"
               ]
             }
           }
@@ -40087,8 +41710,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "分摊固定成本。 原创假设：本国药品企业进入更大市场，分摊研发成本；消费者可能获得低价药，但低效率企业的工人可能需要转岗。 总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。",
-          "en": "Spreading fixed costs. Hypothetical scenario: a medicine producer spreads research costs across a larger market. Consumers may obtain cheaper medicines while workers in less efficient firms face retraining. Aggregate gains do not mean everyone gains; adjustment costs, environmental effects and dependence require separate evaluation."
+          "zh-CN": "分摊固定成本。 更大市场支持专业化；规模扩大可降低平均成本；竞争约束价格并促进创新 总收益增加不代表每个人都获益；调整成本、环境成本和依赖性需要单独评价。",
+          "en": "Spreading fixed costs. Larger markets support specialisation; greater scale can reduce average costs; competition can restrain prices and encourage innovation Aggregate gains do not mean everyone gains; adjustment costs, environmental effects and dependence require separate evaluation."
         }
       },
       {
@@ -40217,13 +41840,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-02-free-trade-imports-flash-1",
         "u4-02-free-trade-imports-mcq-1",
-        "u4-02-free-trade-imports-short-1"
+        "u4-02-free-trade-imports-short-1",
+        "u4-02-free-trade-imports-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-02-free-trade-imports",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。",
         "title": "小国自由贸易与进口",
         "takeaway": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
         "definition": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
@@ -40242,11 +41867,12 @@ export const knowledgePoints = [
           "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。",
           "小国接受世界价格；进口量不是国内总消费量。"
         ],
-        "explanation": "世界价格低于自给价。国内消费增加而生产减少。进口满足需求与供给差额。\n\n### 原创情境与推导\n\n原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。\n\n小国接受世界价格；进口量不是国内总消费量。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        "explanation": "世界价格低于自给价。国内消费增加而生产减少。进口满足需求与供给差额。\n\n### 原创情境与推导\n\n原创假设：世界价低于自给价，国内消费者增加购买，本国产量减少，进口填补差额；消费者获益、生产者受损。读图计算贸易量、支出和剩余属于 HL。\n\n小国接受世界价格；进口量不是国内总消费量。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
       },
       "en": {
         "id": "u4-02-free-trade-imports",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60. Consumers gain and producers lose, with net welfare gains in a model without externalities.",
         "title": "Free trade and imports in a small economy",
         "takeaway": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
         "definition": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
@@ -40265,7 +41891,7 @@ export const knowledgePoints = [
           "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply.",
           "A small economy takes the world price; imports are not total domestic consumption."
         ],
-        "explanation": "The world price is below autarky.  domestic consumption rises and production falls.  imports fill the demand-supply gap.\n\n### Original scenario and reasoning\n\nHypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60. Consumers gain and producers lose, with net welfare gains in a model without externalities.\n\nA small economy takes the world price; imports are not total domestic consumption.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        "explanation": "The world price is below autarky.  domestic consumption rises and production falls.  imports fill the demand-supply gap.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a world price below autarky increases domestic purchases and reduces home output; imports fill the gap. Consumers gain and producers lose. Numerical trade-volume, expenditure and surplus calculations from diagrams are HL.\n\nA small economy takes the world price; imports are not total domestic consumption.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
       }
     },
     "practice": [
@@ -40291,35 +41917,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-02-free-trade-imports",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "Qd=90、Qs=30 时进口量是多少？",
-          "en": "With Qd=90 and Qs=30, how large are imports?"
+          "zh-CN": "世界价低于自给价时，小国通常怎样贸易？",
+          "en": "How does a small economy normally trade when world price is below autarky?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "120",
-            "en": "120"
+            "zh-CN": "必定出口",
+            "en": "It necessarily exports"
           },
           {
             "id": "b",
-            "zh-CN": "60",
-            "en": "60"
+            "zh-CN": "进口以填补国内需求超过供给的差额",
+            "en": "It imports the excess of domestic demand over supply"
           },
           {
             "id": "c",
-            "zh-CN": "90",
-            "en": "90"
+            "zh-CN": "不再消费该商品",
+            "en": "It stops consuming the good"
           },
           {
             "id": "d",
-            "zh-CN": "30",
-            "en": "30"
+            "zh-CN": "世界价由本国单独决定",
+            "en": "It alone sets the world price"
           }
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "60。 原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。 小国接受世界价格；进口量不是国内总消费量。",
-          "en": "60. Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60. Consumers gain and producers lose, with net welfare gains in a model without externalities. A small economy takes the world price; imports are not total domestic consumption."
+          "zh-CN": "进口以填补国内需求超过供给的差额。 世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 小国接受世界价格；进口量不是国内总消费量。",
+          "en": "It imports the excess of domestic demand over supply. The world price is below autarky; domestic consumption rises and production falls; imports fill the demand-supply gap A small economy takes the world price; imports are not total domestic consumption."
         }
       },
       {
@@ -40331,8 +41957,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Free trade and imports in a small economy and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。 世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 原创假设：Pw=10 时 Qd=100、Qs=40，进口 60；消费者获益而生产者受损，在无外部性模型中存在净福利收益。",
-          "en": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply. The world price is below autarky; domestic consumption rises and production falls; imports fill the demand-supply gap Hypothetical scenario: at Pw=10, Qd=100 and Qs=40, so imports are 60. Consumers gain and producers lose, with net welfare gains in a model without externalities."
+          "zh-CN": "在同质商品、小国和无运输成本模型中，世界价格低于自给均衡价时，国内需求超过供给，差额为进口。 世界价格低于自给价；国内消费增加而生产减少；进口满足需求与供给差额 原创假设：世界价低于自给价，国内消费者增加购买，本国产量减少，进口填补差额；消费者获益、生产者受损。读图计算贸易量、支出和剩余属于 HL。",
+          "en": "In a small-country model with homogeneous goods and no transport costs, a world price below the autarky price creates imports equal to domestic demand minus supply. The world price is below autarky; domestic consumption rises and production falls; imports fill the demand-supply gap Hypothetical scenario: a world price below autarky increases domestic purchases and reduces home output; imports fill the gap. Consumers gain and producers lose. Numerical trade-volume, expenditure and surplus calculations from diagrams are HL."
         },
         "keywordGroups": [
           {
@@ -40391,6 +42017,43 @@ export const knowledgePoints = [
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
         }
+      },
+      {
+        "id": "u4-02-free-trade-imports-mcq-hl-1",
+        "knowledgePointId": "u4-02-free-trade-imports",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "Qd=90、Qs=30 时进口量是多少？",
+          "en": "With Qd=90 and Qs=30, how large are imports?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "120",
+            "en": "120"
+          },
+          {
+            "id": "b",
+            "zh-CN": "90",
+            "en": "90"
+          },
+          {
+            "id": "c",
+            "zh-CN": "60",
+            "en": "60"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "60。 90 − 30 = 60",
+          "en": "60. 90 − 30 = 60"
+        }
       }
     ]
   },
@@ -40448,13 +42111,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-03-free-trade-exports-flash-1",
         "u4-03-free-trade-exports-mcq-1",
-        "u4-03-free-trade-exports-short-1"
+        "u4-03-free-trade-exports-short-1",
+        "u4-03-free-trade-exports-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-03-free-trade-exports",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。",
         "title": "小国自由贸易与出口",
         "takeaway": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
         "definition": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
@@ -40473,11 +42138,12 @@ export const knowledgePoints = [
           "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。",
           "出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。"
         ],
-        "explanation": "较高世界价格提高生产激励。国内消费者减少购买。出口等于供给减需求。\n\n### 原创情境与推导\n\n原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。\n\n出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
+        "explanation": "较高世界价格提高生产激励。国内消费者减少购买。出口等于供给减需求。\n\n### 原创情境与推导\n\n原创假设：世界价高于自给价，生产者扩产、国内消费者减少购买，剩余产出出口；生产者获益但国内消费者受损。读图计算出口量与收入属于 HL。\n\n出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。\n\n说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。"
       },
       "en": {
         "id": "u4-03-free-trade-exports",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price.",
         "title": "Free trade and exports in a small economy",
         "takeaway": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
         "definition": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
@@ -40496,7 +42162,7 @@ export const knowledgePoints = [
           "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported.",
           "Export receipts are not pure welfare gains; compare changes in consumer and producer surplus."
         ],
-        "explanation": "A higher world price encourages production.  domestic consumers buy less.  exports equal supply minus demand.\n\n### Original scenario and reasoning\n\nHypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price.\n\nExport receipts are not pure welfare gains; compare changes in consumer and producer surplus.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
+        "explanation": "A higher world price encourages production.  domestic consumers buy less.  exports equal supply minus demand.\n\n### Original scenario and reasoning\n\nHypothetical scenario: world price above autarky raises domestic output and lowers domestic purchases. The surplus is exported; producers gain but home consumers lose. Numerical exports and revenue from diagrams are HL.\n\nExport receipts are not pure welfare gains; compare changes in consumer and producer surplus.\n\nState small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."
       }
     },
     "practice": [
@@ -40522,35 +42188,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-03-free-trade-exports",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "Qs=80、Qd=50，出口多少？",
-          "en": "If Qs=80 and Qd=50, what are exports?"
+          "zh-CN": "世界价高于自给价时，出口来自哪里？",
+          "en": "With world price above autarky, what supplies exports?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "130",
-            "en": "130"
+            "zh-CN": "国内需求超过供给的部分",
+            "en": "Domestic demand exceeding supply"
           },
           {
             "id": "b",
-            "zh-CN": "50",
-            "en": "50"
+            "zh-CN": "必定来自所有进口",
+            "en": "Necessarily all imports"
           },
           {
             "id": "c",
-            "zh-CN": "30",
-            "en": "30"
+            "zh-CN": "国内供给超过国内需求的部分",
+            "en": "Domestic supply exceeding domestic demand"
           },
           {
             "id": "d",
-            "zh-CN": "80",
-            "en": "80"
+            "zh-CN": "仅来自政府储备",
+            "en": "Only government reserves"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "30。 原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。 出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。",
-          "en": "30. Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price. Export receipts are not pure welfare gains; compare changes in consumer and producer surplus."
+          "zh-CN": "国内供给超过国内需求的部分。 较高世界价格提高生产激励；国内消费者减少购买；出口等于供给减需求 出口收益不是纯福利收益；应比较消费者与生产者剩余的变化。",
+          "en": "Domestic supply exceeding domestic demand. A higher world price encourages production; domestic consumers buy less; exports equal supply minus demand Export receipts are not pure welfare gains; compare changes in consumer and producer surplus."
         }
       },
       {
@@ -40562,8 +42228,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Free trade and exports in a small economy and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。 较高世界价格提高生产激励；国内消费者减少购买；出口等于供给减需求 原创假设：Pw=20 时 Qs=120、Qd=70，出口 50；生产者获益，国内消费者支付更高价格。",
-          "en": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported. A higher world price encourages production; domestic consumers buy less; exports equal supply minus demand Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price."
+          "zh-CN": "世界价格高于自给均衡价时，国内供给超过需求，剩余产出出口。 较高世界价格提高生产激励；国内消费者减少购买；出口等于供给减需求 原创假设：世界价高于自给价，生产者扩产、国内消费者减少购买，剩余产出出口；生产者获益但国内消费者受损。读图计算出口量与收入属于 HL。",
+          "en": "When the world price exceeds the autarky equilibrium price, domestic supply exceeds demand and the surplus is exported. A higher world price encourages production; domestic consumers buy less; exports equal supply minus demand Hypothetical scenario: world price above autarky raises domestic output and lowers domestic purchases. The surplus is exported; producers gain but home consumers lose. Numerical exports and revenue from diagrams are HL."
         },
         "keywordGroups": [
           {
@@ -40621,6 +42287,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u4-03-free-trade-exports-mcq-hl-1",
+        "knowledgePointId": "u4-03-free-trade-exports",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "Qs=80、Qd=50，出口多少？",
+          "en": "If Qs=80 and Qd=50, what are exports?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "130",
+            "en": "130"
+          },
+          {
+            "id": "b",
+            "zh-CN": "50",
+            "en": "50"
+          },
+          {
+            "id": "c",
+            "zh-CN": "80",
+            "en": "80"
+          },
+          {
+            "id": "d",
+            "zh-CN": "30",
+            "en": "30"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "30。 80 − 50 = 30",
+          "en": "30. 80 − 50 = 30"
         }
       }
     ]
@@ -40778,8 +42481,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "产量为 8 的经济体。 原创假设：每工时 A 可产 8 件布，B 可产 5 件，A 在布上有绝对优势；仍需比较另一商品才能判断比较优势。 绝对优势比较生产率，比较优势比较机会成本，二者不能互换。",
-          "en": "The economy producing eight. Hypothetical scenario: A produces eight cloth units per hour and B five. A has absolute advantage in cloth, but another good is needed to establish comparative advantage. Absolute advantage compares productivity; comparative advantage compares opportunity cost."
+          "zh-CN": "产量为 8 的经济体。 保持投入可比；比较单位资源的产量；识别生产率优势 绝对优势比较生产率，比较优势比较机会成本，二者不能互换。",
+          "en": "The economy producing eight. Hold inputs comparable; compare output per unit of resources; identify the productivity advantage Absolute advantage compares productivity; comparative advantage compares opportunity cost."
         }
       },
       {
@@ -40902,7 +42605,9 @@ export const knowledgePoints = [
           "trading ratio"
         ]
       },
-      "diagramIds": [],
+      "diagramIds": [
+        "audit-comparative-ppc"
+      ],
       "quizIds": [
         "u4-05-comparative-advantage-flash-1",
         "u4-05-comparative-advantage-mcq-1",
@@ -41007,8 +42712,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "1 布换 2.5 粮。 原创假设：A 可产 10 布或 20 粮，B 可产 6 布或 18 粮。1 布成本分别为 2 粮、3 粮；A 专业化布，按 1 布换 2.5 粮双方可获益。假设资源可转移、充分就业且忽略运费。 即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。",
-          "en": "One cloth for 2.5 grain. Hypothetical scenario: A can make ten cloth or twenty grain; B six cloth or eighteen grain. One cloth costs two grain in A and three in B. A specialises in cloth; trading at 2.5 grain per cloth can benefit both. Assume mobile domestic resources, full employment and no freight costs. Even an economy with absolute advantage in both goods can gain from different opportunity costs; adjustment and externalities can weaken gains."
+          "zh-CN": "1 布换 2.5 粮。 计算放弃的另一商品；比较机会成本；在两者之间确定互利交换比率 即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。",
+          "en": "One cloth for 2.5 grain. Calculate the other good forgone; compare opportunity costs; choose a trading ratio between them Even an economy with absolute advantage in both goods can gain from different opportunity costs; adjustment and externalities can weaken gains."
         }
       },
       {
@@ -41236,8 +42941,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "谁获益、谁付出调整成本。 原创假设：廉价进口降低家庭支出，但偏远地区唯一工厂关闭；就业转移需要时间，不能用全国净收益否定地区损失。 把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。",
-          "en": "Who gains and who bears adjustment costs. Hypothetical scenario: cheaper imports lower household spending but close a remote region's only factory. Reallocation takes time; national net gains do not erase local losses. Treating every import as a loss, or all trade as beneficial to everyone, omits stakeholders."
+          "zh-CN": "谁获益、谁付出调整成本。 进口竞争促使资源重新配置；部分企业和工人承担调整成本；再培训与社会保障影响净收益分布 把所有进口都视为损失，或把所有贸易都视为人人受益，都会遗漏利益相关者。",
+          "en": "Who gains and who bears adjustment costs. Import competition reallocates resources; some firms and workers bear adjustment costs; retraining and social protection affect the distribution of net gains Treating every import as a loss, or all trade as beneficial to everyone, omits stakeholders."
         }
       },
       {
@@ -41366,13 +43071,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-07-tariff-flash-1",
         "u4-07-tariff-mcq-1",
-        "u4-07-tariff-short-1"
+        "u4-07-tariff-short-1",
+        "u4-07-tariff-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-07-tariff",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。",
         "title": "关税与小国福利",
         "takeaway": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
         "definition": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
@@ -41391,11 +43098,12 @@ export const knowledgePoints = [
           "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
           "关税收入应乘税后进口量；它是转移，不等于净福利增加。"
         ],
-        "explanation": "进口成本提高。国内生产增加消费减少。政府按税后进口量征税。\n\n### 原创情境与推导\n\n原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。\n\n关税收入应乘税后进口量；它是转移，不等于净福利增加。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        "explanation": "进口成本提高。国内生产增加消费减少。政府按税后进口量征税。\n\n### 原创情境与推导\n\n原创假设：小国对进口征单位税，国内价提高，本国生产增加、消费减少、进口缩小；政府获得税收。无外部性模型中，生产和消费扭曲带来净福利损失。税收数值计算属于 HL。\n\n关税收入应乘税后进口量；它是转移，不等于净福利增加。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
       },
       "en": {
         "id": "u4-07-tariff",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation.",
         "title": "Tariffs and small-country welfare",
         "takeaway": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
         "definition": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
@@ -41414,7 +43122,7 @@ export const knowledgePoints = [
           "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
           "Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
         ],
-        "explanation": "Import costs rise.  domestic production rises and consumption falls.  revenue is levied on post-tariff imports.\n\n### Original scenario and reasoning\n\nHypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation.\n\nUse post-tariff imports for revenue; revenue is a transfer, not a net welfare gain.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        "explanation": "Import costs rise.  domestic production rises and consumption falls.  revenue is levied on post-tariff imports.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a specific import tariff raises price, increases domestic output and reduces consumption and imports. Government receives revenue. With no externalities, production and consumption distortions reduce net welfare. Numerical revenue calculations are HL.\n\nUse post-tariff imports for revenue; revenue is a transfer, not a net welfare gain.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
       }
     },
     "practice": [
@@ -41440,35 +43148,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-07-tariff",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "单位关税 3，税后进口 20，税收多少？",
-          "en": "A tariff of three with post-tariff imports of twenty yields what revenue?"
+          "zh-CN": "小国关税通常怎样影响进口？",
+          "en": "What normally happens to imports after a small-country tariff?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "23",
-            "en": "23"
+            "zh-CN": "进口必定扩大",
+            "en": "Imports necessarily expand"
           },
           {
             "id": "b",
-            "zh-CN": "17",
-            "en": "17"
+            "zh-CN": "消费者价格必定不变",
+            "en": "Consumer price cannot change"
           },
           {
             "id": "c",
-            "zh-CN": "60",
-            "en": "60"
+            "zh-CN": "本国供给增加、需求减少，进口缩小",
+            "en": "Domestic supply rises, demand falls and imports shrink"
           },
           {
             "id": "d",
-            "zh-CN": "必须用税前进口量",
-            "en": "The pre-tariff import volume must be used"
+            "zh-CN": "税收就是净福利收益",
+            "en": "Revenue is the net welfare gain"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "60。 原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。 关税收入应乘税后进口量；它是转移，不等于净福利增加。",
-          "en": "60. Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation. Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
+          "zh-CN": "本国供给增加、需求减少，进口缩小。 进口成本提高；国内生产增加消费减少；政府按税后进口量征税 关税收入应乘税后进口量；它是转移，不等于净福利增加。",
+          "en": "Domestic supply rises, demand falls and imports shrink. Import costs rise; domestic production rises and consumption falls; revenue is levied on post-tariff imports Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
         }
       },
       {
@@ -41480,8 +43188,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Tariffs and small-country welfare and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。 进口成本提高；国内生产增加消费减少；政府按税后进口量征税 原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。",
-          "en": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses. Import costs rise; domestic production rises and consumption falls; revenue is levied on post-tariff imports Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation."
+          "zh-CN": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。 进口成本提高；国内生产增加消费减少；政府按税后进口量征税 原创假设：小国对进口征单位税，国内价提高，本国生产增加、消费减少、进口缩小；政府获得税收。无外部性模型中，生产和消费扭曲带来净福利损失。税收数值计算属于 HL。",
+          "en": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses. Import costs rise; domestic production rises and consumption falls; revenue is levied on post-tariff imports Hypothetical scenario: a specific import tariff raises price, increases domestic output and reduces consumption and imports. Government receives revenue. With no externalities, production and consumption distortions reduce net welfare. Numerical revenue calculations are HL."
         },
         "keywordGroups": [
           {
@@ -41540,6 +43248,43 @@ export const knowledgePoints = [
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
         }
+      },
+      {
+        "id": "u4-07-tariff-mcq-hl-1",
+        "knowledgePointId": "u4-07-tariff",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "单位关税 3，税后进口 20，税收多少？",
+          "en": "A tariff of three with post-tariff imports of twenty yields what revenue?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "23",
+            "en": "23"
+          },
+          {
+            "id": "b",
+            "zh-CN": "17",
+            "en": "17"
+          },
+          {
+            "id": "c",
+            "zh-CN": "必须用税前进口量",
+            "en": "The pre-tariff import volume must be used"
+          },
+          {
+            "id": "d",
+            "zh-CN": "60",
+            "en": "60"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "60。 3 × 20 = 60",
+          "en": "60. 3 × 20 = 60"
+        }
       }
     ]
   },
@@ -41597,13 +43342,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-08-quota-flash-1",
         "u4-08-quota-mcq-1",
-        "u4-08-quota-short-1"
+        "u4-08-quota-short-1",
+        "u4-08-quota-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-08-quota",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。",
         "title": "进口配额与配额租",
         "takeaway": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
         "definition": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
@@ -41622,11 +43369,12 @@ export const knowledgePoints = [
           "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。",
           "配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。"
         ],
-        "explanation": "进口数量受限。国内稀缺性推高价格。许可证持有人获得配额租。\n\n### 原创情境与推导\n\n原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。\n\n配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        "explanation": "进口数量受限。国内稀缺性推高价格。许可证持有人获得配额租。\n\n### 原创情境与推导\n\n原创假设：配额限制进口使国内价高于世界价，价差形成租；政府拍卖许可可获得收入，免费给外国出口商时租可流向国外。计算租的数额属于 HL。\n\n配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
       },
       "en": {
         "id": "u4-08-quota",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad.",
         "title": "Import quotas and quota rents",
         "takeaway": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
         "definition": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
@@ -41645,7 +43393,7 @@ export const knowledgePoints = [
           "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation.",
           "Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota."
         ],
-        "explanation": "Imports are capped.  scarcity raises domestic price.  licence holders receive quota rents.\n\n### Original scenario and reasoning\n\nHypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad.\n\nQuota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        "explanation": "Imports are capped.  scarcity raises domestic price.  licence holders receive quota rents.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a binding quota raises domestic price above world price and creates rents. Auctions can yield public revenue, while free foreign licences may send rents abroad. Calculating rent amounts is HL.\n\nQuota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
       }
     },
     "practice": [
@@ -41671,35 +43419,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-08-quota",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "配额许可免费给外国出口商，租最可能归谁？",
-          "en": "Who may receive rents if quota licences are freely given to foreign exporters?"
+          "zh-CN": "配额租是否自动归本国政府？",
+          "en": "Do quota rents automatically accrue to the home government?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "必定归本国财政",
-            "en": "Always the home treasury"
+            "zh-CN": "是，所有配额均如此",
+            "en": "Yes, for every quota"
           },
           {
             "id": "b",
-            "zh-CN": "必定归所有消费者",
-            "en": "Always all consumers"
+            "zh-CN": "租只能归消费者",
+            "en": "Only consumers can receive rents"
           },
           {
             "id": "c",
-            "zh-CN": "租必定为零",
-            "en": "Rents must be zero"
+            "zh-CN": "配额永不产生租",
+            "en": "Quotas never create rents"
           },
           {
             "id": "d",
-            "zh-CN": "外国许可证持有人",
-            "en": "Foreign licence holders"
+            "zh-CN": "不，取决于许可证分配",
+            "en": "No; licence allocation determines the recipient"
           }
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "外国许可证持有人。 原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。 配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。",
-          "en": "Foreign licence holders. Hypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad. Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota."
+          "zh-CN": "不，取决于许可证分配。 进口数量受限；国内稀缺性推高价格；许可证持有人获得配额租 配额租不会自动归本国政府；需求增加时配额还可能带来更大涨价。",
+          "en": "No; licence allocation determines the recipient. Imports are capped; scarcity raises domestic price; licence holders receive quota rents Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota."
         }
       },
       {
@@ -41711,8 +43459,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Import quotas and quota rents and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。 进口数量受限；国内稀缺性推高价格；许可证持有人获得配额租 原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。",
-          "en": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation. Imports are capped; scarcity raises domestic price; licence holders receive quota rents Hypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad."
+          "zh-CN": "配额直接限制进口数量，通常抬高国内价格；价格差形成配额租，归属取决于许可分配。 进口数量受限；国内稀缺性推高价格；许可证持有人获得配额租 原创假设：配额限制进口使国内价高于世界价，价差形成租；政府拍卖许可可获得收入，免费给外国出口商时租可流向国外。计算租的数额属于 HL。",
+          "en": "A quota directly limits imports and normally raises domestic price. The price gap creates quota rents whose recipients depend on licence allocation. Imports are capped; scarcity raises domestic price; licence holders receive quota rents Hypothetical scenario: a binding quota raises domestic price above world price and creates rents. Auctions can yield public revenue, while free foreign licences may send rents abroad. Calculating rent amounts is HL."
         },
         "keywordGroups": [
           {
@@ -41771,6 +43519,43 @@ export const knowledgePoints = [
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
         }
+      },
+      {
+        "id": "u4-08-quota-mcq-hl-1",
+        "knowledgePointId": "u4-08-quota",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "配额许可免费给外国出口商，租最可能归谁？",
+          "en": "Who may receive rents if quota licences are freely given to foreign exporters?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "外国许可证持有人",
+            "en": "Foreign licence holders"
+          },
+          {
+            "id": "b",
+            "zh-CN": "必定归本国财政",
+            "en": "Always the home treasury"
+          },
+          {
+            "id": "c",
+            "zh-CN": "必定归所有消费者",
+            "en": "Always all consumers"
+          },
+          {
+            "id": "d",
+            "zh-CN": "租必定为零",
+            "en": "Rents must be zero"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "外国许可证持有人。 原创假设：世界价 10、国内价 14，配额 30，配额租为 120。政府拍卖许可可能获得收入，免费给外国出口商则租可能流向国外。",
+          "en": "Foreign licence holders. Hypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad."
+        }
       }
     ]
   },
@@ -41828,13 +43613,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-09-production-subsidy-flash-1",
         "u4-09-production-subsidy-mcq-1",
-        "u4-09-production-subsidy-short-1"
+        "u4-09-production-subsidy-short-1",
+        "u4-09-production-subsidy-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-09-production-subsidy",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。",
         "title": "生产补贴与进口替代",
         "takeaway": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
         "definition": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
@@ -41853,11 +43640,12 @@ export const knowledgePoints = [
           "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。",
           "补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。"
         ],
-        "explanation": "生产者每单位净收入增加。国内供给扩大。进口减少但消费价不必提高。\n\n### 原创情境与推导\n\n原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。\n\n补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        "explanation": "生产者每单位净收入增加。国内供给扩大。进口减少但消费价不必提高。\n\n### 原创情境与推导\n\n原创假设：持续进口的小国补贴本国生产，生产者收入高于世界价，国内供给增加、进口减少，消费者仍付世界价；财政须支付所有符合资格的产量，且存在机会成本。数值计算属于 HL。\n\n补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
       },
       "en": {
         "id": "u4-09-production-subsidy",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed.",
         "title": "Production subsidies and import displacement",
         "takeaway": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
         "definition": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
@@ -41876,7 +43664,7 @@ export const knowledgePoints = [
           "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy.",
           "A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter."
         ],
-        "explanation": "Producer receipts per unit rise.  domestic supply expands.  imports fall without a necessary rise in consumer price.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed.\n\nA subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        "explanation": "Producer receipts per unit rise.  domestic supply expands.  imports fall without a necessary rise in consumer price.\n\n### Original scenario and reasoning\n\nHypothetical scenario: with imports continuing, a domestic production subsidy raises producer receipts above world price, expands supply and reduces imports. Consumers still pay world price. The budget funds all eligible output, with an opportunity cost. Numerical calculations are HL.\n\nA subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
       }
     },
     "practice": [
@@ -41902,35 +43690,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-09-production-subsidy",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "补贴 4，补贴后国内总产量 30，财政成本？",
-          "en": "A subsidy of four on total domestic output of thirty costs how much?"
+          "zh-CN": "小国持续进口时，生产补贴的消费者价格通常怎样？",
+          "en": "With continuing imports in a small economy, what normally happens to consumer price under a production subsidy?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "120",
-            "en": "120"
+            "zh-CN": "仍为世界价",
+            "en": "It remains the world price"
           },
           {
             "id": "b",
-            "zh-CN": "仅补新增产量",
-            "en": "Only subsidise additional output"
+            "zh-CN": "必升至生产者补贴后收入",
+            "en": "It must rise to producer receipts including subsidy"
           },
           {
             "id": "c",
-            "zh-CN": "34",
-            "en": "34"
+            "zh-CN": "必变为零",
+            "en": "It must become zero"
           },
           {
             "id": "d",
-            "zh-CN": "26",
-            "en": "26"
+            "zh-CN": "必升至自给价以上",
+            "en": "It must exceed autarky price"
           }
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "120。 原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。 补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。",
-          "en": "120. Hypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed. A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter."
+          "zh-CN": "仍为世界价。 生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高 补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。",
+          "en": "It remains the world price. Producer receipts per unit rise; domestic supply expands; imports fall without a necessary rise in consumer price A subsidy need not raise consumer price; fiscal opportunity cost and inefficient production still matter."
         }
       },
       {
@@ -41942,8 +43730,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Production subsidies and import displacement and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。 生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高 原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。",
-          "en": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy. Producer receipts per unit rise; domestic supply expands; imports fall without a necessary rise in consumer price Hypothetical scenario: a subsidy of two raises domestic output from forty to sixty, costing 120, not merely subsidising the twenty extra units. Imports remain positive and the world price is fixed."
+          "zh-CN": "小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。 生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高 原创假设：持续进口的小国补贴本国生产，生产者收入高于世界价，国内供给增加、进口减少，消费者仍付世界价；财政须支付所有符合资格的产量，且存在机会成本。数值计算属于 HL。",
+          "en": "A domestic production subsidy in a small economy can increase domestic supply and reduce imports. Consumers still buy at the world price and the government funds the subsidy. Producer receipts per unit rise; domestic supply expands; imports fall without a necessary rise in consumer price Hypothetical scenario: with imports continuing, a domestic production subsidy raises producer receipts above world price, expands supply and reduces imports. Consumers still pay world price. The budget funds all eligible output, with an opportunity cost. Numerical calculations are HL."
         },
         "keywordGroups": [
           {
@@ -42002,6 +43790,43 @@ export const knowledgePoints = [
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
         }
+      },
+      {
+        "id": "u4-09-production-subsidy-mcq-hl-1",
+        "knowledgePointId": "u4-09-production-subsidy",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "补贴 4，补贴后国内总产量 30，财政成本？",
+          "en": "A subsidy of four on total domestic output of thirty costs how much?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "仅补新增产量",
+            "en": "Only subsidise additional output"
+          },
+          {
+            "id": "b",
+            "zh-CN": "120",
+            "en": "120"
+          },
+          {
+            "id": "c",
+            "zh-CN": "34",
+            "en": "34"
+          },
+          {
+            "id": "d",
+            "zh-CN": "26",
+            "en": "26"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "120。 4 × 30 = 120",
+          "en": "120. 4 × 30 = 120"
+        }
       }
     ]
   },
@@ -42010,7 +43835,7 @@ export const knowledgePoints = [
       "id": "u4-10-export-subsidy",
       "slug": "export-subsidy",
       "section": "4.2",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "4.2 Types of trade protection"
       ],
@@ -42057,13 +43882,15 @@ export const knowledgePoints = [
       "quizIds": [
         "u4-10-export-subsidy-flash-1",
         "u4-10-export-subsidy-mcq-1",
-        "u4-10-export-subsidy-short-1"
+        "u4-10-export-subsidy-short-1",
+        "u4-10-export-subsidy-mcq-hl-1"
       ]
     },
     "content": {
       "zh-CN": {
         "id": "u4-10-export-subsidy",
         "locale": "zh-CN",
+        "hlExtension": "原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。",
         "title": "出口补贴",
         "takeaway": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
         "definition": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
@@ -42082,11 +43909,12 @@ export const knowledgePoints = [
           "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。",
           "出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。"
         ],
-        "explanation": "出口每单位回报提高。生产者转向出口直到国内价调整。国内生产增加消费下降。\n\n### 原创情境与推导\n\n原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。\n\n出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        "explanation": "出口每单位回报提高。生产者转向出口直到国内价调整。国内生产增加消费下降。\n\n### 原创情境与推导\n\n原创假设：小国补贴每单位出口，可自由转售时生产者倾向出口直到国内价也上升；国内生产增加、消费下降、出口扩大，但财政与消费者承受成本。计算财政支出属于 HL。\n\n出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
       },
       "en": {
         "id": "u4-10-export-subsidy",
         "locale": "en",
+        "hlExtension": "Hypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100.",
         "title": "Export subsidies",
         "takeaway": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
         "definition": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
@@ -42105,7 +43933,7 @@ export const knowledgePoints = [
           "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare.",
           "More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification."
         ],
-        "explanation": "Returns per exported unit rise.  producers divert sales until domestic price adjusts.  domestic output rises and consumption falls.\n\n### Original scenario and reasoning\n\nHypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100.\n\nMore exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        "explanation": "Returns per exported unit rise.  producers divert sales until domestic price adjusts.  domestic output rises and consumption falls.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a per-unit export subsidy encourages exporting until domestic price also rises under arbitrage. Domestic output rises, consumption falls and exports expand, at fiscal and consumer cost. Numerical fiscal calculations are HL.\n\nMore exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
       }
     },
     "practice": [
@@ -42131,35 +43959,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-10-export-subsidy",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "出口补贴 2、出口 50，财政支出多少？",
-          "en": "An export subsidy of two on fifty exports costs how much?"
+          "zh-CN": "出口补贴一定改善本国净福利吗？",
+          "en": "Does an export subsidy necessarily improve home welfare?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "52",
-            "en": "52"
+            "zh-CN": "是，只要出口增加",
+            "en": "Yes, whenever exports rise"
           },
           {
             "id": "b",
-            "zh-CN": "100",
-            "en": "100"
+            "zh-CN": "不，财政成本与消费者损失也需计算",
+            "en": "No; fiscal costs and consumer losses also matter"
           },
           {
             "id": "c",
-            "zh-CN": "48",
-            "en": "48"
+            "zh-CN": "是，因为不存在财政成本",
+            "en": "Yes, because there is no fiscal cost"
           },
           {
             "id": "d",
-            "zh-CN": "必然没有成本",
-            "en": "Necessarily no cost"
+            "zh-CN": "是，因为消费者价必下降",
+            "en": "Yes, because consumer price must fall"
           }
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "100。 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。 出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。",
-          "en": "100. Hypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100. More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification."
+          "zh-CN": "不，财政成本与消费者损失也需计算。 出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降 出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。",
+          "en": "No; fiscal costs and consumer losses also matter. Returns per exported unit rise; producers divert sales until domestic price adjusts; domestic output rises and consumption falls More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification."
         }
       },
       {
@@ -42171,8 +43999,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Export subsidies and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。 出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。",
-          "en": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare. Returns per exported unit rise; producers divert sales until domestic price adjusts; domestic output rises and consumption falls Hypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100."
+          "zh-CN": "出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。 出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降 原创假设：小国补贴每单位出口，可自由转售时生产者倾向出口直到国内价也上升；国内生产增加、消费下降、出口扩大，但财政与消费者承受成本。计算财政支出属于 HL。",
+          "en": "An export subsidy pays per exported unit and can raise the domestic price and exports; fiscal costs and domestic consumption losses affect welfare. Returns per exported unit rise; producers divert sales until domestic price adjusts; domestic output rises and consumption falls Hypothetical scenario: a per-unit export subsidy encourages exporting until domestic price also rises under arbitrage. Domestic output rises, consumption falls and exports expand, at fiscal and consumer cost. Numerical fiscal calculations are HL."
         },
         "keywordGroups": [
           {
@@ -42230,6 +44058,43 @@ export const knowledgePoints = [
         "explanation": {
           "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
           "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      },
+      {
+        "id": "u4-10-export-subsidy-mcq-hl-1",
+        "knowledgePointId": "u4-10-export-subsidy",
+        "type": "mcq",
+        "level": "hl",
+        "prompt": {
+          "zh-CN": "出口补贴 2、出口 50，财政支出多少？",
+          "en": "An export subsidy of two on fifty exports costs how much?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "52",
+            "en": "52"
+          },
+          {
+            "id": "b",
+            "zh-CN": "48",
+            "en": "48"
+          },
+          {
+            "id": "c",
+            "zh-CN": "100",
+            "en": "100"
+          },
+          {
+            "id": "d",
+            "zh-CN": "必然没有成本",
+            "en": "Necessarily no cost"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "100。 2 × 50 = 100",
+          "en": "100. 2 × 50 = 100"
         }
       }
     ]
@@ -42387,8 +44252,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "是否必要且非歧视。 原创假设：同样食品安全风险，若进口商被要求重复检验而本地企业无需检验，应评估必要性、证据与非歧视性。 不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。",
-          "en": "Whether they are necessary and non-discriminatory. Hypothetical scenario: importers face duplicate inspections while local firms with identical food risks do not. Assess necessity, evidence and non-discrimination. Lower imports alone do not prove a standard lacks public value, but hidden discrimination must not be ignored."
+          "zh-CN": "是否必要且非歧视。 合规时间和费用提高；进口供给受限；保护收益与公共利益须分别判断 不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。",
+          "en": "Whether they are necessary and non-discriminatory. Compliance time and costs rise; imports are constrained; protection gains and public benefits need separate assessment Lower imports alone do not prove a standard lacks public value, but hidden discrimination must not be ignored."
         }
       },
       {
@@ -42486,8 +44351,7 @@ export const knowledgePoints = [
       ],
       "related": [
         "u4-13-protection-arguments",
-        "u4-14-protection-evaluation",
-        "u4-15-wto"
+        "u4-14-protection-evaluation"
       ],
       "terms": [
         "幼稚产业与战略保护",
@@ -42616,8 +44480,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "可验证的学习外部性与退出期限。 原创假设：设备产业获三年支持，续期取决于单位成本下降和出口表现；没有绩效条件可能把补贴固化。 产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。",
-          "en": "Verifiable learning spillovers and a sunset date. Hypothetical scenario: equipment firms receive three years of support, conditional on lower unit costs and export performance. Unconditional renewal can entrench subsidies. Being new does not justify protection; poor information, rent seeking and retaliation may outweigh gains."
+          "zh-CN": "可验证的学习外部性与退出期限。 初期规模小成本高；学习与规模扩大降低成本；到期撤销保护检验竞争力 产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。",
+          "en": "Verifiable learning spillovers and a sunset date. Small initial scale raises costs; learning and scale reduce costs; removing protection tests competitiveness Being new does not justify protection; poor information, rent seeking and retaliation may outweigh gains."
         }
       },
       {
@@ -42715,8 +44579,7 @@ export const knowledgePoints = [
       ],
       "related": [
         "u4-12-infant-industry",
-        "u4-14-protection-evaluation",
-        "u4-15-wto"
+        "u4-14-protection-evaluation"
       ],
       "terms": [
         "就业、安全与反倾销论据",
@@ -42845,8 +44708,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "使用钢材的下游企业。 原创假设：钢铁关税保住部分炼钢岗位，却提高机械企业成本；评价需比较净就业、供应韧性与再培训方案。 不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。",
-          "en": "Downstream firms using steel. Hypothetical scenario: a steel tariff preserves some steel jobs but raises machinery producers' costs. Evaluate net jobs, supply resilience and retraining alternatives. Protected-sector jobs are not the net employment effect; low wages do not by themselves establish unfair competition."
+          "zh-CN": "使用钢材的下游企业。 进口竞争冲击特定产业；保护减缓调整；下游成本与报复影响其他岗位 不能把受保护行业岗位当作净就业效果，也不能把低工资直接等同于不公平竞争。",
+          "en": "Downstream firms using steel. Import competition hits particular industries; protection slows adjustment; input costs and retaliation affect jobs elsewhere Protected-sector jobs are not the net employment effect; low wages do not by themselves establish unfair competition."
         }
       },
       {
@@ -42944,8 +44807,7 @@ export const knowledgePoints = [
       ],
       "related": [
         "u4-12-infant-industry",
-        "u4-13-protection-arguments",
-        "u4-15-wto"
+        "u4-13-protection-arguments"
       ],
       "terms": [
         "保护政策的综合评价",
@@ -43074,8 +44936,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "将目标、成本、条件与替代措施连接。 原创假设：衰退地区需要支持，可比较关税、工资保险与培训；若问题是技能错配，培训可能比长期高价保护更直接。 小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。",
-          "en": "Link objectives, costs, conditions and alternatives. Hypothetical scenario: compare tariffs, wage insurance and training for a declining region. If skill mismatch is the problem, training may address it more directly than prolonged price protection. Small-country welfare losses are model-dependent; externalities or large-country terms-of-trade effects require separate arguments."
+          "zh-CN": "将目标、成本、条件与替代措施连接。 确定政策目标；比较各方收益与成本；依据条件和替代方案作判断 小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。",
+          "en": "Link objectives, costs, conditions and alternatives. Specify the objective; compare stakeholder gains and costs; judge using conditions and alternatives Small-country welfare losses are model-dependent; externalities or large-country terms-of-trade effects require separate arguments."
         }
       },
       {
@@ -43154,10 +45016,10 @@ export const knowledgePoints = [
     "meta": {
       "id": "u4-15-wto",
       "slug": "wto",
-      "section": "4.3",
+      "section": "4.4",
       "level": "core",
       "syllabusRefs": [
-        "4.3 Arguments for and against trade protection"
+        "4.4 Economic integration"
       ],
       "textbookRefs": [
         {
@@ -43172,9 +45034,9 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
-        "u4-12-infant-industry",
-        "u4-13-protection-arguments",
-        "u4-14-protection-evaluation"
+        "u4-16-trading-blocs",
+        "u4-17-common-market",
+        "u4-18-trade-creation-diversion"
       ],
       "terms": [
         "世界贸易组织与合作",
@@ -43221,13 +45083,13 @@ export const knowledgePoints = [
           "WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。"
         ],
         "examApplication": [
-          "先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
         ],
         "summary": [
           "WTO 为成员贸易规则、谈判、透明度与争端解决提供制度框架；规则合作可降低不确定性，但利益与执行能力不均。",
           "WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。"
         ],
-        "explanation": "成员承诺规则。透明度降低政策不确定性。协商与争端程序处理冲突。\n\n### 原创情境与推导\n\n原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。\n\nWTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。\n\n先陈述保护目标，再评价条件、时限、利益相关者、报复与替代政策。"
+        "explanation": "成员承诺规则。透明度降低政策不确定性。协商与争端程序处理冲突。\n\n### 原创情境与推导\n\n原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。\n\nWTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
       },
       "en": {
         "id": "u4-15-wto",
@@ -43244,13 +45106,13 @@ export const knowledgePoints = [
           "The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
         ],
         "examApplication": [
-          "State protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
         ],
         "summary": [
           "The WTO provides a framework for members' trade rules, negotiations, transparency and dispute settlement. Cooperation can reduce uncertainty, though interests and enforcement capacity differ.",
           "The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
         ],
-        "explanation": "Members commit to rules.  transparency reduces policy uncertainty.  negotiation and dispute procedures address conflict.\n\n### Original scenario and reasoning\n\nHypothetical scenario: common rules focus a dispute over import restrictions on evidence, while a small economy may lack legal resources.\n\nThe WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification.\n\nState protection objectives, then evaluate conditions, duration, stakeholders, retaliation and alternatives."
+        "explanation": "Members commit to rules.  transparency reduces policy uncertainty.  negotiation and dispute procedures address conflict.\n\n### Original scenario and reasoning\n\nHypothetical scenario: common rules focus a dispute over import restrictions on evidence, while a small economy may lack legal resources.\n\nThe WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
       }
     },
     "practice": [
@@ -43303,8 +45165,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "降低政策不确定性。 原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。 WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。",
-          "en": "Reduce policy uncertainty. Hypothetical scenario: common rules focus a dispute over import restrictions on evidence, while a small economy may lack legal resources. The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
+          "zh-CN": "降低政策不确定性。 成员承诺规则；透明度降低政策不确定性；协商与争端程序处理冲突 WTO 不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。",
+          "en": "Reduce policy uncertainty. Members commit to rules; transparency reduces policy uncertainty; negotiation and dispute procedures address conflict The WTO is not a world government and does not remove every barrier; current dispute-body operations require official verification."
         }
       },
       {
@@ -43401,9 +45263,9 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
+        "u4-15-wto",
         "u4-17-common-market",
-        "u4-18-trade-creation-diversion",
-        "u4-19-monetary-union"
+        "u4-18-trade-creation-diversion"
       ],
       "terms": [
         "优惠协定、自由贸易区与关税同盟",
@@ -43532,8 +45394,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "共同对外关税。 原创假设：A 与 B 内部免税但对 C 税率不同，属于自由贸易区；原产地规则防止经最低税率成员转运规避关税。 内部自由贸易本身不意味着共同对外关税或共同货币。",
-          "en": "A common external tariff. Hypothetical scenario: A and B trade duty-free but tax C differently. This is a free trade area; rules of origin limit tariff circumvention through the lowest-tariff member. Internal free trade alone does not imply a common external tariff or currency."
+          "zh-CN": "共同对外关税。 成员降低内部壁垒；自由贸易区需原产地规则；共同对外关税形成关税同盟 内部自由贸易本身不意味着共同对外关税或共同货币。",
+          "en": "A common external tariff. Members lower internal barriers; free trade areas need rules of origin; a common external tariff creates a customs union Internal free trade alone does not imply a common external tariff or currency."
         }
       },
       {
@@ -43630,9 +45492,9 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
+        "u4-15-wto",
         "u4-16-trading-blocs",
-        "u4-18-trade-creation-diversion",
-        "u4-19-monetary-union"
+        "u4-18-trade-creation-diversion"
       ],
       "terms": [
         "共同市场与经济一体化",
@@ -43761,8 +45623,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "生产要素流动。 原创假设：工程师跨成员就业改善技能匹配，但人才流出地区可能失去税基，资格互认与公共服务协调因此重要。 要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。",
-          "en": "Factor mobility. Hypothetical scenario: engineers moving between members improve skill matching, while origin regions may lose tax revenue. Qualification recognition and service coordination matter. Factor mobility does not ensure equal regional gains; infrastructure and institutional differences remain."
+          "zh-CN": "生产要素流动。 壁垒下降扩展市场；劳动资本流向回报较高处；协调政策降低跨境摩擦 要素自由流动不保证地区收益均衡；基础设施和制度差异仍存在。",
+          "en": "Factor mobility. Lower barriers expand markets; labour and capital move toward higher returns; policy coordination reduces cross-border frictions Factor mobility does not ensure equal regional gains; infrastructure and institutional differences remain."
         }
       },
       {
@@ -43859,9 +45721,9 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
+        "u4-15-wto",
         "u4-16-trading-blocs",
-        "u4-17-common-market",
-        "u4-19-monetary-union"
+        "u4-17-common-market"
       ],
       "terms": [
         "贸易创造与贸易转移",
@@ -43990,8 +45852,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "贸易转移。 原创假设：非成员成本 8、成员成本 10，对外税 4。入盟后免税成员价 10 低于非成员含税价 12，转向成员属于贸易转移。 消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。",
-          "en": "Trade diversion. Hypothetical scenario: a non-member costs eight and a member ten; the external tariff is four. After integration, the member price ten undercuts the non-member landed price twelve. Switching is trade diversion. A lower consumer price alone does not establish better global allocation; compare suppliers' real costs."
+          "zh-CN": "贸易转移。 内部关税取消改变相对价格；采购来源改变；比较真实资源成本与关税收入变化 消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。",
+          "en": "Trade diversion. Removing internal tariffs changes relative prices; sourcing changes; compare real resource costs and tariff revenue changes A lower consumer price alone does not establish better global allocation; compare suppliers' real costs."
         }
       },
       {
@@ -44088,30 +45950,30 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
+        "u4-15-wto",
         "u4-16-trading-blocs",
-        "u4-17-common-market",
-        "u4-18-trade-creation-diversion"
+        "u4-17-common-market"
       ],
       "terms": [
-        "货币联盟的收益与代价",
-        "Benefits and costs of monetary union",
-        "货币",
-        "currency",
-        "利率",
-        "interest rate",
-        "冲击",
-        "shock"
+        "货币联盟的含义",
+        "The meaning of monetary union",
+        "共同货币",
+        "shared currency",
+        "货币政策",
+        "monetary policy",
+        "成员",
+        "members"
       ],
       "synonyms": {
         "zh-CN": [
-          "货币",
-          "利率",
-          "冲击"
+          "共同货币",
+          "货币政策",
+          "成员"
         ],
         "en": [
-          "currency",
-          "interest rate",
-          "shock"
+          "shared currency",
+          "monetary policy",
+          "members"
         ]
       },
       "diagramIds": [],
@@ -44125,48 +45987,48 @@ export const knowledgePoints = [
       "zh-CN": {
         "id": "u4-19-monetary-union",
         "locale": "zh-CN",
-        "title": "货币联盟的收益与代价",
-        "takeaway": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
-        "definition": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
+        "title": "货币联盟的含义",
+        "takeaway": "货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。",
+        "definition": "货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。",
         "causalChain": [
-          "共同货币降低交易摩擦",
-          "价格比较更容易",
-          "非对称冲击下统一利率可能不适合所有成员"
+          "成员采用共同货币",
+          "共同机构制定货币政策",
+          "区别于只有内部自由贸易的贸易区"
         ],
         "misconceptions": [
-          "共同货币不自动带来财政联盟，也不消除成员信用风险。"
+          "自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。"
         ],
         "examApplication": [
           "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
         ],
         "summary": [
-          "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
-          "共同货币不自动带来财政联盟，也不消除成员信用风险。"
+          "货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。",
+          "自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。"
         ],
-        "explanation": "共同货币降低交易摩擦。价格比较更容易。非对称冲击下统一利率可能不适合所有成员。\n\n### 原创情境与推导\n\n原创假设：A 经济过热而 B 衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。\n\n共同货币不自动带来财政联盟，也不消除成员信用风险。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        "explanation": "成员采用共同货币。共同机构制定货币政策。区别于只有内部自由贸易的贸易区。\n\n### 原创情境与推导\n\n原创假设：A 与 B 内部免税仍可保留不同货币；只有采用共同货币和共同货币政策才符合本卡的货币联盟定义。\n\n自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
       },
       "en": {
         "id": "u4-19-monetary-union",
         "locale": "en",
-        "title": "Benefits and costs of monetary union",
-        "takeaway": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
-        "definition": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
+        "title": "The meaning of monetary union",
+        "takeaway": "A monetary union uses a shared currency and monetary policy; members no longer issue separate currencies with independently adjustable exchange rates. Evaluating benefits, costs and asymmetric shocks is HL.",
+        "definition": "A monetary union uses a shared currency and monetary policy; members no longer issue separate currencies with independently adjustable exchange rates. Evaluating benefits, costs and asymmetric shocks is HL.",
         "causalChain": [
-          "A shared currency lowers transaction frictions",
-          "price comparison becomes easier",
-          "one interest rate may not suit members facing asymmetric shocks"
+          "Members adopt one currency",
+          "a shared institution sets monetary policy",
+          "distinguish this from an area with internal free trade only"
         ],
         "misconceptions": [
-          "A common currency does not automatically create a fiscal union or eliminate member credit risk."
+          "A free trade area is not a monetary union; a common currency does not automatically mean fiscal unification."
         ],
         "examApplication": [
           "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
         ],
         "summary": [
-          "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment.",
-          "A common currency does not automatically create a fiscal union or eliminate member credit risk."
+          "A monetary union uses a shared currency and monetary policy; members no longer issue separate currencies with independently adjustable exchange rates. Evaluating benefits, costs and asymmetric shocks is HL.",
+          "A free trade area is not a monetary union; a common currency does not automatically mean fiscal unification."
         ],
-        "explanation": "A shared currency lowers transaction frictions.  price comparison becomes easier.  one interest rate may not suit members facing asymmetric shocks.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A overheats while B is in recession, so one rate is hard to tailor. Labour mobility, fiscal transfers and price-wage flexibility affect adjustment.\n\nA common currency does not automatically create a fiscal union or eliminate member credit risk.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        "explanation": "Members adopt one currency.  a shared institution sets monetary policy.  distinguish this from an area with internal free trade only.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A and B can trade duty-free while retaining different currencies. A common currency and monetary policy distinguish monetary union here.\n\nA free trade area is not a monetary union; a common currency does not automatically mean fiscal unification.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
       }
     },
     "practice": [
@@ -44175,16 +46037,16 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-19-monetary-union",
         "type": "flashcard",
         "prompt": {
-          "zh-CN": "解释“货币联盟的收益与代价”，并说明一个关键条件。",
-          "en": "Explain Benefits and costs of monetary union and state one important condition."
+          "zh-CN": "解释“货币联盟的含义”，并说明一个关键条件。",
+          "en": "Explain The meaning of monetary union and state one important condition."
         },
         "answer": {
-          "zh-CN": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。",
-          "en": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment."
+          "zh-CN": "货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。",
+          "en": "A monetary union uses a shared currency and monetary policy; members no longer issue separate currencies with independently adjustable exchange rates. Evaluating benefits, costs and asymmetric shocks is HL."
         },
         "explanation": {
-          "zh-CN": "共同货币不自动带来财政联盟，也不消除成员信用风险。",
-          "en": "A common currency does not automatically create a fiscal union or eliminate member credit risk."
+          "zh-CN": "自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。",
+          "en": "A free trade area is not a monetary union; a common currency does not automatically mean fiscal unification."
         }
       },
       {
@@ -44192,35 +46054,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-19-monetary-union",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "面对非对称冲击，成员失去了哪项工具？",
-          "en": "Which tool does a member lose when facing an asymmetric shock?"
+          "zh-CN": "货币联盟的识别特征是什么？",
+          "en": "What identifies a monetary union?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "所有财政支出",
-            "en": "All fiscal expenditure"
+            "zh-CN": "仅内部免关税",
+            "en": "Internal tariff removal alone"
           },
           {
             "id": "b",
-            "zh-CN": "所有劳动流动",
-            "en": "All labour mobility"
+            "zh-CN": "仅共同对外关税",
+            "en": "A common external tariff alone"
           },
           {
             "id": "c",
-            "zh-CN": "独立本币贬值",
-            "en": "Independent currency depreciation"
+            "zh-CN": "共同货币与共同货币政策",
+            "en": "A shared currency and monetary policy"
           },
           {
             "id": "d",
-            "zh-CN": "一切贸易",
-            "en": "All trade"
+            "zh-CN": "仅人口相同",
+            "en": "Identical populations alone"
           }
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "独立本币贬值。 原创假设：A 经济过热而 B 衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。 共同货币不自动带来财政联盟，也不消除成员信用风险。",
-          "en": "Independent currency depreciation. Hypothetical scenario: A overheats while B is in recession, so one rate is hard to tailor. Labour mobility, fiscal transfers and price-wage flexibility affect adjustment. A common currency does not automatically create a fiscal union or eliminate member credit risk."
+          "zh-CN": "共同货币与共同货币政策。 成员采用共同货币；共同机构制定货币政策；区别于只有内部自由贸易的贸易区 自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。",
+          "en": "A shared currency and monetary policy. Members adopt one currency; a shared institution sets monetary policy; distinguish this from an area with internal free trade only A free trade area is not a monetary union; a common currency does not automatically mean fiscal unification."
         }
       },
       {
@@ -44228,62 +46090,62 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-19-monetary-union",
         "type": "short-answer",
         "prompt": {
-          "zh-CN": "解释货币联盟的收益与代价的机制，并用一个自己设计的情境说明其含义。",
-          "en": "Explain the mechanism of Benefits and costs of monetary union and apply it to an example of your own."
+          "zh-CN": "解释货币联盟的含义的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of The meaning of monetary union and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。 共同货币降低交易摩擦；价格比较更容易；非对称冲击下统一利率可能不适合所有成员 原创假设：A 经济过热而 B 衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。",
-          "en": "A monetary union uses a common currency and monetary policy, reducing internal conversion costs and exchange risk while removing independent interest-rate and exchange-rate adjustment. A shared currency lowers transaction frictions; price comparison becomes easier; one interest rate may not suit members facing asymmetric shocks Hypothetical scenario: A overheats while B is in recession, so one rate is hard to tailor. Labour mobility, fiscal transfers and price-wage flexibility affect adjustment."
+          "zh-CN": "货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。 成员采用共同货币；共同机构制定货币政策；区别于只有内部自由贸易的贸易区 原创假设：A 与 B 内部免税仍可保留不同货币；只有采用共同货币和共同货币政策才符合本卡的货币联盟定义。",
+          "en": "A monetary union uses a shared currency and monetary policy; members no longer issue separate currencies with independently adjustable exchange rates. Evaluating benefits, costs and asymmetric shocks is HL. Members adopt one currency; a shared institution sets monetary policy; distinguish this from an area with internal free trade only Hypothetical scenario: A and B can trade duty-free while retaining different currencies. A common currency and monetary policy distinguish monetary union here."
         },
         "keywordGroups": [
           {
             "id": "mechanism-1",
             "label": {
-              "zh-CN": "货币",
-              "en": "currency"
+              "zh-CN": "共同货币",
+              "en": "shared currency"
             },
             "alternatives": {
               "zh-CN": [
-                "货币",
-                "共同货币降低交易摩擦"
+                "共同货币",
+                "成员采用共同货币"
               ],
               "en": [
-                "currency",
-                "A shared currency lowers transaction frictions"
+                "shared currency",
+                "Members adopt one currency"
               ]
             }
           },
           {
             "id": "mechanism-2",
             "label": {
-              "zh-CN": "利率",
-              "en": "interest rate"
+              "zh-CN": "货币政策",
+              "en": "monetary policy"
             },
             "alternatives": {
               "zh-CN": [
-                "利率",
-                "价格比较更容易"
+                "货币政策",
+                "共同机构制定货币政策"
               ],
               "en": [
-                "interest rate",
-                "price comparison becomes easier"
+                "monetary policy",
+                "a shared institution sets monetary policy"
               ]
             }
           },
           {
             "id": "mechanism-3",
             "label": {
-              "zh-CN": "冲击",
-              "en": "shock"
+              "zh-CN": "成员",
+              "en": "members"
             },
             "alternatives": {
               "zh-CN": [
-                "冲击",
-                "非对称冲击下统一利率可能不适合所有成员"
+                "成员",
+                "区别于只有内部自由贸易的贸易区"
               ],
               "en": [
-                "shock",
-                "one interest rate may not suit members facing asymmetric shocks"
+                "members",
+                "distinguish this from an area with internal free trade only"
               ]
             }
           }
@@ -44300,7 +46162,7 @@ export const knowledgePoints = [
       "id": "u4-20-integration-evaluation",
       "slug": "integration-evaluation",
       "section": "4.4",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "4.4 Economic integration"
       ],
@@ -44317,9 +46179,9 @@ export const knowledgePoints = [
         "u1-14-opportunity-cost"
       ],
       "related": [
+        "u4-15-wto",
         "u4-16-trading-blocs",
-        "u4-17-common-market",
-        "u4-18-trade-creation-diversion"
+        "u4-17-common-market"
       ],
       "terms": [
         "一体化的动态评价",
@@ -44355,47 +46217,47 @@ export const knowledgePoints = [
         "id": "u4-20-integration-evaluation",
         "locale": "zh-CN",
         "title": "一体化的动态评价",
-        "takeaway": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
-        "definition": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
+        "takeaway": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量、地区分配和实施条件。",
+        "definition": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量、地区分配和实施条件。",
         "causalChain": [
           "市场扩大吸引投资",
           "竞争促进生产率",
           "地区集中和政策约束改变分配"
         ],
         "misconceptions": [
-          "更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。"
+          "更多区域内贸易不充分证明福利提高，还需评价成本、竞争和分配；贸易创造与转移的分析属于 HL。"
         ],
         "examApplication": [
           "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
         ],
         "summary": [
-          "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
-          "更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。"
+          "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量、地区分配和实施条件。",
+          "更多区域内贸易不充分证明福利提高，还需评价成本、竞争和分配；贸易创造与转移的分析属于 HL。"
         ],
-        "explanation": "市场扩大吸引投资。竞争促进生产率。地区集中和政策约束改变分配。\n\n### 原创情境与推导\n\n原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。\n\n更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        "explanation": "市场扩大吸引投资。竞争促进生产率。地区集中和政策约束改变分配。\n\n### 原创情境与推导\n\n原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。\n\n更多区域内贸易不充分证明福利提高，还需评价成本、竞争和分配；贸易创造与转移的分析属于 HL。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
       },
       "en": {
         "id": "u4-20-integration-evaluation",
         "locale": "en",
         "title": "Dynamic evaluation of integration",
-        "takeaway": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
-        "definition": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
+        "takeaway": "Integration may strengthen competition, investment and scale economies; gains depend on member differences, institutional quality, regional distribution and implementation.",
+        "definition": "Integration may strengthen competition, investment and scale economies; gains depend on member differences, institutional quality, regional distribution and implementation.",
         "causalChain": [
           "A larger market attracts investment",
           "competition encourages productivity",
           "regional concentration and policy constraints alter distribution"
         ],
         "misconceptions": [
-          "More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+          "More intraregional trade alone does not establish welfare gains; evaluate costs, competition and distribution. Trade creation and diversion analysis is HL."
         ],
         "examApplication": [
           "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
         ],
         "summary": [
-          "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion.",
-          "More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+          "Integration may strengthen competition, investment and scale economies; gains depend on member differences, institutional quality, regional distribution and implementation.",
+          "More intraregional trade alone does not establish welfare gains; evaluate costs, competition and distribution. Trade creation and diversion analysis is HL."
         ],
-        "explanation": "A larger market attracts investment.  competition encourages productivity.  regional concentration and policy constraints alter distribution.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes.\n\nMore intraregional trade can reflect diversion; volumes alone do not establish welfare gains.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        "explanation": "A larger market attracts investment.  competition encourages productivity.  regional concentration and policy constraints alter distribution.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes.\n\nMore intraregional trade alone does not establish welfare gains; evaluate costs, competition and distribution. Trade creation and diversion analysis is HL.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
       }
     },
     "practice": [
@@ -44408,12 +46270,12 @@ export const knowledgePoints = [
           "en": "Explain Dynamic evaluation of integration and state one important condition."
         },
         "answer": {
-          "zh-CN": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。",
-          "en": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion."
+          "zh-CN": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量、地区分配和实施条件。",
+          "en": "Integration may strengthen competition, investment and scale economies; gains depend on member differences, institutional quality, regional distribution and implementation."
         },
         "explanation": {
-          "zh-CN": "更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。",
-          "en": "More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+          "zh-CN": "更多区域内贸易不充分证明福利提高，还需评价成本、竞争和分配；贸易创造与转移的分析属于 HL。",
+          "en": "More intraregional trade alone does not establish welfare gains; evaluate costs, competition and distribution. Trade creation and diversion analysis is HL."
         }
       },
       {
@@ -44448,8 +46310,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "竞争与技能投资提高生产率。 原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。 更多区域内贸易也可能来自转移，不能仅凭贸易量宣告福利提高。",
-          "en": "Competition and skill investment raise productivity. Hypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes. More intraregional trade can reflect diversion; volumes alone do not establish welfare gains."
+          "zh-CN": "竞争与技能投资提高生产率。 市场扩大吸引投资；竞争促进生产率；地区集中和政策约束改变分配 更多区域内贸易不充分证明福利提高，还需评价成本、竞争和分配；贸易创造与转移的分析属于 HL。",
+          "en": "Competition and skill investment raise productivity. A larger market attracts investment; competition encourages productivity; regional concentration and policy constraints alter distribution More intraregional trade alone does not establish welfare gains; evaluate costs, competition and distribution. Trade creation and diversion analysis is HL."
         }
       },
       {
@@ -44461,8 +46323,8 @@ export const knowledgePoints = [
           "en": "Explain the mechanism of Dynamic evaluation of integration and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量与贸易创造相对转移。 市场扩大吸引投资；竞争促进生产率；地区集中和政策约束改变分配 原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。",
-          "en": "Integration may strengthen competition, investment and scale economies. Gains depend on member differences, institutional quality and trade creation relative to diversion. A larger market attracts investment; competition encourages productivity; regional concentration and policy constraints alter distribution Hypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes."
+          "zh-CN": "经济一体化可能增强竞争、投资和规模经济；收益取决于成员差异、制度质量、地区分配和实施条件。 市场扩大吸引投资；竞争促进生产率；地区集中和政策约束改变分配 原创假设：共同市场吸引汽车投资，但就业集中在港口地区；评估时加入地区基金、技能和跨境公共品，而非只看贸易总额。",
+          "en": "Integration may strengthen competition, investment and scale economies; gains depend on member differences, institutional quality, regional distribution and implementation. A larger market attracts investment; competition encourages productivity; regional concentration and policy constraints alter distribution Hypothetical scenario: a common market attracts car investment, concentrated near ports. Evaluate regional funds, skills and cross-border public goods alongside trade volumes."
         },
         "keywordGroups": [
           {
@@ -44679,8 +46541,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "本币升值 25%。 原创假设：1 本币从 0.50 美元变为 0.60 美元，本币升值 20%；倒数报价从每美元 2 本币变为约 1.67，百分比并不对称。 不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。",
-          "en": "Home currency appreciates 25%. Hypothetical scenario: one home unit rises from 0.50 to 0.60 dollars, a 20% appreciation. The inverse falls from two home units per dollar to about 1.67; percentage changes are not symmetric. Without stating numerator and denominator, a rising rate can be misread; floating-rate changes are appreciation or depreciation."
+          "zh-CN": "本币升值 25%。 (0.5 − 0.4) / 0.4 × 100 = 25% (USD/home ↑) 不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。",
+          "en": "Home currency appreciates 25%. (0.5 − 0.4) / 0.4 × 100 = 25% (USD/home ↑) Without stating numerator and denominator, a rising rate can be misread; floating-rate changes are appreciation or depreciation."
         }
       },
       {
@@ -44910,8 +46772,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "本币需求右移。 原创假设：在风险与预期不变时，本国利率相对上升吸引资产购买，本币需求增加，可能升值；风险溢价上升可抵消此效应。 利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。",
-          "en": "Demand for home currency shifts right. Hypothetical scenario: holding risk and expectations constant, a higher relative home interest rate attracts asset purchases and can appreciate the currency. A rising risk premium may offset this. The interest-rate link is conditional; speculation, inflation expectations and capital restrictions also affect flows."
+          "zh-CN": "本币需求右移。 外国需求或相对回报改变；本币需求或供给移动；浮动汇率调整 利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。",
+          "en": "Demand for home currency shifts right. Foreign demand or relative returns change; home-currency demand or supply shifts; the floating rate adjusts The interest-rate link is conditional; speculation, inflation expectations and capital restrictions also affect flows."
         }
       },
       {
@@ -45139,8 +47001,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "增加本币偿债负担。 原创假设：依赖进口燃料的企业成本上升，可能左移 SRAS；同时出口订单增加可右移 AD，不能只看一个渠道。 贬值不保证贸易余额改善，也可能提高外币债务的本币负担。",
-          "en": "Increase its home-currency repayment burden. Hypothetical scenario: imported fuel becomes dearer, potentially shifting SRAS left, while more export orders may shift AD right. Both channels matter. Depreciation does not guarantee a better trade balance and can raise the home-currency burden of foreign-currency debt."
+          "zh-CN": "增加本币偿债负担。 本币贬值改变相对价格；出口与进口数量逐步调整；净出口和进口成本共同影响 AD 与 AS 贬值不保证贸易余额改善，也可能提高外币债务的本币负担。",
+          "en": "Increase its home-currency repayment burden. Depreciation changes relative prices; export and import volumes adjust gradually; net exports and import costs affect AD and AS Depreciation does not guarantee a better trade balance and can raise the home-currency burden of foreign-currency debt."
         }
       },
       {
@@ -45263,7 +47125,9 @@ export const knowledgePoints = [
           "buy home currency"
         ]
       },
-      "diagramIds": [],
+      "diagramIds": [
+        "audit-fixed-rate"
+      ],
       "quizIds": [
         "u4-24-fixed-exchange-rate-flash-1",
         "u4-24-fixed-exchange-rate-mcq-1",
@@ -45368,8 +47232,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "卖外币买本币。 原创假设：目标 1 本币=0.5 美元，市场需求下滑；卖美元买本币可支持目标，持续干预可能需要加息或政策调整。 官方下调固定平价称法定贬值；这不同于浮动市场的贬值。",
-          "en": "Sell foreign currency and buy home currency. Hypothetical scenario: the target is 0.5 dollars per home unit and demand falls. Selling dollars to buy home currency supports the target; sustained pressure may require higher rates or policy adjustment. An official reduction of fixed parity is devaluation, distinct from market depreciation."
+          "zh-CN": "卖外币买本币。 市场汇率低于目标；央行买本币增加需求；外汇储备下降以支持平价 官方下调固定平价称法定贬值；这不同于浮动市场的贬值。",
+          "en": "Sell foreign currency and buy home currency. The market rate falls below parity; central-bank home-currency purchases add demand; foreign reserves decline to defend the peg An official reduction of fixed parity is devaluation, distinct from market depreciation."
         }
       },
       {
@@ -45471,8 +47335,8 @@ export const knowledgePoints = [
         "u4-23-exchange-rate-effects"
       ],
       "terms": [
-        "管理浮动与制度比较",
-        "Managed floating and regime comparison",
+        "管理浮动与干预",
+        "Managed exchange rates and intervention",
         "市场",
         "market",
         "干预",
@@ -45503,9 +47367,9 @@ export const knowledgePoints = [
       "zh-CN": {
         "id": "u4-25-managed-exchange-rate",
         "locale": "zh-CN",
-        "title": "管理浮动与制度比较",
-        "takeaway": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
-        "definition": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
+        "title": "管理浮动与干预",
+        "takeaway": "管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。",
+        "definition": "管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。",
         "causalChain": [
           "市场冲击引起波动",
           "当局选择性干预",
@@ -45518,17 +47382,17 @@ export const knowledgePoints = [
           "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
         ],
         "summary": [
-          "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
+          "管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。",
           "固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。"
         ],
-        "explanation": "市场冲击引起波动。当局选择性干预。汇率风险与政策成本重新分配。\n\n### 原创情境与推导\n\n原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。\n\n固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        "explanation": "市场冲击引起波动。当局选择性干预。汇率风险与政策成本重新分配。\n\n### 原创情境与推导\n\n原创假设：本币面临升值，当局卖本币买外币可限制升幅并增加储备；面对贬值压力则可反向操作，但储备有限。高估和低估均须说明比较基准。\n\n固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
       },
       "en": {
         "id": "u4-25-managed-exchange-rate",
         "locale": "en",
-        "title": "Managed floating and regime comparison",
-        "takeaway": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
-        "definition": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
+        "title": "Managed exchange rates and intervention",
+        "takeaway": "Managed floating combines market determination with selective intervention; a currency can be overvalued or undervalued relative to a target or fundamentals benchmark. Comparing regime advantages and disadvantages is HL.",
+        "definition": "Managed floating combines market determination with selective intervention; a currency can be overvalued or undervalued relative to a target or fundamentals benchmark. Comparing regime advantages and disadvantages is HL.",
         "causalChain": [
           "Market shocks create volatility",
           "authorities intervene selectively",
@@ -45541,10 +47405,10 @@ export const knowledgePoints = [
           "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
         ],
         "summary": [
-          "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy.",
+          "Managed floating combines market determination with selective intervention; a currency can be overvalued or undervalued relative to a target or fundamentals benchmark. Comparing regime advantages and disadvantages is HL.",
           "Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions."
         ],
-        "explanation": "Market shocks create volatility.  authorities intervene selectively.  exchange risk and policy costs are redistributed.\n\n### Original scenario and reasoning\n\nHypothetical scenario: an export-concentrated economy with mobile capital wants less volatility but cannot treat reserves as unlimited. Floating may cushion external shocks.\n\nFixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        "explanation": "Market shocks create volatility.  authorities intervene selectively.  exchange risk and policy costs are redistributed.\n\n### Original scenario and reasoning\n\nHypothetical scenario: selling home currency for foreign currency can limit appreciation and build reserves; reverse intervention can resist depreciation but uses finite reserves. Overvaluation and undervaluation require an explicit benchmark.\n\nFixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
       }
     },
     "practice": [
@@ -45553,12 +47417,12 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-25-managed-exchange-rate",
         "type": "flashcard",
         "prompt": {
-          "zh-CN": "解释“管理浮动与制度比较”，并说明一个关键条件。",
-          "en": "Explain Managed floating and regime comparison and state one important condition."
+          "zh-CN": "解释“管理浮动与干预”，并说明一个关键条件。",
+          "en": "Explain Managed exchange rates and intervention and state one important condition."
         },
         "answer": {
-          "zh-CN": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。",
-          "en": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy."
+          "zh-CN": "管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。",
+          "en": "Managed floating combines market determination with selective intervention; a currency can be overvalued or undervalued relative to a target or fundamentals benchmark. Comparing regime advantages and disadvantages is HL."
         },
         "explanation": {
           "zh-CN": "固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。",
@@ -45597,8 +47461,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "市场定价加选择性干预。 原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。 固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。",
-          "en": "Market pricing with selective intervention. Hypothetical scenario: an export-concentrated economy with mobile capital wants less volatility but cannot treat reserves as unlimited. Floating may cushion external shocks. Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions."
+          "zh-CN": "市场定价加选择性干预。 市场冲击引起波动；当局选择性干预；汇率风险与政策成本重新分配 固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。",
+          "en": "Market pricing with selective intervention. Market shocks create volatility; authorities intervene selectively; exchange risk and policy costs are redistributed Fixed does not mean permanently stable, nor floating entirely intervention-free; specify the actual regime and conditions."
         }
       },
       {
@@ -45606,12 +47470,12 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-25-managed-exchange-rate",
         "type": "short-answer",
         "prompt": {
-          "zh-CN": "解释管理浮动与制度比较的机制，并用一个自己设计的情境说明其含义。",
-          "en": "Explain the mechanism of Managed floating and regime comparison and apply it to an example of your own."
+          "zh-CN": "解释管理浮动与干预的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Managed exchange rates and intervention and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。 市场冲击引起波动；当局选择性干预；汇率风险与政策成本重新分配 原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。",
-          "en": "Managed floating allows market determination with occasional official intervention. Regime choice trades off stability, adjustment and policy autonomy. Market shocks create volatility; authorities intervene selectively; exchange risk and policy costs are redistributed Hypothetical scenario: an export-concentrated economy with mobile capital wants less volatility but cannot treat reserves as unlimited. Floating may cushion external shocks."
+          "zh-CN": "管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。 市场冲击引起波动；当局选择性干预；汇率风险与政策成本重新分配 原创假设：本币面临升值，当局卖本币买外币可限制升幅并增加储备；面对贬值压力则可反向操作，但储备有限。高估和低估均须说明比较基准。",
+          "en": "Managed floating combines market determination with selective intervention; a currency can be overvalued or undervalued relative to a target or fundamentals benchmark. Comparing regime advantages and disadvantages is HL. Market shocks create volatility; authorities intervene selectively; exchange risk and policy costs are redistributed Hypothetical scenario: selling home currency for foreign currency can limit appreciation and build reserves; reverse intervention can resist depreciation but uses finite reserves. Overvaluation and undervaluation require an explicit benchmark."
         },
         "keywordGroups": [
           {
@@ -45678,7 +47542,7 @@ export const knowledgePoints = [
       "id": "u4-26-exchange-calculations",
       "slug": "exchange-calculations",
       "section": "4.5",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "4.5 Exchange rates"
       ],
@@ -45826,8 +47690,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "20 美元。 原创假设：每美元 8 本币，240 本币可换 30 美元；变为每美元 10 本币，同额只能换 24 美元。本币的美元价值下降 20%，不是 25%。 进口账单变化可能还含数量与外币价格变化；应控制条件。",
-          "en": "Twenty dollars. Hypothetical scenario: at eight home units per dollar, 240 home units buy thirty dollars; at ten, they buy twenty-four. The home currency's dollar value falls 20%, not 25%. An import bill can also change with quantity and foreign price; hold these conditions constant."
+          "zh-CN": "20 美元。 100 / 5 = 20 USD 进口账单变化可能还含数量与外币价格变化；应控制条件。",
+          "en": "Twenty dollars. 100 / 5 = 20 USD An import bill can also change with quantity and foreign price; hold these conditions constant."
         }
       },
       {
@@ -46055,8 +47919,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "独立货币政策。 原创假设：一国希望降息刺激就业，又维持平价且允许资本自由流动；持续资本外流暴露三目标难以同时保持。 该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。",
-          "en": "Independent monetary policy. Hypothetical scenario: an economy wants lower rates for jobs, a fixed parity and free capital flows. Persistent outflows expose the difficulty of sustaining all three. The constraint depends on mobility, risk and credibility; it does not imply identical interest rates everywhere at every moment."
+          "zh-CN": "独立货币政策。 独立降息降低相对回报；资本流出增加贬值压力；捍卫固定汇率限制降息空间 该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。",
+          "en": "Independent monetary policy. Independent rate cuts reduce relative returns; outflows add depreciation pressure; defending parity restricts rate cuts The constraint depends on mobility, risk and credibility; it does not imply identical interest rates everywhere at every moment."
         }
       },
       {
@@ -46284,8 +48148,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "−4。 原创假设：货物 −20、服务 +10、初次收入 −5、二次收入 +3，经常账户为 −12；收到海外亲属汇款通常属二次收入。 海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。",
-          "en": "−4. Hypothetical scenario: goods −20, services +10, primary income −5 and secondary income +3 give a current-account balance of −12. Family remittances received normally enter secondary income. Income on foreign investment is primary income; purchasing foreign shares belongs to the financial account."
+          "zh-CN": "−4。 −10 + 4 + 2 = −4 海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。",
+          "en": "−4. −10 + 4 + 2 = −4 Income on foreign investment is primary income; purchasing foreign shares belongs to the financial account."
         }
       },
       {
@@ -46513,8 +48377,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "金融账户。 原创假设：外国企业建厂属直接投资，居民买外国债券属证券投资；贷款本金偿还是金融交易，利息是初次收入。 日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。",
-          "en": "The financial account. Hypothetical scenario: a foreign firm building a factory is direct investment and residents buying foreign bonds is portfolio investment. Loan principal repayment is financial, while interest is primary income. Most everyday capital inflows belong to the financial account; the capital account is not a catch-all for investment."
+          "zh-CN": "金融账户。 跨境融资改变资产负债；按投资性质分类；与经常项目形成对应记录 日常所说资本流入大多属于金融账户，不应把资本账户当作所有投资的总称。",
+          "en": "The financial account. Cross-border finance changes assets and liabilities; classify the type of investment; record counterparts to current transactions Most everyday capital inflows belong to the financial account; the capital account is not a catch-all for investment."
         }
       },
       {
@@ -46594,7 +48458,7 @@ export const knowledgePoints = [
       "id": "u4-30-bop-identity",
       "slug": "bop-identity",
       "section": "4.6",
-      "level": "hl",
+      "level": "core",
       "syllabusRefs": [
         "4.6 Balance of payments"
       ],
@@ -46742,8 +48606,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "+12。 原创假设：CA=−30、KA=0、误差=0，则教学净流入 FA=+30；官方净借出符号下 FA=−30。储备交易已经包含在金融账户中。 不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。",
-          "en": "+12. Hypothetical scenario: CA=−30, KA=0 and no errors imply teaching-convention inflows FA=+30, or official net-lending FA=−30. Reserve transactions are already within the financial account. Do not count reserves inside FA and then add them again; balanced accounts do not imply a zero current account."
+          "zh-CN": "+12。 −12 + 0 + FA = 0; FA = +12 (FA: inflow +) 不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。",
+          "en": "+12. −12 + 0 + FA = 0; FA = +12 (FA: inflow +) Do not count reserves inside FA and then add them again; balanced accounts do not imply a zero current account."
         }
       },
       {
@@ -46823,7 +48687,7 @@ export const knowledgePoints = [
       "id": "u4-31-current-account-imbalances",
       "slug": "current-account-imbalances",
       "section": "4.6",
-      "level": "core",
+      "level": "hl",
       "syllabusRefs": [
         "4.6 Balance of payments"
       ],
@@ -46971,8 +48835,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "短期外币债务依赖。 原创假设：设备进口支持未来出口，与短期外币借款资助消费具有不同风险；长期直接投资通常比易撤出的短期融资更稳定。 逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。",
-          "en": "Dependence on short-term foreign-currency debt. Hypothetical scenario: machinery imports supporting future exports differ from short-term foreign-currency borrowing funding consumption. Long-term direct investment is generally more stable than easily reversed short-term finance. Deficits are not automatically bad, nor surpluses always good; compare size, maturity, currency and structure."
+          "zh-CN": "短期外币债务依赖。 进口或收入支付超过相应收入；外部融资或储备变化对应缺口；未来收益与融资稳定性决定风险 逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。",
+          "en": "Dependence on short-term foreign-currency debt. Imports or income payments exceed receipts; external financing or reserves correspond to the gap; future returns and financing stability determine risks Deficits are not automatically bad, nor surpluses always good; compare size, maturity, currency and structure."
         }
       },
       {
@@ -47200,8 +49064,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "0.7 与 0.6。 原创假设：出口弹性 0.7、进口弹性 0.6，总和 1.3，在充分供给反应和相关模型假设下支持改善；不意味着一定立即改善。 条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。",
-          "en": "0.7 and 0.6. Hypothetical scenario: elasticities 0.7 and 0.6 sum to 1.3, supporting improvement with sufficient supply response and the model's assumptions; improvement need not be immediate. The condition concerns the trade balance, not all income and transfers; an elasticity is not the quantity percentage change itself."
+          "zh-CN": "0.7 与 0.6。 贬值改变相对价格；数量按需求弹性调整；数量效应超过进口单位成本效应时余额改善 条件针对贸易余额，不自动覆盖投资收益和转移；弹性不是百分比数量变化本身。",
+          "en": "0.7 and 0.6. Depreciation changes relative prices; volumes respond to demand elasticities; the balance improves when volume effects outweigh the import unit-cost effect The condition concerns the trade balance, not all income and transfers; an elasticity is not the quantity percentage change itself."
         }
       },
       {
@@ -47431,8 +49295,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "数量调整慢于价格。 原创假设：进口燃料合同量短期固定，贬值先增加账单；之后企业节能并改用本地投入，进口量才下降。 J 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。",
-          "en": "Quantities adjust more slowly than prices. Hypothetical scenario: contracted fuel volumes initially remain fixed, so depreciation raises the bill first. Firms later conserve energy and substitute domestic inputs, reducing imports. The J shape is only a possible path; weak long-run elasticities or supply constraints can prevent improvement."
+          "zh-CN": "数量调整慢于价格。 进口本币单价先上升；短期合同使数量调整缓慢；长期弹性增大可能改善余额 J 形只是可能路径；若长期弹性不足或供给受限，余额可能始终不改善。",
+          "en": "Quantities adjust more slowly than prices. Home-currency import prices rise first; contracts slow initial volume adjustment; higher long-run elasticities may improve the balance The J shape is only a possible path; weak long-run elasticities or supply constraints can prevent improvement."
         }
       },
       {
@@ -47660,8 +49524,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "提高技能和物流效率。 原创假设：加息压低消费和进口可能缩小逆差，却增加失业且可能吸引资本升值；培训与物流改善较慢但可提高出口能力。 不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。",
-          "en": "Improving skills and logistics. Hypothetical scenario: higher rates may cut consumption and imports but raise unemployment and attract appreciating capital flows. Training and logistics take longer but can improve export capacity. Do not omit the exchange-rate counterchannel or treat deficit reduction through demand compression as costless."
+          "zh-CN": "提高技能和物流效率。 转换政策改变相对价格；紧缩减少进口需求；生产率政策改善长期竞争力 不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。",
+          "en": "Improving skills and logistics. Switching policies alter relative prices; contraction reduces import demand; productivity policy improves long-run competitiveness Do not omit the exchange-rate counterchannel or treat deficit reduction through demand compression as costless."
         }
       },
       {
@@ -47888,8 +49752,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "健康与自然资本损失。 原创假设：采矿提高 GDP，但污染水源并挤压农业，不能只用产出增长判断发展；需衡量健康、收入分配和生态损失。 增长可能资助发展，但并非充分条件；可持续性也包含代际公平。",
-          "en": "Health and natural-capital losses. Hypothetical scenario: mining raises GDP but pollutes water and harms farming. Evaluate health, distribution and ecological losses alongside output. Growth can finance development but is not sufficient; sustainability includes intergenerational equity."
+          "zh-CN": "健康与自然资本损失。 产出增长扩大可用资源；分配与公共服务影响能力；自然资本保护维持未来选择 增长可能资助发展，但并非充分条件；可持续性也包含代际公平。",
+          "en": "Health and natural-capital losses. Output growth expands available resources; distribution and public services shape capabilities; natural-capital protection preserves future options Growth can finance development but is not sufficient; sustainability includes intergenerational equity."
         }
       },
       {
@@ -47969,7 +49833,7 @@ export const knowledgePoints = [
       "id": "u4-36-environment-poverty",
       "slug": "environment-poverty",
       "section": "4.7",
-      "level": "core",
+      "level": "hl",
       "syllabusRefs": [
         "4.7 Sustainable development"
       ],
@@ -48116,8 +49980,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "替代能源加社区管理。 原创假设：缺乏可靠电力的村庄依赖薪柴，单独禁伐可能伤害穷人；社区管理与清洁能源可同时改善激励和选择。 环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。",
-          "en": "Alternative energy plus community management. Hypothetical scenario: a village without reliable power relies on fuelwood. A logging ban alone may harm poor households; community management and clean energy improve incentives and alternatives together. High consumption among wealthy groups can also damage the environment; responsibility cannot be assigned solely to poor people."
+          "zh-CN": "替代能源加社区管理。 低收入限制替代选择；过度使用共同资源；资源退化使收入更脆弱 环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。",
+          "en": "Alternative energy plus community management. Low income restricts alternatives; common resources are overused; degradation makes income more vulnerable High consumption among wealthy groups can also damage the environment; responsibility cannot be assigned solely to poor people."
         }
       },
       {
@@ -48344,8 +50208,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "有基线的多维结果指标。 原创假设：清洁公交可减少污染并改善就业可达性，但票价上涨可能排斥低收入者；比较定向补助与财政成本。 宣布目标不等于观察到进展；要注明指标、年份和群体。",
-          "en": "Multidimensional outcomes with a baseline. Hypothetical scenario: clean buses reduce pollution and improve job access, but higher fares may exclude low-income riders. Compare targeted support with fiscal costs. Announcing a goal is not observing progress; specify indicators, years and groups."
+          "zh-CN": "有基线的多维结果指标。 确定具体目标与基线；识别协同及机会成本；用分组指标追踪结果 宣布目标不等于观察到进展；要注明指标、年份和群体。",
+          "en": "Multidimensional outcomes with a baseline. Set specific goals and baselines; identify synergies and opportunity costs; track outcomes with disaggregated indicators Announcing a goal is not observing progress; specify indicators, years and groups."
         }
       },
       {
@@ -48573,8 +50437,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "跨国价格水平差异。 原创假设：A 与 B 汇率换算收入相同，但 A 的基本生活篮子更便宜，PPP 比较可能显示 A 购买力更高；仍需看地区差距。 PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。",
-          "en": "Cross-country price-level differences. Hypothetical scenario: A and B have equal exchange-rate-converted income, but basic goods are cheaper in A. PPP may show greater purchasing power in A; regional inequality still matters. PPP is not a tradable market exchange rate; average income is not necessarily a typical household's income."
+          "zh-CN": "跨国价格水平差异。 总收入除以人口；按购买力调整跨国可比性；用其他指标补充平均数局限 PPP 不是外汇市场可交易的汇率，人均收入也不是典型家庭的实际收入。",
+          "en": "Cross-country price-level differences. Divide total income by population; adjust purchasing power for cross-country comparison; add indicators to address average-income limits PPP is not a tradable market exchange rate; average income is not necessarily a typical household's income."
         }
       },
       {
@@ -48802,8 +50666,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "出生时预期寿命。 原创假设：甲乙收入类似，甲的寿命与教育更高，HDI 可能更高；但国平均仍掩盖性别与地区差距。 HDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。",
-          "en": "Life expectancy at birth. Hypothetical scenario: two economies have similar income but one has better longevity and education, potentially giving it higher HDI. National averages still hide gender and regional gaps. HDI does not add raw units directly and is not a comprehensive ecological or political-freedom measure."
+          "zh-CN": "出生时预期寿命。 将各维度标准化；教育指标组成教育维度；几何平均限制单一高维度完全补偿低维度 HDI 不是三个原始单位直接相加，也不是完整的生态或政治自由指标。",
+          "en": "Life expectancy at birth. Normalise dimensions; combine schooling indicators into education; the geometric mean limits full compensation of a weak dimension by a strong one HDI does not add raw units directly and is not a comprehensive ecological or political-freedom measure."
         }
       },
       {
@@ -49031,8 +50895,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "收入未显示所有基本服务剥夺。 原创假设：收入略高于贫困线的家庭仍可能缺安全饮水和教育；只用收入会漏掉这些剥夺。指标权重会影响排名。 不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。",
-          "en": "Income misses some basic-service deprivations. Hypothetical scenario: a household just above an income poverty line may still lack safe water and schooling. Income alone misses these deprivations, while indicator weights affect rankings. Different indicators answer different questions; multidimensional poverty, Gini and HDI are not interchangeable."
+          "zh-CN": "收入未显示所有基本服务剥夺。 识别家庭剥夺；按明确权重和阈值分类；结合发生率与强度判断贫困 不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。",
+          "en": "Income misses some basic-service deprivations. Identify household deprivations; classify using explicit weights and thresholds; combine incidence and intensity to assess poverty Different indicators answer different questions; multidimensional poverty, Gini and HDI are not interchangeable."
         }
       },
       {
@@ -49260,8 +51124,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "标明缺失并限制结论。 原创假设：农村调查遗漏偏远家庭，可能高估全国服务覆盖；比较政策前后还需考虑经济周期和其他政策。 两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。",
-          "en": "Mark it missing and limit conclusions. Hypothetical scenario: omitting remote households can overstate national service coverage. Before-after policy comparisons also need business-cycle and other-policy context. Two improving indicators alone do not prove a policy caused improvement; missing data are not zero."
+          "zh-CN": "标明缺失并限制结论。 检查来源和定义；统一年份与可比单位；结合定量指标和情境解释 两个指标同时改善不能单独证明某政策造成改善；缺失数据不等于零。",
+          "en": "Mark it missing and limit conclusions. Check sources and definitions; align years and comparable units; combine quantitative measures with context Two improving indicators alone do not prove a policy caused improvement; missing data are not zero."
         }
       },
       {
@@ -49491,8 +51355,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "低收入→低投资→低生产率。 原创假设：农户无法承担灌溉投资，旱季低产又使下年投资更难；公共灌溉、风险保险或适当融资可打断循环。 低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。",
-          "en": "Low income → low investment → low productivity. Hypothetical scenario: a farmer cannot finance irrigation, and low dry-season yields reduce next year's investment capacity. Public irrigation, insurance or suitable finance can interrupt the cycle. Low saving is only one barrier; credit cannot substitute for viable projects, rights and demand."
+          "zh-CN": "低收入→低投资→低生产率。 低收入限制储蓄；资金不足抑制资本形成；低生产率维持低收入 低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。",
+          "en": "Low income → low investment → low productivity. Low income restricts saving; limited finance constrains capital formation; low productivity sustains low income Low saving is only one barrier; credit cannot substitute for viable projects, rights and demand."
         }
       },
       {
@@ -49720,8 +51584,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "维护与使用条件决定实际收益。 原创假设：学校扩招但学生因疾病缺勤、企业因停电停工，单独增加学位未必转化为生产率；需要互补投入。 建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。",
-          "en": "Maintenance and access determine actual benefits. Hypothetical scenario: schooling expands but illness causes absence and outages halt firms. More school places alone may not raise productivity without complementary investments. Construction counts do not establish service quality; maintenance, teachers and affordability determine effective access."
+          "zh-CN": "维护与使用条件决定实际收益。 服务缺口限制能力；停电和运输延误提高成本；低回报抑制投资与就业 建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。",
+          "en": "Maintenance and access determine actual benefits. Service gaps restrict capabilities; outages and transport delays raise costs; weak returns discourage investment and jobs Construction counts do not establish service quality; maintenance, teachers and affordability determine effective access."
         }
       },
       {
@@ -49823,25 +51687,25 @@ export const knowledgePoints = [
         "u4-45-debt-finance-barriers"
       ],
       "terms": [
-        "初级产品依赖与贸易条件",
-        "Primary-product dependence and terms of trade",
-        "出口价格",
-        "export prices",
-        "进口价格",
-        "import prices",
+        "初级产品依赖与收入波动",
+        "Primary-product dependence and revenue volatility",
+        "集中",
+        "concentration",
         "波动",
-        "volatility"
+        "volatility",
+        "外汇",
+        "foreign exchange"
       ],
       "synonyms": {
         "zh-CN": [
-          "出口价格",
-          "进口价格",
-          "波动"
+          "集中",
+          "波动",
+          "外汇"
         ],
         "en": [
-          "export prices",
-          "import prices",
-          "volatility"
+          "concentration",
+          "volatility",
+          "foreign exchange"
         ]
       },
       "diagramIds": [],
@@ -49855,13 +51719,13 @@ export const knowledgePoints = [
       "zh-CN": {
         "id": "u4-44-primary-dependence",
         "locale": "zh-CN",
-        "title": "初级产品依赖与贸易条件",
-        "takeaway": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
-        "definition": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
+        "title": "初级产品依赖与收入波动",
+        "takeaway": "出口集中于少数初级产品会使外汇、税收与投资暴露于价格和需求冲击；多样化可降低某些集中风险。",
+        "definition": "出口集中于少数初级产品会使外汇、税收与投资暴露于价格和需求冲击；多样化可降低某些集中风险。",
         "causalChain": [
-          "出口集中放大外部价格冲击",
-          "外汇和税收波动",
-          "资本品进口与公共投资受限"
+          "出口集中放大外部冲击",
+          "外汇和税收随价格数量变化",
+          "公共投资与进口融资受限"
         ],
         "misconceptions": [
           "贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。"
@@ -49870,21 +51734,21 @@ export const knowledgePoints = [
           "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
         ],
         "summary": [
-          "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
+          "出口集中于少数初级产品会使外汇、税收与投资暴露于价格和需求冲击；多样化可降低某些集中风险。",
           "贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。"
         ],
-        "explanation": "出口集中放大外部价格冲击。外汇和税收波动。资本品进口与公共投资受限。\n\n### 原创情境与推导\n\n原创假设：出口价指数 90、进口价指数 120，贸易条件为 75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。\n\n贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        "explanation": "出口集中放大外部冲击。外汇和税收随价格数量变化。公共投资与进口融资受限。\n\n### 原创情境与推导\n\n原创假设：咖啡价格下降时，依赖咖啡的家庭、出口商和政府收入可同时受损，设备进口也更难融资；价格、数量及成本共同决定净收益。贸易条件指数另列为扩展内容。\n\n贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
       },
       "en": {
         "id": "u4-44-primary-dependence",
         "locale": "en",
-        "title": "Primary-product dependence and terms of trade",
-        "takeaway": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
-        "definition": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
+        "title": "Primary-product dependence and revenue volatility",
+        "takeaway": "Concentration in a few primary exports exposes foreign exchange, tax revenue and investment to price and demand shocks; diversification may reduce some concentration risk.",
+        "definition": "Concentration in a few primary exports exposes foreign exchange, tax revenue and investment to price and demand shocks; diversification may reduce some concentration risk.",
         "causalChain": [
-          "Export concentration magnifies world-price shocks",
-          "foreign exchange and tax revenue fluctuate",
-          "capital-goods imports and public investment are constrained"
+          "Export concentration magnifies external shocks",
+          "foreign exchange and tax receipts vary with prices and volumes",
+          "public investment and import finance are constrained"
         ],
         "misconceptions": [
           "Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
@@ -49893,10 +51757,10 @@ export const knowledgePoints = [
           "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
         ],
         "summary": [
-          "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit.",
+          "Concentration in a few primary exports exposes foreign exchange, tax revenue and investment to price and demand shocks; diversification may reduce some concentration risk.",
           "Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
         ],
-        "explanation": "Export concentration magnifies world-price shocks.  foreign exchange and tax revenue fluctuate.  capital-goods imports and public investment are constrained.\n\n### Original scenario and reasoning\n\nHypothetical scenario: export prices indexed at ninety and imports at 120 give terms of trade of 75. Revenue also depends on volume, so the ratio alone cannot establish the trade balance.\n\nTerms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        "explanation": "Export concentration magnifies external shocks.  foreign exchange and tax receipts vary with prices and volumes.  public investment and import finance are constrained.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a coffee-price fall can hit households, exporters and public revenue together, constraining finance for equipment imports. Price, quantity and costs jointly determine net returns. A terms-of-trade index is listed separately as enrichment.\n\nTerms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
       }
     },
     "practice": [
@@ -49905,12 +51769,12 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-44-primary-dependence",
         "type": "flashcard",
         "prompt": {
-          "zh-CN": "解释“初级产品依赖与贸易条件”，并说明一个关键条件。",
-          "en": "Explain Primary-product dependence and terms of trade and state one important condition."
+          "zh-CN": "解释“初级产品依赖与收入波动”，并说明一个关键条件。",
+          "en": "Explain Primary-product dependence and revenue volatility and state one important condition."
         },
         "answer": {
-          "zh-CN": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。",
-          "en": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit."
+          "zh-CN": "出口集中于少数初级产品会使外汇、税收与投资暴露于价格和需求冲击；多样化可降低某些集中风险。",
+          "en": "Concentration in a few primary exports exposes foreign exchange, tax revenue and investment to price and demand shocks; diversification may reduce some concentration risk."
         },
         "explanation": {
           "zh-CN": "贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。",
@@ -49922,35 +51786,35 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-44-primary-dependence",
         "type": "mcq",
         "prompt": {
-          "zh-CN": "出口价指数 110、进口价指数 100，贸易条件多少？",
-          "en": "Export price index 110 and import price index 100 give what terms of trade?"
+          "zh-CN": "为何单一初级产品出口依赖增加风险？",
+          "en": "Why does dependence on one primary export raise risk?"
         },
         "options": [
           {
             "id": "a",
-            "zh-CN": "90.9",
-            "en": "90.9"
+            "zh-CN": "出口收入不受价格影响",
+            "en": "Export receipts never depend on price"
           },
           {
             "id": "b",
-            "zh-CN": "10",
-            "en": "10"
+            "zh-CN": "数量与成本无关紧要",
+            "en": "Volumes and costs never matter"
           },
           {
             "id": "c",
-            "zh-CN": "210",
-            "en": "210"
+            "zh-CN": "多样化必定增加所有风险",
+            "en": "Diversification must increase every risk"
           },
           {
             "id": "d",
-            "zh-CN": "110",
-            "en": "110"
+            "zh-CN": "一次产品价格冲击可同时打击多个收入来源",
+            "en": "One commodity-price shock can hit several income sources"
           }
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "110。 原创假设：出口价指数 90、进口价指数 120，贸易条件为 75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。 贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。",
-          "en": "110. Hypothetical scenario: export prices indexed at ninety and imports at 120 give terms of trade of 75. Revenue also depends on volume, so the ratio alone cannot establish the trade balance. Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
+          "zh-CN": "一次产品价格冲击可同时打击多个收入来源。 出口集中放大外部冲击；外汇和税收随价格数量变化；公共投资与进口融资受限 贸易条件不是汇率，也不是出口总额除以进口总额；长期价格下降并非每种商品必然发生。",
+          "en": "One commodity-price shock can hit several income sources. Export concentration magnifies external shocks; foreign exchange and tax receipts vary with prices and volumes; public investment and import finance are constrained Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity."
         }
       },
       {
@@ -49958,50 +51822,33 @@ export const knowledgePoints = [
         "knowledgePointId": "u4-44-primary-dependence",
         "type": "short-answer",
         "prompt": {
-          "zh-CN": "解释初级产品依赖与贸易条件的机制，并用一个自己设计的情境说明其含义。",
-          "en": "Explain the mechanism of Primary-product dependence and terms of trade and apply it to an example of your own."
+          "zh-CN": "解释初级产品依赖与收入波动的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Primary-product dependence and revenue volatility and apply it to an example of your own."
         },
         "modelAnswer": {
-          "zh-CN": "出口集中于少数初级产品会增加收入波动；贸易条件指数=出口价格指数÷进口价格指数×100，恶化意味着每单位出口能换更少进口。 出口集中放大外部价格冲击；外汇和税收波动；资本品进口与公共投资受限 原创假设：出口价指数 90、进口价指数 120，贸易条件为 75。收入还取决于出口数量，不能仅从价格比率推断贸易余额。",
-          "en": "Concentration in primary exports increases revenue risk. Terms of trade equal the export price index divided by the import price index times 100; deterioration means fewer imports per export unit. Export concentration magnifies world-price shocks; foreign exchange and tax revenue fluctuate; capital-goods imports and public investment are constrained Hypothetical scenario: export prices indexed at ninety and imports at 120 give terms of trade of 75. Revenue also depends on volume, so the ratio alone cannot establish the trade balance."
+          "zh-CN": "出口集中于少数初级产品会使外汇、税收与投资暴露于价格和需求冲击；多样化可降低某些集中风险。 出口集中放大外部冲击；外汇和税收随价格数量变化；公共投资与进口融资受限 原创假设：咖啡价格下降时，依赖咖啡的家庭、出口商和政府收入可同时受损，设备进口也更难融资；价格、数量及成本共同决定净收益。贸易条件指数另列为扩展内容。",
+          "en": "Concentration in a few primary exports exposes foreign exchange, tax revenue and investment to price and demand shocks; diversification may reduce some concentration risk. Export concentration magnifies external shocks; foreign exchange and tax receipts vary with prices and volumes; public investment and import finance are constrained Hypothetical scenario: a coffee-price fall can hit households, exporters and public revenue together, constraining finance for equipment imports. Price, quantity and costs jointly determine net returns. A terms-of-trade index is listed separately as enrichment."
         },
         "keywordGroups": [
           {
             "id": "mechanism-1",
             "label": {
-              "zh-CN": "出口价格",
-              "en": "export prices"
+              "zh-CN": "集中",
+              "en": "concentration"
             },
             "alternatives": {
               "zh-CN": [
-                "出口价格",
-                "出口集中放大外部价格冲击"
+                "集中",
+                "出口集中放大外部冲击"
               ],
               "en": [
-                "export prices",
-                "Export concentration magnifies world-price shocks"
+                "concentration",
+                "Export concentration magnifies external shocks"
               ]
             }
           },
           {
             "id": "mechanism-2",
-            "label": {
-              "zh-CN": "进口价格",
-              "en": "import prices"
-            },
-            "alternatives": {
-              "zh-CN": [
-                "进口价格",
-                "外汇和税收波动"
-              ],
-              "en": [
-                "import prices",
-                "foreign exchange and tax revenue fluctuate"
-              ]
-            }
-          },
-          {
-            "id": "mechanism-3",
             "label": {
               "zh-CN": "波动",
               "en": "volatility"
@@ -50009,11 +51856,28 @@ export const knowledgePoints = [
             "alternatives": {
               "zh-CN": [
                 "波动",
-                "资本品进口与公共投资受限"
+                "外汇和税收随价格数量变化"
               ],
               "en": [
                 "volatility",
-                "capital-goods imports and public investment are constrained"
+                "foreign exchange and tax receipts vary with prices and volumes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "外汇",
+              "en": "foreign exchange"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "外汇",
+                "公共投资与进口融资受限"
+              ],
+              "en": [
+                "foreign exchange",
+                "public investment and import finance are constrained"
               ]
             }
           }
@@ -50178,8 +52042,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "外币债务高且本币贬值。 原创假设：政府外币债务本息不变，本币贬值后本币税收需覆盖更多偿付；债务重组可缓解但涉及债权人协调与未来融资。 借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。",
-          "en": "High foreign-currency debt and home depreciation. Hypothetical scenario: unchanged foreign-currency debt service requires more home-currency tax revenue after depreciation. Restructuring may help but involves creditor coordination and future borrowing access. Borrowing is not inherently harmful; compare returns, rates, maturity, currency and repayment capacity."
+          "zh-CN": "外币债务高且本币贬值。 融资约束限制项目；外币债务暴露汇率风险；偿债挤压健康教育预算 借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。",
+          "en": "High foreign-currency debt and home depreciation. Finance constraints restrict projects; foreign-currency debt exposes exchange risk; debt service squeezes health and education budgets Borrowing is not inherently harmful; compare returns, rates, maturity, currency and repayment capacity."
         }
       },
       {
@@ -50407,8 +52271,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "可信执行与可获得的司法。 原创假设：女性难以持有土地或取得贷款，使高回报项目无法融资；法律改革还需执行、信息和安全保障。 制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。",
-          "en": "Credible enforcement and accessible justice. Hypothetical scenario: women unable to own land or obtain credit cannot finance high-return projects. Legal reform also needs enforcement, information and safety. A single ranking cannot explain institutions; reform depends on history, implementation capacity and local participation."
+          "zh-CN": "可信执行与可获得的司法。 规则不透明增加不确定性；排斥限制人才配置；低投资与低信任阻碍发展 制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。",
+          "en": "Credible enforcement and accessible justice. Opaque rules increase uncertainty; exclusion misallocates talent; weak investment and trust obstruct development A single ranking cannot explain institutions; reform depends on history, implementation capacity and local participation."
         }
       },
       {
@@ -50636,8 +52500,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "识别主要瓶颈和互补投入。 原创假设：内陆农户同时面临差路、洪灾和无保险，仅取消营业许可费未必解决主要瓶颈；需识别互补约束。 地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。",
-          "en": "Identify binding constraints and complementary inputs. Hypothetical scenario: landlocked farmers face poor roads, floods and no insurance. Removing licence fees alone may not address binding constraints; identify complementary barriers. Geography is not destiny, and informal activity is not all illegal; formalisation should reduce costs and offer real benefits."
+          "zh-CN": "识别主要瓶颈和互补投入。 距离与风险提高交易成本；企业留在小规模非正规经营；税基与公共服务能力受限 地理不等于命运，非正规活动也不都非法；政策应降低正规化成本并提供实际收益。",
+          "en": "Identify binding constraints and complementary inputs. Distance and risk raise transaction costs; firms remain small and informal; the tax base and public-service capacity are constrained Geography is not destiny, and informal activity is not all illegal; formalisation should reduce costs and offer real benefits."
         }
       },
       {
@@ -50865,8 +52729,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "绩效条件和明确退出机制。 原创假设：关税扶持小市场汽车业可能限制规模；出口支持若要求绩效并改善物流，可保留竞争压力，但也暴露于外需波动。 两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。",
-          "en": "Performance conditions and a credible exit. Hypothetical scenario: tariff-supported car production in a small market may lack scale. Export support tied to performance and logistics can preserve competition but exposes firms to world-demand volatility. These are not mutually exclusive labels; instruments, exit rules and sector conditions matter."
+          "zh-CN": "绩效条件和明确退出机制。 选择产业与政策工具；市场与学习激励影响成本；出口收入或进口节约支持资本品需求 两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。",
+          "en": "Performance conditions and a credible exit. Choose sectors and instruments; market and learning incentives affect costs; export earnings or import savings support capital imports These are not mutually exclusive labels; instruments, exit rules and sector conditions matter."
         }
       },
       {
@@ -51094,8 +52958,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "收入来源受不同冲击影响。 原创假设：咖啡合作社增加加工和生态旅游，可能提高附加值并分散风险；若两者都依赖同一气候或游客市场，风险分散有限。 项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。",
-          "en": "Income sources exposed to different shocks. Hypothetical scenario: a coffee cooperative adds processing and ecotourism, potentially adding value and spreading risk. Diversification is limited if both remain exposed to the same climate or visitor market. More projects do not necessarily diversify risk; social intent does not guarantee operational or impact success."
+          "zh-CN": "收入来源受不同冲击影响。 开发不同市场和产品；降低高度相关的收入风险；技能和融资支持新活动 项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。",
+          "en": "Income sources exposed to different shocks. Develop different products and markets; reduce highly correlated revenue risks; skills and finance support new activities More projects do not necessarily diversify risk; social intent does not guarantee operational or impact success."
         }
       },
       {
@@ -51323,8 +53187,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "价格质量监管与问责。 原创假设：出售国有供水企业若不设置价格和质量监管，可能仅把公共垄断变为私人垄断；结果要看覆盖、质量和价格。 私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。",
-          "en": "Price-quality regulation and accountability. Hypothetical scenario: selling a public water supplier without price or quality regulation may merely create a private monopoly. Assess coverage, quality and prices. Privatisation is not synonymous with competition; one-off sale revenue does not prove lasting fiscal improvement."
+          "zh-CN": "价格质量监管与问责。 降低进入障碍；竞争与产权激励改善效率；监管处理垄断与外部性 私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。",
+          "en": "Price-quality regulation and accountability. Lower entry barriers; competition and ownership incentives improve efficiency; regulation addresses monopoly and externalities Privatisation is not synonymous with competition; one-off sale revenue does not prove lasting fiscal improvement."
         }
       },
       {
@@ -51552,8 +53416,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "学习成果、覆盖和机会成本。 原创假设：儿童现金补助配合附近有质量的学校，可能改善出勤；若学校缺师资，仅要求出勤会增加家庭负担。 政府支出不是自动有效，必须比较机会成本、漏损和受益群体。",
-          "en": "Learning outcomes, access and opportunity cost. Hypothetical scenario: child transfers combined with accessible quality schools may improve attendance. Requiring attendance where teachers are absent can burden families. Public spending is not automatically effective; assess opportunity cost, leakage and beneficiaries."
+          "zh-CN": "学习成果、覆盖和机会成本。 公共服务降低个人进入障碍；健康技能提高参与和生产率；公平与增长可能相互促进 政府支出不是自动有效，必须比较机会成本、漏损和受益群体。",
+          "en": "Learning outcomes, access and opportunity cost. Services lower individual barriers; health and skills improve participation and productivity; equity and growth may reinforce each other Public spending is not automatically effective; assess opportunity cost, leakage and beneficiaries."
         }
       },
       {
@@ -51781,8 +53645,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "员工培训与本地供应商联系。 原创假设：外资厂培训本地员工并采购本地零件，可扩散技能；若全部进口投入并获长期免税，本地净收益可能较小。 FDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。",
-          "en": "Staff training and local supplier linkages. Hypothetical scenario: training local staff and buying local parts can spread skills. Importing all inputs with prolonged tax holidays may leave smaller local net gains. FDI inflow is not current-account income; later repatriated profits normally affect primary income."
+          "zh-CN": "员工培训与本地供应商联系。 跨国企业投入资本技术；雇佣与采购产生本地联系；制度与吸收能力影响技术溢出 FDI 流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。",
+          "en": "Staff training and local supplier linkages. Multinationals bring capital and technology; hiring and procurement create local linkages; institutions and absorptive capacity shape spillovers FDI inflow is not current-account income; later repatriated profits normally affect primary income."
         }
       },
       {
@@ -52010,8 +53874,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "a",
         "explanation": {
-          "zh-CN": "本地维修能力和参与。 原创假设：灾后供水赠款能救急；若只采购捐助国昂贵设备且无本地维修培训，长期效果可能有限。NGO 也需协调和问责。 援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。",
-          "en": "Local repair capacity and participation. Hypothetical scenario: emergency water grants help after disaster, but expensive donor-country equipment without local repair training may not last. NGOs also need coordination and accountability. Aid is not all free money; loans create repayment obligations and tied procurement may raise costs."
+          "zh-CN": "本地维修能力和参与。 外部资源缓解约束；项目设计影响本地所有权；问责与评估决定持续效果 援助不都是免费资金；贷款增加偿还义务，附带采购条件可能提高成本。",
+          "en": "Local repair capacity and participation. External resources relax constraints; project design shapes local ownership; accountability and evaluation determine lasting effects Aid is not all free money; loans create repayment obligations and tied procurement may raise costs."
         }
       },
       {
@@ -52239,8 +54103,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "b",
         "explanation": {
-          "zh-CN": "释放基本服务的财政空间。 原创假设：债务减免释放卫生预算，但若治理和税基问题未变，新债仍可能累积；紧缩条件也需保护基本服务。 不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。",
-          "en": "Freeing fiscal space for essential services. Hypothetical scenario: debt relief frees health spending, but new debt can build up if governance and revenue problems remain. Fiscal conditions also need protection for essential services. The IMF, World Bank and WTO are distinct institutions; project terms and current mandates require primary-source checks."
+          "zh-CN": "释放基本服务的财政空间。 外部融资缓解短缺；条件改变政策路径；债务重组或减免影响未来支出与融资激励 不能把 IMF、世界银行和 WTO 当作同一机构；项目条款与现行职责须查原始资料。",
+          "en": "Freeing fiscal space for essential services. External finance eases shortages; conditions alter policy paths; restructuring or relief affects future spending and financing incentives The IMF, World Bank and WTO are distinct institutions; project terms and current mandates require primary-source checks."
         }
       },
       {
@@ -52468,8 +54332,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "c",
         "explanation": {
-          "zh-CN": "净收入、还款压力与实际用途。 原创假设：小额贷款配合储蓄、保险和培训可帮助经营；对无稳定现金流的家庭高息放贷可能加重负担，不能假设借款即脱贫。 数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。",
-          "en": "Net income, repayment stress and actual use. Hypothetical scenario: microcredit combined with saving, insurance and training may support enterprise. High-interest lending to households without stable cash flow can worsen burdens; borrowing does not itself establish poverty reduction. Account counts do not establish effective inclusion; fees, literacy, safety and actual use matter."
+          "zh-CN": "净收入、还款压力与实际用途。 规则与信息改善降低风险；弱势群体获得融资和机会；监督与执行维持信任 数字账户数量不等于有效金融包容；费用、识字、安全和实际使用同样关键。",
+          "en": "Net income, repayment stress and actual use. Better rules and information reduce risk; excluded groups gain finance and opportunities; oversight and enforcement maintain trust Account counts do not establish effective inclusion; fees, literacy, safety and actual use matter."
         }
       },
       {
@@ -52697,8 +54561,8 @@ export const knowledgePoints = [
         ],
         "correctOptionId": "d",
         "explanation": {
-          "zh-CN": "结合基线、可比结果与分配影响。 原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。 没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。",
-          "en": "Combine baselines, comparable outcomes and distributional effects. Hypothetical scenario: export processing needs roads, power, skills and customs coordination. Comparison groups or phased introduction help assess effects, alongside regional and gender differences. There is no single recipe for every country; spending and announcements cannot replace outcome evidence."
+          "zh-CN": "结合基线、可比结果与分配影响。 识别约束与目标；选择互补政策并明确时序；用可信结果证据修正措施 没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。",
+          "en": "Combine baselines, comparable outcomes and distributional effects. Identify constraints and goals; choose complementary policies and sequencing; revise measures using credible outcome evidence There is no single recipe for every country; spending and announcements cannot replace outcome evidence."
         }
       },
       {
@@ -52762,6 +54626,1621 @@ export const knowledgePoints = [
               "en": [
                 "evidence",
                 "revise measures using credible outcome evidence"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-57-monetary-union-evaluation",
+      "slug": "monetary-union-evaluation",
+      "section": "4.4",
+      "level": "hl",
+      "syllabusRefs": [
+        "4.4 Economic integration"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "15",
+          "section": "15.3",
+          "pages": [
+            482
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-15-wto",
+        "u4-16-trading-blocs",
+        "u4-17-common-market"
+      ],
+      "terms": [
+        "货币联盟的评价",
+        "Evaluating monetary union",
+        "共同利率",
+        "one interest rate",
+        "冲击",
+        "shocks",
+        "调整",
+        "adjustment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "共同利率",
+          "冲击",
+          "调整"
+        ],
+        "en": [
+          "one interest rate",
+          "shocks",
+          "adjustment"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-57-monetary-union-evaluation-flash-1",
+        "u4-57-monetary-union-evaluation-mcq-1",
+        "u4-57-monetary-union-evaluation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-57-monetary-union-evaluation",
+        "locale": "zh-CN",
+        "title": "货币联盟的评价",
+        "takeaway": "共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。",
+        "definition": "共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。",
+        "causalChain": [
+          "统一货币减少汇兑摩擦",
+          "共同利率难适配所有冲击",
+          "流动性与财政转移帮助调整"
+        ],
+        "misconceptions": [
+          "不能只列收益而不说明非对称冲击和自主性成本。"
+        ],
+        "examApplication": [
+          "准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+        ],
+        "summary": [
+          "共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。",
+          "不能只列收益而不说明非对称冲击和自主性成本。"
+        ],
+        "explanation": "统一货币减少汇兑摩擦。共同利率难适配所有冲击。流动性与财政转移帮助调整。\n\n### 原创情境与推导\n\n原创假设：A 过热而 B 衰退，统一利率不能同时完全适合二者；劳动力流动、工资价格弹性和财政风险分担影响代价。共同货币不自动消除信用风险。\n\n不能只列收益而不说明非对称冲击和自主性成本。\n\n准确区分一体化层次；比较贸易创造、转移、政策自主性与调整机制。"
+      },
+      "en": {
+        "id": "u4-57-monetary-union-evaluation",
+        "locale": "en",
+        "title": "Evaluating monetary union",
+        "takeaway": "A shared currency can lower transaction costs and exchange risk, while lost policy autonomy complicates asymmetric-shock adjustment. Gains depend on member structures and adjustment mechanisms.",
+        "definition": "A shared currency can lower transaction costs and exchange risk, while lost policy autonomy complicates asymmetric-shock adjustment. Gains depend on member structures and adjustment mechanisms.",
+        "causalChain": [
+          "One currency reduces conversion frictions",
+          "one interest rate may not suit all shocks",
+          "mobility and fiscal transfers aid adjustment"
+        ],
+        "misconceptions": [
+          "Do not list gains without considering asymmetric shocks and autonomy costs."
+        ],
+        "examApplication": [
+          "Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+        ],
+        "summary": [
+          "A shared currency can lower transaction costs and exchange risk, while lost policy autonomy complicates asymmetric-shock adjustment. Gains depend on member structures and adjustment mechanisms.",
+          "Do not list gains without considering asymmetric shocks and autonomy costs."
+        ],
+        "explanation": "One currency reduces conversion frictions.  one interest rate may not suit all shocks.  mobility and fiscal transfers aid adjustment.\n\n### Original scenario and reasoning\n\nHypothetical scenario: A overheats while B contracts, so one interest rate cannot perfectly suit both. Labour mobility, price-wage flexibility and fiscal risk sharing affect costs; a common currency does not eliminate credit risk.\n\nDo not list gains without considering asymmetric shocks and autonomy costs.\n\nDistinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-57-monetary-union-evaluation-flash-1",
+        "knowledgePointId": "u4-57-monetary-union-evaluation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“货币联盟的评价”，并说明一个关键条件。",
+          "en": "Explain Evaluating monetary union and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。",
+          "en": "A shared currency can lower transaction costs and exchange risk, while lost policy autonomy complicates asymmetric-shock adjustment. Gains depend on member structures and adjustment mechanisms."
+        },
+        "explanation": {
+          "zh-CN": "不能只列收益而不说明非对称冲击和自主性成本。",
+          "en": "Do not list gains without considering asymmetric shocks and autonomy costs."
+        }
+      },
+      {
+        "id": "u4-57-monetary-union-evaluation-mcq-1",
+        "knowledgePointId": "u4-57-monetary-union-evaluation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "成员遇到非对称冲击时失去哪项工具？",
+          "en": "Which instrument is lost when members face asymmetric shocks?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "独立本币贬值",
+            "en": "Independent currency depreciation"
+          },
+          {
+            "id": "b",
+            "zh-CN": "所有财政政策",
+            "en": "All fiscal policy"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有贸易",
+            "en": "All trade"
+          },
+          {
+            "id": "d",
+            "zh-CN": "所有劳动流动",
+            "en": "All labour mobility"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "独立本币贬值。 统一货币减少汇兑摩擦；共同利率难适配所有冲击；流动性与财政转移帮助调整 不能只列收益而不说明非对称冲击和自主性成本。",
+          "en": "Independent currency depreciation. One currency reduces conversion frictions; one interest rate may not suit all shocks; mobility and fiscal transfers aid adjustment Do not list gains without considering asymmetric shocks and autonomy costs."
+        }
+      },
+      {
+        "id": "u4-57-monetary-union-evaluation-short-1",
+        "knowledgePointId": "u4-57-monetary-union-evaluation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释货币联盟的评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Evaluating monetary union and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。 统一货币减少汇兑摩擦；共同利率难适配所有冲击；流动性与财政转移帮助调整 原创假设：A 过热而 B 衰退，统一利率不能同时完全适合二者；劳动力流动、工资价格弹性和财政风险分担影响代价。共同货币不自动消除信用风险。",
+          "en": "A shared currency can lower transaction costs and exchange risk, while lost policy autonomy complicates asymmetric-shock adjustment. Gains depend on member structures and adjustment mechanisms. One currency reduces conversion frictions; one interest rate may not suit all shocks; mobility and fiscal transfers aid adjustment Hypothetical scenario: A overheats while B contracts, so one interest rate cannot perfectly suit both. Labour mobility, price-wage flexibility and fiscal risk sharing affect costs; a common currency does not eliminate credit risk."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "共同利率",
+              "en": "one interest rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "共同利率",
+                "统一货币减少汇兑摩擦"
+              ],
+              "en": [
+                "one interest rate",
+                "One currency reduces conversion frictions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "冲击",
+              "en": "shocks"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "冲击",
+                "共同利率难适配所有冲击"
+              ],
+              "en": [
+                "shocks",
+                "one interest rate may not suit all shocks"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "调整",
+              "en": "adjustment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "调整",
+                "流动性与财政转移帮助调整"
+              ],
+              "en": [
+                "adjustment",
+                "mobility and fiscal transfers aid adjustment"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-58-exchange-regime-evaluation",
+      "slug": "exchange-regime-evaluation",
+      "section": "4.5",
+      "level": "hl",
+      "syllabusRefs": [
+        "4.5 Exchange rates"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "17",
+          "section": "17.2",
+          "pages": [
+            523
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-21-floating-exchange-rate",
+        "u4-22-currency-demand-supply",
+        "u4-23-exchange-rate-effects"
+      ],
+      "terms": [
+        "固定与浮动汇率的评价",
+        "Evaluating fixed and floating exchange rates",
+        "制度",
+        "regimes",
+        "储备",
+        "reserves",
+        "自主性",
+        "autonomy"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "制度",
+          "储备",
+          "自主性"
+        ],
+        "en": [
+          "regimes",
+          "reserves",
+          "autonomy"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-58-exchange-regime-evaluation-flash-1",
+        "u4-58-exchange-regime-evaluation-mcq-1",
+        "u4-58-exchange-regime-evaluation-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-58-exchange-regime-evaluation",
+        "locale": "zh-CN",
+        "title": "固定与浮动汇率的评价",
+        "takeaway": "固定汇率可减少名义汇率不确定性但需要可信政策与储备；浮动允许外部调整与较大政策自主性，却可能波动并传递进口通胀。",
+        "definition": "固定汇率可减少名义汇率不确定性但需要可信政策与储备；浮动允许外部调整与较大政策自主性，却可能波动并传递进口通胀。",
+        "causalChain": [
+          "制度改变调整渠道",
+          "固定制需捍卫平价",
+          "浮动制让汇率吸收部分冲击"
+        ],
+        "misconceptions": [
+          "没有对所有经济体都最优的汇率制度；管理浮动也不保证没有波动。"
+        ],
+        "examApplication": [
+          "先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+        ],
+        "summary": [
+          "固定汇率可减少名义汇率不确定性但需要可信政策与储备；浮动允许外部调整与较大政策自主性，却可能波动并传递进口通胀。",
+          "没有对所有经济体都最优的汇率制度；管理浮动也不保证没有波动。"
+        ],
+        "explanation": "制度改变调整渠道。固定制需捍卫平价。浮动制让汇率吸收部分冲击。\n\n### 原创情境与推导\n\n原创假设：进口依赖高的经济体可能重视汇率稳定，但自由资本流动下独立降息会给平价施压；储备、信誉和供给适应能力决定可行性。\n\n没有对所有经济体都最优的汇率制度；管理浮动也不保证没有波动。\n\n先写汇率报价与制度，再标明需求供给移动，区分价格、数量和时滞效应。"
+      },
+      "en": {
+        "id": "u4-58-exchange-regime-evaluation",
+        "locale": "en",
+        "title": "Evaluating fixed and floating exchange rates",
+        "takeaway": "Fixed rates can reduce nominal exchange uncertainty but need credible policy and reserves. Floating permits external adjustment and more policy autonomy, while risking volatility and imported inflation.",
+        "definition": "Fixed rates can reduce nominal exchange uncertainty but need credible policy and reserves. Floating permits external adjustment and more policy autonomy, while risking volatility and imported inflation.",
+        "causalChain": [
+          "Regimes alter adjustment channels",
+          "pegs need parity defence",
+          "floating lets exchange rates absorb some shocks"
+        ],
+        "misconceptions": [
+          "No regime is best for every economy; managed floating does not guarantee zero volatility."
+        ],
+        "examApplication": [
+          "State the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+        ],
+        "summary": [
+          "Fixed rates can reduce nominal exchange uncertainty but need credible policy and reserves. Floating permits external adjustment and more policy autonomy, while risking volatility and imported inflation.",
+          "No regime is best for every economy; managed floating does not guarantee zero volatility."
+        ],
+        "explanation": "Regimes alter adjustment channels.  pegs need parity defence.  floating lets exchange rates absorb some shocks.\n\n### Original scenario and reasoning\n\nHypothetical scenario: an import-dependent economy values stability, but independent rate cuts with mobile capital can pressure a peg. Reserves, credibility and supply adaptability determine feasibility.\n\nNo regime is best for every economy; managed floating does not guarantee zero volatility.\n\nState the quotation and regime first, label demand/supply shifts, and distinguish price, quantity and lag effects."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-58-exchange-regime-evaluation-flash-1",
+        "knowledgePointId": "u4-58-exchange-regime-evaluation",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“固定与浮动汇率的评价”，并说明一个关键条件。",
+          "en": "Explain Evaluating fixed and floating exchange rates and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "固定汇率可减少名义汇率不确定性但需要可信政策与储备；浮动允许外部调整与较大政策自主性，却可能波动并传递进口通胀。",
+          "en": "Fixed rates can reduce nominal exchange uncertainty but need credible policy and reserves. Floating permits external adjustment and more policy autonomy, while risking volatility and imported inflation."
+        },
+        "explanation": {
+          "zh-CN": "没有对所有经济体都最优的汇率制度；管理浮动也不保证没有波动。",
+          "en": "No regime is best for every economy; managed floating does not guarantee zero volatility."
+        }
+      },
+      {
+        "id": "u4-58-exchange-regime-evaluation-mcq-1",
+        "knowledgePointId": "u4-58-exchange-regime-evaluation",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "评价汇率制度时最合理的做法是什么？",
+          "en": "What best evaluates an exchange regime?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "只按制度名称排名",
+            "en": "Rank by regime name alone"
+          },
+          {
+            "id": "b",
+            "zh-CN": "比较开放度、储备、冲击与政策自主性",
+            "en": "Compare openness, reserves, shocks and policy autonomy"
+          },
+          {
+            "id": "c",
+            "zh-CN": "假设储备无限",
+            "en": "Assume unlimited reserves"
+          },
+          {
+            "id": "d",
+            "zh-CN": "忽略进口价格",
+            "en": "Ignore import prices"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "比较开放度、储备、冲击与政策自主性。 制度改变调整渠道；固定制需捍卫平价；浮动制让汇率吸收部分冲击 没有对所有经济体都最优的汇率制度；管理浮动也不保证没有波动。",
+          "en": "Compare openness, reserves, shocks and policy autonomy. Regimes alter adjustment channels; pegs need parity defence; floating lets exchange rates absorb some shocks No regime is best for every economy; managed floating does not guarantee zero volatility."
+        }
+      },
+      {
+        "id": "u4-58-exchange-regime-evaluation-short-1",
+        "knowledgePointId": "u4-58-exchange-regime-evaluation",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释固定与浮动汇率的评价的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Evaluating fixed and floating exchange rates and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "固定汇率可减少名义汇率不确定性但需要可信政策与储备；浮动允许外部调整与较大政策自主性，却可能波动并传递进口通胀。 制度改变调整渠道；固定制需捍卫平价；浮动制让汇率吸收部分冲击 原创假设：进口依赖高的经济体可能重视汇率稳定，但自由资本流动下独立降息会给平价施压；储备、信誉和供给适应能力决定可行性。",
+          "en": "Fixed rates can reduce nominal exchange uncertainty but need credible policy and reserves. Floating permits external adjustment and more policy autonomy, while risking volatility and imported inflation. Regimes alter adjustment channels; pegs need parity defence; floating lets exchange rates absorb some shocks Hypothetical scenario: an import-dependent economy values stability, but independent rate cuts with mobile capital can pressure a peg. Reserves, credibility and supply adaptability determine feasibility."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "制度",
+              "en": "regimes"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "制度",
+                "制度改变调整渠道"
+              ],
+              "en": [
+                "regimes",
+                "Regimes alter adjustment channels"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "储备",
+              "en": "reserves"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "储备",
+                "固定制需捍卫平价"
+              ],
+              "en": [
+                "reserves",
+                "pegs need parity defence"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "自主性",
+              "en": "autonomy"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "自主性",
+                "浮动制让汇率吸收部分冲击"
+              ],
+              "en": [
+                "autonomy",
+                "floating lets exchange rates absorb some shocks"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-59-development-composite-indices",
+      "slug": "development-composite-indices",
+      "section": "4.8",
+      "level": "core",
+      "syllabusRefs": [
+        "4.8 Measuring development"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "18",
+          "section": "18.2",
+          "pages": [
+            541
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-38-development-indicators",
+        "u4-39-hdi",
+        "u4-40-multidimensional-poverty"
+      ],
+      "terms": [
+        "GII、IHDI 与快乐星球指数",
+        "GII, IHDI and the Happy Planet Index",
+        "性别",
+        "gender",
+        "分配",
+        "distribution",
+        "环境",
+        "environment"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "性别",
+          "分配",
+          "环境"
+        ],
+        "en": [
+          "gender",
+          "distribution",
+          "environment"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-59-development-composite-indices-flash-1",
+        "u4-59-development-composite-indices-mcq-1",
+        "u4-59-development-composite-indices-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-59-development-composite-indices",
+        "locale": "zh-CN",
+        "title": "GII、IHDI 与快乐星球指数",
+        "takeaway": "GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。",
+        "definition": "GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。",
+        "causalChain": [
+          "指标选择不同维度",
+          "维度与权重决定比较含义",
+          "结合多种证据评价发展"
+        ],
+        "misconceptions": [
+          "GII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。"
+        ],
+        "examApplication": [
+          "说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+        ],
+        "summary": [
+          "GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。",
+          "GII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。"
+        ],
+        "explanation": "指标选择不同维度。维度与权重决定比较含义。结合多种证据评价发展。\n\n### 原创情境与推导\n\n原创假设：相似 HDI 的两国若收入、教育和健康的分配不同，IHDI 可不同；相似寿命与幸福评价而环境负担不同，HPI 也可不同。指标不能互换，比较须采用同一版本的方法。\n\nGII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。\n\n说明指标维度、单位、年份及均值局限，用多种证据比较而非只报排名。"
+      },
+      "en": {
+        "id": "u4-59-development-composite-indices",
+        "locale": "en",
+        "title": "GII, IHDI and the Happy Planet Index",
+        "takeaway": "GII measures gender inequality in reproductive health, empowerment and labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index assesses delivery of long lives and well-being using limited environmental resources.",
+        "definition": "GII measures gender inequality in reproductive health, empowerment and labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index assesses delivery of long lives and well-being using limited environmental resources.",
+        "causalChain": [
+          "Indices select different dimensions",
+          "dimensions and weights determine comparisons",
+          "combine evidence to assess development"
+        ],
+        "misconceptions": [
+          "GII is not simply a ratio of male and female HDI; HPI is neither HDI nor a subjective-happiness-only ranking."
+        ],
+        "examApplication": [
+          "State dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+        ],
+        "summary": [
+          "GII measures gender inequality in reproductive health, empowerment and labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index assesses delivery of long lives and well-being using limited environmental resources.",
+          "GII is not simply a ratio of male and female HDI; HPI is neither HDI nor a subjective-happiness-only ranking."
+        ],
+        "explanation": "Indices select different dimensions.  dimensions and weights determine comparisons.  combine evidence to assess development.\n\n### Original scenario and reasoning\n\nHypothetical scenario: equal HDI can coexist with different IHDI when income, health and education are distributed differently. Similar longevity and well-being with different environmental pressure can yield different HPI. Use the same methodology edition for comparisons.\n\nGII is not simply a ratio of male and female HDI; HPI is neither HDI nor a subjective-happiness-only ranking.\n\nState dimensions, units, years and average-value limits; compare using multiple indicators rather than rankings alone."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-59-development-composite-indices-flash-1",
+        "knowledgePointId": "u4-59-development-composite-indices",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“GII、IHDI 与快乐星球指数”，并说明一个关键条件。",
+          "en": "Explain GII, IHDI and the Happy Planet Index and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。",
+          "en": "GII measures gender inequality in reproductive health, empowerment and labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index assesses delivery of long lives and well-being using limited environmental resources."
+        },
+        "explanation": {
+          "zh-CN": "GII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。",
+          "en": "GII is not simply a ratio of male and female HDI; HPI is neither HDI nor a subjective-happiness-only ranking."
+        }
+      },
+      {
+        "id": "u4-59-development-composite-indices-mcq-1",
+        "knowledgePointId": "u4-59-development-composite-indices",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "哪种指标明确纳入生殖健康、赋权和劳动力市场？",
+          "en": "Which index explicitly covers reproductive health, empowerment and labour markets?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "GDP 平减指数",
+            "en": "GDP deflator"
+          },
+          {
+            "id": "b",
+            "zh-CN": "CPI",
+            "en": "CPI"
+          },
+          {
+            "id": "c",
+            "zh-CN": "GII",
+            "en": "GII"
+          },
+          {
+            "id": "d",
+            "zh-CN": "贸易条件指数",
+            "en": "Terms-of-trade index"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "GII。 指标选择不同维度；维度与权重决定比较含义；结合多种证据评价发展 GII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。",
+          "en": "GII. Indices select different dimensions; dimensions and weights determine comparisons; combine evidence to assess development GII is not simply a ratio of male and female HDI; HPI is neither HDI nor a subjective-happiness-only ranking."
+        }
+      },
+      {
+        "id": "u4-59-development-composite-indices-short-1",
+        "knowledgePointId": "u4-59-development-composite-indices",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释GII、IHDI 与快乐星球指数的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of GII, IHDI and the Happy Planet Index and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。 指标选择不同维度；维度与权重决定比较含义；结合多种证据评价发展 原创假设：相似 HDI 的两国若收入、教育和健康的分配不同，IHDI 可不同；相似寿命与幸福评价而环境负担不同，HPI 也可不同。指标不能互换，比较须采用同一版本的方法。",
+          "en": "GII measures gender inequality in reproductive health, empowerment and labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index assesses delivery of long lives and well-being using limited environmental resources. Indices select different dimensions; dimensions and weights determine comparisons; combine evidence to assess development Hypothetical scenario: equal HDI can coexist with different IHDI when income, health and education are distributed differently. Similar longevity and well-being with different environmental pressure can yield different HPI. Use the same methodology edition for comparisons."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "性别",
+              "en": "gender"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "性别",
+                "指标选择不同维度"
+              ],
+              "en": [
+                "gender",
+                "Indices select different dimensions"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "分配",
+              "en": "distribution"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "分配",
+                "维度与权重决定比较含义"
+              ],
+              "en": [
+                "distribution",
+                "dimensions and weights determine comparisons"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "环境",
+              "en": "environment"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "环境",
+                "结合多种证据评价发展"
+              ],
+              "en": [
+                "environment",
+                "combine evidence to assess development"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-60-sdg-country-comparison",
+      "slug": "sdg-country-comparison",
+      "section": "4.10",
+      "level": "core",
+      "syllabusRefs": [
+        "4.10 Economic growth and development strategies"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "20",
+          "section": "20.10",
+          "pages": [
+            636
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-48-trade-strategies",
+        "u4-49-diversification-enterprise",
+        "u4-50-market-based-development"
+      ],
+      "terms": [
+        "用两国数据评价健康发展",
+        "Evaluating health development using two countries",
+        "指标",
+        "indicator",
+        "年份",
+        "years",
+        "因果",
+        "causal"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "指标",
+          "年份",
+          "因果"
+        ],
+        "en": [
+          "indicator",
+          "years",
+          "causal"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-60-sdg-country-comparison-flash-1",
+        "u4-60-sdg-country-comparison-mcq-1",
+        "u4-60-sdg-country-comparison-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-60-sdg-country-comparison",
+        "locale": "zh-CN",
+        "realWorldExample": {
+          "title": "用两国数据评价健康发展",
+          "sourceUrl": "https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN",
+          "observedAt": "2026-10-18",
+          "explanation": "世界银行 SH.DYN.MORT 数据（2026-10-18 核验，来源为联合国儿童死亡率估计机构间小组）：每千活产五岁以下死亡率，中国 2000 年 36.6、2022 年 6.6；印度同期 91.8、29.5。两国均下降，但初始水平、降幅及末期水平不同。这与 SDG 3 儿童健康相关，不代表所有健康目标均已实现。来源：https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN 。"
+        },
+        "title": "用两国数据评价健康发展",
+        "takeaway": "比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。",
+        "definition": "比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。",
+        "causalChain": [
+          "选择相同指标与年份",
+          "比较水平和变化",
+          "结合制度与政策证据解释"
+        ],
+        "misconceptions": [
+          "每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。"
+        ],
+        "examApplication": [
+          "把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+        ],
+        "summary": [
+          "比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。",
+          "每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。"
+        ],
+        "explanation": "选择相同指标与年份。比较水平和变化。结合制度与政策证据解释。\n\n### 原创情境与推导\n\n世界银行 SH.DYN.MORT 数据（2026-10-18 核验，来源为联合国儿童死亡率估计机构间小组）：每千活产五岁以下死亡率，中国 2000 年 36.6、2022 年 6.6；印度同期 91.8、29.5。两国均下降，但初始水平、降幅及末期水平不同。这与 SDG 3 儿童健康相关，不代表所有健康目标均已实现。来源：https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN 。\n\n每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。\n\n把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。"
+      },
+      "en": {
+        "id": "u4-60-sdg-country-comparison",
+        "locale": "en",
+        "realWorldExample": {
+          "title": "Evaluating health development using two countries",
+          "sourceUrl": "https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN",
+          "observedAt": "2026-10-18",
+          "explanation": "World Bank SH.DYN.MORT data, checked 2026-10-18 and sourced from the UN Inter-agency Group for Child Mortality Estimation: under-five deaths per 1,000 live births were 36.6 in China in 2000 and 6.6 in 2022; India recorded 91.8 and 29.5. Both declined but differed in starting levels, reductions and final levels. This concerns SDG 3 child health, not achievement of all health goals. Source: https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN ."
+        },
+        "title": "Evaluating health development using two countries",
+        "takeaway": "Comparing development progress requires consistent indicator definitions, units, years and sources. Lower child mortality indicates better health outcomes but does not alone establish a policy’s causal effect.",
+        "definition": "Comparing development progress requires consistent indicator definitions, units, years and sources. Lower child mortality indicates better health outcomes but does not alone establish a policy’s causal effect.",
+        "causalChain": [
+          "Choose the same indicator and years",
+          "compare levels and changes",
+          "interpret using institutional and policy evidence"
+        ],
+        "misconceptions": [
+          "Per 1,000 live births is not a population percentage; national averages hide regional gaps and estimates can be revised."
+        ],
+        "examApplication": [
+          "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+        ],
+        "summary": [
+          "Comparing development progress requires consistent indicator definitions, units, years and sources. Lower child mortality indicates better health outcomes but does not alone establish a policy’s causal effect.",
+          "Per 1,000 live births is not a population percentage; national averages hide regional gaps and estimates can be revised."
+        ],
+        "explanation": "Choose the same indicator and years.  compare levels and changes.  interpret using institutional and policy evidence.\n\n### Original scenario and reasoning\n\nWorld Bank SH.DYN.MORT data, checked 2026-10-18 and sourced from the UN Inter-agency Group for Child Mortality Estimation: under-five deaths per 1,000 live births were 36.6 in China in 2000 and 6.6 in 2022; India recorded 91.8 and 29.5. Both declined but differed in starting levels, reductions and final levels. This concerns SDG 3 child health, not achievement of all health goals. Source: https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN .\n\nPer 1,000 live births is not a population percentage; national averages hide regional gaps and estimates can be revised.\n\nMatch policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-60-sdg-country-comparison-flash-1",
+        "knowledgePointId": "u4-60-sdg-country-comparison",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“用两国数据评价健康发展”，并说明一个关键条件。",
+          "en": "Explain Evaluating health development using two countries and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。",
+          "en": "Comparing development progress requires consistent indicator definitions, units, years and sources. Lower child mortality indicates better health outcomes but does not alone establish a policy’s causal effect."
+        },
+        "explanation": {
+          "zh-CN": "每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。",
+          "en": "Per 1,000 live births is not a population percentage; national averages hide regional gaps and estimates can be revised."
+        }
+      },
+      {
+        "id": "u4-60-sdg-country-comparison-mcq-1",
+        "knowledgePointId": "u4-60-sdg-country-comparison",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "两国儿童死亡率同时下降能单独证明什么？",
+          "en": "What does falling child mortality in both countries establish on its own?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "所有 SDG 均实现",
+            "en": "Every SDG is achieved"
+          },
+          {
+            "id": "b",
+            "zh-CN": "两国所有群体均受益相同",
+            "en": "Every group benefits equally"
+          },
+          {
+            "id": "c",
+            "zh-CN": "某一政策必是唯一原因",
+            "en": "One policy must be the sole cause"
+          },
+          {
+            "id": "d",
+            "zh-CN": "所列健康指标改善，而非某政策已被证明有效",
+            "en": "Improvement in that health indicator, not proof of a particular policy effect"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": {
+          "zh-CN": "所列健康指标改善，而非某政策已被证明有效。 选择相同指标与年份；比较水平和变化；结合制度与政策证据解释 每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。",
+          "en": "Improvement in that health indicator, not proof of a particular policy effect. Choose the same indicator and years; compare levels and changes; interpret using institutional and policy evidence Per 1,000 live births is not a population percentage; national averages hide regional gaps and estimates can be revised."
+        }
+      },
+      {
+        "id": "u4-60-sdg-country-comparison-short-1",
+        "knowledgePointId": "u4-60-sdg-country-comparison",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释用两国数据评价健康发展的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Evaluating health development using two countries and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。 选择相同指标与年份；比较水平和变化；结合制度与政策证据解释 世界银行 SH.DYN.MORT 数据（2026-10-18 核验，来源为联合国儿童死亡率估计机构间小组）：每千活产五岁以下死亡率，中国 2000 年 36.6、2022 年 6.6；印度同期 91.8、29.5。两国均下降，但初始水平、降幅及末期水平不同。这与 SDG 3 儿童健康相关，不代表所有健康目标均已实现。来源：https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN 。",
+          "en": "Comparing development progress requires consistent indicator definitions, units, years and sources. Lower child mortality indicates better health outcomes but does not alone establish a policy’s causal effect. Choose the same indicator and years; compare levels and changes; interpret using institutional and policy evidence World Bank SH.DYN.MORT data, checked 2026-10-18 and sourced from the UN Inter-agency Group for Child Mortality Estimation: under-five deaths per 1,000 live births were 36.6 in China in 2000 and 6.6 in 2022; India recorded 91.8 and 29.5. Both declined but differed in starting levels, reductions and final levels. This concerns SDG 3 child health, not achievement of all health goals. Source: https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN ."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "指标",
+              "en": "indicator"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "指标",
+                "选择相同指标与年份"
+              ],
+              "en": [
+                "indicator",
+                "Choose the same indicator and years"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "年份",
+              "en": "years"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "年份",
+                "比较水平和变化"
+              ],
+              "en": [
+                "years",
+                "compare levels and changes"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "因果",
+              "en": "causal"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "因果",
+                "结合制度与政策证据解释"
+              ],
+              "en": [
+                "causal",
+                "interpret using institutional and policy evidence"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-61-current-account-surplus",
+      "slug": "current-account-surplus",
+      "section": "4.6",
+      "level": "hl",
+      "syllabusRefs": [
+        "4.6 Balance of payments"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "17",
+          "section": "17.4",
+          "pages": [
+            530
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-28-current-account",
+        "u4-29-capital-financial-account",
+        "u4-30-bop-identity"
+      ],
+      "terms": [
+        "持续经常账户顺差的影响",
+        "Implications of persistent current-account surpluses",
+        "顺差",
+        "surplus",
+        "内需",
+        "domestic demand",
+        "汇率",
+        "exchange rate"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "顺差",
+          "内需",
+          "汇率"
+        ],
+        "en": [
+          "surplus",
+          "domestic demand",
+          "exchange rate"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-61-current-account-surplus-flash-1",
+        "u4-61-current-account-surplus-mcq-1",
+        "u4-61-current-account-surplus-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-61-current-account-surplus",
+        "locale": "zh-CN",
+        "title": "持续经常账户顺差的影响",
+        "takeaway": "经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。",
+        "definition": "经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。",
+        "causalChain": [
+          "国外净需求支持本国产出",
+          "资金与储备流形成对应",
+          "汇率和内需调整改变未来顺差"
+        ],
+        "misconceptions": [
+          "顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。",
+          "顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。"
+        ],
+        "explanation": "国外净需求支持本国产出。资金与储备流形成对应。汇率和内需调整改变未来顺差。\n\n### 原创情境与推导\n\n原创假设：出口需求旺盛可提高就业并推动浮动本币升值，削弱价格竞争力；另一国顺差却可能来自衰退中的进口下降。政府积累外汇储备可改变升值路径。\n\n顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-61-current-account-surplus",
+        "locale": "en",
+        "title": "Implications of persistent current-account surpluses",
+        "takeaway": "A current-account surplus may accompany foreign-asset accumulation, strong exports or weak domestic spending. Employment, exchange-rate and inflation effects depend on capacity, regimes and capital flows.",
+        "definition": "A current-account surplus may accompany foreign-asset accumulation, strong exports or weak domestic spending. Employment, exchange-rate and inflation effects depend on capacity, regimes and capital flows.",
+        "causalChain": [
+          "Net foreign demand supports home output",
+          "financial and reserve flows form counterparts",
+          "currency and domestic-demand adjustment affect future surpluses"
+        ],
+        "misconceptions": [
+          "A surplus is not automatically optimal and does not guarantee appreciation; financial flows and intervention matter."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "A current-account surplus may accompany foreign-asset accumulation, strong exports or weak domestic spending. Employment, exchange-rate and inflation effects depend on capacity, regimes and capital flows.",
+          "A surplus is not automatically optimal and does not guarantee appreciation; financial flows and intervention matter."
+        ],
+        "explanation": "Net foreign demand supports home output.  financial and reserve flows form counterparts.  currency and domestic-demand adjustment affect future surpluses.\n\n### Original scenario and reasoning\n\nHypothetical scenario: strong exports may support employment and appreciate a floating currency, weakening price competitiveness. Another economy’s surplus may instead reflect recession-driven import compression. Reserve accumulation can alter appreciation.\n\nA surplus is not automatically optimal and does not guarantee appreciation; financial flows and intervention matter.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-61-current-account-surplus-flash-1",
+        "knowledgePointId": "u4-61-current-account-surplus",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“持续经常账户顺差的影响”，并说明一个关键条件。",
+          "en": "Explain Implications of persistent current-account surpluses and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。",
+          "en": "A current-account surplus may accompany foreign-asset accumulation, strong exports or weak domestic spending. Employment, exchange-rate and inflation effects depend on capacity, regimes and capital flows."
+        },
+        "explanation": {
+          "zh-CN": "顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。",
+          "en": "A surplus is not automatically optimal and does not guarantee appreciation; financial flows and intervention matter."
+        }
+      },
+      {
+        "id": "u4-61-current-account-surplus-mcq-1",
+        "knowledgePointId": "u4-61-current-account-surplus",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "为何顺差不能自动视为发展成功？",
+          "en": "Why is a surplus not automatically development success?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "它可能反映内需和进口低迷",
+            "en": "It may reflect weak domestic demand and imports"
+          },
+          {
+            "id": "b",
+            "zh-CN": "顺差永不与出口有关",
+            "en": "Surpluses never relate to exports"
+          },
+          {
+            "id": "c",
+            "zh-CN": "所有顺差都导致失业为零",
+            "en": "Every surplus means zero unemployment"
+          },
+          {
+            "id": "d",
+            "zh-CN": "顺差必说明没有储蓄",
+            "en": "A surplus means no saving"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": {
+          "zh-CN": "它可能反映内需和进口低迷。 国外净需求支持本国产出；资金与储备流形成对应；汇率和内需调整改变未来顺差 顺差不自动等于最优，也不保证本币一定升值；需考虑金融流与干预。",
+          "en": "It may reflect weak domestic demand and imports. Net foreign demand supports home output; financial and reserve flows form counterparts; currency and domestic-demand adjustment affect future surpluses A surplus is not automatically optimal and does not guarantee appreciation; financial flows and intervention matter."
+        }
+      },
+      {
+        "id": "u4-61-current-account-surplus-short-1",
+        "knowledgePointId": "u4-61-current-account-surplus",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释持续经常账户顺差的影响的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Implications of persistent current-account surpluses and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "经常账户顺差可能伴随对外资产积累、强出口或国内支出不足；其就业、汇率和通胀影响依赖产能、制度与资本流。 国外净需求支持本国产出；资金与储备流形成对应；汇率和内需调整改变未来顺差 原创假设：出口需求旺盛可提高就业并推动浮动本币升值，削弱价格竞争力；另一国顺差却可能来自衰退中的进口下降。政府积累外汇储备可改变升值路径。",
+          "en": "A current-account surplus may accompany foreign-asset accumulation, strong exports or weak domestic spending. Employment, exchange-rate and inflation effects depend on capacity, regimes and capital flows. Net foreign demand supports home output; financial and reserve flows form counterparts; currency and domestic-demand adjustment affect future surpluses Hypothetical scenario: strong exports may support employment and appreciate a floating currency, weakening price competitiveness. Another economy’s surplus may instead reflect recession-driven import compression. Reserve accumulation can alter appreciation."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "顺差",
+              "en": "surplus"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "顺差",
+                "国外净需求支持本国产出"
+              ],
+              "en": [
+                "surplus",
+                "Net foreign demand supports home output"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "内需",
+              "en": "domestic demand"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "内需",
+                "资金与储备流形成对应"
+              ],
+              "en": [
+                "domestic demand",
+                "financial and reserve flows form counterparts"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "汇率",
+              "en": "exchange rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "汇率",
+                "汇率和内需调整改变未来顺差"
+              ],
+              "en": [
+                "exchange rate",
+                "currency and domestic-demand adjustment affect future surpluses"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-62-external-accounts-exchange-rate",
+      "slug": "external-accounts-exchange-rate",
+      "section": "4.6",
+      "level": "hl",
+      "syllabusRefs": [
+        "4.6 Balance of payments"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "17",
+          "section": "17.1",
+          "pages": [
+            520
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-28-current-account",
+        "u4-29-capital-financial-account",
+        "u4-30-bop-identity"
+      ],
+      "terms": [
+        "外部账户与汇率的联系",
+        "External accounts and exchange rates",
+        "经常账户",
+        "current account",
+        "金融流",
+        "financial flows",
+        "汇率",
+        "exchange rate"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "经常账户",
+          "金融流",
+          "汇率"
+        ],
+        "en": [
+          "current account",
+          "financial flows",
+          "exchange rate"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-62-external-accounts-exchange-rate-flash-1",
+        "u4-62-external-accounts-exchange-rate-mcq-1",
+        "u4-62-external-accounts-exchange-rate-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-62-external-accounts-exchange-rate",
+        "locale": "zh-CN",
+        "title": "外部账户与汇率的联系",
+        "takeaway": "出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。",
+        "definition": "出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。",
+        "causalChain": [
+          "交易形成货币买卖",
+          "经常和金融流共同作用",
+          "汇率调整又影响贸易与资产回报"
+        ],
+        "misconceptions": [
+          "会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。"
+        ],
+        "examApplication": [
+          "声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+        ],
+        "summary": [
+          "出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。",
+          "会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。"
+        ],
+        "explanation": "交易形成货币买卖。经常和金融流共同作用。汇率调整又影响贸易与资产回报。\n\n### 原创情境与推导\n\n原创假设：经常账户逆差造成的本币卖压可被外国资产购买形成的资本流入抵消，因此不一定贬值；在固定汇率下，储备操作也会改变结果。\n\n会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。\n\n声明金融账户符号和储备处理；区分贸易余额与经常账户、会计恒等式与经济因果。"
+      },
+      "en": {
+        "id": "u4-62-external-accounts-exchange-rate",
+        "locale": "en",
+        "title": "External accounts and exchange rates",
+        "takeaway": "Export receipts and demand for home assets can raise currency demand, while imports and foreign-asset purchases can raise its supply. Flows across accounts jointly affect exchange rates, with causation also running in reverse.",
+        "definition": "Export receipts and demand for home assets can raise currency demand, while imports and foreign-asset purchases can raise its supply. Flows across accounts jointly affect exchange rates, with causation also running in reverse.",
+        "causalChain": [
+          "Transactions generate currency purchases and sales",
+          "current and financial flows interact",
+          "exchange changes affect trade and asset returns in turn"
+        ],
+        "misconceptions": [
+          "An accounting identity does not prove a trade deficit alone determines the exchange rate; specify timing and other conditions."
+        ],
+        "examApplication": [
+          "Declare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+        ],
+        "summary": [
+          "Export receipts and demand for home assets can raise currency demand, while imports and foreign-asset purchases can raise its supply. Flows across accounts jointly affect exchange rates, with causation also running in reverse.",
+          "An accounting identity does not prove a trade deficit alone determines the exchange rate; specify timing and other conditions."
+        ],
+        "explanation": "Transactions generate currency purchases and sales.  current and financial flows interact.  exchange changes affect trade and asset returns in turn.\n\n### Original scenario and reasoning\n\nHypothetical scenario: currency selling associated with a current deficit can be offset by foreign purchases of home assets. Depreciation need not follow; reserve transactions also matter under a peg.\n\nAn accounting identity does not prove a trade deficit alone determines the exchange rate; specify timing and other conditions.\n\nDeclare the financial-account sign and reserve treatment; distinguish trade from current balances and accounting identities from economic causation."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-62-external-accounts-exchange-rate-flash-1",
+        "knowledgePointId": "u4-62-external-accounts-exchange-rate",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“外部账户与汇率的联系”，并说明一个关键条件。",
+          "en": "Explain External accounts and exchange rates and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。",
+          "en": "Export receipts and demand for home assets can raise currency demand, while imports and foreign-asset purchases can raise its supply. Flows across accounts jointly affect exchange rates, with causation also running in reverse."
+        },
+        "explanation": {
+          "zh-CN": "会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。",
+          "en": "An accounting identity does not prove a trade deficit alone determines the exchange rate; specify timing and other conditions."
+        }
+      },
+      {
+        "id": "u4-62-external-accounts-exchange-rate-mcq-1",
+        "knowledgePointId": "u4-62-external-accounts-exchange-rate",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "逆差同时出现大量金融流入，能断言本币必贬值吗？",
+          "en": "With a deficit and large financial inflows, must home currency depreciate?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "能，其他资金流无影响",
+            "en": "Yes; other flows have no effect"
+          },
+          {
+            "id": "b",
+            "zh-CN": "不能，汇率取决于合并的供需与制度",
+            "en": "No; combined demand, supply and the regime matter"
+          },
+          {
+            "id": "c",
+            "zh-CN": "能，储备不可能变化",
+            "en": "Yes; reserves cannot change"
+          },
+          {
+            "id": "d",
+            "zh-CN": "能，因为金融账户不是交易",
+            "en": "Yes; the financial account records no transactions"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "zh-CN": "不能，汇率取决于合并的供需与制度。 交易形成货币买卖；经常和金融流共同作用；汇率调整又影响贸易与资产回报 会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。",
+          "en": "No; combined demand, supply and the regime matter. Transactions generate currency purchases and sales; current and financial flows interact; exchange changes affect trade and asset returns in turn An accounting identity does not prove a trade deficit alone determines the exchange rate; specify timing and other conditions."
+        }
+      },
+      {
+        "id": "u4-62-external-accounts-exchange-rate-short-1",
+        "knowledgePointId": "u4-62-external-accounts-exchange-rate",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释外部账户与汇率的联系的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of External accounts and exchange rates and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。 交易形成货币买卖；经常和金融流共同作用；汇率调整又影响贸易与资产回报 原创假设：经常账户逆差造成的本币卖压可被外国资产购买形成的资本流入抵消，因此不一定贬值；在固定汇率下，储备操作也会改变结果。",
+          "en": "Export receipts and demand for home assets can raise currency demand, while imports and foreign-asset purchases can raise its supply. Flows across accounts jointly affect exchange rates, with causation also running in reverse. Transactions generate currency purchases and sales; current and financial flows interact; exchange changes affect trade and asset returns in turn Hypothetical scenario: currency selling associated with a current deficit can be offset by foreign purchases of home assets. Depreciation need not follow; reserve transactions also matter under a peg."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "经常账户",
+              "en": "current account"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "经常账户",
+                "交易形成货币买卖"
+              ],
+              "en": [
+                "current account",
+                "Transactions generate currency purchases and sales"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "金融流",
+              "en": "financial flows"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "金融流",
+                "经常和金融流共同作用"
+              ],
+              "en": [
+                "financial flows",
+                "current and financial flows interact"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "汇率",
+              "en": "exchange rate"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "汇率",
+                "汇率调整又影响贸易与资产回报"
+              ],
+              "en": [
+                "exchange rate",
+                "exchange changes affect trade and asset returns in turn"
+              ]
+            }
+          }
+        ],
+        "explanation": {
+          "zh-CN": "关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。",
+          "en": "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."
+        }
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "u4-63-terms-of-trade-enrichment",
+      "slug": "terms-of-trade-enrichment",
+      "section": "4.9",
+      "level": "extension",
+      "syllabusRefs": [
+        "4.9 Barriers to economic growth and development"
+      ],
+      "textbookRefs": [
+        {
+          "chapter": "19",
+          "section": "19.2",
+          "pages": [
+            566
+          ]
+        }
+      ],
+      "prerequisites": [
+        "u1-14-opportunity-cost"
+      ],
+      "related": [
+        "u4-42-poverty-cycle",
+        "u4-43-human-capital-infrastructure",
+        "u4-44-primary-dependence"
+      ],
+      "terms": [
+        "贸易条件指数（扩展）",
+        "Terms-of-trade index (enrichment)",
+        "出口价格",
+        "export prices",
+        "进口价格",
+        "import prices",
+        "指数",
+        "index"
+      ],
+      "synonyms": {
+        "zh-CN": [
+          "出口价格",
+          "进口价格",
+          "指数"
+        ],
+        "en": [
+          "export prices",
+          "import prices",
+          "index"
+        ]
+      },
+      "diagramIds": [],
+      "quizIds": [
+        "u4-63-terms-of-trade-enrichment-flash-1",
+        "u4-63-terms-of-trade-enrichment-mcq-1",
+        "u4-63-terms-of-trade-enrichment-short-1"
+      ]
+    },
+    "content": {
+      "zh-CN": {
+        "id": "u4-63-terms-of-trade-enrichment",
+        "locale": "zh-CN",
+        "title": "贸易条件指数（扩展）",
+        "takeaway": "贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。",
+        "definition": "贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。",
+        "causalChain": [
+          "比较出口与进口价格",
+          "计算同基期指数之比",
+          "用数量与成本补充解释收入"
+        ],
+        "misconceptions": [
+          "不要把贸易条件指数当汇率或出口额除进口额。"
+        ],
+        "examApplication": [
+          "解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+        ],
+        "summary": [
+          "贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。",
+          "不要把贸易条件指数当汇率或出口额除进口额。"
+        ],
+        "explanation": "比较出口与进口价格。计算同基期指数之比。用数量与成本补充解释收入。\n\n### 原创情境与推导\n\n原创假设：出口价指数 90、进口价指数 120，贸易条件为 75；这不是贸易余额 −25，也不单独决定出口总收入。\n\n不要把贸易条件指数当汇率或出口额除进口额。\n\n解释障碍如何相互强化，识别主要约束，避免对国家或群体作决定论推断。"
+      },
+      "en": {
+        "id": "u4-63-terms-of-trade-enrichment",
+        "locale": "en",
+        "title": "Terms-of-trade index (enrichment)",
+        "takeaway": "The terms-of-trade index is the export price index divided by the import price index times 100, describing relative export purchasing power. This card is enrichment, not labelled a required calculation in this syllabus.",
+        "definition": "The terms-of-trade index is the export price index divided by the import price index times 100, describing relative export purchasing power. This card is enrichment, not labelled a required calculation in this syllabus.",
+        "causalChain": [
+          "Compare export and import prices",
+          "divide indices with the same base",
+          "add quantities and costs to explain receipts"
+        ],
+        "misconceptions": [
+          "Do not confuse terms of trade with an exchange rate or exports divided by imports."
+        ],
+        "examApplication": [
+          "Explain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+        ],
+        "summary": [
+          "The terms-of-trade index is the export price index divided by the import price index times 100, describing relative export purchasing power. This card is enrichment, not labelled a required calculation in this syllabus.",
+          "Do not confuse terms of trade with an exchange rate or exports divided by imports."
+        ],
+        "explanation": "Compare export and import prices.  divide indices with the same base.  add quantities and costs to explain receipts.\n\n### Original scenario and reasoning\n\nHypothetical scenario: export price index ninety and import price index 120 give terms of trade 75. This is not a trade balance of −25 and does not alone determine export receipts.\n\nDo not confuse terms of trade with an exchange rate or exports divided by imports.\n\nExplain reinforcing barriers, identify binding constraints and avoid deterministic claims about countries or groups."
+      }
+    },
+    "practice": [
+      {
+        "id": "u4-63-terms-of-trade-enrichment-flash-1",
+        "knowledgePointId": "u4-63-terms-of-trade-enrichment",
+        "type": "flashcard",
+        "prompt": {
+          "zh-CN": "解释“贸易条件指数（扩展）”，并说明一个关键条件。",
+          "en": "Explain Terms-of-trade index (enrichment) and state one important condition."
+        },
+        "answer": {
+          "zh-CN": "贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。",
+          "en": "The terms-of-trade index is the export price index divided by the import price index times 100, describing relative export purchasing power. This card is enrichment, not labelled a required calculation in this syllabus."
+        },
+        "explanation": {
+          "zh-CN": "不要把贸易条件指数当汇率或出口额除进口额。",
+          "en": "Do not confuse terms of trade with an exchange rate or exports divided by imports."
+        }
+      },
+      {
+        "id": "u4-63-terms-of-trade-enrichment-mcq-1",
+        "knowledgePointId": "u4-63-terms-of-trade-enrichment",
+        "type": "mcq",
+        "prompt": {
+          "zh-CN": "出口价指数 110、进口价指数 100，贸易条件多少？",
+          "en": "Export price index 110 and import price index 100 give what terms of trade?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "zh-CN": "90.9",
+            "en": "90.9"
+          },
+          {
+            "id": "b",
+            "zh-CN": "10",
+            "en": "10"
+          },
+          {
+            "id": "c",
+            "zh-CN": "110",
+            "en": "110"
+          },
+          {
+            "id": "d",
+            "zh-CN": "210",
+            "en": "210"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "zh-CN": "110。 110 / 100 × 100 = 110 不要把贸易条件指数当汇率或出口额除进口额。",
+          "en": "110. 110 / 100 × 100 = 110 Do not confuse terms of trade with an exchange rate or exports divided by imports."
+        }
+      },
+      {
+        "id": "u4-63-terms-of-trade-enrichment-short-1",
+        "knowledgePointId": "u4-63-terms-of-trade-enrichment",
+        "type": "short-answer",
+        "prompt": {
+          "zh-CN": "解释贸易条件指数（扩展）的机制，并用一个自己设计的情境说明其含义。",
+          "en": "Explain the mechanism of Terms-of-trade index (enrichment) and apply it to an example of your own."
+        },
+        "modelAnswer": {
+          "zh-CN": "贸易条件指数为出口价格指数除以进口价格指数再乘 100，描述一单位出口交换进口的相对价格；本卡作为扩展，不标作本考纲必修计算。 比较出口与进口价格；计算同基期指数之比；用数量与成本补充解释收入 原创假设：出口价指数 90、进口价指数 120，贸易条件为 75；这不是贸易余额 −25，也不单独决定出口总收入。",
+          "en": "The terms-of-trade index is the export price index divided by the import price index times 100, describing relative export purchasing power. This card is enrichment, not labelled a required calculation in this syllabus. Compare export and import prices; divide indices with the same base; add quantities and costs to explain receipts Hypothetical scenario: export price index ninety and import price index 120 give terms of trade 75. This is not a trade balance of −25 and does not alone determine export receipts."
+        },
+        "keywordGroups": [
+          {
+            "id": "mechanism-1",
+            "label": {
+              "zh-CN": "出口价格",
+              "en": "export prices"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "出口价格",
+                "比较出口与进口价格"
+              ],
+              "en": [
+                "export prices",
+                "Compare export and import prices"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-2",
+            "label": {
+              "zh-CN": "进口价格",
+              "en": "import prices"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "进口价格",
+                "计算同基期指数之比"
+              ],
+              "en": [
+                "import prices",
+                "divide indices with the same base"
+              ]
+            }
+          },
+          {
+            "id": "mechanism-3",
+            "label": {
+              "zh-CN": "指数",
+              "en": "index"
+            },
+            "alternatives": {
+              "zh-CN": [
+                "指数",
+                "用数量与成本补充解释收入"
+              ],
+              "en": [
+                "index",
+                "add quantities and costs to explain receipts"
               ]
             }
           }

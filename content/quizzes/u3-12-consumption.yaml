@@ -35,13 +35,11 @@
       en: Shifts left
   correctOptionId: d
   explanation:
-    zh-CN: 左移。 原创例：减税增加可支配收入，但若家庭担心失业并把新增收入储蓄，消费增加较少。要区分减税金额和实际额外消费，不能假定每一元收入都被花出。
-      收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。
-    en: "Shifts left. Illustrative example: a tax cut raises disposable income, but
-      households fearing job loss may save the increase. Distinguish the tax
-      reduction from additional consumption rather than assuming every extra
-      unit of income is spent. Consumption changes from higher income differ
-      from movements along AD caused by a price-level change."
+    zh-CN: 左移。 可支配收入或信心改变；家庭计划消费改变；消费占比使总需求随之移动 收入提高引起消费变化与总体价格水平变化引起沿 AD 移动不是同一过程。
+    en: Shifts left. Disposable income or confidence changes; households alter
+      planned consumption; its expenditure share shifts aggregate demand
+      Consumption changes from higher income differ from movements along AD
+      caused by a price-level change.
 - id: u3-12-consumption-short-1
   knowledgePointId: u3-12-consumption
   type: short-answer

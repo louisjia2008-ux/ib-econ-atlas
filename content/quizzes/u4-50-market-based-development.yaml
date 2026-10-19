@@ -34,13 +34,12 @@
       en: Only compare sale-day revenue
   correctOptionId: b
   explanation:
-    zh-CN: 价格质量监管与问责。 原创假设：出售国有供水企业若不设置价格和质量监管，可能仅把公共垄断变为私人垄断；结果要看覆盖、质量和价格。
-      私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。
-    en: "Price-quality regulation and accountability. Hypothetical scenario: selling
-      a public water supplier without price or quality regulation may merely
-      create a private monopoly. Assess coverage, quality and prices.
-      Privatisation is not synonymous with competition; one-off sale revenue
-      does not prove lasting fiscal improvement."
+    zh-CN: 价格质量监管与问责。 降低进入障碍；竞争与产权激励改善效率；监管处理垄断与外部性 私有化不是竞争的同义词；一次出售收入也不是持续财政改善的充分证据。
+    en: Price-quality regulation and accountability. Lower entry barriers;
+      competition and ownership incentives improve efficiency; regulation
+      addresses monopoly and externalities Privatisation is not synonymous with
+      competition; one-off sale revenue does not prove lasting fiscal
+      improvement.
 - id: u4-50-market-based-development-short-1
   knowledgePointId: u4-50-market-based-development
   type: short-answer

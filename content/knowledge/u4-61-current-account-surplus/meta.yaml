@@ -1,0 +1,40 @@
+id: u4-61-current-account-surplus
+slug: current-account-surplus
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.4"
+    pages:
+      - 530
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - 持续经常账户顺差的影响
+  - Implications of persistent current-account surpluses
+  - 顺差
+  - surplus
+  - 内需
+  - domestic demand
+  - 汇率
+  - exchange rate
+synonyms:
+  zh-CN:
+    - 顺差
+    - 内需
+    - 汇率
+  en:
+    - surplus
+    - domestic demand
+    - exchange rate
+diagramIds: []
+quizIds:
+  - u4-61-current-account-surplus-flash-1
+  - u4-61-current-account-surplus-mcq-1
+  - u4-61-current-account-surplus-short-1

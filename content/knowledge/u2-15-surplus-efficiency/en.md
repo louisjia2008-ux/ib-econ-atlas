@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: willingness to pay is 15, price is ten and
+  marginal cost is seven. Consumer surplus is five, producer surplus three and
+  total surplus eight. An external pollution cost of four would make private
+  surplus an incomplete welfare measure."
 title: Surplus and allocative efficiency
 takeaway: Consumer surplus is willingness to pay above the price paid; producer
   surplus is price received above marginal supply cost. Competitive equilibrium
@@ -28,7 +32,7 @@ Demand represents marginal benefit and supply marginal cost.  units whose benefi
 
 ### Original scenario and reasoning
 
-Illustrative example: willingness to pay is 15, price is ten and marginal cost is seven. Consumer surplus is five, producer surplus three and total surplus eight. An external pollution cost of four would make private surplus an incomplete welfare measure.
+Illustrative example: in a competitive market without externalities and with adequate information, willingness to pay above price creates consumer surplus and price above marginal cost creates producer surplus. Fixed costs distinguish producer surplus from profit. Diagram-area calculations are HL.
 
 Producer surplus is not identical to profit because fixed costs have not generally been deducted.
 

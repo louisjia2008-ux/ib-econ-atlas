@@ -34,13 +34,11 @@
       en: Zero demand
   correctOptionId: c
   explanation:
-    zh-CN: 均衡。 原创例：价格 8 元时买方想买 60 个、卖方想卖 60
-      个，这是一组均衡。均衡是模型的比较基准，现实调整可能因合约、库存或信息延迟而缓慢。 均衡不意味着所有需要都被满足，也不意味着社会最优。
-    en: "Equilibrium. Illustrative example: at a price of 8 buyers demand 60 units
-      and sellers supply 60. This is an equilibrium pair. Equilibrium is a
-      comparison benchmark; contracts, inventories and information delays can
-      slow actual adjustment. Equilibrium does not mean all needs are met or
-      that the outcome is socially optimal."
+    zh-CN: 均衡。 买卖双方在相同价格作出计划；需求量等于供给量；市场出清但不保证结果公平 均衡不意味着所有需要都被满足，也不意味着社会最优。
+    en: Equilibrium. Buyers and sellers plan at a common price; quantities demanded
+      and supplied coincide; the market clears without guaranteeing equity
+      Equilibrium does not mean all needs are met or that the outcome is
+      socially optimal.
 - id: u2-11-equilibrium-short-1
   knowledgePointId: u2-11-equilibrium
   type: short-answer

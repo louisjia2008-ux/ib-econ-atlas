@@ -32,12 +32,9 @@
       en: "6"
   correctOptionId: d
   explanation:
-    zh-CN: 6。 原创例：Q=10、TFC=40、TVC=60，则 TC=100、ATC=10、AVC=6、AFC=4。增加一单位的 MC 若为 8，新的
-      ATC=(100+8)/11≈9.82。MC 不是 TC/Q。 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。
-    en: "6. Illustrative example: Q=10, TFC=40 and TVC=60 give TC=100, ATC=10, AVC=6
-      and AFC=4. If the next unit's MC is eight, new ATC=(100+8)/11≈9.82. MC is
-      not TC/Q. Higher fixed cost raises ATC but does not directly shift MC or
-      AVC."
+    zh-CN: 6。 ATC = 120 / 20 = 6 固定成本增加抬高 ATC，但不直接移动 MC 与 AVC。
+    en: 6. ATC = 120 / 20 = 6 Higher fixed cost raises ATC but does not directly
+      shift MC or AVC.
 - id: u2-48-cost-curves-short-1
   knowledgePointId: u2-48-cost-curves
   type: short-answer

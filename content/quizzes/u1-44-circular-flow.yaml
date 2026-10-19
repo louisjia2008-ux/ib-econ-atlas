@@ -1,0 +1,109 @@
+- id: u1-44-circular-flow-flash-1
+  knowledgePointId: u1-44-circular-flow
+  type: flashcard
+  prompt:
+    zh-CN: 不看笔记，用自己的话解释“收入循环、漏出与注入”。
+    en: Without notes, explain “Circular flow, leakages and injections” in your own
+      words.
+  answer:
+    zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+    en: The circular flow links income, spending and production among households,
+      firms, finance, government and the foreign sector. Real and monetary flows
+      normally run in opposite directions.
+  explanation:
+    zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+    en: The circular flow links income, spending and production among households,
+      firms, finance, government and the foreign sector. Real and monetary flows
+      normally run in opposite directions.
+- id: u1-44-circular-flow-mcq-1
+  knowledgePointId: u1-44-circular-flow
+  type: mcq
+  prompt:
+    zh-CN: 下列哪一项最准确地概括“收入循环、漏出与注入”？
+    en: Which statement best captures “Circular flow, leakages and injections”?
+  options:
+    - id: a
+      zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+      en: The circular flow links income, spending and production among households,
+        firms, finance, government and the foreign sector. Real and monetary
+        flows normally run in opposite directions.
+    - id: b
+      zh-CN: 储蓄、税收、进口都是注入
+      en: Saving, taxes and imports are all injections
+    - id: c
+      zh-CN: 实际流量与货币流量是完全相同的东西
+      en: Real and money flows are identical
+    - id: d
+      zh-CN: 五部门模型不包含家庭
+      en: The five-sector model excludes households
+  correctOptionId: a
+  explanation:
+    zh-CN: 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+    en: The circular flow links income, spending and production among households,
+      firms, finance, government and the foreign sector. Real and monetary flows
+      normally run in opposite directions.
+- id: u1-44-circular-flow-short-1
+  knowledgePointId: u1-44-circular-flow
+  type: short-answer
+  prompt:
+    zh-CN: 简要解释“收入循环、漏出与注入”，并写出一条因果机制和一个重要含义。
+    en: Briefly explain “Circular flow, leakages and injections”, including one
+      causal mechanism and one important implication.
+  modelAnswer:
+    zh-CN: 收入循环、漏出与注入：收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+      家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入
+      收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+    en: "Circular flow, leakages and injections: The circular flow links income,
+      spending and production among households, firms, finance, government and
+      the foreign sector. Real and monetary flows normally run in opposite
+      directions. Households supply factors and receive income; income funds
+      consumption or leakages; injections support firms' sales and the next
+      round of income The circular flow links income, spending and production
+      among households, firms, finance, government and the foreign sector. Real
+      and monetary flows normally run in opposite directions."
+  keywordGroups:
+    - id: concept
+      label:
+        zh-CN: 核心概念
+        en: Core concept
+      alternatives:
+        zh-CN:
+          - 收入循环、漏出与注入
+          - 收入循环
+          - 漏出
+          - 注入
+        en:
+          - Circular flow, leakages and injections
+          - circular flow
+          - leakages
+          - injections
+    - id: mechanism
+      label:
+        zh-CN: 因果机制
+        en: Causal mechanism
+      alternatives:
+        zh-CN:
+          - 家庭提供生产要素获得收入
+          - 收入用于消费或漏出
+        en:
+          - Households supply factors and receive income
+          - income funds consumption or leakages
+    - id: implication
+      label:
+        zh-CN: 重要含义
+        en: Important implication
+      alternatives:
+        zh-CN:
+          - 收入循环描述家庭、企业、金融部门、政府和国外之间的收入、支出与生产联系；实际流量与货币流量方向通常相反。
+          - 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。
+        en:
+          - The circular flow links income, spending and production among
+            households, firms, finance, government and the foreign sector. Real
+            and monetary flows normally run in opposite directions.
+          - Saving is not money that vanishes; finance can channel funds into
+            investment without making planned saving and investment
+            automatically identical.
+  explanation:
+    zh-CN: 系统按核心概念、因果机制和重要含义三个关键词组计算覆盖率；你可以查看依据并手动修正最终判定。
+    en: Coverage is calculated across the core concept, causal mechanism, and
+      implication groups; you can inspect and override the final judgement.

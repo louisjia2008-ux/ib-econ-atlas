@@ -34,13 +34,11 @@
       en: Shift supply right
   correctOptionId: a
   explanation:
-    zh-CN: 沿需求曲线向右下移动。 原创例：咖啡从每杯 6 元降到 4 元，某人每周从买 2 杯变为 4
-      杯。这是需求量增加。若收入和偏好没有变，不能把它画成需求曲线右移。 想买但无力支付的数量不属于有效需求。
-    en: "Move down and right along demand. Illustrative example: coffee falls from 6
-      to 4 per cup and weekly purchases rise from two to four. Quantity demanded
-      rises. With income and tastes unchanged, this is a movement along the
-      curve, not a rightward shift. Wanting a good without the ability to pay
-      does not constitute effective demand."
+    zh-CN: 沿需求曲线向右下移动。 愿望需要购买能力支持；固定收入等条件；价格改变时沿同一需求曲线移动 想买但无力支付的数量不属于有效需求。
+    en: Move down and right along demand. Willingness requires purchasing power;
+      hold income and other conditions constant; a price change moves the buyer
+      along the same demand curve Wanting a good without the ability to pay does
+      not constitute effective demand.
 - id: u2-01-demand-short-1
   knowledgePointId: u2-01-demand
   type: short-answer

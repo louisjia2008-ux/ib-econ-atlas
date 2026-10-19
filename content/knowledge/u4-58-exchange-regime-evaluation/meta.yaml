@@ -1,0 +1,40 @@
+id: u4-58-exchange-regime-evaluation
+slug: exchange-regime-evaluation
+section: "4.5"
+level: hl
+syllabusRefs:
+  - 4.5 Exchange rates
+textbookRefs:
+  - chapter: "17"
+    section: "17.2"
+    pages:
+      - 523
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-21-floating-exchange-rate
+  - u4-22-currency-demand-supply
+  - u4-23-exchange-rate-effects
+terms:
+  - 固定与浮动汇率的评价
+  - Evaluating fixed and floating exchange rates
+  - 制度
+  - regimes
+  - 储备
+  - reserves
+  - 自主性
+  - autonomy
+synonyms:
+  zh-CN:
+    - 制度
+    - 储备
+    - 自主性
+  en:
+    - regimes
+    - reserves
+    - autonomy
+diagramIds: []
+quizIds:
+  - u4-58-exchange-regime-evaluation-flash-1
+  - u4-58-exchange-regime-evaluation-mcq-1
+  - u4-58-exchange-regime-evaluation-short-1

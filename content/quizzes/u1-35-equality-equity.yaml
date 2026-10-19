@@ -22,16 +22,14 @@
     en: Which statement best captures “Equality and equity”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 平等与公平在所有情境都完全相同
+      en: Equality and equity are identical in every context
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 差别待遇必定不公平
+      en: Different treatment is always inequitable
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 结果完全相同就不需要说明公平标准
+      en: Identical outcomes remove the need for a fairness criterion
     - id: d
       zh-CN: 平等描述相同或较少差异的分配，公平判断分配是否公正；两者可以重合，也可能要求不同待遇。
       en: Equality describes identical or less dispersed distributions, while equity
@@ -51,15 +49,15 @@
     en: Briefly explain “Equality and equity”, including one causal mechanism and
       one important implication.
   modelAnswer:
-    zh-CN: 平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。
+    zh-CN: 平等与公平：平等是资源、机会或结果相同或差异较小的状态；公平是根据明确的公正原则判断待遇与分配是否合理。
       观察群体间资源、机会或结果差异；确定平等指标和公平原则；判断相同待遇是否能产生公正机会；选择普遍或有针对性的政策回应 平等可被描述和测量。
-    en: Equality is a condition of sameness or smaller differences in resources,
-      opportunities, or outcomes. Equity evaluates whether treatment and
-      distribution are justified by an explicit principle of fairness. Observe
-      differences in resources, opportunity, or outcomes; Select an equality
-      measure and fairness principle; Ask whether identical treatment creates
-      fair opportunity; Choose a universal or targeted policy response Equality
-      can be described and measured.
+    en: "Equality and equity: Equality is a condition of sameness or smaller
+      differences in resources, opportunities, or outcomes. Equity evaluates
+      whether treatment and distribution are justified by an explicit principle
+      of fairness. Observe differences in resources, opportunity, or outcomes;
+      Select an equality measure and fairness principle; Ask whether identical
+      treatment creates fair opportunity; Choose a universal or targeted policy
+      response Equality can be described and measured."
   keywordGroups:
     - id: concept
       label:

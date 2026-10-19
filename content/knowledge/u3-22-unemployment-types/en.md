@@ -27,7 +27,7 @@ Identify the main mechanism.  separate demand deficiency from matching problems.
 
 ### Original scenario and reasoning
 
-Illustrative example: retail layoffs during a demand slump are mainly cyclical; a skill displaced by technology creates mainly structural unemployment. Higher AD can help the former without alone filling the latter's skill gap. Natural unemployment normally includes frictional and structural components.
+Illustrative example: retail layoffs in a demand slump are mainly cyclical; technological skill mismatch is mainly structural. In this course framework, natural unemployment includes frictional, structural and seasonal unemployment, excluding cyclical unemployment. Full employment is not zero unemployment.
 
 Full employment is not zero unemployment; the natural rate can change with institutions and matching conditions.
 

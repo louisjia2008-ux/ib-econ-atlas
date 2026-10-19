@@ -27,16 +27,14 @@
         stabilise the economy, but success depends on design, information, and
         implementation.
     - id: b
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 政府干预不存在机会成本
+      en: Government action has no opportunity cost
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 只要政府支出就一定有效率
+      en: Any public spending is efficient
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 补贴不能影响资源配置
+      en: Subsidies cannot affect allocation
   correctOptionId: a
   explanation:
     zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
@@ -51,15 +49,16 @@
     en: Briefly explain “Government intervention”, including one causal mechanism
       and one important implication.
   modelAnswer:
-    zh-CN: 政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
+    zh-CN: 政府干预：政府干预是公共部门通过税收、补贴、监管、价格管制、公共供给、信息或宏观政策改变经济行为和结果。
       市场结果偏离政策目标；政府选择与问题相匹配的工具；工具改变价格、权利或可获得资源；行为反应决定净社会结果 干预可以改变价格、规则和公共供给。
-    en: Government intervention is public-sector action through taxes, subsidies,
-      regulation, price controls, public provision, information, or
-      macroeconomic policy to alter economic behaviour and outcomes. A market
-      outcome diverges from a policy objective; Government selects an instrument
-      suited to the cause; The instrument changes prices, rights, or available
-      resources; Behavioural responses determine the net social result
-      Intervention can change prices, rules, and public provision.
+    en: "Government intervention: Government intervention is public-sector action
+      through taxes, subsidies, regulation, price controls, public provision,
+      information, or macroeconomic policy to alter economic behaviour and
+      outcomes. A market outcome diverges from a policy objective; Government
+      selects an instrument suited to the cause; The instrument changes prices,
+      rights, or available resources; Behavioural responses determine the net
+      social result Intervention can change prices, rules, and public
+      provision."
   keywordGroups:
     - id: concept
       label:

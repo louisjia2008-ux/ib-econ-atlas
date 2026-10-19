@@ -34,14 +34,10 @@
       en: A price ceiling
   correctOptionId: b
   explanation:
-    zh-CN: 筛选。
-      原创例：卖家提供昂贵担保可以传递质量信号，买家独立检测则是筛选。强制营养标签可能改善选择，但需便于理解且经过核验；大量难读信息并不等于充分信息。
-      无成本且容易伪造的信号可能无法区分类型。
-    en: "Screening. Illustrative example: a seller's costly warranty can signal
-      quality, while a buyer's independent inspection screens it. Mandatory
-      nutrition labels can improve choices if understandable and verified; a
-      mass of unreadable information is not effective information. A cheap,
-      easily faked signal may fail to distinguish types."
+    zh-CN: 筛选。 识别隐藏类型或行为；设计可验证的披露和激励；减少错误交易但增加行政成本 无成本且容易伪造的信号可能无法区分类型。
+    en: Screening. Identify hidden types or actions; design verifiable disclosure
+      and incentives; reduce mistaken trades while incurring administrative cost
+      A cheap, easily faked signal may fail to distinguish types.
 - id: u2-46-information-remedies-short-1
   knowledgePointId: u2-46-information-remedies
   type: short-answer

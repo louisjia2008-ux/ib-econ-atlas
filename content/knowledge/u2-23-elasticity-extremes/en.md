@@ -27,7 +27,7 @@ Elasticity contains the ratio of price to quantity.  location changes P/Q.  the 
 
 ### Original scenario and reasoning
 
-Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow.
+Illustrative example: on Q=100−2P, PED is -0.25 at P=10, Q=80 and -4 at P=40, Q=20. The function illustrates slope versus elasticity; real demand need not be linear. High-YED services may expand faster as incomes grow. Basic primary foods often have lower short-run PED because they are necessities with fewer substitutes. High-YED goods can expand faster as incomes grow, without implying every service is a luxury.
 
 Visual steepness with different axis scales cannot directly establish relative elasticity.
 

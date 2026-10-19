@@ -34,13 +34,9 @@
       en: "35"
   correctOptionId: c
   explanation:
-    zh-CN: 55。 原创例：家庭年收入 30 万、资产 200 万、负债 80 万，净财富为 120
-      万。收入与财富可不一致，退休者可能收入低而财富高。判断政策受益者不能只看单一指标。 财富是资产减负债，不是把当年收入加到资产中重复计算。
-    en: "55. Illustrative example: a household earns 300,000 yearly, owns assets of
-      two million and owes 800,000: net wealth is 1.2 million. Income and wealth
-      can diverge, as for a retired asset owner. A single measure may
-      misidentify policy beneficiaries. Wealth is assets minus liabilities, not
-      assets plus the year's income counted again."
+    zh-CN: 55。 90 − 35 = 55 财富是资产减负债，不是把当年收入加到资产中重复计算。
+    en: 55. 90 − 35 = 55 Wealth is assets minus liabilities, not assets plus the
+      year's income counted again.
 - id: u2-59-income-wealth-short-1
   knowledgePointId: u2-59-income-wealth
   type: short-answer

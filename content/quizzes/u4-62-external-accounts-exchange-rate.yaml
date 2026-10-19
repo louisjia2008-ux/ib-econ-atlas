@@ -1,0 +1,102 @@
+- id: u4-62-external-accounts-exchange-rate-flash-1
+  knowledgePointId: u4-62-external-accounts-exchange-rate
+  type: flashcard
+  prompt:
+    zh-CN: 解释“外部账户与汇率的联系”，并说明一个关键条件。
+    en: Explain External accounts and exchange rates and state one important
+      condition.
+  answer:
+    zh-CN: 出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。
+    en: Export receipts and demand for home assets can raise currency demand, while
+      imports and foreign-asset purchases can raise its supply. Flows across
+      accounts jointly affect exchange rates, with causation also running in
+      reverse.
+  explanation:
+    zh-CN: 会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。
+    en: An accounting identity does not prove a trade deficit alone determines the
+      exchange rate; specify timing and other conditions.
+- id: u4-62-external-accounts-exchange-rate-mcq-1
+  knowledgePointId: u4-62-external-accounts-exchange-rate
+  type: mcq
+  prompt:
+    zh-CN: 逆差同时出现大量金融流入，能断言本币必贬值吗？
+    en: With a deficit and large financial inflows, must home currency depreciate?
+  options:
+    - id: a
+      zh-CN: 能，其他资金流无影响
+      en: Yes; other flows have no effect
+    - id: b
+      zh-CN: 不能，汇率取决于合并的供需与制度
+      en: No; combined demand, supply and the regime matter
+    - id: c
+      zh-CN: 能，储备不可能变化
+      en: Yes; reserves cannot change
+    - id: d
+      zh-CN: 能，因为金融账户不是交易
+      en: Yes; the financial account records no transactions
+  correctOptionId: b
+  explanation:
+    zh-CN: 不能，汇率取决于合并的供需与制度。 交易形成货币买卖；经常和金融流共同作用；汇率调整又影响贸易与资产回报
+      会计恒等式不证明贸易逆差单独决定汇率，需说明时序和其他条件。
+    en: No; combined demand, supply and the regime matter. Transactions generate
+      currency purchases and sales; current and financial flows interact;
+      exchange changes affect trade and asset returns in turn An accounting
+      identity does not prove a trade deficit alone determines the exchange
+      rate; specify timing and other conditions.
+- id: u4-62-external-accounts-exchange-rate-short-1
+  knowledgePointId: u4-62-external-accounts-exchange-rate
+  type: short-answer
+  prompt:
+    zh-CN: 解释外部账户与汇率的联系的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of External accounts and exchange rates and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: 出口收入与对本国资产的需求可增加本币需求，进口与对外资产购买可增加本币供给；不同账户资金流共同影响汇率，因果也可反向。
+      交易形成货币买卖；经常和金融流共同作用；汇率调整又影响贸易与资产回报
+      原创假设：经常账户逆差造成的本币卖压可被外国资产购买形成的资本流入抵消，因此不一定贬值；在固定汇率下，储备操作也会改变结果。
+    en: "Export receipts and demand for home assets can raise currency demand, while
+      imports and foreign-asset purchases can raise its supply. Flows across
+      accounts jointly affect exchange rates, with causation also running in
+      reverse. Transactions generate currency purchases and sales; current and
+      financial flows interact; exchange changes affect trade and asset returns
+      in turn Hypothetical scenario: currency selling associated with a current
+      deficit can be offset by foreign purchases of home assets. Depreciation
+      need not follow; reserve transactions also matter under a peg."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 经常账户
+        en: current account
+      alternatives:
+        zh-CN:
+          - 经常账户
+          - 交易形成货币买卖
+        en:
+          - current account
+          - Transactions generate currency purchases and sales
+    - id: mechanism-2
+      label:
+        zh-CN: 金融流
+        en: financial flows
+      alternatives:
+        zh-CN:
+          - 金融流
+          - 经常和金融流共同作用
+        en:
+          - financial flows
+          - current and financial flows interact
+    - id: mechanism-3
+      label:
+        zh-CN: 汇率
+        en: exchange rate
+      alternatives:
+        zh-CN:
+          - 汇率
+          - 汇率调整又影响贸易与资产回报
+        en:
+          - exchange rate
+          - exchange changes affect trade and asset returns in turn
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

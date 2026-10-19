@@ -34,14 +34,11 @@
       en: Quantity must fall
   correctOptionId: a
   explanation:
-    zh-CN: 均衡数量增加。
-      原创例：需求和供给都右移时，均衡数量增加，但价格可能升、降或不变。只知道移动方向，不能断言价格上涨。若需求右移且供给左移，价格上涨，而数量方向不确定。
-      同时移动时必须保留不确定性，不能随意假定移动幅度相同。
-    en: "Equilibrium quantity rises. Illustrative example: when demand and supply
-      both shift right, equilibrium quantity rises but price may rise, fall or
-      stay unchanged. Directions alone cannot determine price. With demand right
-      and supply left, price rises but quantity is ambiguous. Preserve ambiguity
-      under simultaneous shifts rather than silently assuming equal magnitudes."
+    zh-CN: 均衡数量增加。 识别变化的决定因素；移动相关曲线而保持其他关系不变；比较新旧均衡价格和数量 同时移动时必须保留不确定性，不能随意假定移动幅度相同。
+    en: Equilibrium quantity rises. Identify the changed determinant; shift the
+      relevant curve while holding other relationships constant; compare old and
+      new equilibrium price and quantity Preserve ambiguity under simultaneous
+      shifts rather than silently assuming equal magnitudes.
 - id: u2-13-equilibrium-shifts-short-1
   knowledgePointId: u2-13-equilibrium-shifts
   type: short-answer

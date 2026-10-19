@@ -34,16 +34,12 @@
       en: Ignore within-country gaps
   correctOptionId: b
   explanation:
-    zh-CN: 维度、权重与数据可比性。
-      原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。
+    zh-CN: 维度、权重与数据可比性。 明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异
       不同指标衡量不同目标，不能认为任一综合指数完全客观或无遗漏。
-    en: "Dimensions, weights and data comparability. Illustrative example: two
-      countries have similar income per person but different health prospects
-      and educational opportunities. Human-development measures complement
-      income. Subjective happiness also depends on culture and survey design,
-      while composites can conceal internal group gaps. Different indicators
-      target different outcomes; no composite is completely objective or
-      exhaustive."
+    en: Dimensions, weights and data comparability. Specify the wellbeing
+      dimensions; select comparable data and weights; interpret composite
+      indicators alongside GDP Different indicators target different outcomes;
+      no composite is completely objective or exhaustive.
 - id: u3-10-wellbeing-indicators-short-1
   knowledgePointId: u3-10-wellbeing-indicators
   type: short-answer
@@ -55,6 +51,7 @@
     zh-CN: 替代指标可综合收入、健康、教育、主观生活满意度和生态压力；指标选择与权重涉及价值判断，不能由单一排名代替分析。
       明确希望衡量的福利维度；选择可比较的数据与权重；结合 GDP 解读综合指标的差异
       原创例：两国人均收入相近，健康预期和教育机会却不同，综合人类发展指标可补充收入比较。主观幸福还受文化与调查方法影响；综合值也可能掩盖国内群体差距。
+      OECD 美好生活指标比较住房、收入、工作等多个维度；幸福类报告强调主观生活评价，快乐星球指数把福祉和寿命与环境负担联系，不能与 HDI 混为一谈。
     en: "Alternative indicators can combine income, health, education, subjective
       satisfaction and ecological pressure. Choosing dimensions and weights
       involves judgement, so a ranking cannot replace analysis. Specify the
@@ -63,7 +60,11 @@
       have similar income per person but different health prospects and
       educational opportunities. Human-development measures complement income.
       Subjective happiness also depends on culture and survey design, while
-      composites can conceal internal group gaps."
+      composites can conceal internal group gaps. The OECD Better Life Index
+      compares multiple dimensions such as housing, income and jobs; happiness
+      reports emphasise subjective life evaluation, while the Happy Planet Index
+      relates well-being and longevity to environmental pressure. None is
+      interchangeable with HDI."
   keywordGroups:
     - id: mechanism-1
       label:

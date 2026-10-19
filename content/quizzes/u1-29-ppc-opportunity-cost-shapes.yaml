@@ -23,21 +23,19 @@
     en: Which statement best captures “Increasing and constant opportunity cost”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 直线 PPC 表示递增机会成本
+      en: A straight PPC means increasing opportunity cost
     - id: b
       zh-CN: 专业化资源使 PPC 通常向外弯并呈递增机会成本；资源同质且可完全替代时，直线 PPC 表示不变机会成本。
       en: Specialised resources normally create a bowed-out PPC and increasing
         opportunity cost; identical, perfectly transferable resources create a
         straight line and constant cost.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 弯曲 PPC 表示没有取舍
+      en: A bowed PPC means no trade-off
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 资源用途适应性差异不会影响 PPC 形状
+      en: Resource suitability never affects PPC shape
   correctOptionId: b
   explanation:
     zh-CN: 递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。
@@ -52,16 +50,17 @@
     en: Briefly explain “Increasing and constant opportunity cost”, including one
       causal mechanism and one important implication.
   modelAnswer:
-    zh-CN: 递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。
+    zh-CN: 递增与不变机会成本：递增机会成本是连续增加一种产出时每个新增单位需放弃越来越多另一种产出；不变机会成本则表示交换比率保持相同。
       资源对两种生产的适用程度不同；先转移最适合新增产品的资源；继续扩大时必须转移越来越不适合的资源；每个新增单位造成更大的另一种产出损失
       异质和专业化资源导致递增成本。
-    en: Increasing opportunity cost means that successive additions to one output
-      require ever larger reductions in the other, while constant opportunity
-      cost means that the trade-off ratio does not change. Resources differ in
-      suitability for the two outputs; Resources best suited to the expanding
-      good move first; Further expansion transfers increasingly unsuitable
-      factors; Each extra unit requires a larger loss of the other output
-      Heterogeneous and specialised resources generate increasing cost.
+    en: "Increasing and constant opportunity cost: Increasing opportunity cost means
+      that successive additions to one output require ever larger reductions in
+      the other, while constant opportunity cost means that the trade-off ratio
+      does not change. Resources differ in suitability for the two outputs;
+      Resources best suited to the expanding good move first; Further expansion
+      transfers increasingly unsuitable factors; Each extra unit requires a
+      larger loss of the other output Heterogeneous and specialised resources
+      generate increasing cost."
   keywordGroups:
     - id: concept
       label:

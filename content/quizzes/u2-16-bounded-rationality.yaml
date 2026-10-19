@@ -35,14 +35,10 @@
       en: Satisficing
   correctOptionId: d
   explanation:
-    zh-CN: 满意化。
-      原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。
-      有限理性不是说人没有目标或随机选择。
-    en: "Satisficing. Illustrative example: a phone buyer cannot compare every
-      attribute of every model. They set a budget and minimum battery life, then
-      choose the first acceptable model. This saves decision costs without
-      necessarily maximising modelled utility. Bounded rationality does not mean
-      consumers have no goals or choose randomly."
+    zh-CN: 满意化。 可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案 有限理性不是说人没有目标或随机选择。
+    en: Satisficing. Many options must be compared; search and calculation are
+      costly; consumers adopt simplifying rules or satisfactory options Bounded
+      rationality does not mean consumers have no goals or choose randomly.
 - id: u2-16-bounded-rationality-short-1
   knowledgePointId: u2-16-bounded-rationality
   type: short-answer
@@ -54,6 +50,7 @@
     zh-CN: 理性选择模型假设消费者偏好一致并在约束下最大化效用；有限理性强调信息、时间和处理能力限制，可能促使人选择足够满意的方案。
       可比较的选项很多；搜索和计算有成本；消费者采用简化规则或满意方案
       原创例：购买手机时，不可能逐一比较所有品牌的每个参数。消费者可能先设价格上限和最低电池时长，再选第一个达标产品。这个策略节约决策成本，但未必最大化模型中的效用。
+      有限自控可使人偏离长期储蓄目标；有限自利表示社会偏好、互惠或公平也影响选择，并非所有人只考虑自身物质收益。
     en: "Rational choice assumes consistent preferences and utility maximisation
       subject to constraints. Bounded rationality recognises limits to
       information, time and processing ability that can lead to satisficing.
@@ -62,7 +59,9 @@
       example: a phone buyer cannot compare every attribute of every model. They
       set a budget and minimum battery life, then choose the first acceptable
       model. This saves decision costs without necessarily maximising modelled
-      utility."
+      utility. Bounded self-control can undermine long-term saving plans;
+      bounded selfishness recognises social preferences, reciprocity and
+      fairness rather than pure material self-interest."
   keywordGroups:
     - id: mechanism-1
       label:

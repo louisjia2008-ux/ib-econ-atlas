@@ -34,14 +34,11 @@
       en: Supply automatically expands without limit
   correctOptionId: b
   explanation:
-    zh-CN: 价格上涨，数量不变。 原创例：价格从 20 到 22，供给量从 100 到 105，按原值计算
-      PES=(5/100)/(2/20)=0.5。住房补助若面对固定住房存量，短期部分收益可能进入房租，而不是增加住房数量。
-      需求补助不能自动消除供给侧限制。
-    en: "Price rises, quantity unchanged. Illustrative example: price rises from 20
-      to 22 and supply from 100 to 105. Using initial values,
-      PES=(5/100)/(2/20)=0.5. With a fixed housing stock, a rent subsidy can
-      raise rents in the short run rather than add many homes. A demand subsidy
-      does not automatically remove supply-side constraints."
+    zh-CN: 价格上涨，数量不变。 需求刺激使需求右移；产能限制供给反应；供给越缺乏弹性价格反应通常越大 需求补助不能自动消除供给侧限制。
+    en: Price rises, quantity unchanged. Demand stimulus shifts demand right;
+      capacity constrains supply response; more inelastic supply normally
+      creates a larger price response A demand subsidy does not automatically
+      remove supply-side constraints.
 - id: u2-26-pes-application-short-1
   knowledgePointId: u2-26-pes-application
   type: short-answer

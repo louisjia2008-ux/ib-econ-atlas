@@ -35,14 +35,12 @@
       en: Demand disappears
   correctOptionId: b
   explanation:
-    zh-CN: 亏损，需要融资安排。 原创例：重复铺设供水管网可能浪费成本。P=MC 定价可提高配置效率，但成本下降区间
-      MC<ATC，企业可能亏损并需补贴；P=ATC 可回收成本，却未必配置有效。 自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。
-    en: "Losses requiring financing. Illustrative example: duplicating water pipes
-      can waste resources. P=MC pricing improves allocative efficiency, but
-      MC<ATC in a declining-cost range can create losses requiring subsidy.
-      P=ATC recovers cost without necessarily achieving allocative efficiency.
-      Natural monopoly describes a cost structure, not every state-owned or
-      large firm."
+    zh-CN: 亏损，需要融资安排。 大额固定网络成本可被分摊；单一供应者有成本优势；监管需平衡效率与成本回收
+      自然垄断指成本结构，不等于任何国有企业或任何规模大的企业。
+    en: Losses requiring financing. Large fixed network costs can be spread; a
+      single supplier has a cost advantage; regulation balances efficiency with
+      cost recovery Natural monopoly describes a cost structure, not every
+      state-owned or large firm.
 - id: u2-54-natural-monopoly-short-1
   knowledgePointId: u2-54-natural-monopoly
   type: short-answer

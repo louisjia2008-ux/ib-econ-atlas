@@ -35,14 +35,13 @@
       en: Export diversification alone
   correctOptionId: c
   explanation:
-    zh-CN: 短期外币债务依赖。 原创假设：设备进口支持未来出口，与短期外币借款资助消费具有不同风险；长期直接投资通常比易撤出的短期融资更稳定。
+    zh-CN: 短期外币债务依赖。 进口或收入支付超过相应收入；外部融资或储备变化对应缺口；未来收益与融资稳定性决定风险
       逆差不必然坏，顺差也可能反映内需不足；应比较规模、期限、币种与结构。
-    en: "Dependence on short-term foreign-currency debt. Hypothetical scenario:
-      machinery imports supporting future exports differ from short-term
-      foreign-currency borrowing funding consumption. Long-term direct
-      investment is generally more stable than easily reversed short-term
-      finance. Deficits are not automatically bad, nor surpluses always good;
-      compare size, maturity, currency and structure."
+    en: Dependence on short-term foreign-currency debt. Imports or income payments
+      exceed receipts; external financing or reserves correspond to the gap;
+      future returns and financing stability determine risks Deficits are not
+      automatically bad, nor surpluses always good; compare size, maturity,
+      currency and structure.
 - id: u4-31-current-account-imbalances-short-1
   knowledgePointId: u4-31-current-account-imbalances
   type: short-answer

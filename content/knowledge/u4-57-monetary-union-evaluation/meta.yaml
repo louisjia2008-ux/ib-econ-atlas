@@ -1,0 +1,40 @@
+id: u4-57-monetary-union-evaluation
+slug: monetary-union-evaluation
+section: "4.4"
+level: hl
+syllabusRefs:
+  - 4.4 Economic integration
+textbookRefs:
+  - chapter: "15"
+    section: "15.3"
+    pages:
+      - 482
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-15-wto
+  - u4-16-trading-blocs
+  - u4-17-common-market
+terms:
+  - 货币联盟的评价
+  - Evaluating monetary union
+  - 共同利率
+  - one interest rate
+  - 冲击
+  - shocks
+  - 调整
+  - adjustment
+synonyms:
+  zh-CN:
+    - 共同利率
+    - 冲击
+    - 调整
+  en:
+    - one interest rate
+    - shocks
+    - adjustment
+diagramIds: []
+quizIds:
+  - u4-57-monetary-union-evaluation-flash-1
+  - u4-57-monetary-union-evaluation-mcq-1
+  - u4-57-monetary-union-evaluation-short-1

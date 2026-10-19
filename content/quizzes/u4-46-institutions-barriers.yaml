@@ -35,13 +35,12 @@
       en: No market demand
   correctOptionId: b
   explanation:
-    zh-CN: 可信执行与可获得的司法。 原创假设：女性难以持有土地或取得贷款，使高回报项目无法融资；法律改革还需执行、信息和安全保障。
+    zh-CN: 可信执行与可获得的司法。 规则不透明增加不确定性；排斥限制人才配置；低投资与低信任阻碍发展
       制度不能只用一个排名解释；改革效果取决于历史、执行能力与当地参与。
-    en: "Credible enforcement and accessible justice. Hypothetical scenario: women
-      unable to own land or obtain credit cannot finance high-return projects.
-      Legal reform also needs enforcement, information and safety. A single
-      ranking cannot explain institutions; reform depends on history,
-      implementation capacity and local participation."
+    en: Credible enforcement and accessible justice. Opaque rules increase
+      uncertainty; exclusion misallocates talent; weak investment and trust
+      obstruct development A single ranking cannot explain institutions; reform
+      depends on history, implementation capacity and local participation.
 - id: u4-46-institutions-barriers-short-1
   knowledgePointId: u4-46-institutions-barriers
   type: short-answer

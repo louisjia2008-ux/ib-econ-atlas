@@ -33,13 +33,10 @@
       en: A pure public good
   correctOptionId: a
   explanation:
-    zh-CN: 道德风险。 原创例：全额保险后，驾驶者可能减少防盗措施。免赔额使其承担部分损失，监测也可降低风险；但过高免赔额会削弱保险保障，不能只看激励。
-      道德风险是激励结构，不是对当事人的道德判决。
-    en: "Moral hazard. Illustrative example: full insurance may reduce a driver's
-      precautions against theft. A deductible shares losses and monitoring can
-      reduce risk, but an excessive deductible weakens protection. Incentives
-      are not the only evaluation criterion. Moral hazard describes incentives,
-      not a moral judgement about the person."
+    zh-CN: 道德风险。 合约分担风险；行为难被完全监测；当事人可能采取更多风险或更少预防 道德风险是激励结构，不是对当事人的道德判决。
+    en: Moral hazard. A contract shares risk; actions cannot be fully monitored; a
+      party may take more risk or less precaution Moral hazard describes
+      incentives, not a moral judgement about the person.
 - id: u2-45-moral-hazard-short-1
   knowledgePointId: u2-45-moral-hazard
   type: short-answer

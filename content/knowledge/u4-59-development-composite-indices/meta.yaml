@@ -1,0 +1,40 @@
+id: u4-59-development-composite-indices
+slug: development-composite-indices
+section: "4.8"
+level: core
+syllabusRefs:
+  - 4.8 Measuring development
+textbookRefs:
+  - chapter: "18"
+    section: "18.2"
+    pages:
+      - 541
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-38-development-indicators
+  - u4-39-hdi
+  - u4-40-multidimensional-poverty
+terms:
+  - GII、IHDI 与快乐星球指数
+  - GII, IHDI and the Happy Planet Index
+  - 性别
+  - gender
+  - 分配
+  - distribution
+  - 环境
+  - environment
+synonyms:
+  zh-CN:
+    - 性别
+    - 分配
+    - 环境
+  en:
+    - gender
+    - distribution
+    - environment
+diagramIds: []
+quizIds:
+  - u4-59-development-composite-indices-flash-1
+  - u4-59-development-composite-indices-mcq-1
+  - u4-59-development-composite-indices-short-1

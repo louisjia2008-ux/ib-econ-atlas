@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: the first 100 is tax-free and the next 100
+  taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate
+  20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance
+  and services also affect distribution."
 title: Progressive taxes, transfers and disposable income
 takeaway: Under progressive taxation the average tax rate rises with income. The
   marginal rate applies to additional income; the average rate is total
@@ -25,7 +29,7 @@ Identify income within each bracket.  calculate tax progressively rather than ap
 
 ### Original scenario and reasoning
 
-Illustrative example: the first 100 is tax-free and the next 100 taxed at 20%. Income of 200 yields tax 20, average rate 10% and marginal rate 20%. A transfer of 15 gives disposable income 195. Indirect taxes, avoidance and services also affect distribution.
+Illustrative example: a marginal rate applies to additional income, not automatically all income. Under progressive taxation the average rate rises with income; targeted transfers add to eligible households’ disposable income. Numerical tax and average-rate calculations are HL.
 
 Do not apply the highest marginal rate to all income.
 

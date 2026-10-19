@@ -34,15 +34,11 @@
       en: Consider shock origin, transmission and lags
   correctOptionId: d
   explanation:
-    zh-CN: 结合冲击来源、传导与时滞。
-      原创例：衰退中企业预期销售低迷，利率接近有效下限时再小幅降息未必恢复投资。可信的通胀目标可稳定预期，但独立性并不意味着政策没有问责或不受供给冲击影响。
-      同一利率对储户、借款者和不同地区影响不同。
-    en: "Consider shock origin, transmission and lags. Illustrative example: in
-      recession, firms expecting weak sales may not revive investment after a
-      small cut near the effective lower bound. A credible inflation target can
-      anchor expectations, but independence does not remove accountability or
-      exposure to supply shocks. The same interest rate affects savers,
-      borrowers and regions differently."
+    zh-CN: 结合冲击来源、传导与时滞。 识别需求或供给问题；检查金融渠道与时滞；比较通胀就业分配及金融稳定的权衡 同一利率对储户、借款者和不同地区影响不同。
+    en: Consider shock origin, transmission and lags. Identify demand or supply
+      problems; examine financial channels and lags; compare trade-offs
+      involving inflation, employment, distribution and financial stability The
+      same interest rate affects savers, borrowers and regions differently.
 - id: u3-44-monetary-limits-short-1
   knowledgePointId: u3-44-monetary-limits
   type: short-answer
