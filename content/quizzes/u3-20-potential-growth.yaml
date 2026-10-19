@@ -34,15 +34,12 @@
       en: Improved labour skills and technology
   correctOptionId: d
   explanation:
-    zh-CN: 提高劳动力技能与技术。
-      原创例：电网可靠性提高减少停工，使单位成本下降并扩大长期产能。潜力增加不保证全部新产能立即被使用；若需求不足，实际产出仍可能低于新的潜在水平。
-      实际增长可能只是填补负缺口，并不必然表示 LRAS 右移。
-    en: "Improved labour skills and technology. Illustrative example: a more
-      reliable electricity grid reduces downtime, lowering unit costs and
-      expanding long-run capacity. More potential does not ensure immediate full
-      utilisation; weak demand may leave actual output below the new potential.
-      Actual growth may merely close a negative gap rather than shift LRAS
-      right."
+    zh-CN: 提高劳动力技能与技术。 生产要素或生产率改善；可持续生产能力增加；给定需求下增长伴随较低物价压力 实际增长可能只是填补负缺口，并不必然表示
+      LRAS 右移。
+    en: Improved labour skills and technology. Inputs or productivity improve;
+      sustainable capacity expands; growth can occur with less price pressure at
+      a given demand Actual growth may merely close a negative gap rather than
+      shift LRAS right.
 - id: u3-20-potential-growth-short-1
   knowledgePointId: u3-20-potential-growth
   type: short-answer

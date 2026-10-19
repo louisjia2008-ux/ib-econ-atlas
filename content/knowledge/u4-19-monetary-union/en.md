@@ -1,34 +1,34 @@
 ---
-title: Benefits and costs of monetary union
-takeaway: A monetary union uses a common currency and monetary policy, reducing
-  internal conversion costs and exchange risk while removing independent
-  interest-rate and exchange-rate adjustment.
-definition: A monetary union uses a common currency and monetary policy,
-  reducing internal conversion costs and exchange risk while removing
-  independent interest-rate and exchange-rate adjustment.
+title: The meaning of monetary union
+takeaway: A monetary union uses a shared currency and monetary policy; members
+  no longer issue separate currencies with independently adjustable exchange
+  rates. Evaluating benefits, costs and asymmetric shocks is HL.
+definition: A monetary union uses a shared currency and monetary policy; members
+  no longer issue separate currencies with independently adjustable exchange
+  rates. Evaluating benefits, costs and asymmetric shocks is HL.
 causalChain:
-  - A shared currency lowers transaction frictions
-  - price comparison becomes easier
-  - one interest rate may not suit members facing asymmetric shocks
+  - Members adopt one currency
+  - a shared institution sets monetary policy
+  - distinguish this from an area with internal free trade only
 misconceptions:
-  - A common currency does not automatically create a fiscal union or eliminate
-    member credit risk.
+  - A free trade area is not a monetary union; a common currency does not
+    automatically mean fiscal unification.
 examApplication:
   - Distinguish levels of integration; compare trade creation, diversion, policy
     autonomy and adjustment mechanisms.
 summary:
-  - A monetary union uses a common currency and monetary policy, reducing
-    internal conversion costs and exchange risk while removing independent
-    interest-rate and exchange-rate adjustment.
-  - A common currency does not automatically create a fiscal union or eliminate
-    member credit risk.
+  - A monetary union uses a shared currency and monetary policy; members no
+    longer issue separate currencies with independently adjustable exchange
+    rates. Evaluating benefits, costs and asymmetric shocks is HL.
+  - A free trade area is not a monetary union; a common currency does not
+    automatically mean fiscal unification.
 ---
-A shared currency lowers transaction frictions.  price comparison becomes easier.  one interest rate may not suit members facing asymmetric shocks.
+Members adopt one currency.  a shared institution sets monetary policy.  distinguish this from an area with internal free trade only.
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: A overheats while B is in recession, so one rate is hard to tailor. Labour mobility, fiscal transfers and price-wage flexibility affect adjustment.
+Hypothetical scenario: A and B can trade duty-free while retaining different currencies. A common currency and monetary policy distinguish monetary union here.
 
-A common currency does not automatically create a fiscal union or eliminate member credit risk.
+A free trade area is not a monetary union; a common currency does not automatically mean fiscal unification.
 
 Distinguish levels of integration; compare trade creation, diversion, policy autonomy and adjustment mechanisms.

@@ -34,13 +34,9 @@
       en: "128"
   correctOptionId: b
   explanation:
-    zh-CN: 8。 原创例：产量从 10 到 11，总成本从 80 到 92，MC 为 12。若该单位售价为 15，且企业接受市场价格，增产增加 3
-      的利润。固定成本决定是否进入，却不直接改变这一个单位的 MC。 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。
-    en: "8. Illustrative example: output rises from ten to eleven and total cost
-      from 80 to 92, so MC is 12. At a price-taking firm's price of 15, the
-      extra unit adds three to profit. Fixed cost matters for entry but does not
-      directly alter this unit's MC. Price equal to MC does not prove total
-      profit is positive; price must also be compared with average cost."
+    zh-CN: 8。 MC = (68 − 60) / (11 − 10) = 8 价格等于 MC 不能单独证明企业总利润为正，还需要比较价格与平均成本。
+    en: 8. MC = (68 − 60) / (11 − 10) = 8 Price equal to MC does not prove total
+      profit is positive; price must also be compared with average cost.
 - id: u2-10-costs-and-supply-short-1
   knowledgePointId: u2-10-costs-and-supply
   type: short-answer

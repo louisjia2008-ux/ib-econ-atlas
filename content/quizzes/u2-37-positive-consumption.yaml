@@ -35,13 +35,11 @@
       en: Market output must be excessive
   correctOptionId: a
   explanation:
-    zh-CN: MSB>MPB。 原创例：接种疫苗可能降低传染风险，使他人受益。MSB 画在 MPB
-      上方。补贴、公共提供和信息宣传可提高数量，但政策效果取决于接种能力、信任和第三方收益的大小。 教育或医疗并不是因为有社会价值就自动成为纯公共物品。
-    en: "MSB>MPB. Illustrative example: vaccination may reduce transmission risk and
-      benefit others. Draw MSB above MPB. Subsidies, public provision and
-      information can increase uptake, but capacity, trust and the size of
-      external benefit determine effectiveness. Education or healthcare does not
-      automatically become a pure public good because it has social value."
+    zh-CN: MSB>MPB。 消费者只比较私人收益与价格；第三方收益未进入其选择；市场数量低于社会最优 教育或医疗并不是因为有社会价值就自动成为纯公共物品。
+    en: MSB>MPB. Consumers compare private benefit and price; third-party gains are
+      absent from their choice; market consumption is below the social optimum
+      Education or healthcare does not automatically become a pure public good
+      because it has social value.
 - id: u2-37-positive-consumption-short-1
   knowledgePointId: u2-37-positive-consumption
   type: short-answer

@@ -33,14 +33,12 @@
       en: Equity only means a zero price
   correctOptionId: b
   explanation:
-    zh-CN: 否，两者评价标准不同。
-      原创例：两户的支付意愿相同，但一户收入低而买不起教育。市场需求表达的是愿意且能够购买，不是所有人的需要。评价应明确公平标准，而非把任何差异自动称为不公。
+    zh-CN: 否，两者评价标准不同。 资产和要素回报形成收入差异；收入差异影响有效需求；市场配置可能有效却不符合社会公平标准
       配置效率与公平可能冲突，也可能通过针对性政策共同改善。
-    en: "No, the criteria differ. Illustrative example: two households want
-      education equally but one cannot afford it. Market demand reflects
-      willingness and ability to pay, not every person's need. State the equity
-      criterion rather than automatically labelling all differences unfair.
-      Efficiency and equity can conflict, but targeted policy may improve both."
+    en: No, the criteria differ. Assets and factor returns generate income
+      differences; income differences affect effective demand; efficient market
+      allocation may fail society's equity criteria Efficiency and equity can
+      conflict, but targeted policy may improve both.
 - id: u2-58-equity-distribution-short-1
   knowledgePointId: u2-58-equity-distribution
   type: short-answer

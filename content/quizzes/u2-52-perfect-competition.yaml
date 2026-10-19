@@ -34,14 +34,12 @@
       en: MR=P
   correctOptionId: d
   explanation:
-    zh-CN: MR=P。 原创例：某企业获得超额利润，进入增加市场供给并压低价格，直到 P=min ATC。模型长期同时体现生产效率与 P=MC
-      配置效率，但信息、产品同质性等条件在现实中可能不成立。 个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。
-    en: "MR=P. Illustrative example: supernormal profit attracts entry, expanding
-      market supply and reducing price until P=min ATC. The long-run model
-      achieves productive efficiency and P=MC allocative efficiency, but
-      homogeneity and information assumptions may fail in practice. The firm's
+    zh-CN: MR=P。 个别企业不能改变市场价；企业按 MR=MC 选择产量；长期进入退出消除超额经济利润
+      个别企业的水平需求曲线不同于整个市场向下倾斜的需求曲线。
+    en: MR=P. A firm cannot influence market price; it chooses output at MR=MC;
+      long-run entry and exit remove supernormal economic profit The firm's
       horizontal demand curve differs from the downward-sloping demand curve of
-      the whole market."
+      the whole market.
 - id: u2-52-perfect-competition-short-1
   knowledgePointId: u2-52-perfect-competition
   type: short-answer

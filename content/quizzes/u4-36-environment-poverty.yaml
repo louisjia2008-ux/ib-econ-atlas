@@ -35,14 +35,11 @@
       en: Alternative energy plus community management
   correctOptionId: d
   explanation:
-    zh-CN: 替代能源加社区管理。 原创假设：缺乏可靠电力的村庄依赖薪柴，单独禁伐可能伤害穷人；社区管理与清洁能源可同时改善激励和选择。
-      环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。
-    en: "Alternative energy plus community management. Hypothetical scenario: a
-      village without reliable power relies on fuelwood. A logging ban alone may
-      harm poor households; community management and clean energy improve
-      incentives and alternatives together. High consumption among wealthy
-      groups can also damage the environment; responsibility cannot be assigned
-      solely to poor people."
+    zh-CN: 替代能源加社区管理。 低收入限制替代选择；过度使用共同资源；资源退化使收入更脆弱 环境破坏也可能来自富裕群体的高消费；不能把责任全部归于穷人。
+    en: Alternative energy plus community management. Low income restricts
+      alternatives; common resources are overused; degradation makes income more
+      vulnerable High consumption among wealthy groups can also damage the
+      environment; responsibility cannot be assigned solely to poor people.
 - id: u4-36-environment-poverty-short-1
   knowledgePointId: u4-36-environment-poverty
   type: short-answer

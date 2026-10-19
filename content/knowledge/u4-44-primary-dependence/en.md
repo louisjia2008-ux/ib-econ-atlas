@@ -1,15 +1,15 @@
 ---
-title: Primary-product dependence and terms of trade
-takeaway: Concentration in primary exports increases revenue risk. Terms of
-  trade equal the export price index divided by the import price index times
-  100; deterioration means fewer imports per export unit.
-definition: Concentration in primary exports increases revenue risk. Terms of
-  trade equal the export price index divided by the import price index times
-  100; deterioration means fewer imports per export unit.
+title: Primary-product dependence and revenue volatility
+takeaway: Concentration in a few primary exports exposes foreign exchange, tax
+  revenue and investment to price and demand shocks; diversification may reduce
+  some concentration risk.
+definition: Concentration in a few primary exports exposes foreign exchange, tax
+  revenue and investment to price and demand shocks; diversification may reduce
+  some concentration risk.
 causalChain:
-  - Export concentration magnifies world-price shocks
-  - foreign exchange and tax revenue fluctuate
-  - capital-goods imports and public investment are constrained
+  - Export concentration magnifies external shocks
+  - foreign exchange and tax receipts vary with prices and volumes
+  - public investment and import finance are constrained
 misconceptions:
   - Terms of trade are neither an exchange rate nor total export receipts
     divided by imports; long-run deterioration is not inevitable for every
@@ -18,18 +18,18 @@ examApplication:
   - Explain reinforcing barriers, identify binding constraints and avoid
     deterministic claims about countries or groups.
 summary:
-  - Concentration in primary exports increases revenue risk. Terms of trade
-    equal the export price index divided by the import price index times 100;
-    deterioration means fewer imports per export unit.
+  - Concentration in a few primary exports exposes foreign exchange, tax revenue
+    and investment to price and demand shocks; diversification may reduce some
+    concentration risk.
   - Terms of trade are neither an exchange rate nor total export receipts
     divided by imports; long-run deterioration is not inevitable for every
     commodity.
 ---
-Export concentration magnifies world-price shocks.  foreign exchange and tax revenue fluctuate.  capital-goods imports and public investment are constrained.
+Export concentration magnifies external shocks.  foreign exchange and tax receipts vary with prices and volumes.  public investment and import finance are constrained.
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: export prices indexed at ninety and imports at 120 give terms of trade of 75. Revenue also depends on volume, so the ratio alone cannot establish the trade balance.
+Hypothetical scenario: a coffee-price fall can hit households, exporters and public revenue together, constraining finance for equipment imports. Price, quantity and costs jointly determine net returns. A terms-of-trade index is listed separately as enrichment.
 
 Terms of trade are neither an exchange rate nor total export receipts divided by imports; long-run deterioration is not inevitable for every commodity.
 

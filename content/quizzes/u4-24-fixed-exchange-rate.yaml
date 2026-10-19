@@ -35,13 +35,11 @@
       en: Sell foreign currency and buy home currency
   correctOptionId: d
   explanation:
-    zh-CN: 卖外币买本币。 原创假设：目标 1 本币=0.5 美元，市场需求下滑；卖美元买本币可支持目标，持续干预可能需要加息或政策调整。
-      官方下调固定平价称法定贬值；这不同于浮动市场的贬值。
-    en: "Sell foreign currency and buy home currency. Hypothetical scenario: the
-      target is 0.5 dollars per home unit and demand falls. Selling dollars to
-      buy home currency supports the target; sustained pressure may require
-      higher rates or policy adjustment. An official reduction of fixed parity
-      is devaluation, distinct from market depreciation."
+    zh-CN: 卖外币买本币。 市场汇率低于目标；央行买本币增加需求；外汇储备下降以支持平价 官方下调固定平价称法定贬值；这不同于浮动市场的贬值。
+    en: Sell foreign currency and buy home currency. The market rate falls below
+      parity; central-bank home-currency purchases add demand; foreign reserves
+      decline to defend the peg An official reduction of fixed parity is
+      devaluation, distinct from market depreciation.
 - id: u4-24-fixed-exchange-rate-short-1
   knowledgePointId: u4-24-fixed-exchange-rate
   type: short-answer

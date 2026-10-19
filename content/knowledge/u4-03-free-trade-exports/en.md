@@ -1,4 +1,6 @@
 ---
+hlExtension: "Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are
+  50. Producers gain while domestic consumers pay a higher price."
 title: Free trade and exports in a small economy
 takeaway: When the world price exceeds the autarky equilibrium price, domestic
   supply exceeds demand and the surplus is exported.
@@ -24,7 +26,7 @@ A higher world price encourages production.  domestic consumers buy less.  expor
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: at Pw=20, Qs=120 and Qd=70, so exports are 50. Producers gain while domestic consumers pay a higher price.
+Hypothetical scenario: world price above autarky raises domestic output and lowers domestic purchases. The surplus is exported; producers gain but home consumers lose. Numerical exports and revenue from diagrams are HL.
 
 Export receipts are not pure welfare gains; compare changes in consumer and producer surplus.
 

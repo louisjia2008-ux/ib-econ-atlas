@@ -35,14 +35,13 @@
       en: Combine baselines, comparable outcomes and distributional effects
   correctOptionId: d
   explanation:
-    zh-CN: 结合基线、可比结果与分配影响。 原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。
+    zh-CN: 结合基线、可比结果与分配影响。 识别约束与目标；选择互补政策并明确时序；用可信结果证据修正措施
       没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。
-    en: "Combine baselines, comparable outcomes and distributional effects.
-      Hypothetical scenario: export processing needs roads, power, skills and
-      customs coordination. Comparison groups or phased introduction help assess
-      effects, alongside regional and gender differences. There is no single
-      recipe for every country; spending and announcements cannot replace
-      outcome evidence."
+    en: Combine baselines, comparable outcomes and distributional effects. Identify
+      constraints and goals; choose complementary policies and sequencing;
+      revise measures using credible outcome evidence There is no single recipe
+      for every country; spending and announcements cannot replace outcome
+      evidence.
 - id: u4-56-development-policy-mix-short-1
   knowledgePointId: u4-56-development-policy-mix
   type: short-answer

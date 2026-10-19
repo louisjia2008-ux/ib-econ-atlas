@@ -33,15 +33,11 @@
       en: Improves health, learning and future productivity
   correctOptionId: d
   explanation:
-    zh-CN: 改善健康、学习与未来生产率。
-      原创例：营养不足影响学习与成年劳动能力，公共健康和学校供餐可能打断循环。评价收入差距时须区分机会不平等、激励作用与寻租收益，避免把所有差异视为同一种现象。
-      效率与公平并非在所有政策下都必然冲突。
-    en: "Improves health, learning and future productivity. Illustrative example:
-      malnutrition harms learning and adult work capacity; public health and
-      school meals may interrupt the cycle. Assess income gaps by distinguishing
-      opportunity inequality, incentives and rent extraction rather than
-      treating all differences alike. Efficiency and equity need not conflict
-      under every policy."
+    zh-CN: 改善健康、学习与未来生产率。 资源匮乏影响服务获得；人力资本和社会参与受损；未来生产与税基可能因此减弱 效率与公平并非在所有政策下都必然冲突。
+    en: Improves health, learning and future productivity. Resource deprivation
+      limits service access; human capital and participation suffer; future
+      production and the tax base may weaken Efficiency and equity need not
+      conflict under every policy.
 - id: u3-36-poverty-effects-short-1
   knowledgePointId: u3-36-poverty-effects
   type: short-answer

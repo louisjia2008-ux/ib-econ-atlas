@@ -5,6 +5,7 @@ import type { ProgressRecord } from "../types/progress";
 
 interface ContextRailProps {
   point: KnowledgePoint;
+  practiceCount?: number;
   points: KnowledgePoint[];
   progress: ProgressRecord | undefined;
   locale: Locale;
@@ -13,7 +14,7 @@ interface ContextRailProps {
   onSettings: () => void;
 }
 
-export function ContextRail({ point, points, progress, locale, onOpen, onReview, onSettings }: ContextRailProps) {
+export function ContextRail({ point, points, progress, locale, onOpen, onReview, onSettings, practiceCount = point.practice.length }: ContextRailProps) {
   const byId = new Map(points.map((candidate) => [candidate.meta.id, candidate]));
   const related = point.meta.related.map((id) => byId.get(id)).filter((candidate) => candidate !== undefined);
   const textbookRef = point.meta.textbookRefs[0];
@@ -36,7 +37,7 @@ export function ContextRail({ point, points, progress, locale, onOpen, onReview,
         </div>
         <div className="mastery-visual" aria-label={`${mastery.percent}%`} style={{ background: `radial-gradient(circle at center, white 56%, transparent 57%), conic-gradient(var(--cobalt) 0 ${mastery.percent}%, #dce3ed ${mastery.percent}% 100%)` }}><span>{mastery.percent}</span><small>%</small></div>
         <p>{dueText ? (locale === "zh-CN" ? `下次复习：${dueText}` : `Next review: ${dueText}`) : (locale === "zh-CN" ? "完成练习后，正确率和自评会安排下次复习。" : "Practice accuracy and self-rating will schedule the next review.")}</p>
-        <button className="primary-action" type="button" onClick={onReview}><Clock3 size={17} /> {locale === "zh-CN" ? `开始 ${point.practice.length} 道练习` : `Start ${point.practice.length} practice items`}</button>
+        <button className="primary-action" type="button" onClick={onReview}><Clock3 size={17} /> {locale === "zh-CN" ? `开始 ${practiceCount} 道练习` : `Start ${practiceCount} practice items`}</button>
       </section>
 
       <section className="side-card">

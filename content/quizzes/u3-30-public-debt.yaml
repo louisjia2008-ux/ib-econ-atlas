@@ -34,13 +34,9 @@
       en: 640%
   correctOptionId: b
   explanation:
-    zh-CN: 60%。 原创例：债务 600、GDP 1000，债务率 60%。债务升至 630 而 GDP 升至 1100，债务率反而降至约
-      57.3%。没有适用于所有国家的单一安全阈值；借款用途、期限和可信度都重要。 政府债务增加不意味着债务占 GDP 比率必然增加。
-    en: "60%. Illustrative example: debt of 600 and GDP 1000 give a 60% ratio. Debt
-      rises to 630 but GDP to 1100, lowering the ratio to about 57.3%. There is
-      no universal safe threshold; use of borrowing, maturity and credibility
-      matter. More government debt does not necessarily imply a higher
-      debt-to-GDP ratio."
+    zh-CN: 60%。 240 / 400 × 100 = 60% 政府债务增加不意味着债务占 GDP 比率必然增加。
+    en: 60%. 240 / 400 × 100 = 60% More government debt does not necessarily imply a
+      higher debt-to-GDP ratio.
 - id: u3-30-public-debt-short-1
   knowledgePointId: u3-30-public-debt
   type: short-answer

@@ -35,14 +35,13 @@
       en: Imports M
   correctOptionId: a
   explanation:
-    zh-CN: 出口 X。 原创例：家庭向企业提供劳动并获得工资，再购买企业产出。储蓄 S、税收 T、进口 M 是漏出，投资 I、政府购买 G、出口 X
-      是注入。简单稳定均衡要求计划注入与漏出相等；这不是说各项分别相等。 储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。
-    en: "Exports X. Illustrative example: households supply labour, receive wages
-      and buy firms' output. S, T and M are leakages; I, G and X are injections.
-      Simple steady equilibrium requires planned injections to equal planned
-      leakages, not each individual item to equal its counterpart. Saving is not
-      money that vanishes; finance can channel funds into investment without
-      making planned saving and investment automatically identical."
+    zh-CN: 出口 X。 家庭提供生产要素获得收入；收入用于消费或漏出；注入支出支持企业销售与下一轮收入
+      储蓄不是消失的货币；金融部门可将资金引向投资，但不能假设两者自动同时相等。
+    en: Exports X. Households supply factors and receive income; income funds
+      consumption or leakages; injections support firms' sales and the next
+      round of income Saving is not money that vanishes; finance can channel
+      funds into investment without making planned saving and investment
+      automatically identical.
 - id: u3-01-circular-flow-short-1
   knowledgePointId: u3-01-circular-flow
   type: short-answer

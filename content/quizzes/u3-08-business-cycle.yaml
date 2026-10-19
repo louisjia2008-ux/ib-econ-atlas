@@ -34,13 +34,11 @@
       en: Output still grows, but more slowly
   correctOptionId: d
   explanation:
-    zh-CN: 产出仍增长，但增速放缓。 原创例：实际产出从 100 到 104 后降到 102，再到 106，102
-      阶段是收缩但产出仍高于起点。两个季度负增长是常见简化判据，不是所有统计机构唯一的衰退认定标准。 增长放缓仍可为正，不等于实际产出已经下降。
-    en: "Output still grows, but more slowly. Illustrative example: real output
-      moves from 100 to 104, then 102 and 106. The fall to 102 is a contraction
-      despite output remaining above its initial level. Two negative quarters is
-      a common shorthand, not every agency's sole recession criterion. Slower
-      growth can remain positive and is not necessarily falling real output."
+    zh-CN: 产出仍增长，但增速放缓。 支出与供给冲击改变产出；实际活动偏离趋势；调整与政策可推动复苏或进一步收缩 增长放缓仍可为正，不等于实际产出已经下降。
+    en: Output still grows, but more slowly. Spending and supply shocks change
+      output; actual activity deviates from trend; adjustment and policy may
+      support recovery or further contraction Slower growth can remain positive
+      and is not necessarily falling real output.
 - id: u3-08-business-cycle-short-1
   knowledgePointId: u3-08-business-cycle
   type: short-answer

@@ -33,13 +33,9 @@
       en: −4
   correctOptionId: d
   explanation:
-    zh-CN: −4。 原创假设：货物 −20、服务 +10、初次收入 −5、二次收入 +3，经常账户为 −12；收到海外亲属汇款通常属二次收入。
-      海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。
-    en: "−4. Hypothetical scenario: goods −20, services +10, primary income −5 and
-      secondary income +3 give a current-account balance of −12. Family
-      remittances received normally enter secondary income. Income on foreign
-      investment is primary income; purchasing foreign shares belongs to the
-      financial account."
+    zh-CN: −4。 −10 + 4 + 2 = −4 海外投资利润属初次收入，购买海外股份属金融账户，不要混淆。
+    en: −4. −10 + 4 + 2 = −4 Income on foreign investment is primary income;
+      purchasing foreign shares belongs to the financial account.
 - id: u4-28-current-account-short-1
   knowledgePointId: u4-28-current-account
   type: short-answer

@@ -22,16 +22,14 @@
     en: Which statement best captures “The Marxist critique”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 马克思主义批判排除生产资料所有权
+      en: Marxist critique excludes ownership of production
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 剩余价值就是任何商品的消费者剩余
+      en: Surplus value is identical to consumer surplus
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 阶级关系与分配没有任何联系
+      en: Class relations have no link to distribution
     - id: d
       zh-CN: 马克思主义分析把所有权、阶级关系和资本积累置于核心，质疑市场交换表面的自由是否掩盖生产权力与分配冲突。
       en: Marxist analysis centres ownership, class relations, and capital
@@ -51,17 +49,17 @@
     en: Briefly explain “The Marxist critique”, including one causal mechanism and
       one important implication.
   modelAnswer:
-    zh-CN: 马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。
+    zh-CN: 马克思主义批判：马克思主义经济批判以生产资料所有权、劳动与资本的阶级关系、剩余价值和资本积累为框架，分析资本主义的分配、权力与危机倾向。
       生产资料集中在资本所有者手中；无产者出售劳动力获得工资；产出价值与工资之间形成剩余并被积累；积累改变权力、技术、分配并可能加剧冲突
       所有权结构影响生产与分配权力。
-    en: The Marxist critique uses ownership of the means of production, class
-      relations between labour and capital, surplus value, and accumulation to
-      analyse distribution, power, and tendencies toward crisis in capitalism.
-      Ownership of productive assets is concentrated among capital owners;
-      Workers sell labour power for wages; A surplus between output and labour
-      compensation is accumulated; Accumulation changes power, technology,
-      distribution, and potential conflict Ownership structures influence power
-      in production and distribution.
+    en: "The Marxist critique: The Marxist critique uses ownership of the means of
+      production, class relations between labour and capital, surplus value, and
+      accumulation to analyse distribution, power, and tendencies toward crisis
+      in capitalism. Ownership of productive assets is concentrated among
+      capital owners; Workers sell labour power for wages; A surplus between
+      output and labour compensation is accumulated; Accumulation changes power,
+      technology, distribution, and potential conflict Ownership structures
+      influence power in production and distribution."
   keywordGroups:
     - id: concept
       label:

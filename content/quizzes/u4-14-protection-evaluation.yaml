@@ -33,14 +33,13 @@
       en: Treat revenue as a pure welfare gain
   correctOptionId: b
   explanation:
-    zh-CN: 将目标、成本、条件与替代措施连接。 原创假设：衰退地区需要支持，可比较关税、工资保险与培训；若问题是技能错配，培训可能比长期高价保护更直接。
+    zh-CN: 将目标、成本、条件与替代措施连接。 确定政策目标；比较各方收益与成本；依据条件和替代方案作判断
       小国净福利损失结论依赖模型；外部性或大国贸易条件效应应另行论证，不能随意套用。
-    en: "Link objectives, costs, conditions and alternatives. Hypothetical scenario:
-      compare tariffs, wage insurance and training for a declining region. If
-      skill mismatch is the problem, training may address it more directly than
-      prolonged price protection. Small-country welfare losses are
-      model-dependent; externalities or large-country terms-of-trade effects
-      require separate arguments."
+    en: Link objectives, costs, conditions and alternatives. Specify the objective;
+      compare stakeholder gains and costs; judge using conditions and
+      alternatives Small-country welfare losses are model-dependent;
+      externalities or large-country terms-of-trade effects require separate
+      arguments.
 - id: u4-14-protection-evaluation-short-1
   knowledgePointId: u4-14-protection-evaluation
   type: short-answer

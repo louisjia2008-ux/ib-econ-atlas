@@ -33,14 +33,9 @@
       en: Balanced budget
   correctOptionId: a
   explanation:
-    zh-CN: 赤字 15。 原创例：收入 90、支出 100，期间赤字为
-      10；这不是债务总额。衰退导致的赤字扩大不一定意味着政府新宣布刺激计划。结构性余额尝试剔除周期影响，但依赖潜在产出的估算。
-      预算盈余或赤字的绝对水平不能单独识别政策变化。
-    en: "Deficit of 15. Illustrative example: revenue of 90 and spending of 100
-      imply a period deficit of 10, not total debt. A recession-driven larger
-      deficit need not mean a newly announced stimulus. Structural balances try
-      to remove cyclical effects but depend on estimated potential output. The
-      level of a surplus or deficit alone cannot identify a policy change."
+    zh-CN: 赤字 15。 95 − 80 = 15 (G > T) 预算盈余或赤字的绝对水平不能单独识别政策变化。
+    en: Deficit of 15. 95 − 80 = 15 (G > T) The level of a surplus or deficit alone
+      cannot identify a policy change.
 - id: u3-45-fiscal-budget-short-1
   knowledgePointId: u3-45-fiscal-budget
   type: short-answer

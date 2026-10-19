@@ -34,14 +34,12 @@
       en: No trade-off exists
   correctOptionId: c
   explanation:
-    zh-CN: 支持产出但加重物价压力。 原创例：能源短缺使 SRAS 左移。扩张 AD 可缓解产出损失，却可能进一步提高物价；收缩 AD
-      可减轻物价压力，却加重衰退。必须识别冲击来源，不能把同一政策视为适用于所有通胀。 一次价格水平冲击与持续的通胀过程也需要区分。
-    en: "Supports output but intensifies price pressure. Illustrative example: an
-      energy shortage shifts SRAS left. Expanding AD can limit output losses but
-      raise prices further; contracting AD can limit price pressure but worsen
-      recession. Identify the shock rather than prescribe one policy for every
-      inflation episode. Distinguish a one-off price-level shock from a
-      continuing inflation process."
+    zh-CN: 支持产出但加重物价压力。 先区分支出不足或成本产能问题；移动 AD 或 SRAS；政策选择面对不同目标冲突
+      一次价格水平冲击与持续的通胀过程也需要区分。
+    en: Supports output but intensifies price pressure. Distinguish weak spending
+      from cost/capacity problems; shift AD or SRAS; policy choices face
+      different objective conflicts Distinguish a one-off price-level shock from
+      a continuing inflation process.
 - id: u3-19-macro-shocks-short-1
   knowledgePointId: u3-19-macro-shocks
   type: short-answer

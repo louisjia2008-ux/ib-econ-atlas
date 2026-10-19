@@ -34,13 +34,12 @@
       en: Tariff revenue
   correctOptionId: c
   explanation:
-    zh-CN: 出生时预期寿命。 原创假设：甲乙收入类似，甲的寿命与教育更高，HDI 可能更高；但国平均仍掩盖性别与地区差距。 HDI
+    zh-CN: 出生时预期寿命。 将各维度标准化；教育指标组成教育维度；几何平均限制单一高维度完全补偿低维度 HDI
       不是三个原始单位直接相加，也不是完整的生态或政治自由指标。
-    en: "Life expectancy at birth. Hypothetical scenario: two economies have similar
-      income but one has better longevity and education, potentially giving it
-      higher HDI. National averages still hide gender and regional gaps. HDI
-      does not add raw units directly and is not a comprehensive ecological or
-      political-freedom measure."
+    en: Life expectancy at birth. Normalise dimensions; combine schooling indicators
+      into education; the geometric mean limits full compensation of a weak
+      dimension by a strong one HDI does not add raw units directly and is not a
+      comprehensive ecological or political-freedom measure.
 - id: u4-39-hdi-short-1
   knowledgePointId: u4-39-hdi
   type: short-answer

@@ -34,13 +34,9 @@
       en: "60"
   correctOptionId: a
   explanation:
-    zh-CN: 10。 原创例：一台烤箱配 1、2、3 名工人的日产量为 10、25、35。第二名工人的边际产量为 15，第三名为
-      10。总产量仍在上升；技术不变是这一比较的条件。 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。
-    en: "10. Illustrative example: one oven with one, two and three workers produces
-      10, 25 and 35 units. The second worker adds 15, the third adds ten. Total
-      output still rises. Technology must be held constant for this comparison.
-      Diminishing returns concerns fixed inputs and differs from diseconomies
-      when all inputs vary in the long run."
+    zh-CN: 10。 35 − 25 = 10 报酬递减涉及固定投入，不同于长期所有投入变化的规模不经济。
+    en: 10. 35 − 25 = 10 Diminishing returns concerns fixed inputs and differs from
+      diseconomies when all inputs vary in the long run.
 - id: u2-09-diminishing-returns-short-1
   knowledgePointId: u2-09-diminishing-returns
   type: short-answer

@@ -26,7 +26,7 @@ Presentation influences attention and judgement.  defaults or framing alter refe
 
 ### Original scenario and reasoning
 
-Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation.
+Illustrative example: pension saving changes from opt-in to default enrolment with an opt-out. Participation may rise. A default is not compulsion. Evaluate ease of opting out, who benefits and potential manipulation. Anchoring overweights an initial number; framing changes choices through presentation of equivalent information; availability substitutes easily recalled examples for probability. Defaults allow opting out, restricted choice narrows options, and mandated choice requires an active decision.
 
 A nudge is not a tax or prohibition; policies restricting choice require a different classification.
 

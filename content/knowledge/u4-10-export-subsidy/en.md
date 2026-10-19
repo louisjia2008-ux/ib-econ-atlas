@@ -1,4 +1,7 @@
 ---
+hlExtension: "Hypothetical scenario: with world price ten and an export subsidy
+  of two, domestic price rises to twelve in a simplified arbitrage model. Fifty
+  exports cost the government 100."
 title: Export subsidies
 takeaway: An export subsidy pays per exported unit and can raise the domestic
   price and exports; fiscal costs and domestic consumption losses affect
@@ -26,7 +29,7 @@ Returns per exported unit rise.  producers divert sales until domestic price adj
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: with world price ten and an export subsidy of two, domestic price rises to twelve in a simplified arbitrage model. Fifty exports cost the government 100.
+Hypothetical scenario: a per-unit export subsidy encourages exporting until domestic price also rises under arbitrage. Domestic output rises, consumption falls and exports expand, at fiscal and consumer cost. Numerical fiscal calculations are HL.
 
 More exports do not establish a welfare gain; subsidies can also trigger trade disputes, whose specific rules require verification.
 

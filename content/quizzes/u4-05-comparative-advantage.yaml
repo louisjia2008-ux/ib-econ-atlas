@@ -37,16 +37,12 @@
       en: Equal opportunity costs guarantee specialisation gains
   correctOptionId: a
   explanation:
-    zh-CN: 1 布换 2.5 粮。 原创假设：A 可产 10 布或 20 粮，B 可产 6 布或 18 粮。1 布成本分别为 2 粮、3 粮；A 专业化布，按
-      1 布换 2.5 粮双方可获益。假设资源可转移、充分就业且忽略运费。
+    zh-CN: 1 布换 2.5 粮。 计算放弃的另一商品；比较机会成本；在两者之间确定互利交换比率
       即使一国两种商品都有绝对优势，仍可在不同机会成本下互利贸易；现实调整和外部性可能削弱收益。
-    en: "One cloth for 2.5 grain. Hypothetical scenario: A can make ten cloth or
-      twenty grain; B six cloth or eighteen grain. One cloth costs two grain in
-      A and three in B. A specialises in cloth; trading at 2.5 grain per cloth
-      can benefit both. Assume mobile domestic resources, full employment and no
-      freight costs. Even an economy with absolute advantage in both goods can
-      gain from different opportunity costs; adjustment and externalities can
-      weaken gains."
+    en: One cloth for 2.5 grain. Calculate the other good forgone; compare
+      opportunity costs; choose a trading ratio between them Even an economy
+      with absolute advantage in both goods can gain from different opportunity
+      costs; adjustment and externalities can weaken gains.
 - id: u4-05-comparative-advantage-short-1
   knowledgePointId: u4-05-comparative-advantage
   type: short-answer

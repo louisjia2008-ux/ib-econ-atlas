@@ -36,14 +36,9 @@
       en: 90%
   correctOptionId: a
   explanation:
-    zh-CN: 10%。 原创例：就业 900、失业 100、工作年龄人口 1250，失业率 10%、参与率
-      80%。沮丧者停止找工作可能离开劳动力，使失业率下降但就业不增加。还需观察不足就业和非正规就业。 失业率的分母不是总人口，也不是仅就业人数。
-    en: "10%. Illustrative example: 900 employed, 100 unemployed and 1250
-      working-age people imply unemployment 10% and participation 80%.
-      Discouraged workers leaving job search can lower unemployment without
-      raising employment. Underemployment and informal work also matter. The
-      unemployment-rate denominator is neither total population nor employed
-      people alone."
+    zh-CN: 10%。 20 / (180 + 20) × 100 = 10% 失业率的分母不是总人口，也不是仅就业人数。
+    en: 10%. 20 / (180 + 20) × 100 = 10% The unemployment-rate denominator is
+      neither total population nor employed people alone.
 - id: u3-21-unemployment-rate-short-1
   knowledgePointId: u3-21-unemployment-rate
   type: short-answer

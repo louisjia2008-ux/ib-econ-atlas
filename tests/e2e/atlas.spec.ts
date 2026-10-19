@@ -45,6 +45,22 @@ test("Unit 4 first visit, cross-language search and progress persist offline", a
   } finally { await context.setOffline(false); }
 });
 
+test("SL excludes advanced calculations without hiding shared trade theory", async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name !== "desktop", "Shared curriculum-level controls.");
+  await page.goto("/ib-econ-atlas/#/study/u4-07-tariff");
+  await expect(page.getByRole("heading", { name: "HL 深入与计算", exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "SL", exact: true }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "关税与小国福利" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "HL 深入与计算", exact: true })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: "开始 3 道练习", exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "选择范围: 贸易保护的类型", exact: true }).click();
+  await page.goto("/ib-econ-atlas/#/review");
+  await page.getByRole("button", { name: "选择题", exact: true }).click();
+  await page.getByRole("button", { name: "生成复习题组", exact: true }).click();
+  await expect(page.getByText("1 / 5", { exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 1 })).not.toContainText(/单位关税 3|单位补贴 4|出口补贴 2/);
+});
+
 test("Unit 3 bilingual macro diagrams fit every release viewport", async ({ page }) => {
   await page.goto("/ib-econ-atlas/#/study/u3-19-macro-shocks");
   await expect(page.getByRole("heading", { level: 1, name: "需求冲击、供给冲击与滞胀" })).toBeVisible();
@@ -65,7 +81,7 @@ test("Unit 3 directory, HL filter and scoped practice compose", async ({ page },
   await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 13 · 宏观经济政策" })).toBeVisible();
   await page.getByRole("tab", { name: "考纲目录" }).click();
   await page.getByRole("button", { name: "选择范围: 财政政策", exact: true }).click();
-  await expect(page.getByText("7 / 215", { exact: true })).toBeVisible();
+  await expect(page.getByText("7 / 227", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "SL", exact: true }).click();
   await expect(page.getByRole("button", { name: "凯恩斯乘数", exact: true })).toHaveCount(0);
   await page.getByRole("button", { name: "全部 + 扩展", exact: true }).click();
@@ -128,7 +144,7 @@ test("Unit 2 directory, scope, HL filter and review compose", async ({ page }, t
   await expect(page.locator(".tree-section-button").filter({ hasText: "Chapter 2 · 竞争市场" })).toBeVisible();
   await page.getByRole("tab", { name: "考纲目录" }).click();
   await page.getByRole("button", { name: "选择范围: 需求", exact: true }).click();
-  await expect(page.getByText("5 / 215", { exact: true })).toBeVisible();
+  await expect(page.getByText("5 / 227", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "SL", exact: true }).click();
   await expect(page.getByRole("button", { name: "边际效用与消费者选择", exact: true })).toHaveCount(0);
   await page.goto("/ib-econ-atlas/#/review");
@@ -232,11 +248,11 @@ test("the global level filter applies to progress and resets an active review", 
   test.skip(testInfo.project.name !== "desktop", "One desktop run covers shared level state.");
   await page.goto("/ib-econ-atlas/#/progress");
   const newCount = page.locator(".stat-grid article").filter({ hasText: "未学" }).getByRole("strong");
-  await expect(newCount).toHaveText("215");
+  await expect(newCount).toHaveText("227");
   await page.getByRole("button", { name: "SL", exact: true }).click();
-  await expect(newCount).toHaveText("164");
+  await expect(newCount).toHaveText("178");
   await page.getByRole("button", { name: "HL", exact: true }).click();
-  await expect(newCount).toHaveText("207");
+  await expect(newCount).toHaveText("226");
   await page.goto("/ib-econ-atlas/#/review");
   await page.getByRole("button", { name: "闪卡", exact: true }).click();
   await page.getByRole("button", { name: "生成复习题组" }).click();
@@ -259,14 +275,14 @@ test("bilingual fuzzy search, directory modes, and session scope compose", async
   await expect(page.getByRole("button", { name: /1\.1 · CORE .*稀缺性/ }).first()).toBeVisible();
 
   await page.goto(studyRoute);
-  await page.getByRole("button", { name: "选择范围: 经济学的本质" }).click();
-  await expect(page.getByText("15 / 215", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "选择范围: 什么是经济学？" }).click();
+  await expect(page.getByText("29 / 227", { exact: true })).toBeVisible();
   await page.goto("/ib-econ-atlas/#/progress");
-  await expect(page.getByText("当前仅统计考试范围内的 15 个知识点。")).toBeVisible();
+  await expect(page.getByText("当前仅统计考试范围内的 29 个知识点。")).toBeVisible();
   await page.goto(studyRoute);
   await search.fill("循环经济");
-  await expect(page.getByText("当前筛选和考试范围没有匹配项。")).toBeVisible();
-  await page.getByRole("button", { name: "清除考试范围" }).click();
+  await expect(page.getByRole("button", { name: /相互依存与循环经济/ })).toHaveCount(0);
+  await page.getByRole("button", { name: "Clear scope", exact: true }).click();
   await expect(page.getByRole("button", { name: /相互依存与循环经济/ })).toBeVisible();
 });
 

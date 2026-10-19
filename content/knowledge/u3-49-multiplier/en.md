@@ -27,7 +27,7 @@ Autonomous spending creates first-round income.  part funds further domestic spe
 
 ### Original scenario and reasoning
 
-Illustrative example: MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so 10 of extra government purchases generates 20 of model income. Only without taxes and imports does k simplify to 1/(1−MPC). The model assumes spare capacity and unchanged prices and omits crowding out and policy responses; real outcomes can differ.
+Illustrative example: with all leakages measured against the same extra gross income, MPS=0.2, MPT=0.1 and MPM=0.2 give k=2, so ten of extra government purchases yields twenty of model income. In a closed model without government, k=1/(1−MPC). If c is consumption out of disposable income, t a proportional tax on gross income and m imports out of gross income, k=1/[1−c(1−t)+m]. Do not mix bases. Assume spare capacity, fixed prices and no crowding out or policy response.
 
 Do not mix marginal propensities measured against pre-tax and post-tax income.
 

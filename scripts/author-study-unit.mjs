@@ -1,3 +1,4 @@
+import { workings } from "./content-data/audit-workings.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
@@ -37,6 +38,8 @@ for (const [index, topic] of topics.entries()) {
   fs.writeFileSync(path.join(contentDirectory, "meta.yaml"), YAML.stringify(meta));
   for (const [lang, file] of [[0, "zh.md"], [1, "en.md"]]) {
     const frontmatter = {
+      ...(topic.sourceUrl ? { realWorldExample: { title: topic.title[lang], sourceUrl: topic.sourceUrl, observedAt: topic.observedAt, explanation: topic.example[lang] } } : {}),
+      ...(topic.hlExample ? { hlExtension: topic.hlExample[lang] } : {}),
       title: topic.title[lang], takeaway: topic.definition[lang], definition: topic.definition[lang],
       causalChain: steps[lang], misconceptions: [topic.trap[lang]],
       examApplication: [guidance[topic.section][lang]],
@@ -52,6 +55,7 @@ for (const [index, topic] of topics.entries()) {
     id: String.fromCharCode(97 + optionIndex),
     ...paired(optionIndex === correctIndex ? topic.correct : distractors.shift()),
   }));
+  const worked = topic.hlQuestion ? undefined : workings[id];
   const modelAnswer = topic.definition.map((value, lang) => `${value} ${topic.mechanism[lang]} ${topic.example[lang]}`);
   const practice = [
     { id: flashId, knowledgePointId: id, type: "flashcard",
@@ -59,7 +63,7 @@ for (const [index, topic] of topics.entries()) {
       answer: paired(topic.definition), explanation: paired(topic.trap) },
     { id: mcqId, knowledgePointId: id, type: "mcq", prompt: paired(topic.question),
       options, correctOptionId: String.fromCharCode(97 + correctIndex),
-      explanation: paired(topic.example.map((value, lang) => `${topic.correct[lang]}${lang === 0 ? "。" : "."} ${value} ${topic.trap[lang]}`)) },
+      explanation: paired(topic.mechanism.map((value, lang) => `${topic.correct[lang]}${lang === 0 ? "。" : "."} ${worked ?? value} ${topic.trap[lang]}`)) },
     { id: shortId, knowledgePointId: id, type: "short-answer",
       prompt: paired([`解释${zhTitle}的机制，并用一个自己设计的情境说明其含义。`, `Explain the mechanism of ${enTitle} and apply it to an example of your own.`]),
       modelAnswer: paired(modelAnswer),
@@ -72,6 +76,17 @@ for (const [index, topic] of topics.entries()) {
       }),
       explanation: paired(["关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。", "Keyword coverage is a study aid, not official IB marking. Check assumptions, causation and application, then override the judgement if needed."]) },
   ];
+  if (topic.hlQuestion) {
+    const advancedCorrect = (index + 1) % 4;
+    const advancedWrong = [...topic.hlQuestion.wrong];
+    const advancedOptions = [0, 1, 2, 3].map(i => ({ id: String.fromCharCode(97 + i), ...paired(i === advancedCorrect ? topic.hlQuestion.correct : advancedWrong.shift()) }));
+    const advancedId = `${id}-mcq-hl-1`;
+    practice.push({ id: advancedId, knowledgePointId: id, type: "mcq", level: "hl",
+      prompt: paired(topic.hlQuestion.question), options: advancedOptions, correctOptionId: String.fromCharCode(97 + advancedCorrect),
+      explanation: paired(topic.hlExample.map((value, lang) => `${topic.hlQuestion.correct[lang]}${lang === 0 ? "。" : "."} ${workings[id] ?? (id === "u3-24-cpi" ? "46 / 40 × 100 = 115" : value)}`)) });
+    meta.quizIds.push(advancedId);
+    fs.writeFileSync(path.join(contentDirectory, "meta.yaml"), YAML.stringify(meta));
+  }
   fs.writeFileSync(path.join(contentRoot, "quizzes", `${id}.yaml`), YAML.stringify(practice));
 }
 

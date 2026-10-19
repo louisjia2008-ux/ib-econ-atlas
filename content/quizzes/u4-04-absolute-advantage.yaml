@@ -33,12 +33,10 @@
       en: The economy producing eight
   correctOptionId: d
   explanation:
-    zh-CN: 产量为 8 的经济体。 原创假设：每工时 A 可产 8 件布，B 可产 5 件，A 在布上有绝对优势；仍需比较另一商品才能判断比较优势。
-      绝对优势比较生产率，比较优势比较机会成本，二者不能互换。
-    en: "The economy producing eight. Hypothetical scenario: A produces eight cloth
-      units per hour and B five. A has absolute advantage in cloth, but another
-      good is needed to establish comparative advantage. Absolute advantage
-      compares productivity; comparative advantage compares opportunity cost."
+    zh-CN: 产量为 8 的经济体。 保持投入可比；比较单位资源的产量；识别生产率优势 绝对优势比较生产率，比较优势比较机会成本，二者不能互换。
+    en: The economy producing eight. Hold inputs comparable; compare output per unit
+      of resources; identify the productivity advantage Absolute advantage
+      compares productivity; comparative advantage compares opportunity cost.
 - id: u4-04-absolute-advantage-short-1
   knowledgePointId: u4-04-absolute-advantage
   type: short-answer

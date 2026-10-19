@@ -34,14 +34,11 @@
       en: Instantly doubled capacity
   correctOptionId: a
   explanation:
-    zh-CN: 需求拉动型通胀。
-      原创例：充分就业附近，信贷和消费快速增加，企业难以迅速增产，涨价压力变大。同样的需求增加在大量闲置资源时可能更多体现为实际增长，而非相同幅度的通胀。
-      单一商品涨价不必然意味着总体需求拉动通胀。
-    en: "Demand-pull inflation. Illustrative example: rapid credit and consumption
-      growth near full employment meets limited production response, raising
-      price pressure. With substantial spare resources, the same demand rise may
-      generate more real growth and less inflation. A price rise in one product
-      does not necessarily imply economy-wide demand-pull inflation."
+    zh-CN: 需求拉动型通胀。 消费、投资或其他支出增加；AD 右移接近或超过产能；工资与价格承受上涨压力 单一商品涨价不必然意味着总体需求拉动通胀。
+    en: Demand-pull inflation. Consumption, investment or other spending rises; AD
+      shifts right toward or beyond capacity; wages and prices face upward
+      pressure A price rise in one product does not necessarily imply
+      economy-wide demand-pull inflation.
 - id: u3-25-demand-pull-short-1
   knowledgePointId: u3-25-demand-pull
   type: short-answer

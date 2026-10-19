@@ -34,15 +34,12 @@
       en: Has no possible long-run effect
   correctOptionId: c
   explanation:
-    zh-CN: 技能退化可能降低潜在产出。
-      原创例：工厂关闭不仅影响失业家庭，也影响附近商店和政府税收。培训和求职支持可能防止短期冲击变为长期结构问题，但项目设计、心理健康和地区岗位需求都影响效果。
+    zh-CN: 技能退化可能降低潜在产出。 劳动资源未被利用；收入与需求下降；长期失业进一步损害技能和未来就业能力
       财政补助可缓解家庭收入损失，却不能自动补回未生产的全部产出。
-    en: "Skill loss can reduce potential output. Illustrative example: a factory
-      closure affects workers' households, nearby shops and tax receipts.
-      Training and job-search support may prevent a temporary shock becoming
-      structural, but programme quality, mental health and regional vacancies
-      affect outcomes. Benefits can cushion household income without
-      automatically restoring all lost output."
+    en: Skill loss can reduce potential output. Labour resources remain unused;
+      income and demand fall; prolonged joblessness damages skills and future
+      employability Benefits can cushion household income without automatically
+      restoring all lost output.
 - id: u3-23-unemployment-costs-short-1
   knowledgePointId: u3-23-unemployment-costs
   type: short-answer

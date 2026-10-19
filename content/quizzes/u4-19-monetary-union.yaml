@@ -2,98 +2,96 @@
   knowledgePointId: u4-19-monetary-union
   type: flashcard
   prompt:
-    zh-CN: 解释“货币联盟的收益与代价”，并说明一个关键条件。
-    en: Explain Benefits and costs of monetary union and state one important
-      condition.
+    zh-CN: 解释“货币联盟的含义”，并说明一个关键条件。
+    en: Explain The meaning of monetary union and state one important condition.
   answer:
-    zh-CN: 货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。
-    en: A monetary union uses a common currency and monetary policy, reducing
-      internal conversion costs and exchange risk while removing independent
-      interest-rate and exchange-rate adjustment.
+    zh-CN: 货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。
+    en: A monetary union uses a shared currency and monetary policy; members no
+      longer issue separate currencies with independently adjustable exchange
+      rates. Evaluating benefits, costs and asymmetric shocks is HL.
   explanation:
-    zh-CN: 共同货币不自动带来财政联盟，也不消除成员信用风险。
-    en: A common currency does not automatically create a fiscal union or eliminate
-      member credit risk.
+    zh-CN: 自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。
+    en: A free trade area is not a monetary union; a common currency does not
+      automatically mean fiscal unification.
 - id: u4-19-monetary-union-mcq-1
   knowledgePointId: u4-19-monetary-union
   type: mcq
   prompt:
-    zh-CN: 面对非对称冲击，成员失去了哪项工具？
-    en: Which tool does a member lose when facing an asymmetric shock?
+    zh-CN: 货币联盟的识别特征是什么？
+    en: What identifies a monetary union?
   options:
     - id: a
-      zh-CN: 所有财政支出
-      en: All fiscal expenditure
+      zh-CN: 仅内部免关税
+      en: Internal tariff removal alone
     - id: b
-      zh-CN: 所有劳动流动
-      en: All labour mobility
+      zh-CN: 仅共同对外关税
+      en: A common external tariff alone
     - id: c
-      zh-CN: 独立本币贬值
-      en: Independent currency depreciation
+      zh-CN: 共同货币与共同货币政策
+      en: A shared currency and monetary policy
     - id: d
-      zh-CN: 一切贸易
-      en: All trade
+      zh-CN: 仅人口相同
+      en: Identical populations alone
   correctOptionId: c
   explanation:
-    zh-CN: 独立本币贬值。 原创假设：A 经济过热而 B 衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。
-      共同货币不自动带来财政联盟，也不消除成员信用风险。
-    en: "Independent currency depreciation. Hypothetical scenario: A overheats while
-      B is in recession, so one rate is hard to tailor. Labour mobility, fiscal
-      transfers and price-wage flexibility affect adjustment. A common currency
-      does not automatically create a fiscal union or eliminate member credit
-      risk."
+    zh-CN: 共同货币与共同货币政策。 成员采用共同货币；共同机构制定货币政策；区别于只有内部自由贸易的贸易区
+      自由贸易区不等于货币联盟，共同货币也不自动意味着财政统一。
+    en: A shared currency and monetary policy. Members adopt one currency; a shared
+      institution sets monetary policy; distinguish this from an area with
+      internal free trade only A free trade area is not a monetary union; a
+      common currency does not automatically mean fiscal unification.
 - id: u4-19-monetary-union-short-1
   knowledgePointId: u4-19-monetary-union
   type: short-answer
   prompt:
-    zh-CN: 解释货币联盟的收益与代价的机制，并用一个自己设计的情境说明其含义。
-    en: Explain the mechanism of Benefits and costs of monetary union and apply it
-      to an example of your own.
+    zh-CN: 解释货币联盟的含义的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of The meaning of monetary union and apply it to an
+      example of your own.
   modelAnswer:
-    zh-CN: 货币联盟采用共同货币和共同货币政策，减少内部汇兑成本与汇率风险，但成员失去独立利率和汇率调整工具。
-      共同货币降低交易摩擦；价格比较更容易；非对称冲击下统一利率可能不适合所有成员 原创假设：A 经济过热而 B
-      衰退，同一利率难以兼顾；劳动力流动、财政转移与价格工资弹性影响调整能力。
-    en: "A monetary union uses a common currency and monetary policy, reducing
-      internal conversion costs and exchange risk while removing independent
-      interest-rate and exchange-rate adjustment. A shared currency lowers
-      transaction frictions; price comparison becomes easier; one interest rate
-      may not suit members facing asymmetric shocks Hypothetical scenario: A
-      overheats while B is in recession, so one rate is hard to tailor. Labour
-      mobility, fiscal transfers and price-wage flexibility affect adjustment."
+    zh-CN: 货币联盟采用共同货币及共同货币政策，成员不再各自发行可独立调整汇率的货币。收益、代价与非对称冲击评价属于 HL。
+      成员采用共同货币；共同机构制定货币政策；区别于只有内部自由贸易的贸易区 原创假设：A 与 B
+      内部免税仍可保留不同货币；只有采用共同货币和共同货币政策才符合本卡的货币联盟定义。
+    en: "A monetary union uses a shared currency and monetary policy; members no
+      longer issue separate currencies with independently adjustable exchange
+      rates. Evaluating benefits, costs and asymmetric shocks is HL. Members
+      adopt one currency; a shared institution sets monetary policy; distinguish
+      this from an area with internal free trade only Hypothetical scenario: A
+      and B can trade duty-free while retaining different currencies. A common
+      currency and monetary policy distinguish monetary union here."
   keywordGroups:
     - id: mechanism-1
       label:
-        zh-CN: 货币
-        en: currency
+        zh-CN: 共同货币
+        en: shared currency
       alternatives:
         zh-CN:
-          - 货币
-          - 共同货币降低交易摩擦
+          - 共同货币
+          - 成员采用共同货币
         en:
-          - currency
-          - A shared currency lowers transaction frictions
+          - shared currency
+          - Members adopt one currency
     - id: mechanism-2
       label:
-        zh-CN: 利率
-        en: interest rate
+        zh-CN: 货币政策
+        en: monetary policy
       alternatives:
         zh-CN:
-          - 利率
-          - 价格比较更容易
+          - 货币政策
+          - 共同机构制定货币政策
         en:
-          - interest rate
-          - price comparison becomes easier
+          - monetary policy
+          - a shared institution sets monetary policy
     - id: mechanism-3
       label:
-        zh-CN: 冲击
-        en: shock
+        zh-CN: 成员
+        en: members
       alternatives:
         zh-CN:
-          - 冲击
-          - 非对称冲击下统一利率可能不适合所有成员
+          - 成员
+          - 区别于只有内部自由贸易的贸易区
         en:
-          - shock
-          - one interest rate may not suit members facing asymmetric shocks
+          - members
+          - distinguish this from an area with internal free trade only
   explanation:
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,

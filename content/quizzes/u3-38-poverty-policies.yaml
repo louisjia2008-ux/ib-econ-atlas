@@ -35,15 +35,11 @@
       en: Only compare programme names
   correctOptionId: b
   explanation:
-    zh-CN: 针对性与覆盖遗漏。
-      原创例：收入审查补助提高针对性，却可能遗漏无完整收入记录的家庭；逐步退出补助可减轻福利悬崖。普遍公共教育覆盖更广，但若地区质量差异大，名义免费并不保证机会平等。
-      转移金额增加不等于实际贫困一定同幅减少。
-    en: "Targeting and exclusion errors. Illustrative example: means-tested support
-      improves targeting but may miss households without records; tapering
-      benefits can reduce benefit cliffs. Universal schooling reaches more
-      people, but unequal local quality means nominally free provision need not
-      equalise opportunity. A larger transfer does not necessarily reduce real
-      poverty by the same proportion."
+    zh-CN: 针对性与覆盖遗漏。 识别收入或机会障碍；选择现金、服务或制度工具；用受益分布及行为反应评估结果 转移金额增加不等于实际贫困一定同幅减少。
+    en: Targeting and exclusion errors. Identify income or opportunity barriers;
+      choose cash, services or institutional tools; assess benefit distribution
+      and behavioural responses A larger transfer does not necessarily reduce
+      real poverty by the same proportion.
 - id: u3-38-poverty-policies-short-1
   knowledgePointId: u3-38-poverty-policies
   type: short-answer

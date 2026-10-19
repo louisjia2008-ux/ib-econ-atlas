@@ -22,16 +22,14 @@
     en: Which statement best captures “The market mechanism”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 价格只传递信息却从不影响激励
+      en: Prices convey information but never affect incentives
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 价格机制总保证按需要平均配给
+      en: Prices always ration equally by need
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 市场机制要求政府逐笔指定所有买卖
+      en: Markets require government to specify every trade
     - id: d
       zh-CN: 市场机制用价格变化协调分散的供需决定，并把资源引向愿付价格较高和预期利润较高的用途。
       en: The market mechanism uses changing prices to coordinate decentralised supply
@@ -51,15 +49,15 @@
     en: Briefly explain “The market mechanism”, including one causal mechanism and
       one important implication.
   modelAnswer:
-    zh-CN: 市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
+    zh-CN: 市场机制：市场机制是供给与需求的相互作用通过价格信号、激励和配给作用协调买卖决策并配置资源的过程。
       买方需求与卖方供给不一致；短缺或剩余推动价格变化；价格改变消费者和生产者激励；数量和资源配置向新的市场结果调整 价格汇集供需信息。
-    en: The market mechanism is the process through which supply and demand interact
-      so that price signals, incentives, and rationing coordinate buying and
-      selling decisions and allocate resources. Desired purchases and sales do
-      not initially match; Shortage or surplus puts pressure on price; Price
-      changes consumer and producer incentives; Quantities and resources adjust
-      toward a new market outcome Price aggregates information about supply and
-      demand.
+    en: "The market mechanism: The market mechanism is the process through which
+      supply and demand interact so that price signals, incentives, and
+      rationing coordinate buying and selling decisions and allocate resources.
+      Desired purchases and sales do not initially match; Shortage or surplus
+      puts pressure on price; Price changes consumer and producer incentives;
+      Quantities and resources adjust toward a new market outcome Price
+      aggregates information about supply and demand."
   keywordGroups:
     - id: concept
       label:

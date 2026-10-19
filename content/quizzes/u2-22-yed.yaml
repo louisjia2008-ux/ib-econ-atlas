@@ -35,14 +35,11 @@
       en: Public good
   correctOptionId: b
   explanation:
-    zh-CN: 劣等品。 原创例：收入增加 10%，某商品购买量下降
-      5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。 YED 分类保留正负号，不能像 PED
-      分类一样去掉符号。
-    en: "Inferior good. Illustrative example: income rises 10% and purchases of a
-      good fall 5%, so YED is -0.5: an inferior good. Inferior describes the
-      income-demand relationship, not a moral judgement or necessarily poor
-      quality. Retain the sign when classifying YED; do not discard it as with
-      PED magnitude classifications."
+    zh-CN: 劣等品。 收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED YED 分类保留正负号，不能像 PED 分类一样去掉符号。
+    en: Inferior good. Income changes with product price held constant; consumers
+      reallocate budgets; the direction and proportion of quantity response
+      determine YED Retain the sign when classifying YED; do not discard it as
+      with PED magnitude classifications.
 - id: u2-22-yed-short-1
   knowledgePointId: u2-22-yed
   type: short-answer
@@ -54,6 +51,7 @@
     zh-CN: YED=需求量百分比变化/收入百分比变化；正值表示正常品，负值表示劣等品。正值超过一通常表示奢侈品，零到一通常表示必需品。
       收入改变而商品价格保持不变；消费者重新配置预算；数量反应的方向和比例确定 YED 原创例：收入增加 10%，某商品购买量下降
       5%，YED=-0.5，属于劣等品。劣等是需求与收入的关系，不是道德评价，也不必意味着产品质量差。
+      恩格尔曲线以收入为横轴、需求量为纵轴；正常品向上、劣等品在相关收入区间向下，其斜率本身不等于 YED。
     en: "YED is percentage change in quantity demanded divided by percentage change
       in income. Positive values indicate normal goods and negative values
       inferior goods. Values above one usually indicate luxuries; between zero
@@ -62,7 +60,9 @@
       response determine YED Illustrative example: income rises 10% and
       purchases of a good fall 5%, so YED is -0.5: an inferior good. Inferior
       describes the income-demand relationship, not a moral judgement or
-      necessarily poor quality."
+      necessarily poor quality. An Engel curve plots income horizontally and
+      quantity demanded vertically: it slopes up for normal goods and down over
+      the relevant range for inferior goods. Its slope is not itself YED."
   keywordGroups:
     - id: mechanism-1
       label:

@@ -35,13 +35,11 @@
       en: Only count pages of paperwork
   correctOptionId: c
   explanation:
-    zh-CN: 是否必要且非歧视。 原创假设：同样食品安全风险，若进口商被要求重复检验而本地企业无需检验，应评估必要性、证据与非歧视性。
-      不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。
-    en: "Whether they are necessary and non-discriminatory. Hypothetical scenario:
-      importers face duplicate inspections while local firms with identical food
-      risks do not. Assess necessity, evidence and non-discrimination. Lower
-      imports alone do not prove a standard lacks public value, but hidden
-      discrimination must not be ignored."
+    zh-CN: 是否必要且非歧视。 合规时间和费用提高；进口供给受限；保护收益与公共利益须分别判断 不能因为某标准减少进口就断言它毫无公共利益，也不能忽略隐性歧视。
+    en: Whether they are necessary and non-discriminatory. Compliance time and costs
+      rise; imports are constrained; protection gains and public benefits need
+      separate assessment Lower imports alone do not prove a standard lacks
+      public value, but hidden discrimination must not be ignored.
 - id: u4-11-administrative-barriers-short-1
   knowledgePointId: u4-11-administrative-barriers
   type: short-answer

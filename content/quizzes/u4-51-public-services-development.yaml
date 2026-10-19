@@ -35,13 +35,12 @@
       en: Only floor area
   correctOptionId: c
   explanation:
-    zh-CN: 学习成果、覆盖和机会成本。 原创假设：儿童现金补助配合附近有质量的学校，可能改善出勤；若学校缺师资，仅要求出勤会增加家庭负担。
+    zh-CN: 学习成果、覆盖和机会成本。 公共服务降低个人进入障碍；健康技能提高参与和生产率；公平与增长可能相互促进
       政府支出不是自动有效，必须比较机会成本、漏损和受益群体。
-    en: "Learning outcomes, access and opportunity cost. Hypothetical scenario:
-      child transfers combined with accessible quality schools may improve
-      attendance. Requiring attendance where teachers are absent can burden
-      families. Public spending is not automatically effective; assess
-      opportunity cost, leakage and beneficiaries."
+    en: Learning outcomes, access and opportunity cost. Services lower individual
+      barriers; health and skills improve participation and productivity; equity
+      and growth may reinforce each other Public spending is not automatically
+      effective; assess opportunity cost, leakage and beneficiaries.
 - id: u4-51-public-services-development-short-1
   knowledgePointId: u4-51-public-services-development
   type: short-answer

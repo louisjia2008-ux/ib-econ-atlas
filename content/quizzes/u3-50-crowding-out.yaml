@@ -35,15 +35,11 @@
       en: Fixed interest alone rules out resource competition
   correctOptionId: b
   explanation:
-    zh-CN: 经济接近产能上限。
-      原创例：满负荷时公共工程争夺建筑工人，私人项目成本上升；深度衰退且货币宽松时，这类压力可能较弱。改善运输的公共投资还可能降低企业成本，形成挤入，需区分短期与长期。
-      政府借款增加不能单独证明私人投资等额下降。
-    en: "The economy is close to capacity. Illustrative example: at capacity, public
-      works compete for construction workers and raise private project costs.
-      Such pressure may be weaker in a deep recession with monetary
-      accommodation. Transport investment may also lower firms' costs and crowd
-      investment in over time. Higher government borrowing alone does not prove
-      an equal fall in private investment."
+    zh-CN: 经济接近产能上限。 政府扩张增加融资或资源需求；利率或投入成本可能上升；部分私人投资消费或净出口被抵消 政府借款增加不能单独证明私人投资等额下降。
+    en: The economy is close to capacity. Fiscal expansion raises financing or
+      resource demand; interest rates or input costs may rise; some private
+      investment, consumption or net exports are offset Higher government
+      borrowing alone does not prove an equal fall in private investment.
 - id: u3-50-crowding-out-short-1
   knowledgePointId: u3-50-crowding-out
   type: short-answer

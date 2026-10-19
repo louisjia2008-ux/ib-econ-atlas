@@ -34,12 +34,9 @@
       en: One hundred and five dollars
   correctOptionId: b
   explanation:
-    zh-CN: 20 美元。 原创假设：每美元 8 本币，240 本币可换 30 美元；变为每美元 10 本币，同额只能换 24 美元。本币的美元价值下降
-      20%，不是 25%。 进口账单变化可能还含数量与外币价格变化；应控制条件。
-    en: "Twenty dollars. Hypothetical scenario: at eight home units per dollar, 240
-      home units buy thirty dollars; at ten, they buy twenty-four. The home
-      currency's dollar value falls 20%, not 25%. An import bill can also change
-      with quantity and foreign price; hold these conditions constant."
+    zh-CN: 20 美元。 100 / 5 = 20 USD 进口账单变化可能还含数量与外币价格变化；应控制条件。
+    en: Twenty dollars. 100 / 5 = 20 USD An import bill can also change with
+      quantity and foreign price; hold these conditions constant.
 - id: u4-26-exchange-calculations-short-1
   knowledgePointId: u4-26-exchange-calculations
   type: short-answer

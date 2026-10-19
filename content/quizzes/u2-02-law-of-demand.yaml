@@ -16,33 +16,29 @@
   knowledgePointId: u2-02-law-of-demand
   type: mcq
   prompt:
-    zh-CN: 公交涨价后转乘未涨价地铁，主要体现什么？
-    en: Switching to an unchanged-price train after a bus fare rise illustrates
-      what?
+    zh-CN: 只有商品自身价格上升，需求量通常怎样变化？
+    en: Only the good’s own price rises. What normally happens to quantity demanded?
   options:
     - id: a
-      zh-CN: 公交供给增加
-      en: Increased bus supply
+      zh-CN: 需求曲线必定右移
+      en: Demand necessarily shifts right
     - id: b
-      zh-CN: 替代效应
-      en: Substitution effect
+      zh-CN: 沿原需求曲线减少
+      en: It falls along the existing demand curve
     - id: c
-      zh-CN: 所有需求消失
-      en: All demand disappears
+      zh-CN: 供给曲线必定左移
+      en: Supply necessarily shifts left
     - id: d
-      zh-CN: 收入必然增加
-      en: Income necessarily rises
+      zh-CN: 需求量必定增加
+      en: Quantity demanded necessarily rises
   correctOptionId: b
   explanation:
-    zh-CN: 替代效应。
-      原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。
+    zh-CN: 沿原需求曲线减少。 自身价格与需求量反向变化；收入等其他因素保持不变；在既定需求曲线上比较数量
       曲线向下倾斜是有条件的关系，不能把相关性当成无条件因果。
-    en: "Substitution effect. Illustrative example: a bus fare rises while the train
-      fare stays unchanged, so some passengers switch. Hold service quality and
-      income constant to isolate the price effect. A simultaneous quality
-      improvement would confound the inference. A downward slope is a
-      conditional relationship, not unconditional causation inferred from
-      correlation."
+    en: It falls along the existing demand curve. Own price and quantity demanded
+      move inversely; hold income and other determinants constant; compare
+      quantities on the existing demand curve A downward slope is a conditional
+      relationship, not unconditional causation inferred from correlation.
 - id: u2-02-law-of-demand-short-1
   knowledgePointId: u2-02-law-of-demand
   type: short-answer
@@ -52,49 +48,48 @@
       your own.
   modelAnswer:
     zh-CN: 其他条件不变时，商品价格上升通常导致需求量减少，价格下降通常导致需求量增加。
-      价格上升提高购买的机会成本；消费者转向相对便宜的替代品；给定收入的实际购买力下降
-      原创例：公交票价提高而地铁票价不变，一些乘客改乘地铁。解释价格反应时应保持两种服务质量和收入不变；若同时改善公交服务，就无法只凭购买量判断价格效应。
+      自身价格与需求量反向变化；收入等其他因素保持不变；在既定需求曲线上比较数量
+      原创例：公交票价提高，其他条件不变时需求量通常下降，这是沿曲线移动。收入效应与替代效应的推导属于 HL 深入。
     en: "Ceteris paribus, a higher price normally reduces quantity demanded and a
-      lower price increases it. A price rise increases the opportunity cost of
-      buying; consumers substitute toward relatively cheaper goods; purchasing
-      power falls at a given money income Illustrative example: a bus fare rises
-      while the train fare stays unchanged, so some passengers switch. Hold
-      service quality and income constant to isolate the price effect. A
-      simultaneous quality improvement would confound the inference."
+      lower price increases it. Own price and quantity demanded move inversely;
+      hold income and other determinants constant; compare quantities on the
+      existing demand curve Illustrative example: a bus fare rises and, other
+      things equal, quantity demanded normally falls along the curve. Deriving
+      income and substitution effects is HL detail."
   keywordGroups:
     - id: mechanism-1
       label:
+        zh-CN: 自身价格
+        en: own price
+      alternatives:
+        zh-CN:
+          - 自身价格
+          - 自身价格与需求量反向变化
+        en:
+          - own price
+          - Own price and quantity demanded move inversely
+    - id: mechanism-2
+      label:
         zh-CN: 其他条件不变
-        en: ceteris paribus
+        en: other things equal
       alternatives:
         zh-CN:
           - 其他条件不变
-          - 价格上升提高购买的机会成本
+          - 收入等其他因素保持不变
         en:
-          - ceteris paribus
-          - A price rise increases the opportunity cost of buying
-    - id: mechanism-2
-      label:
-        zh-CN: 替代
-        en: substitution
-      alternatives:
-        zh-CN:
-          - 替代
-          - 消费者转向相对便宜的替代品
-        en:
-          - substitution
-          - consumers substitute toward relatively cheaper goods
+          - other things equal
+          - hold income and other determinants constant
     - id: mechanism-3
       label:
-        zh-CN: 购买力
-        en: purchasing power
+        zh-CN: 沿曲线
+        en: along the curve
       alternatives:
         zh-CN:
-          - 购买力
-          - 给定收入的实际购买力下降
+          - 沿曲线
+          - 在既定需求曲线上比较数量
         en:
-          - purchasing power
-          - purchasing power falls at a given money income
+          - along the curve
+          - compare quantities on the existing demand curve
   explanation:
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,

@@ -1,12 +1,12 @@
 id: u1-29-ppc-opportunity-cost-shapes
 slug: ppc-opportunity-cost-shapes
-section: "1.3"
+section: "1.1"
 level: core
 syllabusRefs:
-  - 1.3 Economic models and the PPC
+  - 1.1 What is economics?
 textbookRefs:
   - chapter: "1"
-    section: "1.3"
+    section: "1.1"
     pages:
       - 21
       - 22

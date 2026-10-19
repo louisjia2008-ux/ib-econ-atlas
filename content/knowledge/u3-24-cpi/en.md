@@ -1,4 +1,8 @@
 ---
+hlExtension: "HL original calculation: the base basket contains two A at ten and
+  one B at twenty, costing forty. New prices twelve and twenty-two give basket
+  cost forty-six, so CPI=46/40×100=115. Quantity weights matter; do not simply
+  average price changes."
 title: CPI and inflation calculations
 takeaway: CPI measures consumer-price changes using a weighted basket.
   Inflation=(current index−previous index)/previous index×100. Weights and

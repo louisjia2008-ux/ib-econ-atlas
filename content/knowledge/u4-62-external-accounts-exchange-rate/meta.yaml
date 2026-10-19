@@ -1,0 +1,40 @@
+id: u4-62-external-accounts-exchange-rate
+slug: external-accounts-exchange-rate
+section: "4.6"
+level: hl
+syllabusRefs:
+  - 4.6 Balance of payments
+textbookRefs:
+  - chapter: "17"
+    section: "17.1"
+    pages:
+      - 520
+prerequisites:
+  - u1-14-opportunity-cost
+related:
+  - u4-28-current-account
+  - u4-29-capital-financial-account
+  - u4-30-bop-identity
+terms:
+  - 外部账户与汇率的联系
+  - External accounts and exchange rates
+  - 经常账户
+  - current account
+  - 金融流
+  - financial flows
+  - 汇率
+  - exchange rate
+synonyms:
+  zh-CN:
+    - 经常账户
+    - 金融流
+    - 汇率
+  en:
+    - current account
+    - financial flows
+    - exchange rate
+diagramIds: []
+quizIds:
+  - u4-62-external-accounts-exchange-rate-flash-1
+  - u4-62-external-accounts-exchange-rate-mcq-1
+  - u4-62-external-accounts-exchange-rate-short-1

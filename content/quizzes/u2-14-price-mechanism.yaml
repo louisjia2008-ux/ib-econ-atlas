@@ -35,13 +35,10 @@
       en: Fix production quotas
   correctOptionId: b
   explanation:
-    zh-CN: 激励。 原创例：雨季蔬菜受损，价格上涨既鼓励其他农场运来产品，也使部分买家节约用量。支付能力影响谁买得到，所以有效配给与公平分配不是同一评价标准。
-      高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。
-    en: "Incentive. Illustrative example: rain damages vegetables and prices rise,
-      encouraging other farms to deliver more and buyers to economise. Ability
-      to pay affects access, so efficient rationing and equitable distribution
-      are distinct criteria. A high price reflects relative market scarcity, not
-      a direct measure of urgency of human need."
+    zh-CN: 激励。 需求相对供给增加；涨价传递稀缺信号；生产者扩张且部分消费者减少购买 高价反映市场相对稀缺，并不直接衡量人的需要有多迫切。
+    en: Incentive. Demand rises relative to supply; a higher price signals scarcity;
+      producers expand while some buyers reduce purchases A high price reflects
+      relative market scarcity, not a direct measure of urgency of human need.
 - id: u2-14-price-mechanism-short-1
   knowledgePointId: u2-14-price-mechanism
   type: short-answer

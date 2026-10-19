@@ -34,13 +34,11 @@
       en: The quotation has no meaning
   correctOptionId: a
   explanation:
-    zh-CN: 本币升值 25%。 原创假设：1 本币从 0.50 美元变为 0.60 美元，本币升值 20%；倒数报价从每美元 2 本币变为约
-      1.67，百分比并不对称。 不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。
-    en: "Home currency appreciates 25%. Hypothetical scenario: one home unit rises
-      from 0.50 to 0.60 dollars, a 20% appreciation. The inverse falls from two
-      home units per dollar to about 1.67; percentage changes are not symmetric.
+    zh-CN: 本币升值 25%。 (0.5 − 0.4) / 0.4 × 100 = 25% (USD/home ↑)
+      不先说明分子分母，汇率上升可能被误读；浮动制称升值或贬值。
+    en: Home currency appreciates 25%. (0.5 − 0.4) / 0.4 × 100 = 25% (USD/home ↑)
       Without stating numerator and denominator, a rising rate can be misread;
-      floating-rate changes are appreciation or depreciation."
+      floating-rate changes are appreciation or depreciation.
 - id: u4-21-floating-exchange-rate-short-1
   knowledgePointId: u4-21-floating-exchange-rate
   type: short-answer

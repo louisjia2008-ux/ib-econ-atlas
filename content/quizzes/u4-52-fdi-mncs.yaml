@@ -35,13 +35,12 @@
       en: Staff training and local supplier linkages
   correctOptionId: d
   explanation:
-    zh-CN: 员工培训与本地供应商联系。 原创假设：外资厂培训本地员工并采购本地零件，可扩散技能；若全部进口投入并获长期免税，本地净收益可能较小。 FDI
+    zh-CN: 员工培训与本地供应商联系。 跨国企业投入资本技术；雇佣与采购产生本地联系；制度与吸收能力影响技术溢出 FDI
       流入不等于当年经常账户收入；后续利润汇出通常影响初次收入。
-    en: "Staff training and local supplier linkages. Hypothetical scenario: training
-      local staff and buying local parts can spread skills. Importing all inputs
-      with prolonged tax holidays may leave smaller local net gains. FDI inflow
-      is not current-account income; later repatriated profits normally affect
-      primary income."
+    en: Staff training and local supplier linkages. Multinationals bring capital and
+      technology; hiring and procurement create local linkages; institutions and
+      absorptive capacity shape spillovers FDI inflow is not current-account
+      income; later repatriated profits normally affect primary income.
 - id: u4-52-fdi-mncs-short-1
   knowledgePointId: u4-52-fdi-mncs
   type: short-answer

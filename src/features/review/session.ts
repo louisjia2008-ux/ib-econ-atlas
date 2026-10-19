@@ -35,6 +35,7 @@ export function createReviewQueue(points: KnowledgePoint[], progress: ProgressRe
     .filter((point) => !options.useScope || options.scopeIds.size === 0 || options.scopeIds.has(point.meta.id))
     .filter((point) => statusMatches(progressById.get(point.meta.id), options.status, options.now))
     .flatMap((point) => point.practice
+      .filter((item) => levelMatches(item.level ?? point.meta.level, options.level))
       .filter((item) => options.mode === "mixed" || item.type === options.mode)
       .map((item) => ({ point, item })));
 

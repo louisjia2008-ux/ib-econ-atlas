@@ -1,0 +1,33 @@
+id: u1-44-circular-flow
+slug: circular-flow
+section: "1.1"
+level: core
+syllabusRefs:
+  - 1.1 What is economics?
+textbookRefs:
+  - chapter: "1"
+    section: "1.1"
+    pages:
+      - 15
+prerequisites:
+  - u1-13-factors-of-production
+related:
+  - u3-01-circular-flow
+terms:
+  - Circular flow, leakages and injections
+  - 收入循环、漏出与注入
+synonyms:
+  zh-CN:
+    - 收入循环
+    - 漏出
+    - 注入
+  en:
+    - circular flow
+    - leakages
+    - injections
+diagramIds:
+  - audit-circular-flow
+quizIds:
+  - u1-44-circular-flow-flash-1
+  - u1-44-circular-flow-mcq-1
+  - u1-44-circular-flow-short-1

@@ -35,13 +35,13 @@
       en: Income misses some basic-service deprivations
   correctOptionId: d
   explanation:
-    zh-CN: 收入未显示所有基本服务剥夺。 原创假设：收入略高于贫困线的家庭仍可能缺安全饮水和教育；只用收入会漏掉这些剥夺。指标权重会影响排名。
-      不同指标回答不同问题，不能把多维贫困率、Gini 与 HDI 当成同一种量。
-    en: "Income misses some basic-service deprivations. Hypothetical scenario: a
-      household just above an income poverty line may still lack safe water and
-      schooling. Income alone misses these deprivations, while indicator weights
-      affect rankings. Different indicators answer different questions;
-      multidimensional poverty, Gini and HDI are not interchangeable."
+    zh-CN: 收入未显示所有基本服务剥夺。 识别家庭剥夺；按明确权重和阈值分类；结合发生率与强度判断贫困 不同指标回答不同问题，不能把多维贫困率、Gini 与
+      HDI 当成同一种量。
+    en: Income misses some basic-service deprivations. Identify household
+      deprivations; classify using explicit weights and thresholds; combine
+      incidence and intensity to assess poverty Different indicators answer
+      different questions; multidimensional poverty, Gini and HDI are not
+      interchangeable.
 - id: u4-40-multidimensional-poverty-short-1
   knowledgePointId: u4-40-multidimensional-poverty
   type: short-answer

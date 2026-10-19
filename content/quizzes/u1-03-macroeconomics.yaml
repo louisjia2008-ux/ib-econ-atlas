@@ -21,16 +21,14 @@
     en: Which statement best captures “Macroeconomics”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 只研究一家店的定价
+      en: Only one shop’s pricing
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 把每个家庭预算当成国民收入恒等式
+      en: Treating each household budget as a national accounting identity
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 只研究单个消费者偏好
+      en: Only one consumer’s preferences
     - id: d
       zh-CN: 宏观经济学研究整个经济体的总量表现，以及政策如何影响增长、就业、物价和对外关系。
       en: Macroeconomics examines economy-wide performance and how policy influences
@@ -49,15 +47,15 @@
     en: Briefly explain “Macroeconomics”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
+    zh-CN: 宏观经济学：宏观经济学以经济体整体为单位，研究总产出、经济增长、失业、通货膨胀、收入分配和国际收支等总量变量及其相互关系。
       家庭、企业和政府作出大量决定；这些决定汇总为总需求和总供给；经济体出现增长、就业与物价变化；财政与货币政策尝试稳定或改变结果 宏观研究经济体整体。
-    en: Macroeconomics treats the economy as a whole and studies aggregate output,
-      growth, unemployment, inflation, income distribution, and the balance of
-      payments, together with the links among them. Households, firms, and
-      governments make many decisions; Those decisions aggregate into
-      economy-wide demand and supply; Growth, employment, and the price level
-      change; Fiscal and monetary policy seek to stabilise or redirect outcomes
-      Macroeconomics studies the economy as a whole.
+    en: "Macroeconomics: Macroeconomics treats the economy as a whole and studies
+      aggregate output, growth, unemployment, inflation, income distribution,
+      and the balance of payments, together with the links among them.
+      Households, firms, and governments make many decisions; Those decisions
+      aggregate into economy-wide demand and supply; Growth, employment, and the
+      price level change; Fiscal and monetary policy seek to stabilise or
+      redirect outcomes Macroeconomics studies the economy as a whole."
   keywordGroups:
     - id: concept
       label:

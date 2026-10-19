@@ -33,13 +33,10 @@
       en: 4%
   correctOptionId: d
   explanation:
-    zh-CN: 4%。 原创例：CPI 从 120 升至 126，通胀率为 5%，不是
-      6%。不同家庭的能源或食品支出占比不同，实际感受可能不同；替代、新产品与质量变化也使固定篮子存在局限。 指数增加的点数与百分比涨幅不是同一数值。
-    en: "4%. Illustrative example: CPI rises from 120 to 126, so inflation is 5%,
-      not 6%. Households with different food and energy weights experience
-      different changes. Substitution, new products and quality changes also
-      limit a fixed basket. The index-point increase is not the same as the
-      percentage increase."
+    zh-CN: 4%。 选定代表性商品及支出权重；计算篮子成本与指数；用相邻期指数变化计算通胀 指数增加的点数与百分比涨幅不是同一数值。
+    en: 4%. Select representative goods and expenditure weights; compute basket cost
+      and the index; calculate inflation from successive index changes The
+      index-point increase is not the same as the percentage increase.
 - id: u3-24-cpi-short-1
   knowledgePointId: u3-24-cpi
   type: short-answer
@@ -97,3 +94,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u3-24-cpi-mcq-hl-1
+  knowledgePointId: u3-24-cpi
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 基期篮子成本 40、当前同篮子成本 46，CPI 是多少？
+    en: Base basket cost is forty and current cost forty-six. What is CPI?
+  options:
+    - id: a
+      zh-CN: "115"
+      en: "115"
+    - id: b
+      zh-CN: "15"
+      en: "15"
+    - id: c
+      zh-CN: "46"
+      en: "46"
+    - id: d
+      zh-CN: "86.96"
+      en: "86.96"
+  correctOptionId: a
+  explanation:
+    zh-CN: 115。 (156 − 150) / 150 × 100 = 4%
+    en: 115. (156 − 150) / 150 × 100 = 4%

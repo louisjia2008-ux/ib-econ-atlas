@@ -35,13 +35,11 @@
       en: Saving must vanish
   correctOptionId: b
   explanation:
-    zh-CN: 低收入→低投资→低生产率。 原创假设：农户无法承担灌溉投资，旱季低产又使下年投资更难；公共灌溉、风险保险或适当融资可打断循环。
-      低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。
-    en: "Low income → low investment → low productivity. Hypothetical scenario: a
-      farmer cannot finance irrigation, and low dry-season yields reduce next
-      year's investment capacity. Public irrigation, insurance or suitable
-      finance can interrupt the cycle. Low saving is only one barrier; credit
-      cannot substitute for viable projects, rights and demand."
+    zh-CN: 低收入→低投资→低生产率。 低收入限制储蓄；资金不足抑制资本形成；低生产率维持低收入 低储蓄只是障碍之一；信贷不能替代可靠项目、产权和市场需求。
+    en: Low income → low investment → low productivity. Low income restricts saving;
+      limited finance constrains capital formation; low productivity sustains
+      low income Low saving is only one barrier; credit cannot substitute for
+      viable projects, rights and demand.
 - id: u4-42-poverty-cycle-short-1
   knowledgePointId: u4-42-poverty-cycle
   type: short-answer

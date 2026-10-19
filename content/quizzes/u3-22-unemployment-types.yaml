@@ -36,16 +36,11 @@
       en: Higher employment
   correctOptionId: b
   explanation:
-    zh-CN: 结构性失业。
-      原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。
-      充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。
-    en: "Structural unemployment. Illustrative example: retail layoffs during a
-      demand slump are mainly cyclical; a skill displaced by technology creates
-      mainly structural unemployment. Higher AD can help the former without
-      alone filling the latter's skill gap. Natural unemployment normally
-      includes frictional and structural components. Full employment is not zero
-      unemployment; the natural rate can change with institutions and matching
-      conditions."
+    zh-CN: 结构性失业。 识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策 充分就业不是失业率为零；自然失业率也会随制度和匹配条件变化。
+    en: Structural unemployment. Identify the main mechanism; separate demand
+      deficiency from matching problems; choose a policy that addresses the
+      cause Full employment is not zero unemployment; the natural rate can
+      change with institutions and matching conditions.
 - id: u3-22-unemployment-types-short-1
   knowledgePointId: u3-22-unemployment-types
   type: short-answer
@@ -56,16 +51,16 @@
   modelAnswer:
     zh-CN: 摩擦性失业来自寻找和转换工作；结构性失业来自技能或地点不匹配；周期性失业来自需求不足；季节性失业随季节变化。
       识别失业的主要机制；区分需求不足与匹配问题；选择与成因相符的政策
-      原创例：零售工人因需求衰退被裁员主要属周期性；某技能被新技术淘汰则主要属结构性。增加总需求可能帮助前者，却不能单独解决后者的技能缺口。自然失业通常包括摩擦性与结构性成分。
+      原创例：需求衰退中的零售裁员主要属周期性；技术淘汰造成技能错配主要属结构性。按本课程框架，自然失业由摩擦性、结构性和季节性失业组成，不含周期性失业；充分就业并非零失业。
     en: "Frictional unemployment comes from job search, structural unemployment from
       skill or location mismatch, cyclical unemployment from weak demand, and
       seasonal unemployment from seasonal activity. Identify the main mechanism;
       separate demand deficiency from matching problems; choose a policy that
-      addresses the cause Illustrative example: retail layoffs during a demand
-      slump are mainly cyclical; a skill displaced by technology creates mainly
-      structural unemployment. Higher AD can help the former without alone
-      filling the latter's skill gap. Natural unemployment normally includes
-      frictional and structural components."
+      addresses the cause Illustrative example: retail layoffs in a demand slump
+      are mainly cyclical; technological skill mismatch is mainly structural. In
+      this course framework, natural unemployment includes frictional,
+      structural and seasonal unemployment, excluding cyclical unemployment.
+      Full employment is not zero unemployment."
   keywordGroups:
     - id: mechanism-1
       label:

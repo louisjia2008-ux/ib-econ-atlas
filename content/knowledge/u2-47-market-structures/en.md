@@ -27,7 +27,7 @@ Patents, scale advantages or strategic behaviour restrict entry.  competitive su
 
 ### Original scenario and reasoning
 
-Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter.
+Illustrative example: a patented medicine may lack close competition; generic entry after expiry can change pricing power. Firm numbers are informative, but market definition, substitutes and entry threats also matter. A concentration ratio CRn sums the n largest firms’ market shares. Original example: shares 40%, 25%, 15%, 10% give CR4=90%. Market definition matters; concentration alone does not establish abuse.
 
 A large firm is not automatically a monopoly; first define the relevant market.
 

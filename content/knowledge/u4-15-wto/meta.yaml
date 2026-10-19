@@ -1,9 +1,9 @@
 id: u4-15-wto
 slug: wto
-section: "4.3"
+section: "4.4"
 level: core
 syllabusRefs:
-  - 4.3 Arguments for and against trade protection
+  - 4.4 Economic integration
 textbookRefs:
   - chapter: "15"
     section: "15.4"
@@ -12,9 +12,9 @@ textbookRefs:
 prerequisites:
   - u1-14-opportunity-cost
 related:
-  - u4-12-infant-industry
-  - u4-13-protection-arguments
-  - u4-14-protection-evaluation
+  - u4-16-trading-blocs
+  - u4-17-common-market
+  - u4-18-trade-creation-diversion
 terms:
   - 世界贸易组织与合作
   - The WTO and trade cooperation

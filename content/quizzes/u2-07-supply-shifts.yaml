@@ -34,14 +34,11 @@
       en: Demand necessarily shifts right
   correctOptionId: c
   explanation:
-    zh-CN: 供给右移。
-      原创例：面粉价格上升提高面包成本。每一个面包价格下，原先可获利的一部分产量不再可获利，所以面包供给左移。把结果画为价格不变的需求减少会混淆市场两侧。
-      成本变化移动供给，自身价格变化通常沿供给移动。
-    en: "Supply shifts right. Illustrative example: dearer flour raises bread
-      production costs. At each bread price, some previously profitable output
-      becomes unprofitable, shifting bread supply left. Showing this as a demand
-      reduction confuses the two sides of the market. Changing costs shifts
-      supply; changing the output's own price normally moves along supply."
+    zh-CN: 供给右移。 单位生产成本或生产能力改变；相同产品价格下生产意愿改变；供给向右或向左移动 成本变化移动供给，自身价格变化通常沿供给移动。
+    en: Supply shifts right. Unit costs or productive capacity change; willingness
+      to produce changes at the same output price; supply shifts right or left
+      Changing costs shifts supply; changing the output's own price normally
+      moves along supply.
 - id: u2-07-supply-shifts-short-1
   knowledgePointId: u2-07-supply-shifts
   type: short-answer

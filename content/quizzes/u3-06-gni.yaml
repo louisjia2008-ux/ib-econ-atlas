@@ -34,13 +34,9 @@
       en: "20"
   correctOptionId: b
   explanation:
-    zh-CN: 280。 原创例：GDP=500，来自国外初次收入 40、流向国外 25，GNI=515；折旧 30 时 NNI=485。GDP 与 GNI
-      的差别是境内生产与居民收入的边界，不是货币单位。 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。
-    en: "280. Illustrative example: GDP=500, primary income received from abroad=40
-      and paid abroad=25 give GNI=515. With depreciation 30, NNI=485. GDP versus
-      GNI distinguishes domestic production from resident income, not different
-      currencies. Not every cross-border payment is primary income; distinguish
-      primary income from transfers."
+    zh-CN: 280。 GNI = 300 + (−20) = 280 不能把所有跨境转账都当作初次收入，初次收入与转移应分开。
+    en: 280. GNI = 300 + (−20) = 280 Not every cross-border payment is primary
+      income; distinguish primary income from transfers.
 - id: u3-06-gni-short-1
   knowledgePointId: u3-06-gni
   type: short-answer

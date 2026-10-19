@@ -11,6 +11,7 @@ const guidance = {
   "3.7": ["解释生产率与潜在产出的渠道，区分短期 AD 与长期 AS，并评价机会成本。", "Explain productivity and potential-output channels, distinguish short-run AD from long-run AS and evaluate opportunity costs."],
 };
 const special = {
+  "money-market": "audit-money-market",
   "business-cycle": "macro-cycle", "aggregate-demand": "macro-ad-as",
   consumption: "macro-ad-expansion", investment: "macro-ad-expansion",
   sras: "macro-supply-shock", lras: "macro-lras", "keynesian-as": "macro-keynesian",
@@ -29,4 +30,4 @@ const prerequisites = {
   "3.7": ["u3-15-lras"],
 };
 writeStudyUnit({ unit: 3, topics, sections, guidance, special, prerequisites,
-  releaseCounts: { "3.1": 10, "3.2": 10, "3.3": 12, "3.4": 6, "3.5": 6, "3.6": 7, "3.7": 5 } });
+  releaseCounts: { "3.1": 10, "3.2": 10, "3.3": 13, "3.4": 6, "3.5": 9, "3.6": 7, "3.7": 5 } });

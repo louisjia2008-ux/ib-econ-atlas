@@ -1,12 +1,12 @@
 id: u1-41-monetarist-new-classical
 slug: monetarist-new-classical
-section: "1.5"
-level: extension
+section: "1.2"
+level: core
 syllabusRefs:
-  - 1.5 The evolution of economic thinking
+  - 1.2 How do economists approach the world?
 textbookRefs:
   - chapter: "1"
-    section: "1.5"
+    section: "1.2"
     pages:
       - 38
       - 39

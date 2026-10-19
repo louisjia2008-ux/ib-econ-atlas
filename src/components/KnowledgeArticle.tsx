@@ -8,6 +8,7 @@ import type { KnowledgePoint, Locale } from "../types/content";
 interface KnowledgeArticleProps {
   point: KnowledgePoint;
   locale: Locale;
+  showHl?: boolean;
   labels: {
     keyConclusion: string;
     definition: string;
@@ -31,7 +32,7 @@ const levelLabels = {
   extension: "EXTENSION",
 };
 
-export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext }: KnowledgeArticleProps) {
+export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext, showHl = true }: KnowledgeArticleProps) {
   const content = point.content[locale];
   const otherLocale: Locale = locale === "zh-CN" ? "en" : "zh-CN";
   const numericId = point.meta.id.match(/^u\d+-(\d+)/)?.[1] ?? "—";
@@ -94,6 +95,13 @@ export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext }: 
           <ReactMarkdown>{content.explanation}</ReactMarkdown>
         </div>
       </section>
+
+      {showHl && content.hlExtension && <section className="article-section prose-section" aria-labelledby="hl-extension-title">
+        <div>
+          <h2 id="hl-extension-title">{locale === "zh-CN" ? "HL 深入与计算" : "HL detail and calculations"}</h2>
+          <ReactMarkdown>{content.hlExtension}</ReactMarkdown>
+        </div>
+      </section>}
 
       {point.meta.diagramIds.includes("ppc-core") && <PPCExplorer locale={locale} />}
       {point.meta.diagramIds.filter((id) => id !== "ppc-core").map((id) => <MicroDiagram key={id} id={id} locale={locale} />)}

@@ -1,4 +1,7 @@
 ---
+hlExtension: "Hypothetical scenario: world price ten, domestic price fourteen
+  and quota thirty create rents of 120. Auctions may generate public revenue;
+  free licences to foreign exporters can transfer rents abroad."
 title: Import quotas and quota rents
 takeaway: A quota directly limits imports and normally raises domestic price.
   The price gap creates quota rents whose recipients depend on licence
@@ -26,7 +29,7 @@ Imports are capped.  scarcity raises domestic price.  licence holders receive qu
 
 ### Original scenario and reasoning
 
-Hypothetical scenario: world price ten, domestic price fourteen and quota thirty create rents of 120. Auctions may generate public revenue; free licences to foreign exporters can transfer rents abroad.
+Hypothetical scenario: a binding quota raises domestic price above world price and creates rents. Auctions can yield public revenue, while free foreign licences may send rents abroad. Calculating rent amounts is HL.
 
 Quota rents do not automatically accrue to the home government; a demand increase can further raise price under a fixed quota.
 

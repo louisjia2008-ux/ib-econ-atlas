@@ -24,16 +24,14 @@
     en: Which statement best captures “Unemployment and efficiency on a PPC”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: PPC 内点证明资源已完全有效使用
+      en: An interior point proves full efficient resource use
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 边界上每一点都同时保证配置效率
+      en: Every frontier point guarantees allocative efficiency
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 失业只能表现为 PPC 必定外移
+      en: Unemployment can only shift a PPC outward
     - id: d
       zh-CN: 曲线内点表示当前能力未被充分或有效使用，曲线上点表示生产效率；回到边界可增加一种或两种产出。
       en: A point inside the PPC indicates that current capacity is underused or used
@@ -54,16 +52,16 @@
     en: Briefly explain “Unemployment and efficiency on a PPC”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。
+    zh-CN: PPC中的失业与生产效率：PPC 内部的点代表失业、闲置或低效配置使实际产出低于最大可能；曲线上的点代表既定资源和技术下的生产效率。
       部分劳动或资本闲置或错配；实际产出落在生产边界以内；需求恢复、再培训或管理改善提高利用率；经济体移向边界并实现实际增长 曲线内表示未充分利用或低效。
-    en: A point inside a PPC represents actual output below the feasible maximum
-      because of unemployment, idle capacity, or inefficient allocation, while a
-      point on the curve represents productive efficiency for the given
-      resources and technology. Some labour or capital is idle or mismatched;
-      Actual output lies within the production boundary; Recovery, retraining,
-      or better management raises utilisation; The economy moves toward the
-      frontier and actual output grows Inside the curve indicates underuse or
-      inefficiency.
+    en: "Unemployment and efficiency on a PPC: A point inside a PPC represents
+      actual output below the feasible maximum because of unemployment, idle
+      capacity, or inefficient allocation, while a point on the curve represents
+      productive efficiency for the given resources and technology. Some labour
+      or capital is idle or mismatched; Actual output lies within the production
+      boundary; Recovery, retraining, or better management raises utilisation;
+      The economy moves toward the frontier and actual output grows Inside the
+      curve indicates underuse or inefficiency."
   keywordGroups:
     - id: concept
       label:

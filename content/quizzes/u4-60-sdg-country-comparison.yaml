@@ -1,0 +1,108 @@
+- id: u4-60-sdg-country-comparison-flash-1
+  knowledgePointId: u4-60-sdg-country-comparison
+  type: flashcard
+  prompt:
+    zh-CN: 解释“用两国数据评价健康发展”，并说明一个关键条件。
+    en: Explain Evaluating health development using two countries and state one
+      important condition.
+  answer:
+    zh-CN: 比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。
+    en: Comparing development progress requires consistent indicator definitions,
+      units, years and sources. Lower child mortality indicates better health
+      outcomes but does not alone establish a policy’s causal effect.
+  explanation:
+    zh-CN: 每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。
+    en: Per 1,000 live births is not a population percentage; national averages hide
+      regional gaps and estimates can be revised.
+- id: u4-60-sdg-country-comparison-mcq-1
+  knowledgePointId: u4-60-sdg-country-comparison
+  type: mcq
+  prompt:
+    zh-CN: 两国儿童死亡率同时下降能单独证明什么？
+    en: What does falling child mortality in both countries establish on its own?
+  options:
+    - id: a
+      zh-CN: 所有 SDG 均实现
+      en: Every SDG is achieved
+    - id: b
+      zh-CN: 两国所有群体均受益相同
+      en: Every group benefits equally
+    - id: c
+      zh-CN: 某一政策必是唯一原因
+      en: One policy must be the sole cause
+    - id: d
+      zh-CN: 所列健康指标改善，而非某政策已被证明有效
+      en: Improvement in that health indicator, not proof of a particular policy
+        effect
+  correctOptionId: d
+  explanation:
+    zh-CN: 所列健康指标改善，而非某政策已被证明有效。 选择相同指标与年份；比较水平和变化；结合制度与政策证据解释
+      每千活产不是人口百分比；全国均值会掩盖地区差距，数据也可修订。
+    en: Improvement in that health indicator, not proof of a particular policy
+      effect. Choose the same indicator and years; compare levels and changes;
+      interpret using institutional and policy evidence Per 1,000 live births is
+      not a population percentage; national averages hide regional gaps and
+      estimates can be revised.
+- id: u4-60-sdg-country-comparison-short-1
+  knowledgePointId: u4-60-sdg-country-comparison
+  type: short-answer
+  prompt:
+    zh-CN: 解释用两国数据评价健康发展的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Evaluating health development using two countries
+      and apply it to an example of your own.
+  modelAnswer:
+    zh-CN: 比较发展进展需固定指标定义、单位、年份和来源；儿童死亡率下降显示健康结果改善，但不能单独证明某项政策的因果作用。
+      选择相同指标与年份；比较水平和变化；结合制度与政策证据解释 世界银行 SH.DYN.MORT 数据（2026-10-18
+      核验，来源为联合国儿童死亡率估计机构间小组）：每千活产五岁以下死亡率，中国 2000 年 36.6、2022 年 6.6；印度同期
+      91.8、29.5。两国均下降，但初始水平、降幅及末期水平不同。这与 SDG 3
+      儿童健康相关，不代表所有健康目标均已实现。来源：https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN
+      。
+    en: "Comparing development progress requires consistent indicator definitions,
+      units, years and sources. Lower child mortality indicates better health
+      outcomes but does not alone establish a policy’s causal effect. Choose the
+      same indicator and years; compare levels and changes; interpret using
+      institutional and policy evidence World Bank SH.DYN.MORT data, checked
+      2026-10-18 and sourced from the UN Inter-agency Group for Child Mortality
+      Estimation: under-five deaths per 1,000 live births were 36.6 in China in
+      2000 and 6.6 in 2022; India recorded 91.8 and 29.5. Both declined but
+      differed in starting levels, reductions and final levels. This concerns
+      SDG 3 child health, not achievement of all health goals. Source:
+      https://data.worldbank.org/indicator/SH.DYN.MORT?locations=CN-IN ."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 指标
+        en: indicator
+      alternatives:
+        zh-CN:
+          - 指标
+          - 选择相同指标与年份
+        en:
+          - indicator
+          - Choose the same indicator and years
+    - id: mechanism-2
+      label:
+        zh-CN: 年份
+        en: years
+      alternatives:
+        zh-CN:
+          - 年份
+          - 比较水平和变化
+        en:
+          - years
+          - compare levels and changes
+    - id: mechanism-3
+      label:
+        zh-CN: 因果
+        en: causal
+      alternatives:
+        zh-CN:
+          - 因果
+          - 结合制度与政策证据解释
+        en:
+          - causal
+          - interpret using institutional and policy evidence
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -35,15 +35,12 @@
       en: Consider exclusion errors and work incentives
   correctOptionId: d
   explanation:
-    zh-CN: 同时考察覆盖遗漏和工作激励。
-      原创例：向低收入家庭提供教育补助可能同时改善机会和生产能力。收入审查提高针对性，但可能遗漏没有完整记录的家庭；福利逐步退出可减弱突然丧失福利造成的高有效边际税率。
+    zh-CN: 同时考察覆盖遗漏和工作激励。 政策筹资并确定受益对象；改变可支配收入或服务获得；观察贫困、公平和行为反应
       再分配不只是现金，也包括教育、医疗等实物服务。
-    en: "Consider exclusion errors and work incentives. Illustrative example:
-      education support for low-income households can improve opportunity and
-      productive capacity. Means testing improves targeting but may exclude
-      households without records. Gradual withdrawal can reduce high effective
-      marginal tax rates from abrupt benefit loss. Redistribution includes
-      services such as education and healthcare, not just cash."
+    en: Consider exclusion errors and work incentives. Policy raises funds and
+      identifies beneficiaries; disposable income or access to services changes;
+      assess poverty, equity and behavioural responses Redistribution includes
+      services such as education and healthcare, not just cash.
 - id: u2-60-redistribution-short-1
   knowledgePointId: u2-60-redistribution
   type: short-answer

@@ -33,14 +33,11 @@
       en: Eliminate all structural unemployment
   correctOptionId: a
   explanation:
-    zh-CN: 提高实际产出并缩小负缺口。
-      原创例：经济存在闲置设备时，融资成本下降使企业恢复部分投资，产量与就业增加。若银行仍限制贷款或家庭偿债，需求增幅可能较小；接近产能上限时，物价压力更大。
-      总需求右移不是潜在产出自动增加。
-    en: "Raise real output and narrow a negative gap. Illustrative example: with
-      idle equipment, cheaper finance restores some investment, raising output
-      and employment. Demand may respond weakly if banks restrict lending or
-      households repay debt. Near capacity, price pressure is greater. A
-      rightward AD shift does not automatically increase potential output."
+    zh-CN: 提高实际产出并缩小负缺口。 降低利率或放松信贷条件；利率敏感支出增加使总需求右移；负产出缺口可能缩小 总需求右移不是潜在产出自动增加。
+    en: Raise real output and narrow a negative gap. Lower interest rates or ease
+      credit conditions; interest-sensitive spending increases and aggregate
+      demand shifts right; a negative output gap may narrow A rightward AD shift
+      does not automatically increase potential output.
 - id: u3-41-expansionary-monetary-short-1
   knowledgePointId: u3-41-expansionary-monetary
   type: short-answer

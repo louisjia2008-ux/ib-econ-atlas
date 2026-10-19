@@ -33,16 +33,12 @@
       en: Benefits rising with unemployment under existing rules
   correctOptionId: d
   explanation:
-    zh-CN: 按既有规则随失业增加的福利支出。
-      原创例：失业增加后，原有失业保险规则自动支付更多补助，预算趋向赤字。它缓冲而非消除衰退；覆盖有限、资格限制或低替代率会削弱稳定作用。景气时税收回升则有反向作用。
+    zh-CN: 按既有规则随失业增加的福利支出。 衰退降低税款并提高部分福利支出；可支配收入跌幅得到缓冲；消费与总需求的下降减弱
       自动不等于没有制度设计，也不等于新刺激法案。
-    en: "Benefits rising with unemployment under existing rules. Illustrative
-      example: existing unemployment insurance rules automatically pay more
-      benefits as unemployment rises, pushing the budget toward deficit. They
-      cushion rather than eliminate recession; limited coverage, eligibility
-      restrictions or low replacement rates weaken stabilisation. Recovering tax
-      revenues work in reverse during expansion. Automatic does not mean
-      undesigned or a new stimulus law."
+    en: Benefits rising with unemployment under existing rules. Recession lowers tax
+      payments and raises some benefits; disposable income falls less sharply;
+      consumption and aggregate demand decline less Automatic does not mean
+      undesigned or a new stimulus law.
 - id: u3-48-automatic-stabilisers-short-1
   knowledgePointId: u3-48-automatic-stabilisers
   type: short-answer

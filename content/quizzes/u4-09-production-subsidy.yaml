@@ -18,30 +18,29 @@
   knowledgePointId: u4-09-production-subsidy
   type: mcq
   prompt:
-    zh-CN: 补贴 4，补贴后国内总产量 30，财政成本？
-    en: A subsidy of four on total domestic output of thirty costs how much?
+    zh-CN: 小国持续进口时，生产补贴的消费者价格通常怎样？
+    en: With continuing imports in a small economy, what normally happens to
+      consumer price under a production subsidy?
   options:
     - id: a
-      zh-CN: "120"
-      en: "120"
+      zh-CN: 仍为世界价
+      en: It remains the world price
     - id: b
-      zh-CN: 仅补新增产量
-      en: Only subsidise additional output
+      zh-CN: 必升至生产者补贴后收入
+      en: It must rise to producer receipts including subsidy
     - id: c
-      zh-CN: "34"
-      en: "34"
+      zh-CN: 必变为零
+      en: It must become zero
     - id: d
-      zh-CN: "26"
-      en: "26"
+      zh-CN: 必升至自给价以上
+      en: It must exceed autarky price
   correctOptionId: a
   explanation:
-    zh-CN: 120。 原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20 单位补贴。模型假定持续进口且世界价不变。
-      补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。
-    en: "120. Hypothetical scenario: a subsidy of two raises domestic output from
-      forty to sixty, costing 120, not merely subsidising the twenty extra
-      units. Imports remain positive and the world price is fixed. A subsidy
+    zh-CN: 仍为世界价。 生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高 补贴未必提高消费者价格；政府机会成本与低效率生产仍需评价。
+    en: It remains the world price. Producer receipts per unit rise; domestic supply
+      expands; imports fall without a necessary rise in consumer price A subsidy
       need not raise consumer price; fiscal opportunity cost and inefficient
-      production still matter."
+      production still matter.
 - id: u4-09-production-subsidy-short-1
   knowledgePointId: u4-09-production-subsidy
   type: short-answer
@@ -51,15 +50,17 @@
       apply it to an example of your own.
   modelAnswer:
     zh-CN: 小国对国内生产提供补贴可增加国内供给、减少进口；消费者仍按世界价购买，财政承担补贴成本。
-      生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高 原创假设：补贴 2、国内产量由 40 增至 60，总成本 120，而非仅对新增 20
-      单位补贴。模型假定持续进口且世界价不变。
+      生产者每单位净收入增加；国内供给扩大；进口减少但消费价不必提高
+      原创假设：持续进口的小国补贴本国生产，生产者收入高于世界价，国内供给增加、进口减少，消费者仍付世界价；财政须支付所有符合资格的产量，且存在机会成本。数值计算属于
+      HL。
     en: "A domestic production subsidy in a small economy can increase domestic
       supply and reduce imports. Consumers still buy at the world price and the
       government funds the subsidy. Producer receipts per unit rise; domestic
       supply expands; imports fall without a necessary rise in consumer price
-      Hypothetical scenario: a subsidy of two raises domestic output from forty
-      to sixty, costing 120, not merely subsidising the twenty extra units.
-      Imports remain positive and the world price is fixed."
+      Hypothetical scenario: with imports continuing, a domestic production
+      subsidy raises producer receipts above world price, expands supply and
+      reduces imports. Consumers still pay world price. The budget funds all
+      eligible output, with an opportunity cost. Numerical calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -98,3 +99,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u4-09-production-subsidy-mcq-hl-1
+  knowledgePointId: u4-09-production-subsidy
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 补贴 4，补贴后国内总产量 30，财政成本？
+    en: A subsidy of four on total domestic output of thirty costs how much?
+  options:
+    - id: a
+      zh-CN: 仅补新增产量
+      en: Only subsidise additional output
+    - id: b
+      zh-CN: "120"
+      en: "120"
+    - id: c
+      zh-CN: "34"
+      en: "34"
+    - id: d
+      zh-CN: "26"
+      en: "26"
+  correctOptionId: b
+  explanation:
+    zh-CN: 120。 4 × 30 = 120
+    en: 120. 4 × 30 = 120

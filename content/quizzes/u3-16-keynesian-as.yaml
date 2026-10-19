@@ -34,15 +34,11 @@
       en: Higher real output with little price change
   correctOptionId: d
   explanation:
-    zh-CN: 实际产出增加，价格变化较小。
-      原创例：衰退中增加公共支出可能主要扩大产量；已满负荷时同样支出更可能推高价格。工资向下刚性和信心不足可使低于充分就业的均衡持续。应解释假设，再与新古典调整过程比较。
-      曲线水平区间不表示资源永久无限。
-    en: "Higher real output with little price change. Illustrative example: extra
-      public spending in a recession may mainly raise output, while at full
-      capacity it mainly raises prices. Downward wage rigidity and weak
-      confidence can sustain equilibrium below full employment. Explain
-      assumptions before contrasting neoclassical adjustment. A flat range does
-      not imply permanently unlimited resources."
+    zh-CN: 实际产出增加，价格变化较小。 闲置资源允许较低成本扩张；产能瓶颈随利用率上升；接近满负荷时需求扩张主要推高价格 曲线水平区间不表示资源永久无限。
+    en: Higher real output with little price change. Idle resources permit low-cost
+      expansion; bottlenecks develop as utilisation rises; near capacity demand
+      expansion mainly raises prices A flat range does not imply permanently
+      unlimited resources.
 - id: u3-16-keynesian-as-short-1
   knowledgePointId: u3-16-keynesian-as
   type: short-answer

@@ -18,30 +18,29 @@
   knowledgePointId: u2-15-surplus-efficiency
   type: mcq
   prompt:
-    zh-CN: 支付意愿 18、价格 12，消费者剩余是多少？
-    en: Willingness to pay is 18 and price 12. What is consumer surplus?
+    zh-CN: 消费者剩余对应哪种差额？
+    en: Which gap describes consumer surplus?
   options:
     - id: a
-      zh-CN: "12"
-      en: "12"
+      zh-CN: 总收入减全部成本
+      en: Revenue minus all costs
     - id: b
-      zh-CN: "18"
-      en: "18"
+      zh-CN: 税收减补贴
+      en: Tax revenue minus subsidies
     - id: c
-      zh-CN: "6"
-      en: "6"
+      zh-CN: 支付意愿与实际支付价格之差
+      en: Willingness to pay minus the price paid
     - id: d
-      zh-CN: "30"
-      en: "30"
+      zh-CN: 价格减固定成本
+      en: Price minus fixed cost
   correctOptionId: c
   explanation:
-    zh-CN: 6。 原创例：一件商品支付意愿 15、成交价 10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本
-      4，私人总剩余并不完整代表社会净收益。 生产者剩余不等于利润，因为它通常没有扣除固定成本。
-    en: "6. Illustrative example: willingness to pay is 15, price is ten and
-      marginal cost is seven. Consumer surplus is five, producer surplus three
-      and total surplus eight. An external pollution cost of four would make
-      private surplus an incomplete welfare measure. Producer surplus is not
-      identical to profit because fixed costs have not generally been deducted."
+    zh-CN: 支付意愿与实际支付价格之差。 需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大
+      生产者剩余不等于利润，因为它通常没有扣除固定成本。
+    en: Willingness to pay minus the price paid. Demand represents marginal benefit
+      and supply marginal cost; units whose benefits exceed costs are traded;
+      total surplus is maximised at MB=MC Producer surplus is not identical to
+      profit because fixed costs have not generally been deducted.
 - id: u2-15-surplus-efficiency-short-1
   knowledgePointId: u2-15-surplus-efficiency
   type: short-answer
@@ -51,17 +50,19 @@
       an example of your own.
   modelAnswer:
     zh-CN: 消费者剩余是支付意愿超过实付价格的部分；生产者剩余是所收价格超过边际供给成本的部分。无市场失灵的竞争均衡可最大化两者之和。
-      需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大 原创例：一件商品支付意愿 15、成交价
-      10、边际成本 7，则消费者剩余 5、生产者剩余 3，总剩余 8。若存在污染成本 4，私人总剩余并不完整代表社会净收益。
+      需求代表边际利益、供给代表边际成本；交易使利益超过成本的单位被生产；MB=MC 时总剩余达到最大
+      原创例：在无外部性且信息充分的竞争市场，消费者支付低于其支付意愿、生产者收入超过边际成本时形成剩余；固定成本使生产者剩余不同于利润。图形剩余计算属于
+      HL。
     en: "Consumer surplus is willingness to pay above the price paid; producer
       surplus is price received above marginal supply cost. Competitive
       equilibrium can maximise their sum when market-failure assumptions are
       absent. Demand represents marginal benefit and supply marginal cost; units
       whose benefits exceed costs are traded; total surplus is maximised at
-      MB=MC Illustrative example: willingness to pay is 15, price is ten and
-      marginal cost is seven. Consumer surplus is five, producer surplus three
-      and total surplus eight. An external pollution cost of four would make
-      private surplus an incomplete welfare measure."
+      MB=MC Illustrative example: in a competitive market without externalities
+      and with adequate information, willingness to pay above price creates
+      consumer surplus and price above marginal cost creates producer surplus.
+      Fixed costs distinguish producer surplus from profit. Diagram-area
+      calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -100,3 +101,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u2-15-surplus-efficiency-mcq-hl-1
+  knowledgePointId: u2-15-surplus-efficiency
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 支付意愿 18、价格 12，消费者剩余是多少？
+    en: Willingness to pay is 18 and price 12. What is consumer surplus?
+  options:
+    - id: a
+      zh-CN: "12"
+      en: "12"
+    - id: b
+      zh-CN: "18"
+      en: "18"
+    - id: c
+      zh-CN: "30"
+      en: "30"
+    - id: d
+      zh-CN: "6"
+      en: "6"
+  correctOptionId: d
+  explanation:
+    zh-CN: 6。 18 − 12 = 6
+    en: 6. 18 − 12 = 6

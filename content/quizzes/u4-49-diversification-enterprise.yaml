@@ -35,13 +35,12 @@
       en: Ignore demand entirely
   correctOptionId: a
   explanation:
-    zh-CN: 收入来源受不同冲击影响。 原创假设：咖啡合作社增加加工和生态旅游，可能提高附加值并分散风险；若两者都依赖同一气候或游客市场，风险分散有限。
+    zh-CN: 收入来源受不同冲击影响。 开发不同市场和产品；降低高度相关的收入风险；技能和融资支持新活动
       项目数量增加不一定分散风险；社会目标也不保证经营或影响有效。
-    en: "Income sources exposed to different shocks. Hypothetical scenario: a coffee
-      cooperative adds processing and ecotourism, potentially adding value and
-      spreading risk. Diversification is limited if both remain exposed to the
-      same climate or visitor market. More projects do not necessarily diversify
-      risk; social intent does not guarantee operational or impact success."
+    en: Income sources exposed to different shocks. Develop different products and
+      markets; reduce highly correlated revenue risks; skills and finance
+      support new activities More projects do not necessarily diversify risk;
+      social intent does not guarantee operational or impact success.
 - id: u4-49-diversification-enterprise-short-1
   knowledgePointId: u4-49-diversification-enterprise
   type: short-answer

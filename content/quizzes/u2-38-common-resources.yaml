@@ -35,15 +35,12 @@
       en: Costless and unlimited
   correctOptionId: b
   explanation:
-    zh-CN: 竞争性、难以排他。
-      原创例：渔民多捕鱼获得收益，却减少未来所有人的鱼群。捕捞配额、可执行产权或社区管理可限制开采。把共同资源称为非竞争物品会遗漏这一核心机制。
+    zh-CN: 竞争性、难以排他。 使用者获得私人收益；资源耗减成本由群体承担；缺少协调时开采量超过可持续水平
       公地悲剧不是不可避免的自然定律；有效社区规则可以改变激励。
-    en: "Rival, difficult to exclude. Illustrative example: a fisher earns from an
-      extra catch while reducing future fish stocks available to everyone.
-      Quotas, enforceable rights or community management can limit extraction.
-      Calling the resource non-rival would miss the central mechanism. The
-      tragedy is not an unavoidable law of nature; effective community rules can
-      change incentives."
+    en: Rival, difficult to exclude. Users receive private gains; depletion costs
+      are shared; without coordination extraction exceeds a sustainable level
+      The tragedy is not an unavoidable law of nature; effective community rules
+      can change incentives.
 - id: u2-38-common-resources-short-1
   knowledgePointId: u2-38-common-resources
   type: short-answer

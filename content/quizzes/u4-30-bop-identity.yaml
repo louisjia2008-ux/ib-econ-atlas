@@ -36,13 +36,11 @@
       en: Reserves must be added again
   correctOptionId: b
   explanation:
-    zh-CN: +12。 原创假设：CA=−30、KA=0、误差=0，则教学净流入 FA=+30；官方净借出符号下 FA=−30。储备交易已经包含在金融账户中。
-      不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。
-    en: "+12. Hypothetical scenario: CA=−30, KA=0 and no errors imply
-      teaching-convention inflows FA=+30, or official net-lending FA=−30.
-      Reserve transactions are already within the financial account. Do not
-      count reserves inside FA and then add them again; balanced accounts do not
-      imply a zero current account."
+    zh-CN: "+12。 −12 + 0 + FA = 0; FA = +12 (FA: inflow +)
+      不要既把储备计入金融账户又另加一次；国际收支平衡不等于经常账户余额为零。"
+    en: "+12. −12 + 0 + FA = 0; FA = +12 (FA: inflow +) Do not count reserves inside
+      FA and then add them again; balanced accounts do not imply a zero current
+      account."
 - id: u4-30-bop-identity-short-1
   knowledgePointId: u4-30-bop-identity
   type: short-answer

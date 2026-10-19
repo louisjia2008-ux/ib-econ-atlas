@@ -21,20 +21,18 @@
     en: Which statement best captures “Economics as a social science”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 只研究货币且排除人的选择
+      en: It studies money alone, excluding human choices
     - id: b
       zh-CN: 经济学研究人在稀缺条件下如何选择，并用模型与证据解释这些选择如何影响他人和社会。
       en: Economics studies choice under scarcity and uses models and evidence to
         explain how those choices shape outcomes for other people and society.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 资源无限时如何无限生产
+      en: How to produce without limits using unlimited resources
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 只对个人应如何消费作道德评价
+      en: Only moral judgements about personal consumption
   correctOptionId: b
   explanation:
     zh-CN: 经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
@@ -49,15 +47,15 @@
     en: Briefly explain “Economics as a social science”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: 经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
+    zh-CN: 经济学作为社会科学：经济学是一门社会科学，研究个人、企业、政府等经济主体如何配置稀缺资源，以及这些决定产生的分配、效率与福祉后果。
       资源和时间有限；经济主体在制度约束下选择；选择汇聚为市场或政策结果；经济学用证据检验对这些结果的解释 经济学分析稀缺资源的配置。
-    en: Economics is a social science concerned with how households, firms,
-      governments, and other agents allocate scarce resources, and with the
-      consequences for distribution, efficiency, and well-being. Time and
-      resources are constrained; Agents choose within institutions and
-      incentives; Individual decisions combine into market or policy outcomes;
-      Evidence is used to test economic explanations Economics examines the
-      allocation of scarce resources.
+    en: "Economics as a social science: Economics is a social science concerned with
+      how households, firms, governments, and other agents allocate scarce
+      resources, and with the consequences for distribution, efficiency, and
+      well-being. Time and resources are constrained; Agents choose within
+      institutions and incentives; Individual decisions combine into market or
+      policy outcomes; Evidence is used to test economic explanations Economics
+      examines the allocation of scarce resources."
   keywordGroups:
     - id: concept
       label:

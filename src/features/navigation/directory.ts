@@ -13,11 +13,8 @@ export interface DirectoryGroup {
 }
 
 export const syllabusTitles: Record<string, Record<Locale, string>> = {
-  "1.1": { "zh-CN": "经济学的本质", en: "The nature of economics" },
-  "1.2": { "zh-CN": "基本经济问题与制度", en: "Basic questions and systems" },
-  "1.3": { "zh-CN": "模型与 PPC", en: "Models and the PPC" },
-  "1.4": { "zh-CN": "经济学方法", en: "Methods in economics" },
-  "1.5": { "zh-CN": "经济思想史", en: "History of economic thought" },
+  "1.1": { "zh-CN": "什么是经济学？", en: "What is economics?" },
+  "1.2": { "zh-CN": "经济学家如何认识世界？", en: "How do economists approach the world?" },
   "2.1": { "zh-CN": "需求", en: "Demand" },
   "2.2": { "zh-CN": "供给", en: "Supply" },
   "2.3": { "zh-CN": "竞争市场均衡", en: "Competitive market equilibrium" },

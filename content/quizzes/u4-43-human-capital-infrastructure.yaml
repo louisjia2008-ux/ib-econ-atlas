@@ -34,13 +34,13 @@
       en: Outcomes need no measurement
   correctOptionId: c
   explanation:
-    zh-CN: 维护与使用条件决定实际收益。 原创假设：学校扩招但学生因疾病缺勤、企业因停电停工，单独增加学位未必转化为生产率；需要互补投入。
+    zh-CN: 维护与使用条件决定实际收益。 服务缺口限制能力；停电和运输延误提高成本；低回报抑制投资与就业
       建设数量不等于服务质量；维护、师资和可负担性影响真实覆盖。
-    en: "Maintenance and access determine actual benefits. Hypothetical scenario:
-      schooling expands but illness causes absence and outages halt firms. More
-      school places alone may not raise productivity without complementary
-      investments. Construction counts do not establish service quality;
-      maintenance, teachers and affordability determine effective access."
+    en: Maintenance and access determine actual benefits. Service gaps restrict
+      capabilities; outages and transport delays raise costs; weak returns
+      discourage investment and jobs Construction counts do not establish
+      service quality; maintenance, teachers and affordability determine
+      effective access.
 - id: u4-43-human-capital-infrastructure-short-1
   knowledgePointId: u4-43-human-capital-infrastructure
   type: short-answer

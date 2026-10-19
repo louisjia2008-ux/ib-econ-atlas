@@ -34,12 +34,9 @@
       en: 0%
   correctOptionId: b
   explanation:
-    zh-CN: +8%。 原创例：潜在 GDP=1000、实际 GDP=950，缺口约为 -5%。即使实际 GDP 从 930 增至
-      950，仍可存在负缺口。潜在产出无法直接观察，测量误差会影响政策判断。 负缺口不等同于当期实际增长一定为负。
-    en: "+8%. Illustrative example: potential GDP=1000 and actual GDP=950 give a gap
-      of about -5%. Output can grow from 930 to 950 and still have a negative
-      gap. Potential is unobservable, so estimation error affects policy
-      choices. A negative gap does not require negative current growth."
+    zh-CN: +8%。 (108 − 100) / 100 × 100 = +8% 负缺口不等同于当期实际增长一定为负。
+    en: +8%. (108 − 100) / 100 × 100 = +8% A negative gap does not require negative
+      current growth.
 - id: u3-18-output-gaps-short-1
   knowledgePointId: u3-18-output-gaps
   type: short-answer

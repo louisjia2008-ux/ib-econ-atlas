@@ -34,16 +34,13 @@
       en: Exclude maintenance and governance
   correctOptionId: c
   explanation:
-    zh-CN: 额外创新、外部收益与机会成本。
-      原创例：可靠电网减少停机时间，研发支持可能促进知识溢出。然而低利用率工程、寻租或缺乏维护可能使成本超过收益。研发结果不确定，不能把每一笔补贴都视作新增创新。
+    zh-CN: 额外创新、外部收益与机会成本。 识别网络或知识瓶颈；投资降低成本或扩大技术能力；长期供给增加但收益取决于使用与维护
       增加投资流量不保证资本服务质量和长期回报。
-    en: "Additional innovation, external benefits and opportunity cost. Illustrative
-      example: reliable electricity reduces downtime, while research support may
-      generate knowledge spillovers. Underused projects, rent-seeking or poor
-      maintenance can make costs exceed benefits. Research outcomes are
-      uncertain; not every subsidy produces additional innovation. Higher
-      investment flows do not guarantee capital-service quality or long-run
-      returns."
+    en: Additional innovation, external benefits and opportunity cost. Identify
+      network or knowledge bottlenecks; investment lowers costs or expands
+      technological capability; long-run supply grows but benefits depend on use
+      and maintenance Higher investment flows do not guarantee capital-service
+      quality or long-run returns.
 - id: u3-55-infrastructure-innovation-short-1
   knowledgePointId: u3-55-infrastructure-innovation
   type: short-answer

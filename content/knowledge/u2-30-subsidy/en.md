@@ -1,4 +1,8 @@
 ---
+hlExtension: "Illustrative example: buyers pay eight and sellers receive eleven,
+  giving a subsidy of three. At 60 subsidised units, spending is 180.
+  Subsidising a polluting good may expand external costs, so evaluate the
+  objective rather than output growth alone."
 title: Subsidies and fiscal cost
 takeaway: A per-unit subsidy makes the seller's receipt exceed the buyer's
   payment and encourages production and consumption. Government spending is the
@@ -27,7 +31,7 @@ A subsidy lowers producers' net marginal cost.  supply shifts right and quantity
 
 ### Original scenario and reasoning
 
-Illustrative example: buyers pay eight and sellers receive eleven, giving a subsidy of three. At 60 subsidised units, spending is 180. Subsidising a polluting good may expand external costs, so evaluate the objective rather than output growth alone.
+Illustrative example: a subsidy raises producer receipts above consumer payment, normally increasing quantity with a fiscal cost. Compare consumer and producer gains, financing opportunity cost and externalities. Numerical fiscal calculations are HL.
 
 Use the subsidised equilibrium quantity in the spending calculation, not the pre-policy quantity.
 

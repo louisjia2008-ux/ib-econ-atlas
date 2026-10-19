@@ -25,17 +25,17 @@ function diagramExists(diagramId) {
 }
 
 requireCondition(manifest.version === 1, "Manifest version must be 1.");
-requireCondition(entries.filter((entry) => entry.id.startsWith("u1-")).length === 43, "Unit 1 must preserve its 43 entries.");
+requireCondition(entries.filter((entry) => entry.id.startsWith("u1-")).length === 44, "Unit 1 must contain 44 entries.");
 requireCondition(entries.filter((entry) => entry.id.startsWith("u2-")).length === 60, "Unit 2 must contain 60 entries.");
-requireCondition(entries.filter((entry) => entry.id.startsWith("u3-")).length === 56, "Unit 3 must contain 56 entries.");
-requireCondition(entries.filter((entry) => entry.id.startsWith("u4-")).length === 56, "Unit 4 must contain 56 entries.");
+requireCondition(entries.filter((entry) => entry.id.startsWith("u3-")).length === 60, "Unit 3 must contain 60 entries.");
+requireCondition(entries.filter((entry) => entry.id.startsWith("u4-")).length === 63, "Unit 4 must contain 63 entries.");
 requireCondition(manifestIds.size === entries.length, "Manifest knowledge-point IDs must be unique.");
 
-const expectedSectionCounts = { "1.1": 15, "1.2": 8, "1.3": 6, "1.4": 6, "1.5": 8,
+const expectedSectionCounts = { "1.1": 29, "1.2": 15,
   "2.1": 5, "2.2": 5, "2.3": 5, "2.4": 3, "2.5": 5, "2.6": 3,
   "2.7": 6, "2.8": 8, "2.9": 3, "2.10": 3, "2.11": 11, "2.12": 3,
-  "3.1": 10, "3.2": 10, "3.3": 12, "3.4": 6, "3.5": 6, "3.6": 7, "3.7": 5,
-  "4.1": 6, "4.2": 5, "4.3": 4, "4.4": 5, "4.5": 7, "4.6": 7, "4.7": 3, "4.8": 4, "4.9": 6, "4.10": 9 };
+  "3.1": 10, "3.2": 10, "3.3": 13, "3.4": 6, "3.5": 9, "3.6": 7, "3.7": 5,
+  "4.1": 6, "4.2": 5, "4.3": 3, "4.4": 7, "4.5": 8, "4.6": 9, "4.7": 3, "4.8": 5, "4.9": 7, "4.10": 10 };
 for (const [section, count] of Object.entries(expectedSectionCounts)) {
   const actual = entries.filter((entry) => entry.section === section).length;
   requireCondition(actual === count, `Section ${section} must contain ${count} entries; found ${actual}.`);
@@ -96,10 +96,14 @@ for (const id of implementedIds) {
         const answer = item.type === "flashcard" ? item.answer : item.type === "short-answer" ? item.modelAnswer : null;
         if (answer) requireCondition(Boolean(answer[locale]?.trim()), `${item.id}: localized answer missing.`);
       }
+      requireCondition(item.level === undefined || ["core", "hl", "extension"].includes(item.level), `${item.id}: invalid practice level.`);
       if (item.type === "mcq") {
         requireCondition(item.options?.length === 4 && new Set(item.options.map((option) => option.id)).size === 4, `${item.id}: four unique options required.`);
         requireCondition(item.options.some((option) => option.id === item.correctOptionId), `${item.id}: correct option missing.`);
-        for (const locale of ["zh-CN", "en"]) requireCondition(item.options.every((option) => Boolean(option[locale]?.trim())), `${item.id}: localized options missing.`);
+        for (const locale of ["zh-CN", "en"]) {
+          requireCondition(item.options.every((option) => Boolean(option[locale]?.trim())), `${item.id}: localized options missing.`);
+          requireCondition(new Set(item.options.map(option => option[locale]?.trim())).size === 4, `${item.id}: duplicate localized MCQ options.`);
+        }
       }
       if (item.type === "short-answer") requireCondition(item.keywordGroups?.length >= 3 && item.keywordGroups.every((group) => ["zh-CN", "en"].every((locale) => group.label?.[locale] && group.alternatives?.[locale]?.length > 0)), `${item.id}: three bilingual keyword groups required.`);
     }

@@ -35,14 +35,12 @@
       en: Lower maturity risk
   correctOptionId: a
   explanation:
-    zh-CN: 外币债务高且本币贬值。 原创假设：政府外币债务本息不变，本币贬值后本币税收需覆盖更多偿付；债务重组可缓解但涉及债权人协调与未来融资。
-      借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。
-    en: "High foreign-currency debt and home depreciation. Hypothetical scenario:
-      unchanged foreign-currency debt service requires more home-currency tax
-      revenue after depreciation. Restructuring may help but involves creditor
-      coordination and future borrowing access. Borrowing is not inherently
+    zh-CN: 外币债务高且本币贬值。 融资约束限制项目；外币债务暴露汇率风险；偿债挤压健康教育预算 借债并非必然有害；应比较投资回报、利率、期限、币种和偿付能力。
+    en: High foreign-currency debt and home depreciation. Finance constraints
+      restrict projects; foreign-currency debt exposes exchange risk; debt
+      service squeezes health and education budgets Borrowing is not inherently
       harmful; compare returns, rates, maturity, currency and repayment
-      capacity."
+      capacity.
 - id: u4-45-debt-finance-barriers-short-1
   knowledgePointId: u4-45-debt-finance-barriers
   type: short-answer

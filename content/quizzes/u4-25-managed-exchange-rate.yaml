@@ -2,14 +2,15 @@
   knowledgePointId: u4-25-managed-exchange-rate
   type: flashcard
   prompt:
-    zh-CN: 解释“管理浮动与制度比较”，并说明一个关键条件。
-    en: Explain Managed floating and regime comparison and state one important
+    zh-CN: 解释“管理浮动与干预”，并说明一个关键条件。
+    en: Explain Managed exchange rates and intervention and state one important
       condition.
   answer:
-    zh-CN: 管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。
-    en: Managed floating allows market determination with occasional official
-      intervention. Regime choice trades off stability, adjustment and policy
-      autonomy.
+    zh-CN: 管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。
+    en: Managed floating combines market determination with selective intervention;
+      a currency can be overvalued or undervalued relative to a target or
+      fundamentals benchmark. Comparing regime advantages and disadvantages is
+      HL.
   explanation:
     zh-CN: 固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。
     en: Fixed does not mean permanently stable, nor floating entirely
@@ -35,31 +36,31 @@
       en: Automatic monetary-union membership
   correctOptionId: a
   explanation:
-    zh-CN: 市场定价加选择性干预。 原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。
-      固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。
-    en: "Market pricing with selective intervention. Hypothetical scenario: an
-      export-concentrated economy with mobile capital wants less volatility but
-      cannot treat reserves as unlimited. Floating may cushion external shocks.
-      Fixed does not mean permanently stable, nor floating entirely
-      intervention-free; specify the actual regime and conditions."
+    zh-CN: 市场定价加选择性干预。 市场冲击引起波动；当局选择性干预；汇率风险与政策成本重新分配 固定并非永久稳定，浮动也非完全无干预；应说明实际制度与条件。
+    en: Market pricing with selective intervention. Market shocks create volatility;
+      authorities intervene selectively; exchange risk and policy costs are
+      redistributed Fixed does not mean permanently stable, nor floating
+      entirely intervention-free; specify the actual regime and conditions.
 - id: u4-25-managed-exchange-rate-short-1
   knowledgePointId: u4-25-managed-exchange-rate
   type: short-answer
   prompt:
-    zh-CN: 解释管理浮动与制度比较的机制，并用一个自己设计的情境说明其含义。
-    en: Explain the mechanism of Managed floating and regime comparison and apply it
-      to an example of your own.
+    zh-CN: 解释管理浮动与干预的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Managed exchange rates and intervention and apply
+      it to an example of your own.
   modelAnswer:
-    zh-CN: 管理浮动允许市场决定汇率，同时当局不定期干预；制度选择权衡稳定性、调整能力与政策自主性。
+    zh-CN: 管理浮动允许市场定价并由当局选择性干预；相对于维持目标或基本面基准，货币可被视为高估或低估。不同制度的优劣比较属于 HL。
       市场冲击引起波动；当局选择性干预；汇率风险与政策成本重新分配
-      原创假设：出口集中且资本流动大的经济体希望减少波动，却不能把有限储备当作无限保证；浮动也可能为外部冲击提供缓冲。
-    en: "Managed floating allows market determination with occasional official
-      intervention. Regime choice trades off stability, adjustment and policy
-      autonomy. Market shocks create volatility; authorities intervene
-      selectively; exchange risk and policy costs are redistributed Hypothetical
-      scenario: an export-concentrated economy with mobile capital wants less
-      volatility but cannot treat reserves as unlimited. Floating may cushion
-      external shocks."
+      原创假设：本币面临升值，当局卖本币买外币可限制升幅并增加储备；面对贬值压力则可反向操作，但储备有限。高估和低估均须说明比较基准。
+    en: "Managed floating combines market determination with selective intervention;
+      a currency can be overvalued or undervalued relative to a target or
+      fundamentals benchmark. Comparing regime advantages and disadvantages is
+      HL. Market shocks create volatility; authorities intervene selectively;
+      exchange risk and policy costs are redistributed Hypothetical scenario:
+      selling home currency for foreign currency can limit appreciation and
+      build reserves; reverse intervention can resist depreciation but uses
+      finite reserves. Overvaluation and undervaluation require an explicit
+      benchmark."
   keywordGroups:
     - id: mechanism-1
       label:

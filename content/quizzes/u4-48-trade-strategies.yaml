@@ -35,13 +35,12 @@
       en: Performance conditions and a credible exit
   correctOptionId: d
   explanation:
-    zh-CN: 绩效条件和明确退出机制。 原创假设：关税扶持小市场汽车业可能限制规模；出口支持若要求绩效并改善物流，可保留竞争压力，但也暴露于外需波动。
+    zh-CN: 绩效条件和明确退出机制。 选择产业与政策工具；市场与学习激励影响成本；出口收入或进口节约支持资本品需求
       两者不是只能二选一的标签；具体工具、退出机制与产业条件更重要。
-    en: "Performance conditions and a credible exit. Hypothetical scenario:
-      tariff-supported car production in a small market may lack scale. Export
-      support tied to performance and logistics can preserve competition but
-      exposes firms to world-demand volatility. These are not mutually exclusive
-      labels; instruments, exit rules and sector conditions matter."
+    en: Performance conditions and a credible exit. Choose sectors and instruments;
+      market and learning incentives affect costs; export earnings or import
+      savings support capital imports These are not mutually exclusive labels;
+      instruments, exit rules and sector conditions matter.
 - id: u4-48-trade-strategies-short-1
   knowledgePointId: u4-48-trade-strategies
   type: short-answer

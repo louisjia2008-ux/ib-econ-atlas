@@ -35,15 +35,12 @@
       en: Permits have no costs
   correctOptionId: c
   explanation:
-    zh-CN: 许可确定总量，税确定单位价格。
-      原创例：排放税固定每单位排放的价格，排放许可固定允许的总量。税需要了解损害与减排反应，许可需要监测、合理总量和可靠交易。两者都可能把部分成本传给消费者。
+    zh-CN: 许可确定总量，税确定单位价格。 识别未计价的社会影响；调整价格或数量约束；比较纠正效果与执行和分配成本
       纠正外部性未必消除全部污染；最优并不总是零排放。
-    en: "Permits fix the total cap; tax fixes the unit price. Illustrative example:
-      an emissions tax fixes the price per emission unit, while permits fix the
-      allowed total quantity. Taxes need information about harm and abatement
-      response; permits need monitoring, a sound cap and reliable trading. Both
-      may pass some costs to consumers. Correction need not eliminate all
-      pollution; the optimum is not always zero emissions."
+    en: Permits fix the total cap; tax fixes the unit price. Identify unpriced
+      social effects; adjust prices or quantity constraints; compare correction
+      with enforcement and distribution costs Correction need not eliminate all
+      pollution; the optimum is not always zero emissions.
 - id: u2-39-externality-policies-short-1
   knowledgePointId: u2-39-externality-policies
   type: short-answer

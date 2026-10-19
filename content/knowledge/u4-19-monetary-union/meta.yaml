@@ -12,27 +12,27 @@ textbookRefs:
 prerequisites:
   - u1-14-opportunity-cost
 related:
+  - u4-15-wto
   - u4-16-trading-blocs
   - u4-17-common-market
-  - u4-18-trade-creation-diversion
 terms:
-  - 货币联盟的收益与代价
-  - Benefits and costs of monetary union
-  - 货币
-  - currency
-  - 利率
-  - interest rate
-  - 冲击
-  - shock
+  - 货币联盟的含义
+  - The meaning of monetary union
+  - 共同货币
+  - shared currency
+  - 货币政策
+  - monetary policy
+  - 成员
+  - members
 synonyms:
   zh-CN:
-    - 货币
-    - 利率
-    - 冲击
+    - 共同货币
+    - 货币政策
+    - 成员
   en:
-    - currency
-    - interest rate
-    - shock
+    - shared currency
+    - monetary policy
+    - members
 diagramIds: []
 quizIds:
   - u4-19-monetary-union-flash-1

@@ -29,16 +29,14 @@
         represents mechanisms in models, and uses evidence to test and improve
         theory.
     - id: b
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 模型拟合相关性就一定识别了因果
+      en: Fitting a correlation necessarily identifies causation
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 理论无需产生任何可检验预测
+      en: Theories need no testable predictions
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 假设一旦提出就不允许修改
+      en: A hypothesis can never be revised
   correctOptionId: a
   explanation:
     zh-CN: 假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
@@ -54,15 +52,16 @@
     en: Briefly explain “Logic, hypotheses, theories, and models”, including one
       causal mechanism and one important implication.
   modelAnswer:
-    zh-CN: 假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
+    zh-CN: 逻辑、假设、理论与模型：假设是可检验的暂时命题，理论是解释一组现象的连贯关系体系，模型是理论的简化表达，而逻辑保证从前提到结论的推导一致。
       观察现象并提出问题；形成假设和机制解释；把关键关系表达为模型并推导预测；用证据检验后保留、修正或替代理论 逻辑连接前提与结论。
-    en: A hypothesis is a provisional testable proposition; a theory is a coherent
-      system of relationships that explains phenomena; a model is a simplified
-      representation of theory; and logic makes inference from premises to
-      conclusions internally consistent. Observe a pattern and pose a question;
-      Form a hypothesis and proposed mechanism; Represent key relationships in a
-      model and derive predictions; Use evidence to retain, revise, or replace
-      the theory Logic links premises to conclusions.
+    en: "Logic, hypotheses, theories, and models: A hypothesis is a provisional
+      testable proposition; a theory is a coherent system of relationships that
+      explains phenomena; a model is a simplified representation of theory; and
+      logic makes inference from premises to conclusions internally consistent.
+      Observe a pattern and pose a question; Form a hypothesis and proposed
+      mechanism; Represent key relationships in a model and derive predictions;
+      Use evidence to retain, revise, or replace the theory Logic links premises
+      to conclusions."
   keywordGroups:
     - id: concept
       label:

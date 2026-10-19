@@ -36,14 +36,12 @@
       en: It necessarily lowers capacity
   correctOptionId: c
   explanation:
-    zh-CN: 不能，需增加生产能力。 原创例：AD 增加可短期推动产出超过 Yf。工资成本随后上升，SRAS 左移，长期产出回到 Yf
-      而价格水平更高。这个结论依赖工资价格调整和竞争等假设，不能当作无条件的即时过程。 潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。
-    en: "No; productive capacity must increase. Illustrative example: higher AD may
-      briefly push output above Yf. Rising wages then shift SRAS left, restoring
-      Yf at a higher price level. This conclusion depends on wage-price
-      adjustment and competitive assumptions, not an unconditional instant
-      process. Potential output does not imply zero unemployment; frictional and
-      structural unemployment may remain."
+    zh-CN: 不能，需增加生产能力。 长期工资与投入价格调整；短期实际激励逐步消失；产出回到由生产能力决定的潜在水平
+      潜在产出不等于没有任何失业，摩擦性和结构性失业仍可存在。
+    en: No; productive capacity must increase. Wages and input prices adjust over
+      time; short-run real incentives fade; output returns to the level
+      determined by productive capacity Potential output does not imply zero
+      unemployment; frictional and structural unemployment may remain.
 - id: u3-15-lras-short-1
   knowledgePointId: u3-15-lras
   type: short-answer

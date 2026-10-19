@@ -35,14 +35,13 @@
       en: Maximum private profit is always sufficient
   correctOptionId: a
   explanation:
-    zh-CN: MSB=MSC。 原创例：生产者多生产一单位获得 12 的收益，私人成本 9，但污染成本 5，使社会成本为
-      14。这一单位私人有利、社会净收益为负。应比较边际量，不是平均收益和平均成本。 高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。
-    en: "MSB=MSC. Illustrative example: one more unit yields benefit 12, private
-      cost nine and external pollution cost five, making social cost 14. The
-      unit is privately beneficial but socially harmful. Compare marginal
-      values, not average benefits and costs. A high price or inequality alone
+    zh-CN: MSB=MSC。 私人决策只考虑私人收益与成本；外部影响或制度缺陷使其偏离社会量；市场数量与 MSB=MSC 数量不一致
+      高价格或不平等本身不能单独证明配置失灵，需说明偏离效率的机制。
+    en: MSB=MSC. Private decisions consider private benefits and costs; external
+      effects or institutional failures separate them from social values; market
+      output differs from the MSB=MSC quantity A high price or inequality alone
       does not establish allocative failure; identify the mechanism producing
-      inefficiency."
+      inefficiency.
 - id: u2-33-market-failure-short-1
   knowledgePointId: u2-33-market-failure
   type: short-answer

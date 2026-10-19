@@ -1,3 +1,4 @@
+import { unit1Distractors } from "./content-data/unit-1-distractors.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
@@ -9,22 +10,6 @@ const manifestById = new Map(manifest.entries.map((entry) => [entry.id, entry]))
 const syllabusLabels = {
   "1.1": "1.1 What is economics?",
   "1.2": "1.2 How do economists approach the world?",
-  "1.3": "1.3 Economic models and the PPC",
-  "1.4": "1.4 The methods of economics",
-  "1.5": "1.5 The evolution of economic thinking",
-};
-
-const distractors = {
-  "zh-CN": [
-    "它只描述个人偏好，与资源、制度或社会结果无关。",
-    "它意味着同一种经济结果在任何条件下都会自动出现。",
-    "它是一项只适用于高收入经济体的会计规则。",
-  ],
-  en: [
-    "It concerns personal preference only and has no connection to resources, institutions, or social outcomes.",
-    "It means the same economic outcome must arise automatically under every set of conditions.",
-    "It is an accounting rule that applies only to high-income economies.",
-  ],
 };
 
 function localizedFrontmatter(topic, locale) {
@@ -57,13 +42,14 @@ function buildPractice(topic) {
   const number = Number(topic.id.slice(3, 5));
   const correctIndex = Number.isFinite(number) ? number % 4 : 0;
   const optionIds = ["a", "b", "c", "d"];
+  const distractors = topic.distractors ?? unit1Distractors(topic.id);
   const options = optionIds.map((id, index) => {
     const isCorrect = index === correctIndex;
     const distractorIndex = index < correctIndex ? index : index - 1;
     return {
       id,
-      "zh-CN": isCorrect ? topic["zh-CN"].takeaway : distractors["zh-CN"][distractorIndex],
-      en: isCorrect ? topic.en.takeaway : distractors.en[distractorIndex],
+      "zh-CN": isCorrect ? topic["zh-CN"].takeaway : distractors[distractorIndex][0],
+      en: isCorrect ? topic.en.takeaway : distractors[distractorIndex][1],
     };
   });
 
@@ -109,8 +95,8 @@ function buildPractice(topic) {
         en: `Briefly explain “${topic.en.title}”, including one causal mechanism and one important implication.`,
       },
       modelAnswer: {
-        "zh-CN": `${topic["zh-CN"].definition} ${topic["zh-CN"].causalChain.join("；")} ${topic["zh-CN"].summary[0]}`,
-        en: `${topic.en.definition} ${topic.en.causalChain.join("; ")} ${topic.en.summary[0]}`,
+        "zh-CN": `${topic["zh-CN"].title}：${topic["zh-CN"].definition} ${topic["zh-CN"].causalChain.join("；")} ${topic["zh-CN"].summary[0]}`,
+        en: `${topic.en.title}: ${topic.en.definition} ${topic.en.causalChain.join("; ")} ${topic.en.summary[0]}`,
       },
       keywordGroups: [
         {

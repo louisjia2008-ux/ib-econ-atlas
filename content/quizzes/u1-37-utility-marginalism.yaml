@@ -22,21 +22,19 @@
     en: Which statement best captures “Utility theory and marginalism”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 边际分析只看总效用而不看新增单位
+      en: Marginal analysis considers only total utility
     - id: b
       zh-CN: 边际主义用“再增加一单位”带来的收益和成本解释选择，推动价值理论从总量与生产成本转向边际评价。
       en: Marginalism explains choice through the benefit and cost of one more unit,
         shifting value theory from totals and production cost toward evaluation
         at the margin.
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 总效用高意味着每个新增单位效用都高
+      en: High total utility implies high utility for every extra unit
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 边际收益一定等于平均收益
+      en: Marginal benefit always equals average benefit
   correctOptionId: b
   explanation:
     zh-CN: 效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。
@@ -51,15 +49,15 @@
     en: Briefly explain “Utility theory and marginalism”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: 效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。
+    zh-CN: 效用理论与边际主义：效用理论把消费满足作为选择依据；边际主义关注一个变量微小增加所带来的额外效用、产出或成本，并以边际比较解释决策。
       经济主体已经拥有一定数量；额外一单位带来边际收益或效用；获得该单位也产生边际成本；主体比较两者并调整直到继续改变不再有利 选择发生在边际。
-    en: Utility theory treats satisfaction from consumption as a basis for choice.
-      Marginalism studies the extra utility, output, or cost created by a small
-      increase and explains decisions through marginal comparison. An agent
-      already holds or produces some quantity; One more unit creates a marginal
-      benefit or utility; Obtaining that unit also creates marginal cost; The
-      agent adjusts until a further change no longer improves the objective
-      Choice takes place at the margin.
+    en: "Utility theory and marginalism: Utility theory treats satisfaction from
+      consumption as a basis for choice. Marginalism studies the extra utility,
+      output, or cost created by a small increase and explains decisions through
+      marginal comparison. An agent already holds or produces some quantity; One
+      more unit creates a marginal benefit or utility; Obtaining that unit also
+      creates marginal cost; The agent adjusts until a further change no longer
+      improves the objective Choice takes place at the margin."
   keywordGroups:
     - id: concept
       label:

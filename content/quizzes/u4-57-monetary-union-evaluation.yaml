@@ -1,0 +1,97 @@
+- id: u4-57-monetary-union-evaluation-flash-1
+  knowledgePointId: u4-57-monetary-union-evaluation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“货币联盟的评价”，并说明一个关键条件。
+    en: Explain Evaluating monetary union and state one important condition.
+  answer:
+    zh-CN: 共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。
+    en: A shared currency can lower transaction costs and exchange risk, while lost
+      policy autonomy complicates asymmetric-shock adjustment. Gains depend on
+      member structures and adjustment mechanisms.
+  explanation:
+    zh-CN: 不能只列收益而不说明非对称冲击和自主性成本。
+    en: Do not list gains without considering asymmetric shocks and autonomy costs.
+- id: u4-57-monetary-union-evaluation-mcq-1
+  knowledgePointId: u4-57-monetary-union-evaluation
+  type: mcq
+  prompt:
+    zh-CN: 成员遇到非对称冲击时失去哪项工具？
+    en: Which instrument is lost when members face asymmetric shocks?
+  options:
+    - id: a
+      zh-CN: 独立本币贬值
+      en: Independent currency depreciation
+    - id: b
+      zh-CN: 所有财政政策
+      en: All fiscal policy
+    - id: c
+      zh-CN: 所有贸易
+      en: All trade
+    - id: d
+      zh-CN: 所有劳动流动
+      en: All labour mobility
+  correctOptionId: a
+  explanation:
+    zh-CN: 独立本币贬值。 统一货币减少汇兑摩擦；共同利率难适配所有冲击；流动性与财政转移帮助调整 不能只列收益而不说明非对称冲击和自主性成本。
+    en: Independent currency depreciation. One currency reduces conversion
+      frictions; one interest rate may not suit all shocks; mobility and fiscal
+      transfers aid adjustment Do not list gains without considering asymmetric
+      shocks and autonomy costs.
+- id: u4-57-monetary-union-evaluation-short-1
+  knowledgePointId: u4-57-monetary-union-evaluation
+  type: short-answer
+  prompt:
+    zh-CN: 解释货币联盟的评价的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Evaluating monetary union and apply it to an
+      example of your own.
+  modelAnswer:
+    zh-CN: 共同货币可降低交易成本和汇率风险，但独立货币政策的丧失使非对称冲击更难调整；收益取决于成员结构和调整机制。
+      统一货币减少汇兑摩擦；共同利率难适配所有冲击；流动性与财政转移帮助调整 原创假设：A 过热而 B
+      衰退，统一利率不能同时完全适合二者；劳动力流动、工资价格弹性和财政风险分担影响代价。共同货币不自动消除信用风险。
+    en: "A shared currency can lower transaction costs and exchange risk, while lost
+      policy autonomy complicates asymmetric-shock adjustment. Gains depend on
+      member structures and adjustment mechanisms. One currency reduces
+      conversion frictions; one interest rate may not suit all shocks; mobility
+      and fiscal transfers aid adjustment Hypothetical scenario: A overheats
+      while B contracts, so one interest rate cannot perfectly suit both. Labour
+      mobility, price-wage flexibility and fiscal risk sharing affect costs; a
+      common currency does not eliminate credit risk."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 共同利率
+        en: one interest rate
+      alternatives:
+        zh-CN:
+          - 共同利率
+          - 统一货币减少汇兑摩擦
+        en:
+          - one interest rate
+          - One currency reduces conversion frictions
+    - id: mechanism-2
+      label:
+        zh-CN: 冲击
+        en: shocks
+      alternatives:
+        zh-CN:
+          - 冲击
+          - 共同利率难适配所有冲击
+        en:
+          - shocks
+          - one interest rate may not suit all shocks
+    - id: mechanism-3
+      label:
+        zh-CN: 调整
+        en: adjustment
+      alternatives:
+        zh-CN:
+          - 调整
+          - 流动性与财政转移帮助调整
+        en:
+          - adjustment
+          - mobility and fiscal transfers aid adjustment
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

@@ -35,13 +35,12 @@
       en: Only changing accounting signs
   correctOptionId: b
   explanation:
-    zh-CN: 提高技能和物流效率。 原创假设：加息压低消费和进口可能缩小逆差，却增加失业且可能吸引资本升值；培训与物流改善较慢但可提高出口能力。
+    zh-CN: 提高技能和物流效率。 转换政策改变相对价格；紧缩减少进口需求；生产率政策改善长期竞争力
       不能忽略汇率的反向渠道，也不能把需求压缩导致的逆差改善当作无成本成功。
-    en: "Improving skills and logistics. Hypothetical scenario: higher rates may cut
-      consumption and imports but raise unemployment and attract appreciating
-      capital flows. Training and logistics take longer but can improve export
-      capacity. Do not omit the exchange-rate counterchannel or treat deficit
-      reduction through demand compression as costless."
+    en: Improving skills and logistics. Switching policies alter relative prices;
+      contraction reduces import demand; productivity policy improves long-run
+      competitiveness Do not omit the exchange-rate counterchannel or treat
+      deficit reduction through demand compression as costless.
 - id: u4-34-imbalance-policies-short-1
   knowledgePointId: u4-34-imbalance-policies
   type: short-answer

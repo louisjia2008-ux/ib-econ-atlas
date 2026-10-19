@@ -22,16 +22,14 @@
     en: Which statement best captures “The mixed economy”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 私人和公共部门必须各占恰好一半
+      en: Private and public sectors must each be exactly half
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 混合经济没有私人产权
+      en: A mixed economy has no private ownership
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 混合经济不允许政府提供服务
+      en: A mixed economy prohibits public provision
     - id: d
       zh-CN: 混合经济把市场配置与政府规则、再分配和公共供给结合起来，关键问题是两者边界如何设计。
       en: A mixed economy combines market allocation with public rules,
@@ -51,15 +49,16 @@
     en: Briefly explain “The mixed economy”, including one causal mechanism and one
       important implication.
   modelAnswer:
-    zh-CN: 混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。
+    zh-CN: 混合经济：混合经济是私人市场和公共部门共同拥有资源并共同决定生产、配置和分配的经济制度。
       多数日常选择由价格和私人主体协调；法律与监管设定市场边界；政府通过税收、转移和公共服务改变结果；制度组合随政策目标和证据调整
       现实经济体通常同时使用市场和政府。
-    en: A mixed economy is a system in which private markets and the public sector
-      both own resources and share responsibility for production, allocation,
-      and distribution. Prices and private agents coordinate many daily choices;
-      Law and regulation set market boundaries; Taxes, transfers, and public
-      services alter outcomes; The institutional mix changes with objectives and
-      evidence Most actual economies use both markets and government.
+    en: "The mixed economy: A mixed economy is a system in which private markets and
+      the public sector both own resources and share responsibility for
+      production, allocation, and distribution. Prices and private agents
+      coordinate many daily choices; Law and regulation set market boundaries;
+      Taxes, transfers, and public services alter outcomes; The institutional
+      mix changes with objectives and evidence Most actual economies use both
+      markets and government."
   keywordGroups:
     - id: concept
       label:

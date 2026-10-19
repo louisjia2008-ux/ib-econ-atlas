@@ -35,15 +35,13 @@
       en: Ignore every third party
   correctOptionId: c
   explanation:
-    zh-CN: 结合供给弹性和受益分布。
-      原创例：食品补贴帮助消费者，但需要税收融资，且没有针对性时高收入消费者也会获益。比较现金转移时，应讨论贫困识别、覆盖遗漏、行政成本和供给能否增加。
+    zh-CN: 结合供给弹性和受益分布。 政策改变价格、数量或激励；不同群体受到不同影响；效率、公平和可执行性需要共同权衡
       评价不能只写优缺点清单，必须说明何种条件使某种效果更重要。
-    en: "Consider supply elasticity and distribution of gains. Illustrative example:
-      a food subsidy helps consumers but requires financing and may also benefit
-      rich households. Compare targeted cash transfers using identification of
-      need, exclusion errors, administrative cost and the ability of supply to
-      expand. Evaluation is not merely a list of advantages and disadvantages;
-      explain which conditions make an effect matter more."
+    en: Consider supply elasticity and distribution of gains. Policy changes prices,
+      quantities or incentives; groups experience different effects; efficiency,
+      equity and feasibility must be weighed together Evaluation is not merely a
+      list of advantages and disadvantages; explain which conditions make an
+      effect matter more.
 - id: u2-31-intervention-evaluation-short-1
   knowledgePointId: u2-31-intervention-evaluation
   type: short-answer

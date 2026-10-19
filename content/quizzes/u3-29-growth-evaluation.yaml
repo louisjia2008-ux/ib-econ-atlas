@@ -34,15 +34,11 @@
       en: Ignore opportunity cost
   correctOptionId: a
   explanation:
-    zh-CN: 结合人均收益、分配与环境成本。
-      原创例：工厂自动化提高产量但使部分工人岗位消失。再培训、可转移技能和区域流动决定增长能否广泛受益。绿色技术可降低单位排放，但总产出扩张可能抵消部分环境改善。
-      增长与发展及可持续性并非完全相同的概念。
-    en: "Consider per-capita gains, distribution and environmental costs.
-      Illustrative example: automation raises output but removes some jobs.
-      Retraining, transferable skills and mobility affect how widely gains are
-      shared. Cleaner technology lowers emissions per unit, but output expansion
-      may offset part of the environmental improvement. Growth, development and
-      sustainability are not identical concepts."
+    zh-CN: 结合人均收益、分配与环境成本。 投资与创新提高生产能力；实际收入和税基扩大；结果取决于收益分配与资源环境约束 增长与发展及可持续性并非完全相同的概念。
+    en: Consider per-capita gains, distribution and environmental costs. Investment
+      and innovation raise capacity; real incomes and the tax base expand;
+      outcomes depend on distribution and environmental constraints Growth,
+      development and sustainability are not identical concepts.
 - id: u3-29-growth-evaluation-short-1
   knowledgePointId: u3-29-growth-evaluation
   type: short-answer

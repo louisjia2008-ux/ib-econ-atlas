@@ -33,14 +33,11 @@
       en: Revenue falls
   correctOptionId: b
   explanation:
-    zh-CN: 利润下降。
-      原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。
-      收入最大化忽略成本，不能直接当作利润最大化。
-    en: "Profit falls. Illustrative example: a platform charges low prices to build
-      market share despite a short-run loss. Low profit alone does not prove a
-      mistaken decision; consider future returns, financing and rivals'
-      responses. Revenue and profit maximisation differ. Revenue maximisation
-      ignores costs and is not equivalent to profit maximisation."
+    zh-CN: 利润下降。 所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润 收入最大化忽略成本，不能直接当作利润最大化。
+    en: Profit falls. Owners and managers face different incentives; growth or
+      reputation may take priority; short-run output need not maximise profit
+      Revenue maximisation ignores costs and is not equivalent to profit
+      maximisation.
 - id: u2-18-firm-objectives-short-1
   knowledgePointId: u2-18-firm-objectives
   type: short-answer
@@ -52,6 +49,7 @@
     zh-CN: 企业可能追求利润、收入、增长、市场份额、社会目标或足够利润；管理者与所有者目标也可能不同。
       所有者与管理者面临不同激励；增长或声誉可能优先；短期产量不一定对应最大利润
       原创例：平台低价吸引用户以扩大市场份额，短期利润可能为负。不能仅凭低利润判断决策错误，需考虑长期回报、融资约束和竞争者反应。收入最大化与利润最大化也不同。
+      企业还可能追求企业社会责任、销售增长或满意利润；这些目标可能牺牲短期利润，也可能通过声誉支持长期收益。
     en: "Firms may seek profit, revenue, growth, market share, social objectives or
       satisfactory profit. Managers and owners may have different objectives.
       Owners and managers face different incentives; growth or reputation may
@@ -59,7 +57,10 @@
       example: a platform charges low prices to build market share despite a
       short-run loss. Low profit alone does not prove a mistaken decision;
       consider future returns, financing and rivals' responses. Revenue and
-      profit maximisation differ."
+      profit maximisation differ. Firms may also pursue corporate social
+      responsibility, sales growth or satisfactory profit, potentially
+      sacrificing short-run profit or supporting long-run returns through
+      reputation."
   keywordGroups:
     - id: mechanism-1
       label:

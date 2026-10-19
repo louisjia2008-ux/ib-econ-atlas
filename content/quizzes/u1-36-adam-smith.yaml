@@ -28,16 +28,14 @@
         self-interested action, without arguing that law, public goods, or moral
         constraints are unnecessary.
     - id: b
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 斯密主张司法和公共工程都无需政府
+      en: Smith rejected all public justice and public works
     - id: c
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 看不见的手保证任何垄断都最优
+      en: The invisible hand guarantees every monopoly is optimal
     - id: d
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 分工只会减少熟练度
+      en: Division of labour only reduces skill
   correctOptionId: a
   explanation:
     zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
@@ -53,16 +51,16 @@
     en: Briefly explain “Adam Smith and laissez-faire”, including one causal
       mechanism and one important implication.
   modelAnswer:
-    zh-CN: 亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
+    zh-CN: 亚当·斯密与自由放任：亚当·斯密的古典经济思想把专业化、市场交换和竞争视为财富增长的重要来源；自由放任指政府避免不必要地替代分散市场决定。
       分工提高劳动专门化和熟练度；交换使专业化产出能够互换；价格与利润协调分散选择；竞争限制部分私人权力并推动适应 分工和交换支持生产率与财富增长。
-    en: Adam Smith's classical economics treated specialisation, market exchange,
-      and competition as important sources of growing wealth. Laissez-faire
-      favours avoiding unnecessary state replacement of decentralised market
-      decisions. Division of labour increases specialisation and skill; Exchange
-      allows specialised outputs to be traded; Prices and profit coordinate
-      decentralised choices; Competition constrains some private power and
-      encourages adaptation Specialisation and exchange support productivity and
-      wealth.
+    en: "Adam Smith and laissez-faire: Adam Smith's classical economics treated
+      specialisation, market exchange, and competition as important sources of
+      growing wealth. Laissez-faire favours avoiding unnecessary state
+      replacement of decentralised market decisions. Division of labour
+      increases specialisation and skill; Exchange allows specialised outputs to
+      be traded; Prices and profit coordinate decentralised choices; Competition
+      constrains some private power and encourages adaptation Specialisation and
+      exchange support productivity and wealth."
   keywordGroups:
     - id: concept
       label:

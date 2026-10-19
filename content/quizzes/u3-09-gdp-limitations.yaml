@@ -34,15 +34,13 @@
       en: Population never affects per-capita values
   correctOptionId: a
   explanation:
-    zh-CN: 未充分反映环境损害与分配。 原创例：污染后的清理支出可增加
-      GDP，但不能据此说污染改善生活。无偿照护转为付费照护可能增加记录产出，实际服务量却未同步增加。比较国家时也要考虑非正规经济和统计质量。 GDP
+    zh-CN: 未充分反映环境损害与分配。 核算记录有市场价值的产出；部分社会收益和成本未被完整记录；总量或人均增长不保证福利普遍改善 GDP
       有局限不意味着它对衡量经济活动没有用途。
-    en: "It incompletely captures environmental harm and distribution. Illustrative
-      example: pollution cleanup can add to GDP without making pollution
-      beneficial. Unpaid care becoming paid care can raise recorded output
-      without an equivalent increase in services. Cross-country comparisons also
-      depend on informal activity and statistical quality. GDP's limitations do
-      not make it useless for measuring economic activity."
+    en: It incompletely captures environmental harm and distribution. Accounts
+      record market-valued output; some social gains and costs are incompletely
+      recorded; aggregate or average growth does not guarantee broad welfare
+      gains GDP's limitations do not make it useless for measuring economic
+      activity.
 - id: u3-09-gdp-limitations-short-1
   knowledgePointId: u3-09-gdp-limitations
   type: short-answer

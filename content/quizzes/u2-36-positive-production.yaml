@@ -34,14 +34,11 @@
       en: Market underproduction
   correctOptionId: d
   explanation:
-    zh-CN: 市场生产不足。 原创例：企业研发改善生产方法，知识外溢让其他企业降低成本。MSC 可画在 MPC 下方，以同一 MSB
-      与两条成本曲线确定社会和私人数量。专利与研发补贴可能增强激励，但应考虑垄断代价和补贴针对性。 正外部性不是企业自身销售收益，而是未计价的第三方收益。
-    en: "Market underproduction. Illustrative example: a firm's research generates
-      knowledge that lowers other firms' costs. Draw MSC below MPC and use the
-      same MSB to locate social and private output. Patents or research
-      subsidies can strengthen incentives, but market-power costs and targeting
-      matter. The external benefit is an unpriced gain to third parties, not the
-      firm's own sales revenue."
+    zh-CN: 市场生产不足。 生产产生知识等外溢；企业不能收回全部社会收益；市场配置资源不足 正外部性不是企业自身销售收益，而是未计价的第三方收益。
+    en: Market underproduction. Production creates spillovers such as knowledge;
+      firms cannot capture all social gains; the market allocates too few
+      resources The external benefit is an unpriced gain to third parties, not
+      the firm's own sales revenue.
 - id: u2-36-positive-production-short-1
   knowledgePointId: u2-36-positive-production
   type: short-answer

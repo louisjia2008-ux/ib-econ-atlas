@@ -33,13 +33,11 @@
       en: Fixed cost
   correctOptionId: a
   explanation:
-    zh-CN: 需求/AR 曲线。 原创例：MR=MC 时 Q=40，而需求曲线上该数量价格为 12、MC 为 7，定价为 12 而不是
-      7。单凭垄断地位不能保证获利，还需比较 ATC；创新和规模经济可能改变成本比较。 垄断者不能独立任选价格与数量，需求约束仍在。
-    en: "Demand/AR. Illustrative example: MR=MC at Q=40, where demand gives price 12
-      and MC is seven. Price is 12, not seven. Monopoly does not guarantee
-      profit: compare ATC. Innovation and scale economies can change cost
-      comparisons. A monopolist cannot choose price and quantity independently;
-      demand still constrains it."
+    zh-CN: 需求/AR 曲线。 降低价格才能扩大销售；MR 低于价格；利润最大点通常 P>MC 并低于配置有效数量 垄断者不能独立任选价格与数量，需求约束仍在。
+    en: Demand/AR. A lower price is needed to expand sales; MR is below price; at
+      the profit maximum P normally exceeds MC and output is below the
+      allocatively efficient level A monopolist cannot choose price and quantity
+      independently; demand still constrains it.
 - id: u2-53-monopoly-short-1
   knowledgePointId: u2-53-monopoly
   type: short-answer

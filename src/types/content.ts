@@ -38,6 +38,7 @@ export interface LocalizedKnowledgePoint {
   explanation: string;
   causalChain: string[];
   realWorldExample?: RealWorldExample;
+  hlExtension?: string;
   misconceptions: string[];
   examApplication: string[];
   summary: string[];
@@ -49,6 +50,7 @@ export interface LocalizedText {
 }
 
 interface PracticeBase {
+  level?: CourseLevel;
   id: string;
   knowledgePointId: string;
   prompt: LocalizedText;

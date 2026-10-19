@@ -1,3 +1,4 @@
+import { applyAuditCorrections } from "./audit-corrections.mjs";
 // Original teaching notes and illustrative scenarios, not coursebook extracts.
 export const sections = {
   "2.1": ["需求", "Demand", "2", "2.2", 43],
@@ -453,4 +454,5 @@ add("redistribution", "2.12", "hl", ["再分配与政策权衡", "Redistribution
  ["哪项能改善再分配评价的完整性？", "Which makes redistribution evaluation more complete?"], ["同时考察覆盖遗漏和工作激励", "Consider exclusion errors and work incentives"],
  [["假设行政成本为零", "Assume zero administrative cost"], ["只看名义转移金额", "Look only at the nominal transfer"], ["认为政策不需要融资", "Assume no financing is needed"]], ["针对性|targeting", "机会|opportunity", "激励|incentives"]);
 
+applyAuditCorrections(2, topics);
 export { topics };

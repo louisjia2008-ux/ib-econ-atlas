@@ -34,13 +34,11 @@
       en: The rate cannot change
   correctOptionId: b
   explanation:
-    zh-CN: 本币需求右移。 原创假设：在风险与预期不变时，本国利率相对上升吸引资产购买，本币需求增加，可能升值；风险溢价上升可抵消此效应。
-      利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。
-    en: "Demand for home currency shifts right. Hypothetical scenario: holding risk
-      and expectations constant, a higher relative home interest rate attracts
-      asset purchases and can appreciate the currency. A rising risk premium may
-      offset this. The interest-rate link is conditional; speculation, inflation
-      expectations and capital restrictions also affect flows."
+    zh-CN: 本币需求右移。 外国需求或相对回报改变；本币需求或供给移动；浮动汇率调整 利率与汇率关系有条件；投机、通胀预期和资本限制也会改变资金流。
+    en: Demand for home currency shifts right. Foreign demand or relative returns
+      change; home-currency demand or supply shifts; the floating rate adjusts
+      The interest-rate link is conditional; speculation, inflation expectations
+      and capital restrictions also affect flows.
 - id: u4-22-currency-demand-supply-short-1
   knowledgePointId: u4-22-currency-demand-supply
   type: short-answer

@@ -16,30 +16,28 @@
   knowledgePointId: u2-28-price-floor
   type: mcq
   prompt:
-    zh-CN: 最低价下 Qs=75、Qd=50，过剩多少？
-    en: At a floor Qs=75 and Qd=50. What is the surplus?
+    zh-CN: 高于均衡的最低价通常造成什么？
+    en: What normally follows a price floor above equilibrium?
   options:
     - id: a
-      zh-CN: "50"
-      en: "50"
+      zh-CN: 需求量超过供给量
+      en: Quantity demanded exceeds supply
     - id: b
-      zh-CN: "75"
-      en: "75"
+      zh-CN: 所有企业利润必定为零
+      en: Every firm must earn zero profit
     - id: c
-      zh-CN: "125"
-      en: "125"
+      zh-CN: 消费者购买必无限增加
+      en: Consumer purchases must rise without limit
     - id: d
-      zh-CN: "25"
-      en: "25"
+      zh-CN: 供给量超过需求量
+      en: Quantity supplied exceeds quantity demanded
   correctOptionId: d
   explanation:
-    zh-CN: 25。 原创例：农业最低价下 Qs=90、Qd=60，过剩 30。若政府购买全部过剩，财政成本为最低价乘以
-      30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。 低于均衡的最低限价通常不改变市场交易。
-    en: "25. Illustrative example: a farm price floor yields Qs=90 and Qd=60, a
-      surplus of 30. Buying all the surplus costs the floor price times 30.
-      Labour outcomes also depend on employer power, enforcement and
-      productivity; the competitive prediction is not a universal empirical
-      fact. A floor below equilibrium normally does not change market trades."
+    zh-CN: 供给量超过需求量。 价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 低于均衡的最低限价通常不改变市场交易。
+    en: Quantity supplied exceeds quantity demanded. Price is held above
+      equilibrium; supply rises and demand falls; surplus may be bought by
+      government or accumulate A floor below equilibrium normally does not
+      change market trades.
 - id: u2-28-price-floor-short-1
   knowledgePointId: u2-28-price-floor
   type: short-answer
@@ -49,17 +47,18 @@
       example of your own.
   modelAnswer:
     zh-CN: 最低限价规定合法最低价格；高于均衡时具有约束力并产生过剩。在竞争劳动市场模型中，最低工资可产生劳动力供给过剩。
-      价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累 原创例：农业最低价下 Qs=90、Qd=60，过剩
-      30。若政府购买全部过剩，财政成本为最低价乘以 30；劳动市场结果也取决于雇主势力、执行和生产率，不能将竞争模型预测当成所有情况的事实。
+      价格被保持在均衡以上；供给量上升、需求量下降；过剩可能由政府购买或积累
+      原创例：高于均衡的最低价使供给量超过需求量；政府若购买过剩需承担财政成本。竞争劳动市场的最低工资可增加劳动过剩，但实际结果也取决于雇主势力、执行与生产率。数值计算属于
+      HL。
     en: "A price floor sets a legal minimum price. Above equilibrium it is binding
       and creates excess supply. A minimum wage can create excess labour supply
       in the competitive labour-market model. Price is held above equilibrium;
       supply rises and demand falls; surplus may be bought by government or
-      accumulate Illustrative example: a farm price floor yields Qs=90 and
-      Qd=60, a surplus of 30. Buying all the surplus costs the floor price times
-      30. Labour outcomes also depend on employer power, enforcement and
-      productivity; the competitive prediction is not a universal empirical
-      fact."
+      accumulate Illustrative example: a floor above equilibrium creates excess
+      supply, with public costs if government buys it. A minimum wage can create
+      excess labour supply in a competitive model; actual outcomes also depend
+      on employer power, enforcement and productivity. Numerical calculations
+      are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -98,3 +97,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u2-28-price-floor-mcq-hl-1
+  knowledgePointId: u2-28-price-floor
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 最低价下 Qs=75、Qd=50，过剩多少？
+    en: At a floor Qs=75 and Qd=50. What is the surplus?
+  options:
+    - id: a
+      zh-CN: "25"
+      en: "25"
+    - id: b
+      zh-CN: "50"
+      en: "50"
+    - id: c
+      zh-CN: "75"
+      en: "75"
+    - id: d
+      zh-CN: "125"
+      en: "125"
+  correctOptionId: a
+  explanation:
+    zh-CN: 25。 75 − 50 = 25
+    en: 25. 75 − 50 = 25

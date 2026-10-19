@@ -35,13 +35,12 @@
       en: All international trade
   correctOptionId: c
   explanation:
-    zh-CN: 独立货币政策。 原创假设：一国希望降息刺激就业，又维持平价且允许资本自由流动；持续资本外流暴露三目标难以同时保持。
+    zh-CN: 独立货币政策。 独立降息降低相对回报；资本流出增加贬值压力；捍卫固定汇率限制降息空间
       该约束依赖资本流动、风险与可信度，不表示所有国家任何时刻利率完全相同。
-    en: "Independent monetary policy. Hypothetical scenario: an economy wants lower
-      rates for jobs, a fixed parity and free capital flows. Persistent outflows
-      expose the difficulty of sustaining all three. The constraint depends on
-      mobility, risk and credibility; it does not imply identical interest rates
-      everywhere at every moment."
+    en: Independent monetary policy. Independent rate cuts reduce relative returns;
+      outflows add depreciation pressure; defending parity restricts rate cuts
+      The constraint depends on mobility, risk and credibility; it does not
+      imply identical interest rates everywhere at every moment.
 - id: u4-27-exchange-policy-trilemma-short-1
   knowledgePointId: u4-27-exchange-policy-trilemma
   type: short-answer

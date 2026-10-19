@@ -33,7 +33,8 @@ synonyms:
     - opportunity cost
     - specialisation
     - trading ratio
-diagramIds: []
+diagramIds:
+  - audit-comparative-ppc
 quizIds:
   - u4-05-comparative-advantage-flash-1
   - u4-05-comparative-advantage-mcq-1

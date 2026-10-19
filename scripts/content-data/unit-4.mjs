@@ -1,3 +1,5 @@
+import { globalAdditions } from "./audit-additions.mjs";
+import { applyAuditCorrections } from "./audit-corrections.mjs";
 // Original bilingual revision material. All numerical examples are hypothetical.
 export const sections = {
  "4.1": ["国际贸易的益处", "Benefits of international trade", "14", "14.1", 433],
@@ -354,4 +356,6 @@ add("development-policy-mix", "4.10", "core", "发展战略组合与证据评价
  "原创假设：出口加工需要道路、供电、技能与海关协同；设立对照或分期实施有助判断效果，还应检查地区和性别受益差异。\tHypothetical scenario: export processing needs roads, power, skills and customs coordination. Comparison groups or phased introduction help assess effects, alongside regional and gender differences.",
  "没有适用于所有国家的唯一配方；投入和宣布不能替代结果证据。\tThere is no single recipe for every country; spending and announcements cannot replace outcome evidence.",
  "怎样最能判断战略是否有效？\tHow can a strategy's effectiveness best be assessed?", "结合基线、可比结果与分配影响\tCombine baselines, comparable outcomes and distributional effects", ["只按计划支出排名\tRank only planned spending", "复制他国全部政策\tCopy every policy from another country", "忽略机会成本\tIgnore opportunity cost"], ["约束|constraints", "政策|policies", "证据|evidence"], ["20", "20.9", 633]);
+topics.push(...globalAdditions);
+applyAuditCorrections(4, topics);
 export { topics };

@@ -1,0 +1,40 @@
+id: u3-58-monetary-tools
+slug: monetary-tools
+section: "3.5"
+level: hl
+syllabusRefs:
+  - 3.5 Monetary policy
+textbookRefs:
+  - chapter: "13"
+    section: "13.2"
+    pages:
+      - 387
+prerequisites:
+  - u3-11-aggregate-demand
+related:
+  - u3-39-money-interest
+  - u3-40-monetary-transmission
+  - u3-41-expansionary-monetary
+terms:
+  - 货币政策工具
+  - Monetary policy instruments
+  - 工具
+  - instruments
+  - 流动性
+  - liquidity
+  - 利率
+  - interest
+synonyms:
+  zh-CN:
+    - 工具
+    - 流动性
+    - 利率
+  en:
+    - instruments
+    - liquidity
+    - interest
+diagramIds: []
+quizIds:
+  - u3-58-monetary-tools-flash-1
+  - u3-58-monetary-tools-mcq-1
+  - u3-58-monetary-tools-short-1

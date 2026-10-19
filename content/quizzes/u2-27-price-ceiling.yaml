@@ -15,30 +15,27 @@
   knowledgePointId: u2-27-price-ceiling
   type: mcq
   prompt:
-    zh-CN: 限价下 Qd=120、Qs=80，短缺多少？
-    en: At a ceiling Qd=120 and Qs=80. What is the shortage?
+    zh-CN: 低于均衡的最高限价通常产生什么？
+    en: What normally follows a price ceiling below equilibrium?
   options:
     - id: a
-      zh-CN: "80"
-      en: "80"
+      zh-CN: 过剩
+      en: A surplus
     - id: b
-      zh-CN: "120"
-      en: "120"
+      zh-CN: 价格必升至均衡以上
+      en: Price must rise above equilibrium
     - id: c
-      zh-CN: "40"
-      en: "40"
+      zh-CN: 短缺
+      en: A shortage
     - id: d
-      zh-CN: "200"
-      en: "200"
+      zh-CN: 供需曲线必同时右移
+      en: Both curves must shift right
   correctOptionId: c
   explanation:
-    zh-CN: 40。 原创例：限价 6 元时 Qd=100、Qs=60，短缺为 40，实际合法交易最多
-      60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。 高于均衡的最高限价通常没有约束力。
-    en: "40. Illustrative example: at a ceiling of six, Qd=100 and Qs=60, leaving a
-      shortage of 40 and at most 60 legal trades. Queues, connections or black
-      markets may allocate goods. Low controlled rent does not guarantee access
-      for every low-income household. A ceiling above equilibrium is normally
-      non-binding."
+    zh-CN: 短缺。 价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 高于均衡的最高限价通常没有约束力。
+    en: A shortage. Price is held below equilibrium; quantity demanded rises and
+      quantity supplied falls; shortages require non-price rationing A ceiling
+      above equilibrium is normally non-binding.
 - id: u2-27-price-ceiling-short-1
   knowledgePointId: u2-27-price-ceiling
   type: short-answer
@@ -48,15 +45,15 @@
       own.
   modelAnswer:
     zh-CN: 最高限价规定合法最高价格；低于均衡价格时具有约束力，并通常导致需求量超过供给量。
-      价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给 原创例：限价 6 元时 Qd=100、Qs=60，短缺为
-      40，实际合法交易最多 60。排队、关系或黑市可能分配商品；低租金并不保证所有低收入家庭都能获得住房。
+      价格被限制在均衡以下；买方需求量增加、卖方供给量减少；短缺需要非价格配给
+      原创例：低于均衡的最高限价使需求量超过供给量，可能出现排队、黑市和非价格配给；低租金不保证人人有房。数量与支出计算属于 HL。
     en: "A price ceiling sets a legal maximum price. Below equilibrium it is binding
       and normally creates excess demand. Price is held below equilibrium;
       quantity demanded rises and quantity supplied falls; shortages require
-      non-price rationing Illustrative example: at a ceiling of six, Qd=100 and
-      Qs=60, leaving a shortage of 40 and at most 60 legal trades. Queues,
-      connections or black markets may allocate goods. Low controlled rent does
-      not guarantee access for every low-income household."
+      non-price rationing Illustrative example: a ceiling below equilibrium
+      creates excess demand and can lead to queues, black markets and non-price
+      rationing. Low rent does not guarantee housing access. Quantity and
+      expenditure calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -95,3 +92,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u2-27-price-ceiling-mcq-hl-1
+  knowledgePointId: u2-27-price-ceiling
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 限价下 Qd=120、Qs=80，短缺多少？
+    en: At a ceiling Qd=120 and Qs=80. What is the shortage?
+  options:
+    - id: a
+      zh-CN: "80"
+      en: "80"
+    - id: b
+      zh-CN: "120"
+      en: "120"
+    - id: c
+      zh-CN: "200"
+      en: "200"
+    - id: d
+      zh-CN: "40"
+      en: "40"
+  correctOptionId: d
+  explanation:
+    zh-CN: 40。 120 − 80 = 40
+    en: 40. 120 − 80 = 40

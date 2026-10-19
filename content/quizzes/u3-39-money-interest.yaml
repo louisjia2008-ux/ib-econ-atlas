@@ -33,13 +33,9 @@
       en: Necessarily zero
   correctOptionId: c
   explanation:
-    zh-CN: 2%。 原创例：名义贷款利率 6%、预期通胀 2%，近似实际利率为
-      4%。银行风险溢价上升时，贷款利率未必与政策利率同步下降。货币不是收入，新增贷款也不直接等于新增产出。 实际利率应使用预期通胀分析事前决策。
-    en: "2%. Illustrative example: a 6% nominal lending rate and 2% expected
-      inflation imply an approximately 4% real rate. If bank risk premiums rise,
-      lending rates need not fall alongside policy rates. Money is not income,
-      and new lending does not directly equal new output. Use expected inflation
-      when analysing ex-ante real rates."
+    zh-CN: 2%。 r ≈ i − πᵉ = 5% − 3% = 2% 实际利率应使用预期通胀分析事前决策。
+    en: 2%. r ≈ i − πᵉ = 5% − 3% = 2% Use expected inflation when analysing ex-ante
+      real rates.
 - id: u3-39-money-interest-short-1
   knowledgePointId: u3-39-money-interest
   type: short-answer

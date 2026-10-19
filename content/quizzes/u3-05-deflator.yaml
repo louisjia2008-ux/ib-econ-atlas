@@ -35,15 +35,9 @@
       en: "7.5"
   correctOptionId: a
   explanation:
-    zh-CN: 750。 原创例：名义 GDP=660，平减指数=110，实际
-      GDP=600。产出法加总增加值；收入法加总劳动报酬和经营盈余等，在市场价格口径下还需纳入生产与进口税减补贴，不能随意混合含税与不含税数字。 指数
-      110 表示相对基期价格高 10%，不是当年通胀必然为 10%。
-    en: "750. Illustrative example: nominal GDP is 660 and the deflator 110, giving
-      real GDP of 600. The output approach sums value added. The income approach
-      sums compensation and operating surplus, with taxes less subsidies on
-      production/imports needed for market-price consistency. Do not mix
-      valuation bases. An index of 110 means prices are 10% above the base, not
-      necessarily 10% inflation in the latest year."
+    zh-CN: 750。 GDP (real) = 900 / 120 × 100 = 750 指数 110 表示相对基期价格高 10%，不是当年通胀必然为 10%。
+    en: 750. GDP (real) = 900 / 120 × 100 = 750 An index of 110 means prices are 10%
+      above the base, not necessarily 10% inflation in the latest year.
 - id: u3-05-deflator-short-1
   knowledgePointId: u3-05-deflator
   type: short-answer

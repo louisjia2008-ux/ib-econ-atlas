@@ -4,8 +4,8 @@ takeaway: A free good is abundant relative to demand in a particular place and
   time, so obtaining more does not displace another output; a zero price alone
   is not enough.
 definition: A free good is a good or resource so abundant relative to demand
-  that an additional unit has no significant opportunity cost under the
-  conditions being considered.
+  that an additional unit has no opportunity cost under the conditions being
+  considered.
 causalChain:
   - A resource is highly abundant in a specific context
   - Extra use does not exclude a feasible use by someone else

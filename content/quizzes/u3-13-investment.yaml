@@ -35,15 +35,12 @@
       en: Always reduces the capital stock
   correctOptionId: a
   explanation:
-    zh-CN: 先增加 AD，之后可能增加潜在产出。 原创例：项目预期回报 6%，借贷成本从 7% 降至
-      4%，可能使项目更有吸引力。但销售前景差或企业有大量闲置机器时，降息未必促成投资。新增厂房先增加需求，投入使用后才增加潜力。
+    zh-CN: 先增加 AD，之后可能增加潜在产出。 企业比较预期回报与融资成本；有利可图项目数量变化；投资既改变当前 AD 也可改变未来产能
       投资的短期需求效应与长期供给效应应分别解释。
-    en: "Raises AD first, then may raise potential output. Illustrative example: a
-      project expected to return 6% becomes more attractive when borrowing cost
-      falls from 7% to 4%. Weak sales or substantial idle capacity can still
-      prevent investment. Building a plant first adds demand; operating it later
-      raises capacity. Explain investment's short-run demand and long-run supply
-      effects separately."
+    en: Raises AD first, then may raise potential output. Firms compare expected
+      returns with financing costs; the set of profitable projects changes;
+      investment affects current AD and potentially future capacity Explain
+      investment's short-run demand and long-run supply effects separately.
 - id: u3-13-investment-short-1
   knowledgePointId: u3-13-investment
   type: short-answer

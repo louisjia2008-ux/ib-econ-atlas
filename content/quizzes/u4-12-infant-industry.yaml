@@ -35,13 +35,12 @@
       en: Verifiable learning spillovers and a sunset date
   correctOptionId: d
   explanation:
-    zh-CN: 可验证的学习外部性与退出期限。 原创假设：设备产业获三年支持，续期取决于单位成本下降和出口表现；没有绩效条件可能把补贴固化。
+    zh-CN: 可验证的学习外部性与退出期限。 初期规模小成本高；学习与规模扩大降低成本；到期撤销保护检验竞争力
       产业新不等于值得保护；政府信息不足、寻租和报复可能使净收益为负。
-    en: "Verifiable learning spillovers and a sunset date. Hypothetical scenario:
-      equipment firms receive three years of support, conditional on lower unit
-      costs and export performance. Unconditional renewal can entrench
-      subsidies. Being new does not justify protection; poor information, rent
-      seeking and retaliation may outweigh gains."
+    en: Verifiable learning spillovers and a sunset date. Small initial scale raises
+      costs; learning and scale reduce costs; removing protection tests
+      competitiveness Being new does not justify protection; poor information,
+      rent seeking and retaliation may outweigh gains.
 - id: u4-12-infant-industry-short-1
   knowledgePointId: u4-12-infant-industry
   type: short-answer

@@ -22,16 +22,14 @@
     en: Which statement best captures “Equity”?
   options:
     - id: a
-      zh-CN: 它只描述个人偏好，与资源、制度或社会结果无关。
-      en: It concerns personal preference only and has no connection to resources,
-        institutions, or social outcomes.
+      zh-CN: 公平总是指每个人获得完全相同收入
+      en: Equity always means identical incomes
     - id: b
-      zh-CN: 它意味着同一种经济结果在任何条件下都会自动出现。
-      en: It means the same economic outcome must arise automatically under every set
-        of conditions.
+      zh-CN: 只有统计方法才能唯一决定公平标准
+      en: Statistics alone uniquely determine fairness
     - id: c
-      zh-CN: 它是一项只适用于高收入经济体的会计规则。
-      en: It is an accounting rule that applies only to high-income economies.
+      zh-CN: 市场均衡自动证明分配公平
+      en: Market equilibrium automatically proves equity
     - id: d
       zh-CN: 公平判断结果或过程是否公正，它依赖价值标准，因此不能仅由市场数量或平均值决定。
       en: Equity judges whether a process or outcome is fair; it depends on an
@@ -51,15 +49,15 @@
     en: Briefly explain “Equity”, including one causal mechanism and one important
       implication.
   modelAnswer:
-    zh-CN: 公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。
+    zh-CN: 公平：公平是关于经济资源、机会、负担和结果是否以公正方式分配的规范性概念；不同社会可能采用需要、贡献、机会或权利等标准。
       识别资源、机会或负担的分配；选择判断公正的标准；比较不同群体受到的待遇与结果；设计或评价改变分配的政策 公平是一种规范性判断。
-    en: Equity is a normative concept concerning the fairness of the distribution of
-      economic resources, opportunities, burdens, and outcomes, assessed through
-      principles such as need, contribution, opportunity, or rights. Identify
-      how resources, opportunities, or burdens are distributed; Choose a
-      principle of fairness; Compare the treatment and outcomes of different
-      groups; Design or evaluate a policy that changes the distribution Equity
-      is a normative judgement.
+    en: "Equity: Equity is a normative concept concerning the fairness of the
+      distribution of economic resources, opportunities, burdens, and outcomes,
+      assessed through principles such as need, contribution, opportunity, or
+      rights. Identify how resources, opportunities, or burdens are distributed;
+      Choose a principle of fairness; Compare the treatment and outcomes of
+      different groups; Design or evaluate a policy that changes the
+      distribution Equity is a normative judgement."
   keywordGroups:
     - id: concept
       label:

@@ -34,13 +34,12 @@
       en: Fix every exchange rate
   correctOptionId: c
   explanation:
-    zh-CN: 降低政策不确定性。 原创假设：两国就进口限制产生分歧，共同规则可使争论围绕证据；小经济体仍可能面临法律资源不足。 WTO
+    zh-CN: 降低政策不确定性。 成员承诺规则；透明度降低政策不确定性；协商与争端程序处理冲突 WTO
       不是世界政府，也不保证所有贸易壁垒消失；当前争端机构运行状态须查官方资料。
-    en: "Reduce policy uncertainty. Hypothetical scenario: common rules focus a
-      dispute over import restrictions on evidence, while a small economy may
-      lack legal resources. The WTO is not a world government and does not
-      remove every barrier; current dispute-body operations require official
-      verification."
+    en: Reduce policy uncertainty. Members commit to rules; transparency reduces
+      policy uncertainty; negotiation and dispute procedures address conflict
+      The WTO is not a world government and does not remove every barrier;
+      current dispute-body operations require official verification.
 - id: u4-15-wto-short-1
   knowledgePointId: u4-15-wto
   type: short-answer

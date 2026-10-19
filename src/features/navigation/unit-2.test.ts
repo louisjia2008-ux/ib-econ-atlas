@@ -8,10 +8,10 @@ const points = knowledgePoints.filter((point) => point.meta.id.startsWith("u2-")
 describe("Unit 2 content and cross-unit contracts", () => {
   it("provides 60 points with three bilingual practice modes and valid model answers", () => {
     expect(points).toHaveLength(60);
-    expect(points.filter((point) => point.meta.level === "core")).toHaveLength(33);
-    expect(points.filter((point) => point.meta.level === "hl")).toHaveLength(27);
+    expect(points.filter((point) => point.meta.level === "core")).toHaveLength(34);
+    expect(points.filter((point) => point.meta.level === "hl")).toHaveLength(26);
     for (const point of points) {
-      expect(point.practice.map((item) => item.type).sort()).toEqual(["flashcard", "mcq", "short-answer"]);
+      expect([...new Set(point.practice.map((item) => item.type))].sort()).toEqual(["flashcard", "mcq", "short-answer"]);
       const short = point.practice.find((item) => item.type === "short-answer");
       if (!short || short.type !== "short-answer") throw new Error("Missing short-answer item");
       for (const locale of ["zh-CN", "en"] as const) {

@@ -33,15 +33,11 @@
       en: Households increase saving
   correctOptionId: b
   explanation:
-    zh-CN: 政府购买道路维修服务。
-      原创例：政府维修公共设施直接增加采购，给家庭补助则只有被消费的部分形成当期需求。闲置资源多时产出反应可能较大，进口泄漏、储蓄和执行延迟会削弱国内效果。
-      转移支付不是国民收入核算中的政府最终购买。
-    en: "Government purchases road repair services. Illustrative example: repairs to
-      public facilities directly raise purchases, whereas only the spent portion
-      of household support generates current demand. Output may respond more
-      with idle resources; imports, saving and implementation delays weaken
-      domestic effects. Transfers are not government final purchases in national
-      accounting."
+    zh-CN: 政府购买道路维修服务。 增加购买或提高可支配收入；初始支出带来收入及后续消费；总需求右移并可能缩小衰退缺口 转移支付不是国民收入核算中的政府最终购买。
+    en: Government purchases road repair services. Increase purchases or disposable
+      income; initial spending creates income and further consumption; aggregate
+      demand shifts right and may narrow a recessionary gap Transfers are not
+      government final purchases in national accounting.
 - id: u3-46-expansionary-fiscal-short-1
   knowledgePointId: u3-46-expansionary-fiscal
   type: short-answer

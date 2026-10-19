@@ -35,13 +35,11 @@
       en: Currency depreciation
   correctOptionId: b
   explanation:
-    zh-CN: 贸易转移。 原创假设：非成员成本 8、成员成本 10，对外税 4。入盟后免税成员价 10 低于非成员含税价 12，转向成员属于贸易转移。
-      消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。
-    en: "Trade diversion. Hypothetical scenario: a non-member costs eight and a
-      member ten; the external tariff is four. After integration, the member
-      price ten undercuts the non-member landed price twelve. Switching is trade
-      diversion. A lower consumer price alone does not establish better global
-      allocation; compare suppliers' real costs."
+    zh-CN: 贸易转移。 内部关税取消改变相对价格；采购来源改变；比较真实资源成本与关税收入变化 消费者价格降低不充分证明全球配置效率提高；还要看供应者真实成本。
+    en: Trade diversion. Removing internal tariffs changes relative prices; sourcing
+      changes; compare real resource costs and tariff revenue changes A lower
+      consumer price alone does not establish better global allocation; compare
+      suppliers' real costs.
 - id: u4-18-trade-creation-diversion-short-1
   knowledgePointId: u4-18-trade-creation-diversion
   type: short-answer

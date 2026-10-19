@@ -1,0 +1,103 @@
+- id: u4-59-development-composite-indices-flash-1
+  knowledgePointId: u4-59-development-composite-indices
+  type: flashcard
+  prompt:
+    zh-CN: 解释“GII、IHDI 与快乐星球指数”，并说明一个关键条件。
+    en: Explain GII, IHDI and the Happy Planet Index and state one important
+      condition.
+  answer:
+    zh-CN: GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。
+    en: GII measures gender inequality in reproductive health, empowerment and
+      labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index
+      assesses delivery of long lives and well-being using limited environmental
+      resources.
+  explanation:
+    zh-CN: GII 不是男女 HDI 的简单比值；HPI 不是 HDI，也不是只问主观幸福的排名。
+    en: GII is not simply a ratio of male and female HDI; HPI is neither HDI nor a
+      subjective-happiness-only ranking.
+- id: u4-59-development-composite-indices-mcq-1
+  knowledgePointId: u4-59-development-composite-indices
+  type: mcq
+  prompt:
+    zh-CN: 哪种指标明确纳入生殖健康、赋权和劳动力市场？
+    en: Which index explicitly covers reproductive health, empowerment and labour
+      markets?
+  options:
+    - id: a
+      zh-CN: GDP 平减指数
+      en: GDP deflator
+    - id: b
+      zh-CN: CPI
+      en: CPI
+    - id: c
+      zh-CN: GII
+      en: GII
+    - id: d
+      zh-CN: 贸易条件指数
+      en: Terms-of-trade index
+  correctOptionId: c
+  explanation:
+    zh-CN: GII。 指标选择不同维度；维度与权重决定比较含义；结合多种证据评价发展 GII 不是男女 HDI 的简单比值；HPI 不是
+      HDI，也不是只问主观幸福的排名。
+    en: GII. Indices select different dimensions; dimensions and weights determine
+      comparisons; combine evidence to assess development GII is not simply a
+      ratio of male and female HDI; HPI is neither HDI nor a
+      subjective-happiness-only ranking.
+- id: u4-59-development-composite-indices-short-1
+  knowledgePointId: u4-59-development-composite-indices
+  type: short-answer
+  prompt:
+    zh-CN: 解释GII、IHDI 与快乐星球指数的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of GII, IHDI and the Happy Planet Index and apply it
+      to an example of your own.
+  modelAnswer:
+    zh-CN: GII 衡量生殖健康、赋权和劳动力市场的性别不平等；IHDI 调整 HDI 各维度分配；快乐星球指数衡量有限环境资源下实现长寿和福祉的表现。
+      指标选择不同维度；维度与权重决定比较含义；结合多种证据评价发展 原创假设：相似 HDI 的两国若收入、教育和健康的分配不同，IHDI
+      可不同；相似寿命与幸福评价而环境负担不同，HPI 也可不同。指标不能互换，比较须采用同一版本的方法。
+    en: "GII measures gender inequality in reproductive health, empowerment and
+      labour markets; IHDI adjusts HDI for distribution; the Happy Planet Index
+      assesses delivery of long lives and well-being using limited environmental
+      resources. Indices select different dimensions; dimensions and weights
+      determine comparisons; combine evidence to assess development Hypothetical
+      scenario: equal HDI can coexist with different IHDI when income, health
+      and education are distributed differently. Similar longevity and
+      well-being with different environmental pressure can yield different HPI.
+      Use the same methodology edition for comparisons."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 性别
+        en: gender
+      alternatives:
+        zh-CN:
+          - 性别
+          - 指标选择不同维度
+        en:
+          - gender
+          - Indices select different dimensions
+    - id: mechanism-2
+      label:
+        zh-CN: 分配
+        en: distribution
+      alternatives:
+        zh-CN:
+          - 分配
+          - 维度与权重决定比较含义
+        en:
+          - distribution
+          - dimensions and weights determine comparisons
+    - id: mechanism-3
+      label:
+        zh-CN: 环境
+        en: environment
+      alternatives:
+        zh-CN:
+          - 环境
+          - 结合多种证据评价发展
+        en:
+          - environment
+          - combine evidence to assess development
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

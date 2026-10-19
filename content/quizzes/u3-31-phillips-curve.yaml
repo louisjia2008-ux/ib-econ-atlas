@@ -36,14 +36,12 @@
       en: Short-run supply shocks cannot occur
   correctOptionId: c
   explanation:
-    zh-CN: 不存在永久的通胀—失业权衡。 原创例：政策把失业暂时压低至自然率以下，随后预期通胀上升，SRPC
-      上移。能源供给冲击也可使通胀和失业同时上升，所以不能将一条短期曲线当作永久稳定的政策菜单。 菲利普斯图纵轴是通胀率，AD–AS 图纵轴是价格水平。
-    en: "No permanent inflation–unemployment trade-off. Illustrative example: policy
-      temporarily pushes unemployment below the natural rate, then expected
-      inflation rises and SRPC shifts up. An energy shock can raise both
-      inflation and unemployment, so one short-run curve is not a permanently
-      stable policy menu. Phillips curves use inflation on the vertical axis;
-      AD–AS uses the price level."
+    zh-CN: 不存在永久的通胀—失业权衡。 需求扩张短期减少周期性失业；工资价格预期随后调整；短期曲线移动使长期权衡消失 菲利普斯图纵轴是通胀率，AD–AS
+      图纵轴是价格水平。
+    en: No permanent inflation–unemployment trade-off. Demand expansion initially
+      reduces cyclical unemployment; wage-price expectations adjust; the
+      short-run curve shifts, removing the permanent long-run trade-off Phillips
+      curves use inflation on the vertical axis; AD–AS uses the price level.
 - id: u3-31-phillips-curve-short-1
   knowledgePointId: u3-31-phillips-curve
   type: short-answer

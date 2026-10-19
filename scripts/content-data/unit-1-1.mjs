@@ -398,7 +398,7 @@ const topics = [
     "zh-CN": {
       title: "免费物品",
       takeaway: "免费物品在特定时间地点相对于需求足够充裕，取得更多不需要牺牲其他产出；价格为零并不足以证明它是免费物品。",
-      definition: "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有显著机会成本的物品或资源。",
+      definition: "免费物品是数量相对于需求如此充裕，以至于在当前条件下增加使用没有机会成本的物品或资源。",
       causalChain: ["资源在特定条件下非常充裕", "额外使用不排挤其他人的可行用途", "边际机会成本接近零", "无需通过价格配置该边际单位"],
       example: { title: "清洁空气可能从免费物品变得稀缺", explanation: "世界卫生组织记录空气污染带来的健康风险。空气本身没有市场价格，但当排放损害清洁空气时，额外排放会产生机会成本，清洁空气便不能简单视为免费物品。" },
       misconceptions: ["零价格商品可能由税收支付或限量提供，仍然具有机会成本。", "一种资源可以在某地是免费物品，在人口密集或受污染地区却变得稀缺。"],
@@ -410,7 +410,7 @@ const topics = [
     en: {
       title: "Free goods",
       takeaway: "A free good is abundant relative to demand in a particular place and time, so obtaining more does not displace another output; a zero price alone is not enough.",
-      definition: "A free good is a good or resource so abundant relative to demand that an additional unit has no significant opportunity cost under the conditions being considered.",
+      definition: "A free good is a good or resource so abundant relative to demand that an additional unit has no opportunity cost under the conditions being considered.",
       causalChain: ["A resource is highly abundant in a specific context", "Extra use does not exclude a feasible use by someone else", "Marginal opportunity cost is approximately zero", "No price mechanism is needed to allocate that marginal unit"],
       example: { title: "Clean air can cease to be a free good", explanation: "The World Health Organization documents the health burden of air pollution. Air has no ordinary purchase price, yet when emissions reduce air quality, additional pollution imposes opportunity costs and clean air cannot simply be treated as free." },
       misconceptions: ["A zero-priced service may be tax-funded or rationed and still carry an opportunity cost.", "A resource may be free in one location but scarce in a crowded or polluted setting."],

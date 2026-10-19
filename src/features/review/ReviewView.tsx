@@ -202,7 +202,7 @@ export function ReviewView({ locale, level, scopeIds }: { locale: Locale; level:
       </div>
       <div className="session-progress"><span style={{ width: `${((position + 1) / queue.length) * 100}%` }} /></div>
       <article className="question-card">
-        <div className="question-meta"><span>{item.type.toUpperCase()}</span><small>{current.point.meta.section} · {current.point.content[locale].title}</small></div>
+        <div className="question-meta"><span>{item.type.toUpperCase()}{(item.level ?? current.point.meta.level) === "hl" ? " · HL" : ""}</span><small>{current.point.meta.section} · {current.point.content[locale].title}</small></div>
         <h1>{item.prompt[locale]}</h1>
 
         {item.type === "flashcard" && (

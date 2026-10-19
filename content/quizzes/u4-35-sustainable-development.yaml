@@ -35,12 +35,13 @@
       en: No need to consider the future
   correctOptionId: c
   explanation:
-    zh-CN: 健康与自然资本损失。 原创假设：采矿提高 GDP，但污染水源并挤压农业，不能只用产出增长判断发展；需衡量健康、收入分配和生态损失。
+    zh-CN: 健康与自然资本损失。 产出增长扩大可用资源；分配与公共服务影响能力；自然资本保护维持未来选择
       增长可能资助发展，但并非充分条件；可持续性也包含代际公平。
-    en: "Health and natural-capital losses. Hypothetical scenario: mining raises GDP
-      but pollutes water and harms farming. Evaluate health, distribution and
-      ecological losses alongside output. Growth can finance development but is
-      not sufficient; sustainability includes intergenerational equity."
+    en: Health and natural-capital losses. Output growth expands available
+      resources; distribution and public services shape capabilities;
+      natural-capital protection preserves future options Growth can finance
+      development but is not sufficient; sustainability includes
+      intergenerational equity.
 - id: u4-35-sustainable-development-short-1
   knowledgePointId: u4-35-sustainable-development
   type: short-answer

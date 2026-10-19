@@ -1,0 +1,100 @@
+- id: u3-57-bank-money-creation-flash-1
+  knowledgePointId: u3-57-bank-money-creation
+  type: flashcard
+  prompt:
+    zh-CN: 解释“商业银行的货币创造”，并说明一个关键条件。
+    en: Explain Money creation by commercial banks and state one important
+      condition.
+  answer:
+    zh-CN: 商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。
+    en: Commercial-bank lending normally creates a matching deposit; principal
+      repayment can destroy deposit money. Capital, liquidity, risk, regulation
+      and loan demand constrain expansion.
+  explanation:
+    zh-CN: 不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。
+    en: New deposits are not new output, and money creation does not make banks
+      unconstrained.
+- id: u3-57-bank-money-creation-mcq-1
+  knowledgePointId: u3-57-bank-money-creation
+  type: mcq
+  prompt:
+    zh-CN: 银行发放贷款时通常同时创造什么？
+    en: What is normally created alongside a new bank loan?
+  options:
+    - id: a
+      zh-CN: 客户存款负债
+      en: A customer deposit liability
+    - id: b
+      zh-CN: 央行直接购买的商品
+      en: Goods bought directly by the central bank
+    - id: c
+      zh-CN: 借款人的无债净财富
+      en: Debt-free net wealth for the borrower
+    - id: d
+      zh-CN: 已经生产的等额实际产出
+      en: Matching real output already produced
+  correctOptionId: a
+  explanation:
+    zh-CN: 客户存款负债。 银行记入贷款资产；同时记入客户存款负债；跨行支付需要结算与流动性
+      不能把新增存款等同于新增产出，也不能把创造货币理解为银行没有风险约束。
+    en: A customer deposit liability. The bank records a loan asset; it records a
+      matching deposit liability; interbank payments need settlement and
+      liquidity New deposits are not new output, and money creation does not
+      make banks unconstrained.
+- id: u3-57-bank-money-creation-short-1
+  knowledgePointId: u3-57-bank-money-creation
+  type: short-answer
+  prompt:
+    zh-CN: 解释商业银行的货币创造的机制，并用一个自己设计的情境说明其含义。
+    en: Explain the mechanism of Money creation by commercial banks and apply it to
+      an example of your own.
+  modelAnswer:
+    zh-CN: 商业银行发放贷款通常同时创造客户存款；贷款偿还可销毁存款货币，但资本、流动性、风险、监管与贷款需求约束扩张。
+      银行记入贷款资产；同时记入客户存款负债；跨行支付需要结算与流动性 原创假设：银行贷出 100，同时客户存款增加 100；客户净财富没有因此增加
+      100，因为还负有贷款。基础货币与广义货币不同，准备金不是可无限机械倍增的保证。
+    en: "Commercial-bank lending normally creates a matching deposit; principal
+      repayment can destroy deposit money. Capital, liquidity, risk, regulation
+      and loan demand constrain expansion. The bank records a loan asset; it
+      records a matching deposit liability; interbank payments need settlement
+      and liquidity Hypothetical scenario: lending 100 adds a deposit of 100 but
+      also a debt of 100, so it does not add 100 to the borrower’s net wealth.
+      Base and broad money differ; reserves do not guarantee unlimited
+      mechanical expansion."
+  keywordGroups:
+    - id: mechanism-1
+      label:
+        zh-CN: 贷款
+        en: loan
+      alternatives:
+        zh-CN:
+          - 贷款
+          - 银行记入贷款资产
+        en:
+          - loan
+          - The bank records a loan asset
+    - id: mechanism-2
+      label:
+        zh-CN: 存款
+        en: deposit
+      alternatives:
+        zh-CN:
+          - 存款
+          - 同时记入客户存款负债
+        en:
+          - deposit
+          - it records a matching deposit liability
+    - id: mechanism-3
+      label:
+        zh-CN: 约束
+        en: constraints
+      alternatives:
+        zh-CN:
+          - 约束
+          - 跨行支付需要结算与流动性
+        en:
+          - constraints
+          - interbank payments need settlement and liquidity
+  explanation:
+    zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
+    en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
+      causation and application, then override the judgement if needed.

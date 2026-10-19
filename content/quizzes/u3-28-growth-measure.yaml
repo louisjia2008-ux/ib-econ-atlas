@@ -34,13 +34,9 @@
       en: 5%
   correctOptionId: d
   explanation:
-    zh-CN: 5%。 原创例：实际 GDP 从 800 到 840，增长率为 5%。若同期人口增长 5%，人均实际 GDP
-      不变。若失业资源被重新使用，增长可能主要来自缺口缩小，而非生产边界外移。 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。
-    en: "5%. Illustrative example: real GDP rises from 800 to 840, giving growth of
-      5%. With population also growing 5%, real GDP per person is unchanged.
-      Re-employing idle resources can close a gap rather than shift the
-      production frontier. Using nominal GDP growth without adjusting prices
-      confuses volume with prices."
+    zh-CN: 5%。 (525 − 500) / 500 × 100 = 5% 使用名义 GDP 增幅而不处理物价，会混淆产量与价格。
+    en: 5%. (525 − 500) / 500 × 100 = 5% Using nominal GDP growth without adjusting
+      prices confuses volume with prices.
 - id: u3-28-growth-measure-short-1
   knowledgePointId: u3-28-growth-measure
   type: short-answer

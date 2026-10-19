@@ -16,30 +16,30 @@
   knowledgePointId: u4-10-export-subsidy
   type: mcq
   prompt:
-    zh-CN: 出口补贴 2、出口 50，财政支出多少？
-    en: An export subsidy of two on fifty exports costs how much?
+    zh-CN: 出口补贴一定改善本国净福利吗？
+    en: Does an export subsidy necessarily improve home welfare?
   options:
     - id: a
-      zh-CN: "52"
-      en: "52"
+      zh-CN: 是，只要出口增加
+      en: Yes, whenever exports rise
     - id: b
-      zh-CN: "100"
-      en: "100"
+      zh-CN: 不，财政成本与消费者损失也需计算
+      en: No; fiscal costs and consumer losses also matter
     - id: c
-      zh-CN: "48"
-      en: "48"
+      zh-CN: 是，因为不存在财政成本
+      en: Yes, because there is no fiscal cost
     - id: d
-      zh-CN: 必然没有成本
-      en: Necessarily no cost
+      zh-CN: 是，因为消费者价必下降
+      en: Yes, because consumer price must fall
   correctOptionId: b
   explanation:
-    zh-CN: 100。 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至 12；若出口 50，财政成本为 100。
+    zh-CN: 不，财政成本与消费者损失也需计算。 出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降
       出口增加不是净福利增加；补贴也可能引发贸易争端，具体规则须核验。
-    en: "100. Hypothetical scenario: with world price ten and an export subsidy of
-      two, domestic price rises to twelve in a simplified arbitrage model. Fifty
-      exports cost the government 100. More exports do not establish a welfare
-      gain; subsidies can also trigger trade disputes, whose specific rules
-      require verification."
+    en: No; fiscal costs and consumer losses also matter. Returns per exported unit
+      rise; producers divert sales until domestic price adjusts; domestic output
+      rises and consumption falls More exports do not establish a welfare gain;
+      subsidies can also trigger trade disputes, whose specific rules require
+      verification.
 - id: u4-10-export-subsidy-short-1
   knowledgePointId: u4-10-export-subsidy
   type: short-answer
@@ -49,15 +49,17 @@
       own.
   modelAnswer:
     zh-CN: 出口补贴按出口量支付，可能提高本国价格并扩大出口，财政支出和国内消费损失影响福利。
-      出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降 原创假设：小国世界价 10、出口补贴 2，在可自由转售的简化模型下国内价升至
-      12；若出口 50，财政成本为 100。
+      出口每单位回报提高；生产者转向出口直到国内价调整；国内生产增加消费下降
+      原创假设：小国补贴每单位出口，可自由转售时生产者倾向出口直到国内价也上升；国内生产增加、消费下降、出口扩大，但财政与消费者承受成本。计算财政支出属于
+      HL。
     en: "An export subsidy pays per exported unit and can raise the domestic price
       and exports; fiscal costs and domestic consumption losses affect welfare.
       Returns per exported unit rise; producers divert sales until domestic
       price adjusts; domestic output rises and consumption falls Hypothetical
-      scenario: with world price ten and an export subsidy of two, domestic
-      price rises to twelve in a simplified arbitrage model. Fifty exports cost
-      the government 100."
+      scenario: a per-unit export subsidy encourages exporting until domestic
+      price also rises under arbitrage. Domestic output rises, consumption falls
+      and exports expand, at fiscal and consumer cost. Numerical fiscal
+      calculations are HL."
   keywordGroups:
     - id: mechanism-1
       label:
@@ -96,3 +98,27 @@
     zh-CN: 关键词覆盖是辅助提示，不是 IB 官方评分。检查条件、因果关系和情境应用后，可手动修正判定。
     en: Keyword coverage is a study aid, not official IB marking. Check assumptions,
       causation and application, then override the judgement if needed.
+- id: u4-10-export-subsidy-mcq-hl-1
+  knowledgePointId: u4-10-export-subsidy
+  type: mcq
+  level: hl
+  prompt:
+    zh-CN: 出口补贴 2、出口 50，财政支出多少？
+    en: An export subsidy of two on fifty exports costs how much?
+  options:
+    - id: a
+      zh-CN: "52"
+      en: "52"
+    - id: b
+      zh-CN: "48"
+      en: "48"
+    - id: c
+      zh-CN: "100"
+      en: "100"
+    - id: d
+      zh-CN: 必然没有成本
+      en: Necessarily no cost
+  correctOptionId: c
+  explanation:
+    zh-CN: 100。 2 × 50 = 100
+    en: 100. 2 × 50 = 100

@@ -25,7 +25,7 @@ Successive units satisfy less urgent uses.  extra utility falls.  consumers comp
 
 ### Original scenario and reasoning
 
-Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure.
+Illustrative example: three drinks yield marginal utilities of 12, 8 and 3, giving total utility of 23. Total utility rises despite falling marginal utility. Rational budget allocation compares MU/P, although utility is not an objectively observable happiness measure. HL derivation: a price rise induces substitution away from the good; for a normal good the loss of purchasing power also lowers purchases through the income effect.
 
 Diminishing marginal utility is not the same as diminishing total utility.
 

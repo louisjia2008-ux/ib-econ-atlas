@@ -33,15 +33,11 @@
       en: Firms lack confidence in future sales
   correctOptionId: d
   explanation:
-    zh-CN: 企业对未来销售缺乏信心。
-      原创例：浮动汇率下，相对利率下降可能减少资本流入并使货币贬值，从而支持净出口；但进口成本也会上升。固定利率房贷较多时，家庭现金流反应可能较慢。
-      降息不保证汇率或投资按固定幅度变化。
-    en: "Firms lack confidence in future sales. Illustrative example: under floating
-      exchange rates, lower relative interest may reduce capital inflows and
-      depreciate the currency, supporting net exports while raising import
-      costs. Household cash-flow responses may be slower where fixed-rate
-      mortgages dominate. A rate cut does not guarantee a fixed exchange-rate or
-      investment response."
+    zh-CN: 企业对未来销售缺乏信心。 利率改变融资与储蓄回报；家庭企业调整消费投资；总需求变化影响实际产出和物价 降息不保证汇率或投资按固定幅度变化。
+    en: Firms lack confidence in future sales. Rates change financing costs and
+      saving returns; households and firms adjust consumption and investment;
+      changing aggregate demand affects output and prices A rate cut does not
+      guarantee a fixed exchange-rate or investment response.
 - id: u3-40-monetary-transmission-short-1
   knowledgePointId: u3-40-monetary-transmission
   type: short-answer
