@@ -17,7 +17,9 @@ IB Econ Atlas is an open-source bilingual study workspace for the 2022–2029 IB
 - 8 幅原创全球经济 SVG：进口、出口、关税、配额、生产补贴、外汇市场、J 曲线和贫困循环，附双语文字替代。
 - 考纲目录与 Cambridge 教材页码索引两套导航；稳定 ID 建立映射，不分发教材文件。
 - 中英文跨语言模糊搜索、同义词、拼写容错、考纲代码、SL/HL/Extension 和临时考试范围过滤。
-- 闪卡、选择题、简答题和混合复习；简答显示关键词命中、遗漏、覆盖率与人工修正。
+- 闪卡、选择题、简答题和混合复习；简答的关键词命中仅用于查漏，核对概念、因果和情境并明确自评后才记录结果。
+- 知识点练习入口直接限定当前主题，按 SL/HL 筛选；自由复习保留独立入口。
+- 关税示范工坊：完整机制与福利推导、键盘／触控作图、10 分解释题、15 分评价题、HL 计算、自查反馈和本机草稿。3 道工坊题独立于上述 695 道基础材料；题目为原创练习，不是 IB 真题或自动阅卷。详见 [学习工坊](docs/LEARNING_WORKSHOP.md)。
 - FSRS 间隔调度与 `new`、`learning`、`review`、`mastered` 状态。
 - IndexedDB 本地进度、原子化 JSON 合并/替换导入，以及不包含 AI 访问码和临时范围的备份。
 - 可键盘和触控操作的 PPC，附静态 SVG 与表格替代视图。
@@ -81,7 +83,7 @@ content/
 
 ## 数据与隐私 / Data and privacy
 
-- 学习进度、练习记录和非敏感偏好仅存于浏览器 IndexedDB。
+- 学习进度、练习记录和非敏感偏好仅存于浏览器 IndexedDB；工坊画图／长答草稿存于本机 localStorage，暂不包含在进度 JSON 备份中。
 - 当前考试范围只存于 `sessionStorage`，关闭会话后消失，也不会进入备份。
 - Owner access token 只保存在当前设备的浏览器存储中，不进入备份、URL、日志或仓库。
 - Service Worker 只管理静态应用缓存，不删除或迁移 IndexedDB。

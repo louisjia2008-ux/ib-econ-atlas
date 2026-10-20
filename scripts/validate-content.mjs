@@ -107,6 +107,19 @@ for (const id of implementedIds) {
       }
       if (item.type === "short-answer") requireCondition(item.keywordGroups?.length >= 3 && item.keywordGroups.every((group) => ["zh-CN", "en"].every((locale) => group.label?.[locale] && group.alternatives?.[locale]?.length > 0)), `${item.id}: three bilingual keyword groups required.`);
     }
+    if (point.workshop) {
+      const workshop = point.workshop;
+      const bilingual = (value) => ["zh-CN", "en"].every(locale => typeof value?.[locale] === "string" && value[locale].trim().length > 0);
+      const criteriaValid = (criteria) => Array.isArray(criteria) && criteria.length > 0 && new Set(criteria.map(c => c.id)).size === criteria.length && criteria.every(c => c.id && [c.title, c.guidance, c.feedback].every(bilingual));
+      requireCondition([workshop.title, workshop.introduction, workshop.assumptions, workshop.diagram?.prompt].every(bilingual), `${id}: bilingual workshop introduction and diagram prompt required.`);
+      requireCondition(criteriaValid(workshop.diagram?.criteria), `${id}: invalid diagram review criteria.`);
+      requireCondition(Array.isArray(workshop.tasks) && workshop.tasks.length > 0 && new Set(workshop.tasks.map(t => t.id)).size === workshop.tasks.length, `${id}: unique workshop tasks required.`);
+      for (const task of workshop.tasks ?? []) {
+        requireCondition([task.title, task.prompt, task.modelAnswer, task.weakAnswer, task.diagnosis].every(bilingual) && criteriaValid(task.criteria), `${id}/${task.id}: bilingual exam task and feedback required.`);
+        requireCondition(["core", "hl", "extension"].includes(task.level) && Number.isInteger(task.marks) && task.marks > 0 && Number.isInteger(task.minutes) && task.minutes > 0, `${id}/${task.id}: valid task level, marks and duration required.`);
+      }
+      requireCondition(workshop.sources?.length > 0 && workshop.sources.every(s => s.title && /^https:\/\//.test(s.url)), `${id}: workshop source links required.`);
+    }
   } catch (error) {
     failures.push(`${id}: ${error instanceof Error ? error.message : String(error)}`);
   }

@@ -12,7 +12,7 @@ export interface KeywordMatch {
 
 export interface ShortAnswerScore {
   coverage: number;
-  result: PracticeResult;
+  result: PracticeResult | undefined;
   groups: KeywordMatch[];
   manualOverride: boolean;
 }
@@ -53,12 +53,6 @@ function phraseMatches(answer: string, alternative: string, locale: Locale): boo
   return alternativeChars.length >= 4 && covered >= 0.72;
 }
 
-export function classifyCoverage(coverage: number): PracticeResult {
-  if (coverage >= 0.8) return "correct";
-  if (coverage >= 0.5) return "partial";
-  return "incorrect";
-}
-
 export function scoreShortAnswer(item: ShortAnswerItem, answer: string, locale: Locale): ShortAnswerScore {
   const groups = item.keywordGroups.map<KeywordMatch>((group) => {
     const alternative = group.alternatives[locale].find((candidate) => phraseMatches(answer, candidate, locale));
@@ -70,7 +64,9 @@ export function scoreShortAnswer(item: ShortAnswerItem, answer: string, locale: 
     };
   });
   const coverage = groups.filter((group) => group.matched).length / Math.max(1, groups.length);
-  return { coverage, result: classifyCoverage(coverage), groups, manualOverride: false };
+  // Vocabulary presence cannot establish meaning, causation, or application.
+  // Only an explicit review of the answer may produce a learning result.
+  return { coverage, result: undefined, groups, manualOverride: false };
 }
 
 export function overrideShortAnswer(score: ShortAnswerScore, result: PracticeResult): ShortAnswerScore {

@@ -3,6 +3,7 @@ import { Database, Download, FileUp, KeyRound, Save, ShieldCheck, Sparkles, Tras
 import type { Locale } from "../../types/content";
 import { clearOwnerAccessToken, loadOwnerAccessToken, saveOwnerAccessToken } from "../ai/credentials";
 import { clearLearningData, getDataCounts, getPreferences, savePreferences } from "../progress/db";
+import { clearWorkshopDrafts } from "../workshop/storage";
 import { backupFilename, createBackup, importBackup, serializeBackup, type ImportMode } from "./backup";
 
 interface DataSummary {
@@ -68,11 +69,12 @@ export function SettingsView({ locale }: { locale: Locale }) {
     const confirmed = window.confirm(locale === "zh-CN" ? "确定清除这台设备上的全部学习数据吗？此操作不可撤销。" : "Clear all learning data on this device? This cannot be undone.");
     if (!confirmed) return;
     await clearLearningData();
+    const draftsCleared = clearWorkshopDrafts();
     clearOwnerAccessToken();
     setOwnerToken("");
     setAiEndpoint("");
     setAiEnabled(false);
-    setStatus(locale === "zh-CN" ? "本地学习数据已清除。" : "Local learning data cleared.");
+    setStatus(draftsCleared ? (locale === "zh-CN" ? "本地学习数据和工坊草稿已清除。" : "Local learning data and workshop drafts cleared.") : (locale === "zh-CN" ? "学习记录已清除，但浏览器拒绝清除工坊草稿；请检查站点存储。" : "Learning records cleared, but the browser blocked removal of workshop drafts. Check site storage."));
     await refresh();
   };
 
@@ -107,7 +109,7 @@ export function SettingsView({ locale }: { locale: Locale }) {
       </div>
       <section className="dashboard-panel data-actions">
         <div><h2>{locale === "zh-CN" ? "备份与迁移" : "Backup and migration"}</h2><ShieldCheck /></div>
-        <p>{locale === "zh-CN" ? "备份包含进度、练习和非敏感偏好，不包含临时考试范围、Worker endpoint 或 AI 访问码。" : "Backups contain progress, attempts, and non-sensitive preferences—not exam scope, Worker endpoint, or AI access tokens."}</p>
+        <p>{locale === "zh-CN" ? "备份包含进度、练习和非敏感偏好，不包含工坊画图／长答草稿、临时考试范围、Worker endpoint 或 AI 访问码。" : "Backups contain progress, attempts, and non-sensitive preferences—not workshop drawing/essay drafts, exam scope, Worker endpoint, or AI access tokens."}</p>
         <div className="settings-actions">
           <button className="primary-action" type="button" onClick={() => void exportData()}><Download size={17} /> {locale === "zh-CN" ? "导出 JSON" : "Export JSON"}</button>
           <select value={mode} onChange={(event) => setMode(event.target.value as ImportMode)} aria-label={locale === "zh-CN" ? "导入模式" : "Import mode"}>
@@ -128,7 +130,7 @@ export function SettingsView({ locale }: { locale: Locale }) {
       </section>
       <section className="dashboard-panel danger-panel">
         <div><h2>{locale === "zh-CN" ? "清除学习数据" : "Clear learning data"}</h2></div>
-        <p>{locale === "zh-CN" ? "删除当前浏览器中的进度、练习和偏好。内容知识库不会被删除。" : "Deletes progress, attempts, and preferences in this browser. Study content remains available."}</p>
+        <p>{locale === "zh-CN" ? "删除当前浏览器中的进度、练习、偏好及工坊草稿。内容知识库不会被删除。" : "Deletes progress, attempts, preferences and workshop drafts in this browser. Study content remains available."}</p>
         <button type="button" onClick={() => void clearData()}><Trash2 size={17} /> {locale === "zh-CN" ? "清除本地数据" : "Clear local data"}</button>
       </section>
       {status && <p className="settings-status" role="status">{status}</p>}

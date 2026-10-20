@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { knowledgePoints } from "../../generated/content";
 import type { ShortAnswerItem } from "../../types/content";
 import type { ProgressRecord } from "../../types/progress";
-import { classifyCoverage, overrideShortAnswer, ratingForFlashcard, ratingForResult, scoreShortAnswer } from "./scoring";
+import { overrideShortAnswer, ratingForFlashcard, ratingForResult, scoreShortAnswer } from "./scoring";
 import { scheduleReview } from "./scheduler";
 import { createReviewQueue } from "./session";
 import { makeKnowledgePoint } from "../../test/knowledgePoint";
@@ -11,21 +11,31 @@ const scarcity = knowledgePoints.find((point) => point.meta.id === "u1-04-scarci
 const scarcityShort = scarcity?.practice.find((item): item is ShortAnswerItem => item.type === "short-answer");
 
 describe("short-answer scoring", () => {
-  it("matches Chinese keyword groups and applies 80/50 thresholds", () => {
+  it("matches Chinese vocabulary without assigning correctness", () => {
     expect(scarcityShort).toBeDefined();
     const complete = scoreShortAnswer(scarcityShort as ShortAnswerItem, "资源有限而欲望无限，所以必须选择，放弃最佳替代方案就是机会成本。", "zh-CN");
     expect(complete.coverage).toBe(1);
-    expect(complete.result).toBe("correct");
-    expect(classifyCoverage(0.8)).toBe("correct");
-    expect(classifyCoverage(0.5)).toBe("partial");
-    expect(classifyCoverage(0.49)).toBe("incorrect");
+    expect(complete.result).toBeUndefined();
+    expect(complete.manualOverride).toBe(false);
   });
 
   it("matches English synonyms and exposes missing groups", () => {
     const partial = scoreShortAnswer(scarcityShort as ShortAnswerItem, "Finite resources create a resource constraint, while wants exceed resources.", "en");
     expect(partial.coverage).toBeCloseTo(2 / 3);
-    expect(partial.result).toBe("partial");
+    expect(partial.result).toBeUndefined();
     expect(partial.groups.filter((group) => !group.matched)).toHaveLength(1);
+  });
+
+  it.each([
+    ["zh-CN", "贸易保护必定提高效率和公平，不需要比较任何替代方案。"],
+    ["en", "Protection always improves efficiency and equity; alternatives never matter."],
+  ] as const)("does not mark a keyword-complete but false %s answer correct", (locale, answer) => {
+    const point = knowledgePoints.find(p => p.meta.id === "u4-14-protection-evaluation");
+    const item = point?.practice.find((p): p is ShortAnswerItem => p.type === "short-answer");
+    const score = scoreShortAnswer(item as ShortAnswerItem, answer, locale);
+    expect(score.coverage).toBe(1);
+    expect(score.result).toBeUndefined();
+    expect(score.manualOverride).toBe(false);
   });
 
   it("records a manual correction separately from automatic coverage", () => {

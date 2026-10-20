@@ -39,6 +39,7 @@ export function loadKnowledgePoint(id) {
   const dir = path.join(contentRoot, "knowledge", id);
   const meta = readYaml(path.join(dir, "meta.yaml"));
   const practice = readYaml(path.join(contentRoot, "quizzes", `${id}.yaml`));
+  const workshopPath = path.join(contentRoot, "workshops", `${id}.yaml`);
   return {
     meta,
     content: {
@@ -46,6 +47,7 @@ export function loadKnowledgePoint(id) {
       en: parseLocalizedMarkdown(path.join(dir, "en.md"), id, "en"),
     },
     practice,
+    ...(fs.existsSync(workshopPath) ? { workshop: readYaml(workshopPath) } : {}),
   };
 }
 

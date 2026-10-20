@@ -5,10 +5,13 @@
     zh-CN: 解释“关税与小国福利”，并说明一个关键条件。
     en: Explain Tariffs and small-country welfare and state one important condition.
   answer:
-    zh-CN: 关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。
-    en: A tariff taxes imports. In a small economy a specific tariff raises domestic
-      price from Pw to Pw+t, reduces imports and creates revenue and efficiency
-      losses.
+    zh-CN: 单位关税对每单位进口征固定税额。假设小国不能改变 Pw 且税后仍有进口，国内价升至
+      Pw+t，国内供给增加、消费减少、进口缩小；消费者受损，生产者和政府获得转移，无外部性模型留下 b+d 的净损失。
+    en: A specific tariff charges a fixed tax per imported unit. If a small economy
+      cannot change Pw and imports remain positive, domestic price rises to
+      Pw+t, supply rises, consumption and imports fall. Consumers lose;
+      producers and government receive transfers, leaving net losses b+d without
+      externalities.
   explanation:
     zh-CN: 关税收入应乘税后进口量；它是转移，不等于净福利增加。
     en: Use post-tariff imports for revenue; revenue is a transfer, not a net
@@ -47,18 +50,19 @@
     en: Explain the mechanism of Tariffs and small-country welfare and apply it to
       an example of your own.
   modelAnswer:
-    zh-CN: 关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。
-      进口成本提高；国内生产增加消费减少；政府按税后进口量征税
-      原创假设：小国对进口征单位税，国内价提高，本国生产增加、消费减少、进口缩小；政府获得税收。无外部性模型中，生产和消费扭曲带来净福利损失。税收数值计算属于
-      HL。
-    en: "A tariff taxes imports. In a small economy a specific tariff raises
-      domestic price from Pw to Pw+t, reduces imports and creates revenue and
-      efficiency losses. Import costs rise; domestic production rises and
-      consumption falls; revenue is levied on post-tariff imports Hypothetical
-      scenario: a specific import tariff raises price, increases domestic output
-      and reduces consumption and imports. Government receives revenue. With no
-      externalities, production and consumption distortions reduce net welfare.
-      Numerical revenue calculations are HL."
+    zh-CN: 关税是进口税。假定本国是世界价格接受者、商品同质、竞争市场，无外部性或报复，且税后仍有进口。单位关税使国内价由 Pw 升至 Pw+t；企业沿 S
+      增产至 Qs1，消费者沿 D 减少购买至 Qd1，进口缩小到 Qd1−Qs1。消费者剩余减少 a+b+c+d，生产者获得 a，政府税收为
+      c；本国转移 a 与 c 相抵后，生产扭曲 b 与消费扭曲 d
+      构成净损失。例如原创假设某小国对进口大米征单位关税：国内米厂扩产、家庭减少购买，进口差额缩小。不能仅由米厂获益推断全国净福利增加。
+    en: A tariff taxes imports. Assume a price-taking economy, homogeneous goods,
+      competition, no externalities or retaliation and positive remaining
+      imports. A specific tariff raises domestic price from Pw to Pw+t. Firms
+      move along S to Qs1 and consumers along D to Qd1; imports fall to Qd1−Qs1.
+      Consumers lose a+b+c+d, producers gain a and government receives revenue
+      c. Transfers a and c cancel, leaving production and consumption losses
+      b+d. In an original hypothetical rice-importing economy, a tariff
+      encourages local mills to expand while households buy less, shrinking the
+      import gap. Producer gains alone do not establish a national welfare gain.
   keywordGroups:
     - id: mechanism-1
       label:
