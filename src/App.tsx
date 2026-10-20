@@ -156,12 +156,13 @@ function App() {
     void getPreferences().then((preferences) => savePreferences({ ...preferences, locale, levelFilter: level }));
   }, [level, locale, preferencesReady]);
 
+  const reviewPointId = location.pathname === "/review" ? new URLSearchParams(location.search).get("point") ?? undefined : undefined;
   const currentPoint = useMemo(() => {
-    const requestedId = studyMatch?.params.knowledgePointId;
+    const requestedId = studyMatch?.params.knowledgePointId ?? reviewPointId;
     return knowledgePoints.find((point) => point.meta.id === requestedId)
       ?? knowledgePoints.find((point) => point.meta.id === "u1-04-scarcity")
       ?? knowledgePoints[0];
-  }, [studyMatch?.params.knowledgePointId]);
+  }, [studyMatch?.params.knowledgePointId, reviewPointId]);
 
   const visibleSequence = useMemo(
     () => knowledgePoints.filter((point) => levelMatches(point.meta.level, level) && (scopeIds.size === 0 || scopeIds.has(point.meta.id))),
@@ -249,7 +250,7 @@ function App() {
           {isSearch ? (
             <SearchView query={query} locale={locale} hits={hits} progressRecords={progressRecords} scopeActive={scopeIds.size > 0} onOpen={openPoint} onClearQuery={() => setQuery("")} onClearScope={() => setScopeIds(new Set())} />
           ) : isReview ? (
-            <ReviewView key={level} locale={locale} level={level} scopeIds={scopeIds} />
+            preferencesReady ? <ReviewView key={`${level}:${reviewPointId ?? "free"}`} locale={locale} level={level} scopeIds={scopeIds} pointId={reviewPointId} onFreeReview={() => navigate("/review")} onOpenPoint={openPoint} /> : <p role="status">{locale === "zh-CN" ? "正在读取复习设置……" : "Loading review preferences…"}</p>
           ) : isProgress ? (
             <ProgressView locale={locale} level={level} scopeIds={scopeIds} onOpen={openPoint} />
           ) : isSettings ? (
@@ -267,7 +268,7 @@ function App() {
         </main>
 
         {showContext && (
-          <ContextRail practiceCount={currentPoint.practice.filter(item => levelMatches(item.level ?? currentPoint.meta.level, level)).length} point={currentPoint} points={knowledgePoints} progress={progressRecords.find((record) => record.knowledgePointId === currentPoint.meta.id)} locale={locale} onOpen={openPoint} onReview={() => navigate("/review")} onSettings={() => navigate("/settings")} />
+          <ContextRail practiceCount={currentPoint.practice.filter(item => levelMatches(item.level ?? currentPoint.meta.level, level)).length} point={currentPoint} points={knowledgePoints} progress={progressRecords.find((record) => record.knowledgePointId === currentPoint.meta.id)} locale={locale} onOpen={openPoint} onReview={() => navigate(`/review?point=${encodeURIComponent(currentPoint.meta.id)}`)} onSettings={() => navigate("/settings")} />
         )}
       </div>
 

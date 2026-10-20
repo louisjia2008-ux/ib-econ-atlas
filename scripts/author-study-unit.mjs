@@ -4,7 +4,7 @@ import path from "node:path";
 import YAML from "yaml";
 import { contentRoot, readYaml } from "./content-utils.mjs";
 
-export function writeStudyUnit({ unit, topics, sections, guidance, diagramFor = {}, special = {}, prerequisites, releaseCounts }) {
+export function writeStudyUnit({ unit, topics, sections, guidance, diagramFor = {}, special = {}, prerequisites, releaseCounts, overrides = {} }) {
 const manifestPath = path.join(contentRoot, "manifest.yaml");
 const manifest = readYaml(manifestPath);
 const prefix = `u${unit}-`;
@@ -16,6 +16,7 @@ for (const [index, topic] of topics.entries()) {
   const [, sectionLabel, chapter, bookSection, page] = sections[topic.section];
   const book = topic.book ?? [chapter, bookSection, page];
   const id = topic.id;
+  const override = overrides[id];
   const diagram = special[id.split("-").slice(2).join("-")] ?? diagramFor[topic.section];
   const flashId = `${id}-flash-1`, mcqId = `${id}-mcq-1`, shortId = `${id}-short-1`;
   const paired = (value) => ({ "zh-CN": value[0], en: value[1] });
@@ -44,10 +45,11 @@ for (const [index, topic] of topics.entries()) {
       causalChain: steps[lang], misconceptions: [topic.trap[lang]],
       examApplication: [guidance[topic.section][lang]],
       summary: [topic.definition[lang], topic.trap[lang]],
+      ...override?.articles?.[lang === 0 ? "zh-CN" : "en"]?.frontmatter,
     };
     const heading = lang === 0 ? "原创情境与推导" : "Original scenario and reasoning";
     const body = `${topic.mechanism[lang].replace(/[；;]/g, lang === 0 ? "。" : ". ")}${lang === 0 ? "。" : "."}\n\n### ${heading}\n\n${topic.example[lang]}\n\n${topic.trap[lang]}\n\n${guidance[topic.section][lang]}`;
-    fs.writeFileSync(path.join(contentDirectory, file), `---\n${YAML.stringify(frontmatter)}---\n${body}\n`);
+    fs.writeFileSync(path.join(contentDirectory, file), `---\n${YAML.stringify(frontmatter)}---\n${override?.articles?.[lang === 0 ? "zh-CN" : "en"]?.body ?? body}\n`);
   }
   const correctIndex = index % 4;
   const distractors = [...topic.wrong];
@@ -87,7 +89,11 @@ for (const [index, topic] of topics.entries()) {
     meta.quizIds.push(advancedId);
     fs.writeFileSync(path.join(contentDirectory, "meta.yaml"), YAML.stringify(meta));
   }
-  fs.writeFileSync(path.join(contentRoot, "quizzes", `${id}.yaml`), YAML.stringify(practice));
+  fs.writeFileSync(path.join(contentRoot, "quizzes", `${id}.yaml`), YAML.stringify(practice.map(item => ({ ...item, ...override?.practice?.[item.id] }))));
+  if (override?.workshop) {
+    fs.mkdirSync(path.join(contentRoot, "workshops"), { recursive: true });
+    fs.writeFileSync(path.join(contentRoot, "workshops", `${id}.yaml`), YAML.stringify(override.workshop));
+  }
 }
 
 manifest.entries = [...retained, ...authoredEntries].sort((a,b)=>a.id.localeCompare(b.id));

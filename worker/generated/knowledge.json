@@ -9573,50 +9573,74 @@
       "zh-CN": {
         "id": "u4-07-tariff",
         "locale": "zh-CN",
-        "hlExtension": "原创假设：Pw=10，税 t=2，税后 Qd=90、Qs=50，进口 40，税收 80。无外部性和报复时仍有生产与消费扭曲损失。",
+        "hlExtension": "原创线性情境：Pw=10，t=2；自由贸易 Qs0=30、Qd0=110，税后 Qs1=50、Qd1=90。进口由 80 降为 40；政府税收 c=2×40=80。生产扭曲 b=½×2×(50−30)=20；消费扭曲 d=½×2×(110−90)=20；净福利变化 −40。生产者剩余增量 a=½×(30+50)×2=80；消费者剩余减少 ½×(110+90)×2=200；−200+80+80=−40。数量以单位、价格以货币/单位计，剩余以货币计。三角形与梯形算法依赖线性曲线；税收和转移不能重复相加。",
         "title": "关税与小国福利",
-        "takeaway": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
-        "definition": "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
+        "takeaway": "关税提高进口的国内成本，重新分配消费者、生产者与政府的收益；小国无外部性模型中，净损失是两个扭曲三角形。",
+        "definition": "关税是对进口商品征收的税。单位关税为每单位固定税额 t；从价关税按进口价值的一定比例征收。本页分析单位关税。",
         "causalChain": [
-          "进口成本提高",
-          "国内生产增加消费减少",
-          "政府按税后进口量征税"
+          "小国世界价 Pw 不变；单位关税提高含税进口成本",
+          "国内价升至 Pw+t，沿原有 S 增产、沿 D 减少消费",
+          "进口差额缩小，政府只对税后进口征税",
+          "剩余在消费者、生产者与政府间转移，留下 b+d 净损失"
         ],
         "misconceptions": [
-          "关税收入应乘税后进口量；它是转移，不等于净福利增加。"
+          "征税使国内价格改变，不意味着国内 D 与 S 本身移动。",
+          "税收使用税后进口量，是转移收入，不是净福利增加。",
+          "本国生产增加不直接证明总就业或净福利增加。",
+          "小国净损失结论有条件；真实大国、外部性和报复需另行分析。"
         ],
         "examApplication": [
-          "从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+          "解释题：交代模型假设，画图并用图上标记逐步解释利益相关者变化。",
+          "评价题：把真实案例用于论证，比较短期与长期、下游成本及替代措施，给出有条件判断。"
         ],
         "summary": [
-          "关税是进口税；小国单位关税把国内价从 Pw 提高至 Pw+t，降低进口并产生税收与效率损失。",
-          "关税收入应乘税后进口量；它是转移，不等于净福利增加。"
+          "税后价格 Pw+t；Qs 增、Qd 减、进口缩小。",
+          "消费者损失 a+b+c+d；生产者获得 a；政府获得 c。",
+          "净损失 b+d 来自生产与消费扭曲；条件与评价需明确。"
         ],
-        "explanation": "进口成本提高。国内生产增加消费减少。政府按税后进口量征税。\n\n### 原创情境与推导\n\n原创假设：小国对进口征单位税，国内价提高，本国生产增加、消费减少、进口缩小；政府获得税收。无外部性模型中，生产和消费扭曲带来净福利损失。税收数值计算属于 HL。\n\n关税收入应乘税后进口量；它是转移，不等于净福利增加。\n\n从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。"
+        "realWorldExample": {
+          "title": "美国钢材关税：行业收益与下游成本",
+          "sourceUrl": "https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm",
+          "observedAt": "2026-10-20",
+          "explanation": "美国 USITC 2023 年报告估计：2018–2021 年，232 条款关税使受影响钢材进口减少 24%，美国钢材价格提高 2.4%，产量提高 1.9%；使用钢铝的下游行业产量平均减少 0.6%。这是历史模型估计，不能从产量直接推断就业，也不能据此计算美国整体净福利；美国也不是本页小国模型的直接验证。"
+        },
+        "explanation": "### 先界定模型与税种\n\n单位关税是对每单位进口品征收固定金额 t；从价关税则按进口价值的一定比例征税。本页图示使用单位关税。小国不能压低世界出口价格；在仍有进口且完全传导的假设下，进口的含税成本是 Pw+t，本国同质商品的市场价也升至这一水平。这里的“小国”指不能影响世界价格，不是国土面积小。\n\n### 按价格变化推导数量，而不是移动国内供需曲线\n\n自由贸易时，消费者按世界价 Pw 购买，国内企业在这一价格供给 Qs0，消费者需求为 Qd0，差额 Qd0−Qs0 从国外进口。征税后国内价提高到 Pw+t，企业沿原有 S 曲线增加供给到 Qs1，消费者沿原有 D 曲线减少购买到 Qd1。国内偏好和生产条件没有改变，因此不应把这一步画成国内 D 或 S 移动。进口从 Qd0−Qs0 减为 Qd1−Qs1。\n\n### 谁得到什么，谁承担什么？\n\n消费者为较少的购买量支付较高价格，消费者剩余减少 a+b+c+d。国内生产者因价格提高、产量增加而获得剩余 a；政府只对税后仍然进口的商品征税，获得矩形 c。a 与 c 是本国内部的转移；把消费者损失与生产者、政府收益相加后，剩下 b+d 的净损失。\n\n生产扭曲 b：一部分本可按 Pw 进口的商品，现在由边际成本高于 Pw 的国内企业生产，额外消耗真实资源。消费扭曲 d：一部分消费者对商品的支付意愿高于 Pw，却低于含税价，原本互利的消费不再发生。两个三角形因此不是交给政府的税款。\n\n### 从图示走向有条件的评价\n\n受保护行业可能扩大生产，但使用进口投入的下游企业会承受更高成本，出口行业也可能受报复影响。短期保住的岗位、长期竞争力、政府税收和社会净福利是不同的判断对象。不能从生产者获益直接推出“整个国家获益”，也不能把本页的小国无外部性结论无条件套用到所有现实政策。\n\n如存在学习外部性或供应安全目标，应先说明具体市场失灵或政策目标，再比较有时限的保护、培训、生产支持和社会保障。大国可能影响世界价格，但贸易条件收益、报复和执行问题需要单独论证。最后应给出取决于行业、时限和替代措施的判断。"
       },
       "en": {
         "id": "u4-07-tariff",
         "locale": "en",
-        "hlExtension": "Hypothetical scenario: Pw=10, t=2, post-tariff Qd=90 and Qs=50. Imports are 40 and revenue 80. Production and consumption distortions remain even without externalities or retaliation.",
+        "hlExtension": "Original linear example: Pw=10 and t=2. Free-trade Qs0=30 and Qd0=110; post-tariff Qs1=50 and Qd1=90. Imports fall from 80 to 40; revenue c=2×40=80. Production loss b=½×2×(50−30)=20 and consumption loss d=½×2×(110−90)=20, giving net welfare change −40. Producer surplus rises by a=½×(30+50)×2=80. Consumer surplus falls by ½×(110+90)×2=200; −200+80+80=−40. Quantities are units, prices currency per unit and surplus currency. Triangle and trapezium calculations assume linear curves; avoid double-counting transfers.",
         "title": "Tariffs and small-country welfare",
-        "takeaway": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
-        "definition": "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
+        "takeaway": "A tariff reallocates surplus between consumers, producers and government; in the small-country model without externalities, two distortion triangles remain as a net loss.",
+        "definition": "A tariff is a tax on imports. A specific tariff charges a fixed amount t per unit; an ad valorem tariff charges a percentage of import value. This lesson analyses a specific tariff.",
         "causalChain": [
-          "Import costs rise",
-          "domestic production rises and consumption falls",
-          "revenue is levied on post-tariff imports"
+          "Pw stays fixed; the tariff raises landed import cost",
+          "Domestic price reaches Pw+t; move along unchanged S and D",
+          "The import gap shrinks; government taxes remaining imports",
+          "Surplus is redistributed, leaving net losses b+d"
         ],
         "misconceptions": [
-          "Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
+          "A price change does not itself shift domestic D or S.",
+          "Revenue uses post-tariff imports and is a transfer, not a net welfare gain.",
+          "More domestic output does not directly establish more aggregate jobs or welfare.",
+          "The small-country result is conditional; large-country effects, externalities and retaliation need separate analysis."
         ],
         "examApplication": [
-          "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+          "Explanation: state assumptions, draw the diagram and use its labels to explain stakeholder effects.",
+          "Evaluation: use real-world evidence, compare time horizons, downstream costs and alternatives, then reach a conditional judgement."
         ],
         "summary": [
-          "A tariff taxes imports. In a small economy a specific tariff raises domestic price from Pw to Pw+t, reduces imports and creates revenue and efficiency losses.",
-          "Use post-tariff imports for revenue; revenue is a transfer, not a net welfare gain."
+          "After the tariff: Pw+t, higher Qs, lower Qd and fewer imports.",
+          "Consumers lose a+b+c+d; producers gain a and government gains c.",
+          "Net losses b+d are production and consumption distortions; state conditions and evaluate."
         ],
-        "explanation": "Import costs rise.  domestic production rises and consumption falls.  revenue is levied on post-tariff imports.\n\n### Original scenario and reasoning\n\nHypothetical scenario: a specific import tariff raises price, increases domestic output and reduces consumption and imports. Government receives revenue. With no externalities, production and consumption distortions reduce net welfare. Numerical revenue calculations are HL.\n\nUse post-tariff imports for revenue; revenue is a transfer, not a net welfare gain.\n\nDerive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."
+        "realWorldExample": {
+          "title": "US steel tariffs: protected output and downstream costs",
+          "sourceUrl": "https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm",
+          "observedAt": "2026-10-20",
+          "explanation": "A 2023 USITC report estimated that, during 2018–2021, section 232 tariffs reduced affected steel imports by 24%, raised US steel prices by 2.4% and raised output by 1.9%. Downstream output fell by 0.6% on average. These historical estimates do not establish employment or economy-wide net welfare, and the US is not a direct test of the small-country model."
+        },
+        "explanation": "### Define the model and the tax\n\nA specific tariff charges a fixed amount t per unit imported; an ad valorem tariff charges a percentage of import value. This diagram uses a specific tariff. A small economy cannot reduce the world export price. With continued imports and full pass-through, the landed cost and competitive domestic price become Pw+t. “Small” concerns price-setting power, not geographic size.\n\n### Follow price changes along domestic curves\n\nUnder free trade, domestic producers supply Qs0 at Pw while consumers demand Qd0; imports fill Qd0−Qs0. After the tariff, the higher price encourages production along the unchanged S curve to Qs1 and reduces consumption along the unchanged D curve to Qd1. Preferences and domestic production conditions have not changed, so this is not a shift of domestic D or S. Imports contract to Qd1−Qs1.\n\n### Trace stakeholders and surplus\n\nConsumers pay more and buy less, losing surplus a+b+c+d. Domestic producers gain a as price and output rise. Government taxes only the imports that remain, receiving rectangle c. Areas a and c are domestic transfers. Adding consumer, producer and government changes leaves a net loss b+d.\n\nProduction distortion b arises when domestic units with marginal cost above Pw replace cheaper imports, using extra real resources. Consumption distortion d arises when willingness to pay exceeds Pw but is below the tariff-inclusive price, preventing otherwise beneficial consumption. Neither triangle is money collected by government.\n\n### Turn explanation into conditional evaluation\n\nProtected producers may expand, but downstream firms using the product face higher costs and exporters may face retaliation. Protected jobs, long-run competitiveness, revenue and national welfare are different objectives. Producer gains alone cannot establish national gains; the model's conditional conclusion cannot simply be imposed on every real policy.\n\nIf learning spillovers or supply security matter, identify the externality or objective and compare time-limited protection with training, targeted support and social insurance. A large economy may influence world prices, but terms-of-trade gains, retaliation and enforcement need separate analysis. Reach a judgement that depends on the industry, duration and available alternatives."
       }
     }
   },

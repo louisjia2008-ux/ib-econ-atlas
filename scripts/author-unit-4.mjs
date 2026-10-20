@@ -1,5 +1,6 @@
 import { topics, sections } from "./content-data/unit-4.mjs";
 import { writeStudyUnit } from "./author-study-unit.mjs";
+import { tariffOverrides } from "./content-data/tariff-lesson.mjs";
 const guidance = {
  "4.1": ["说明小国、同质商品和成本假设，比较总福利与分配；HL 计算先写机会成本。", "State small-country, homogeneous-good and cost assumptions; compare welfare and distribution. For HL calculations, start with opportunity costs."],
  "4.2": ["从世界价推导数量、进口、财政与福利变化，区分关税收入、配额租和补贴成本。", "Derive quantities, imports, fiscal and welfare changes from the world price; distinguish tariff revenue, quota rents and subsidy costs."],
@@ -13,6 +14,6 @@ const guidance = {
  "4.10": ["把政策与具体约束匹配，评价执行、资金、时滞、公平与可持续性，给出有条件判断。", "Match policy to constraints; evaluate implementation, finance, lags, equity and sustainability, then give a conditional judgement."],
 };
 const prerequisites = Object.fromEntries(Object.keys(sections).map(s=>[s,["u1-14-opportunity-cost"]]));
-writeStudyUnit({ unit: 4, topics, sections, guidance, prerequisites,
+writeStudyUnit({ unit: 4, topics, sections, guidance, prerequisites, overrides: tariffOverrides,
  special: { "comparative-advantage": "audit-comparative-ppc", "fixed-exchange-rate": "audit-fixed-rate", "free-trade-imports": "global-imports", "free-trade-exports": "global-exports", tariff: "global-tariff", quota: "global-quota", "production-subsidy": "global-subsidy", "floating-exchange-rate": "global-currency", "currency-demand-supply": "global-currency", "j-curve": "global-j-curve", "poverty-cycle": "global-poverty-cycle" },
  releaseCounts: { "4.1": 6, "4.2": 5, "4.3": 3, "4.4": 7, "4.5": 8, "4.6": 9, "4.7": 3, "4.8": 5, "4.9": 7, "4.10": 10 } });

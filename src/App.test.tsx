@@ -63,3 +63,20 @@ it("passes the global level to progress and resets a running review when the lev
   fireEvent.click(screen.getByRole("button", { name: "All + extension" }));
   expect([...document.querySelectorAll(".stat-grid strong")].map((element) => element.textContent)).toEqual(["1", "0", "0", "0"]);
 });
+
+it("waits for saved level preferences before starting a point-specific review", async () => {
+  await savePreferences({ locale: "en", levelFilter: "sl", aiEnabled: false });
+  renderApp("/review?point=hl");
+  expect(screen.getByRole("status").textContent).toContain("正在读取复习设置");
+  expect(screen.queryByRole("heading", { name: "Question for hl" })).toBeNull();
+  expect((await screen.findByRole("alert")).textContent).toContain("unavailable");
+});
+
+it("keeps the current-point identity in the directory and the Study action", async () => {
+  await savePreferences({ locale: "en", levelFilter: "hl", aiEnabled: false });
+  renderApp("/review?point=hl");
+  await screen.findByRole("heading", { name: "Question for hl" });
+  expect(document.querySelector("button.current")?.textContent).toContain("hl");
+  fireEvent.click(screen.getByRole("button", { name: "Study" }));
+  expect(screen.getByRole("heading", { level: 1, name: "hl" })).toBeTruthy();
+});

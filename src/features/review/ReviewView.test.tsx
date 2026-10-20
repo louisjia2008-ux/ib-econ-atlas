@@ -75,6 +75,7 @@ describe("review persistence", () => {
     await startReview("Short answer", new Set(["core-a"]));
     fireEvent.change(screen.getByRole("textbox"), { target: { value: "scarcity" } });
     fireEvent.click(screen.getByRole("button", { name: "Submit answer" }));
+    for (const checkbox of screen.getAllByRole("checkbox")) fireEvent.click(checkbox);
     fireEvent.click(screen.getByRole("button", { name: "Partial" }));
     fireEvent.click(screen.getByRole("button", { name: "Okay" }));
     await waitFor(() => expect(saveReviewResult).toHaveBeenCalledTimes(1));
@@ -118,4 +119,39 @@ it.each(["sl", "hl", "all"] as const)("uses the %s global level when building a 
     expect((await screen.findByRole("alert")).textContent).toContain("No items match");
     expect(screen.queryByRole("heading", { name: "Question for extension" })).toBeNull();
   }
+});
+
+
+it("requires review and an explicit result even with every keyword present", async () => {
+  await startReview("Short answer", new Set(["core-a"]));
+  fireEvent.change(screen.getByRole("textbox"), { target: { value: "scarcity is never a problem" } });
+  fireEvent.click(screen.getByRole("button", { name: "Submit answer" }));
+  expect(screen.getByText("100%")).toBeTruthy();
+  expect(screen.getByRole<HTMLButtonElement>("button", { name: "Correct" }).disabled).toBe(true);
+  fireEvent.click(screen.getByRole("button", { name: "Confident" }));
+  expect(saveReviewResult).not.toHaveBeenCalled();
+  for (const checkbox of screen.getAllByRole("checkbox")) fireEvent.click(checkbox);
+  expect(screen.getByRole<HTMLButtonElement>("button", { name: "Confident" }).disabled).toBe(true);
+  fireEvent.click(screen.getByRole("button", { name: "Incorrect" }));
+  fireEvent.click(screen.getAllByRole("checkbox")[0] as HTMLElement);
+  expect(screen.getByRole<HTMLButtonElement>("button", { name: "Confident" }).disabled).toBe(true);
+  fireEvent.click(screen.getAllByRole("checkbox")[0] as HTMLElement);
+  fireEvent.click(screen.getByRole("button", { name: "Incorrect" }));
+  fireEvent.click(screen.getByRole("button", { name: "Confident" }));
+  await screen.findByRole("heading", { name: "Review complete" });
+  expect(saveReviewResult).toHaveBeenCalledWith(expect.anything(), expect.objectContaining({ result: "incorrect", rating: "again", manualOverride: true }));
+});
+
+it("starts current-point practice immediately and ignores an unrelated exam scope", async () => {
+  render(<ReviewView locale="en" level="sl" scopeIds={new Set(["core-b"])} pointId="core-a" />);
+  expect(screen.getByText("1 / 3")).toBeTruthy();
+  expect(screen.getByRole("heading", { name: "Question for core-a" })).toBeTruthy();
+  expect(screen.queryByRole("heading", { name: "Start a review" })).toBeNull();
+});
+
+it.each(["missing", "extension"])("does not silently fall back to global questions for unavailable point %s", pointId => {
+  render(<ReviewView locale="en" level="sl" scopeIds={new Set()} pointId={pointId} />);
+  expect(screen.getByRole("alert").textContent).toContain("unavailable");
+  expect(screen.getByRole<HTMLButtonElement>("button", { name: "Build review session" }).disabled).toBe(true);
+  expect(screen.queryByText("1 / 3")).toBeNull();
 });

@@ -14,6 +14,10 @@ IB Econ Atlas does not require an account and does not include a project-operate
 
 This scope disappears with the browser session and is deliberately excluded from exported backups.
 
+## Workshop drafts in localStorage
+
+Drawing elements, written answers, comparison state and self-review checklists use `atlas-workshop-v1:<knowledge-point-id>`. They stay in this browser and are not sent to a model or a server. Drafts are deliberately disclosed as separate from the progress JSON backup. They survive reload and language changes. The confirmed “Clear learning data” action also removes this prefix, leaving unrelated browser storage alone.
+
 ## Stored separately on the device
 
 - the optional Worker owner access token.

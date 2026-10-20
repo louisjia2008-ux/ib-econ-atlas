@@ -15,8 +15,9 @@ This report is generated from the checked-in source content by `npm run content:
 | Multiple-choice questions | 241 |
 | Short-answer questions | 227 |
 | Total practice items | 695 |
+| Workshop exam tasks (separate from practice queue) | 3 |
 | Unique diagram assets | 33 |
-| Unique external example sources | 41 |
+| Unique external example sources | 42 |
 
 ## Coverage by syllabus section
 

@@ -82,10 +82,40 @@ export interface ShortAnswerItem extends PracticeBase {
 
 export type PracticeItem = FlashcardItem | MultipleChoiceItem | ShortAnswerItem;
 
+export interface WorkshopCriterion {
+  id: string;
+  title: LocalizedText;
+  guidance: LocalizedText;
+  feedback: LocalizedText;
+}
+
+export interface WorkshopTask {
+  id: string;
+  marks: number;
+  minutes: number;
+  level: CourseLevel;
+  title: LocalizedText;
+  prompt: LocalizedText;
+  criteria: WorkshopCriterion[];
+  modelAnswer: LocalizedText;
+  weakAnswer: LocalizedText;
+  diagnosis: LocalizedText;
+}
+
+export interface StudyWorkshop {
+  title: LocalizedText;
+  introduction: LocalizedText;
+  assumptions: LocalizedText;
+  diagram: { prompt: LocalizedText; criteria: WorkshopCriterion[] };
+  tasks: WorkshopTask[];
+  sources: Array<{ title: string; url: string }>;
+}
+
 export interface KnowledgePoint {
   meta: KnowledgePointMeta;
   content: Record<Locale, LocalizedKnowledgePoint>;
   practice: PracticeItem[];
+  workshop?: StudyWorkshop;
 }
 
 export interface ManifestEntry {

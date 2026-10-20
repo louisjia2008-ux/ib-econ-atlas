@@ -74,6 +74,7 @@ This report is generated from the checked-in source content by \`npm run content
 | Multiple-choice questions | ${practiceCounts.mcq} |
 | Short-answer questions | ${practiceCounts["short-answer"]} |
 | Total practice items | ${Object.values(practiceCounts).reduce((sum, count) => sum + count, 0)} |
+| Workshop exam tasks (separate from practice queue) | ${points.reduce((sum, point) => sum + (point.workshop?.tasks.length ?? 0), 0)} |
 | Unique diagram assets | ${diagramIds.size} |
 | Unique external example sources | ${sourceUrls.size} |
 

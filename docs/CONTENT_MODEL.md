@@ -27,7 +27,13 @@ Units 1 and 2 provide three items per point:
 - an automatically scored multiple-choice question;
 - a short-answer prompt with bilingual keyword groups, a model answer, and a visible scoring rationale.
 
-Keyword groups represent ideas rather than one exact sentence. The browser normalises case and punctuation, supports phrase alternatives, reports coverage, and preserves a user's manual correction as the final attempt result.
+Keyword groups represent ideas rather than one exact sentence. The browser normalises case and punctuation, supports phrase alternatives, reports coverage without assigning correctness. The learner checks the model answer against concepts/assumptions, causal direction and required application, then explicitly selects a result. Until all three checks and that selection are complete, no FSRS result or attempt can be saved. Vocabulary presence, including 100% coverage, cannot prove semantic correctness.
+
+## Optional learning workshop
+
+`content/workshops/<knowledge-point-id>.yaml` adds bilingual diagram prompts and review criteria, original exam-style tasks, model answers, weak-answer diagnosis and source links. Task level, indicative marks and suggested duration are explicit. `scripts/validate-content.mjs` validates both languages, unique task/criterion IDs and source links. Workshops compile into the frontend knowledge bundle; their tasks are separate from the ordinary flashcard/MCQ/short-answer queue. The optional AI Worker continues to receive only article content.
+
+The tariff article, workshop and diagram are authored in `scripts/content-data/tariff-lesson.mjs` and `tariff-diagram.mjs`, through the existing Unit 4 and global diagram writers. Regeneration preserves these additions.
 
 ## Build products
 

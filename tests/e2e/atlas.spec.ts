@@ -297,6 +297,7 @@ test("short-answer review exposes scoring, override, and persisted progress", as
   await answer.fill("这是一个不完整但可人工复核的答案。");
   await page.getByRole("button", { name: "提交答案" }).click();
   await expect(page.getByText("关键词覆盖率")).toBeVisible();
+  for (const checkbox of await page.locator(".answer-review-checks input").all()) await checkbox.check();
   await page.getByRole("button", { name: "部分正确" }).click();
   await page.getByRole("button", { name: "一般" }).click();
   await expect(page.getByText("2 / 5", { exact: true })).toBeVisible();

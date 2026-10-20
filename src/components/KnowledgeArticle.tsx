@@ -1,5 +1,6 @@
 import { Check, ChevronRight, GraduationCap, Sparkles } from "lucide-react";
 import ReactMarkdown from "react-markdown";
+import { StudyWorkshop } from "../features/workshop/StudyWorkshop";
 import { PPCExplorer } from "../features/diagrams/PPCExplorer";
 import { MicroDiagram } from "../features/diagrams/MicroDiagram";
 import { syllabusTitles as sectionTitles } from "../features/navigation/directory";
@@ -54,6 +55,7 @@ export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext, sh
         </div>
         <h1>{content.title}</h1>
         <p className="english-term">{point.content[otherLocale].title}</p>
+        {point.workshop && <button type="button" className="workshop-entry" onClick={() => document.getElementById("study-workshop")?.scrollIntoView({ behavior: "smooth" })}>{locale === "zh-CN" ? "进入关税学习工坊：画图、考试题与反馈 ↓" : "Open the tariff workshop: drawing, exam tasks and feedback ↓"}</button>}
       </header>
 
       <section className="takeaway-card" aria-labelledby="takeaway-title">
@@ -143,6 +145,8 @@ export function KnowledgeArticle({ point, locale, labels, onPrevious, onNext, sh
           {content.summary.map((item) => <li key={item}><Check size={15} /><span>{item}</span></li>)}
         </ul>
       </section>
+
+      {point.workshop && <StudyWorkshop key={point.meta.id} pointId={point.meta.id} content={point.workshop} locale={locale} showHl={showHl} />}
 
       <nav className="article-pagination" aria-label="Knowledge navigation">
         <button type="button" onClick={onPrevious} disabled={!onPrevious}><span>←</span><small>{labels.previous}</small></button>
